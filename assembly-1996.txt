@@ -1,0 +1,208 @@
+! C64 music
+
+title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Anal Overload|author:Addict/TB|position:3|webfile:c64_music/anal_overload_by_addict_tb.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Emulating Vinkuna|author:Elektro|position:4|webfile:c64_music/emulating_vinkuna_by_elektro.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Selfmade Executable|author:AMJ/Side B|position:5|webfile:c64_music/selfmade_executable_by_amj_side_b.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Orava|author:Deetsay/Panic|position:6|webfile:c64_music/orava_by_deetsay_panic.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Kao 3|author:Dr.Zoom/Atlantis|position:7|webfile:c64_music/kao_3_by_dr_zoom_atlantis.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_zardax_origo_dreamline.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:c64/grfx_music/c64asm96.zip
+
+! Amiga 64K intro
+
+title:Pure|author:Sonik Clique|position:1|sceneorg:amiga/in64/s_pure.zip|pouet:http://pouet.net/prod.php?which=2984
+title:So What?|author:Royal|position:2|sceneorg:amiga/in64/ryl_so.zip|pouet:http://pouet.net/prod.php?which=15837
+title:Japani|author:Kanisteri|position:3|pouet:http://pouet.net/prod.php?which=30982
+title:Click|author:Primary|position:4|sceneorg:amiga/in64/pmy_clic.zip|pouet:http://pouet.net/prod.php?which=15842
+title:Asm96|author:C-lous|position:5|sceneorg:amiga/in64/c_asm96.zip|pouet:http://www.pouet.net/prod.php?which=15839
+title:Murr|author:New Age|position:6|sceneorg:amiga/in64/na_murr.zip|pouet:http://pouet.net/prod.php?which=15841
+title:Kanda Bong Man|author:Wunderbaum|position:7|sceneorg:amiga/in64/wb_kbm.zip|pouet:http://pouet.net/prod.php?which=15845
+title:Ifa|author:Extend|position:8|sceneorg:amiga/in64/ext_ifa.zip|pouet:http://pouet.net/prod.php?which=15840
+title:Übergirl|author:Subspace|position:9|sceneorg:amiga/in64/sbs_uber.zip|pouet:http://pouet.net/prod.php?which=15838
+title:Nona|author:Zenon|position:10|sceneorg:amiga/in64/nona.lha|pouet:http://pouet.net/prod.php?which=11537
+title:Hit the fan|author:Sam&Roy|position:11|sceneorg:amiga/in64/sr_htf.zip|pouet:http://pouet.net/prod.php?which=15844
+
+! C64 graphics
+
+title:Herb's Shot|author:Electric/Extend|position:1
+title:Entwined|author:Mike/Byterapers|position:2
+title:Rubberslave|author:Debris/Panic|position:3
+title:Dudette|author:Deetsay/Panic|position:4
+title:Cyborg|author:Jasso/Jassoteam|position:5
+title:Smoking|author:Calamity/Laxity|position:6
+
+! PC 4K intro
+
+title:Pure Spirit|author:unknown|position:1|sceneorg:in4k/pure.zip|pouet:http://pouet.net/prod.php?which=6538
+title:Countach|author:Dave/ByTeam|position:2|sceneorg:in4k/countach.zip|pouet:http://pouet.net/prod.php?which=6706
+title:Mobilization|author:unknown|position:3|sceneorg:in4k/mobiliz.zip|pouet:http://pouet.net/prod.php?which=6735
+title:Stroke|author:Ionic/AstroideA|position:4|sceneorg:in4k/ai_strok.zip|pouet:http://pouet.net/prod.php?which=2262
+title:Chrome 2|author:TomCat/Abaddon|position:5|sceneorg:in4k/chrome2.zip|pouet:http://pouet.net/prod.php?which=6736
+title:Shorty|author:unknown|position:6|sceneorg:in4k/shorty.zip|pouet:http://pouet.net/prod.php?which=6744
+title:Chaos Overflow|author:unknown|position:7|sceneorg:in4k/chaos.zip|pouet:http://pouet.net/prod.php?which=6737
+title:Mystical|author:unknown|position:8|sceneorg:in4k/mystical.zip|pouet:http://pouet.net/prod.php?which=6745
+title:Balls|author:unknown|position:9|sceneorg:in4k/balls.zip|pouet:http://www.pouet.net/prod.php?which=1735
+title:Red Room|author:unknown|position:10|sceneorg:in4k/redroom.zip
+
+! PC demo
+
+title:Machines of Madness|author:Dubius|position:1|sceneorg:demo/machines.zip|pouet:http://pouet.net/prod.php?which=312|dtv:http://www.demoscene.tv/prod.php?id_prod=6448
+title:Toasted|author:Cubic Team|position:2|sceneorg:demo/ctstoast.zip|pouet:http://pouet.net/prod.php?which=376|dtv:http://www.demoscene.tv/prod.php?id_prod=10904
+title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:demo/vividexp.zip|pouet:http://pouet.net/prod.php?which=2167|dtv:http://www.demoscene.tv/prod.php?id_prod=13103
+title:Super Television|author:Orange|position:4|sceneorg:demo/stv.zip|pouet:http://pouet.net/prod.php?which=298|dtv:http://www.demoscene.tv/prod.php?id_prod=10103
+title:Sperm|author:Five Coders|position:5|sceneorg:demo/sperm.zip|pouet:http://pouet.net/prod.php?which=13323
+title:Daydream|author:Japotek|position:6|sceneorg:demo/daydream.zip|pouet:http://pouet.net/prod.php?which=5041
+title:Stream|author:MFX|position:7|sceneorg:demo/mfx_strm.zip|pouet:http://pouet.net/prod.php?which=1382
+title:Proton|author:Planet Artwork|position:8|sceneorg:demo/atw_prot.zip|pouet:http://pouet.net/prod.php?which=2897
+title:Ages|author:Happo|position:9|sceneorg:demo/ages.zip|pouet:http://pouet.net/prod.php?which=2934
+title:Encore 2|author:Tplom|position:10|sceneorg:demo/zencore.zip|pouet:http://www.pouet.net/prod.php?which=354
+title:Nutz|author:Hyperopia|position:11|sceneorg:demo/nutz.zip|pouet:http://pouet.net/prod.php?which=5050
+title:Sergei|author:Recreation|position:12|sceneorg:demo/rcnserge.zip|pouet:http://pouet.net/prod.php?which=6759
+title:Anxious|author:Vandals|position:13|sceneorg:demo/anxious.zip|pouet:http://pouet.net/prod.php?which=13324
+title:They will Pay|author:Borealis|position:14|sceneorg:demo/theywill.zip|pouet:http://pouet.net/prod.php?which=13325
+title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:demo/pure.zip|pouet:http://pouet.net/prod.php?which=13326
+
+! C64 demo
+
+title:Follow the sign 3|author:Byterapers|position:1|sceneorg:c64/demo/fts3.lha|pouet:http://www.pouet.net/prod.php?which=1428
+title:Nothing but code|author:Beyond Force|position:2|sceneorg:c64/demo/nothbcod.lha|pouet:http://pouet.net/prod.php?which=1734
+title:Fruits|author:Panic|position:3|sceneorg:c64/demo/fruits.lha|pouet:http://pouet.net/prod.php?which=5202
+title:Stupidity 3|author:Wrath Designs|position:4|sceneorg:c64/demo/stupidi3.lha|pouet:http://pouet.net/prod.php?which=1851
+title:Drug sixtyfour|author:Reflex|position:5|sceneorg:c64/demo/drug64.lha|pouet:http://pouet.net/prod.php?which=3162
+
+! Raytrace graphics
+
+title:unknown|author:Sami-setä/Paskasoft Prods.|position:1
+title:unknown|author:Vaapukka/Mighty Muumies|position:2
+title:unknown|author:Marvel/Future Crew|position:3
+title:unknown|author:Frank/Orange|position:4
+title:unknown|author:Serge|position:5
+title:unknown|author:Delsion/Cascada|position:6
+title:unknown|author:Reward/Complex|position:7
+title:unknown|author:Maxwell/Melon Design|position:8
+title:unknown|author:Wiggin/Nordic Vision|position:9
+title:unknown|author:Tudor/The Black Lotus|position:10
+title:unknown|author:Magna/VDC|position:11
+title:unknown|author:MMB/Bombsquad|position:12
+title:unknown|author:Thain/Sensible|position:13
+title:unknown|author:Artifex/Complex|position:14
+title:unknown|author:Slayer&Gonzo/Stetson Design|position:15
+
+! Wild
+
+title:U.F.Orb|author:Outer Space|position:1
+title:Radio Silent|author:Princess Interactive|position:2
+title:Rinistys|author:unknown|position:3|pouet:http://pouet.net/prod.php?which=4745
+title:Pure Direct|author:unknown|position:4
+title:Do PC's fly?|author:unknown|position:5
+title:Our skinjoy's rave movie 2|author:unknown|position:6
+title:Sum realtime life|author:unknown|position:7
+title:Da jormas 5 live|author:unknown|position:8
+title:Impersonator|author:unknown|position:9
+title:Scuba Ukot|author:unknown|position:10
+title:Stickman's world|author:unknown|position:11
+title:Pil|author:unknown|position:12
+title:Kukko|author:unknown|position:13
+
+! Amiga demo
+
+title:Sumea|author:Virtual Dreams|position:1|sceneorg:amiga/demo/vd_sumea.lha|pouet:http://pouet.net/prod.php?which=1154|dtv:http://www.demoscene.tv/prod.php?id_prod=10050
+title:Dim|author:Mellow Chips|position:2|sceneorg:amiga/demo/mc_dim1.lha,amiga/demo/mc_dim2.lha,amiga/demo/mc_dim3.lha,amiga/demo/mc_dim4.lha|pouet:http://pouet.net/prod.php?which=15846
+title:Goa|author:The Black Lotus|position:3|sceneorg:amiga/demo/tblgoa.lha|pouet:http://pouet.net/prod.php?which=3457|dtv:http://www.demoscene.tv/prod.php?id_prod=4606
+title:Traffic|author:Mystic|position:4|sceneorg:amiga/demo/mst_tfc.lha|pouet:http://pouet.net/prod.php?which=3944
+title:Mindabuse|author:Limited Edition|position:5|sceneorg:amiga/demo/ledma.lha,amiga/demo/ledma2.lha|pouet:http://pouet.net/prod.php?which=3949
+title:Cyberia|author:Scoopex&Bomb|position:6|sceneorg:amiga/demo/cyberia.lha|pouet:http://pouet.net/prod.php?which=2566
+title:Insane|author:Extend|position:7|sceneorg:amiga/demo/ext_insa.lha|pouet:http://pouet.net/prod.php?which=17439
+title:Showstopper|author:Cirion|position:8|sceneorg:amiga/demo/showstop.lha|pouet:http://pouet.net/prod.php?which=16134
+title:Clichés|author:Artificial People|position:9|sceneorg:amiga/demo/ap_clic.lha|pouet:http://pouet.net/prod.php?which=19041
+title:Bold|author:Banal Projects|position:10|sceneorg:amiga/demo/bold1.lha,amiga/demo/bold2.lha|pouet:http://www.pouet.net/prod.php?which=17653
+title:Gyrate|author:Wrath|position:11|sceneorg:amiga/demo/gyrate.lha|pouet:http://pouet.net/prod.php?which=5915
+
+! 4 channel music
+
+title:unknown|author:Major/Bombsquad|position:1
+title:unknown|author:Stargazer/Sonik Clique|position:2
+title:unknown|author:Azazel/The Black Lotus|position:3
+title:unknown|author:Dizzy/CNCD|position:4
+title:unknown|author:Sam&Roy|position:5
+title:unknown|author:Illusion|position:6
+title:unknown|author:Deck/SCX|position:7
+title:unknown|author:Muffler|position:8
+title:unknown|author:Bent Byte|position:9
+title:unknown|author:Mayday|position:10
+title:unknown|author:Substance|position:11
+title:unknown|author:Nike|position:12
+title:unknown|author:Andy/CNCD|position:13
+title:unknown|author:Charlie|position:14
+title:unknown|author:Breeze/Capacala|position:15
+
+! Graphics
+
+title:Babylona|author:Made/Bomb Software|position:1|webfile:graphics/babylona_by_made_bomb_software.png|sceneorg:grfx/babylona.zip
+title:Voyeur|author:Visualize/Jamm|position:2|webfile:graphics/voyeur_by_visualize_jamm.png|sceneorg:grfx/voyeur.zip
+title:Fish|author:Beast/Impulse|position:3|webfile:graphics/fish_by_beast_impulse.png|sceneorg:grfx/ims-fish.zip
+title:Wishes|author:Louie/The Black Lotus|position:4|webfile:graphics/wishes_by_louie_the_black_lotus.png|sceneorg:grfx/asm96gfx.zip
+title:Old Skool|author:Rodney/The Black Lotus|position:5|webfile:graphics/old_skool_by_rodney_the_black_lotus.png|sceneorg:grfx/asm96gfx.zip
+title:Compo picture|author:Destop/CNCD|position:6|webfile:graphics/compo_picture_by_destop_cncd.png|sceneorg:grfx/asm96gfx.zip
+title:Fable|author:Ranx/Orange|position:7|webfile:graphics/fable_by_ranx_orange.png|sceneorg:grfx/asm96gfx.zip
+title:Assy|author:Tomppa/Acid Productions|position:8|webfile:graphics/assy_by_tomppa_acid_productions.png|sceneorg:grfx/asm96gfx.zip
+title:Useless to run bitch...|author:Rendall/AstroideA^Impulse|position:9|webfile:graphics/useless_to_run_bitch_by_rendall_astroidea_impulse.png|sceneorg:grfx/ai_runbi.zip
+title:Compo picture|author:Eracore/Rebels|position:10|webfile:graphics/compo_picture_by_eracore_rebels.png|sceneorg:grfx/asm96gfx.zip
+title:And If I Fail|author:Nero/Artwork|position:11|webfile:graphics/and_if_i_fail_by_nero_artwork.png|sceneorg:grfx/asm96gfx.zip
+title:Jen|author:Wolf/Wrath Designs|position:12|webfile:graphics/jen_by_wolf_wrath_designs.png|sceneorg:grfx/asm96gfx.zip
+title:Compo picture|author:Dreamer&Fame/Nah Kolor|position:13|webfile:graphics/compo_picture_by_dreamer_fame_nah_kolor.png|sceneorg:grfx/asm96gfx.zip
+title:Compo picture|author:Eibon/Bombsquad|position:14|webfile:graphics/compo_picture_by_eibon_bombsquad.png|sceneorg:grfx/asm96gfx.zip
+title:unknown|author:Speedo|position:15
+
+! PC 64K intro
+
+title:Blind|author:Eufrosyne|position:1|sceneorg:in64/frs_blnd.zip|pouet:http://pouet.net/prod.php?which=556|dtv:http://www.demoscene.tv/prod.php?id_prod=12804
+title:Wego|author:Complex|position:2|sceneorg:in64/clx_wego.zip|pouet:http://pouet.net/prod.php?which=78
+title:Nation Zero 2|author:Jamm|position:3|sceneorg:in64/nation2.zip|pouet:http://pouet.net/prod.php?which=1367
+title:Palikka|author:Moottori|position:4|sceneorg:in64/palikka.zip|pouet:http://pouet.net/prod.php?which=4744
+title:Neutral|author:Coral|position:5|sceneorg:in64/neutral.zip|pouet:http://pouet.net/prod.php?which=13135
+title:Water|author:Spirit New Style|position:6|sceneorg:in64/water.zip|pouet:http://pouet.net/prod.php?which=6753
+title:Station Crawford|author:Paragon|position:7|sceneorg:in64/crawford.zip|pouet:http://pouet.net/prod.php?which=5051
+title:Andalucia|author:Halcyon|position:8|sceneorg:in64/alucia.zip|pouet:http://pouet.net/prod.php?which=1269
+title:'69|author:The Black Lotus|position:9|sceneorg:in64/tbl_69.zip|pouet:http://pouet.net/prod.php?which=6754
+title:Pocsolya|author:ByTeam|position:10|sceneorg:in64/pocsolya.zip|pouet:http://pouet.net/prod.php?which=5276
+title:Prelude|author:Amorphous|position:11|sceneorg:in64/prelude.zip|pouet:http://pouet.net/prod.php?which=6755
+title:Pallo|author:unknown|position:12
+title:Power Rangers|author:Cool Productions|position:13|sceneorg:in64/ranger.zip|pouet:http://pouet.net/prod.php?which=23065
+
+! Animation
+
+title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:anim/amis5000.zip|pouet:http://pouet.net/prod.php?which=6733
+title:In and out|author:Timo Kinnunen|position:2
+title:Giant bunghole in outer s.|author:Paskasoft|position:3
+title:Heroes|author:unknown|position:4
+title:Green Peace|author:Innocent/Abaddon|position:5|webfile:animation/green_peace_by_innocent_abaddon.mpeg|sceneorg:anim/green.zip|pouet:http://pouet.net/prod.php?which=32360
+title:Visitor|author:Slimy Devil/TDC|position:6
+title:Jolly Day|author:Inside|position:7
+title:Overall|author:Grunt|position:8
+title:Delmar|author:unknown|position:9
+title:Bad Dream|author:ADM&JTP|position:10
+title:Dragon Eye|author:Cascada|position:11
+title:Assault|author:Remorse|position:12
+title:Meriheli|author:unknown|position:13
+
+! Multichannel music
+
+title:unknown|author:Crux/DCC|position:1
+title:unknown|author:Prototype|position:2
+title:unknown|author:Cube/DEE|position:3
+title:unknown|author:Pauli Rämö|position:4
+title:unknown|author:Toalnkor&Scarfman|position:5
+title:unknown|author:Yzi/FIT|position:6
+title:unknown|author:Turtle/Accession|position:7
+title:unknown|author:Zake/Kosmic Free Music Found.|position:8
+title:unknown|author:Breeze/Capacala|position:9
+title:unknown|author:Zodiak/Five Musicians|position:10
+title:unknown|author:Edge/EMF|position:11
+title:unknown|author:Stargazer/Sonik Clique|position:12
+title:unknown|author:Lizardking/Triton|position:13
+title:unknown|author:Alpha/Keen Like Frogs|position:14
+title:unknown|author:Sulp/Orange|position:15

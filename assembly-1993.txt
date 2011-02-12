@@ -1,0 +1,119 @@
+! Amiga music
+
+title:unknown|author:Dizzy / Carillon & Cyberiad|position:1
+title:unknown|author:Groo / C & C|position:2
+title:unknown|author:Captain / Frantic|position:2
+title:unknown|author:Prime Premium / C & C|position:4
+title:unknown|author:Strobo / Stellar|position:5
+title:unknown|author:Uncle Sam / C & C|position:6
+title:unknown|author:Syndrome / Sonic|position:7
+title:unknown|author:Delorean / Complex|position:8
+title:unknown|author:Dean / C & C|position:9
+title:unknown|author:Galaxy / Elysion|position:10
+title:unknown|author:Nutcase / Balance|position:11
+title:unknown|author:Darra / Damones|position:12
+
+! PC intro
+
+title:Eclipse|author:EMF|position:1|sceneorg:100k/emf_ecl.zip|pouet:http://pouet.net/prod.php?which=2589
+title:Debut|author:Darkzone|position:2|sceneorg:100k/debut_dz.zip|pouet:http://www.pouet.net/prod.php?which=5055
+title:Tangle|author:Epical|position:3|sceneorg:100k/tangle.zip|pouet:http://pouet.net/prod.php?which=4097
+title:Locomotion|author:Onyx|position:4|sceneorg:100k/locom.zip|pouet:http://pouet.net/prod.php?which=9406
+title:Motion|author:Avalanche|position:5|sceneorg:100k/motion.zip|pouet:http://pouet.net/prod.php?which=5513
+title:Plan-B|author:Sonic-PC|position:6|sceneorg:100k/planb.zip|pouet:http://pouet.net/prod.php?which=8738
+title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:100k/va.zip|pouet:http://pouet.net/prod.php?which=3001
+title:Stardream|author:Surprise! prod.|position:8|sceneorg:100k/stardrea.zip|pouet:http://pouet.net/prod.php?which=2052
+title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:100k/j!p.zip|pouet:http://www.pouet.net/prod.php?which=8737
+title:Fraust|author:RatCompany|position:10
+title:Preview|author:Irresistible Works|position:11|pouet:http://pouet.net/prod.php?which=51327
+title:Urgent|author:Pentagon|position:11|sceneorg:100k/urgent.zip|pouet:http://pouet.net/prod.php?which=29652
+
+! PC music multichannel
+
+title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:mmul/icefront.zip
+title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:mmul/cant.zip
+title:Inferno|author:Pentagon|position:3
+title:Atomic II|author:Leinad / Avalanche|position:4
+title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:mmul/strshine.zip
+title:Heartbeat|author:Tonedeaf / Extreme|position:6
+title:Time running out|author:Prism / Wish|position:7
+title:Opossumi|author:Mikki / Epical|position:8
+title:Deepness|author:Funk't'ion / Paranoids|position:9
+title:Shout|author:Bloodsoaker / Wapy|position:10
+
+! Amiga graphics
+
+title:unknown|author:Hotshot / Complex|position:1
+title:unknown|author:Jugi / Complex|position:2
+title:unknown|author:Prayer / Banal Project|position:3
+title:unknown|author:D-Mage / VD|position:4
+title:unknown|author:Reward / Complex|position:5
+title:unknown|author:Wedge / Frantic|position:6
+title:unknown|author:Deo / Shrine|position:7
+title:unknown|author:Cobra / Eon|position:8
+title:unknown|author:Problen / Wizzcat|position:9
+title:unknown|author:Electric / Extend|position:10
+
+! Amiga 40k intro
+
+title:unknown|author:Stellar (code by Dweezil)|position:1|pouet:http://www.pouet.net/prod.php?which=8174
+title:unknown|author:Tsunami & Dean|position:2
+title:unknown|author:VD|position:3|pouet:http://www.pouet.net/prod.php?which=10353
+title:unknown|author:CNCD|position:3|pouet:http://www.pouet.net/prod.php?which=17122
+title:unknown|author:The Movement|position:5|pouet:http://www.pouet.net/prod.php?which=13138
+title:unknown|author:Excide|position:6
+title:unknown|author:Stellar (code by Kefeus)|position:7|pouet:http://www.pouet.net/prod.php?which=19287
+title:unknown|author:Genicide|position:8|pouet:http://www.pouet.net/prod.php?which=55060
+title:unknown|author:Chrome|position:9|pouet:http://www.pouet.net/prod.php?which=15497
+title:unknown|author:Humane|position:10|pouet:http://www.pouet.net/prod.php?which=18586
+title:unknown|author:Epsilon|position:11|pouet:http://www.pouet.net/prod.php?which=15356
+title:unknown|author:Beyond Force|position:12|pouet:http://www.pouet.net/prod.php?which=23226
+
+! PC graphics
+
+title:Ice Kingdom|author:Marvel / Future Crew|position:1
+title:Eevi|author:Delsion / Cascada|position:2
+title:A3|author:Zenjuga / Black Mind|position:3
+title:Troll|author:Pixel / Future Crew|position:4
+title:Invintro|author:Ranx / Sonic-PC|position:5
+title:Escaping from the Raytracer|author:Giems / Dark Zone|position:6
+title:W2|author:PCA / Painkiller|position:7
+title:Assyroad|author:Kapsu / Epical|position:8
+title:Dungeon|author:Mahlzahnx / Pentagon|position:9
+title:Korvmack|author:Leinad / Avalanche|position:10
+
+! Amiga demo
+
+title:Extension|author:Pygmy|position:1|pouet:http://pouet.net/prod.php?which=3038|dtv:http://www.demoscene.tv/prod.php?id_prod=3804
+title:242|author:Virtual Dreams|position:2|sceneorgvideo:./assembly93/amiga/demo/fairlight-242divx.avi|pouet:http://www.pouet.net/prod.php?which=3202|dtv:http://www.demoscene.tv/prod.php?id_prod=172
+title:Romantic Demo|author:Melon|position:3|pouet:http://pouet.net/prod.php?which=4953
+title:Amnesty|author:Vectra|position:4|pouet:http://www.pouet.net/prod.php?which=15407
+title:Hysteria|author:Analogy|position:5|pouet:http://pouet.net/prod.php?which=12000
+title:Out Of Your Mind|author:unknown|position:6
+title:BALL|author:unknown|position:7
+title:Transfusion|author:Extacy|position:8|pouet:http://pouet.net/prod.php?which=17121
+
+! PC demo
+
+title:Second Reality|author:Future Crew|position:1|sceneorg:demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:http://pouet.net/prod.php?which=63|dtv:http://www.demoscene.tv/prod.php?id_prod=9223
+title:Optic Nerve|author:Silents|position:2|sceneorg:demo/opticnrv.zip|pouet:http://pouet.net/prod.php?which=7658
+title:Elements|author:Xography|position:3|sceneorg:demo/elements.zip|pouet:http://pouet.net/prod.php?which=852
+title:Saga|author:Dust|position:4|sceneorg:demo/sagadust.zip|pouet:http://pouet.net/prod.php?which=2585
+title:Extermination|author:Extreme|position:5
+title:Fruits of Indolence|author:Virtual Visions|position:6
+title:Wasted time|author:Paranoids|position:7|sceneorg:demo/wasted.zip
+title:Obsession|author:Black Rain|position:8|sceneorg:demo/obsess.zip|pouet:http://pouet.net/prod.php?which=51323
+title:Phenomenon|author:Alphaforce|position:9|sceneorg:demo/phenom.zip
+
+! PC music 4 channel
+
+title:Sundance|author:Purple Motion / Future Crew|position:1
+title:Schwinging the Swing|author:Cybelius / Sonic-PC|position:2
+title:Teaspoon|author:Leinad / Avalanche|position:3
+title:Sounds of War|author:Tonedeaf / Extreme|position:4
+title:Pork Chop|author:Executioner|position:5
+title:Phantoms|author:JayJay / Progress|position:6|sceneorg:demo/phenom.zip
+title:Blackbird|author:Gibson / Extreme|position:7
+title:Hidden Shadows|author:Blizzard / Epical|position:8
+title:Fast Changer II|author:Mellow-D / Sonic-PC|position:9
+title:Dementic Dream|author:Dune / Humane|position:10
