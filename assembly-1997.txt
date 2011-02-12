@@ -19,18 +19,18 @@ title:Villean|author:AMJ|position:16
 
 ! Amiga 64k intro
 
-title:911|author:Limbo|position:1|pouet:http://pouet.net/prod.php?which=3678
-title:Zero-G III|author:Scoopex|position:2|pouet:http://pouet.net/prod.php?which=3524|dtv:http://www.demoscene.tv/prod.php?id_prod=12259
-title:FAT|author:Mystic|position:3|sceneorg:amiga/in64/mst-fat.lha|pouet:http://pouet.net/prod.php?which=3935
-title:With Style|author:Haujobb|position:4|pouet:http://pouet.net/prod.php?which=189
-title:The Prophecy|author:Nah Kolor|position:5|pouet:http://pouet.net/prod.php?which=4896
+title:911|author:Limbo|position:1|pouet:3678
+title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:12259
+title:FAT|author:Mystic|position:3|sceneorg:amiga/in64/mst-fat.lha|pouet:3935
+title:With Style|author:Haujobb|position:4|pouet:189
+title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
 title:Memories of Fog|author:Radio|position:6
 title:Touche|author:Da Jormas|position:7
 
 ! Java demo
 
-title:Javademo Ankka|author:Five Coders|position:1|pouet:http://pouet.net/prod.php?which=6569
-title:Super|author:Ghetto Broz|position:2|pouet:http://pouet.net/prod.php?which=6572
+title:Javademo Ankka|author:Five Coders|position:1|pouet:6569
+title:Super|author:Ghetto Broz|position:2|pouet:6572
 title:The levels of Insight|author:dk-scene|position:3
 title:Javamiga|author:dCS|position:4
 
@@ -47,24 +47,24 @@ title:Unnamed|author:Jer/Panic|position:8
 
 ! PC 4k intro
 
-title:Helium|author:Viznut/pWp|position:1|sceneorg:in4k/helium.zip|pouet:http://www.pouet.net/prod.php?which=3702
-title:AXE|author:Cyber/Reflection|position:2|sceneorg:in4k/axe.zip|pouet:http://pouet.net/prod.php?which=6609
+title:Helium|author:Viznut/pWp|position:1|sceneorg:in4k/helium.zip|pouet:3702
+title:AXE|author:Cyber/Reflection|position:2|sceneorg:in4k/axe.zip|pouet:6609
 title:eMOTION|author:NoxE|position:3
-title:Recurse|author:Snooky/Yodel|position:4|sceneorg:in4k/ydl_recu.zip|pouet:http://pouet.net/prod.php?which=3015
+title:Recurse|author:Snooky/Yodel|position:4|sceneorg:in4k/ydl_recu.zip|pouet:3015
 title:Nirvana|author:SounDemoN|position:5
-title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:in4k/bw-retr.zip|pouet:http://pouet.net/prod.php?which=14928
-title:Cubes|author:NySTuL|position:7|sceneorg:in4k/cubes.zip|pouet:http://pouet.net/prod.php?which=14927
-title:Nothing|author:Virtual Eagle|position:8|sceneorg:in4k/nothing.zip|pouet:http://pouet.net/prod.php?which=14926
+title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:in4k/bw-retr.zip|pouet:14928
+title:Cubes|author:NySTuL|position:7|sceneorg:in4k/cubes.zip|pouet:14927
+title:Nothing|author:Virtual Eagle|position:8|sceneorg:in4k/nothing.zip|pouet:14926
 
 ! PC win95 demo
 
-title:My Love|author:JapoTek|position:1|pouet:http://pouet.net/prod.php?which=11572
+title:My Love|author:JapoTek|position:1|pouet:11572
 
 ! C64 demo
 
-title:Speedway|author:Panic|position:1|pouet:http://pouet.net/prod.php?which=1691
-title:O-Tech People|author:Active|position:2|pouet:http://pouet.net/prod.php?which=1672
-title:3D Highlights|author:Lepsi Developments|position:3|pouet:http://pouet.net/prod.php?which=1685
+title:Speedway|author:Panic|position:1|pouet:1691
+title:O-Tech People|author:Active|position:2|pouet:1672
+title:3D Highlights|author:Lepsi Developments|position:3|pouet:1685
 
 ! Raytrace graphics
 
@@ -97,10 +97,10 @@ title:Coward|author:2nd Gen|position:8
 
 ! Amiga demo
 
-title:Pulse|author:Nerve Axis :)|position:1|pouet:http://pouet.net/prod.php?which=195|dtv:http://www.demoscene.tv/prod.php?id_prod=8437
-title:Zoo|author:Puzzle|position:2|pouet:http://pouet.net/prod.php?which=51429
-title:Casting|author:Embassy|position:3|pouet:http://pouet.net/prod.php?which=6675
-title:Zoom|author:Anadune|position:4|pouet:http://pouet.net/prod.php?which=3811
+title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:8437
+title:Zoo|author:Puzzle|position:2|pouet:51429
+title:Casting|author:Embassy|position:3|pouet:6675
+title:Zoom|author:Anadune|position:4|pouet:3811
 title:Timeout|author:C-lous/Haujobb/LED & Co|position:5
 
 ! Animation
@@ -153,31 +153,31 @@ title:Fairy|author:Avocado/Lumen|position:15
 ! PC demo
 
 title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:demo/boostfin.zip
-title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:demo/markku.zip|pouet:http://pouet.net/prod.php?which=86|dtv:http://www.demoscene.tv/prod.php?id_prod=12474
-title:Mindtrap|author:Trauma|position:3|sceneorg:demo/mindtrap.zip|pouet:http://pouet.net/prod.php?which=474
-title:Insects|author:Coma|position:4|sceneorg:demo/cominsct.zip|pouet:http://pouet.net/prod.php?which=1138
-title:Travelling|author:Cryonics|position:5|sceneorg:demo/crs-trvl.zip|pouet:http://pouet.net/prod.php?which=5340
-title:Seven|author:Immortals|position:6|sceneorg:demo/seven.zip|pouet:http://pouet.net/prod.php?which=12695
-title:Agent Orange|author:Orange|position:7|sceneorg:demo/agento.arj|pouet:http://pouet.net/prod.php?which=2522
-title:I NEED a beer|author:TPOLM|position:8|sceneorg:demo/yie.zip|pouet:http://www.pouet.net/prod.php?which=5040
-title:High Deeps|author:Core Image|position:9|pouet:http://pouet.net/prod.php?which=14925
-title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:http://pouet.net/prod.php?which=802
-title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:demo/alexandr.zip|pouet:http://pouet.net/prod.php?which=2543
-title:Resurrection Now|author:Jamm|position:12|sceneorg:demo/resnow.zip|pouet:http://pouet.net/prod.php?which=6732
-title:7G|author:Sense|position:13|sceneorg:demo/sns_7gfn.zip|pouet:http://pouet.net/prod.php?which=1051
-title:Splendid|author:Excused|position:14|sceneorg:demo/exc_spld.zip|pouet:http://pouet.net/prod.php?which=2936
-title:Retro|author:Cubic|position:15|sceneorg:demo/ctsretro.zip|pouet:http://pouet.net/prod.php?which=1503
+title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:demo/markku.zip|pouet:86|dtv:12474
+title:Mindtrap|author:Trauma|position:3|sceneorg:demo/mindtrap.zip|pouet:474
+title:Insects|author:Coma|position:4|sceneorg:demo/cominsct.zip|pouet:1138
+title:Travelling|author:Cryonics|position:5|sceneorg:demo/crs-trvl.zip|pouet:5340
+title:Seven|author:Immortals|position:6|sceneorg:demo/seven.zip|pouet:12695
+title:Agent Orange|author:Orange|position:7|sceneorg:demo/agento.arj|pouet:2522
+title:I NEED a beer|author:TPOLM|position:8|sceneorg:demo/yie.zip|pouet:5040
+title:High Deeps|author:Core Image|position:9|pouet:14925
+title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:802
+title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:demo/alexandr.zip|pouet:2543
+title:Resurrection Now|author:Jamm|position:12|sceneorg:demo/resnow.zip|pouet:6732
+title:7G|author:Sense|position:13|sceneorg:demo/sns_7gfn.zip|pouet:1051
+title:Splendid|author:Excused|position:14|sceneorg:demo/exc_spld.zip|pouet:2936
+title:Retro|author:Cubic|position:15|sceneorg:demo/ctsretro.zip|pouet:1503
 
 ! PC 64k intro
 
-title:Mainstream|author:Moottori|position:1|sceneorg:in64/m_stream.zip|pouet:http://pouet.net/prod.php?which=2189
-title:Greble|author:Recreation|position:2|sceneorg:in64/rcn-grbl.zip|pouet:http://pouet.net/prod.php?which=6610
-title:Dislocated|author:Bandwagon|position:3|sceneorg:in64/bw-disl.zip|pouet:http://pouet.net/prod.php?which=5529
-title:13|author:MFX|position:4|sceneorg:in64/mfx_13.zip|pouet:http://pouet.net/prod.php?which=2518
-title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:in64/jlantani.zip|pouet:http://pouet.net/prod.php?which=6513
-title:Black Silk|author:Analogue|position:6|sceneorg:in64/black.arj|pouet:http://pouet.net/prod.php?which=7993
-title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:in64/jest.zip|pouet:http://www.pouet.net/prod.php?which=2188
-title:Noblesse|author:Amable|position:8|sceneorg:in64/amb_nobl.zip|pouet:http://pouet.net/prod.php?which=1258
+title:Mainstream|author:Moottori|position:1|sceneorg:in64/m_stream.zip|pouet:2189
+title:Greble|author:Recreation|position:2|sceneorg:in64/rcn-grbl.zip|pouet:6610
+title:Dislocated|author:Bandwagon|position:3|sceneorg:in64/bw-disl.zip|pouet:5529
+title:13|author:MFX|position:4|sceneorg:in64/mfx_13.zip|pouet:2518
+title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:in64/jlantani.zip|pouet:6513
+title:Black Silk|author:Analogue|position:6|sceneorg:in64/black.arj|pouet:7993
+title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:in64/jest.zip|pouet:2188
+title:Noblesse|author:Amable|position:8|sceneorg:in64/amb_nobl.zip|pouet:1258
 
 ! Multichannel music
 

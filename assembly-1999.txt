@@ -10,20 +10,20 @@ title:Jensomania|author:amj|position:7|sceneorg:c64/music/jensoman.zip
 
 ! Amiga 64k intro
 
-title:Älä ota sit vakavasti|author:da jormas!|position:1|sceneorg:amiga/in64/l_ota_si.zip|pouet:http://pouet.net/prod.php?which=4518
-title:Push|author:Extreme|position:2|sceneorg:amiga/in64/push_by_.zip|pouet:http://pouet.net/prod.php?which=1936
-title:Sparkling blue light|author:Spaceballs|position:3|sceneorg:amiga/in64/sparklin.zip|pouet:http://pouet.net/prod.php?which=3512|dtv:http://www.demoscene.tv/prod.php?id_prod=9747
-title:Pulsar|author:Scoopex|position:4|sceneorg:amiga/in64/pulsar_b.zip|pouet:http://pouet.net/prod.php?which=1347
-title:Kangooroa or something|author:bus|position:5|sceneorg:amiga/in64/kangooro.zip|pouet:http://pouet.net/prod.php?which=7741
-title:HC-DC10|author:Spedes|position:6|sceneorg:amiga/in64/hcdc10_b.zip|pouet:http://pouet.net/prod.php?which=12669
-title:wx-co123|author:replay|position:7|sceneorg:amiga/in64/wxco123_.zip|pouet:http://pouet.net/prod.php?which=12314
-title:G4|author:- Rock|position:8|sceneorg:amiga/in64/g4_by___.zip|pouet:http://pouet.net/prod.php?which=24899
+title:Älä ota sit vakavasti|author:da jormas!|position:1|sceneorg:amiga/in64/l_ota_si.zip|pouet:4518
+title:Push|author:Extreme|position:2|sceneorg:amiga/in64/push_by_.zip|pouet:1936
+title:Sparkling blue light|author:Spaceballs|position:3|sceneorg:amiga/in64/sparklin.zip|pouet:3512|dtv:9747
+title:Pulsar|author:Scoopex|position:4|sceneorg:amiga/in64/pulsar_b.zip|pouet:1347
+title:Kangooroa or something|author:bus|position:5|sceneorg:amiga/in64/kangooro.zip|pouet:7741
+title:HC-DC10|author:Spedes|position:6|sceneorg:amiga/in64/hcdc10_b.zip|pouet:12669
+title:wx-co123|author:replay|position:7|sceneorg:amiga/in64/wxco123_.zip|pouet:12314
+title:G4|author:- Rock|position:8|sceneorg:amiga/in64/g4_by___.zip|pouet:24899
 
 ! Java demo
 
-title:I|author:Yodel|position:1|sceneorg:java/i_by_yod.zip|pouet:http://pouet.net/prod.php?which=3016
-title:cyboman 2|author:komplex|position:2|sceneorg:java/cyboman_.zip|pouet:http://pouet.net/prod.php?which=887
-title:Lain|author:OtakInc|position:3|sceneorg:java/lain_by_.zip|pouet:http://pouet.net/prod.php?which=6387
+title:I|author:Yodel|position:1|sceneorg:java/i_by_yod.zip|pouet:3016
+title:cyboman 2|author:komplex|position:2|sceneorg:java/cyboman_.zip|pouet:887
+title:Lain|author:OtakInc|position:3|sceneorg:java/lain_by_.zip|pouet:6387
 
 ! MP3 music
 
@@ -44,10 +44,10 @@ title:phlatys|author:S.Louhela|position:14|webfile:mp3_music/phlatys_by_s_louhel
 
 ! Amiga 4k intro
 
-title:Gap|author:Extreme|position:1|sceneorg:amiga/in4k/gap_by_e.zip|pouet:http://pouet.net/prod.php?which=9522
-title:Pukamat|author:Tundrah|position:2|sceneorg:amiga/in4k/pukamat_.zip|pouet:http://pouet.net/prod.php?which=16216
-title:land|author:sabaoth|position:3|sceneorg:amiga/in4k/land_by_.zip|pouet:http://pouet.net/prod.php?which=16217
-title:Etic|author:Digital|position:4|sceneorg:amiga/in4k/etic_by_.zip|pouet:http://pouet.net/prod.php?which=16219
+title:Gap|author:Extreme|position:1|sceneorg:amiga/in4k/gap_by_e.zip|pouet:9522
+title:Pukamat|author:Tundrah|position:2|sceneorg:amiga/in4k/pukamat_.zip|pouet:16216
+title:land|author:sabaoth|position:3|sceneorg:amiga/in4k/land_by_.zip|pouet:16217
+title:Etic|author:Digital|position:4|sceneorg:amiga/in4k/etic_by_.zip|pouet:16219
 
 ! C64 graphics
 
@@ -76,32 +76,32 @@ title:Likwit Motha|author:Repe|position:15|webfile:tiny_music/likwit_motha_by_re
 
 ! PC 4k intro
 
-title:matriisi|author:mooze|position:1|sceneorg:in4k/matriisi.zip|pouet:http://pouet.net/prod.php?which=4483
-title:Orinoco|author:Digimind|position:2|sceneorg:in4k/orinoco_.zip|pouet:http://pouet.net/prod.php?which=6370
-title:Rasia|author:yobi|position:3|sceneorg:in4k/rasia_by.zip|pouet:http://pouet.net/prod.php?which=6371
-title:Radiant|author:Juippi/Tempo & Dazed prod.|position:4|sceneorg:in4k/radiant_.zip|pouet:http://pouet.net/prod.php?which=24900
-title:Fileid.diz|author:the Lost Spaceman of Refinition|position:5|sceneorg:in4k/fileiddi.zip|pouet:http://pouet.net/prod.php?which=14251
-title:Pastel 4kb|author:vdg / Damage|position:6|sceneorg:in4k/pastel_4.zip|pouet:http://pouet.net/prod.php?which=4060
-title:The Answer|author:hiteck|position:7|sceneorg:in4k/the_answ.zip|pouet:http://pouet.net/prod.php?which=6372
-title:Nature|author:Itchi / THP|position:8|sceneorg:in4k/nature_b.zip|pouet:http://pouet.net/prod.php?which=6373
-title:Wand of Wishing|author:SounDemoN|position:9|sceneorg:in4k/wand_of_.zip|pouet:http://pouet.net/prod.php?which=14252
-title:Save World|author:Juce|position:10|sceneorg:in4k/save_wor.zip|pouet:http://pouet.net/prod.php?which=14253
-title:Invalider|author:Dodge / Mystic Etanat|position:11|sceneorg:in4k/invalide.zip|pouet:http://pouet.net/prod.php?which=14254
-title:Phygo|author:Viznut/pwp|position:12|sceneorg:in4k/phygo_by.zip|pouet:http://pouet.net/prod.php?which=14255
+title:matriisi|author:mooze|position:1|sceneorg:in4k/matriisi.zip|pouet:4483
+title:Orinoco|author:Digimind|position:2|sceneorg:in4k/orinoco_.zip|pouet:6370
+title:Rasia|author:yobi|position:3|sceneorg:in4k/rasia_by.zip|pouet:6371
+title:Radiant|author:Juippi/Tempo & Dazed prod.|position:4|sceneorg:in4k/radiant_.zip|pouet:24900
+title:Fileid.diz|author:the Lost Spaceman of Refinition|position:5|sceneorg:in4k/fileiddi.zip|pouet:14251
+title:Pastel 4kb|author:vdg / Damage|position:6|sceneorg:in4k/pastel_4.zip|pouet:4060
+title:The Answer|author:hiteck|position:7|sceneorg:in4k/the_answ.zip|pouet:6372
+title:Nature|author:Itchi / THP|position:8|sceneorg:in4k/nature_b.zip|pouet:6373
+title:Wand of Wishing|author:SounDemoN|position:9|sceneorg:in4k/wand_of_.zip|pouet:14252
+title:Save World|author:Juce|position:10|sceneorg:in4k/save_wor.zip|pouet:14253
+title:Invalider|author:Dodge / Mystic Etanat|position:11|sceneorg:in4k/invalide.zip|pouet:14254
+title:Phygo|author:Viznut/pwp|position:12|sceneorg:in4k/phygo_by.zip|pouet:14255
 
 ! PC non-accelerated demo
 
-title:Gasoline|author:recreation|position:1|media:./.oldies-goldies/compos/ASM99 PC non accel - 1st - Gasoline by recreation_h264_1856kbit.mp4|sceneorg:demo/no-accel/gasoline.zip|pouet:http://pouet.net/prod.php?which=1611
-title:Cod Liver Oil|author:Damones|position:2|sceneorg:demo/no-accel/cod_live.zip|pouet:http://pouet.net/prod.php?which=2416
-title:Euphoria|author:Pyrotech|position:3|media:./.oldies-goldies/compos/ASM99 PC non accel - 3rd - Euphoria by Pyrotech_h264_1856kbit.mp4|sceneorg:demo/no-accel/euphoria.zip|pouet:http://pouet.net/prod.php?which=13349
-title:pyy|author:kooma & doomsday & pyy|position:4|media:./.oldies-goldies/compos/ASM99 PC non accel - 4th - pyy by kooma,doomsday,pyy_h264_1856kbit.mp4|sceneorg:demo/no-accel/pyy_by_k.zip|pouet:http://pouet.net/prod.php?which=1116
-title:Deepnes - Delphium 2|author:Essex...|position:5|media:./.oldies-goldies/compos/ASM99 PC non accel - 5th - Deepnes Delphium 2 by Essex_h264_1856kbit.mp4|sceneorg:demo/no-accel/deepnes_.zip|pouet:http://pouet.net/prod.php?which=13348
-title:transcendental|author:aurum|position:6|media:./.oldies-goldies/compos/ASM99 PC non accel - 6th - transcendental by aurum_h264_1856kbit.mp4|sceneorg:demo/no-accel/transcen.zip|pouet:http://pouet.net/prod.php?which=3505
-title:Viping|author:NoID|position:7|media:./.oldies-goldies/compos/ASM99 PC non accel - 7th - Viping by NoID_h264_1856kbit.mp4|sceneorg:demo/no-accel/viping_b.zip|pouet:http://pouet.net/prod.php?which=14246
-title:Idle|author:Addiction|position:8|media:./.oldies-goldies/compos/ASM99 PC non accel - 8th - Idle by Addiction_h264_1856kbit.mp4|sceneorg:demo/no-accel/idle_by_.zip|pouet:http://pouet.net/prod.php?which=14248
-title:Anataus 6|author:Fit|position:9|media:./.oldies-goldies/compos/ASM99 PC non accel - 9th - Anataus 6 by Fit_h264_1856kbit.mp4|sceneorg:demo/no-accel/anataus_.zip|pouet:http://pouet.net/prod.php?which=5372
-title:Life|author:The Moose Brothers|position:10|media:./.oldies-goldies/compos/ASM99 PC non accel - 10th - Life by The Moose Brothers_h264_1856kbit.mp4|sceneorg:demo/no-accel/life_by_.zip|pouet:http://pouet.net/prod.php?which=14249
-title:The Message|author:Php|position:11|media:./.oldies-goldies/compos/ASM99 PC non accel - 11th - The Message by Php_h264_1856kbit.mp4|sceneorg:demo/no-accel/the_mess.zip|pouet:http://pouet.net/prod.php?which=14247
+title:Gasoline|author:recreation|position:1|media:./.oldies-goldies/compos/ASM99 PC non accel - 1st - Gasoline by recreation_h264_1856kbit.mp4|sceneorg:demo/no-accel/gasoline.zip|pouet:1611
+title:Cod Liver Oil|author:Damones|position:2|sceneorg:demo/no-accel/cod_live.zip|pouet:2416
+title:Euphoria|author:Pyrotech|position:3|media:./.oldies-goldies/compos/ASM99 PC non accel - 3rd - Euphoria by Pyrotech_h264_1856kbit.mp4|sceneorg:demo/no-accel/euphoria.zip|pouet:13349
+title:pyy|author:kooma & doomsday & pyy|position:4|media:./.oldies-goldies/compos/ASM99 PC non accel - 4th - pyy by kooma,doomsday,pyy_h264_1856kbit.mp4|sceneorg:demo/no-accel/pyy_by_k.zip|pouet:1116
+title:Deepnes - Delphium 2|author:Essex...|position:5|media:./.oldies-goldies/compos/ASM99 PC non accel - 5th - Deepnes Delphium 2 by Essex_h264_1856kbit.mp4|sceneorg:demo/no-accel/deepnes_.zip|pouet:13348
+title:transcendental|author:aurum|position:6|media:./.oldies-goldies/compos/ASM99 PC non accel - 6th - transcendental by aurum_h264_1856kbit.mp4|sceneorg:demo/no-accel/transcen.zip|pouet:3505
+title:Viping|author:NoID|position:7|media:./.oldies-goldies/compos/ASM99 PC non accel - 7th - Viping by NoID_h264_1856kbit.mp4|sceneorg:demo/no-accel/viping_b.zip|pouet:14246
+title:Idle|author:Addiction|position:8|media:./.oldies-goldies/compos/ASM99 PC non accel - 8th - Idle by Addiction_h264_1856kbit.mp4|sceneorg:demo/no-accel/idle_by_.zip|pouet:14248
+title:Anataus 6|author:Fit|position:9|media:./.oldies-goldies/compos/ASM99 PC non accel - 9th - Anataus 6 by Fit_h264_1856kbit.mp4|sceneorg:demo/no-accel/anataus_.zip|pouet:5372
+title:Life|author:The Moose Brothers|position:10|media:./.oldies-goldies/compos/ASM99 PC non accel - 10th - Life by The Moose Brothers_h264_1856kbit.mp4|sceneorg:demo/no-accel/life_by_.zip|pouet:14249
+title:The Message|author:Php|position:11|media:./.oldies-goldies/compos/ASM99 PC non accel - 11th - The Message by Php_h264_1856kbit.mp4|sceneorg:demo/no-accel/the_mess.zip|pouet:14247
 
 ! Raytrace graphics
 
@@ -127,7 +127,7 @@ title:Underground|author:kulve|position:16|webfile:raytrace_graphics/underground
 title:Asminator|author:the mans|position:1|media:./.oldies-goldies/compos/ASM99 Wild - 1st - Asminator by the mans_h264_1856kbit.mp4
 title:Bongfuck MCs - Uprocking Bitch|author:mankeli|position:2|media:./.oldies-goldies/compos/ASM99 Wild - 2nd - Bongfuck MCs - Uprocking Bith by mankeli_h264_1856kbit.mp4
 title:Nosehelper|author:Pojat Naukkarisen|position:3|media:./.oldies-goldies/compos/ASM99 Wild - 3rd - Nosehelper by Pojat Naukkarisen_h264_1856kbit.mp4
-title:Pekka ja Kontakti|author:Yskä & Nakki|position:4|webfile:wild_demo/pekka_ja_kontakti_by_ysk_nakki.mpg|media:./.oldies-goldies/compos/ASM99 Wild - 4th - Pekka ja Kontakti by Yskä,Nakki_h264_1856kbit.mp4|sceneorg:wild/pekka.mpg|pouet:http://pouet.net/prod.php?which=4064
+title:Pekka ja Kontakti|author:Yskä & Nakki|position:4|webfile:wild_demo/pekka_ja_kontakti_by_ysk_nakki.mpg|media:./.oldies-goldies/compos/ASM99 Wild - 4th - Pekka ja Kontakti by Yskä,Nakki_h264_1856kbit.mp4|sceneorg:wild/pekka.mpg|pouet:4064
 title:DJ Valdemar feat. Pertti Olavi Pasanen|author:Killerloop and Ferrara of Dual Crew^Shining / phObos|position:5|media:./.oldies-goldies/compos/ASM99 Wild - 5th - DJ Valdemar by Killerloop et al_h264_1856kbit.mp4
 title:Screen 1998|author:VJ Micko & VJ Uzi|position:6|media:./.oldies-goldies/compos/ASM99 Wild - 6th - Screen 1998 by VJ Micko, VJ Uzi_h264_1856kbit.mp4
 title:Ranko|author:Not Productions|position:7|media:./.oldies-goldies/compos/ASM99 Wild - 7th - Ranko by Not Productions_h264_1856kbit.mp4
@@ -138,52 +138,52 @@ title:Stargate|author:Raimo Suulasnaama|position:11|media:./.oldies-goldies/comp
 
 ! Amiga demo
 
-title:Beats|author:Loveboat|position:1|sceneorg:amiga/demo/beats_by.zip|pouet:http://pouet.net/prod.php?which=3448|dtv:http://www.demoscene.tv/prod.php?id_prod=1268
-title:Klone|author:Dual crew shining|position:2|sceneorg:amiga/demo/klone_by.zip|pouet:http://pouet.net/prod.php?which=1562|dtv:http://www.demoscene.tv/prod.php?id_prod=5919
-title:Megademo|author:Mystic|position:3|sceneorg:amiga/demo/megademo.zip|pouet:http://pouet.net/prod.php?which=3937
-title:Donut fetish|author:Yoman3|position:4|sceneorg:amiga/demo/donut_fe.zip|pouet:http://pouet.net/prod.php?which=16215
+title:Beats|author:Loveboat|position:1|sceneorg:amiga/demo/beats_by.zip|pouet:3448|dtv:1268
+title:Klone|author:Dual crew shining|position:2|sceneorg:amiga/demo/klone_by.zip|pouet:1562|dtv:5919
+title:Megademo|author:Mystic|position:3|sceneorg:amiga/demo/megademo.zip|pouet:3937
+title:Donut fetish|author:Yoman3|position:4|sceneorg:amiga/demo/donut_fe.zip|pouet:16215
 
 ! Animation
 
-title:Grumps|author:jarno|position:1|webfile:animation/grumps_by_jarno.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 1st - Grumps by jarno_h264_1856kbit.mp4|sceneorg:anim/grumps_b.zip|pouet:http://pouet.net/prod.php?which=9557
-title:Paradise|author:720 and Bluecow|position:2|webfile:animation/paradise_by_720_and_bluecow.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 2nd - Paradise by 729 and Bluecow_h264_1856kbit.mp4|sceneorg:anim/paradise.zip|pouet:http://pouet.net/prod.php?which=28306|dtv:http://www.demoscene.tv/prod.php?id_prod=12342
-title:Drugwars|author:Vortex|position:3|webfile:animation/drugwars_by_vortex.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 3rd - Drugwars by Vortex_h264_1856kbit.mp4|sceneorg:anim/drugwars.zip|pouet:http://pouet.net/prod.php?which=28307
-title:Kvakzilla|author:fragment|position:4|webfile:animation/kvakzilla_by_fragment.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 4th - Kvakzilla by fragment_h264_1856kbit.mp4|sceneorg:anim/kvakzill.zip|pouet:http://pouet.net/prod.php?which=7733
-title:itsenäisyyspäivä|author:muumiperhe|position:5|webfile:animation/itsenisyyspiv_by_muumiperhe.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 5th - Itsenäisyyspäivä by Muumiperhe_h264_1856kbit.mp4|sceneorg:anim/itsenisy.zip|pouet:http://pouet.net/prod.php?which=28308
-title:Blue Infection|author:Joint Project|position:6|webfile:animation/blue_infection_by_joint_project.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 6th - Blue Infection by Joint Project_h264_1856kbit.mp4|sceneorg:anim/blue_inf.zip|pouet:http://pouet.net/prod.php?which=28303
-title:Area 61|author:CGI|position:7|webfile:animation/area_61_by_cgi.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 7th - Area 61 by CGI_h264_1856kbit.mp4|sceneorg:anim/area_61_.zip|pouet:http://pouet.net/prod.php?which=28309
-title:Nachspielzeit|author:Vincent Vega|position:8|webfile:animation/nachspielzeit_by_vincent_vega.avi|media:./.oldies-goldies/compos/ASM99 Animation - 8th - Nachspielzeit by Vincent Vega_h264_1856kbit.mp4|sceneorg:anim/nachspie.zip|pouet:http://pouet.net/prod.php?which=28310
-title:Lyijynsyöjät|author:marzu|position:9|webfile:animation/lyijynsyjt_by_marzu.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 9th - Lyijynsyöjät by marzu_h264_1856kbit.mp4|sceneorg:anim/lyijynsy.zip|pouet:http://pouet.net/prod.php?which=28311
-title:2028AD|author:Data2|position:10|webfile:animation/2028ad_by_data2.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 10th - 2028AD by Data2_h264_1856kbit.mp4|sceneorg:anim/2028ad_b.zip|pouet:http://pouet.net/prod.php?which=28304
-title:Too Real|author:MdS|position:11|webfile:animation/too_real_by_mds.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 11th - Too Real by MdS_h264_1856kbit.mp4|sceneorg:anim/too_real.zip|pouet:http://pouet.net/prod.php?which=28312
-title:Joulupukki vs Pakkasukko|author:HammerI|position:12|webfile:animation/joulupukki_vs_pakkasukko_by_hammeri.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 12th - Joulupukki vs Pakkasukko by HammerI_h264_1856kbit.mp4|sceneorg:anim/joulupuk.zip|pouet:http://pouet.net/prod.php?which=28313
-title:Gaagel|author:Mage The Man|position:13|webfile:animation/gaagel_by_mage_the_man.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 13th - Gaagel by Mage The Man_h264_1856kbit.mp4|sceneorg:anim/gaagel_b.zip|pouet:http://pouet.net/prod.php?which=28314
-title:A Bugs Love|author:Edward|position:14|webfile:animation/a_bugs_love_by_edward.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 14th - A Bugs Love by Edward_h264_1856kbit.mp4|sceneorg:anim/a_bugs_l.zip|pouet:http://pouet.net/prod.php?which=28305
-title:The Suicidal Stickman|author:Raynet and Squirrel|position:15|webfile:animation/the_suicidal_stickman_by_raynet_and_squirrel.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 15th - The Suicidal Stickman by Raynet and Squirrel_h264_1856kbit.mp4|sceneorg:anim/the_suic.zip|pouet:http://pouet.net/prod.php?which=28315
+title:Grumps|author:jarno|position:1|webfile:animation/grumps_by_jarno.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 1st - Grumps by jarno_h264_1856kbit.mp4|sceneorg:anim/grumps_b.zip|pouet:9557
+title:Paradise|author:720 and Bluecow|position:2|webfile:animation/paradise_by_720_and_bluecow.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 2nd - Paradise by 729 and Bluecow_h264_1856kbit.mp4|sceneorg:anim/paradise.zip|pouet:28306|dtv:12342
+title:Drugwars|author:Vortex|position:3|webfile:animation/drugwars_by_vortex.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 3rd - Drugwars by Vortex_h264_1856kbit.mp4|sceneorg:anim/drugwars.zip|pouet:28307
+title:Kvakzilla|author:fragment|position:4|webfile:animation/kvakzilla_by_fragment.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 4th - Kvakzilla by fragment_h264_1856kbit.mp4|sceneorg:anim/kvakzill.zip|pouet:7733
+title:itsenäisyyspäivä|author:muumiperhe|position:5|webfile:animation/itsenisyyspiv_by_muumiperhe.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 5th - Itsenäisyyspäivä by Muumiperhe_h264_1856kbit.mp4|sceneorg:anim/itsenisy.zip|pouet:28308
+title:Blue Infection|author:Joint Project|position:6|webfile:animation/blue_infection_by_joint_project.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 6th - Blue Infection by Joint Project_h264_1856kbit.mp4|sceneorg:anim/blue_inf.zip|pouet:28303
+title:Area 61|author:CGI|position:7|webfile:animation/area_61_by_cgi.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 7th - Area 61 by CGI_h264_1856kbit.mp4|sceneorg:anim/area_61_.zip|pouet:28309
+title:Nachspielzeit|author:Vincent Vega|position:8|webfile:animation/nachspielzeit_by_vincent_vega.avi|media:./.oldies-goldies/compos/ASM99 Animation - 8th - Nachspielzeit by Vincent Vega_h264_1856kbit.mp4|sceneorg:anim/nachspie.zip|pouet:28310
+title:Lyijynsyöjät|author:marzu|position:9|webfile:animation/lyijynsyjt_by_marzu.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 9th - Lyijynsyöjät by marzu_h264_1856kbit.mp4|sceneorg:anim/lyijynsy.zip|pouet:28311
+title:2028AD|author:Data2|position:10|webfile:animation/2028ad_by_data2.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 10th - 2028AD by Data2_h264_1856kbit.mp4|sceneorg:anim/2028ad_b.zip|pouet:28304
+title:Too Real|author:MdS|position:11|webfile:animation/too_real_by_mds.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 11th - Too Real by MdS_h264_1856kbit.mp4|sceneorg:anim/too_real.zip|pouet:28312
+title:Joulupukki vs Pakkasukko|author:HammerI|position:12|webfile:animation/joulupukki_vs_pakkasukko_by_hammeri.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 12th - Joulupukki vs Pakkasukko by HammerI_h264_1856kbit.mp4|sceneorg:anim/joulupuk.zip|pouet:28313
+title:Gaagel|author:Mage The Man|position:13|webfile:animation/gaagel_by_mage_the_man.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 13th - Gaagel by Mage The Man_h264_1856kbit.mp4|sceneorg:anim/gaagel_b.zip|pouet:28314
+title:A Bugs Love|author:Edward|position:14|webfile:animation/a_bugs_love_by_edward.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 14th - A Bugs Love by Edward_h264_1856kbit.mp4|sceneorg:anim/a_bugs_l.zip|pouet:28305
+title:The Suicidal Stickman|author:Raynet and Squirrel|position:15|webfile:animation/the_suicidal_stickman_by_raynet_and_squirrel.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 15th - The Suicidal Stickman by Raynet and Squirrel_h264_1856kbit.mp4|sceneorg:anim/the_suic.zip|pouet:28315
 
 ! C64 demo
 
-title:speedway 3|author:panic!|position:1|sceneorg:c64/demo/speedway.zip|pouet:http://pouet.net/prod.php?which=1693
-title:J.A.Q.|author:Scallop|position:2|sceneorg:c64/demo/jaq_by_s.zip|pouet:http://pouet.net/prod.php?which=26255
-title:woznak´s jazz experience|author:visac|position:3|sceneorg:c64/demo/woznaks_.zip|pouet:http://pouet.net/prod.php?which=3557
+title:speedway 3|author:panic!|position:1|sceneorg:c64/demo/speedway.zip|pouet:1693
+title:J.A.Q.|author:Scallop|position:2|sceneorg:c64/demo/jaq_by_s.zip|pouet:26255
+title:woznak´s jazz experience|author:visac|position:3|sceneorg:c64/demo/woznaks_.zip|pouet:3557
 title:Beertime|author:Dekadence|position:4|sceneorg:c64/demo/beertime.zip
 title:OLD SKOOL|author:BioProduction|position:5|sceneorg:c64/demo/old_skoo.zip
 
 ! PC demo
 
-title:Virhe|author:Mature Furk|position:1|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 1st - Virhe by Mature Furk_h264_1856kbit.mp4|sceneorg:demo/accel/virhe_by.zip|pouet:http://pouet.net/prod.php?which=1084
-title:Traumatique|author:Trauma|position:2|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 2nd - Traumatique by Trauma_h264_1856kbit.mp4|sceneorg:demo/accel/traumati.zip|pouet:http://pouet.net/prod.php?which=472
-title:do zen|author:komplex|position:3|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 3rd - do zen by komplex_h264_1856kbit.mp4|sceneorg:demo/accel/do_zen_b.zip|pouet:http://pouet.net/prod.php?which=17
-title:Käyttökuksa|author:tAAt|position:4|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 4th - Käyttokuksa by tAAt_h264_1856kbit.mp4|sceneorg:demo/accel/kyttkuks.zip|pouet:http://pouet.net/prod.php?which=790
-title:Evolution|author:Amuq Creations|position:5|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 5th - Evolution by Amuq Creations_h264_1856kbit.mp4|sceneorg:demo/accel/evolutio.zip|pouet:http://pouet.net/prod.php?which=2192
-title:Edison|author:TsT|position:6|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 6th - Edison by TsT_h264_1856kbit.mp4|sceneorg:demo/accel/edison_b.zip|pouet:http://pouet.net/prod.php?which=14244
-title:Error inside|author:fat chili team|position:7|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 7th - Error inside by fat chili team_h264_1856kbit.mp4|sceneorg:demo/accel/error_in.zip|pouet:http://pouet.net/prod.php?which=14245
+title:Virhe|author:Mature Furk|position:1|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 1st - Virhe by Mature Furk_h264_1856kbit.mp4|sceneorg:demo/accel/virhe_by.zip|pouet:1084
+title:Traumatique|author:Trauma|position:2|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 2nd - Traumatique by Trauma_h264_1856kbit.mp4|sceneorg:demo/accel/traumati.zip|pouet:472
+title:do zen|author:komplex|position:3|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 3rd - do zen by komplex_h264_1856kbit.mp4|sceneorg:demo/accel/do_zen_b.zip|pouet:17
+title:Käyttökuksa|author:tAAt|position:4|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 4th - Käyttokuksa by tAAt_h264_1856kbit.mp4|sceneorg:demo/accel/kyttkuks.zip|pouet:790
+title:Evolution|author:Amuq Creations|position:5|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 5th - Evolution by Amuq Creations_h264_1856kbit.mp4|sceneorg:demo/accel/evolutio.zip|pouet:2192
+title:Edison|author:TsT|position:6|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 6th - Edison by TsT_h264_1856kbit.mp4|sceneorg:demo/accel/edison_b.zip|pouet:14244
+title:Error inside|author:fat chili team|position:7|media:./.oldies-goldies/compos/ASM99 PC Accel demo - 7th - Error inside by fat chili team_h264_1856kbit.mp4|sceneorg:demo/accel/error_in.zip|pouet:14245
 
 ! PC 64k intro
 
-title:Viagra|author:Mewlers|position:1|sceneorg:in64/viagra_b.zip|pouet:http://pouet.net/prod.php?which=293|dtv:http://www.demoscene.tv/prod.php?id_prod=11544
-title:Flekk|author:Nah-kolor|position:2|sceneorg:in64/flekk_by.zip|pouet:http://pouet.net/prod.php?which=449
-title:3x3|author:Reality Benders|position:3|sceneorg:in64/3x3_by_r.zip|pouet:http://pouet.net/prod.php?which=14250
+title:Viagra|author:Mewlers|position:1|sceneorg:in64/viagra_b.zip|pouet:293|dtv:11544
+title:Flekk|author:Nah-kolor|position:2|sceneorg:in64/flekk_by.zip|pouet:449
+title:3x3|author:Reality Benders|position:3|sceneorg:in64/3x3_by_r.zip|pouet:14250
 title:Puheaika|author:Dazed Productions|position:4|sceneorg:in64/puheaika.zip
 
 ! Graphics

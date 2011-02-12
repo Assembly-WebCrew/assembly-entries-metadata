@@ -33,48 +33,48 @@ title:Animaali|author:Votka/Pullo|position:3
 
 ! PC 4K intro
 
-title:Animate|author:Schwartz|position:1|sceneorg:in4k/animate.zip|pouet:http://pouet.net/prod.php?which=2859
-title:Heaven|author:Barti!/Nooon|position:2|sceneorg:in4k/nooon_he.zip|pouet:http://pouet.net/prod.php?which=1105
-title:Crashtest|author:J-P/Rebels|position:3|sceneorg:in4k/crshtest.zip|pouet:http://pouet.net/prod.php?which=6765
-title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:in4k/chrome.zip|pouet:http://pouet.net/prod.php?which=15089
-title:Havoc|author:Vicious/Extreme|position:5|sceneorg:in4k/havoc.zip|pouet:http://pouet.net/prod.php?which=6766
-title:Speed|author:Codex/Paranoids|position:6|sceneorg:in4k/speed.zip|pouet:http://pouet.net/prod.php?which=6767
-title:Complexity|author:Blala/Byteam|position:7|sceneorg:in4k/clxfinal.zip|pouet:http://pouet.net/prod.php?which=6768
-title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:in4k/dragon.zip|pouet:http://www.pouet.net/prod.php?which=6769
-title:Bit|author:-|position:9|sceneorg:in4k/bit.zip|pouet:http://www.pouet.net/prod.php?which=5467
-title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:in4k/loop01.zip|pouet:http://pouet.net/prod.php?which=15502
+title:Animate|author:Schwartz|position:1|sceneorg:in4k/animate.zip|pouet:2859
+title:Heaven|author:Barti!/Nooon|position:2|sceneorg:in4k/nooon_he.zip|pouet:1105
+title:Crashtest|author:J-P/Rebels|position:3|sceneorg:in4k/crshtest.zip|pouet:6765
+title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:in4k/chrome.zip|pouet:15089
+title:Havoc|author:Vicious/Extreme|position:5|sceneorg:in4k/havoc.zip|pouet:6766
+title:Speed|author:Codex/Paranoids|position:6|sceneorg:in4k/speed.zip|pouet:6767
+title:Complexity|author:Blala/Byteam|position:7|sceneorg:in4k/clxfinal.zip|pouet:6768
+title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:in4k/dragon.zip|pouet:6769
+title:Bit|author:-|position:9|sceneorg:in4k/bit.zip|pouet:5467
+title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:in4k/loop01.zip|pouet:15502
 title:Ahrum|author:-|position:11|sceneorg:in4k/ahrum.zip
 title:Only for few bytes|author:Lunatic|position:12|sceneorg:in4k/offbyte.zip
-title:Redrum|author:Galvados/Jamm|position:13|sceneorg:in4k/redrum.zip|pouet:http://pouet.net/prod.php?which=1199
+title:Redrum|author:Galvados/Jamm|position:13|sceneorg:in4k/redrum.zip|pouet:1199
 title:Strictly 4kb|author:-|position:14|sceneorg:in4k/strictly.zip
 title:Shine|author:-|position:15|sceneorg:in4k/shine.zip
 
 ! PC demo
 
-title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:demo/stars.zip|pouet:http://pouet.net/prod.php?which=301|dtv:http://www.demoscene.tv/prod.php?id_prod=9896
-title:Psychic link|author:Juice|position:2|sceneorg:demo/juice11.zip|pouet:http://www.pouet.net/prod.php?which=69
-title:DX Project|author:RealTech|position:3|sceneorg:demo/dxproj.zip|pouet:http://pouet.net/prod.php?which=955
-title:Zweilight Zone|author:Capacala|position:4|sceneorg:demo/cc_2lite.zip|pouet:http://pouet.net/prod.php?which=2503
-title:Rebel Mind|author:Epical|position:5|sceneorg:demo/rebelmnd.zip|pouet:http://pouet.net/prod.php?which=6895
-title:Higher Desire|author:Miracle|position:6|sceneorg:demo/mcl_hd.zip|pouet:http://pouet.net/prod.php?which=6773
-title:Television|author:Orange|position:7|sceneorg:demo/tv.zip|pouet:http://pouet.net/prod.php?which=2175
-title:Optimal Torque|author:Dubius|position:8|sceneorg:demo/optimal.zip|pouet:http://pouet.net/prod.php?which=3625
-title:Little Green Men|author:Kosmic|position:9|sceneorg:demo/lgm_kosm.zip|pouet:http://pouet.net/prod.php?which=2753
-title:Figthing for something|author:JapoTek|position:10|sceneorg:demo/jfight.zip|pouet:http://pouet.net/prod.php?which=5042
-title:Mystery|author:Masque|position:11|sceneorg:demo/msqmyst.zip|pouet:http://pouet.net/prod.php?which=6909
-title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:demo/zation.zip|pouet:http://pouet.net/prod.php?which=812
-title:Overflow|author:Black Rain|position:13|sceneorg:demo/tbr_ovrf.zip|pouet:http://pouet.net/prod.php?which=51319
-title:Fever|author:Deus ex Machina|position:14|sceneorg:demo/demfever.zip|pouet:http://pouet.net/prod.php?which=33833
-title:Elegant|author:Simplicity|position:15|sceneorg:demo/elegance.zip|pouet:http://pouet.net/prod.php?which=51320
+title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:demo/stars.zip|pouet:301|dtv:9896
+title:Psychic link|author:Juice|position:2|sceneorg:demo/juice11.zip|pouet:69
+title:DX Project|author:RealTech|position:3|sceneorg:demo/dxproj.zip|pouet:955
+title:Zweilight Zone|author:Capacala|position:4|sceneorg:demo/cc_2lite.zip|pouet:2503
+title:Rebel Mind|author:Epical|position:5|sceneorg:demo/rebelmnd.zip|pouet:6895
+title:Higher Desire|author:Miracle|position:6|sceneorg:demo/mcl_hd.zip|pouet:6773
+title:Television|author:Orange|position:7|sceneorg:demo/tv.zip|pouet:2175
+title:Optimal Torque|author:Dubius|position:8|sceneorg:demo/optimal.zip|pouet:3625
+title:Little Green Men|author:Kosmic|position:9|sceneorg:demo/lgm_kosm.zip|pouet:2753
+title:Figthing for something|author:JapoTek|position:10|sceneorg:demo/jfight.zip|pouet:5042
+title:Mystery|author:Masque|position:11|sceneorg:demo/msqmyst.zip|pouet:6909
+title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:demo/zation.zip|pouet:812
+title:Overflow|author:Black Rain|position:13|sceneorg:demo/tbr_ovrf.zip|pouet:51319
+title:Fever|author:Deus ex Machina|position:14|sceneorg:demo/demfever.zip|pouet:33833
+title:Elegant|author:Simplicity|position:15|sceneorg:demo/elegance.zip|pouet:51320
 
 ! C64 demo
 
-title:Extremes|author:Byterapers Inc.|position:1|pouet:http://pouet.net/prod.php?which=1615
-title:Break Through II|author:Panic|position:2|pouet:http://pouet.net/prod.php?which=7095
-title:7 Years|author:Beyond Force|position:3|pouet:http://pouet.net/prod.php?which=1733
-title:It's comming|author:Crest|position:4|pouet:http://pouet.net/prod.php?which=11511
-title:Bizarre|author:Symptom C64 Section|position:5|pouet:http://pouet.net/prod.php?which=18460
-title:Tribute to Albert Hofmann|author:Chaos C64 Division|position:6|pouet:http://pouet.net/prod.php?which=18461
+title:Extremes|author:Byterapers Inc.|position:1|pouet:1615
+title:Break Through II|author:Panic|position:2|pouet:7095
+title:7 Years|author:Beyond Force|position:3|pouet:1733
+title:It's comming|author:Crest|position:4|pouet:11511
+title:Bizarre|author:Symptom C64 Section|position:5|pouet:18460
+title:Tribute to Albert Hofmann|author:Chaos C64 Division|position:6|pouet:18461
 
 ! Raytrace graphics
 
@@ -96,54 +96,54 @@ title:Kielo|author:Turo/Fascination|position:15
 
 ! Amiga demo
 
-title:ZIF|author:Parallax|position:1|pouet:http://pouet.net/prod.php?which=1149|dtv:http://www.demoscene.tv/prod.php?id_prod=12360
-title:Logic|author:Pygmy Projects|position:2|pouet:http://pouet.net/prod.php?which=7823
-title:Miracles|author:Stellar|position:3|pouet:http://pouet.net/prod.php?which=1389
-title:Fruit Kitchen|author:Silents|position:4|pouet:http://pouet.net/prod.php?which=3648
-title:C42|author:Juliet and Case|position:5|pouet:http://pouet.net/prod.php?which=7969|dtv:http://www.demoscene.tv/prod.php?id_prod=12859
-title:Dive|author:Complex|position:6|pouet:http://pouet.net/prod.php?which=23927
-title:Hate 2|author:Fanatic|position:7|pouet:http://pouet.net/prod.php?which=12362
-title:Embryo|author:Balance|position:8|pouet:http://pouet.net/prod.php?which=3988
+title:ZIF|author:Parallax|position:1|pouet:1149|dtv:12360
+title:Logic|author:Pygmy Projects|position:2|pouet:7823
+title:Miracles|author:Stellar|position:3|pouet:1389
+title:Fruit Kitchen|author:Silents|position:4|pouet:3648
+title:C42|author:Juliet and Case|position:5|pouet:7969|dtv:12859
+title:Dive|author:Complex|position:6|pouet:23927
+title:Hate 2|author:Fanatic|position:7|pouet:12362
+title:Embryo|author:Balance|position:8|pouet:3988
 title:Wc goes to wc|author:Zymosis|position:9
-title:Thrilled|author:Embassy|position:10|pouet:http://pouet.net/prod.php?which=3951
-title:High Anxiety|author:Abyss|position:11|pouet:http://pouet.net/prod.php?which=3410
+title:Thrilled|author:Embassy|position:10|pouet:3951
+title:High Anxiety|author:Abyss|position:11|pouet:3410
 title:unknown|author:Black Lotus|position:12
 title:Domination's Dentro|author:Domination|position:13
 
 ! Animation
 
-title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:anim/flow.mpg|pouet:http://www.pouet.net/prod.php?which=2567
-title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:anim/asm_pulp_divx.avi|pouet:http://www.pouet.net/prod.php?which=5357
-title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:anim/space01.avi|pouet:http://www.pouet.net/prod.php?which=15502
-title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:anim/chess.mpg|pouet:http://pouet.net/prod.php?which=28640
-title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:anim/fline.mpg|pouet:http://pouet.net/prod.php?which=28641
-title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:anim/ride.mpg|pouet:http://pouet.net/prod.php?which=28642
-title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:anim/dawn.mpg|pouet:http://pouet.net/prod.php?which=28643
-title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:anim/bomb.mpg|pouet:http://www.pouet.net/prod.php?which=28644
-title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:anim/insel.mpg|pouet:http://www.pouet.net/prod.php?which=28645
-title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:anim/cityscpe.mpg|pouet:http://pouet.net/prod.php?which=28646
-title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:anim/choicecd.mpg|pouet:http://pouet.net/prod.php?which=28647
-title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:anim/aaa.mpg|pouet:http://pouet.net/prod.php?which=28648
-title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:anim/nih.mpg|pouet:http://pouet.net/prod.php?which=28649
-title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:anim/atlantis.mpg|pouet:http://pouet.net/prod.php?which=28650
+title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:anim/flow.mpg|pouet:2567
+title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:anim/asm_pulp_divx.avi|pouet:5357
+title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:anim/space01.avi|pouet:15502
+title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:anim/chess.mpg|pouet:28640
+title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:anim/fline.mpg|pouet:28641
+title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:anim/ride.mpg|pouet:28642
+title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:anim/dawn.mpg|pouet:28643
+title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:anim/bomb.mpg|pouet:28644
+title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:anim/insel.mpg|pouet:28645
+title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:anim/cityscpe.mpg|pouet:28646
+title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:anim/choicecd.mpg|pouet:28647
+title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:anim/aaa.mpg|pouet:28648
+title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:anim/nih.mpg|pouet:28649
+title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:anim/atlantis.mpg|pouet:28650
 
 ! Amiga 40k intro
 
-title:FAD|author:Sonik|position:1|pouet:http://pouet.net/prod.php?which=5096
-title:Hauki|author:Hirmu|position:2|pouet:http://pouet.net/prod.php?which=18455
-title:Blur|author:Sonik|position:3|pouet:http://pouet.net/prod.php?which=4150
-title:Seasick|author:Banal Projects|position:4|pouet:http://pouet.net/prod.php?which=16510
-title:Assembly 95 40k Intro|author:C-Lous|position:5|pouet:http://pouet.net/prod.php?which=5689
-title:Sections|author:Extend|position:6|pouet:http://pouet.net/prod.php?which=16511
-title:Oberon|author:Yodel|position:7|pouet:http://pouet.net/prod.php?which=16512
-title:Cinderhatch|author:RRR|position:8|pouet:http://pouet.net/prod.php?which=16513
-title:Ultimate Stress|author:Bomb Squad|position:9|pouet:http://pouet.net/prod.php?which=16514
-title:Delirium|author:Heretic|position:10|pouet:http://pouet.net/prod.php?which=16515
-title:Sauna!|author:Royal|position:11|pouet:http://pouet.net/prod.php?which=16516
-title:Hope|author:Cirion|position:12|pouet:http://pouet.net/prod.php?which=18457
-title:Sumu|author:Kinky|position:13|pouet:http://pouet.net/prod.php?which=18458
-title:Mission Impossible|author:Amacon|position:14|pouet:http://pouet.net/prod.php?which=13259
-title:Kintro|author:Diffusion|position:15|pouet:http://pouet.net/prod.php?which=18459
+title:FAD|author:Sonik|position:1|pouet:5096
+title:Hauki|author:Hirmu|position:2|pouet:18455
+title:Blur|author:Sonik|position:3|pouet:4150
+title:Seasick|author:Banal Projects|position:4|pouet:16510
+title:Assembly 95 40k Intro|author:C-Lous|position:5|pouet:5689
+title:Sections|author:Extend|position:6|pouet:16511
+title:Oberon|author:Yodel|position:7|pouet:16512
+title:Cinderhatch|author:RRR|position:8|pouet:16513
+title:Ultimate Stress|author:Bomb Squad|position:9|pouet:16514
+title:Delirium|author:Heretic|position:10|pouet:16515
+title:Sauna!|author:Royal|position:11|pouet:16516
+title:Hope|author:Cirion|position:12|pouet:18457
+title:Sumu|author:Kinky|position:13|pouet:18458
+title:Mission Impossible|author:Amacon|position:14|pouet:13259
+title:Kintro|author:Diffusion|position:15|pouet:18459
 
 ! Graphics
 
@@ -165,21 +165,21 @@ title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cn
 
 ! PC 64K intro
 
-title:Drift|author:Wild Light|position:1|sceneorg:in64/drift.zip|pouet:http://pouet.net/prod.php?which=2184
-title:Stickman's World|author:COMA|position:2|sceneorg:in64/stick.zip|pouet:http://pouet.net/prod.php?which=1139
-title:Bill G Force|author:Complex|position:3|sceneorg:in64/clx_bgfr.zip|pouet:http://pouet.net/prod.php?which=68
-title:Nation Zero|author:Jamm|position:4|sceneorg:in64/nation0.zip|pouet:http://pouet.net/prod.php?which=1366
-title:Detour|author:Halcyon|position:5|sceneorg:in64/detour.zip|pouet:http://pouet.net/prod.php?which=1270
-title:Believe|author:Valhalla|position:6|sceneorg:in64/believe.zip|pouet:http://pouet.net/prod.php?which=1151
-title:Alchymia|author:Mist|position:7|sceneorg:in64/alchymia.zip|pouet:http://pouet.net/prod.php?which=2305
-title:Reality Impact|author:Halo|position:8|sceneorg:in64/realityi.zip|pouet:http://pouet.net/prod.php?which=34231
-title:Camera|author:Symptom|position:9|sceneorg:in64/camera.zip|pouet:http://pouet.net/prod.php?which=5092
-title:Pied|author:Abaddon|position:10|sceneorg:in64/pied.zip|pouet:http://pouet.net/prod.php?which=17517
-title:Dream|author:Epsilon|position:11|sceneorg:in64/dream_ep.zip|pouet:http://pouet.net/prod.php?which=6772
-title:Cocaholic|author:Hazard|position:12|sceneorg:in64/cocaholc.zip|pouet:http://pouet.net/prod.php?which=6774
-title:Tam|author:Anarchy|position:13|sceneorg:in64/tam.zip|pouet:http://pouet.net/prod.php?which=34232
-title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:in64/noclass.zip|pouet:http://pouet.net/prod.php?which=34233
-title:Byte me|author:@|position:15|sceneorg:in64/byteme.zip|pouet:http://pouet.net/prod.php?which=6318
+title:Drift|author:Wild Light|position:1|sceneorg:in64/drift.zip|pouet:2184
+title:Stickman's World|author:COMA|position:2|sceneorg:in64/stick.zip|pouet:1139
+title:Bill G Force|author:Complex|position:3|sceneorg:in64/clx_bgfr.zip|pouet:68
+title:Nation Zero|author:Jamm|position:4|sceneorg:in64/nation0.zip|pouet:1366
+title:Detour|author:Halcyon|position:5|sceneorg:in64/detour.zip|pouet:1270
+title:Believe|author:Valhalla|position:6|sceneorg:in64/believe.zip|pouet:1151
+title:Alchymia|author:Mist|position:7|sceneorg:in64/alchymia.zip|pouet:2305
+title:Reality Impact|author:Halo|position:8|sceneorg:in64/realityi.zip|pouet:34231
+title:Camera|author:Symptom|position:9|sceneorg:in64/camera.zip|pouet:5092
+title:Pied|author:Abaddon|position:10|sceneorg:in64/pied.zip|pouet:17517
+title:Dream|author:Epsilon|position:11|sceneorg:in64/dream_ep.zip|pouet:6772
+title:Cocaholic|author:Hazard|position:12|sceneorg:in64/cocaholc.zip|pouet:6774
+title:Tam|author:Anarchy|position:13|sceneorg:in64/tam.zip|pouet:34232
+title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:in64/noclass.zip|pouet:34233
+title:Byte me|author:@|position:15|sceneorg:in64/byteme.zip|pouet:6318
 
 ! Multichannel music
 

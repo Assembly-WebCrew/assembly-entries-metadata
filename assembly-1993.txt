@@ -15,18 +15,18 @@ title:unknown|author:Darra / Damones|position:12
 
 ! PC intro
 
-title:Eclipse|author:EMF|position:1|sceneorg:100k/emf_ecl.zip|pouet:http://pouet.net/prod.php?which=2589
-title:Debut|author:Darkzone|position:2|sceneorg:100k/debut_dz.zip|pouet:http://www.pouet.net/prod.php?which=5055
-title:Tangle|author:Epical|position:3|sceneorg:100k/tangle.zip|pouet:http://pouet.net/prod.php?which=4097
-title:Locomotion|author:Onyx|position:4|sceneorg:100k/locom.zip|pouet:http://pouet.net/prod.php?which=9406
-title:Motion|author:Avalanche|position:5|sceneorg:100k/motion.zip|pouet:http://pouet.net/prod.php?which=5513
-title:Plan-B|author:Sonic-PC|position:6|sceneorg:100k/planb.zip|pouet:http://pouet.net/prod.php?which=8738
-title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:100k/va.zip|pouet:http://pouet.net/prod.php?which=3001
-title:Stardream|author:Surprise! prod.|position:8|sceneorg:100k/stardrea.zip|pouet:http://pouet.net/prod.php?which=2052
-title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:100k/j!p.zip|pouet:http://www.pouet.net/prod.php?which=8737
+title:Eclipse|author:EMF|position:1|sceneorg:100k/emf_ecl.zip|pouet:2589
+title:Debut|author:Darkzone|position:2|sceneorg:100k/debut_dz.zip|pouet:5055
+title:Tangle|author:Epical|position:3|sceneorg:100k/tangle.zip|pouet:4097
+title:Locomotion|author:Onyx|position:4|sceneorg:100k/locom.zip|pouet:9406
+title:Motion|author:Avalanche|position:5|sceneorg:100k/motion.zip|pouet:5513
+title:Plan-B|author:Sonic-PC|position:6|sceneorg:100k/planb.zip|pouet:8738
+title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:100k/va.zip|pouet:3001
+title:Stardream|author:Surprise! prod.|position:8|sceneorg:100k/stardrea.zip|pouet:2052
+title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:100k/j!p.zip|pouet:8737
 title:Fraust|author:RatCompany|position:10
-title:Preview|author:Irresistible Works|position:11|pouet:http://pouet.net/prod.php?which=51327
-title:Urgent|author:Pentagon|position:11|sceneorg:100k/urgent.zip|pouet:http://pouet.net/prod.php?which=29652
+title:Preview|author:Irresistible Works|position:11|pouet:51327
+title:Urgent|author:Pentagon|position:11|sceneorg:100k/urgent.zip|pouet:29652
 
 ! PC music multichannel
 
@@ -56,18 +56,18 @@ title:unknown|author:Electric / Extend|position:10
 
 ! Amiga 40k intro
 
-title:unknown|author:Stellar (code by Dweezil)|position:1|pouet:http://www.pouet.net/prod.php?which=8174
+title:unknown|author:Stellar (code by Dweezil)|position:1|pouet:8174
 title:unknown|author:Tsunami & Dean|position:2
-title:unknown|author:VD|position:3|pouet:http://www.pouet.net/prod.php?which=10353
-title:unknown|author:CNCD|position:3|pouet:http://www.pouet.net/prod.php?which=17122
-title:unknown|author:The Movement|position:5|pouet:http://www.pouet.net/prod.php?which=13138
+title:unknown|author:VD|position:3|pouet:10353
+title:unknown|author:CNCD|position:3|pouet:17122
+title:unknown|author:The Movement|position:5|pouet:13138
 title:unknown|author:Excide|position:6
-title:unknown|author:Stellar (code by Kefeus)|position:7|pouet:http://www.pouet.net/prod.php?which=19287
-title:unknown|author:Genicide|position:8|pouet:http://www.pouet.net/prod.php?which=55060
-title:unknown|author:Chrome|position:9|pouet:http://www.pouet.net/prod.php?which=15497
-title:unknown|author:Humane|position:10|pouet:http://www.pouet.net/prod.php?which=18586
-title:unknown|author:Epsilon|position:11|pouet:http://www.pouet.net/prod.php?which=15356
-title:unknown|author:Beyond Force|position:12|pouet:http://www.pouet.net/prod.php?which=23226
+title:unknown|author:Stellar (code by Kefeus)|position:7|pouet:19287
+title:unknown|author:Genicide|position:8|pouet:55060
+title:unknown|author:Chrome|position:9|pouet:15497
+title:unknown|author:Humane|position:10|pouet:18586
+title:unknown|author:Epsilon|position:11|pouet:15356
+title:unknown|author:Beyond Force|position:12|pouet:23226
 
 ! PC graphics
 
@@ -84,25 +84,25 @@ title:Korvmack|author:Leinad / Avalanche|position:10
 
 ! Amiga demo
 
-title:Extension|author:Pygmy|position:1|pouet:http://pouet.net/prod.php?which=3038|dtv:http://www.demoscene.tv/prod.php?id_prod=3804
-title:242|author:Virtual Dreams|position:2|sceneorgvideo:./assembly93/amiga/demo/fairlight-242divx.avi|pouet:http://www.pouet.net/prod.php?which=3202|dtv:http://www.demoscene.tv/prod.php?id_prod=172
-title:Romantic Demo|author:Melon|position:3|pouet:http://pouet.net/prod.php?which=4953
-title:Amnesty|author:Vectra|position:4|pouet:http://www.pouet.net/prod.php?which=15407
-title:Hysteria|author:Analogy|position:5|pouet:http://pouet.net/prod.php?which=12000
+title:Extension|author:Pygmy|position:1|pouet:3038|dtv:3804
+title:242|author:Virtual Dreams|position:2|sceneorgvideo:./assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:172
+title:Romantic Demo|author:Melon|position:3|pouet:4953
+title:Amnesty|author:Vectra|position:4|pouet:15407
+title:Hysteria|author:Analogy|position:5|pouet:12000
 title:Out Of Your Mind|author:unknown|position:6
 title:BALL|author:unknown|position:7
-title:Transfusion|author:Extacy|position:8|pouet:http://pouet.net/prod.php?which=17121
+title:Transfusion|author:Extacy|position:8|pouet:17121
 
 ! PC demo
 
-title:Second Reality|author:Future Crew|position:1|sceneorg:demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:http://pouet.net/prod.php?which=63|dtv:http://www.demoscene.tv/prod.php?id_prod=9223
-title:Optic Nerve|author:Silents|position:2|sceneorg:demo/opticnrv.zip|pouet:http://pouet.net/prod.php?which=7658
-title:Elements|author:Xography|position:3|sceneorg:demo/elements.zip|pouet:http://pouet.net/prod.php?which=852
-title:Saga|author:Dust|position:4|sceneorg:demo/sagadust.zip|pouet:http://pouet.net/prod.php?which=2585
+title:Second Reality|author:Future Crew|position:1|sceneorg:demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:63|dtv:9223
+title:Optic Nerve|author:Silents|position:2|sceneorg:demo/opticnrv.zip|pouet:7658
+title:Elements|author:Xography|position:3|sceneorg:demo/elements.zip|pouet:852
+title:Saga|author:Dust|position:4|sceneorg:demo/sagadust.zip|pouet:2585
 title:Extermination|author:Extreme|position:5
 title:Fruits of Indolence|author:Virtual Visions|position:6
 title:Wasted time|author:Paranoids|position:7|sceneorg:demo/wasted.zip
-title:Obsession|author:Black Rain|position:8|sceneorg:demo/obsess.zip|pouet:http://pouet.net/prod.php?which=51323
+title:Obsession|author:Black Rain|position:8|sceneorg:demo/obsess.zip|pouet:51323
 title:Phenomenon|author:Alphaforce|position:9|sceneorg:demo/phenom.zip
 
 ! PC music 4 channel

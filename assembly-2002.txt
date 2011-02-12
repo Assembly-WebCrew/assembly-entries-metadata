@@ -1,21 +1,21 @@
 ! Mobile demo
 
-title:Limbo (Pocket PC)|author:Byterapers & Doomsday|position:1|media:.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:http://pouet.net/prod.php?which=7156
-title:perkele plus (Siemens SL45i)|author:contraz + excess|position:2|media:.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:http://pouet.net/prod.php?which=7129|dtv:http://www.demoscene.tv/prod.php?id_prod=7960
-title:Vit 2 (GBA)|author:Unique|position:3|media:.oldies-goldies/compos/ASM02 Mobile - 3rd - Vit 2 by Unique_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/vit_2_by_unique-gba-divx.avi|sceneorg:mobiledemo/vit_2_by_unique_1--gba.zip|pouet:http://pouet.net/prod.php?which=7150|dtv:http://www.demoscene.tv/prod.php?id_prod=11604
-title:Beyond the limits (GBA)|author:Vivid Design|position:4|media:.oldies-goldies/compos/ASM02 Mobile - 4th - Beyond the limits by Vivid Design_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/beyond_the_limits_by_vivid_design-gba-divx.avi|sceneorg:mobiledemo/beynd_the_limits_by_vivid_design--gba.zip|pouet:http://pouet.net/prod.php?which=7158
-title:Kumiakku (Yopi Linux)|author:tAAt 2002|position:5|media:.oldies-goldies/compos/ASM02 Mobile - 5th - Kumiakku by tAAt_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/kumiakku_by_taat_2002-yopy_linux-divx.avi|sceneorg:mobiledemo/kumiakku_by_taat_2002--yopy_linux.zip|pouet:http://pouet.net/prod.php?which=7202
-title:Child's Play (GBC)|author:CNCD|position:6|media:.oldies-goldies/compos/ASM02 Mobile - 6th - Child's play by CNCD_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/childs_play_by_cncd-gbc-divx.avi|sceneorg:mobiledemo/child_s_play_by_cncd--gbc.zip|pouet:http://pouet.net/prod.php?which=7161
-title:Aikaspektri (Nokia 7650)|author:Extend & Embassy|position:7|media:.oldies-goldies/compos/ASM02 Mobile - 7th - Aikaspektri by Extend, Embassy_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/aikaspektri_by_extend__embassy-nokia_7650-divx.avi|sceneorg:mobiledemo/aikaspektri_by_extend___embassy--nokia_7650.zip|pouet:http://pouet.net/prod.php?which=13757
-title:period of revolutionary transform (GBA)|author:Matt Current|position:8|media:.oldies-goldies/compos/ASM02 Mobile - 8th - period of revolutionary transform by Matt Current_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/period_of_revolutionary_transform_by_matt_current-gba-divx.avi|sceneorg:mobiledemo/period_of_revolutionary_transform_by_matt_current--gba.zip|pouet:http://pouet.net/prod.php?which=7149
-title:Eevil Flower (TI-82)|author:DrVeriEevil|position:9|media:.oldies-goldies/compos/ASM02 Mobile - 9th - Eevil Flower by DrVeriEevil_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/eevil_flower_by_dr_verieevil-ti82-divx.avi|sceneorg:mobiledemo/eevil_flower_by_drverieevil--ti82.zip|pouet:http://pouet.net/prod.php?which=7160
-title:Anarchy (GBA)|author:Halo|position:10|media:.oldies-goldies/compos/ASM02 Mobile - 10th - Anarchy by Halo_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/anarchy_by_halo-gba-divx.avi|sceneorg:mobiledemo/anarchy_by_halo--gba.zip|pouet:http://pouet.net/prod.php?which=7159
-title:KILKEN (GBA)|author:calodox|position:11|media:.oldies-goldies/compos/ASM02 Mobile - 11th - Kilken by calodox_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/kilken_by_calodox-gba-divx.avi|sceneorg:mobiledemo/kilken_by_calodox--gba.zip|pouet:http://pouet.net/prod.php?which=7117
-title:925 (Nokia 3410)|author:komakomplex|position:12|media:.oldies-goldies/compos/ASM02 Mobile - 12th - 925 by komakomplex_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/925_by_komakomplex-nokia_3410-divx.avi|sceneorg:mobiledemo/925_by_komakomplex--nokia_3410.zip|pouet:http://pouet.net/prod.php?which=7165|dtv:http://www.demoscene.tv/prod.php?id_prod=369
-title:plutoniumia (Pocket PC)|author:aikarele|position:13|media:.oldies-goldies/compos/ASM02 Mobile - 13th - plutoniumia by aikarele_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/plutoniumia_by_aikarele-ppc-divx.avi|sceneorg:mobiledemo/plutoniumia_by_aikarele--ppc.zip|pouet:http://pouet.net/prod.php?which=7214
+title:Limbo (Pocket PC)|author:Byterapers & Doomsday|position:1|media:.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:7156
+title:perkele plus (Siemens SL45i)|author:contraz + excess|position:2|media:.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:7129|dtv:7960
+title:Vit 2 (GBA)|author:Unique|position:3|media:.oldies-goldies/compos/ASM02 Mobile - 3rd - Vit 2 by Unique_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/vit_2_by_unique-gba-divx.avi|sceneorg:mobiledemo/vit_2_by_unique_1--gba.zip|pouet:7150|dtv:11604
+title:Beyond the limits (GBA)|author:Vivid Design|position:4|media:.oldies-goldies/compos/ASM02 Mobile - 4th - Beyond the limits by Vivid Design_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/beyond_the_limits_by_vivid_design-gba-divx.avi|sceneorg:mobiledemo/beynd_the_limits_by_vivid_design--gba.zip|pouet:7158
+title:Kumiakku (Yopi Linux)|author:tAAt 2002|position:5|media:.oldies-goldies/compos/ASM02 Mobile - 5th - Kumiakku by tAAt_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/kumiakku_by_taat_2002-yopy_linux-divx.avi|sceneorg:mobiledemo/kumiakku_by_taat_2002--yopy_linux.zip|pouet:7202
+title:Child's Play (GBC)|author:CNCD|position:6|media:.oldies-goldies/compos/ASM02 Mobile - 6th - Child's play by CNCD_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/childs_play_by_cncd-gbc-divx.avi|sceneorg:mobiledemo/child_s_play_by_cncd--gbc.zip|pouet:7161
+title:Aikaspektri (Nokia 7650)|author:Extend & Embassy|position:7|media:.oldies-goldies/compos/ASM02 Mobile - 7th - Aikaspektri by Extend, Embassy_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/aikaspektri_by_extend__embassy-nokia_7650-divx.avi|sceneorg:mobiledemo/aikaspektri_by_extend___embassy--nokia_7650.zip|pouet:13757
+title:period of revolutionary transform (GBA)|author:Matt Current|position:8|media:.oldies-goldies/compos/ASM02 Mobile - 8th - period of revolutionary transform by Matt Current_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/period_of_revolutionary_transform_by_matt_current-gba-divx.avi|sceneorg:mobiledemo/period_of_revolutionary_transform_by_matt_current--gba.zip|pouet:7149
+title:Eevil Flower (TI-82)|author:DrVeriEevil|position:9|media:.oldies-goldies/compos/ASM02 Mobile - 9th - Eevil Flower by DrVeriEevil_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/eevil_flower_by_dr_verieevil-ti82-divx.avi|sceneorg:mobiledemo/eevil_flower_by_drverieevil--ti82.zip|pouet:7160
+title:Anarchy (GBA)|author:Halo|position:10|media:.oldies-goldies/compos/ASM02 Mobile - 10th - Anarchy by Halo_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/anarchy_by_halo-gba-divx.avi|sceneorg:mobiledemo/anarchy_by_halo--gba.zip|pouet:7159
+title:KILKEN (GBA)|author:calodox|position:11|media:.oldies-goldies/compos/ASM02 Mobile - 11th - Kilken by calodox_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/kilken_by_calodox-gba-divx.avi|sceneorg:mobiledemo/kilken_by_calodox--gba.zip|pouet:7117
+title:925 (Nokia 3410)|author:komakomplex|position:12|media:.oldies-goldies/compos/ASM02 Mobile - 12th - 925 by komakomplex_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/925_by_komakomplex-nokia_3410-divx.avi|sceneorg:mobiledemo/925_by_komakomplex--nokia_3410.zip|pouet:7165|dtv:369
+title:plutoniumia (Pocket PC)|author:aikarele|position:13|media:.oldies-goldies/compos/ASM02 Mobile - 13th - plutoniumia by aikarele_h264_1856kbit.mp4|sceneorgvideo:./assembly02/mobiledemo/divx/plutoniumia_by_aikarele-ppc-divx.avi|sceneorg:mobiledemo/plutoniumia_by_aikarele--ppc.zip|pouet:7214
 title:Ono (Nokia 7650)|author:Forsaken|position:0|sceneorg:mobiledemo/ono_by_forsaken_1--nokia_7650.zip
 title:Anynomous (Casio FX10)|author:Twinsoft|position:0|sceneorg:mobiledemo/anynomous_by_twinsoft--casio_fx10.zip
-title:The Son of Grooveboy (GBA)|author:Sca9 Entertainment|position:0|sceneorg:mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:http://pouet.net/prod.php?which=8649
+title:The Son of Grooveboy (GBA)|author:Sca9 Entertainment|position:0|sceneorg:mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:8649
 
 ! Oldskool graphics
 
@@ -33,19 +33,19 @@ title:Hymyile|author:Saksan Perussanasto/Jumalauta|position:0
 
 ! Game development
 
-title:Porrasturvat - Stair Dismount|author:Tarzan / tAAt|position:1|media:.oldies-goldies/compos/ASM02 Gamedev - 1st - Porrasturvat by Tarzan-tAAt_h264_1856kbit.mp4|sceneorg:gamedev/porrasturvat_by_taat.zip|pouet:http://pouet.net/prod.php?which=7090
-title:Mr. Pixel|author:Jens Bache-Wiig|position:2|media:.oldies-goldies/compos/ASM02 Gamedev - 2nd - Mr. Pixel by Jens Bache-Wiig_h264_1856kbit.mp4|sceneorg:gamedev/mrpixel.zip|pouet:http://pouet.net/prod.php?which=7208
-title:Blockofighter|author:Miika Sell & Juha Kaarlas|position:3|media:.oldies-goldies/compos/ASM02 Gamedev - 3rd - Blockofighter by Miika Sell, Juha Kaarlas_h264_1856kbit.mp4|sceneorg:gamedev/blockofighter.zip|pouet:http://pouet.net/prod.php?which=7195
-title:Capture the Prize|author:CustardForBrains|position:4|media:.oldies-goldies/compos/ASM02 Gamedev - 4th - Capture the Prize by CustardForBrains_h264_1856kbit.mp4|sceneorg:gamedev/capture_the_prize_by_custardforbrains.zip|pouet:http://pouet.net/prod.php?which=8858
+title:Porrasturvat - Stair Dismount|author:Tarzan / tAAt|position:1|media:.oldies-goldies/compos/ASM02 Gamedev - 1st - Porrasturvat by Tarzan-tAAt_h264_1856kbit.mp4|sceneorg:gamedev/porrasturvat_by_taat.zip|pouet:7090
+title:Mr. Pixel|author:Jens Bache-Wiig|position:2|media:.oldies-goldies/compos/ASM02 Gamedev - 2nd - Mr. Pixel by Jens Bache-Wiig_h264_1856kbit.mp4|sceneorg:gamedev/mrpixel.zip|pouet:7208
+title:Blockofighter|author:Miika Sell & Juha Kaarlas|position:3|media:.oldies-goldies/compos/ASM02 Gamedev - 3rd - Blockofighter by Miika Sell, Juha Kaarlas_h264_1856kbit.mp4|sceneorg:gamedev/blockofighter.zip|pouet:7195
+title:Capture the Prize|author:CustardForBrains|position:4|media:.oldies-goldies/compos/ASM02 Gamedev - 4th - Capture the Prize by CustardForBrains_h264_1856kbit.mp4|sceneorg:gamedev/capture_the_prize_by_custardforbrains.zip|pouet:8858
 
 ! Oldskool demo
 
-title:Impossiblator 2 (VIC-20)|author:pwp|position:1|media:.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:oldskool/demo/impossiblator_2_by_pwp.zip|pouet:http://pouet.net/prod.php?which=7121
-title:My Kondom (C64)|author:Haujobb & Dekadence|position:2|media:.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:oldskool/demo/mycondom.zip|pouet:http://pouet.net/prod.php?which=7188
-title:Software Developer's Air Display (VIC-20)|author:CNCD|position:3|media:.oldies-goldies/compos/ASM02 Oldskool - 3rd - Software Developer's Air Display by CNCD_h264_1856kbit.mp4|sceneorg:oldskool/demo/software_developer_s_air_display_by_cncd.zip|pouet:http://pouet.net/prod.php?which=7122
-title:Vicious (VIC-20)|author:Dekadence|position:4|media:.oldies-goldies/compos/ASM02 Oldskool - 4th - Vicious by Dekadence_h264_1856kbit.mp4|sceneorg:oldskool/demo/vicious_d64.zip|pouet:http://pouet.net/prod.php?which=7192
-title:Outsider (C64)|author:Spaceballs|position:5|media:.oldies-goldies/compos/ASM02 Oldskool - 5th - Outsider by Spaceballs_h264_1856kbit.mp4|sceneorg:oldskool/demo/outsider.zip|pouet:http://pouet.net/prod.php?which=7213
-title:Risperdal Dreams (C64)|author:Upstars|position:6|media:.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:oldskool/demo/rispeldel.zip|pouet:http://pouet.net/prod.php?which=9298
+title:Impossiblator 2 (VIC-20)|author:pwp|position:1|media:.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:oldskool/demo/impossiblator_2_by_pwp.zip|pouet:7121
+title:My Kondom (C64)|author:Haujobb & Dekadence|position:2|media:.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:oldskool/demo/mycondom.zip|pouet:7188
+title:Software Developer's Air Display (VIC-20)|author:CNCD|position:3|media:.oldies-goldies/compos/ASM02 Oldskool - 3rd - Software Developer's Air Display by CNCD_h264_1856kbit.mp4|sceneorg:oldskool/demo/software_developer_s_air_display_by_cncd.zip|pouet:7122
+title:Vicious (VIC-20)|author:Dekadence|position:4|media:.oldies-goldies/compos/ASM02 Oldskool - 4th - Vicious by Dekadence_h264_1856kbit.mp4|sceneorg:oldskool/demo/vicious_d64.zip|pouet:7192
+title:Outsider (C64)|author:Spaceballs|position:5|media:.oldies-goldies/compos/ASM02 Oldskool - 5th - Outsider by Spaceballs_h264_1856kbit.mp4|sceneorg:oldskool/demo/outsider.zip|pouet:7213
+title:Risperdal Dreams (C64)|author:Upstars|position:6|media:.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:oldskool/demo/rispeldel.zip|pouet:9298
 
 ! Analog graphics
 
@@ -133,19 +133,19 @@ title:Primality|author:Gasman / Hooy-Program|position:0
 
 ! Flash demo
 
-title:Super mushroom sisters|author:RNO|position:1|media:.oldies-goldies/compos/ASM02 Flash - 1st - Super mushroom sisters by RNO_h264_1856kbit.mp4|sceneorg:flash/super_mushroom_sisters_by_rno.zip|pouet:http://pouet.net/prod.php?which=7126
+title:Super mushroom sisters|author:RNO|position:1|media:.oldies-goldies/compos/ASM02 Flash - 1st - Super mushroom sisters by RNO_h264_1856kbit.mp4|sceneorg:flash/super_mushroom_sisters_by_rno.zip|pouet:7126
 title:Kreivi Krapula|author:Rapture Seekers|position:2|media:.oldies-goldies/compos/ASM02 Flash - 2nd - Kreivi Krapula by Rapture Seekers_h264_1856kbit.mp4|sceneorg:flash/kreivi_krapula_by_rapture_seekers.zip
-title:Evolve|author:Esko Ahonen & Milan Kolarovic|position:3|media:.oldies-goldies/compos/ASM02 Flash - 3rd - Evolve by Esko Agonen, Milan Kolarovic_h264_1856kbit.mp4|sceneorg:flash/evolve_by_esko_ahonen___milan_kolarovic.zip|pouet:http://pouet.net/prod.php?which=7142
-title:Terrori|author:K-Statik/Outkazt|position:4|media:.oldies-goldies/compos/ASM02 Flash - 4th - Terrori by K-Statik,Outkazt_h264_1856kbit.mp4|sceneorg:flash/terrori_by_k-statik_outkazt.zip|pouet:http://pouet.net/prod.php?which=7164
+title:Evolve|author:Esko Ahonen & Milan Kolarovic|position:3|media:.oldies-goldies/compos/ASM02 Flash - 3rd - Evolve by Esko Agonen, Milan Kolarovic_h264_1856kbit.mp4|sceneorg:flash/evolve_by_esko_ahonen___milan_kolarovic.zip|pouet:7142
+title:Terrori|author:K-Statik/Outkazt|position:4|media:.oldies-goldies/compos/ASM02 Flash - 4th - Terrori by K-Statik,Outkazt_h264_1856kbit.mp4|sceneorg:flash/terrori_by_k-statik_outkazt.zip|pouet:7164
 title:linear motion|author:hannu_|position:5|media:.oldies-goldies/compos/ASM02 Flash - 5th - linear motion by hannu__h264_1856kbit.mp4|sceneorg:flash/linear_motion_by_hannu_.zip
-title:Recycled|author:Bombsquad|position:6|media:.oldies-goldies/compos/ASM02 Flash - 6th - Recycled by Bombsquad_h264_1856kbit.mp4|sceneorg:flash/recycled_by_bombsquad.zip|pouet:http://pouet.net/prod.php?which=10312
-title:Multiplex|author:Redhill Drunks|position:7|media:.oldies-goldies/compos/ASM02 Flash - 7th - Multiplex by Redhill Drunks_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=18456
-title:Nendo|author:wain and codec|position:8|media:.oldies-goldies/compos/ASM02 Flash - 8th - Nendo by wain and codec_h264_1856kbit.mp4|sceneorg:flash/nendo_by_wain_and_codec.zip|pouet:http://pouet.net/prod.php?which=7198
-title:Grunge212|author:Kone creations|position:9|media:.oldies-goldies/compos/ASM02 Flash - 9th - Grunge212 by Kone creations_h264_1856kbit.mp4|sceneorg:flash/grunge212_by_kone_creations.zip|pouet:http://pouet.net/prod.php?which=20504
-title:Warbirds|author:Inapt|position:10|media:.oldies-goldies/compos/ASM02 Flash - 10th - Warbirds by Inapt_h264_1856kbit.mp4|sceneorg:flash/warbirds_by_inapt.zip|pouet:http://pouet.net/prod.php?which=20505
-title:Paradigm|author:Kellari|position:11|media:.oldies-goldies/compos/ASM02 Flash - 11th - Paradigm by Kellari_h264_1856kbit.mp4|sceneorg:flash/paradigm_by_kellari_1.zip|pouet:http://pouet.net/prod.php?which=20506
-title:Duck'n'Cover|author:piAstro|position:0|sceneorg:flash/duck_n_cover_by_piastro.zip|pouet:http://pouet.net/prod.php?which=20507
-title:Shade|author:Rotta|position:0|sceneorg:flash/shade_by_rotta.zip|pouet:http://pouet.net/prod.php?which=20508
+title:Recycled|author:Bombsquad|position:6|media:.oldies-goldies/compos/ASM02 Flash - 6th - Recycled by Bombsquad_h264_1856kbit.mp4|sceneorg:flash/recycled_by_bombsquad.zip|pouet:10312
+title:Multiplex|author:Redhill Drunks|position:7|media:.oldies-goldies/compos/ASM02 Flash - 7th - Multiplex by Redhill Drunks_h264_1856kbit.mp4|pouet:18456
+title:Nendo|author:wain and codec|position:8|media:.oldies-goldies/compos/ASM02 Flash - 8th - Nendo by wain and codec_h264_1856kbit.mp4|sceneorg:flash/nendo_by_wain_and_codec.zip|pouet:7198
+title:Grunge212|author:Kone creations|position:9|media:.oldies-goldies/compos/ASM02 Flash - 9th - Grunge212 by Kone creations_h264_1856kbit.mp4|sceneorg:flash/grunge212_by_kone_creations.zip|pouet:20504
+title:Warbirds|author:Inapt|position:10|media:.oldies-goldies/compos/ASM02 Flash - 10th - Warbirds by Inapt_h264_1856kbit.mp4|sceneorg:flash/warbirds_by_inapt.zip|pouet:20505
+title:Paradigm|author:Kellari|position:11|media:.oldies-goldies/compos/ASM02 Flash - 11th - Paradigm by Kellari_h264_1856kbit.mp4|sceneorg:flash/paradigm_by_kellari_1.zip|pouet:20506
+title:Duck'n'Cover|author:piAstro|position:0|sceneorg:flash/duck_n_cover_by_piastro.zip|pouet:20507
+title:Shade|author:Rotta|position:0|sceneorg:flash/shade_by_rotta.zip|pouet:20508
 title:mäRKä apInA|author:Simo Santavirta|position:0|sceneorg:flash/m_rk__apina_by_simo_santavirta.zip
 title:ai.|author:Trekky|position:0|sceneorg:flash/ai__by_trekky.zip
 title:The G.O.D|author:Exca|position:0|sceneorg:flash/the_g_o_d_by_exca.zip
@@ -156,27 +156,27 @@ title:Return of the Lamer|author:chosenone-|position:0|sceneorg:flash/return_of_
 
 ! Combined demo
 
-title:liquid... wen?|author:haujobb|position:1|sceneorg:demo/liquid____wen__by_haujobb.zip|pouet:http://pouet.net/prod.php?which=7130|dtv:http://www.demoscene.tv/prod.php?id_prod=6254
-title:Halla|author:Moppi Productions|position:2|media:.oldies-goldies/compos/ASM02 Demo - 2nd - Halla by Moppi Productions_h264_1856kbit.mp4|sceneorg:demo/halla_by_moppi.zip|pouet:http://pouet.net/prod.php?which=7132|dtv:http://www.demoscene.tv/prod.php?id_prod=4795
-title:Variform|author:kewlers|position:3|media:.oldies-goldies/compos/ASM02 Demo - 3rd - Variform by kewlers_h264_1856kbit.mp4|sceneorg:demo/variform_by_kewlers.zip|pouet:http://pouet.net/prod.php?which=7138|dtv:http://www.demoscene.tv/prod.php?id_prod=11468
-title:Fable|author:Armada|position:4|media:.oldies-goldies/compos/ASM02 Demo - 4th - Fable by Armada_h264_1856kbit.mp4|sceneorg:demo/fable_by_armada.zip|pouet:http://pouet.net/prod.php?which=7190
-title:32 degrees in the shade|author:Yodel|position:5|media:.oldies-goldies/compos/ASM02 Demo - 5th - 32 degrees in the shade by Yodel_h264_1856kbit.mp4|sceneorg:demo/32_degrees_in_the_shade_by_yodel.zip|pouet:http://pouet.net/prod.php?which=7140|dtv:http://www.demoscene.tv/prod.php?id_prod=210
-title:Clone|author:Critical Mass|position:6|media:.oldies-goldies/compos/ASM02 Demo - 6th - Clone by Critical Mass_h264_1856kbit.mp4|sceneorg:demo/clone_by_critical_mass.zip|pouet:http://pouet.net/prod.php?which=7137
-title:el Ksar el Kabir|author:Bandwagon & Armada|position:7|media:.oldies-goldies/compos/ASM02 Demo - 7th - el Ksar el Kabir by Bandwagon, Armada_h264_1856kbit.mp4|sceneorg:demo/el_ksar_el_kabir_by_bandwagon___armada.zip|pouet:http://pouet.net/prod.php?which=7187
-title:Taesmaeraekae|author:tAAt 2002|position:8|media:.oldies-goldies/compos/ASM02 Demo - 8th - Taesmaeraekae by tAAt_h264_1856kbit.mp4|sceneorg:demo/taesmae_by_taat.zip|pouet:http://pouet.net/prod.php?which=7191
-title:Prospects|author:Unique|position:9|media:.oldies-goldies/compos/ASM02 Demo - 9th - Prospects by Unique_h264_1856kbit.mp4|sceneorg:demo/prospects_final.zip|pouet:http://pouet.net/prod.php?which=7146
-title:Hätä|author:dA JoRMaS|position:10|media:.oldies-goldies/compos/ASM02 Demo - 10th - Hätä by dA JoRMaS_h264_1856kbit.mp4|sceneorg:demo/h_t__by_da_jormas_9.zip|pouet:http://pouet.net/prod.php?which=7151
-title:Metropol(unfinished party version)|author:neonray + throb|position:11|media:.oldies-goldies/compos/ASM02 Demo - 11th - Metropol by neonray, throb_h264_1856kbit.mp4|sceneorg:demo/metropol_final_by_neonray_+_throb.zip|pouet:http://pouet.net/prod.php?which=7179
-title:Warped|author:Bad Karma|position:12|media:.oldies-goldies/compos/ASM02 Demo - 12th - Warped by Bad Karma_h264_1856kbit.mp4|sceneorg:demo/warped_by_bad_karma.zip|pouet:http://pouet.net/prod.php?which=7893
-title:Population Zero|author:Värkki Tuotanto|position:13|media:.oldies-goldies/compos/ASM02 Demo - 13th - Population Zero by Värkki Tuotanto_h264_1856kbit.mp4|sceneorg:demo/population_zero_by_v_rkki_tuotanto.zip|pouet:http://pouet.net/prod.php?which=20615
-title:LICK_THE_EVERYTHING|author:Faktory|position:14|media:.oldies-goldies/compos/ASM02 Demo - 14th - LICK_THE_EVERYTHING by Faktory_h264_1856kbit.mp4|sceneorg:demo/lick_the_everything_by_faktory.zip|pouet:http://pouet.net/prod.php?which=7147
-title:NET|author:Traction|position:15|media:.oldies-goldies/compos/ASM02 Demo - 15th - NET by Traction_h264_1856kbit.mp4|sceneorg:demo/net_by_traction.zip|pouet:http://pouet.net/prod.php?which=10809
+title:liquid... wen?|author:haujobb|position:1|sceneorg:demo/liquid____wen__by_haujobb.zip|pouet:7130|dtv:6254
+title:Halla|author:Moppi Productions|position:2|media:.oldies-goldies/compos/ASM02 Demo - 2nd - Halla by Moppi Productions_h264_1856kbit.mp4|sceneorg:demo/halla_by_moppi.zip|pouet:7132|dtv:4795
+title:Variform|author:kewlers|position:3|media:.oldies-goldies/compos/ASM02 Demo - 3rd - Variform by kewlers_h264_1856kbit.mp4|sceneorg:demo/variform_by_kewlers.zip|pouet:7138|dtv:11468
+title:Fable|author:Armada|position:4|media:.oldies-goldies/compos/ASM02 Demo - 4th - Fable by Armada_h264_1856kbit.mp4|sceneorg:demo/fable_by_armada.zip|pouet:7190
+title:32 degrees in the shade|author:Yodel|position:5|media:.oldies-goldies/compos/ASM02 Demo - 5th - 32 degrees in the shade by Yodel_h264_1856kbit.mp4|sceneorg:demo/32_degrees_in_the_shade_by_yodel.zip|pouet:7140|dtv:210
+title:Clone|author:Critical Mass|position:6|media:.oldies-goldies/compos/ASM02 Demo - 6th - Clone by Critical Mass_h264_1856kbit.mp4|sceneorg:demo/clone_by_critical_mass.zip|pouet:7137
+title:el Ksar el Kabir|author:Bandwagon & Armada|position:7|media:.oldies-goldies/compos/ASM02 Demo - 7th - el Ksar el Kabir by Bandwagon, Armada_h264_1856kbit.mp4|sceneorg:demo/el_ksar_el_kabir_by_bandwagon___armada.zip|pouet:7187
+title:Taesmaeraekae|author:tAAt 2002|position:8|media:.oldies-goldies/compos/ASM02 Demo - 8th - Taesmaeraekae by tAAt_h264_1856kbit.mp4|sceneorg:demo/taesmae_by_taat.zip|pouet:7191
+title:Prospects|author:Unique|position:9|media:.oldies-goldies/compos/ASM02 Demo - 9th - Prospects by Unique_h264_1856kbit.mp4|sceneorg:demo/prospects_final.zip|pouet:7146
+title:Hätä|author:dA JoRMaS|position:10|media:.oldies-goldies/compos/ASM02 Demo - 10th - Hätä by dA JoRMaS_h264_1856kbit.mp4|sceneorg:demo/h_t__by_da_jormas_9.zip|pouet:7151
+title:Metropol(unfinished party version)|author:neonray + throb|position:11|media:.oldies-goldies/compos/ASM02 Demo - 11th - Metropol by neonray, throb_h264_1856kbit.mp4|sceneorg:demo/metropol_final_by_neonray_+_throb.zip|pouet:7179
+title:Warped|author:Bad Karma|position:12|media:.oldies-goldies/compos/ASM02 Demo - 12th - Warped by Bad Karma_h264_1856kbit.mp4|sceneorg:demo/warped_by_bad_karma.zip|pouet:7893
+title:Population Zero|author:Värkki Tuotanto|position:13|media:.oldies-goldies/compos/ASM02 Demo - 13th - Population Zero by Värkki Tuotanto_h264_1856kbit.mp4|sceneorg:demo/population_zero_by_v_rkki_tuotanto.zip|pouet:20615
+title:LICK_THE_EVERYTHING|author:Faktory|position:14|media:.oldies-goldies/compos/ASM02 Demo - 14th - LICK_THE_EVERYTHING by Faktory_h264_1856kbit.mp4|sceneorg:demo/lick_the_everything_by_faktory.zip|pouet:7147
+title:NET|author:Traction|position:15|media:.oldies-goldies/compos/ASM02 Demo - 15th - NET by Traction_h264_1856kbit.mp4|sceneorg:demo/net_by_traction.zip|pouet:10809
 title:Kozmik|author:Jumalauta|position:0|sceneorg:demo/kozmik_by_jumalauta.zip
 title:DevaStation|author:Fingersoft|position:0|sceneorg:demo/devastation_by_fingersoft_3.zip
 title:Limonite|author:Moonhazard|position:0|sceneorg:demo/limonite_by_moonhazard.zip
 title:marutaka501|author:Surface Grant|position:0|sceneorg:demo/marutaka501_by_surface_grant.zip
 title:Laatukauraa|author:tAAt|position:0|sceneorg:demo/laatukauraa_by_taat.tgz
-title:mother mother, my ears bleed|author:mfx|position:0|sceneorg:demo/mother_mother__my_ears_bleed_by_mfx.zip|pouet:http://pouet.net/prod.php?which=7148
+title:mother mother, my ears bleed|author:mfx|position:0|sceneorg:demo/mother_mother__my_ears_bleed_by_mfx.zip|pouet:7148
 title:The Hip Old Skool Demo|author:Täti Pensiö|position:0|sceneorg:demo/the_hip_old_skool_demo_by_t_ti_pensi_.zip
 title:KRAAH|author:R.R.E|position:0|sceneorg:demo/kraah_by_r_r_e_final.zip
 title:Bananas Revenge|author:Dream Dust|position:0|sceneorg:demo/bananas_revenge_by_dream_dust.zip
@@ -186,7 +186,7 @@ title:Karamell (update)|author:Plastic|position:0|sceneorg:demo/karamell__update
 title:Haste|author:Immersion|position:0|sceneorg:demo/haste_by_immersion.zip
 title:Morjen|author:Boolean, Spikeheddd, Handle / Group|position:0|sceneorg:demo/morjen_by_boolean__spikeheddd__handle___group.zip
 title:Wir sind raus|author:Anti Flash Konsortium|position:0|sceneorg:demo/wir_sind_raus_by_anti_flash_konsortium.zip
-title:Spring|author:Ananasmurska|position:0|sceneorg:demo/spring_by_ananasmurska_final.zip|pouet:http://pouet.net/prod.php?which=8834
+title:Spring|author:Ananasmurska|position:0|sceneorg:demo/spring_by_ananasmurska_final.zip|pouet:8834
 title:My Dreams|author:Art mafia collective|position:0|sceneorg:demo/my_dreams_by_art_mafia_collective.zip
 
 ! Instrumental music
@@ -330,84 +330,84 @@ title:Yksin|author:Jou|position:0|sceneorg:forumnokia/yksin_by_jou.zip
 
 ! Wild demo
 
-title:The Way Out|author:Unreal Voodoo|position:1|webfile:wild_demo/the_way_out_by_unreal_voodoo.mpeg|sceneorg:wild/the_way_out_by_unreal_voodoo.mpg|pouet:http://pouet.net/prod.php?which=7144
-title:The Fellow Chip|author:Amazement|position:2|webfile:wild_demo/the_fellow_chip_by_amazement.mpeg|sceneorg:wild/the_fellow_chip_by_amazement.mpg|pouet:http://pouet.net/prod.php?which=10386
-title:Project Kazama Hunt|author:C.C.C.P. Productions|position:3|webfile:wild_demo/project_kazama_hunt_by_c_c_c_p_productions.mpeg|sceneorg:wild/project_kazama_hunt_by_cccp_prods.mpg|pouet:http://pouet.net/prod.php?which=20914
-title:Saberianist - Sapelittaja|author:Miesmacher|position:4|webfile:wild_demo/saberianist_sapelittaja_by_miesmacher.mpeg|sceneorg:wild/saberianist_-_sapelittaja.mpeg|pouet:http://pouet.net/prod.php?which=20915
-title:Ratsia V|author:tAAt|position:5|webfile:wild_demo/ratsia_v_by_taat.avi|sceneorg:wild/ratsia_v_by_taat.avi|pouet:http://pouet.net/prod.php?which=7204
-title:Pilt.tv|author:jadajada|position:6|webfile:wild_demo/pilt_tv_by_jadajada.mpeg|sceneorg:wild/pilt_tv_by_jadajada.mpg|pouet:http://pouet.net/prod.php?which=20917
-title:Losing Victoria|author:Gasman / Hooy-Program|position:7|webfile:wild_demo/losing_victoria_by_gasman_hooy_program.avi|sceneorg:wild/losing_victoria_by_gasman.avi|pouet:http://pouet.net/prod.php?which=7162
-title:Furiae|author:Fragile|position:8|webfile:wild_demo/furiae_by_fragile.avi|sceneorg:wild/furiae_by_fragile.avi|pouet:http://pouet.net/prod.php?which=7841
-title:Naapuri|author:Episent Productions|position:9|webfile:wild_demo/naapuri_by_episent_productions.avi|sceneorg:wild/naapuri_by_episent_productions.avi|pouet:http://pouet.net/prod.php?which=20918
-title:Do whatever you want to me|author:Kahvila Multimedia Systems|position:10|webfile:wild_demo/do_whatever_you_want_to_me_by_kahvila_multimedia_systems.avi|sceneorg:wild/do_whatever_by_kahvila.avi|pouet:http://pouet.net/prod.php?which=7842
-title:The Jumping Duck Factory|author:Mendel/Citec|position:11|webfile:wild_demo/the_jumping_duck_factory_by_mendel_citec.avi|sceneorg:wild/the_jumping_duck_factory_by_mendel.avi|pouet:http://pouet.net/prod.php?which=20921
-title:Action Unknown|author:Trash Video|position:12|webfile:wild_demo/action_unknown_by_trash_video.mpeg|sceneorg:wild/action_unknown_by_trash_video.mpg|pouet:http://pouet.net/prod.php?which=20923
-title:What's up (in da gangstahood)|author:Yodel Street Unit|position:0|webfile:wild_demo/what_s_up_in_da_gangstahood_by_yodel_street_unit.mpeg|sceneorg:wild/whats_up_by_yodel.mpg|pouet:http://pouet.net/prod.php?which=9049
+title:The Way Out|author:Unreal Voodoo|position:1|webfile:wild_demo/the_way_out_by_unreal_voodoo.mpeg|sceneorg:wild/the_way_out_by_unreal_voodoo.mpg|pouet:7144
+title:The Fellow Chip|author:Amazement|position:2|webfile:wild_demo/the_fellow_chip_by_amazement.mpeg|sceneorg:wild/the_fellow_chip_by_amazement.mpg|pouet:10386
+title:Project Kazama Hunt|author:C.C.C.P. Productions|position:3|webfile:wild_demo/project_kazama_hunt_by_c_c_c_p_productions.mpeg|sceneorg:wild/project_kazama_hunt_by_cccp_prods.mpg|pouet:20914
+title:Saberianist - Sapelittaja|author:Miesmacher|position:4|webfile:wild_demo/saberianist_sapelittaja_by_miesmacher.mpeg|sceneorg:wild/saberianist_-_sapelittaja.mpeg|pouet:20915
+title:Ratsia V|author:tAAt|position:5|webfile:wild_demo/ratsia_v_by_taat.avi|sceneorg:wild/ratsia_v_by_taat.avi|pouet:7204
+title:Pilt.tv|author:jadajada|position:6|webfile:wild_demo/pilt_tv_by_jadajada.mpeg|sceneorg:wild/pilt_tv_by_jadajada.mpg|pouet:20917
+title:Losing Victoria|author:Gasman / Hooy-Program|position:7|webfile:wild_demo/losing_victoria_by_gasman_hooy_program.avi|sceneorg:wild/losing_victoria_by_gasman.avi|pouet:7162
+title:Furiae|author:Fragile|position:8|webfile:wild_demo/furiae_by_fragile.avi|sceneorg:wild/furiae_by_fragile.avi|pouet:7841
+title:Naapuri|author:Episent Productions|position:9|webfile:wild_demo/naapuri_by_episent_productions.avi|sceneorg:wild/naapuri_by_episent_productions.avi|pouet:20918
+title:Do whatever you want to me|author:Kahvila Multimedia Systems|position:10|webfile:wild_demo/do_whatever_you_want_to_me_by_kahvila_multimedia_systems.avi|sceneorg:wild/do_whatever_by_kahvila.avi|pouet:7842
+title:The Jumping Duck Factory|author:Mendel/Citec|position:11|webfile:wild_demo/the_jumping_duck_factory_by_mendel_citec.avi|sceneorg:wild/the_jumping_duck_factory_by_mendel.avi|pouet:20921
+title:Action Unknown|author:Trash Video|position:12|webfile:wild_demo/action_unknown_by_trash_video.mpeg|sceneorg:wild/action_unknown_by_trash_video.mpg|pouet:20923
+title:What's up (in da gangstahood)|author:Yodel Street Unit|position:0|webfile:wild_demo/what_s_up_in_da_gangstahood_by_yodel_street_unit.mpeg|sceneorg:wild/whats_up_by_yodel.mpg|pouet:9049
 title:Balalaicka I|author:Kuollut Hanhi|position:0|webfile:wild_demo/balalaicka_i_by_kuollut_hanhi.mpeg|sceneorg:wild/balalaicka_i_by_kuollut_hanhi.mpg
 title:Overclocked|author:Low Budget Movies|position:0|webfile:wild_demo/overclocked_by_low_budget_movies.mpeg|sceneorg:wild/overclocked_by_low_budget_movies.mpg
 title:Kood|author:Mad Crew|position:0
-title:Unvollkommene Tiere|author:nosfe / mfx|position:0|webfile:wild_demo/unvollkommene_tiere_by_nosfe_mfx.mpeg|sceneorg:wild/unvollkommene_tiere_by_nosfe.mpg|pouet:http://pouet.net/prod.php?which=7199
+title:Unvollkommene Tiere|author:nosfe / mfx|position:0|webfile:wild_demo/unvollkommene_tiere_by_nosfe_mfx.mpeg|sceneorg:wild/unvollkommene_tiere_by_nosfe.mpg|pouet:7199
 title:Tomp Radar - And The Lost Pieces of Neliö|author:K.E.-Pictures|position:0|webfile:wild_demo/tomp_radar_and_the_lost_pieces_of_neli_by_k_e_pictures.mpeg|sceneorg:wild/tomp_radar_by_ke_pictures.mpg
 title:Höpötti|author:Masasoft|position:0
-title:Milk|author:Systematik Dream Korp aka SDK|position:0|webfile:wild_demo/milk_by_systematik_dream_korp_aka_sdk.avi|sceneorg:wild/milk_by_sdk.avi|pouet:http://pouet.net/prod.php?which=6277
+title:Milk|author:Systematik Dream Korp aka SDK|position:0|webfile:wild_demo/milk_by_systematik_dream_korp_aka_sdk.avi|sceneorg:wild/milk_by_sdk.avi|pouet:6277
 title:Tuning tarina - The Movie|author:Tero K|position:0|webfile:wild_demo/tuning_tarina_the_movie_by_tero_k.avi|sceneorg:wild/tuning_tarina_by_tero_k.avi
 title:Pertti the Motion Picture|author:Spurged Squash|position:0|webfile:wild_demo/pertti_the_motion_picture_by_spurged_squash.avi|sceneorg:wild/pertti_by_spurged_squash.avi
 title:The End Of The World|author:Golem|position:0|webfile:wild_demo/the_end_of_the_world_by_golem.mpeg|sceneorg:wild/the_end_of_the_world_by_golem.mpg
 
 ! Animation
 
-title:Project Kerosene|author:Heikki Anttila & Milan Kolarovic|position:1|webfile:animation/project_kerosene_by_heikki_anttila_milan_kolarovic.avi|sceneorg:anim/project_kerosene_by_anttila_kolarovic.avi|pouet:http://pouet.net/prod.php?which=8350|dtv:http://www.demoscene.tv/prod.php?id_prod=8350
-title:Blue|author:Visualice and Melwyn of Haujobb|position:2|webfile:animation/blue_by_visualice_and_melwyn_of_haujobb.avi|sceneorg:anim/blue_by_melwyn.avi|pouet:http://pouet.net/prod.php?which=7605|dtv:http://www.demoscene.tv/prod.php?id_prod=1521
-title:A Knightly Tale|author:Vortex Studios|position:3|webfile:animation/a_knightly_tale_by_vortex_studios.avi|sceneorg:anim/a_knightly_tale_by_vortex_studios.avi|pouet:http://pouet.net/prod.php?which=20601
-title:kepsumaa|author:fragment & cyrus|position:4|webfile:animation/kepsumaa_by_fragment_cyrus.avi|sceneorg:anim/kepsumaa_by_fragment_and_cyrus.avi|pouet:http://pouet.net/prod.php?which=7731
-title:Piece of cake|author:Mad Crew|position:5|webfile:animation/piece_of_cake_by_mad_crew.mpeg|sceneorg:anim/piece-of-cake_by_mad_crew.mpg|pouet:http://pouet.net/prod.php?which=20602
-title:Heroes are Eternal|author:SBI Allstars|position:6|webfile:animation/heroes_are_eternal_by_sbi_allstars.avi|sceneorg:anim/heroes_are_eternal_by_sbi_allstars.avi|pouet:http://pouet.net/prod.php?which=20604|dtv:http://www.demoscene.tv/prod.php?id_prod=12339
-title:Puppe The Alien|author:K.E.-Pictures|position:7|webfile:animation/puppe_the_alien_by_k_e_pictures.mpeg|sceneorg:anim/puppe_the_alien_by_ke_pics.mpg|pouet:http://pouet.net/prod.php?which=20605
-title:The Band|author:Cow - Productions|position:8|webfile:animation/the_band_by_cow_productions.avi|sceneorg:anim/the_band_by_cow_productions.avi|pouet:http://pouet.net/prod.php?which=20606
-title:Sneiken|author:Zeliar|position:9|webfile:animation/sneiken_by_zeliar.avi|sceneorg:anim/sneiken_by_zeliar.avi|pouet:http://pouet.net/prod.php?which=20607
-title:Aquarium|author:Entropia|position:0|webfile:animation/aquarium_by_entropia.mpeg|sceneorg:anim/aquarium_by_entropia.mpg|pouet:http://pouet.net/prod.php?which=7902
-title:heikotus|author:nosfe/mfx|position:0|webfile:animation/heikotus_by_nosfe_mfx.mpeg|sceneorg:anim/heikotus_by_nosfe.mpg|pouet:http://pouet.net/prod.php?which=7200
-title:Help!|author:Trance14 and Lapa|position:0|webfile:animation/help_by_trance14_and_lapa.mpeg|sceneorg:anim/help_by_trance14_and_lapa.mpg|pouet:http://pouet.net/prod.php?which=20609
+title:Project Kerosene|author:Heikki Anttila & Milan Kolarovic|position:1|webfile:animation/project_kerosene_by_heikki_anttila_milan_kolarovic.avi|sceneorg:anim/project_kerosene_by_anttila_kolarovic.avi|pouet:8350|dtv:8350
+title:Blue|author:Visualice and Melwyn of Haujobb|position:2|webfile:animation/blue_by_visualice_and_melwyn_of_haujobb.avi|sceneorg:anim/blue_by_melwyn.avi|pouet:7605|dtv:1521
+title:A Knightly Tale|author:Vortex Studios|position:3|webfile:animation/a_knightly_tale_by_vortex_studios.avi|sceneorg:anim/a_knightly_tale_by_vortex_studios.avi|pouet:20601
+title:kepsumaa|author:fragment & cyrus|position:4|webfile:animation/kepsumaa_by_fragment_cyrus.avi|sceneorg:anim/kepsumaa_by_fragment_and_cyrus.avi|pouet:7731
+title:Piece of cake|author:Mad Crew|position:5|webfile:animation/piece_of_cake_by_mad_crew.mpeg|sceneorg:anim/piece-of-cake_by_mad_crew.mpg|pouet:20602
+title:Heroes are Eternal|author:SBI Allstars|position:6|webfile:animation/heroes_are_eternal_by_sbi_allstars.avi|sceneorg:anim/heroes_are_eternal_by_sbi_allstars.avi|pouet:20604|dtv:12339
+title:Puppe The Alien|author:K.E.-Pictures|position:7|webfile:animation/puppe_the_alien_by_k_e_pictures.mpeg|sceneorg:anim/puppe_the_alien_by_ke_pics.mpg|pouet:20605
+title:The Band|author:Cow - Productions|position:8|webfile:animation/the_band_by_cow_productions.avi|sceneorg:anim/the_band_by_cow_productions.avi|pouet:20606
+title:Sneiken|author:Zeliar|position:9|webfile:animation/sneiken_by_zeliar.avi|sceneorg:anim/sneiken_by_zeliar.avi|pouet:20607
+title:Aquarium|author:Entropia|position:0|webfile:animation/aquarium_by_entropia.mpeg|sceneorg:anim/aquarium_by_entropia.mpg|pouet:7902
+title:heikotus|author:nosfe/mfx|position:0|webfile:animation/heikotus_by_nosfe_mfx.mpeg|sceneorg:anim/heikotus_by_nosfe.mpg|pouet:7200
+title:Help!|author:Trance14 and Lapa|position:0|webfile:animation/help_by_trance14_and_lapa.mpeg|sceneorg:anim/help_by_trance14_and_lapa.mpg|pouet:20609
 
 ! Combined 64k intro
 
-title:squish|author:AND|position:1|media:.oldies-goldies/compos/ASM02 64k - 1st - squish by AND_h264_1856kbit.mp4|sceneorg:in64/squish_by_and.zip|pouet:http://pouet.net/prod.php?which=7135
-title:Future visions|author:Potion|position:2|media:.oldies-goldies/compos/ASM02 64k - 2nd - Future visions by Potion_h264_1856kbit.mp4|sceneorgvideo:./assembly02/in64/ass02.amiga.64k.potion.future.visions.vcd.mpeg|sceneorg:in64/future_visions_by_potion.lha|pouet:http://pouet.net/prod.php?which=7210
-title:Sketch|author:Noice|position:3|media:.oldies-goldies/compos/ASM02 64k - 3rd - Sketch by Noice_h264_1856kbit.mp4|sceneorg:in64/noc_sketch_final.zip|pouet:http://pouet.net/prod.php?which=7157
-title:Lord of the Dogs|author:Kaita|position:4|media:.oldies-goldies/compos/ASM02 64k - 4th - Lord of the Dogs by Kaita_h264_1856kbit.mp4|sceneorg:in64/lord_of_the_dogs_by_kaita_1.tgz|pouet:http://pouet.net/prod.php?which=7141
-title:Neuroosiverkko 43KB - Neurosis Network|author:tAAt 2002|position:5|media:.oldies-goldies/compos/ASM02 64k - 5th - Neuroosiverkko 43k by tAAt_h264_1856kbit.mp4|sceneorg:in64/neuroosiverkko_43kb_-_neurosis_network_by_taat_2002.zip|pouet:http://pouet.net/prod.php?which=7203
-title:974 mites|author:kewlers|position:6|media:.oldies-goldies/compos/ASM02 64k - 6th - 974 mites by kewlers_h264_1856kbit.mp4|sceneorg:in64/974_mites_by_kewlers.zip|pouet:http://pouet.net/prod.php?which=7134
-title:We Took the Kebabmoduli|author:Grin|position:7|media:.oldies-goldies/compos/ASM02 64k - 7th - We Took the Kebabmoduli by Grin_h264_1856kbit.mp4|sceneorg:in64/we_took_the_kebabmoduli_by_grin.zip|pouet:http://pouet.net/prod.php?which=7155
-title:Timeframe|author:Fairlight|position:8|media:.oldies-goldies/compos/ASM02 64k - 8th - Timeframe by Fairlight_h264_1856kbit.mp4|sceneorg:in64/timeframe_by_fairlight_1.zip|pouet:http://pouet.net/prod.php?which=7152
-title:varhaiset signaalit|author:aikarele|position:9|media:.oldies-goldies/compos/ASM02 64k - 9th - varhaiset signaalit by aikarele_h264_1856kbit.mp4|sceneorg:in64/varhaiset_signaalit_by_aikarele.zip|pouet:http://pouet.net/prod.php?which=7145
-title:kvinjara|author:details|position:10|media:.oldies-goldies/compos/ASM02 64k - 10th - kvinjara by details_h264_1856kbit.mp4|sceneorg:in64/kvinjara_by_details.zip|pouet:http://pouet.net/prod.php?which=7139
-title:return|author:karva|position:11|media:.oldies-goldies/compos/ASM02 64k - 11th - return by karva_h264_1856kbit.mp4|sceneorg:in64/return_by_karva.zip|pouet:http://pouet.net/prod.php?which=7153
-title:pOetry|author:0x7a69.au|position:12|media:.oldies-goldies/compos/ASM02 64k - 12th - p0etry by 0x7a69.au_h264_1856kbit.mp4|sceneorg:in64/poetry_by_0x7a69_au.zip|pouet:http://pouet.net/prod.php?which=7131
-title:Toren|author:Phantom Lord / Critical Mass|position:13|media:.oldies-goldies/compos/ASM02 64k - 13th - Toren by Phantom Lord_h264_1856kbit.mp4|sceneorg:in64/toren_by_phantom_lord___critical_mass.zip|pouet:http://pouet.net/prod.php?which=7136
-title:One Day Miracle|author:Fit|position:14|media:.oldies-goldies/compos/ASM02 64k - 14th - One Day Miracle by Fit_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=7196
+title:squish|author:AND|position:1|media:.oldies-goldies/compos/ASM02 64k - 1st - squish by AND_h264_1856kbit.mp4|sceneorg:in64/squish_by_and.zip|pouet:7135
+title:Future visions|author:Potion|position:2|media:.oldies-goldies/compos/ASM02 64k - 2nd - Future visions by Potion_h264_1856kbit.mp4|sceneorgvideo:./assembly02/in64/ass02.amiga.64k.potion.future.visions.vcd.mpeg|sceneorg:in64/future_visions_by_potion.lha|pouet:7210
+title:Sketch|author:Noice|position:3|media:.oldies-goldies/compos/ASM02 64k - 3rd - Sketch by Noice_h264_1856kbit.mp4|sceneorg:in64/noc_sketch_final.zip|pouet:7157
+title:Lord of the Dogs|author:Kaita|position:4|media:.oldies-goldies/compos/ASM02 64k - 4th - Lord of the Dogs by Kaita_h264_1856kbit.mp4|sceneorg:in64/lord_of_the_dogs_by_kaita_1.tgz|pouet:7141
+title:Neuroosiverkko 43KB - Neurosis Network|author:tAAt 2002|position:5|media:.oldies-goldies/compos/ASM02 64k - 5th - Neuroosiverkko 43k by tAAt_h264_1856kbit.mp4|sceneorg:in64/neuroosiverkko_43kb_-_neurosis_network_by_taat_2002.zip|pouet:7203
+title:974 mites|author:kewlers|position:6|media:.oldies-goldies/compos/ASM02 64k - 6th - 974 mites by kewlers_h264_1856kbit.mp4|sceneorg:in64/974_mites_by_kewlers.zip|pouet:7134
+title:We Took the Kebabmoduli|author:Grin|position:7|media:.oldies-goldies/compos/ASM02 64k - 7th - We Took the Kebabmoduli by Grin_h264_1856kbit.mp4|sceneorg:in64/we_took_the_kebabmoduli_by_grin.zip|pouet:7155
+title:Timeframe|author:Fairlight|position:8|media:.oldies-goldies/compos/ASM02 64k - 8th - Timeframe by Fairlight_h264_1856kbit.mp4|sceneorg:in64/timeframe_by_fairlight_1.zip|pouet:7152
+title:varhaiset signaalit|author:aikarele|position:9|media:.oldies-goldies/compos/ASM02 64k - 9th - varhaiset signaalit by aikarele_h264_1856kbit.mp4|sceneorg:in64/varhaiset_signaalit_by_aikarele.zip|pouet:7145
+title:kvinjara|author:details|position:10|media:.oldies-goldies/compos/ASM02 64k - 10th - kvinjara by details_h264_1856kbit.mp4|sceneorg:in64/kvinjara_by_details.zip|pouet:7139
+title:return|author:karva|position:11|media:.oldies-goldies/compos/ASM02 64k - 11th - return by karva_h264_1856kbit.mp4|sceneorg:in64/return_by_karva.zip|pouet:7153
+title:pOetry|author:0x7a69.au|position:12|media:.oldies-goldies/compos/ASM02 64k - 12th - p0etry by 0x7a69.au_h264_1856kbit.mp4|sceneorg:in64/poetry_by_0x7a69_au.zip|pouet:7131
+title:Toren|author:Phantom Lord / Critical Mass|position:13|media:.oldies-goldies/compos/ASM02 64k - 13th - Toren by Phantom Lord_h264_1856kbit.mp4|sceneorg:in64/toren_by_phantom_lord___critical_mass.zip|pouet:7136
+title:One Day Miracle|author:Fit|position:14|media:.oldies-goldies/compos/ASM02 64k - 14th - One Day Miracle by Fit_h264_1856kbit.mp4|pouet:7196
 title:Jahva|author:Leiponen|position:0
-title:Lehmä se tietää elämästä|author:Lactic Acid|position:0|sceneorg:in64/lehm__se_tiet___el_m_st__by_lactic_acid.zip|pouet:http://pouet.net/prod.php?which=15859
-title:More Coffee|author:Café|position:0|sceneorg:in64/more_coffee_by_caf__2.zip|pouet:http://pouet.net/prod.php?which=12799
-title:Ninja In The Shower|author:NinjaGefilus|position:0|sceneorg:in64/ninja_in_the_shower_by_ninjagefilus.lha|pouet:http://pouet.net/prod.php?which=13734
-title:Nokia Sucks|author:The Swedes|position:0|sceneorg:in64/nokiasucks_by_swedes.zip|pouet:http://pouet.net/prod.php?which=7189
-title:unssi kertoo vitsin|author:jumalauta|position:0|sceneorg:in64/unssi_kertoo_vitsin_by_jumalauta.zip|pouet:http://pouet.net/prod.php?which=6993
-title:vittu vs perkele|author:Odd|position:0|sceneorg:in64/vittu_vs_perkele_by_odd.zip|pouet:http://pouet.net/prod.php?which=7186
+title:Lehmä se tietää elämästä|author:Lactic Acid|position:0|sceneorg:in64/lehm__se_tiet___el_m_st__by_lactic_acid.zip|pouet:15859
+title:More Coffee|author:Café|position:0|sceneorg:in64/more_coffee_by_caf__2.zip|pouet:12799
+title:Ninja In The Shower|author:NinjaGefilus|position:0|sceneorg:in64/ninja_in_the_shower_by_ninjagefilus.lha|pouet:13734
+title:Nokia Sucks|author:The Swedes|position:0|sceneorg:in64/nokiasucks_by_swedes.zip|pouet:7189
+title:unssi kertoo vitsin|author:jumalauta|position:0|sceneorg:in64/unssi_kertoo_vitsin_by_jumalauta.zip|pouet:6993
+title:vittu vs perkele|author:Odd|position:0|sceneorg:in64/vittu_vs_perkele_by_odd.zip|pouet:7186
 
 ! Combined 4k intro
 
-title:humus3|author:Exploder / PUSH Entertainment|position:1|sceneorg:in4k/humus3_by_exploder___push_entertainment.lzx|pouet:http://pouet.net/prod.php?which=7133
-title:Sotakyrpä|author:Spaceballs & Ephidrena|position:2|sceneorg:in4k/sotakyrpa_by_spaceballs_ephidrena.lha|pouet:http://pouet.net/prod.php?which=7123
-title:NAFTA|author:tonic|position:2|sceneorg:in4k/nafta_by_tonic.zip|pouet:http://pouet.net/prod.php?which=7124
-title:XBox|author:Juippi & Trilkk/FHI|position:3|sceneorg:in4k/xbox_by_juippi___trilkk__final_.tgz|pouet:http://pouet.net/prod.php?which=13064
-title:224|author:Shadow of Noice|position:4|sceneorg:in4k/224_by_shadow_of_noice.zip|pouet:http://pouet.net/prod.php?which=7118
-title:Promille|author:Rock|position:5|sceneorg:in4k/promille_by_rock.lha|pouet:http://pouet.net/prod.php?which=7125
-title:Lets play chess|author:BuG / PuavoHard|position:7|sceneorg:in4k/lets_play_chess_by_bug___puavohard_4.zip|pouet:http://pouet.net/prod.php?which=20610
-title:Kwak|author:calodox|position:7|sceneorg:in4k/kwak_by_calodox.zip|pouet:http://pouet.net/prod.php?which=7105
-title:Trees|author:Northern Dragons|position:8|sceneorg:in4k/trees_by_northern_dragons.zip|pouet:http://pouet.net/prod.php?which=9311
-title:Powerhug|author:Plastic|position:9|sceneorg:in4k/powerhug_by_plastic.zip|pouet:http://pouet.net/prod.php?which=20611
-title:c.hello|author:HeadcrasH|position:10|sceneorg:in4k/c_hello_by_headcrash.zip|pouet:http://pouet.net/prod.php?which=7120
-title:lametus|author:lenin_ra|position:11|sceneorg:in4k/lametus_by_lenin_ra.zip|pouet:http://pouet.net/prod.php?which=20612
-title:Sifiela|author:Itchi / Lonely Coders|position:12|sceneorg:in4k/sifiela_by_itchi___lonely_coders.zip|pouet:http://pouet.net/prod.php?which=20613
+title:humus3|author:Exploder / PUSH Entertainment|position:1|sceneorg:in4k/humus3_by_exploder___push_entertainment.lzx|pouet:7133
+title:Sotakyrpä|author:Spaceballs & Ephidrena|position:2|sceneorg:in4k/sotakyrpa_by_spaceballs_ephidrena.lha|pouet:7123
+title:NAFTA|author:tonic|position:2|sceneorg:in4k/nafta_by_tonic.zip|pouet:7124
+title:XBox|author:Juippi & Trilkk/FHI|position:3|sceneorg:in4k/xbox_by_juippi___trilkk__final_.tgz|pouet:13064
+title:224|author:Shadow of Noice|position:4|sceneorg:in4k/224_by_shadow_of_noice.zip|pouet:7118
+title:Promille|author:Rock|position:5|sceneorg:in4k/promille_by_rock.lha|pouet:7125
+title:Lets play chess|author:BuG / PuavoHard|position:7|sceneorg:in4k/lets_play_chess_by_bug___puavohard_4.zip|pouet:20610
+title:Kwak|author:calodox|position:7|sceneorg:in4k/kwak_by_calodox.zip|pouet:7105
+title:Trees|author:Northern Dragons|position:8|sceneorg:in4k/trees_by_northern_dragons.zip|pouet:9311
+title:Powerhug|author:Plastic|position:9|sceneorg:in4k/powerhug_by_plastic.zip|pouet:20611
+title:c.hello|author:HeadcrasH|position:10|sceneorg:in4k/c_hello_by_headcrash.zip|pouet:7120
+title:lametus|author:lenin_ra|position:11|sceneorg:in4k/lametus_by_lenin_ra.zip|pouet:20612
+title:Sifiela|author:Itchi / Lonely Coders|position:12|sceneorg:in4k/sifiela_by_itchi___lonely_coders.zip|pouet:20613
 
 ! Vocal music
 

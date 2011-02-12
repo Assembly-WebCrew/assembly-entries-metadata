@@ -1,10 +1,10 @@
 ! Mobile demo
 
-title:Pulque|author:Hedelmae|position:1|sceneorgvideo:./compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|sceneorg:mobile_demo/pulque_by_hedelmae_1.zip|pouet:http://pouet.net/prod.php?which=25771|dtv:http://www.demoscene.tv/prod.php?id_prod=12619
-title:Who's Your Favourite Clown?|author:Shitfaced Clowns|position:2|sceneorgvideo:./compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|sceneorg:mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|pouet:http://pouet.net/prod.php?which=25797
-title:Follow The Sign 4|author:Byterapers|position:3|sceneorg:mobile_demo/b-fts4-psp.zip|pouet:http://pouet.net/prod.php?which=25842
-title:AiES|author:Exile Studios|position:4|sceneorgvideo:./compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|sceneorg:mobile_demo/aies_by_exile_studios_2.zip|pouet:http://pouet.net/prod.php?which=25799|dtv:http://www.demoscene.tv/prod.php?id_prod=12620
-title:Caffeine|author:wbs|position:5|sceneorgvideo:./compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|sceneorg:mobile_demo/caffeine_by_wbs_final.zip|pouet:http://pouet.net/prod.php?which=25798
+title:Pulque|author:Hedelmae|position:1|sceneorgvideo:./compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|sceneorg:mobile_demo/pulque_by_hedelmae_1.zip|pouet:25771|dtv:12619
+title:Who's Your Favourite Clown?|author:Shitfaced Clowns|position:2|sceneorgvideo:./compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|sceneorg:mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|pouet:25797
+title:Follow The Sign 4|author:Byterapers|position:3|sceneorg:mobile_demo/b-fts4-psp.zip|pouet:25842
+title:AiES|author:Exile Studios|position:4|sceneorgvideo:./compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|sceneorg:mobile_demo/aies_by_exile_studios_2.zip|pouet:25799|dtv:12620
+title:Caffeine|author:wbs|position:5|sceneorgvideo:./compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|sceneorg:mobile_demo/caffeine_by_wbs_final.zip|pouet:25798
 
 ! Oldskool graphics
 
@@ -21,16 +21,16 @@ title:Give us a Lift to the Moon|author:Jumpseri|position:10|webfile:oldskool_gr
 
 ! Game development
 
-title:Frets on fire|author:Unreal Voodoo|position:1|sceneorgvideo:./compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|sceneorg:game/fretsonfire-1.0.184-win32.zip|pouet:http://pouet.net/prod.php?which=25819
-title:Racing Pitch|author:tAAt 2006 & Skinflake|position:2|sceneorgvideo:./compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|sceneorg:game/racingpitch100.zip|pouet:http://pouet.net/prod.php?which=25772
-title:TattooFrenzy|author:Fingersoft|position:3|sceneorgvideo:./compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|sceneorg:game/tattoofrenzy11_ppc_by_fingersoft.zip|pouet:http://pouet.net/prod.php?which=25699
-title:Bloboats|author:Blobtrox|position:4|sceneorgvideo:./compo_videos/dvavi/game/bloboats_by_blobtrox.avi|sceneorg:game/bloboats-1.0.0.zip|pouet:http://pouet.net/prod.php?which=25820
+title:Frets on fire|author:Unreal Voodoo|position:1|sceneorgvideo:./compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|sceneorg:game/fretsonfire-1.0.184-win32.zip|pouet:25819
+title:Racing Pitch|author:tAAt 2006 & Skinflake|position:2|sceneorgvideo:./compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|sceneorg:game/racingpitch100.zip|pouet:25772
+title:TattooFrenzy|author:Fingersoft|position:3|sceneorgvideo:./compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|sceneorg:game/tattoofrenzy11_ppc_by_fingersoft.zip|pouet:25699
+title:Bloboats|author:Blobtrox|position:4|sceneorgvideo:./compo_videos/dvavi/game/bloboats_by_blobtrox.avi|sceneorg:game/bloboats-1.0.0.zip|pouet:25820
 title:Super Puzzle 9|author:Aroppuu|position:5|sceneorgvideo:./compo_videos/dvavi/game/super_puzzle_9_by_aroppuu.avi|sceneorg:game/puzzle.zip
-title:Armageddon Armadillo Assault|author:Traction & Jumalauta|position:6|sceneorgvideo:./compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|sceneorg:game/aaa10.exe|pouet:http://pouet.net/prod.php?which=25692
-title:Highway to Assembly|author:Archee|position:7|sceneorgvideo:./compo_videos/dvavi/game/highway_to_assembly_archee.avi|sceneorg:game/highway.zip|pouet:http://pouet.net/prod.php?which=25766
-title:UBV 2006|author:IHIHI|position:8|sceneorgvideo:./compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|sceneorg:game/ubv2006_updated.zip|pouet:http://pouet.net/prod.php?which=25843
+title:Armageddon Armadillo Assault|author:Traction & Jumalauta|position:6|sceneorgvideo:./compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|sceneorg:game/aaa10.exe|pouet:25692
+title:Highway to Assembly|author:Archee|position:7|sceneorgvideo:./compo_videos/dvavi/game/highway_to_assembly_archee.avi|sceneorg:game/highway.zip|pouet:25766
+title:UBV 2006|author:IHIHI|position:8|sceneorgvideo:./compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|sceneorg:game/ubv2006_updated.zip|pouet:25843
 title:Absorb|author:Absorb development team|position:9|sceneorgvideo:./compo_videos/dvavi/game/absorb_by_absorb_development_team.avi|sceneorg:game/absorb_update.zip
-title:Boom! Boom! Driller!|author:Ass Hat Designs|position:10|sceneorgvideo:./compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|sceneorg:game/boomboomdriller102a.zip|pouet:http://pouet.net/prod.php?which=26966
+title:Boom! Boom! Driller!|author:Ass Hat Designs|position:10|sceneorgvideo:./compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|sceneorg:game/boomboomdriller102a.zip|pouet:26966
 title:Stariffic|author:XZM|position:11|sceneorgvideo:./compo_videos/dvavi/game/starriffic_by_xzm.avi|sceneorg:game/stariffic-060803-0146.zip
 title:Antigravitaattori|author:Team Sauna|position:12|sceneorgvideo:./compo_videos/dvavi/game/antigravitaattori_by_team_sauna.avi|sceneorg:game/antigravitaattori_update2.zip
 title:CellRace|author:nope.tv|position:13|sceneorgvideo:./compo_videos/dvavi/game/cellrace_by_nope.tv.avi|sceneorg:game/cellrace-1.0.2.zip
@@ -38,19 +38,19 @@ title:Spacetruck|author:Kutale Entertainment|position:14|sceneorgvideo:./compo_v
 
 ! 64k intro
 
-title:dead ringer|author:fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|sceneorg:in64/dead_ringer_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=25776|dtv:http://www.demoscene.tv/prod.php?id_prod=12627
-title:Chaos Theory|author:Conspiracy|position:2|sceneorgvideo:./compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|sceneorg:in64/chaos_theory_by_conspiracy.zip|pouet:http://pouet.net/prod.php?which=25774|dtv:http://www.demoscene.tv/prod.php?id_prod=12629
-title:Aesterozoa|author:Kewlers|position:3|sceneorgvideo:./compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|sceneorg:in64/aesterozoa_by_kewlers.zip|pouet:http://pouet.net/prod.php?which=25777|dtv:http://www.demoscene.tv/prod.php?id_prod=12621
-title:FR-048: Precision|author:Farbrausch|position:4|sceneorgvideo:./compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|sceneorg:in64/fr-048_precision_by_farbrausch.zip|pouet:http://pouet.net/prod.php?which=25775|dtv:http://www.demoscene.tv/prod.php?id_prod=12630
-title:Emo Defect|author:Fiture Crew|position:5|sceneorgvideo:./compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|sceneorg:in64/emo_defect_by_fiture_crew.tar_gz|pouet:http://pouet.net/prod.php?which=25794
-title:Rather Mediocre Laser Trip Experience|author:aspekt|position:6|sceneorgvideo:./compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|sceneorg:in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|pouet:http://pouet.net/prod.php?which=25793|dtv:http://www.demoscene.tv/prod.php?id_prod=12625
-title:Naked blonde chicks|author:Immersion|position:7|sceneorgvideo:./compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|sceneorg:in64/naked_blonde_chicks_by_immersion.tgz|pouet:http://pouet.net/prod.php?which=25795|dtv:http://www.demoscene.tv/prod.php?id_prod=12626
+title:dead ringer|author:fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|sceneorg:in64/dead_ringer_by_fairlight.zip|pouet:25776|dtv:12627
+title:Chaos Theory|author:Conspiracy|position:2|sceneorgvideo:./compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|sceneorg:in64/chaos_theory_by_conspiracy.zip|pouet:25774|dtv:12629
+title:Aesterozoa|author:Kewlers|position:3|sceneorgvideo:./compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|sceneorg:in64/aesterozoa_by_kewlers.zip|pouet:25777|dtv:12621
+title:FR-048: Precision|author:Farbrausch|position:4|sceneorgvideo:./compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|sceneorg:in64/fr-048_precision_by_farbrausch.zip|pouet:25775|dtv:12630
+title:Emo Defect|author:Fiture Crew|position:5|sceneorgvideo:./compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|sceneorg:in64/emo_defect_by_fiture_crew.tar_gz|pouet:25794
+title:Rather Mediocre Laser Trip Experience|author:aspekt|position:6|sceneorgvideo:./compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|sceneorg:in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|pouet:25793|dtv:12625
+title:Naked blonde chicks|author:Immersion|position:7|sceneorgvideo:./compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|sceneorg:in64/naked_blonde_chicks_by_immersion.tgz|pouet:25795|dtv:12626
 
 ! Oldskool demo
 
-title:Fruitcake|author:RNO|position:1|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|sceneorg:oldskool/demo/fruitcake_by_rno.lha|pouet:http://pouet.net/prod.php?which=25765|dtv:http://www.demoscene.tv/prod.php?id_prod=12616
-title:Progress Without Progress|author:PWP|position:2|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|sceneorg:oldskool/demo/progress_without_progress_by_pwp.zip|pouet:http://pouet.net/prod.php?which=25764|dtv:http://www.demoscene.tv/prod.php?id_prod=12617
-title:Monkey Cowboys Extreme|author:Jumalauta|position:3|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|sceneorg:oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|pouet:http://pouet.net/prod.php?which=25763|dtv:http://www.demoscene.tv/prod.php?id_prod=12618
+title:Fruitcake|author:RNO|position:1|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|sceneorg:oldskool/demo/fruitcake_by_rno.lha|pouet:25765|dtv:12616
+title:Progress Without Progress|author:PWP|position:2|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|sceneorg:oldskool/demo/progress_without_progress_by_pwp.zip|pouet:25764|dtv:12617
+title:Monkey Cowboys Extreme|author:Jumalauta|position:3|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|sceneorg:oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|pouet:25763|dtv:12618
 
 ! Fast graphics
 
@@ -163,28 +163,28 @@ title:Lord of The Flies|author:GNOL|position:0|webfile:instrumental_music/lord_o
 
 ! 4k intro
 
-title:Glitterati|author:Fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|sceneorg:in4k/glitterati_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=25755|dtv:http://www.demoscene.tv/prod.php?id_prod=12622
-title:Andromedary|author:tAAt & XZM|position:2|sceneorgvideo:./compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|sceneorg:in4k/andromedary_by_taat_xzm.zip|pouet:http://pouet.net/prod.php?which=25756|dtv:http://www.demoscene.tv/prod.php?id_prod=12623
-title:The Thing|author:Prophecy / Unknown Artistis|position:3|sceneorgvideo:./compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|sceneorg:in4k/the_thing_by_prophecy_unknown_artistis.zip|pouet:http://pouet.net/prod.php?which=25757
-title:Rhythm 2|author:Dreadful sight|position:4|sceneorgvideo:./compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|sceneorg:in4k/rhythm_2_by_dreadful_sight.zip|pouet:http://pouet.net/prod.php?which=25758
-title:K'tr4kt|author:Northern Dragons|position:5|sceneorgvideo:./compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|sceneorg:in4k/k_tr4kt_by_northern_dragons.zip|pouet:http://pouet.net/prod.php?which=25761|dtv:http://www.demoscene.tv/prod.php?id_prod=12624
-title:Shroom|author:kiirala|position:6|sceneorgvideo:./compo_videos/dvavi/in4k/shroom_by_kiirala.avi|sceneorg:in4k/shroom_by_kiirala.tar.gz|pouet:http://pouet.net/prod.php?which=25759
-title:Last Man Swinging|author:Fingersoft|position:7|sceneorgvideo:./compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|sceneorg:in4k/last_man_swinging_by_fingersoft.zip|pouet:http://pouet.net/prod.php?which=25760
-title:DRM I - The First Element|author:Dragon Magic|position:8|sceneorgvideo:./compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|sceneorg:in4k/drm_i_-_the_first_element_by_dragon_magic.zip|pouet:http://pouet.net/prod.php?which=25762
+title:Glitterati|author:Fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|sceneorg:in4k/glitterati_by_fairlight.zip|pouet:25755|dtv:12622
+title:Andromedary|author:tAAt & XZM|position:2|sceneorgvideo:./compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|sceneorg:in4k/andromedary_by_taat_xzm.zip|pouet:25756|dtv:12623
+title:The Thing|author:Prophecy / Unknown Artistis|position:3|sceneorgvideo:./compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|sceneorg:in4k/the_thing_by_prophecy_unknown_artistis.zip|pouet:25757
+title:Rhythm 2|author:Dreadful sight|position:4|sceneorgvideo:./compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|sceneorg:in4k/rhythm_2_by_dreadful_sight.zip|pouet:25758
+title:K'tr4kt|author:Northern Dragons|position:5|sceneorgvideo:./compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|sceneorg:in4k/k_tr4kt_by_northern_dragons.zip|pouet:25761|dtv:12624
+title:Shroom|author:kiirala|position:6|sceneorgvideo:./compo_videos/dvavi/in4k/shroom_by_kiirala.avi|sceneorg:in4k/shroom_by_kiirala.tar.gz|pouet:25759
+title:Last Man Swinging|author:Fingersoft|position:7|sceneorgvideo:./compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|sceneorg:in4k/last_man_swinging_by_fingersoft.zip|pouet:25760
+title:DRM I - The First Element|author:Dragon Magic|position:8|sceneorgvideo:./compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|sceneorg:in4k/drm_i_-_the_first_element_by_dragon_magic.zip|pouet:25762
 
 ! Short film
 
-title:Wild Food|author:Tekotuotanto|position:1|webfile:short_film/wild_food_by_tekotuotanto.avi|media:./2006/compos/145_wild_food_h264_1856kbps.mp4|sceneorg:short_film/wild_food_xvid_1856kbps.avi|pouet:http://pouet.net/prod.php?which=27937
-title:What's up with adults|author:maxon|position:2|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|media:./2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|sceneorg:short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|pouet:http://pouet.net/prod.php?which=25871
+title:Wild Food|author:Tekotuotanto|position:1|webfile:short_film/wild_food_by_tekotuotanto.avi|media:./2006/compos/145_wild_food_h264_1856kbps.mp4|sceneorg:short_film/wild_food_xvid_1856kbps.avi|pouet:27937
+title:What's up with adults|author:maxon|position:2|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|media:./2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|sceneorg:short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|pouet:25871
 title:Lelulaatikon demohetki|author:Plaumau pluki pluki|position:3|webfile:short_film/lelulaatikon_demohetki_by_plaumau_pluki_pluki.avi|media:./2006/compos/134_lelulaatikon_demohetki_h264_1856kbps.mp4|sceneorg:short_film/lelulaatikon_demohetki_xvid_1856kbps.avi
-title:Unknown Media|author:TimeScratchers|position:4|webfile:short_film/unknown_media_by_timescratchers.avi|media:./2006/compos/153_unknown_media_h264_1856kbps.mp4|sceneorg:short_film/unknown_media_xvid_1856kbps.avi|pouet:http://pouet.net/prod.php?which=25818
+title:Unknown Media|author:TimeScratchers|position:4|webfile:short_film/unknown_media_by_timescratchers.avi|media:./2006/compos/153_unknown_media_h264_1856kbps.mp4|sceneorg:short_film/unknown_media_xvid_1856kbps.avi|pouet:25818
 title:X Rules|author:CyBrod|position:5|webfile:short_film/x_rules_by_cybrod.avi|media:./2006/compos/139_x_rules_h264_1856kbps.mp4|sceneorg:short_film/x_rules_xvid_1856kbps.avi
-title:First Contact|author:Hazel / Future Vision|position:6|webfile:short_film/first_contact_by_hazel_future_vision.avi|media:./2006/compos/194_first_contact_h264_1856kbps.mp4|sceneorg:short_film/first_contact_xvid_1856kbps.avi|pouet:http://pouet.net/prod.php?which=25773
+title:First Contact|author:Hazel / Future Vision|position:6|webfile:short_film/first_contact_by_hazel_future_vision.avi|media:./2006/compos/194_first_contact_h264_1856kbps.mp4|sceneorg:short_film/first_contact_xvid_1856kbps.avi|pouet:25773
 title:Tekopohjavesi - Artificial Bilge|author:tAAt|position:7|webfile:short_film/tekopohjavesi_artificial_bilge_by_taat.avi|media:./2006/compos/198_tekopohjavesi_artificial_bilge_h264_1856kbps.mp4|sceneorg:short_film/tekopohjavesi_artificial_bilge_xvid_1856kbps.avi
-title:Korch Fu|author:Innovators|position:8|webfile:short_film/korch_fu_by_innovators.avi|media:./2006/compos/152_korch_fu_h264_1856kbps.mp4|sceneorg:short_film/korch_fu_xvid_1856kbps.avi|pouet:http://pouet.net/prod.php?which=25770
+title:Korch Fu|author:Innovators|position:8|webfile:short_film/korch_fu_by_innovators.avi|media:./2006/compos/152_korch_fu_h264_1856kbps.mp4|sceneorg:short_film/korch_fu_xvid_1856kbps.avi|pouet:25770
 title:Confront|author:HOViNET team|position:9|webfile:short_film/confront_by_hovinet_team.avi|media:./2006/compos/148_confront_h264_1856kbps.mp4|sceneorg:short_film/confront_xvid_1856kbps.avi
 title:Sankari|author:Senseless Bricklayer Animations|position:10|webfile:short_film/sankari_by_senseless_bricklayer_animations.avi|media:./2006/compos/216_sankari_h264_1856kbps.mp4|sceneorg:short_film/sankari_xvid_1856kbps.avi
-title:AgonyTorment|author:Nosfe|position:0|webfile:short_film/agonytorment_by_nosfe.mp4|media:./2006/compos/149_agonytorment_h264_1856kbps.mp4|sceneorg:short_film/nosfe-agonytorment.mp4|pouet:http://pouet.net/prod.php?which=25767
+title:AgonyTorment|author:Nosfe|position:0|webfile:short_film/agonytorment_by_nosfe.mp4|media:./2006/compos/149_agonytorment_h264_1856kbps.mp4|sceneorg:short_film/nosfe-agonytorment.mp4|pouet:25767
 title:drugs|author:Jumalauta|position:0|webfile:short_film/drugs_by_jumalauta.avi|media:./2006/compos/150_drugs_h264_1856kbps.mp4|sceneorg:short_film/drugs_xvid_1856kbps.avi
 title:Abyss ja Pehu|author:Valot Pois|position:0
 title:bugi.cs|author:Kamikaze films|position:0
@@ -193,27 +193,27 @@ title:Keybored|author:Jadajada|position:0|webfile:short_film/keybored_by_jadajad
 
 ! Demo
 
-title:Starstruck|author:TBL|position:1|sceneorgvideo:./compo_videos/dvavi/demo/starstruck_by_tbl.avi|sceneorg:demo/tbl-starstruck-partyversion.zip|pouet:http://pouet.net/prod.php?which=25778|dtv:http://www.demoscene.tv/page.php?id=172&lang=uk&vsmaction=view_prod&id_prod=12631
-title:track one|author:fairlight|position:2|sceneorgvideo:./compo_videos/dvavi/demo/track_one_by_fairlight.avi|sceneorg:demo/track_one_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=25781|dtv:http://www.demoscene.tv/prod.php?id_prod=12611
-title:1995|author:Kewlers & mfx|position:3|sceneorgvideo:./compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|sceneorg:demo/1995_by_kewlers_mfx.zip|pouet:http://pouet.net/prod.php?which=25783|dtv:http://www.demoscene.tv/prod.php?id_prod=12612
-title:BOMBMAN|author:Matt Current|position:4|sceneorgvideo:./compo_videos/dvavi/demo/bombman_by_matt_current.avi|sceneorg:demo/bombman_by_matt_current.zip|pouet:http://pouet.net/prod.php?which=25782|dtv:http://www.demoscene.tv/prod.php?id_prod=12613
-title:2^5|author:Traction|position:5|sceneorgvideo:./compo_videos/dvavi/demo/2_5_by_traction.avi|sceneorg:demo/traction_25_final.zip|pouet:http://pouet.net/prod.php?which=25779|dtv:http://www.demoscene.tv/prod.php?id_prod=12628
-title:telos|author:portal process|position:6|sceneorgvideo:./compo_videos/dvavi/demo/telos_by_portal_process.avi|sceneorg:demo/telos_by_portal_process.zip|pouet:http://pouet.net/prod.php?which=25780|dtv:http://www.demoscene.tv/prod.php?id_prod=12614
-title:Primate Theory|author:Unknown Artists|position:7|sceneorgvideo:./compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|sceneorg:demo/primate_theory_by_unknown_artists.zip|pouet:http://pouet.net/prod.php?which=25787|dtv:http://www.demoscene.tv/prod.php?id_prod=12615
-title:Diskoalifight|author:wAMMA|position:8|sceneorgvideo:./compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|sceneorg:demo/diskoalifight_by_wamma.zip|pouet:http://pouet.net/prod.php?which=25789
-title:Iterate|author:imbusy&xerxes|position:9|sceneorgvideo:./compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|sceneorg:demo/iterate_by_imbusy_xerxes.zip|pouet:http://pouet.net/prod.php?which=25796|dtv:http://www.demoscene.tv/prod.php?id_prod=12838
-title:The barythymia|author:Division|position:10|sceneorgvideo:./compo_videos/dvavi/demo/the_barythymia_by_division.avi|sceneorg:demo/the_barythymia_by_division.zip|pouet:http://pouet.net/prod.php?which=25788
-title:Bacardi Cola|author:Moonhazard|position:11|sceneorgvideo:./compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|sceneorg:demo/bacardi_cola_by_moonhazard.zip|pouet:http://pouet.net/prod.php?which=25790
-title:Da Scene|author:Deagrace|position:12|sceneorgvideo:./compo_videos/dvavi/demo/da_scene_by_deagrace.avi|sceneorg:demo/da_scene_by_deagrace.zip|pouet:http://pouet.net/prod.php?which=25785
-title:Formal Obsessions|author:Adapt|position:13|sceneorgvideo:./compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|sceneorg:demo/formal_obsessions_by_adapt.zip|pouet:http://pouet.net/prod.php?which=25786
-title:The Winter Party|author:IT-Forge|position:14|sceneorgvideo:./compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|sceneorg:demo/the_winter_party_by_it-forge.zip|pouet:http://pouet.net/prod.php?which=25784
+title:Starstruck|author:TBL|position:1|sceneorgvideo:./compo_videos/dvavi/demo/starstruck_by_tbl.avi|sceneorg:demo/tbl-starstruck-partyversion.zip|pouet:25778|dtv:12631
+title:track one|author:fairlight|position:2|sceneorgvideo:./compo_videos/dvavi/demo/track_one_by_fairlight.avi|sceneorg:demo/track_one_by_fairlight.zip|pouet:25781|dtv:12611
+title:1995|author:Kewlers & mfx|position:3|sceneorgvideo:./compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|sceneorg:demo/1995_by_kewlers_mfx.zip|pouet:25783|dtv:12612
+title:BOMBMAN|author:Matt Current|position:4|sceneorgvideo:./compo_videos/dvavi/demo/bombman_by_matt_current.avi|sceneorg:demo/bombman_by_matt_current.zip|pouet:25782|dtv:12613
+title:2^5|author:Traction|position:5|sceneorgvideo:./compo_videos/dvavi/demo/2_5_by_traction.avi|sceneorg:demo/traction_25_final.zip|pouet:25779|dtv:12628
+title:telos|author:portal process|position:6|sceneorgvideo:./compo_videos/dvavi/demo/telos_by_portal_process.avi|sceneorg:demo/telos_by_portal_process.zip|pouet:25780|dtv:12614
+title:Primate Theory|author:Unknown Artists|position:7|sceneorgvideo:./compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|sceneorg:demo/primate_theory_by_unknown_artists.zip|pouet:25787|dtv:12615
+title:Diskoalifight|author:wAMMA|position:8|sceneorgvideo:./compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|sceneorg:demo/diskoalifight_by_wamma.zip|pouet:25789
+title:Iterate|author:imbusy&xerxes|position:9|sceneorgvideo:./compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|sceneorg:demo/iterate_by_imbusy_xerxes.zip|pouet:25796|dtv:12838
+title:The barythymia|author:Division|position:10|sceneorgvideo:./compo_videos/dvavi/demo/the_barythymia_by_division.avi|sceneorg:demo/the_barythymia_by_division.zip|pouet:25788
+title:Bacardi Cola|author:Moonhazard|position:11|sceneorgvideo:./compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|sceneorg:demo/bacardi_cola_by_moonhazard.zip|pouet:25790
+title:Da Scene|author:Deagrace|position:12|sceneorgvideo:./compo_videos/dvavi/demo/da_scene_by_deagrace.avi|sceneorg:demo/da_scene_by_deagrace.zip|pouet:25785
+title:Formal Obsessions|author:Adapt|position:13|sceneorgvideo:./compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|sceneorg:demo/formal_obsessions_by_adapt.zip|pouet:25786
+title:The Winter Party|author:IT-Forge|position:14|sceneorgvideo:./compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|sceneorg:demo/the_winter_party_by_it-forge.zip|pouet:25784
 
 ! Browser demo
 
-title:Who Killed Travolta?|author:Evo Flash / Bombsquad|position:1|sceneorg:browser_demo/who_killed_travolta_by_evo_flash_bombsquad.zip|pouet:http://pouet.net/prod.php?which=25802
-title:Tokyo-Bangkok-Tokyo|author:Pyrotech|position:2|sceneorg:browser_demo/tokyo-bangkok-tokyo_by_pyrotech.zip|pouet:http://pouet.net/prod.php?which=25813|dtv:http://www.demoscene.tv/prod.php?id_prod=13649
-title:Even More Explosions in the Sky|author:jac|position:3|sceneorg:browser_demo/even_more_explosions_in_the_sky_by_jac_2.zip|pouet:http://pouet.net/prod.php?which=25803
-title:Gallions Reach|author:Gasman|position:4|sceneorg:browser_demo/gallions_reach_by_gasman_1.zip|pouet:http://pouet.net/prod.php?which=25800
+title:Who Killed Travolta?|author:Evo Flash / Bombsquad|position:1|sceneorg:browser_demo/who_killed_travolta_by_evo_flash_bombsquad.zip|pouet:25802
+title:Tokyo-Bangkok-Tokyo|author:Pyrotech|position:2|sceneorg:browser_demo/tokyo-bangkok-tokyo_by_pyrotech.zip|pouet:25813|dtv:13649
+title:Even More Explosions in the Sky|author:jac|position:3|sceneorg:browser_demo/even_more_explosions_in_the_sky_by_jac_2.zip|pouet:25803
+title:Gallions Reach|author:Gasman|position:4|sceneorg:browser_demo/gallions_reach_by_gasman_1.zip|pouet:25800
 title:Seed Vessel|author:Lootikko|position:5|sceneorg:browser_demo/seed_vessel_by_lootikko.zip
 title:SqUaReThRuSteR|author:MiiKA & tEEMU BRoDUCTiONz|position:6|sceneorg:browser_demo/squarethruster_by_miika_teemu_broductionz.zip
 title:demo|author:Dreadful Sight|position:7|sceneorg:browser_demo/demo_by_dreadful_sight.zip

@@ -12,22 +12,22 @@ title:jokela 3|author:codehead/suolahappo.|position:9|sceneorg:c64music/jokela_3
 
 ! Amiga 64k intro
 
-title:edit0.5|author:haujobb|position:1|sceneorg:amiga64k/edit05_b.zip|pouet:http://pouet.net/prod.php?which=1035
-title:System Crime|author:Scoopex|position:0|sceneorg:amiga64k/system_c.zip|pouet:http://pouet.net/prod.php?which=3518|dtv:http://www.demoscene.tv/prod.php?id_prod=10237
-title:red-eye|author:sonik clique|position:3|sceneorg:amiga64k/redeye_b.zip|pouet:http://pouet.net/prod.php?which=7501
-title:Elektrik Baby|author:Raato^Pou^Ves / dA JoRMaS!|position:4|sceneorg:amiga64k/elektrik.zip|pouet:http://pouet.net/prod.php?which=11975
-title:popgun|author:paragon|position:5|sceneorg:amiga64k/popgun_b.zip|pouet:http://pouet.net/prod.php?which=51586
-title:Effu|author:Scoopex|position:6|sceneorg:amiga64k/effu_by_.zip|pouet:http://pouet.net/prod.php?which=5865
+title:edit0.5|author:haujobb|position:1|sceneorg:amiga64k/edit05_b.zip|pouet:1035
+title:System Crime|author:Scoopex|position:0|sceneorg:amiga64k/system_c.zip|pouet:3518|dtv:10237
+title:red-eye|author:sonik clique|position:3|sceneorg:amiga64k/redeye_b.zip|pouet:7501
+title:Elektrik Baby|author:Raato^Pou^Ves / dA JoRMaS!|position:4|sceneorg:amiga64k/elektrik.zip|pouet:11975
+title:popgun|author:paragon|position:5|sceneorg:amiga64k/popgun_b.zip|pouet:51586
+title:Effu|author:Scoopex|position:6|sceneorg:amiga64k/effu_by_.zip|pouet:5865
 title:dcsintro|author:Dcs|position:7|sceneorg:amiga64k/dcsintro.zip
 title:damones assembly 98|author:damones|position:8|sceneorg:amiga64k/damones_.zip
 title:Seamless|author:Extend|position:0|sceneorg:amiga64k/seamless.zip
 
 ! Java demo
 
-title:GODOG|author:Complex|position:1|sceneorg:javademo/godog_by.zip|pouet:http://pouet.net/prod.php?which=888
-title:Loop.2|author:Digital Nerds|position:2|sceneorg:javademo/loop2_by.zip|pouet:http://pouet.net/prod.php?which=1408
-title:Lava|author:Yodel|position:3|sceneorg:javademo/lava_by_.zip|pouet:http://pouet.net/prod.php?which=3014
-title:golden kypersumppi|author:tAAt 1998|position:0|sceneorg:javademo/golden_k.zip|pouet:http://pouet.net/prod.php?which=793
+title:GODOG|author:Complex|position:1|sceneorg:javademo/godog_by.zip|pouet:888
+title:Loop.2|author:Digital Nerds|position:2|sceneorg:javademo/loop2_by.zip|pouet:1408
+title:Lava|author:Yodel|position:3|sceneorg:javademo/lava_by_.zip|pouet:3014
+title:golden kypersumppi|author:tAAt 1998|position:0|sceneorg:javademo/golden_k.zip|pouet:793
 title:IT CAN'T BIDONE|author:Ram Jam|position:5|sceneorg:javademo/it_cant_.zip
 title:Space Odyssey|author:NySTuL|position:6|sceneorg:javademo/space_od.zip
 title:Return of the Mack|author:H-Town/Silents|position:7|sceneorg:javademo/return_o.zip
@@ -35,7 +35,7 @@ title:Lee|author:Sail|position:8|sceneorg:javademo/lee_by_s.zip
 
 ! Wild demo
 
-title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:wilddemo/get_real.zip|pouet:http://pouet.net/prod.php?which=23298
+title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:wilddemo/get_real.zip|pouet:23298
 title:Paha posteljooni|author:Insane Bastards productions|position:2|sceneorg:wilddemo/paha_pos.zip
 title:Tuikea Torsti|author:CBU - ryhmä|position:3|sceneorg:wilddemo/tuikea_t.zip
 title:Special FX|author:Pixel/Future Crew|position:4|sceneorg:wilddemo/special_.zip
@@ -62,20 +62,20 @@ title:Daydream believer|author:Debris|position:3|sceneorg:c64graph/daydream.zip
 
 ! PC 4k intro
 
-title:Mesha|author:Picard / Rhyme|position:1|sceneorg:pc4kintr/mesha_by.zip|pouet:http://pouet.net/prod.php?which=954
-title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:pc4kintr/mojo_by_.zip|pouet:http://pouet.net/prod.php?which=6507
-title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:pc4kintr/fist_by_.zip|pouet:http://pouet.net/prod.php?which=1106
-title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:pc4kintr/cubernoi.zip|pouet:http://pouet.net/prod.php?which=3705
-title:Kuningas|author:save / Exxtreme Entertainment|position:5|sceneorg:pc4kintr/kuningas.zip|pouet:http://pouet.net/prod.php?which=6508
-title:Sunrise|author:Digimind|position:6|sceneorg:pc4kintr/sunrise_.zip|pouet:http://pouet.net/prod.php?which=6509
-title:titanic|author:3G Design|position:7|sceneorg:pc4kintr/titanic_.zip|pouet:http://pouet.net/prod.php?which=9348
-title:the box|author:ultrabright|position:8|sceneorg:pc4kintr/the_box_.zip|pouet:http://pouet.net/prod.php?which=9350
+title:Mesha|author:Picard / Rhyme|position:1|sceneorg:pc4kintr/mesha_by.zip|pouet:954
+title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:pc4kintr/mojo_by_.zip|pouet:6507
+title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:pc4kintr/fist_by_.zip|pouet:1106
+title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:pc4kintr/cubernoi.zip|pouet:3705
+title:Kuningas|author:save / Exxtreme Entertainment|position:5|sceneorg:pc4kintr/kuningas.zip|pouet:6508
+title:Sunrise|author:Digimind|position:6|sceneorg:pc4kintr/sunrise_.zip|pouet:6509
+title:titanic|author:3G Design|position:7|sceneorg:pc4kintr/titanic_.zip|pouet:9348
+title:the box|author:ultrabright|position:8|sceneorg:pc4kintr/the_box_.zip|pouet:9350
 
 ! C64 demo
 
-title:Speedway 2|author:Panic|position:1|sceneorg:c64demo/speedway.zip|pouet:http://pouet.net/prod.php?which=1692
-title:Perse|author:geFiLUS|position:2|sceneorg:c64demo/perse_by.zip|pouet:http://pouet.net/prod.php?which=24248
-title:kumivanilja|author:yleisradio|position:3|sceneorg:c64demo/kumivani.zip|pouet:http://pouet.net/prod.php?which=24247
+title:Speedway 2|author:Panic|position:1|sceneorg:c64demo/speedway.zip|pouet:1692
+title:Perse|author:geFiLUS|position:2|sceneorg:c64demo/perse_by.zip|pouet:24248
+title:kumivanilja|author:yleisradio|position:3|sceneorg:c64demo/kumivani.zip|pouet:24247
 
 ! Raytrace graphics
 
@@ -118,38 +118,38 @@ title:Jonui, Windkeeper|author:HaH|position:0|sceneorg:raytrace/jonui_wi.zip
 
 ! Windows demo
 
-title:Bleam (win version)|author:Lionhead|position:1|sceneorg:windowsd/bleam_wi.zip|pouet:http://pouet.net/prod.php?which=2555
-title:This is how we party|author:m.A.d Software|position:2|sceneorg:windowsd/this_is_.zip|pouet:http://pouet.net/prod.php?which=8057
-title:Demonic|author:Refinition & Dimercis|position:3|sceneorg:windowsd/demonic_.zip|pouet:http://pouet.net/prod.php?which=25490
-title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:windowsd/anonymou.zip|pouet:http://pouet.net/prod.php?which=25239
+title:Bleam (win version)|author:Lionhead|position:1|sceneorg:windowsd/bleam_wi.zip|pouet:2555
+title:This is how we party|author:m.A.d Software|position:2|sceneorg:windowsd/this_is_.zip|pouet:8057
+title:Demonic|author:Refinition & Dimercis|position:3|sceneorg:windowsd/demonic_.zip|pouet:25490
+title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:windowsd/anonymou.zip|pouet:25239
 
 ! Amiga demo
 
-title:RELIC|author:Nerve Axis|position:1|sceneorg:amigadem/relic_by.zip|pouet:http://pouet.net/prod.php?which=194|dtv:http://www.demoscene.tv/prod.php?id_prod=8796
-title:dELTA|author:Embassy|position:2|sceneorg:amigadem/delta_by.zip|pouet:http://pouet.net/prod.php?which=3736
-title:Synthesis|author:Network|position:3|sceneorgvideo:./assembly98/amigadem/ntw-synthesis.mp4|sceneorg:amigadem/synthesi.zip|pouet:http://pouet.net/prod.php?which=3517
-title:Aromecolor|author:Cirion|position:4|sceneorg:amigadem/aromecol.zip|pouet:http://pouet.net/prod.php?which=4711
-title:Omnirush|author:Mystic|position:5|sceneorg:amigadem/omnirush.zip|pouet:http://pouet.net/prod.php?which=3042|dtv:http://www.demoscene.tv/prod.php?id_prod=7572
-title:Boogienights|author:sPEDES|position:6|sceneorg:amigadem/boogieni.zip|pouet:http://pouet.net/prod.php?which=12670
+title:RELIC|author:Nerve Axis|position:1|sceneorg:amigadem/relic_by.zip|pouet:194|dtv:8796
+title:dELTA|author:Embassy|position:2|sceneorg:amigadem/delta_by.zip|pouet:3736
+title:Synthesis|author:Network|position:3|sceneorgvideo:./assembly98/amigadem/ntw-synthesis.mp4|sceneorg:amigadem/synthesi.zip|pouet:3517
+title:Aromecolor|author:Cirion|position:4|sceneorg:amigadem/aromecol.zip|pouet:4711
+title:Omnirush|author:Mystic|position:5|sceneorg:amigadem/omnirush.zip|pouet:3042|dtv:7572
+title:Boogienights|author:sPEDES|position:6|sceneorg:amigadem/boogieni.zip|pouet:12670
 title:High Sport Grammar|author:T.C.W|position:0|sceneorg:amigadem/high_spo.zip
 
 ! Animation
 
-title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:animatio/barry_th.zip|pouet:http://pouet.net/prod.php?which=6445|dtv:http://www.demoscene.tv/prod.php?id_prod=1215
-title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:animatio/misu__ki.zip|pouet:http://pouet.net/prod.php?which=28283
-title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:animatio/mars_by_.zip|pouet:http://pouet.net/prod.php?which=28284
-title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:animatio/spice_by.zip|pouet:http://pouet.net/prod.php?which=28285
-title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:animatio/kvak_by_.zip|pouet:http://pouet.net/prod.php?which=7732
-title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:animatio/pirates_.zip|pouet:http://pouet.net/prod.php?which=28286
-title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:animatio/soil_by_.zip|pouet:http://pouet.net/prod.php?which=3022|dtv:http://www.demoscene.tv/prod.php?id_prod=9608
-title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:animatio/darn_by_.zip|pouet:http://pouet.net/prod.php?which=28287
-title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:animatio/lauantai.zip|pouet:http://pouet.net/prod.php?which=28288
-title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:animatio/tappelia.zip|pouet:http://pouet.net/prod.php?which=28289
-title:WannaRat|author:Tridea|position:11|webfile:animation/wannarat_by_tridea.avi|sceneorg:animatio/wannarat.zip|pouet:http://pouet.net/prod.php?which=28290
-title:Invasion on Antigone 7|author:marzu|position:12|webfile:animation/invasion_on_antigone_7_by_marzu.avi|sceneorg:animatio/invasion.zip|pouet:http://pouet.net/prod.php?which=28291
-title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|sceneorg:animatio/dustoff_.zip|pouet:http://pouet.net/prod.php?which=28293
-title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:animatio/1024_kby.zip|pouet:http://pouet.net/prod.php?which=28294
-title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:animatio/foggyday.zip|pouet:http://pouet.net/prod.php?which=28295
+title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:animatio/barry_th.zip|pouet:6445|dtv:1215
+title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:animatio/misu__ki.zip|pouet:28283
+title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:animatio/mars_by_.zip|pouet:28284
+title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:animatio/spice_by.zip|pouet:28285
+title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:animatio/kvak_by_.zip|pouet:7732
+title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:animatio/pirates_.zip|pouet:28286
+title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:animatio/soil_by_.zip|pouet:3022|dtv:9608
+title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:animatio/darn_by_.zip|pouet:28287
+title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:animatio/lauantai.zip|pouet:28288
+title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:animatio/tappelia.zip|pouet:28289
+title:WannaRat|author:Tridea|position:11|webfile:animation/wannarat_by_tridea.avi|sceneorg:animatio/wannarat.zip|pouet:28290
+title:Invasion on Antigone 7|author:marzu|position:12|webfile:animation/invasion_on_antigone_7_by_marzu.avi|sceneorg:animatio/invasion.zip|pouet:28291
+title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|sceneorg:animatio/dustoff_.zip|pouet:28293
+title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:animatio/1024_kby.zip|pouet:28294
+title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:animatio/foggyday.zip|pouet:28295
 
 ! Music
 
@@ -346,44 +346,44 @@ title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_tr
 
 ! PC demo
 
-title:Gateways|author:Trauma|position:1|sceneorg:pcdemo/gateways.zip|pouet:http://pouet.net/prod.php?which=295
-title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:pcdemo/hannu__k.zip|pouet:http://pouet.net/prod.php?which=1147
-title:tour|author:pulse|position:3|sceneorg:pcdemo/tour_by_.zip|pouet:http://pouet.net/prod.php?which=1088
-title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:pcdemo/sexadeli.zip|pouet:http://pouet.net/prod.php?which=308|dtv:http://www.demoscene.tv/prod.php?id_prod=9286
-title:Vague Space|author:cncd|position:5|sceneorg:pcdemo/vague_sp.zip|pouet:http://pouet.net/prod.php?which=1273
-title:giger|author:recreation|position:6|sceneorg:pcdemo/giger_by.zip|pouet:http://pouet.net/prod.php?which=7402
-title:übernational zonk|author:tpolm|position:7|sceneorg:pcdemo/bernatio.zip|pouet:http://pouet.net/prod.php?which=3443
-title:Fusion|author:Bad Karma|position:8|sceneorg:pcdemo/fusion_b.zip|pouet:http://pouet.net/prod.php?which=6605
-title:Älyvuoto|author:tAAt 1998|position:9|sceneorg:pcdemo/lyvuoto_.zip|pouet:http://pouet.net/prod.php?which=792
-title:IDEALEAK|author:tAAt 1998|position:10|sceneorg:pcdemo/idealeak.zip|pouet:http://pouet.net/prod.php?which=794
-title:Matrice|author:Fobia Design|position:11|sceneorg:pcdemo/matrice_.zip|pouet:http://pouet.net/prod.php?which=2838
-title:Vortex|author:Mewlers|position:12|sceneorg:pcdemo/vortex_b.zip|pouet:http://pouet.net/prod.php?which=2683
+title:Gateways|author:Trauma|position:1|sceneorg:pcdemo/gateways.zip|pouet:295
+title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:pcdemo/hannu__k.zip|pouet:1147
+title:tour|author:pulse|position:3|sceneorg:pcdemo/tour_by_.zip|pouet:1088
+title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:pcdemo/sexadeli.zip|pouet:308|dtv:9286
+title:Vague Space|author:cncd|position:5|sceneorg:pcdemo/vague_sp.zip|pouet:1273
+title:giger|author:recreation|position:6|sceneorg:pcdemo/giger_by.zip|pouet:7402
+title:übernational zonk|author:tpolm|position:7|sceneorg:pcdemo/bernatio.zip|pouet:3443
+title:Fusion|author:Bad Karma|position:8|sceneorg:pcdemo/fusion_b.zip|pouet:6605
+title:Älyvuoto|author:tAAt 1998|position:9|sceneorg:pcdemo/lyvuoto_.zip|pouet:792
+title:IDEALEAK|author:tAAt 1998|position:10|sceneorg:pcdemo/idealeak.zip|pouet:794
+title:Matrice|author:Fobia Design|position:11|sceneorg:pcdemo/matrice_.zip|pouet:2838
+title:Vortex|author:Mewlers|position:12|sceneorg:pcdemo/vortex_b.zip|pouet:2683
 title:Dream|author:ultrabright|position:13|sceneorg:pcdemo/dream_by.zip
-title:2 pr. cent|author:pdg|position:14|sceneorg:pcdemo/2_pr_cen.zip|pouet:http://pouet.net/prod.php?which=10345
+title:2 pr. cent|author:pdg|position:14|sceneorg:pcdemo/2_pr_cen.zip|pouet:10345
 title:Summoner|author:Future Dimensions|position:15|sceneorg:pcdemo/summoner.zip
-title:i want to believe|author:primitive|position:16|sceneorg:pcdemo/i_want_t.zip|pouet:http://pouet.net/prod.php?which=14923
+title:i want to believe|author:primitive|position:16|sceneorg:pcdemo/i_want_t.zip|pouet:14923
 title:flow out|author:tdop|position:17|sceneorg:pcdemo/flow_out.zip
 title:Total Plasmahdus|author:THP|position:0|sceneorg:pcdemo/total_pl.zip
 title:romferd|author:da beep & phrenetic|position:0|sceneorg:pcdemo/romferd_.zip
-title:Decapitation|author:Execution|position:0|sceneorg:pcdemo/decapita.zip|pouet:http://pouet.net/prod.php?which=25488
+title:Decapitation|author:Execution|position:0|sceneorg:pcdemo/decapita.zip|pouet:25488
 title:Happy Summer|author:Mylly Std|position:0|sceneorg:pcdemo/happy_su.zip
 title:Mika|author:Destiny|position:0|sceneorg:pcdemo/mika_by_.zip
-title:Balldemo|author:PuavoHard|position:0|sceneorg:pcdemo/balldemo.zip|pouet:http://pouet.net/prod.php?which=14924
+title:Balldemo|author:PuavoHard|position:0|sceneorg:pcdemo/balldemo.zip|pouet:14924
 title:Nexxus|author:CUD|position:0|sceneorg:pcdemo/nexxus_b.zip
-title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:pcdemo/10110__e.zip|pouet:http://pouet.net/prod.php?which=13231
-title:Johnny weasel|author:Dawn 3|position:0|sceneorg:pcdemo/johnny_w.zip|pouet:http://pouet.net/prod.php?which=2975
+title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:pcdemo/10110__e.zip|pouet:13231
+title:Johnny weasel|author:Dawn 3|position:0|sceneorg:pcdemo/johnny_w.zip|pouet:2975
 
 ! PC 64k intro
 
-title:Oxygen|author:Coral|position:1|sceneorg:pc64kint/oxygen_b.zip|pouet:http://pouet.net/prod.php?which=4326
-title:Technicolor|author:Moottori|position:2|sceneorg:pc64kint/technico.zip|pouet:http://pouet.net/prod.php?which=4747
-title:licht 3|author:haujobb|position:3|sceneorg:pc64kint/licht_3_.zip|pouet:http://pouet.net/prod.php?which=1499
-title:chant|author:Bandwaggon|position:4|sceneorg:pc64kint/chant_by.zip|pouet:http://pouet.net/prod.php?which=4056
-title:42|author:Immortals|position:6|sceneorg:pc64kint/42_by_im.zip|pouet:http://pouet.net/prod.php?which=51355
+title:Oxygen|author:Coral|position:1|sceneorg:pc64kint/oxygen_b.zip|pouet:4326
+title:Technicolor|author:Moottori|position:2|sceneorg:pc64kint/technico.zip|pouet:4747
+title:licht 3|author:haujobb|position:3|sceneorg:pc64kint/licht_3_.zip|pouet:1499
+title:chant|author:Bandwaggon|position:4|sceneorg:pc64kint/chant_by.zip|pouet:4056
+title:42|author:Immortals|position:6|sceneorg:pc64kint/42_by_im.zip|pouet:51355
 title:Living OnLine|author:BOAR|position:7|sceneorg:pc64kint/living_o.zip
 title:HAPPYDANCE|author:SKR!|position:8|sceneorg:pc64kint/happydan.zip
 title:System Crime|author:Scoopex|position:0|sceneorg:pc64kint/system_c.zip
 title:Testing|author:P3G Design|position:0|sceneorg:pc64kint/testing_.zip
 title:Funtro|author:Universe|position:0|sceneorg:pc64kint/funtro_b.zip
-title:Lockdown|author:Reality Benders|position:0|sceneorg:pc64kint/375-lock.zip|pouet:http://pouet.net/prod.php?which=6506
+title:Lockdown|author:Reality Benders|position:0|sceneorg:pc64kint/375-lock.zip|pouet:6506
 title:transformers|author:eufrosyne|position:0|sceneorg:pc64kint/transfor.zip

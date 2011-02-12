@@ -20,35 +20,35 @@ title:Merimiehen Herkkusieni|author:SpeaK & AKX|position:0|sceneorg:extreme/musi
 
 ! Game development
 
-title:Dave the Ordinary Spaceman|author:Lasi Interactive|position:1|media:./2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|sceneorg:game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|pouet:http://pouet.net/prod.php?which=51064|youtube:http://www.youtube.com/watch?v=nJF9vAMT4qw|dtv:http://www.demoscene.tv/prod.php?id_prod=13386
-title:Kiuasturvat feat. VastaIsku by SX cracked|author:tAAt|position:2|sceneorg:game/kiuasturvat_feat_vastaisku_by_sx_cracked_by_taat.zip|pouet:http://pouet.net/prod.php?which=51060|dtv:http://www.demoscene.tv/prod.php?id_prod=13424
-title:Choke on my Groundhog, YOU BASTARD ROBOTS|author:Kloonigames|position:3|media:./2008/Compos/718_Gamedev_Choke_on_my_groundhog_h264_7168kbit.mp4|sceneorg:game/choke_on_my_groundhog_you_bastard_robots_by_kloonigames.zip|pouet:http://pouet.net/prod.php?which=51061|youtube:http://www.youtube.com/watch?v=F_E50Ht0YDw|dtv:http://www.demoscene.tv/prod.php?id_prod=13387
-title:Pakoon III - First Blood|author:Mayoneez, Osmic & Kani|position:4|sceneorg:game/pakoon_iii__first_blood_by_mayoneez_osmic__kani.zip|pouet:http://pouet.net/prod.php?which=51062
-title:FlipOut|author:Mikkosoft Productions|position:5|sceneorg:game/flipout_by_mikkosoft_productions.zip|pouet:http://pouet.net/prod.php?which=51063
-title:Mad Stick 2|author:Siffo & co|position:6|sceneorg:game/mad_stick_2_by_siffo__co.zip|pouet:http://pouet.net/prod.php?which=51066
-title:Argon|author:XZM|position:7|sceneorg:game/argon_by_xzm.zip|pouet:http://pouet.net/prod.php?which=51065
-title:Tunnel Dodge - www.tunneldodge.com|author:SomeRandom|position:8|pouet:http://pouet.net/prod.php?which=51070
-title:Webdune|author:Droppen|position:9|sceneorg:game/webdune_by_droppen.zip|pouet:http://pouet.net/prod.php?which=51071
-title:London Demo|author:Team Fragment|position:10|media:./2008/Compos/719_Gamedev_London_demo_h264_7168kbit.mp4|sceneorg:game/london_demo_by_team_fragment.zip|pouet:http://pouet.net/prod.php?which=51067|youtube:http://www.youtube.com/watch?v=zK7mfayjwcw|dtv:http://www.demoscene.tv/prod.php?id_prod=13388
-title:F-16 FIGHTER|author:TJ GAMES|position:11|sceneorg:game/f16_fighter_by_tj_games.zip|pouet:http://pouet.net/prod.php?which=51069
-title:The Orbixa|author:Bluefox Games Entertainment|position:12|sceneorg:game/the_orbixa_by_bluefox_games_entertainment.zip|pouet:http://pouet.net/prod.php?which=51068
+title:Dave the Ordinary Spaceman|author:Lasi Interactive|position:1|media:./2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|sceneorg:game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|pouet:51064|youtube:nJF9vAMT4qw|dtv:13386
+title:Kiuasturvat feat. VastaIsku by SX cracked|author:tAAt|position:2|sceneorg:game/kiuasturvat_feat_vastaisku_by_sx_cracked_by_taat.zip|pouet:51060|dtv:13424
+title:Choke on my Groundhog, YOU BASTARD ROBOTS|author:Kloonigames|position:3|media:./2008/Compos/718_Gamedev_Choke_on_my_groundhog_h264_7168kbit.mp4|sceneorg:game/choke_on_my_groundhog_you_bastard_robots_by_kloonigames.zip|pouet:51061|youtube:F_E50Ht0YDw|dtv:13387
+title:Pakoon III - First Blood|author:Mayoneez, Osmic & Kani|position:4|sceneorg:game/pakoon_iii__first_blood_by_mayoneez_osmic__kani.zip|pouet:51062
+title:FlipOut|author:Mikkosoft Productions|position:5|sceneorg:game/flipout_by_mikkosoft_productions.zip|pouet:51063
+title:Mad Stick 2|author:Siffo & co|position:6|sceneorg:game/mad_stick_2_by_siffo__co.zip|pouet:51066
+title:Argon|author:XZM|position:7|sceneorg:game/argon_by_xzm.zip|pouet:51065
+title:Tunnel Dodge - www.tunneldodge.com|author:SomeRandom|position:8|pouet:51070
+title:Webdune|author:Droppen|position:9|sceneorg:game/webdune_by_droppen.zip|pouet:51071
+title:London Demo|author:Team Fragment|position:10|media:./2008/Compos/719_Gamedev_London_demo_h264_7168kbit.mp4|sceneorg:game/london_demo_by_team_fragment.zip|pouet:51067|youtube:zK7mfayjwcw|dtv:13388
+title:F-16 FIGHTER|author:TJ GAMES|position:11|sceneorg:game/f16_fighter_by_tj_games.zip|pouet:51069
+title:The Orbixa|author:Bluefox Games Entertainment|position:12|sceneorg:game/the_orbixa_by_bluefox_games_entertainment.zip|pouet:51068
 
 ! 64k intro
 
-title:panic room|author:fairlight|position:1|media:./2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|sceneorg:in64/panic_room_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=51125|youtube:http://www.youtube.com/watch?v=EtaYBqgwy9w|dtv:http://www.demoscene.tv/prod.php?id_prod=13420
-title:Nebula|author:SQNY|position:2|media:./2008/Compos/772_64k_Nebula_h264_7168kbit.mp4|sceneorg:in64/nebula_by_sqny.zip|pouet:http://pouet.net/prod.php?which=51129|youtube:http://www.youtube.com/watch?v=wJ0e6huphLk|dtv:http://www.demoscene.tv/page.php?id=172&lang=uk&vsmaction=view_prod&id_prod=13419
-title:Incognito|author:Traction|position:3|media:./2008/Compos/773_64k_Incognito_h264_7168kbit.mp4|sceneorg:in64/incognito_by_traction.zip|pouet:http://pouet.net/prod.php?which=51133|youtube:http://www.youtube.com/watch?v=_flCGKwra70|dtv:http://www.demoscene.tv/prod.php?id_prod=13418
-title:less than memorable|author:immersion|position:4|media:./2008/Compos/776_64k_Less_than_memorable_h264_7168kbit.mp4|sceneorg:in64/less_than_memorable_by_immersion.zip|pouet:http://pouet.net/prod.php?which=51121|youtube:http://www.youtube.com/watch?v=dKxcMJb6w-E|dtv:http://www.demoscene.tv/prod.php?id_prod=13438
-title:Crystal Tension|author:United Force|position:5|media:./2008/Compos/771_64k_Crystal_tension_h264_7168kbit.mp4|sceneorg:in64/crystal_tension_by_united_force.zip|pouet:http://pouet.net/prod.php?which=51135|youtube:http://www.youtube.com/watch?v=OYvOGXG6e1Y|dtv:http://www.demoscene.tv/prod.php?id_prod=13437
-title:Risotto|author:Alpha Design|position:6|media:./2008/Compos/775_64k_Risotto_h264_7168kbit.mp4|sceneorg:in64/risotto_by_alpha_design.zip|pouet:http://pouet.net/prod.php?which=51139|youtube:http://www.youtube.com/watch?v=aV7AXq3-VGQ
-title:HypnotizeHasselnuss|author:mrp|position:7|media:./2008/Compos/770_64k_HypnotizeHasselnuss_h264_7168kbit.mp4|sceneorg:in64/hypnotizehasselnuss_by_mrp.zip|pouet:http://pouet.net/prod.php?which=51141|youtube:http://www.youtube.com/watch?v=HtoXzHSN8L8
+title:panic room|author:fairlight|position:1|media:./2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|sceneorg:in64/panic_room_by_fairlight.zip|pouet:51125|youtube:EtaYBqgwy9w|dtv:13420
+title:Nebula|author:SQNY|position:2|media:./2008/Compos/772_64k_Nebula_h264_7168kbit.mp4|sceneorg:in64/nebula_by_sqny.zip|pouet:51129|youtube:wJ0e6huphLk|dtv:13419
+title:Incognito|author:Traction|position:3|media:./2008/Compos/773_64k_Incognito_h264_7168kbit.mp4|sceneorg:in64/incognito_by_traction.zip|pouet:51133|youtube:_flCGKwra70|dtv:13418
+title:less than memorable|author:immersion|position:4|media:./2008/Compos/776_64k_Less_than_memorable_h264_7168kbit.mp4|sceneorg:in64/less_than_memorable_by_immersion.zip|pouet:51121|youtube:dKxcMJb6w-E|dtv:13438
+title:Crystal Tension|author:United Force|position:5|media:./2008/Compos/771_64k_Crystal_tension_h264_7168kbit.mp4|sceneorg:in64/crystal_tension_by_united_force.zip|pouet:51135|youtube:OYvOGXG6e1Y|dtv:13437
+title:Risotto|author:Alpha Design|position:6|media:./2008/Compos/775_64k_Risotto_h264_7168kbit.mp4|sceneorg:in64/risotto_by_alpha_design.zip|pouet:51139|youtube:aV7AXq3-VGQ
+title:HypnotizeHasselnuss|author:mrp|position:7|media:./2008/Compos/770_64k_HypnotizeHasselnuss_h264_7168kbit.mp4|sceneorg:in64/hypnotizehasselnuss_by_mrp.zip|pouet:51141|youtube:HtoXzHSN8L8
 
 ! Oldskool demo
 
-title:Renaissance|author:Byterapers|position:1|media:./2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|sceneorg:oldschool/demo/renaissance_by_byterapers.zip|pouet:http://pouet.net/prod.php?which=51153|youtube:http://www.youtube.com/watch?v=-DpNyt_6S7Y|dtv:http://www.demoscene.tv/prod.php?id_prod=13428
-title:The Next Level|author:PWP|position:2|media:./2008/Compos/742_Oldskool_The_next_level_h264_7168kbit.mp4|sceneorg:oldschool/demo/the_next_level_by_pwp.zip|pouet:http://pouet.net/prod.php?which=51115|youtube:http://www.youtube.com/watch?v=T_WGIkfS2Pc|dtv:http://www.demoscene.tv/prod.php?id_prod=13427
-title:Hardknee Lotus|author:Dekadence+Unique+RNO+Parallax|position:3|media:./2008/Compos/743_Oldskool_Hardknee_Lotus_h264_7168kbit.mp4|sceneorg:oldschool/demo/hardknee_lotus_by_dekadenceuniquernoparallax.lha|pouet:http://pouet.net/prod.php?which=51161|youtube:http://www.youtube.com/watch?v=wZd3CCORnDg|dtv:http://www.demoscene.tv/prod.php?id_prod=13426
-title:Ex-flies.exe|author:Greippi/limbo|position:4|media:./2008/Compos/745_Oldskool_Ex-flies_h264_7168kbit.mp4|sceneorg:oldschool/demo/ex-flies_by_greippilimbo.zip|pouet:http://pouet.net/prod.php?which=51145|youtube:http://www.youtube.com/watch?v=i3Gh1fajNYg|dtv:http://www.demoscene.tv/prod.php?id_prod=13425
+title:Renaissance|author:Byterapers|position:1|media:./2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|sceneorg:oldschool/demo/renaissance_by_byterapers.zip|pouet:51153|youtube:-DpNyt_6S7Y|dtv:13428
+title:The Next Level|author:PWP|position:2|media:./2008/Compos/742_Oldskool_The_next_level_h264_7168kbit.mp4|sceneorg:oldschool/demo/the_next_level_by_pwp.zip|pouet:51115|youtube:T_WGIkfS2Pc|dtv:13427
+title:Hardknee Lotus|author:Dekadence+Unique+RNO+Parallax|position:3|media:./2008/Compos/743_Oldskool_Hardknee_Lotus_h264_7168kbit.mp4|sceneorg:oldschool/demo/hardknee_lotus_by_dekadenceuniquernoparallax.lha|pouet:51161|youtube:wZd3CCORnDg|dtv:13426
+title:Ex-flies.exe|author:Greippi/limbo|position:4|media:./2008/Compos/745_Oldskool_Ex-flies_h264_7168kbit.mp4|sceneorg:oldschool/demo/ex-flies_by_greippilimbo.zip|pouet:51145|youtube:i3Gh1fajNYg|dtv:13425
 
 ! Fast graphics
 
@@ -131,41 +131,41 @@ title:Alien Suck My...|author:Timo Perämaa|position:0|webfile:graphics/alien_su
 
 ! 4k intro
 
-title:Nucleophile|author:Portal Process & TBC|position:1|media:./2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|sceneorg:in4k/nucleophile_by_portal_process__tbc.zip|pouet:http://pouet.net/prod.php?which=51114|youtube:http://www.youtube.com/watch?v=ixnLwEQNlXI|dtv:http://www.demoscene.tv/prod.php?id_prod=13383
-title:Stick Animation Engine 4000|author:Juippi & Trilkk|position:2|media:./2008/Compos/733_4k_Stick_animation_engine_4000_h264_7168kbit.mp4|sceneorg:in4k/stick_animation_engine_4000_by_juippi__trilkk.tar.gz|pouet:http://pouet.net/prod.php?which=51137|youtube:http://www.youtube.com/watch?v=6ufUnApErS4|dtv:http://www.demoscene.tv/prod.php?id_prod=13403
-title:deep science|author:fairlight|position:3|media:./2008/Compos/738_4k_Deep_science_h264_7168kbit.mp4|sceneorg:in4k/deep_science_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=51122|youtube:http://www.youtube.com/watch?v=cYqj5h_HSng|dtv:http://www.demoscene.tv/prod.php?id_prod=13402
-title:Larvae|author:Unknown Artists|position:4|media:./2008/Compos/729_4k_Larvae_h264_7168kbit.mp4|sceneorg:in4k/larvae_by_unknown_artists.zip|pouet:http://pouet.net/prod.php?which=51126|youtube:http://www.youtube.com/watch?v=AF3U1fKtVro|dtv:http://www.demoscene.tv/prod.php?id_prod=13401
-title:ACkid x-lepsy|author:tvt|position:5|media:./2008/Compos/739_4k_ACkid_x-lepsy_h264_7168kbit.mp4|sceneorg:in4k/ackid_xlepsy_by_tvt.zip|pouet:http://pouet.net/prod.php?which=51178|youtube:http://www.youtube.com/watch?v=iV0Hr6fLXg8|dtv:http://www.demoscene.tv/prod.php?id_prod=13400
-title:IMC Cubes|author:PuavoHard|position:6|media:./2008/Compos/732_4k_IMC_cubes_h264_7168kbit.mp4|sceneorg:in4k/imc_cubes_by_puavohard.zip|pouet:http://pouet.net/prod.php?which=51150|youtube:http://www.youtube.com/watch?v=b0LCD3hc0c4|dtv:http://www.demoscene.tv/prod.php?id_prod=13399
-title:Academic Nonsense|author:MakeGho/Blobtrox|position:7|media:./2008/Compos/727_4k_Academic_nonsense_h264_7168kbit.mp4|sceneorg:in4k/academic_nonsense_by_makeghoblobtrox.zip|pouet:http://pouet.net/prod.php?which=51179|youtube:http://www.youtube.com/watch?v=ct20u4dTJMU|dtv:http://www.demoscene.tv/prod.php?id_prod=13398
-title:Multivision|author:Digimind|position:8|media:./2008/Compos/740_4k_Multivision_h264_7168kbit.mp4|sceneorg:in4k/multivision_by_digimind.zip|pouet:http://pouet.net/prod.php?which=51123|youtube:http://www.youtube.com/watch?v=wg3Nvkexr8I|dtv:http://www.demoscene.tv/prod.php?id_prod=13397
-title:Intermezzo|author:lucid|position:9|media:./2008/Compos/734_4k_Intermezzo_h264_7168kbit.mp4|sceneorg:in4k/intermezzo_by_lucid.zip|pouet:http://pouet.net/prod.php?which=51168|youtube:http://www.youtube.com/watch?v=71sWlfkq_Dg|dtv:http://www.demoscene.tv/prod.php?id_prod=13396
-title:Siddham|author:Ananasmurska|position:10|media:./2008/Compos/730_4k_Siddham_h264_7168kbit.mp4|sceneorg:in4k/siddham_by_ananasmurska.zip|pouet:http://pouet.net/prod.php?which=51124|youtube:http://www.youtube.com/watch?v=vY_M4IKWeDE
-title:Mush|author:Shape / DCS|position:11|media:./2008/Compos/736_4k_Mush_h264_7168kbit.mp4|sceneorg:in4k/mush_by_shape__dcs.zip|pouet:http://pouet.net/prod.php?which=51151|youtube:http://www.youtube.com/watch?v=UW34vczqWTI
+title:Nucleophile|author:Portal Process & TBC|position:1|media:./2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|sceneorg:in4k/nucleophile_by_portal_process__tbc.zip|pouet:51114|youtube:ixnLwEQNlXI|dtv:13383
+title:Stick Animation Engine 4000|author:Juippi & Trilkk|position:2|media:./2008/Compos/733_4k_Stick_animation_engine_4000_h264_7168kbit.mp4|sceneorg:in4k/stick_animation_engine_4000_by_juippi__trilkk.tar.gz|pouet:51137|youtube:6ufUnApErS4|dtv:13403
+title:deep science|author:fairlight|position:3|media:./2008/Compos/738_4k_Deep_science_h264_7168kbit.mp4|sceneorg:in4k/deep_science_by_fairlight.zip|pouet:51122|youtube:cYqj5h_HSng|dtv:13402
+title:Larvae|author:Unknown Artists|position:4|media:./2008/Compos/729_4k_Larvae_h264_7168kbit.mp4|sceneorg:in4k/larvae_by_unknown_artists.zip|pouet:51126|youtube:AF3U1fKtVro|dtv:13401
+title:ACkid x-lepsy|author:tvt|position:5|media:./2008/Compos/739_4k_ACkid_x-lepsy_h264_7168kbit.mp4|sceneorg:in4k/ackid_xlepsy_by_tvt.zip|pouet:51178|youtube:iV0Hr6fLXg8|dtv:13400
+title:IMC Cubes|author:PuavoHard|position:6|media:./2008/Compos/732_4k_IMC_cubes_h264_7168kbit.mp4|sceneorg:in4k/imc_cubes_by_puavohard.zip|pouet:51150|youtube:b0LCD3hc0c4|dtv:13399
+title:Academic Nonsense|author:MakeGho/Blobtrox|position:7|media:./2008/Compos/727_4k_Academic_nonsense_h264_7168kbit.mp4|sceneorg:in4k/academic_nonsense_by_makeghoblobtrox.zip|pouet:51179|youtube:ct20u4dTJMU|dtv:13398
+title:Multivision|author:Digimind|position:8|media:./2008/Compos/740_4k_Multivision_h264_7168kbit.mp4|sceneorg:in4k/multivision_by_digimind.zip|pouet:51123|youtube:wg3Nvkexr8I|dtv:13397
+title:Intermezzo|author:lucid|position:9|media:./2008/Compos/734_4k_Intermezzo_h264_7168kbit.mp4|sceneorg:in4k/intermezzo_by_lucid.zip|pouet:51168|youtube:71sWlfkq_Dg|dtv:13396
+title:Siddham|author:Ananasmurska|position:10|media:./2008/Compos/730_4k_Siddham_h264_7168kbit.mp4|sceneorg:in4k/siddham_by_ananasmurska.zip|pouet:51124|youtube:vY_M4IKWeDE
+title:Mush|author:Shape / DCS|position:11|media:./2008/Compos/736_4k_Mush_h264_7168kbit.mp4|sceneorg:in4k/mush_by_shape__dcs.zip|pouet:51151|youtube:UW34vczqWTI
 title:The Island|author:Otto Seiskari|position:0|sceneorg:in4k/the_island_by_otto_seiskari.zip
 title:last minute lolbeat|author:Poksi Productions|position:0|sceneorg:in4k/last_minute_lolbeat_by_poksi_productions.zip
-title:Fountain of Marts - Vierupuori|author:XZM & tAAt|position:0|sceneorg:in4k/fountain_of_marts__vierupuori_by_xzm__taat.zip|pouet:http://pouet.net/prod.php?which=51138
+title:Fountain of Marts - Vierupuori|author:XZM & tAAt|position:0|sceneorg:in4k/fountain_of_marts__vierupuori_by_xzm__taat.zip|pouet:51138
 
 ! Short film
 
-title:Field Trip|author:HBC|position:1|media:./2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|sceneorg:short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|youtube:http://www.youtube.com/watch?v=IwxVAvHv-5w|dtv:http://www.demoscene.tv/prod.php?id_prod=13395
-title:TimeReal|author:Tekotuotanto|position:2|media:./2008/Compos/761_Short_TimeReal_h264_7168kbit.mp4|sceneorg:short/761_short_timereal_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51155|youtube:http://www.youtube.com/watch?v=YrtqcwdRDoQ|dtv:http://www.demoscene.tv/prod.php?id_prod=13394
-title:The Ninja Fortress|author:Falgor|position:3|media:./2008/Compos/755_Short_The_ninja_fortress_h264_7168kbit.mp4|sceneorg:short/755_short_the_ninja_fortress_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51156|youtube:http://www.youtube.com/watch?v=r2rueod7Xmo|dtv:http://www.demoscene.tv/prod.php?id_prod=13393
-title:Do it right|author:Granma|position:4|media:./2008/Compos/765_Short_Do_it_right_h264_7168kbit.mp4|sceneorg:short/765_short_do_it_right_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51157|youtube:http://www.youtube.com/watch?v=sGfMgjDebmQ|dtv:http://www.demoscene.tv/prod.php?id_prod=13392
-title:Elemental Square Garden|author:HBC|position:5|media:./2008/Compos/753_Short_Elemental_square_garden_h264_7168kbit.mp4|sceneorg:short/753_short_elemental_square_garden_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51146|youtube:http://www.youtube.com/watch?v=58t8wU3tFAQ|dtv:http://www.demoscene.tv/prod.php?id_prod=13391
-title:Sakura|author:Ptman, Opqdonut, Ribbe, Joku|position:6|media:./2008/Compos/768_Short_Sakura_h264_7168kbit.mp4|sceneorg:short/768_short_sakura_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51159|youtube:http://www.youtube.com/watch?v=Olf00ZkjyAY|dtv:http://www.demoscene.tv/prod.php?id_prod=13390
-title:They Were Nameless Heroes|author:Matti Vanhala & Henri Kerko|position:7|media:./2008/Compos/758_Short_They_were_nameless_heroes_h264_7168kbit.mp4|sceneorg:short/758_short_they_were_nameless_heroes_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51160|youtube:http://www.youtube.com/watch?v=X7HvqTCtrgA|dtv:http://www.demoscene.tv/prod.php?id_prod=13389
-title:Tienen asi como un deje|author:Region Factible|position:8|media:./2008/Compos/767_Short_Tienen_asi_como_un_deje_h264_7168kbit.mp4|sceneorg:short/767_short_tienen_asi_como_un_deje_h264_1856kbit.mp4|pouet:http://pouet.net/prod.php?which=51162|youtube:http://www.youtube.com/watch?v=e8E766pIOUY
+title:Field Trip|author:HBC|position:1|media:./2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|sceneorg:short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|youtube:IwxVAvHv-5w|dtv:13395
+title:TimeReal|author:Tekotuotanto|position:2|media:./2008/Compos/761_Short_TimeReal_h264_7168kbit.mp4|sceneorg:short/761_short_timereal_h264_1856kbit.mp4|pouet:51155|youtube:YrtqcwdRDoQ|dtv:13394
+title:The Ninja Fortress|author:Falgor|position:3|media:./2008/Compos/755_Short_The_ninja_fortress_h264_7168kbit.mp4|sceneorg:short/755_short_the_ninja_fortress_h264_1856kbit.mp4|pouet:51156|youtube:r2rueod7Xmo|dtv:13393
+title:Do it right|author:Granma|position:4|media:./2008/Compos/765_Short_Do_it_right_h264_7168kbit.mp4|sceneorg:short/765_short_do_it_right_h264_1856kbit.mp4|pouet:51157|youtube:sGfMgjDebmQ|dtv:13392
+title:Elemental Square Garden|author:HBC|position:5|media:./2008/Compos/753_Short_Elemental_square_garden_h264_7168kbit.mp4|sceneorg:short/753_short_elemental_square_garden_h264_1856kbit.mp4|pouet:51146|youtube:58t8wU3tFAQ|dtv:13391
+title:Sakura|author:Ptman, Opqdonut, Ribbe, Joku|position:6|media:./2008/Compos/768_Short_Sakura_h264_7168kbit.mp4|sceneorg:short/768_short_sakura_h264_1856kbit.mp4|pouet:51159|youtube:Olf00ZkjyAY|dtv:13390
+title:They Were Nameless Heroes|author:Matti Vanhala & Henri Kerko|position:7|media:./2008/Compos/758_Short_They_were_nameless_heroes_h264_7168kbit.mp4|sceneorg:short/758_short_they_were_nameless_heroes_h264_1856kbit.mp4|pouet:51160|youtube:X7HvqTCtrgA|dtv:13389
+title:Tienen asi como un deje|author:Region Factible|position:8|media:./2008/Compos/767_Short_Tienen_asi_como_un_deje_h264_7168kbit.mp4|sceneorg:short/767_short_tienen_asi_como_un_deje_h264_1856kbit.mp4|pouet:51162|youtube:e8E766pIOUY
 
 ! Real wild demo
 
-title:99er|author:Evoflash|position:1|media:./2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|sceneorg:real_wild/99er_by_evoflash.zip|pouet:http://pouet.net/prod.php?which=51118|youtube:http://www.youtube.com/watch?v=wJIM2VPKT0w|dtv:http://www.demoscene.tv/prod.php?id_prod=13433
-title:Daydream|author:Hedelmae|position:2|media:./2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|sceneorg:real_wild/daydream_by_hedelmae.zip|pouet:http://pouet.net/prod.php?which=51131|youtube:http://www.youtube.com/watch?v=uZxcQ3R-Wuo|dtv:http://www.demoscene.tv/prod.php?id_prod=13432
-title:Form|author:Dekadence|position:3|media:./2008/Compos/790_RealWild_Form_h264_7168kbit.mp4|sceneorg:real_wild/form_by_dekadence.zip|pouet:http://pouet.net/prod.php?which=51142|youtube:http://www.youtube.com/watch?v=nGzoiY9otQg|dtv:http://www.demoscene.tv/prod.php?id_prod=13431
-title:Alternative Party 2008 Invitation|author:Byterapers|position:4|sceneorg:real_wild/alternative_party_2008_invitation_by_byterapers.zip|pouet:http://pouet.net/prod.php?which=51117|dtv:http://www.demoscene.tv/prod.php?id_prod=13430
-title:Title IX|author:Immersion|position:5|media:./2008/Compos/791_RealWild_Title_IX_h264_7168kbit.mp4|sceneorg:real_wild/title_ix_by_immersion.zip|pouet:http://pouet.net/prod.php?which=51116|youtube:http://www.youtube.com/watch?v=BEVc-zCxTI0|dtv:http://www.demoscene.tv/prod.php?id_prod=13454
-title:Patent Pending|author:Komplex|position:6|media:./2008/Compos/793_RealWild_Patent_pending_h264_7168kbit.mp4|sceneorg:real_wild/patent_pending_by_komplex.zip|pouet:http://pouet.net/prod.php?which=51152|youtube:http://www.youtube.com/watch?v=ukjoTw-_Oqc|dtv:http://www.demoscene.tv/prod.php?id_prod=13429
-title:Rabies|author:Wide Load|position:7|media:./2008/Compos/794_RealWild_Rabies_h264_7168kbit.mp4|sceneorg:real_wild/rabies_by_wide_load.zip|pouet:http://pouet.net/prod.php?which=51127|youtube:http://www.youtube.com/watch?v=oAoHFKmeabY
+title:99er|author:Evoflash|position:1|media:./2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|sceneorg:real_wild/99er_by_evoflash.zip|pouet:51118|youtube:wJIM2VPKT0w|dtv:13433
+title:Daydream|author:Hedelmae|position:2|media:./2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|sceneorg:real_wild/daydream_by_hedelmae.zip|pouet:51131|youtube:uZxcQ3R-Wuo|dtv:13432
+title:Form|author:Dekadence|position:3|media:./2008/Compos/790_RealWild_Form_h264_7168kbit.mp4|sceneorg:real_wild/form_by_dekadence.zip|pouet:51142|youtube:nGzoiY9otQg|dtv:13431
+title:Alternative Party 2008 Invitation|author:Byterapers|position:4|sceneorg:real_wild/alternative_party_2008_invitation_by_byterapers.zip|pouet:51117|dtv:13430
+title:Title IX|author:Immersion|position:5|media:./2008/Compos/791_RealWild_Title_IX_h264_7168kbit.mp4|sceneorg:real_wild/title_ix_by_immersion.zip|pouet:51116|youtube:BEVc-zCxTI0|dtv:13454
+title:Patent Pending|author:Komplex|position:6|media:./2008/Compos/793_RealWild_Patent_pending_h264_7168kbit.mp4|sceneorg:real_wild/patent_pending_by_komplex.zip|pouet:51152|youtube:ukjoTw-_Oqc|dtv:13429
+title:Rabies|author:Wide Load|position:7|media:./2008/Compos/794_RealWild_Rabies_h264_7168kbit.mp4|sceneorg:real_wild/rabies_by_wide_load.zip|pouet:51127|youtube:oAoHFKmeabY
 
 ! Music
 
@@ -239,11 +239,11 @@ title:test|author:tArzAn|position:0|webfile:extreme_graphics/test_by_tarzan.png|
 
 ! Demo
 
-title:Within Epsilon|author:Pyrotech|position:1|media:./2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|sceneorg:demo/within_epsilon_by_pyrotech.zip|pouet:http://pouet.net/prod.php?which=51140|youtube:http://www.youtube.com/watch?v=4YvYnHvhI_E|dtv:http://www.demoscene.tv/prod.php?id_prod=13422
-title:Contre Jour|author:PlayPsyCo|position:2|media:./2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|sceneorg:demo/contre_jour_by_playpsyco.zip|pouet:http://pouet.net/prod.php?which=51128|youtube:http://www.youtube.com/watch?v=8Xxklx6Kifg|dtv:http://www.demoscene.tv/prod.php?id_prod=13421
-title:Deform|author:Division|position:3|media:./2008/Compos/781_Demo_Deform_h264_7168kbit.mp4|sceneorg:demo/deform_by_division.zip|pouet:http://pouet.net/prod.php?which=51130|youtube:http://www.youtube.com/watch?v=bIaQ__UgKXs|dtv:http://www.demoscene.tv/prod.php?id_prod=13436
-title:DE:TOX|author:JUMALAUTA|position:4|media:./2008/Compos/780_Demo_Detox_h264_7168kbit.mp4|sceneorg:demo/detox_by_jumalauta.zip|pouet:http://pouet.net/prod.php?which=51136|youtube:http://www.youtube.com/watch?v=vXZxGaNqotU|dtv:http://www.demoscene.tv/prod.php?id_prod=13455
-title:Total|author:Mojito|position:5|media:./2008/Compos/786_Demo_Total_h264_7168kbit.mp4|sceneorg:demo/total_by_mojito.zip|pouet:http://pouet.net/prod.php?which=51134|youtube:http://www.youtube.com/watch?v=CxXwfQsmHyo|dtv:http://www.demoscene.tv/prod.php?id_prod=13435
-title:The Invisible Hold|author:Adapt|position:6|media:./2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|sceneorg:demo/the_invisible_hold_by_adapt.zip|pouet:http://pouet.net/prod.php?which=51132|youtube:http://www.youtube.com/watch?v=HhITfKVIvak|dtv:http://www.demoscene.tv/prod.php?id_prod=13434
+title:Within Epsilon|author:Pyrotech|position:1|media:./2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|sceneorg:demo/within_epsilon_by_pyrotech.zip|pouet:51140|youtube:4YvYnHvhI_E|dtv:13422
+title:Contre Jour|author:PlayPsyCo|position:2|media:./2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|sceneorg:demo/contre_jour_by_playpsyco.zip|pouet:51128|youtube:8Xxklx6Kifg|dtv:13421
+title:Deform|author:Division|position:3|media:./2008/Compos/781_Demo_Deform_h264_7168kbit.mp4|sceneorg:demo/deform_by_division.zip|pouet:51130|youtube:bIaQ__UgKXs|dtv:13436
+title:DE:TOX|author:JUMALAUTA|position:4|media:./2008/Compos/780_Demo_Detox_h264_7168kbit.mp4|sceneorg:demo/detox_by_jumalauta.zip|pouet:51136|youtube:vXZxGaNqotU|dtv:13455
+title:Total|author:Mojito|position:5|media:./2008/Compos/786_Demo_Total_h264_7168kbit.mp4|sceneorg:demo/total_by_mojito.zip|pouet:51134|youtube:CxXwfQsmHyo|dtv:13435
+title:The Invisible Hold|author:Adapt|position:6|media:./2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|sceneorg:demo/the_invisible_hold_by_adapt.zip|pouet:51132|youtube:HhITfKVIvak|dtv:13434
 title:Effects|author:Codex/Paranoids|position:0|sceneorg:demo/effects_by_codexparanoids.zip
 title:Kalvosinappi - Membrane Mustard by XZM stolen|author:tAAt|position:0|sceneorg:demo/kalvosinappi__membrane_mustard_by_xzm_stolen_by_taat.zip

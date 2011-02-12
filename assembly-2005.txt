@@ -1,11 +1,11 @@
 ! Mobile demo
 
-title:FormFunk|author:The Rocket / Sonik Clique (Windows Mobile on Dell Axim X50v)|position:1|media:./2005/assemblytv/248_formfunk__dell_axim__by_the_rocket___son.avi|sceneorg:mobile_demo/formfunk.zip|pouet:http://pouet.net/prod.php?which=18371
-title:PORTMEIRION STATE|author:Matt Current (Nintendo Game Boy Advance)|position:2|media:./2005/assemblytv/245_portmeirion_state__gba__by_matt_current.avi|sceneorg:mobile_demo/portmeirion_state_by_matt_current.zip|pouet:http://pouet.net/prod.php?which=18337
-title:Perkele Plus+|author:Contraz, Excess & Portal Process (Java on Sony Ericsson K700i)|position:3|media:./2005/assemblytv/247_perkele_plus___k700i__by_contraz__excess.avi|sceneorg:mobile_demo/perkele_plus+_by_contraz__excess___portal_process.zip|pouet:http://pouet.net/prod.php?which=18370
-title:Back in Time|author:Hedelmae (Linux on First Technology PXA-3)|position:4|media:./2005/assemblytv/244_back_in_time__pxa_3__by_hedelmae.avi|sceneorg:mobile_demo/back_in_time_by_hedelmae.tgz|pouet:http://pouet.net/prod.php?which=18338
-title:Zados 2000|author:HiRMU (Java on Nokia 3100)|position:5|media:./2005/assemblytv/249_zados_2000__nokia_3100__by_hirmu.avi|sceneorg:mobile_demo/zados_2000_by_hirmu.zip|pouet:http://pouet.net/prod.php?which=18336
-title:Experiment: Imhotep|author:mfx (Java on Sony Ericsson K300i)|position:6|media:./2005/assemblytv/246_experiment__imhotep__k300i__by_mfx.avi|sceneorg:mobile_demo/experiment__imhotep_by_mfx.zip|pouet:http://pouet.net/prod.php?which=18335
+title:FormFunk|author:The Rocket / Sonik Clique (Windows Mobile on Dell Axim X50v)|position:1|media:./2005/assemblytv/248_formfunk__dell_axim__by_the_rocket___son.avi|sceneorg:mobile_demo/formfunk.zip|pouet:18371
+title:PORTMEIRION STATE|author:Matt Current (Nintendo Game Boy Advance)|position:2|media:./2005/assemblytv/245_portmeirion_state__gba__by_matt_current.avi|sceneorg:mobile_demo/portmeirion_state_by_matt_current.zip|pouet:18337
+title:Perkele Plus+|author:Contraz, Excess & Portal Process (Java on Sony Ericsson K700i)|position:3|media:./2005/assemblytv/247_perkele_plus___k700i__by_contraz__excess.avi|sceneorg:mobile_demo/perkele_plus+_by_contraz__excess___portal_process.zip|pouet:18370
+title:Back in Time|author:Hedelmae (Linux on First Technology PXA-3)|position:4|media:./2005/assemblytv/244_back_in_time__pxa_3__by_hedelmae.avi|sceneorg:mobile_demo/back_in_time_by_hedelmae.tgz|pouet:18338
+title:Zados 2000|author:HiRMU (Java on Nokia 3100)|position:5|media:./2005/assemblytv/249_zados_2000__nokia_3100__by_hirmu.avi|sceneorg:mobile_demo/zados_2000_by_hirmu.zip|pouet:18336
+title:Experiment: Imhotep|author:mfx (Java on Sony Ericsson K300i)|position:6|media:./2005/assemblytv/246_experiment__imhotep__k300i__by_mfx.avi|sceneorg:mobile_demo/experiment__imhotep_by_mfx.zip|pouet:18335
 
 ! Oldskool graphics
 
@@ -23,37 +23,37 @@ title:ViiNAPiRU [BooseDevil]|author:CoaXCable|position:0|webfile:oldskool_graphi
 
 ! Game development
 
-title:Kumoon|author:Mayoneez and the Boyz (Windows)|position:1|media:./2005/assemblytv/476_kumoon_by_mayoneez_and_the_boyz.avi|sceneorg:game/kumoon4assembly.zip|pouet:http://pouet.net/prod.php?which=18298
-title:Skies|author:Aukiogames (Windows)|position:2|media:./2005/assemblytv/478_skies_by_aukiogames.avi|sceneorg:game/skies_beta_r1.zip|pouet:http://pouet.net/prod.php?which=18297
-title:Pogo Sticker|author:tAAt 2005 (Windows)|position:3|media:./2005/assemblytv/477_pogo_sticker_by_taat_2005.avi|sceneorg:game/pogosticker100.zip|pouet:http://pouet.net/prod.php?which=18295
-title:Factory Pinball|author:XZM (Windows)|position:4|media:./2005/assemblytv/474_factory_pinball_by_xzm.avi|sceneorg:game/factory_pinball-050728-0508.zip|pouet:http://pouet.net/prod.php?which=18296
-title:TunnelRace|author:Mikkosoft Productions (Linux)|position:5|media:./2005/assemblytv/481_tunnelrace_by_mikkosoft_productions.avi|sceneorg:game/tunnelrace-asm05-bin.tgz|pouet:http://pouet.net/prod.php?which=18304
-title:Springy|author:Tomasz Dobrowolski (Windows)|position:6|media:./2005/assemblytv/479_springy_by_tomasz_dobrowolski.avi|sceneorg:game/springy.zip|pouet:http://pouet.net/prod.php?which=18302
-title:HiddenLynx|author:Mayoneez (Windows)|position:7|media:./2005/assemblytv/475_hiddenlynx_by_mayoneez.avi|sceneorg:game/hiddenlynx4assembly.zip|pouet:http://pouet.net/prod.php?which=18301
-title:Thurst|author:Juha-Pekka Jokela (Windows / MorphOS)|position:8|media:./2005/assemblytv/480_thurst_by_juha_pekka_jokela.avi|sceneorg:game/thurst.zip|pouet:http://pouet.net/prod.php?which=18303
-title:Bubbly|author:Joel "Bylkki" Pitkänen (Windows)|position:9|media:./2005/assemblytv/482_bubbly_by_joel__bylkki__pitkanen.avi|sceneorg:game/bubbly.zip|pouet:http://pouet.net/prod.php?which=18300
+title:Kumoon|author:Mayoneez and the Boyz (Windows)|position:1|media:./2005/assemblytv/476_kumoon_by_mayoneez_and_the_boyz.avi|sceneorg:game/kumoon4assembly.zip|pouet:18298
+title:Skies|author:Aukiogames (Windows)|position:2|media:./2005/assemblytv/478_skies_by_aukiogames.avi|sceneorg:game/skies_beta_r1.zip|pouet:18297
+title:Pogo Sticker|author:tAAt 2005 (Windows)|position:3|media:./2005/assemblytv/477_pogo_sticker_by_taat_2005.avi|sceneorg:game/pogosticker100.zip|pouet:18295
+title:Factory Pinball|author:XZM (Windows)|position:4|media:./2005/assemblytv/474_factory_pinball_by_xzm.avi|sceneorg:game/factory_pinball-050728-0508.zip|pouet:18296
+title:TunnelRace|author:Mikkosoft Productions (Linux)|position:5|media:./2005/assemblytv/481_tunnelrace_by_mikkosoft_productions.avi|sceneorg:game/tunnelrace-asm05-bin.tgz|pouet:18304
+title:Springy|author:Tomasz Dobrowolski (Windows)|position:6|media:./2005/assemblytv/479_springy_by_tomasz_dobrowolski.avi|sceneorg:game/springy.zip|pouet:18302
+title:HiddenLynx|author:Mayoneez (Windows)|position:7|media:./2005/assemblytv/475_hiddenlynx_by_mayoneez.avi|sceneorg:game/hiddenlynx4assembly.zip|pouet:18301
+title:Thurst|author:Juha-Pekka Jokela (Windows / MorphOS)|position:8|media:./2005/assemblytv/480_thurst_by_juha_pekka_jokela.avi|sceneorg:game/thurst.zip|pouet:18303
+title:Bubbly|author:Joel "Bylkki" Pitkänen (Windows)|position:9|media:./2005/assemblytv/482_bubbly_by_joel__bylkki__pitkanen.avi|sceneorg:game/bubbly.zip|pouet:18300
 
 ! 64k intro
 
-title:Che Guevara|author:Fairlight (Windows)|position:1|media:./2005/assemblytv/331_che_guevara_by_fairlight.avi|sceneorgvideo:./assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|sceneorg:in64/che_guevara_by_fairlight.zip|pouet:http://pouet.net/prod.php?which=18339|dtv:http://www.demoscene.tv/prod.php?id_prod=12465
-title:Flight 666|author:Loonies (Windows)|position:2|media:./2005/assemblytv/329_flight_666_by_loonies.avi|sceneorg:in64/flight_666_by_loonies.zip|pouet:http://pouet.net/prod.php?which=18340|dtv:http://www.demoscene.tv/prod.php?id_prod=12493
-title:Origami|author:Juippi, Trilkk and Warma (Linux)|position:3|media:./2005/assemblytv/330_origami_by_juippi__trilkk_and_warma.avi|sceneorg:in64/origami_by_juippi__trilkk___warma__final_.tgz|pouet:http://pouet.net/prod.php?which=18347|dtv:http://www.demoscene.tv/page.php?id=172&lang=uk&vsmaction=view_prod&id_prod=13884
-title:Fiat Homo|author:Traction (Windows)|position:4|media:./2005/assemblytv/327_fiat_homo_by_traction.avi|sceneorg:in64/fiat_homo_by_traction_1.zip|pouet:http://pouet.net/prod.php?which=18342|dtv:http://www.demoscene.tv/prod.php?id_prod=12490
-title:Suboceanic|author:Tomkh (Windows)|position:5|media:./2005/assemblytv/323_suboceanic_by_tomkh.avi|sceneorg:in64/suboceanic_by_tomkh_1.zip|pouet:http://pouet.net/prod.php?which=18343
-title:Vital|author:Aspekt (Linux)|position:6|media:./2005/assemblytv/332_vital_by_aspekt.avi|sceneorg:in64/vital_by_aspekt.tgz|pouet:http://pouet.net/prod.php?which=18346
-title:Bustro|author:pxag (Windows)|position:7|media:./2005/assemblytv/333_bustro_by_pxag.avi|pouet:http://pouet.net/prod.php?which=18393
-title:Function `05 Invitation|author:Racers (Windows)|position:8|media:./2005/assemblytv/326_function__05_invitation_by_racers.avi|sceneorg:in64/function__05_invitation_by_racers.zip|pouet:http://pouet.net/prod.php?which=18341
-title:Another day of Lil Drolley|author:Abhorus (Windows)|position:9|media:./2005/assemblytv/324_another_day_of_lil_drolley_by_abhorus.avi|sceneorg:in64/another_day_of_lil_drolley_by_abhorus_1.zip|pouet:http://pouet.net/prod.php?which=18349
-title:Black / White|author:Rozware (Windows)|position:10|media:./2005/assemblytv/334_black___white_by_rozware.avi|sceneorg:in64/black___white_by_rozware.zip|pouet:http://pouet.net/prod.php?which=18345
-title:bribing you with oil!|author:flo (Windows)|position:11|media:./2005/assemblytv/325_bribing_you_with_oil__by_flo.avi|sceneorg:in64/bribing_you_with_oil__by_flo.zip|pouet:http://pouet.net/prod.php?which=18344
-title:Lodi|author:immersion (Mac OS X)|position:12|media:./2005/assemblytv/328_lodi_by_immersion.avi|sceneorg:in64/lodi_by_immersion.tar_gz|pouet:http://pouet.net/prod.php?which=18348
+title:Che Guevara|author:Fairlight (Windows)|position:1|media:./2005/assemblytv/331_che_guevara_by_fairlight.avi|sceneorgvideo:./assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|sceneorg:in64/che_guevara_by_fairlight.zip|pouet:18339|dtv:12465
+title:Flight 666|author:Loonies (Windows)|position:2|media:./2005/assemblytv/329_flight_666_by_loonies.avi|sceneorg:in64/flight_666_by_loonies.zip|pouet:18340|dtv:12493
+title:Origami|author:Juippi, Trilkk and Warma (Linux)|position:3|media:./2005/assemblytv/330_origami_by_juippi__trilkk_and_warma.avi|sceneorg:in64/origami_by_juippi__trilkk___warma__final_.tgz|pouet:18347|dtv:13884
+title:Fiat Homo|author:Traction (Windows)|position:4|media:./2005/assemblytv/327_fiat_homo_by_traction.avi|sceneorg:in64/fiat_homo_by_traction_1.zip|pouet:18342|dtv:12490
+title:Suboceanic|author:Tomkh (Windows)|position:5|media:./2005/assemblytv/323_suboceanic_by_tomkh.avi|sceneorg:in64/suboceanic_by_tomkh_1.zip|pouet:18343
+title:Vital|author:Aspekt (Linux)|position:6|media:./2005/assemblytv/332_vital_by_aspekt.avi|sceneorg:in64/vital_by_aspekt.tgz|pouet:18346
+title:Bustro|author:pxag (Windows)|position:7|media:./2005/assemblytv/333_bustro_by_pxag.avi|pouet:18393
+title:Function `05 Invitation|author:Racers (Windows)|position:8|media:./2005/assemblytv/326_function__05_invitation_by_racers.avi|sceneorg:in64/function__05_invitation_by_racers.zip|pouet:18341
+title:Another day of Lil Drolley|author:Abhorus (Windows)|position:9|media:./2005/assemblytv/324_another_day_of_lil_drolley_by_abhorus.avi|sceneorg:in64/another_day_of_lil_drolley_by_abhorus_1.zip|pouet:18349
+title:Black / White|author:Rozware (Windows)|position:10|media:./2005/assemblytv/334_black___white_by_rozware.avi|sceneorg:in64/black___white_by_rozware.zip|pouet:18345
+title:bribing you with oil!|author:flo (Windows)|position:11|media:./2005/assemblytv/325_bribing_you_with_oil__by_flo.avi|sceneorg:in64/bribing_you_with_oil__by_flo.zip|pouet:18344
+title:Lodi|author:immersion (Mac OS X)|position:12|media:./2005/assemblytv/328_lodi_by_immersion.avi|sceneorg:in64/lodi_by_immersion.tar_gz|pouet:18348
 
 ! Oldskool demo
 
-title:Boogie Factor|author:Fairlight (Commodore 64)|position:1|media:./2005/assemblytv/211_boogie_factor_by_fairlight.avi|pouet:http://pouet.net/prod.php?which=18365|dtv:http://www.demoscene.tv/prod.php?id_prod=12547
-title:BoomBoom|author:aspekt (Commodore 64)|position:2|media:./2005/assemblytv/213_boomboom_by_aspekt.avi|sceneorg:oldskool/demo/boomboom_by_aspekt.d64|pouet:http://pouet.net/prod.php?which=18322
-title:Treble|author:RNO (Amiga 500)|position:3|media:./2005/assemblytv/212_treble_by_rno.avi|sceneorg:oldskool/demo/rno-treble.lha|pouet:http://pouet.net/prod.php?which=18324
-title:nnn|author:Cyberpunks Unity (Sinclair Spectrum)|position:4|media:./2005/assemblytv/214_nnn_by_cyberpunks_unity.avi|sceneorg:oldskool/demo/nnn_by_cyberpunks_unity.zip|pouet:http://pouet.net/prod.php?which=18323
+title:Boogie Factor|author:Fairlight (Commodore 64)|position:1|media:./2005/assemblytv/211_boogie_factor_by_fairlight.avi|pouet:18365|dtv:12547
+title:BoomBoom|author:aspekt (Commodore 64)|position:2|media:./2005/assemblytv/213_boomboom_by_aspekt.avi|sceneorg:oldskool/demo/boomboom_by_aspekt.d64|pouet:18322
+title:Treble|author:RNO (Amiga 500)|position:3|media:./2005/assemblytv/212_treble_by_rno.avi|sceneorg:oldskool/demo/rno-treble.lha|pouet:18324
+title:nnn|author:Cyberpunks Unity (Sinclair Spectrum)|position:4|media:./2005/assemblytv/214_nnn_by_cyberpunks_unity.avi|sceneorg:oldskool/demo/nnn_by_cyberpunks_unity.zip|pouet:18323
 
 ! Fast graphics
 
@@ -187,60 +187,60 @@ title:we are the gods|author:1in10/mfx&kewlers|position:0|webfile:freestyle_musi
 
 ! 4k intro
 
-title:Make it 4k|author:Fit & Bandwagon (Linux)|position:1|media:./2005/assemblytv/161_make_it_4k_by_fit___bandwagon.avi|sceneorg:in4k/make_it_4k_by_fit___bandwagon_1.tgz|pouet:http://pouet.net/prod.php?which=18321
-title:Trapped Mind|author:Prophecy (Windows)|position:2|media:./2005/assemblytv/159_trapped_mind_by_prophecy.avi|sceneorg:in4k/trapped_mind_by_prophecy.zip|pouet:http://pouet.net/prod.php?which=18314
-title:Evoke Spacerace|author:0ok / ümlaüt design / blackmaiden (Windows)|position:3|media:./2005/assemblytv/189_evoke_spacerace_by_0ok___umlaut_design__.avi|sceneorg:in4k/evoke_spacerace_by_0ok____mla_t_design___blackmaiden.zip|pouet:http://pouet.net/prod.php?which=18313
-title:Blobzilla 4000|author:Northern Dragons (Windows)|position:4|media:./2005/assemblytv/155_blobzilla_4000_by_northern_dragons.avi|sceneorg:in4k/blobzilla_4000_by_northern_dragons.zip|pouet:http://pouet.net/prod.php?which=18311|dtv:http://www.demoscene.tv/prod.php?id_prod=12868
-title:Automation|author:Digital Devotion (Windows)|position:5|media:./2005/assemblytv/165_automation_by_digital_devotion.avi|sceneorg:in4k/automation_by_digital_devotion.zip|pouet:http://pouet.net/prod.php?which=18312
-title:uniform|author:headcrash (Windows)|position:6|media:./2005/assemblytv/160_uniform_by_headcrash.avi|sceneorg:in4k/uniform_by_headcrash.zip|pouet:http://pouet.net/prod.php?which=18318
-title:Stressless|author:Medieval (Windows)|position:7|media:./2005/assemblytv/163_stressless_by_medieval.avi|sceneorg:in4k/stressless_by_medieval.zip|pouet:http://pouet.net/prod.php?which=18317
-title:Monstah|author:Hipo / Lonely Coders (Linux)|position:8|media:./2005/assemblytv/162_monstah_by_hipo___lonely_coders.avi|sceneorg:in4k/monstah_by_hipo___lonely_coders.tgz|pouet:http://pouet.net/prod.php?which=18319
-title:Driftwood Theory|author:Lasse Toimela (Windows)|position:9|media:./2005/assemblytv/158_driftwood_theory_by_lasse_toimela.avi|sceneorg:in4k/driftwood_theory_by_lasse_toimela.zip|pouet:http://pouet.net/prod.php?which=18316
-title:Cracked|author:Inphernic (Windows)|position:10|media:./2005/assemblytv/156_cracked_by_inphernic.avi|sceneorg:in4k/cracked_by_inphernic.zip|pouet:http://pouet.net/prod.php?which=18315
-title:kalja|author:immersion / zoi (Linux)|position:11|media:./2005/assemblytv/164_kalja_by_immersion___zoi.avi|sceneorg:in4k/kalja_by_immersion___zoi.gz|pouet:http://pouet.net/prod.php?which=18320
+title:Make it 4k|author:Fit & Bandwagon (Linux)|position:1|media:./2005/assemblytv/161_make_it_4k_by_fit___bandwagon.avi|sceneorg:in4k/make_it_4k_by_fit___bandwagon_1.tgz|pouet:18321
+title:Trapped Mind|author:Prophecy (Windows)|position:2|media:./2005/assemblytv/159_trapped_mind_by_prophecy.avi|sceneorg:in4k/trapped_mind_by_prophecy.zip|pouet:18314
+title:Evoke Spacerace|author:0ok / ümlaüt design / blackmaiden (Windows)|position:3|media:./2005/assemblytv/189_evoke_spacerace_by_0ok___umlaut_design__.avi|sceneorg:in4k/evoke_spacerace_by_0ok____mla_t_design___blackmaiden.zip|pouet:18313
+title:Blobzilla 4000|author:Northern Dragons (Windows)|position:4|media:./2005/assemblytv/155_blobzilla_4000_by_northern_dragons.avi|sceneorg:in4k/blobzilla_4000_by_northern_dragons.zip|pouet:18311|dtv:12868
+title:Automation|author:Digital Devotion (Windows)|position:5|media:./2005/assemblytv/165_automation_by_digital_devotion.avi|sceneorg:in4k/automation_by_digital_devotion.zip|pouet:18312
+title:uniform|author:headcrash (Windows)|position:6|media:./2005/assemblytv/160_uniform_by_headcrash.avi|sceneorg:in4k/uniform_by_headcrash.zip|pouet:18318
+title:Stressless|author:Medieval (Windows)|position:7|media:./2005/assemblytv/163_stressless_by_medieval.avi|sceneorg:in4k/stressless_by_medieval.zip|pouet:18317
+title:Monstah|author:Hipo / Lonely Coders (Linux)|position:8|media:./2005/assemblytv/162_monstah_by_hipo___lonely_coders.avi|sceneorg:in4k/monstah_by_hipo___lonely_coders.tgz|pouet:18319
+title:Driftwood Theory|author:Lasse Toimela (Windows)|position:9|media:./2005/assemblytv/158_driftwood_theory_by_lasse_toimela.avi|sceneorg:in4k/driftwood_theory_by_lasse_toimela.zip|pouet:18316
+title:Cracked|author:Inphernic (Windows)|position:10|media:./2005/assemblytv/156_cracked_by_inphernic.avi|sceneorg:in4k/cracked_by_inphernic.zip|pouet:18315
+title:kalja|author:immersion / zoi (Linux)|position:11|media:./2005/assemblytv/164_kalja_by_immersion___zoi.avi|sceneorg:in4k/kalja_by_immersion___zoi.gz|pouet:18320
 
 ! Short film
 
-title:Get Inspired|author:maxon|position:1|webfile:short_film/get_inspired_by_maxon.avi|media:./2005/assemblytv/230_get_inspired_by_maxon.avi|sceneorg:short_film/get_inspired_by_maxon-nomickey-version_hdtv720p.avi|pouet:http://pouet.net/prod.php?which=18394|dtv:http://www.demoscene.tv/prod.php?id_prod=12869
-title:Porrasturvat for Stairstation 360 Live Revolution|author:tAAt 2005|position:2|webfile:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|media:./2005/assemblytv/237_porrasturvat_for_stairstation_360_live_r.avi|sceneorg:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|pouet:http://pouet.net/prod.php?which=18380|dtv:http://www.demoscene.tv/prod.php?id_prod=12734
-title:ToyZone|author:Random&Phaser|position:3|webfile:short_film/toyzone_by_random_phaser.avi|sceneorg:short_film/toyzone_by_random___phaser.avi|pouet:http://pouet.net/prod.php?which=18395|dtv:http://www.demoscene.tv/prod.php?id_prod=12870
-title:The Last Hope - Viimeinen toivo|author:miesmacher|position:4|webfile:short_film/the_last_hope_viimeinen_toivo_by_miesmacher.avi|media:./2005/assemblytv/229_the_last_hope___viimeinen_toivo_by_miesm.avi|sceneorg:short_film/the_last_hope-viimeinen_toivo_by_miesmacher.avi|pouet:http://pouet.net/prod.php?which=18396
-title:Liquid Crystal|author:Hedelmae|position:5|webfile:short_film/liquid_crystal_by_hedelmae.avi|media:./2005/assemblytv/236_liquid_crystal_by_hedelmae.avi|sceneorg:short_film/liquid_crystal_by_hedelmae.avi|pouet:http://pouet.net/prod.php?which=18375
-title:Seppo: The Smoke-Gubbe|author:HOViNET team|position:6|webfile:short_film/seppo_the_smoke_gubbe_by_hovinet_team.avi|sceneorg:short_film/seppo_the_smoke-gubbe__by_hovinet_team.avi|pouet:http://pouet.net/prod.php?which=18397
-title:bzm=10y|author:Accession|position:7|webfile:short_film/bzm_10y_by_accession.avi|media:./2005/assemblytv/234_bzm_10y_by_accession.avi|sceneorg:short_film/bzm10y_by_accession.avi|pouet:http://pouet.net/prod.php?which=18376
-title:Netbusters|author:Diskrecovery Channel|position:8|webfile:short_film/netbusters_by_diskrecovery_channel.avi|sceneorg:short_film/netbusters_by_diskrecovery_channel.avi|pouet:http://pouet.net/prod.php?which=18398
-title:Loop|author:DiFFART|position:9|webfile:short_film/loop_by_diffart.avi|media:./2005/assemblytv/238_loop_by_diffart.avi|sceneorg:short_film/loop_by_diffart.avi|pouet:http://pouet.net/prod.php?which=18399|dtv:http://www.demoscene.tv/prod.php?id_prod=12735
-title:Iisalmi - demojen ja oluen kaupunki traileri|author:Byterapers Movie Productions|position:10|webfile:short_film/iisalmi_demojen_ja_oluen_kaupunki_traileri_by_byterapers_movie_productions.avi|media:./2005/assemblytv/233_iisalmi___demojen_ja_oluen_kaupunki_trai.avi|sceneorg:short_film/iisalmi-demojen_ja_oluen_kaupunki_traileri_by_byterapers.avi|pouet:http://pouet.net/prod.php?which=18377
-title:Dweebs High|author:Grendel / Überfinns / Byterapers Movie Productions Indie Label|position:11|webfile:short_film/dweebs_high_by_grendel_berfinns_byterapers_movie_productions_indie_label.avi|media:./2005/assemblytv/235_dweebs_high_by_grendel___Uberfinns___byt.avi|sceneorg:short_film/dweebs_high_by_grendel___uberfinns___byterapers_movie_productions_indie_label.avi|pouet:http://pouet.net/prod.php?which=18378
-title:Super 8|author:sivu|position:12|webfile:short_film/super_8_by_sivu.avi|media:./2005/assemblytv/239_super_8_by_sivu.avi|sceneorg:short_film/super_8_by_sivu.avi|pouet:http://pouet.net/prod.php?which=18400
+title:Get Inspired|author:maxon|position:1|webfile:short_film/get_inspired_by_maxon.avi|media:./2005/assemblytv/230_get_inspired_by_maxon.avi|sceneorg:short_film/get_inspired_by_maxon-nomickey-version_hdtv720p.avi|pouet:18394|dtv:12869
+title:Porrasturvat for Stairstation 360 Live Revolution|author:tAAt 2005|position:2|webfile:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|media:./2005/assemblytv/237_porrasturvat_for_stairstation_360_live_r.avi|sceneorg:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|pouet:18380|dtv:12734
+title:ToyZone|author:Random&Phaser|position:3|webfile:short_film/toyzone_by_random_phaser.avi|sceneorg:short_film/toyzone_by_random___phaser.avi|pouet:18395|dtv:12870
+title:The Last Hope - Viimeinen toivo|author:miesmacher|position:4|webfile:short_film/the_last_hope_viimeinen_toivo_by_miesmacher.avi|media:./2005/assemblytv/229_the_last_hope___viimeinen_toivo_by_miesm.avi|sceneorg:short_film/the_last_hope-viimeinen_toivo_by_miesmacher.avi|pouet:18396
+title:Liquid Crystal|author:Hedelmae|position:5|webfile:short_film/liquid_crystal_by_hedelmae.avi|media:./2005/assemblytv/236_liquid_crystal_by_hedelmae.avi|sceneorg:short_film/liquid_crystal_by_hedelmae.avi|pouet:18375
+title:Seppo: The Smoke-Gubbe|author:HOViNET team|position:6|webfile:short_film/seppo_the_smoke_gubbe_by_hovinet_team.avi|sceneorg:short_film/seppo_the_smoke-gubbe__by_hovinet_team.avi|pouet:18397
+title:bzm=10y|author:Accession|position:7|webfile:short_film/bzm_10y_by_accession.avi|media:./2005/assemblytv/234_bzm_10y_by_accession.avi|sceneorg:short_film/bzm10y_by_accession.avi|pouet:18376
+title:Netbusters|author:Diskrecovery Channel|position:8|webfile:short_film/netbusters_by_diskrecovery_channel.avi|sceneorg:short_film/netbusters_by_diskrecovery_channel.avi|pouet:18398
+title:Loop|author:DiFFART|position:9|webfile:short_film/loop_by_diffart.avi|media:./2005/assemblytv/238_loop_by_diffart.avi|sceneorg:short_film/loop_by_diffart.avi|pouet:18399|dtv:12735
+title:Iisalmi - demojen ja oluen kaupunki traileri|author:Byterapers Movie Productions|position:10|webfile:short_film/iisalmi_demojen_ja_oluen_kaupunki_traileri_by_byterapers_movie_productions.avi|media:./2005/assemblytv/233_iisalmi___demojen_ja_oluen_kaupunki_trai.avi|sceneorg:short_film/iisalmi-demojen_ja_oluen_kaupunki_traileri_by_byterapers.avi|pouet:18377
+title:Dweebs High|author:Grendel / Überfinns / Byterapers Movie Productions Indie Label|position:11|webfile:short_film/dweebs_high_by_grendel_berfinns_byterapers_movie_productions_indie_label.avi|media:./2005/assemblytv/235_dweebs_high_by_grendel___Uberfinns___byt.avi|sceneorg:short_film/dweebs_high_by_grendel___uberfinns___byterapers_movie_productions_indie_label.avi|pouet:18378
+title:Super 8|author:sivu|position:12|webfile:short_film/super_8_by_sivu.avi|media:./2005/assemblytv/239_super_8_by_sivu.avi|sceneorg:short_film/super_8_by_sivu.avi|pouet:18400
 
 ! Demo
 
-title:Iconoclast|author:Andromeda Software Development (Windows)|position:1|media:./2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|sceneorgvideo:./assembly05/demo/asd-iconoclast-lowq.avi|sceneorg:demo/iconoclast_by_andromeda_software_development.zip|pouet:http://pouet.net/prod.php?which=18350|dtv:http://www.demoscene.tv/prod.php?id_prod=12464
-title:STS-04: Instant Zen|author:Synesthetics (Windows)|position:2|media:./2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|sceneorg:demo/sts-04__instant_zen_by_synesthetics.zip|pouet:http://pouet.net/prod.php?which=18359|dtv:http://www.demoscene.tv/prod.php?id_prod=12502
-title:Don't Stop|author:Portal Process (Windows)|position:3|media:./2005/assemblytv/459_don_t_stop_by_portal_process.avi|sceneorg:demo/don_t_stop_by_portal_process.zip|pouet:http://pouet.net/prod.php?which=18351|dtv:http://www.demoscene.tv/prod.php?id_prod=12501
-title:The Line Age|author:Trauma (Windows)|position:4|media:./2005/assemblytv/452_the_line_age_by_trauma.avi|sceneorg:demo/the_line_age_by_trauma.zip|pouet:http://pouet.net/prod.php?which=18360
-title:Light Amplification by Stimulated Emission of Radiation|author:Ananasmurska (Windows)|position:5|media:./2005/assemblytv/450_light_amplification_by_stimulated_emissi.avi|sceneorg:demo/light_amplification_by_stimulated_emission_of_radiation_(final)_by_ananasmurska.zip|pouet:http://pouet.net/prod.php?which=18356
-title:Contamination of The Present Governmental System|author:Matt Current (Windows)|position:6|media:./2005/assemblytv/451_contamination_of_the_present_governmenta.avi|sceneorg:demo/contamination_of_the_present_governmental_system_by_matt_current.zip|pouet:http://pouet.net/prod.php?which=18353
-title:Tannhäuser Gate|author:Cubicle (Windows)|position:7|media:./2005/assemblytv/457_tannhauser_gate_by_cubicle.avi|sceneorg:demo/tannh_user_gate_by_cubicle_1.zip|pouet:http://pouet.net/prod.php?which=18352
-title:No Trace|author:RRE (Windows)|position:8|media:./2005/assemblytv/462_no_trace_by_rre.avi|sceneorg:demo/no_trace_by_rre.zip|pouet:http://pouet.net/prod.php?which=18364
-title:Imaginations|author:Dope (Windows)|position:9|media:./2005/assemblytv/454_imaginations_by_dope.avi|sceneorg:demo/imaginations_by_dope-party_final.zip|pouet:http://pouet.net/prod.php?which=18355
-title:The Apparatus|author:Division (Windows)|position:10|media:./2005/assemblytv/456_the_apparatus_by_division.avi|sceneorg:demo/the_apparatus_by_division.zip|pouet:http://pouet.net/prod.php?which=18363
-title:My Diamond Mind Broken|author:Outbreak (Windows, Linux, Mac OS X)|position:11|media:./2005/assemblytv/461_my_diamond_mind_broken_by_outbreak.avi|sceneorg:demo/my_diamond_mind_broken_by_outbreak_1.zip|pouet:http://pouet.net/prod.php?which=18366
-title:Into The 0:0:255|author:Unknown Artists (Windows)|position:12|media:./2005/assemblytv/458_into_the_0_0_255_by_unknown_artists.avi|sceneorg:demo/into_the_0_0_255_by_unknown_artists.zip|pouet:http://pouet.net/prod.php?which=18362
-title:Club Null|author:wAMMA (Windows)|position:13|media:./2005/assemblytv/455_club_null_by_wamma.avi|sceneorg:demo/club_null_by_wamma.zip|pouet:http://pouet.net/prod.php?which=18354
-title:Unknown Entity|author:proMille deZign (Windows)|position:14|media:./2005/assemblytv/464_unknown_entity_by_promille_dezign.avi|sceneorg:demo/unknown_entity_by_promille_dezign.zip|pouet:http://pouet.net/prod.php?which=18361
-title:pyromanssi - pyromance|author:tAAt (Windows)|position:15|media:./2005/assemblytv/453_pyromanssi___pyromance_by_taat.avi|sceneorg:demo/pyromanssi_-_pyromance_by_taat.zip|pouet:http://pouet.net/prod.php?which=18358
+title:Iconoclast|author:Andromeda Software Development (Windows)|position:1|media:./2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|sceneorgvideo:./assembly05/demo/asd-iconoclast-lowq.avi|sceneorg:demo/iconoclast_by_andromeda_software_development.zip|pouet:18350|dtv:12464
+title:STS-04: Instant Zen|author:Synesthetics (Windows)|position:2|media:./2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|sceneorg:demo/sts-04__instant_zen_by_synesthetics.zip|pouet:18359|dtv:12502
+title:Don't Stop|author:Portal Process (Windows)|position:3|media:./2005/assemblytv/459_don_t_stop_by_portal_process.avi|sceneorg:demo/don_t_stop_by_portal_process.zip|pouet:18351|dtv:12501
+title:The Line Age|author:Trauma (Windows)|position:4|media:./2005/assemblytv/452_the_line_age_by_trauma.avi|sceneorg:demo/the_line_age_by_trauma.zip|pouet:18360
+title:Light Amplification by Stimulated Emission of Radiation|author:Ananasmurska (Windows)|position:5|media:./2005/assemblytv/450_light_amplification_by_stimulated_emissi.avi|sceneorg:demo/light_amplification_by_stimulated_emission_of_radiation_(final)_by_ananasmurska.zip|pouet:18356
+title:Contamination of The Present Governmental System|author:Matt Current (Windows)|position:6|media:./2005/assemblytv/451_contamination_of_the_present_governmenta.avi|sceneorg:demo/contamination_of_the_present_governmental_system_by_matt_current.zip|pouet:18353
+title:Tannhäuser Gate|author:Cubicle (Windows)|position:7|media:./2005/assemblytv/457_tannhauser_gate_by_cubicle.avi|sceneorg:demo/tannh_user_gate_by_cubicle_1.zip|pouet:18352
+title:No Trace|author:RRE (Windows)|position:8|media:./2005/assemblytv/462_no_trace_by_rre.avi|sceneorg:demo/no_trace_by_rre.zip|pouet:18364
+title:Imaginations|author:Dope (Windows)|position:9|media:./2005/assemblytv/454_imaginations_by_dope.avi|sceneorg:demo/imaginations_by_dope-party_final.zip|pouet:18355
+title:The Apparatus|author:Division (Windows)|position:10|media:./2005/assemblytv/456_the_apparatus_by_division.avi|sceneorg:demo/the_apparatus_by_division.zip|pouet:18363
+title:My Diamond Mind Broken|author:Outbreak (Windows, Linux, Mac OS X)|position:11|media:./2005/assemblytv/461_my_diamond_mind_broken_by_outbreak.avi|sceneorg:demo/my_diamond_mind_broken_by_outbreak_1.zip|pouet:18366
+title:Into The 0:0:255|author:Unknown Artists (Windows)|position:12|media:./2005/assemblytv/458_into_the_0_0_255_by_unknown_artists.avi|sceneorg:demo/into_the_0_0_255_by_unknown_artists.zip|pouet:18362
+title:Club Null|author:wAMMA (Windows)|position:13|media:./2005/assemblytv/455_club_null_by_wamma.avi|sceneorg:demo/club_null_by_wamma.zip|pouet:18354
+title:Unknown Entity|author:proMille deZign (Windows)|position:14|media:./2005/assemblytv/464_unknown_entity_by_promille_dezign.avi|sceneorg:demo/unknown_entity_by_promille_dezign.zip|pouet:18361
+title:pyromanssi - pyromance|author:tAAt (Windows)|position:15|media:./2005/assemblytv/453_pyromanssi___pyromance_by_taat.avi|sceneorg:demo/pyromanssi_-_pyromance_by_taat.zip|pouet:18358
 
 ! Browser demo
 
-title:Redbug|author:Shingebis|position:1|media:./2005/assemblytv/223_redbug_by_shingebis.avi|sceneorg:browser_demo/04_redbug_by_shingebis.zip|pouet:http://pouet.net/prod.php?which=18326
-title:the drop|author:komplex|position:2|media:./2005/assemblytv/222_the_drop_by_komplex.avi|sceneorg:browser_demo/03_drop_by_komplex_final.zip|pouet:http://pouet.net/prod.php?which=18325
-title:pure javascript demo|author:IKU|position:3|media:./2005/assemblytv/224_pure_javascript_demo_by_iku.avi|sceneorg:browser_demo/06_pure_javascript_demo_by_iku.zip|pouet:http://pouet.net/prod.php?which=18327
-title:Neja|author:ribbon + bomb|position:4|media:./2005/assemblytv/225_neja_by_ribbon___bomb.avi|sceneorg:browser_demo/07_neja_by_ribbon_+_bomb_1.zip|pouet:http://pouet.net/prod.php?which=18328
-title:Scene of Life|author:Inapt & Static|position:5|media:./2005/assemblytv/741_scene_of_life_by_inapt___static.avi|sceneorg:browser_demo/05_scene_of_life_by_inapt___static.zip|pouet:http://pouet.net/prod.php?which=18329
-title:I,Mofo|author:Pyrotech|position:6|media:./2005/assemblytv/221_i_mofo_by_pyrotech.avi|sceneorg:browser_demo/02_i_mofo_by_pyrotech.zip|pouet:http://pouet.net/prod.php?which=18330
-title:Etsin unelmaa|author:CND GROUP|position:7|media:./2005/assemblytv/226_etsin_unelmaa_by_cnd_group.avi|sceneorg:browser_demo/01_etsin_unelmaa_by_cnd_group.zip|pouet:http://pouet.net/prod.php?which=18331
+title:Redbug|author:Shingebis|position:1|media:./2005/assemblytv/223_redbug_by_shingebis.avi|sceneorg:browser_demo/04_redbug_by_shingebis.zip|pouet:18326
+title:the drop|author:komplex|position:2|media:./2005/assemblytv/222_the_drop_by_komplex.avi|sceneorg:browser_demo/03_drop_by_komplex_final.zip|pouet:18325
+title:pure javascript demo|author:IKU|position:3|media:./2005/assemblytv/224_pure_javascript_demo_by_iku.avi|sceneorg:browser_demo/06_pure_javascript_demo_by_iku.zip|pouet:18327
+title:Neja|author:ribbon + bomb|position:4|media:./2005/assemblytv/225_neja_by_ribbon___bomb.avi|sceneorg:browser_demo/07_neja_by_ribbon_+_bomb_1.zip|pouet:18328
+title:Scene of Life|author:Inapt & Static|position:5|media:./2005/assemblytv/741_scene_of_life_by_inapt___static.avi|sceneorg:browser_demo/05_scene_of_life_by_inapt___static.zip|pouet:18329
+title:I,Mofo|author:Pyrotech|position:6|media:./2005/assemblytv/221_i_mofo_by_pyrotech.avi|sceneorg:browser_demo/02_i_mofo_by_pyrotech.zip|pouet:18330
+title:Etsin unelmaa|author:CND GROUP|position:7|media:./2005/assemblytv/226_etsin_unelmaa_by_cnd_group.avi|sceneorg:browser_demo/01_etsin_unelmaa_by_cnd_group.zip|pouet:18331
 
 ! Instrumental music
 

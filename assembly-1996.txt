@@ -13,17 +13,17 @@ title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_
 
 ! Amiga 64K intro
 
-title:Pure|author:Sonik Clique|position:1|sceneorg:amiga/in64/s_pure.zip|pouet:http://pouet.net/prod.php?which=2984
-title:So What?|author:Royal|position:2|sceneorg:amiga/in64/ryl_so.zip|pouet:http://pouet.net/prod.php?which=15837
-title:Japani|author:Kanisteri|position:3|pouet:http://pouet.net/prod.php?which=30982
-title:Click|author:Primary|position:4|sceneorg:amiga/in64/pmy_clic.zip|pouet:http://pouet.net/prod.php?which=15842
-title:Asm96|author:C-lous|position:5|sceneorg:amiga/in64/c_asm96.zip|pouet:http://www.pouet.net/prod.php?which=15839
-title:Murr|author:New Age|position:6|sceneorg:amiga/in64/na_murr.zip|pouet:http://pouet.net/prod.php?which=15841
-title:Kanda Bong Man|author:Wunderbaum|position:7|sceneorg:amiga/in64/wb_kbm.zip|pouet:http://pouet.net/prod.php?which=15845
-title:Ifa|author:Extend|position:8|sceneorg:amiga/in64/ext_ifa.zip|pouet:http://pouet.net/prod.php?which=15840
-title:Übergirl|author:Subspace|position:9|sceneorg:amiga/in64/sbs_uber.zip|pouet:http://pouet.net/prod.php?which=15838
-title:Nona|author:Zenon|position:10|sceneorg:amiga/in64/nona.lha|pouet:http://pouet.net/prod.php?which=11537
-title:Hit the fan|author:Sam&Roy|position:11|sceneorg:amiga/in64/sr_htf.zip|pouet:http://pouet.net/prod.php?which=15844
+title:Pure|author:Sonik Clique|position:1|sceneorg:amiga/in64/s_pure.zip|pouet:2984
+title:So What?|author:Royal|position:2|sceneorg:amiga/in64/ryl_so.zip|pouet:15837
+title:Japani|author:Kanisteri|position:3|pouet:30982
+title:Click|author:Primary|position:4|sceneorg:amiga/in64/pmy_clic.zip|pouet:15842
+title:Asm96|author:C-lous|position:5|sceneorg:amiga/in64/c_asm96.zip|pouet:15839
+title:Murr|author:New Age|position:6|sceneorg:amiga/in64/na_murr.zip|pouet:15841
+title:Kanda Bong Man|author:Wunderbaum|position:7|sceneorg:amiga/in64/wb_kbm.zip|pouet:15845
+title:Ifa|author:Extend|position:8|sceneorg:amiga/in64/ext_ifa.zip|pouet:15840
+title:Übergirl|author:Subspace|position:9|sceneorg:amiga/in64/sbs_uber.zip|pouet:15838
+title:Nona|author:Zenon|position:10|sceneorg:amiga/in64/nona.lha|pouet:11537
+title:Hit the fan|author:Sam&Roy|position:11|sceneorg:amiga/in64/sr_htf.zip|pouet:15844
 
 ! C64 graphics
 
@@ -36,42 +36,42 @@ title:Smoking|author:Calamity/Laxity|position:6
 
 ! PC 4K intro
 
-title:Pure Spirit|author:unknown|position:1|sceneorg:in4k/pure.zip|pouet:http://pouet.net/prod.php?which=6538
-title:Countach|author:Dave/ByTeam|position:2|sceneorg:in4k/countach.zip|pouet:http://pouet.net/prod.php?which=6706
-title:Mobilization|author:unknown|position:3|sceneorg:in4k/mobiliz.zip|pouet:http://pouet.net/prod.php?which=6735
-title:Stroke|author:Ionic/AstroideA|position:4|sceneorg:in4k/ai_strok.zip|pouet:http://pouet.net/prod.php?which=2262
-title:Chrome 2|author:TomCat/Abaddon|position:5|sceneorg:in4k/chrome2.zip|pouet:http://pouet.net/prod.php?which=6736
-title:Shorty|author:unknown|position:6|sceneorg:in4k/shorty.zip|pouet:http://pouet.net/prod.php?which=6744
-title:Chaos Overflow|author:unknown|position:7|sceneorg:in4k/chaos.zip|pouet:http://pouet.net/prod.php?which=6737
-title:Mystical|author:unknown|position:8|sceneorg:in4k/mystical.zip|pouet:http://pouet.net/prod.php?which=6745
-title:Balls|author:unknown|position:9|sceneorg:in4k/balls.zip|pouet:http://www.pouet.net/prod.php?which=1735
+title:Pure Spirit|author:unknown|position:1|sceneorg:in4k/pure.zip|pouet:6538
+title:Countach|author:Dave/ByTeam|position:2|sceneorg:in4k/countach.zip|pouet:6706
+title:Mobilization|author:unknown|position:3|sceneorg:in4k/mobiliz.zip|pouet:6735
+title:Stroke|author:Ionic/AstroideA|position:4|sceneorg:in4k/ai_strok.zip|pouet:2262
+title:Chrome 2|author:TomCat/Abaddon|position:5|sceneorg:in4k/chrome2.zip|pouet:6736
+title:Shorty|author:unknown|position:6|sceneorg:in4k/shorty.zip|pouet:6744
+title:Chaos Overflow|author:unknown|position:7|sceneorg:in4k/chaos.zip|pouet:6737
+title:Mystical|author:unknown|position:8|sceneorg:in4k/mystical.zip|pouet:6745
+title:Balls|author:unknown|position:9|sceneorg:in4k/balls.zip|pouet:1735
 title:Red Room|author:unknown|position:10|sceneorg:in4k/redroom.zip
 
 ! PC demo
 
-title:Machines of Madness|author:Dubius|position:1|sceneorg:demo/machines.zip|pouet:http://pouet.net/prod.php?which=312|dtv:http://www.demoscene.tv/prod.php?id_prod=6448
-title:Toasted|author:Cubic Team|position:2|sceneorg:demo/ctstoast.zip|pouet:http://pouet.net/prod.php?which=376|dtv:http://www.demoscene.tv/prod.php?id_prod=10904
-title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:demo/vividexp.zip|pouet:http://pouet.net/prod.php?which=2167|dtv:http://www.demoscene.tv/prod.php?id_prod=13103
-title:Super Television|author:Orange|position:4|sceneorg:demo/stv.zip|pouet:http://pouet.net/prod.php?which=298|dtv:http://www.demoscene.tv/prod.php?id_prod=10103
-title:Sperm|author:Five Coders|position:5|sceneorg:demo/sperm.zip|pouet:http://pouet.net/prod.php?which=13323
-title:Daydream|author:Japotek|position:6|sceneorg:demo/daydream.zip|pouet:http://pouet.net/prod.php?which=5041
-title:Stream|author:MFX|position:7|sceneorg:demo/mfx_strm.zip|pouet:http://pouet.net/prod.php?which=1382
-title:Proton|author:Planet Artwork|position:8|sceneorg:demo/atw_prot.zip|pouet:http://pouet.net/prod.php?which=2897
-title:Ages|author:Happo|position:9|sceneorg:demo/ages.zip|pouet:http://pouet.net/prod.php?which=2934
-title:Encore 2|author:Tplom|position:10|sceneorg:demo/zencore.zip|pouet:http://www.pouet.net/prod.php?which=354
-title:Nutz|author:Hyperopia|position:11|sceneorg:demo/nutz.zip|pouet:http://pouet.net/prod.php?which=5050
-title:Sergei|author:Recreation|position:12|sceneorg:demo/rcnserge.zip|pouet:http://pouet.net/prod.php?which=6759
-title:Anxious|author:Vandals|position:13|sceneorg:demo/anxious.zip|pouet:http://pouet.net/prod.php?which=13324
-title:They will Pay|author:Borealis|position:14|sceneorg:demo/theywill.zip|pouet:http://pouet.net/prod.php?which=13325
-title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:demo/pure.zip|pouet:http://pouet.net/prod.php?which=13326
+title:Machines of Madness|author:Dubius|position:1|sceneorg:demo/machines.zip|pouet:312|dtv:6448
+title:Toasted|author:Cubic Team|position:2|sceneorg:demo/ctstoast.zip|pouet:376|dtv:10904
+title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:demo/vividexp.zip|pouet:2167|dtv:13103
+title:Super Television|author:Orange|position:4|sceneorg:demo/stv.zip|pouet:298|dtv:10103
+title:Sperm|author:Five Coders|position:5|sceneorg:demo/sperm.zip|pouet:13323
+title:Daydream|author:Japotek|position:6|sceneorg:demo/daydream.zip|pouet:5041
+title:Stream|author:MFX|position:7|sceneorg:demo/mfx_strm.zip|pouet:1382
+title:Proton|author:Planet Artwork|position:8|sceneorg:demo/atw_prot.zip|pouet:2897
+title:Ages|author:Happo|position:9|sceneorg:demo/ages.zip|pouet:2934
+title:Encore 2|author:Tplom|position:10|sceneorg:demo/zencore.zip|pouet:354
+title:Nutz|author:Hyperopia|position:11|sceneorg:demo/nutz.zip|pouet:5050
+title:Sergei|author:Recreation|position:12|sceneorg:demo/rcnserge.zip|pouet:6759
+title:Anxious|author:Vandals|position:13|sceneorg:demo/anxious.zip|pouet:13324
+title:They will Pay|author:Borealis|position:14|sceneorg:demo/theywill.zip|pouet:13325
+title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:demo/pure.zip|pouet:13326
 
 ! C64 demo
 
-title:Follow the sign 3|author:Byterapers|position:1|sceneorg:c64/demo/fts3.lha|pouet:http://www.pouet.net/prod.php?which=1428
-title:Nothing but code|author:Beyond Force|position:2|sceneorg:c64/demo/nothbcod.lha|pouet:http://pouet.net/prod.php?which=1734
-title:Fruits|author:Panic|position:3|sceneorg:c64/demo/fruits.lha|pouet:http://pouet.net/prod.php?which=5202
-title:Stupidity 3|author:Wrath Designs|position:4|sceneorg:c64/demo/stupidi3.lha|pouet:http://pouet.net/prod.php?which=1851
-title:Drug sixtyfour|author:Reflex|position:5|sceneorg:c64/demo/drug64.lha|pouet:http://pouet.net/prod.php?which=3162
+title:Follow the sign 3|author:Byterapers|position:1|sceneorg:c64/demo/fts3.lha|pouet:1428
+title:Nothing but code|author:Beyond Force|position:2|sceneorg:c64/demo/nothbcod.lha|pouet:1734
+title:Fruits|author:Panic|position:3|sceneorg:c64/demo/fruits.lha|pouet:5202
+title:Stupidity 3|author:Wrath Designs|position:4|sceneorg:c64/demo/stupidi3.lha|pouet:1851
+title:Drug sixtyfour|author:Reflex|position:5|sceneorg:c64/demo/drug64.lha|pouet:3162
 
 ! Raytrace graphics
 
@@ -95,7 +95,7 @@ title:unknown|author:Slayer&Gonzo/Stetson Design|position:15
 
 title:U.F.Orb|author:Outer Space|position:1
 title:Radio Silent|author:Princess Interactive|position:2
-title:Rinistys|author:unknown|position:3|pouet:http://pouet.net/prod.php?which=4745
+title:Rinistys|author:unknown|position:3|pouet:4745
 title:Pure Direct|author:unknown|position:4
 title:Do PC's fly?|author:unknown|position:5
 title:Our skinjoy's rave movie 2|author:unknown|position:6
@@ -109,17 +109,17 @@ title:Kukko|author:unknown|position:13
 
 ! Amiga demo
 
-title:Sumea|author:Virtual Dreams|position:1|sceneorg:amiga/demo/vd_sumea.lha|pouet:http://pouet.net/prod.php?which=1154|dtv:http://www.demoscene.tv/prod.php?id_prod=10050
-title:Dim|author:Mellow Chips|position:2|sceneorg:amiga/demo/mc_dim1.lha,amiga/demo/mc_dim2.lha,amiga/demo/mc_dim3.lha,amiga/demo/mc_dim4.lha|pouet:http://pouet.net/prod.php?which=15846
-title:Goa|author:The Black Lotus|position:3|sceneorg:amiga/demo/tblgoa.lha|pouet:http://pouet.net/prod.php?which=3457|dtv:http://www.demoscene.tv/prod.php?id_prod=4606
-title:Traffic|author:Mystic|position:4|sceneorg:amiga/demo/mst_tfc.lha|pouet:http://pouet.net/prod.php?which=3944
-title:Mindabuse|author:Limited Edition|position:5|sceneorg:amiga/demo/ledma.lha,amiga/demo/ledma2.lha|pouet:http://pouet.net/prod.php?which=3949
-title:Cyberia|author:Scoopex&Bomb|position:6|sceneorg:amiga/demo/cyberia.lha|pouet:http://pouet.net/prod.php?which=2566
-title:Insane|author:Extend|position:7|sceneorg:amiga/demo/ext_insa.lha|pouet:http://pouet.net/prod.php?which=17439
-title:Showstopper|author:Cirion|position:8|sceneorg:amiga/demo/showstop.lha|pouet:http://pouet.net/prod.php?which=16134
-title:Clichés|author:Artificial People|position:9|sceneorg:amiga/demo/ap_clic.lha|pouet:http://pouet.net/prod.php?which=19041
-title:Bold|author:Banal Projects|position:10|sceneorg:amiga/demo/bold1.lha,amiga/demo/bold2.lha|pouet:http://www.pouet.net/prod.php?which=17653
-title:Gyrate|author:Wrath|position:11|sceneorg:amiga/demo/gyrate.lha|pouet:http://pouet.net/prod.php?which=5915
+title:Sumea|author:Virtual Dreams|position:1|sceneorg:amiga/demo/vd_sumea.lha|pouet:1154|dtv:10050
+title:Dim|author:Mellow Chips|position:2|sceneorg:amiga/demo/mc_dim1.lha,amiga/demo/mc_dim2.lha,amiga/demo/mc_dim3.lha,amiga/demo/mc_dim4.lha|pouet:15846
+title:Goa|author:The Black Lotus|position:3|sceneorg:amiga/demo/tblgoa.lha|pouet:3457|dtv:4606
+title:Traffic|author:Mystic|position:4|sceneorg:amiga/demo/mst_tfc.lha|pouet:3944
+title:Mindabuse|author:Limited Edition|position:5|sceneorg:amiga/demo/ledma.lha,amiga/demo/ledma2.lha|pouet:3949
+title:Cyberia|author:Scoopex&Bomb|position:6|sceneorg:amiga/demo/cyberia.lha|pouet:2566
+title:Insane|author:Extend|position:7|sceneorg:amiga/demo/ext_insa.lha|pouet:17439
+title:Showstopper|author:Cirion|position:8|sceneorg:amiga/demo/showstop.lha|pouet:16134
+title:Clichés|author:Artificial People|position:9|sceneorg:amiga/demo/ap_clic.lha|pouet:19041
+title:Bold|author:Banal Projects|position:10|sceneorg:amiga/demo/bold1.lha,amiga/demo/bold2.lha|pouet:17653
+title:Gyrate|author:Wrath|position:11|sceneorg:amiga/demo/gyrate.lha|pouet:5915
 
 ! 4 channel music
 
@@ -159,27 +159,27 @@ title:unknown|author:Speedo|position:15
 
 ! PC 64K intro
 
-title:Blind|author:Eufrosyne|position:1|sceneorg:in64/frs_blnd.zip|pouet:http://pouet.net/prod.php?which=556|dtv:http://www.demoscene.tv/prod.php?id_prod=12804
-title:Wego|author:Complex|position:2|sceneorg:in64/clx_wego.zip|pouet:http://pouet.net/prod.php?which=78
-title:Nation Zero 2|author:Jamm|position:3|sceneorg:in64/nation2.zip|pouet:http://pouet.net/prod.php?which=1367
-title:Palikka|author:Moottori|position:4|sceneorg:in64/palikka.zip|pouet:http://pouet.net/prod.php?which=4744
-title:Neutral|author:Coral|position:5|sceneorg:in64/neutral.zip|pouet:http://pouet.net/prod.php?which=13135
-title:Water|author:Spirit New Style|position:6|sceneorg:in64/water.zip|pouet:http://pouet.net/prod.php?which=6753
-title:Station Crawford|author:Paragon|position:7|sceneorg:in64/crawford.zip|pouet:http://pouet.net/prod.php?which=5051
-title:Andalucia|author:Halcyon|position:8|sceneorg:in64/alucia.zip|pouet:http://pouet.net/prod.php?which=1269
-title:'69|author:The Black Lotus|position:9|sceneorg:in64/tbl_69.zip|pouet:http://pouet.net/prod.php?which=6754
-title:Pocsolya|author:ByTeam|position:10|sceneorg:in64/pocsolya.zip|pouet:http://pouet.net/prod.php?which=5276
-title:Prelude|author:Amorphous|position:11|sceneorg:in64/prelude.zip|pouet:http://pouet.net/prod.php?which=6755
+title:Blind|author:Eufrosyne|position:1|sceneorg:in64/frs_blnd.zip|pouet:556|dtv:12804
+title:Wego|author:Complex|position:2|sceneorg:in64/clx_wego.zip|pouet:78
+title:Nation Zero 2|author:Jamm|position:3|sceneorg:in64/nation2.zip|pouet:1367
+title:Palikka|author:Moottori|position:4|sceneorg:in64/palikka.zip|pouet:4744
+title:Neutral|author:Coral|position:5|sceneorg:in64/neutral.zip|pouet:13135
+title:Water|author:Spirit New Style|position:6|sceneorg:in64/water.zip|pouet:6753
+title:Station Crawford|author:Paragon|position:7|sceneorg:in64/crawford.zip|pouet:5051
+title:Andalucia|author:Halcyon|position:8|sceneorg:in64/alucia.zip|pouet:1269
+title:'69|author:The Black Lotus|position:9|sceneorg:in64/tbl_69.zip|pouet:6754
+title:Pocsolya|author:ByTeam|position:10|sceneorg:in64/pocsolya.zip|pouet:5276
+title:Prelude|author:Amorphous|position:11|sceneorg:in64/prelude.zip|pouet:6755
 title:Pallo|author:unknown|position:12
-title:Power Rangers|author:Cool Productions|position:13|sceneorg:in64/ranger.zip|pouet:http://pouet.net/prod.php?which=23065
+title:Power Rangers|author:Cool Productions|position:13|sceneorg:in64/ranger.zip|pouet:23065
 
 ! Animation
 
-title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:anim/amis5000.zip|pouet:http://pouet.net/prod.php?which=6733
+title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:anim/amis5000.zip|pouet:6733
 title:In and out|author:Timo Kinnunen|position:2
 title:Giant bunghole in outer s.|author:Paskasoft|position:3
 title:Heroes|author:unknown|position:4
-title:Green Peace|author:Innocent/Abaddon|position:5|webfile:animation/green_peace_by_innocent_abaddon.mpeg|sceneorg:anim/green.zip|pouet:http://pouet.net/prod.php?which=32360
+title:Green Peace|author:Innocent/Abaddon|position:5|webfile:animation/green_peace_by_innocent_abaddon.mpeg|sceneorg:anim/green.zip|pouet:32360
 title:Visitor|author:Slimy Devil/TDC|position:6
 title:Jolly Day|author:Inside|position:7
 title:Overall|author:Grunt|position:8
