@@ -28,13 +28,13 @@ title:Trackmo|author:Xentrix|position:0
 
 ! Music
 
-title:Iridium|author:Misty and Daeron/Shining|position:1|webfile:music/iridium_by_misty_and_daeron_shining.mp3|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
-title:Towards Immortality|author:Groo/Black Robes|position:2|webfile:music/towards_immortality_by_groo_black_robes.mp3|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
+title:Iridium|author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
+title:Towards Immortality|author:Groo/Black Robes|position:2|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
 title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip
-title:Walking Lonely|author:Megaman/Equinox|position:0|webfile:music/walking_lonely_by_megaman_equinox.mp3|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
+title:Walking Lonely|author:Megaman/Equinox|position:0|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
 title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip
 title:Insomnia|author:Omar/Sonic|position:0
-title:Back To Music 2|author:Strobo/Stellar|position:0|webfile:music/back_to_music_2_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
+title:Back To Music 2|author:Strobo/Stellar|position:0|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
 title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip
 
 ! Graphics
