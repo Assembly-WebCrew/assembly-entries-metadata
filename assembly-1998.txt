@@ -129,7 +129,7 @@ title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:/parties/1998/assem
 
 title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:8796
 title:dELTA|author:Embassy|position:2|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|pouet:3736
-title:Synthesis|author:Network|position:3|sceneorgvideo:./assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517
+title:Synthesis|author:Network|position:3|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517
 title:Aromecolor|author:Cirion|position:4|sceneorg:/parties/1998/assembly98/amigadem/aromecol.zip|pouet:4711
 title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|pouet:3042|dtv:7572
 title:Boogienights|author:sPEDES|position:6|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|pouet:12670

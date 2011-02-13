@@ -82,7 +82,7 @@ title:suddenly|author:abaddon / damage|position:10|sceneorg:/parties/2001/assemb
 
 ! Console demo
 
-title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:./assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:2771
+title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:2771
 title:e338|author:unique|position:2
 
 ! Combined 4k intro
@@ -211,7 +211,7 @@ title:Gist|author:Grin|position:7|media:.oldies-goldies/compos/ASM01 Demo - 7th 
 title:Horizontal Cool|author:CNCD|position:8|media:.oldies-goldies/compos/ASM01 Demo - 8th - Horizontal Cool by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/horizontal_cool_by_cncd.zip|pouet:3321|dtv:5097
 title:Triple|author:Noice|position:9|media:.oldies-goldies/compos/ASM01 Demo - 9th - Triple by Noice_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/triple_by_noice.zip|pouet:3366|dtv:11125
 title:O B E|author:Virtual Dreams - Fairlight / Sumea Labs|position:10|media:.oldies-goldies/compos/ASM01 Demo - 10th - O B E by VD, Fairlight, sumea labs_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/obe.zip|pouet:3300|dtv:12434
-title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:./assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:/parties/2001/assembly01/demo/mwi-cull.lha|pouet:3364|dtv:2522
+title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:/parties/2001/assembly01/demo/mwi-cull.lha|pouet:3364|dtv:2522
 title:Forsaken|author:Traction|position:12|media:.oldies-goldies/compos/ASM01 Demo - 12th - Forsaken by Traction_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/forsaken_by_traction_2.zip|pouet:3365|dtv:4163
 title:Gasoline 2|author:recreation|position:13|media:.oldies-goldies/compos/ASM01 Demo - 13th - Gasoline 2 by Recreation_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gasoline_2_by_recreation.zip|pouet:3299|dtv:4460
 title:(we took the) greenpill|author:Haujobb|position:14|media:.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/we_took_the__greenpill_by_haujobb.zip|pouet:3292|dtv:29

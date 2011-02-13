@@ -37,7 +37,7 @@ title:Bubbly|author:Joel "Bylkki" Pitkänen (Windows)|position:9|media:./2005/as
 
 ! 64k intro
 
-title:Che Guevara|author:Fairlight (Windows)|position:1|media:./2005/assemblytv/331_che_guevara_by_fairlight.avi|sceneorgvideo:./assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|sceneorg:/parties/2005/assembly05/in64/che_guevara_by_fairlight.zip|pouet:18339|dtv:12465
+title:Che Guevara|author:Fairlight (Windows)|position:1|media:./2005/assemblytv/331_che_guevara_by_fairlight.avi|sceneorgvideo:/parties/2005/assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|sceneorg:/parties/2005/assembly05/in64/che_guevara_by_fairlight.zip|pouet:18339|dtv:12465
 title:Flight 666|author:Loonies (Windows)|position:2|media:./2005/assemblytv/329_flight_666_by_loonies.avi|sceneorg:/parties/2005/assembly05/in64/flight_666_by_loonies.zip|pouet:18340|dtv:12493
 title:Origami|author:Juippi, Trilkk and Warma (Linux)|position:3|media:./2005/assemblytv/330_origami_by_juippi__trilkk_and_warma.avi|sceneorg:/parties/2005/assembly05/in64/origami_by_juippi__trilkk___warma__final_.tgz|pouet:18347|dtv:13884
 title:Fiat Homo|author:Traction (Windows)|position:4|media:./2005/assemblytv/327_fiat_homo_by_traction.avi|sceneorg:/parties/2005/assembly05/in64/fiat_homo_by_traction_1.zip|pouet:18342|dtv:12490
@@ -218,7 +218,7 @@ title:Super 8|author:sivu|position:12|webfile:short_film/super_8_by_sivu.avi|med
 
 ! Demo
 
-title:Iconoclast|author:Andromeda Software Development (Windows)|position:1|media:./2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|sceneorgvideo:./assembly05/demo/asd-iconoclast-lowq.avi|sceneorg:/parties/2005/assembly05/demo/iconoclast_by_andromeda_software_development.zip|pouet:18350|dtv:12464
+title:Iconoclast|author:Andromeda Software Development (Windows)|position:1|media:./2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|sceneorgvideo:/parties/2005/assembly05/demo/asd-iconoclast-lowq.avi|sceneorg:/parties/2005/assembly05/demo/iconoclast_by_andromeda_software_development.zip|pouet:18350|dtv:12464
 title:STS-04: Instant Zen|author:Synesthetics (Windows)|position:2|media:./2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|sceneorg:/parties/2005/assembly05/demo/sts-04__instant_zen_by_synesthetics.zip|pouet:18359|dtv:12502
 title:Don't Stop|author:Portal Process (Windows)|position:3|media:./2005/assemblytv/459_don_t_stop_by_portal_process.avi|sceneorg:/parties/2005/assembly05/demo/don_t_stop_by_portal_process.zip|pouet:18351|dtv:12501
 title:The Line Age|author:Trauma (Windows)|position:4|media:./2005/assemblytv/452_the_line_age_by_trauma.avi|sceneorg:/parties/2005/assembly05/demo/the_line_age_by_trauma.zip|pouet:18360

@@ -2,15 +2,15 @@
 
 ! Mobile demo
 
-title:Anal Party IV [TI-86]|author:EhD|position:1|media:.oldies-goldies/compos/ASM03 Mobiledemo - 1st - Anal Party IV by EhD_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|pouet:10525
-title:Septima [P800]|author:Yodel|position:2|media:.oldies-goldies/compos/ASM03 Mobiledemo - 2nd - Septima by Yodel_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/septima_by_yodel-[p800]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/septima_by_yodel_1.zip|pouet:10574
-title:Zion [P800]|author:Detour|position:3|media:.oldies-goldies/compos/ASM03 Mobiledemo - 3rd - Zion by Detour_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/zion_by_detour-[p800+3650]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/zion_by_detour.zip|pouet:10976
-title:love is a fix [Series 60]|author:cncd, komplex , orange|position:4|media:.oldies-goldies/compos/ASM03 Mobiledemo - 4th - Love is a fix by cncd,komplex,orange_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/love_is_a_fix_by_cncd_komplex_orange-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd__komplex___orange_1.zip|pouet:10597
-title:Monochromatic 2 [TI-83]|author:Noice|position:5|media:.oldies-goldies/compos/ASM03 Mobiledemo - 5th - Monochromatic 2 by Noice_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|pouet:10534
-title:Political Statement With a Well Hidden Message [GBA]|author:MATT CURRENT|position:6|sceneorgvideo:./assembly03/mobile_demo/political_statement_by_matt_current-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/political_statement_with_a_well_hidden_message_by_matt_current.zip|pouet:10594|dtv:8196
-title:Evol. [GBA]|author:Karillon+Komplex|position:7|sceneorgvideo:./assembly03/mobile_demo/evol._by_karillon+komplex-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/evol__by_karillon+komplex_1.zip|pouet:12231
-title:eff8 [Series 60]|author:portal project|position:8|media:.oldies-goldies/compos/ASM03 Mobiledemo - 8th - eff8 by portal project_h264_1856kbit.mp4|sceneorgvideo:./assembly03/mobile_demo/eff8_by_portal_project-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project_2.zip
-title:Counting Clouds [GBA]|author:Brainwave team|position:9|sceneorgvideo:./assembly03/mobile_demo/counting_clouds_by_brainwave_team-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/counting_clouds_final.zip|pouet:10613
+title:Anal Party IV [TI-86]|author:EhD|position:1|media:.oldies-goldies/compos/ASM03 Mobiledemo - 1st - Anal Party IV by EhD_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|pouet:10525
+title:Septima [P800]|author:Yodel|position:2|media:.oldies-goldies/compos/ASM03 Mobiledemo - 2nd - Septima by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/septima_by_yodel-[p800]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/septima_by_yodel_1.zip|pouet:10574
+title:Zion [P800]|author:Detour|position:3|media:.oldies-goldies/compos/ASM03 Mobiledemo - 3rd - Zion by Detour_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/zion_by_detour-[p800+3650]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/zion_by_detour.zip|pouet:10976
+title:love is a fix [Series 60]|author:cncd, komplex , orange|position:4|media:.oldies-goldies/compos/ASM03 Mobiledemo - 4th - Love is a fix by cncd,komplex,orange_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd_komplex_orange-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd__komplex___orange_1.zip|pouet:10597
+title:Monochromatic 2 [TI-83]|author:Noice|position:5|media:.oldies-goldies/compos/ASM03 Mobiledemo - 5th - Monochromatic 2 by Noice_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|pouet:10534
+title:Political Statement With a Well Hidden Message [GBA]|author:MATT CURRENT|position:6|sceneorgvideo:/parties/2003/assembly03/mobile_demo/political_statement_by_matt_current-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/political_statement_with_a_well_hidden_message_by_matt_current.zip|pouet:10594|dtv:8196
+title:Evol. [GBA]|author:Karillon+Komplex|position:7|sceneorgvideo:/parties/2003/assembly03/mobile_demo/evol._by_karillon+komplex-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/evol__by_karillon+komplex_1.zip|pouet:12231
+title:eff8 [Series 60]|author:portal project|position:8|media:.oldies-goldies/compos/ASM03 Mobiledemo - 8th - eff8 by portal project_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project_2.zip
+title:Counting Clouds [GBA]|author:Brainwave team|position:9|sceneorgvideo:/parties/2003/assembly03/mobile_demo/counting_clouds_by_brainwave_team-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/counting_clouds_final.zip|pouet:10613
 title:Calculus [TI-86]|author:HUONO|position:0|media:.oldies-goldies/compos/ASM03 Mobiledemo - NA - Calculus by HUONO_h264_1856kbit.mp4
 title:Pekka Sairanhoitaja [TI-86]|author:Hauberk ja Kallekanin|position:0|media:.oldies-goldies/compos/ASM03 Mobiledemo - NA - Pekka Sairaanhoitaja by Hauberg_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/mobile_demo/pekka_sairanhoitaja___ti-86__by_hauberk_ja__kallekanin.zip
 title:Terror HC 666 [GBA]|author:Jumalauta|position:0|sceneorg:/parties/2003/assembly03/mobile_demo/terror_hc_666_by_jumalauta.zip|pouet:10577
@@ -49,7 +49,7 @@ title:Cspace [Win32]|author:Whiptek|position:10|media:.oldies-goldies/compos/ASM
 
 ! Oldskool demo
 
-title:Robotic Liberation [VIC-20]|author:PwP|position:1|media:.oldies-goldies/compos/ASM03 Oldskool - 1st - Robotic Liveration by PwP_h264_1856kbit.mp4|sceneorgvideo:./assembly03/oldskool/demo/pwp-liberation.mpeg|sceneorg:/parties/2003/assembly03/oldskool/demo/pwp-liberation.zip|pouet:10626
+title:Robotic Liberation [VIC-20]|author:PwP|position:1|media:.oldies-goldies/compos/ASM03 Oldskool - 1st - Robotic Liveration by PwP_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/oldskool/demo/pwp-liberation.mpeg|sceneorg:/parties/2003/assembly03/oldskool/demo/pwp-liberation.zip|pouet:10626
 title:Victoria [VIC-20]|author:Dekadence|position:2|media:.oldies-goldies/compos/ASM03 Oldskool - 2nd - Victoria by Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/victoria_by_dekadence.zip|pouet:10524
 title:Hätä [Amiga]|author:dA JoRMaS|position:3|media:.oldies-goldies/compos/ASM03 Oldskool - 3rd - Hätä by dA JoRMaS_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/h_t__by_da_jormas.zip|pouet:10527|dtv:13326
 title:Alienate [Sinclair Spectrum]|author:Hooy-Program|position:4|media:.oldies-goldies/compos/ASM03 Oldskool - 4th - Alieante by Hooy-Program_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/alienate_by_hooy_program_final.zip|pouet:10531
@@ -142,10 +142,10 @@ title:Kolnikov [XM]|author:Kuraporo|position:0|webfile:oldskool_music/kolnikov_x
 ! Combined demo
 
 title:Legomania|author:Doomsday|position:1|sceneorg:/parties/2003/assembly03/demo/legomania_by_doomsday.zip|pouet:10540|dtv:13364
-title:ix|author:moppi productions|position:2|sceneorgvideo:./assembly03/demo/moppi-ix-hifi.avi|sceneorg:/parties/2003/assembly03/demo/ix_by_moppi_productions_1.zip|pouet:10538|dtv:9
+title:ix|author:moppi productions|position:2|sceneorgvideo:/parties/2003/assembly03/demo/moppi-ix-hifi.avi|sceneorg:/parties/2003/assembly03/demo/ix_by_moppi_productions_1.zip|pouet:10538|dtv:9
 title:Doomsday [X-Box]|author:Complex|position:3|sceneorg:/parties/2003/assembly03/demo/doomsday_by_complex-xbox_iso_image.zip|pouet:10586|dtv:3170
 title:Dreamchild|author:Andromeda Software Development|position:4|sceneorg:/parties/2003/assembly03/demo/dreamchild_by_andromeda_software_development.zip|pouet:10530|dtv:3240
-title:Mental [Amiga]|author:PUSH Entertainment|position:5|sceneorgvideo:./assembly03/demo/push-mental.avi|sceneorg:/parties/2003/assembly03/demo/mental_by_push_entertainment.lzx|pouet:10571
+title:Mental [Amiga]|author:PUSH Entertainment|position:5|sceneorgvideo:/parties/2003/assembly03/demo/push-mental.avi|sceneorg:/parties/2003/assembly03/demo/mental_by_push_entertainment.lzx|pouet:10571
 title:A Significant Deformation Near The Cranium|author:Kewlers|position:6|sceneorg:/parties/2003/assembly03/demo/a_significant_deformation_near_the_cranium_by_kewlers.zip|pouet:10544|dtv:10
 title:PITT|author:David Hasselhoff Fan Club|position:7|sceneorg:/parties/2003/assembly03/demo/pitt_by_david_hasselhoff_fan_club.zip|pouet:10579
 title:A Study in Lines and Textures|author:Traction|position:8|sceneorg:/parties/2003/assembly03/demo/a_study_in_lines_and_textures_by_traction.zip|pouet:10551|dtv:420
