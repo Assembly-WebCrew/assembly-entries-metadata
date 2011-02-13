@@ -2,32 +2,32 @@
 
 ! Extreme music
 
-title:I was a Nintendo Girl|author:King Thrill, Tekotuotanto|position:1|webfile:extreme_music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/extreme/music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.zip
-title:Heartbound|author:ilmarque^trilobit|position:2|webfile:extreme_music/heartbound_by_ilmarque_trilobit.mp3|sceneorg:/parties/2009/assembly09/extreme/music/heartbound_by_ilmarquetrilobit.mp3
+title:I was a Nintendo Girl|author:King Thrill, Tekotuotanto|position:1|webfile:extreme_music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/extreme/music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.zip|youtube:http://www.youtube.com/watch?v=gl3bCG-o8rQ
+title:Heartbound|author:ilmarque^trilobit|position:2|webfile:extreme_music/heartbound_by_ilmarque_trilobit.mp3|sceneorg:/parties/2009/assembly09/extreme/music/heartbound_by_ilmarquetrilobit.mp3|youtube:http://www.youtube.com/watch?v=nbe9xLTjyD8
 title:Intercooler|author:Reed and Aleksi Eeben|position:3|sceneorg:/parties/2009/assembly09/extreme/music/intercooler_by_reed_and_aleksi_eeben.prg
 title:Boobies|author:Castor / Immersion|position:4
 title:Heartache|author:Britelite / Dekadence|position:5|sceneorg:/parties/2009/assembly09/extreme/music/heartache_by_britelite__dekadence.d64
 title:Bittiripuli|author:Player One / Dekadence|position:6|sceneorg:/parties/2009/assembly09/extreme/music/bittiripuli_by_player_one__dekadence.d64
-title:FlashTrotter|author:Evoflash|position:7|webfile:extreme_music/flashtrotter_by_evoflash.mp3|sceneorg:/parties/2009/assembly09/extreme/music/flashtrotter_by_evoflash.zip
-title:A Little Love Song|author:Reaby|position:8|webfile:extreme_music/a_little_love_song_by_reaby.mp3|sceneorg:/parties/2009/assembly09/extreme/music/a_little_love_song_by_reaby.zip
-title:Your Demolitious Dream|author:Castor / Immersion|position:9|webfile:extreme_music/your_demolitious_dream_by_castor_immersion.mp3|sceneorg:/parties/2009/assembly09/extreme/music/your_demolitious_dream_by_castor__immersion.zip
-title:Parallaksi|author:Osmic|position:10|webfile:extreme_music/parallaksi_by_osmic.mp3|sceneorg:/parties/2009/assembly09/extreme/music/parallaksi_by_osmic.zip
-title:Summer nights|author:Reaby / Puavohard|position:11|webfile:extreme_music/summer_nights_by_reaby_puavohard.mp3|sceneorg:/parties/2009/assembly09/extreme/music/summer_nights_by_reaby__puavohard.zip
-title:Camelopardalis|author:Paokala|position:12|webfile:extreme_music/camelopardalis_by_paokala.mp3|sceneorg:/parties/2009/assembly09/extreme/music/camelopardalis_by_paokala.mod
-title:plan b|author:prophecy|position:13|webfile:extreme_music/plan_b_by_prophecy.mp3|sceneorg:/parties/2009/assembly09/extreme/music/plan_b_by_prophecy.zip
+title:FlashTrotter|author:Evoflash|position:7|webfile:extreme_music/flashtrotter_by_evoflash.mp3|sceneorg:/parties/2009/assembly09/extreme/music/flashtrotter_by_evoflash.zip|youtube:http://www.youtube.com/watch?v=ZWBZcqSui6c
+title:A Little Love Song|author:Reaby|position:8|webfile:extreme_music/a_little_love_song_by_reaby.mp3|sceneorg:/parties/2009/assembly09/extreme/music/a_little_love_song_by_reaby.zip|youtube:http://www.youtube.com/watch?v=0fTfHlktN0s
+title:Your Demolitious Dream|author:Castor / Immersion|position:9|webfile:extreme_music/your_demolitious_dream_by_castor_immersion.mp3|sceneorg:/parties/2009/assembly09/extreme/music/your_demolitious_dream_by_castor__immersion.zip|youtube:http://www.youtube.com/watch?v=C6BrzRP59Jg
+title:Parallaksi|author:Osmic|position:10|webfile:extreme_music/parallaksi_by_osmic.mp3|sceneorg:/parties/2009/assembly09/extreme/music/parallaksi_by_osmic.zip|youtube:http://www.youtube.com/watch?v=SmWAAG6VCvQ
+title:Summer nights|author:Reaby / Puavohard|position:11|webfile:extreme_music/summer_nights_by_reaby_puavohard.mp3|sceneorg:/parties/2009/assembly09/extreme/music/summer_nights_by_reaby__puavohard.zip|youtube:http://www.youtube.com/watch?v=THsN_zHTTis
+title:Camelopardalis|author:Paokala|position:12|webfile:extreme_music/camelopardalis_by_paokala.mp3|sceneorg:/parties/2009/assembly09/extreme/music/camelopardalis_by_paokala.mod|youtube:http://www.youtube.com/watch?v=ccuvo6kCBOo
+title:plan b|author:prophecy|position:13|webfile:extreme_music/plan_b_by_prophecy.mp3|sceneorg:/parties/2009/assembly09/extreme/music/plan_b_by_prophecy.zip|youtube:http://www.youtube.com/watch?v=LP2lKePg00s
 title:Surrender|author:Reed / Fairlight|position:14|sceneorg:/parties/2009/assembly09/extreme/music/surrender_by_reed__fairlight.exe
 title:memorylane|author:codehead / gheymaid inc|position:15|sceneorg:/parties/2009/assembly09/extreme/music/memorylane_by_codehead__gheymaid_inc.d64
-title:super fighting dudes|author:Signal|position:0|webfile:extreme_music/super_fighting_dudes_by_signal.mp3|sceneorg:/parties/2009/assembly09/extreme/music/super_fighting_dudes_by_signal.mod
-title:Heroism|author:cce|position:0|webfile:extreme_music/heroism_by_cce.mp3|sceneorg:/parties/2009/assembly09/extreme/music/heroism_by_cce.zip
-title:komani ice hockey|author:aegis|position:0|webfile:extreme_music/komani_ice_hockey_by_aegis.mp3|sceneorg:/parties/2009/assembly09/extreme/music/komani_ice_hockey_by_aegis.mod
-title:white lion bites back|author:luuk / 6th Fire|position:0|webfile:extreme_music/white_lion_bites_back_by_luuk_6th_fire.mp3|sceneorg:/parties/2009/assembly09/extreme/music/white_lion_bites_back_by_luuk__6th_fire.zip
+title:super fighting dudes|author:Signal|position:0|webfile:extreme_music/super_fighting_dudes_by_signal.mp3|sceneorg:/parties/2009/assembly09/extreme/music/super_fighting_dudes_by_signal.mod|youtube:http://www.youtube.com/watch?v=9NHY8ddJ4J4
+title:Heroism|author:cce|position:0|webfile:extreme_music/heroism_by_cce.mp3|sceneorg:/parties/2009/assembly09/extreme/music/heroism_by_cce.zip|youtube:http://www.youtube.com/watch?v=H_9DbLGsRGQ
+title:komani ice hockey|author:aegis|position:0|webfile:extreme_music/komani_ice_hockey_by_aegis.mp3|sceneorg:/parties/2009/assembly09/extreme/music/komani_ice_hockey_by_aegis.mod|youtube:http://www.youtube.com/watch?v=1w-OW6BrwP0
+title:white lion bites back|author:luuk / 6th Fire|position:0|webfile:extreme_music/white_lion_bites_back_by_luuk_6th_fire.mp3|sceneorg:/parties/2009/assembly09/extreme/music/white_lion_bites_back_by_luuk__6th_fire.zip|youtube:http://www.youtube.com/watch?v=vG9N-joBrYU
 title:Meet The Friends|author:Lauri Nukala|position:0|sceneorg:/parties/2009/assembly09/extreme/music/meet_the_friends_by_lauri_nukala.d64
 title:Basid Element|author:Juzdie / Artline Designs|position:0|sceneorg:/parties/2009/assembly09/extreme/music/basid_element_by_juzdie__artline_designs.d64
-title:Political techno on space|author:noby^trtr|position:0|webfile:extreme_music/political_techno_on_space_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/extreme/music/political_techno_on_space_by_nobytrtr.mod
-title:Super System|author:liitin|position:0|webfile:extreme_music/super_system_by_liitin.mp3|sceneorg:/parties/2009/assembly09/extreme/music/super_system_by_liitin.mod
-title:kompromissikisat|author:tArzAn / tAAt 2009|position:0|webfile:extreme_music/kompromissikisat_by_tarzan_taat_2009.mp3|sceneorg:/parties/2009/assembly09/extreme/music/kompromissikisat_by_tarzan__taat_2009.zip
-title:F.U.N.K.Y.|author:rebb@paradise|position:0|webfile:extreme_music/f_u_n_k_y_by_rebb_paradise.mp3|sceneorg:/parties/2009/assembly09/extreme/music/funky_by_rebbparadise.mod
-title:meduusa ja hiekkalinna|author:blobtrox|position:0|webfile:extreme_music/meduusa_ja_hiekkalinna_by_blobtrox.mp3|sceneorg:/parties/2009/assembly09/extreme/music/meduusa_ja_hiekkalinna_by_blobtrox.zip
+title:Political techno on space|author:noby^trtr|position:0|webfile:extreme_music/political_techno_on_space_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/extreme/music/political_techno_on_space_by_nobytrtr.mod|youtube:http://www.youtube.com/watch?v=2Drni3x35JE
+title:Super System|author:liitin|position:0|webfile:extreme_music/super_system_by_liitin.mp3|sceneorg:/parties/2009/assembly09/extreme/music/super_system_by_liitin.mod|youtube:http://www.youtube.com/watch?v=VqeWculi9fk
+title:kompromissikisat|author:tArzAn / tAAt 2009|position:0|webfile:extreme_music/kompromissikisat_by_tarzan_taat_2009.mp3|sceneorg:/parties/2009/assembly09/extreme/music/kompromissikisat_by_tarzan__taat_2009.zip|youtube:http://www.youtube.com/watch?v=h7E-_9WTezs
+title:F.U.N.K.Y.|author:rebb@paradise|position:0|webfile:extreme_music/f_u_n_k_y_by_rebb_paradise.mp3|sceneorg:/parties/2009/assembly09/extreme/music/funky_by_rebbparadise.mod|youtube:http://www.youtube.com/watch?v=wufB_oFQQ8I
+title:meduusa ja hiekkalinna|author:blobtrox|position:0|webfile:extreme_music/meduusa_ja_hiekkalinna_by_blobtrox.mp3|sceneorg:/parties/2009/assembly09/extreme/music/meduusa_ja_hiekkalinna_by_blobtrox.zip|youtube:http://www.youtube.com/watch?v=ZTFEdFruMjU
 
 ! Game development
 
@@ -95,26 +95,26 @@ title:AfterBeach|author:Hopokka|position:0|webfile:fast_graphics/afterbeach_by_h
 
 ! Fast music
 
-title:kodin putkimies|author:shroomi|position:1|webfile:fast_music/kodin_putkimies_by_shroomi.mp3|sceneorg:/parties/2009/assembly09/fast/music/kodin_putkimies_by_shroomi.mp3
-title:the new Teruminator Bot|author:King Thrill, Tekotuotanto|position:2|webfile:fast_music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/fast/music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3
-title:chord jungle|author:luuk / 6th Fire|position:3|webfile:fast_music/chord_jungle_by_luuk_6th_fire.mp3|sceneorg:/parties/2009/assembly09/fast/music/chord_jungle_by_luuk__6th_fire.mp3
-title:Press play on time|author:Castor / Immersion|position:4|webfile:fast_music/press_play_on_time_by_castor_immersion.mp3|sceneorg:/parties/2009/assembly09/fast/music/press_play_on_time_by_castor__immersion.zip
-title:Fast09|author:Reaby|position:5|webfile:fast_music/fast09_by_reaby.mp3|sceneorg:/parties/2009/assembly09/fast/music/fast09_by_reaby.zip
-title:1nsane|author:Jumpy Fields|position:6|webfile:fast_music/1nsane_by_jumpy_fields.mp3|sceneorg:/parties/2009/assembly09/fast/music/1nsane_by_jumpy_fields.mp3
-title:Leaflet|author:skygge|position:7|webfile:fast_music/leaflet_by_skygge.mp3|sceneorg:/parties/2009/assembly09/fast/music/leaflet_by_skygge.mp3
-title:Home from Foam (Party)|author:Olli-Serkku & Janne-Eno|position:8|webfile:fast_music/home_from_foam_party_by_olli_serkku_janne_eno.mp3|sceneorg:/parties/2009/assembly09/fast/music/home_from_foam_party_by_olliserkku__janneeno.mp3
-title:Hypertropic Quantum Flux|author:Rajunen|position:9|webfile:fast_music/hypertropic_quantum_flux_by_rajunen.mp3|sceneorg:/parties/2009/assembly09/fast/music/hypertropic_quantum_flux_by_rajunen.mp3
-title:soem strange|author:rand0m|position:10|webfile:fast_music/soem_strange_by_rand0m.mp3|sceneorg:/parties/2009/assembly09/fast/music/soem_strange_by_rand0m.ogg
-title:Platinum|author:E621|position:11|webfile:fast_music/platinum_by_e621.mp3|sceneorg:/parties/2009/assembly09/fast/music/platinum_by_e621.mp3
-title:nuudelikeittoni mun|author:signal|position:12|webfile:fast_music/nuudelikeittoni_mun_by_signal.mp3|sceneorg:/parties/2009/assembly09/fast/music/nuudelikeittoni_mun_by_signal.mp3
-title:Return of John Arete|author:Skipi|position:13|webfile:fast_music/return_of_john_arete_by_skipi.mp3|sceneorg:/parties/2009/assembly09/fast/music/return_of_john_arete_by_skipi.mp3
-title:Stardust Cafe|author:Tappio|position:14|webfile:fast_music/stardust_cafe_by_tappio.mp3|sceneorg:/parties/2009/assembly09/fast/music/stardust_cafe_by_tappio.mp3
-title:Grotesque Date Note|author:tArzAn / tAAt 2009|position:15|webfile:fast_music/grotesque_date_note_by_tarzan_taat_2009.mp3|sceneorg:/parties/2009/assembly09/fast/music/grotesque_date_note_by_tarzan__taat_2009.mp3
-title:Siikainfluenssa|author:Jumalauta Dance Squad|position:0|webfile:fast_music/siikainfluenssa_by_jumalauta_dance_squad.mp3|sceneorg:/parties/2009/assembly09/fast/music/siikainfluenssa_by_jumalauta_dance_squad.mp3
-title:Green Fields|author:Shadikka|position:0|webfile:fast_music/green_fields_by_shadikka.mp3|sceneorg:/parties/2009/assembly09/fast/music/green_fields_by_shadikka.mp3
-title:arP TrippiN|author:eimink|position:0|webfile:fast_music/arp_trippin_by_eimink.mp3|sceneorg:/parties/2009/assembly09/fast/music/arp_trippin_by_eimink.mp3
-title:Immutable|author:Bugg / PuavoHard|position:0|webfile:fast_music/immutable_by_bugg_puavohard.mp3|sceneorg:/parties/2009/assembly09/fast/music/immutable_by_bugg__puavohard.ogg
-title:Maximum 3000W|author:Poor E|position:0|webfile:fast_music/maximum_3000w_by_poor_e.mp3|sceneorg:/parties/2009/assembly09/fast/music/maximum_3000w_by_poor_e.mp3
+title:kodin putkimies|author:shroomi|position:1|webfile:fast_music/kodin_putkimies_by_shroomi.mp3|sceneorg:/parties/2009/assembly09/fast/music/kodin_putkimies_by_shroomi.mp3|youtube:http://www.youtube.com/watch?v=iLPQkG8_ADY
+title:the new Teruminator Bot|author:King Thrill, Tekotuotanto|position:2|webfile:fast_music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/fast/music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3|youtube:http://www.youtube.com/watch?v=jLU1hSAO95Y
+title:chord jungle|author:luuk / 6th Fire|position:3|webfile:fast_music/chord_jungle_by_luuk_6th_fire.mp3|sceneorg:/parties/2009/assembly09/fast/music/chord_jungle_by_luuk__6th_fire.mp3|youtube:http://www.youtube.com/watch?v=-B0mZJwuTps
+title:Press play on time|author:Castor / Immersion|position:4|webfile:fast_music/press_play_on_time_by_castor_immersion.mp3|sceneorg:/parties/2009/assembly09/fast/music/press_play_on_time_by_castor__immersion.zip|youtube:http://www.youtube.com/watch?v=-PH_Hba1oGc
+title:Fast09|author:Reaby|position:5|webfile:fast_music/fast09_by_reaby.mp3|sceneorg:/parties/2009/assembly09/fast/music/fast09_by_reaby.zip|youtube:http://www.youtube.com/watch?v=gsuq8dqe2Cc
+title:1nsane|author:Jumpy Fields|position:6|webfile:fast_music/1nsane_by_jumpy_fields.mp3|sceneorg:/parties/2009/assembly09/fast/music/1nsane_by_jumpy_fields.mp3|youtube:http://www.youtube.com/watch?v=S9dY9Yz-5Ug
+title:Leaflet|author:skygge|position:7|webfile:fast_music/leaflet_by_skygge.mp3|sceneorg:/parties/2009/assembly09/fast/music/leaflet_by_skygge.mp3|youtube:http://www.youtube.com/watch?v=B2c_PJgGuYo
+title:Home from Foam (Party)|author:Olli-Serkku & Janne-Eno|position:8|webfile:fast_music/home_from_foam_party_by_olli_serkku_janne_eno.mp3|sceneorg:/parties/2009/assembly09/fast/music/home_from_foam_party_by_olliserkku__janneeno.mp3|youtube:http://www.youtube.com/watch?v=HexvCZLJuh8
+title:Hypertropic Quantum Flux|author:Rajunen|position:9|webfile:fast_music/hypertropic_quantum_flux_by_rajunen.mp3|sceneorg:/parties/2009/assembly09/fast/music/hypertropic_quantum_flux_by_rajunen.mp3|youtube:http://www.youtube.com/watch?v=BFfzdLMN8vg
+title:soem strange|author:rand0m|position:10|webfile:fast_music/soem_strange_by_rand0m.mp3|sceneorg:/parties/2009/assembly09/fast/music/soem_strange_by_rand0m.ogg|youtube:http://www.youtube.com/watch?v=T0rpHKRArig
+title:Platinum|author:E621|position:11|webfile:fast_music/platinum_by_e621.mp3|sceneorg:/parties/2009/assembly09/fast/music/platinum_by_e621.mp3|youtube:http://www.youtube.com/watch?v=MMH7ue2k6AY
+title:nuudelikeittoni mun|author:signal|position:12|webfile:fast_music/nuudelikeittoni_mun_by_signal.mp3|sceneorg:/parties/2009/assembly09/fast/music/nuudelikeittoni_mun_by_signal.mp3|youtube:http://www.youtube.com/watch?v=Go0tURkbWPc
+title:Return of John Arete|author:Skipi|position:13|webfile:fast_music/return_of_john_arete_by_skipi.mp3|sceneorg:/parties/2009/assembly09/fast/music/return_of_john_arete_by_skipi.mp3|youtube:http://www.youtube.com/watch?v=YP9aqSXO4y8
+title:Stardust Cafe|author:Tappio|position:14|webfile:fast_music/stardust_cafe_by_tappio.mp3|sceneorg:/parties/2009/assembly09/fast/music/stardust_cafe_by_tappio.mp3|youtube:http://www.youtube.com/watch?v=NcicXcaDV0I
+title:Grotesque Date Note|author:tArzAn / tAAt 2009|position:15|webfile:fast_music/grotesque_date_note_by_tarzan_taat_2009.mp3|sceneorg:/parties/2009/assembly09/fast/music/grotesque_date_note_by_tarzan__taat_2009.mp3|youtube:http://www.youtube.com/watch?v=vJuUt8EaNX8
+title:Siikainfluenssa|author:Jumalauta Dance Squad|position:0|webfile:fast_music/siikainfluenssa_by_jumalauta_dance_squad.mp3|sceneorg:/parties/2009/assembly09/fast/music/siikainfluenssa_by_jumalauta_dance_squad.mp3|youtube:http://www.youtube.com/watch?v=ChAnJJFROgw
+title:Green Fields|author:Shadikka|position:0|webfile:fast_music/green_fields_by_shadikka.mp3|sceneorg:/parties/2009/assembly09/fast/music/green_fields_by_shadikka.mp3|youtube:http://www.youtube.com/watch?v=8LcqgvsMK_4
+title:arP TrippiN|author:eimink|position:0|webfile:fast_music/arp_trippin_by_eimink.mp3|sceneorg:/parties/2009/assembly09/fast/music/arp_trippin_by_eimink.mp3|youtube:http://www.youtube.com/watch?v=Eo8d2d_h8Zc
+title:Immutable|author:Bugg / PuavoHard|position:0|webfile:fast_music/immutable_by_bugg_puavohard.mp3|sceneorg:/parties/2009/assembly09/fast/music/immutable_by_bugg__puavohard.ogg|youtube:http://www.youtube.com/watch?v=2Xf9gu1aINw
+title:Maximum 3000W|author:Poor E|position:0|webfile:fast_music/maximum_3000w_by_poor_e.mp3|sceneorg:/parties/2009/assembly09/fast/music/maximum_3000w_by_poor_e.mp3|youtube:http://www.youtube.com/watch?v=pd1uKrKPkF4
 
 ! Graphics
 
@@ -196,43 +196,43 @@ title:Demonscene|author:KorpisotuRiT|position:0|sceneorg:/parties/2009/assembly0
 
 ! Music
 
-title:[kuake]|author:paranoidx|position:1|webfile:music/kuake_by_paranoidx.mp3|sceneorg:/parties/2009/assembly09/music/kuake_by_paranoidx.mp3
-title:Sovietski Electro|author:Rtzon King|position:2|webfile:music/sovietski_electro_by_rtzon_king.mp3|sceneorg:/parties/2009/assembly09/music/sovietski_electro_by_rtzon_king.mp3
-title:Irish Rain|author:King Thrill, Tekotuotanto|position:3|webfile:music/irish_rain_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/music/irish_rain_by_king_thrill_tekotuotanto.mp3
-title:Ninja Sisters|author:Aikapallo|position:4|webfile:music/ninja_sisters_by_aikapallo.mp3|sceneorg:/parties/2009/assembly09/music/ninja_sisters_by_aikapallo.mp3
-title:Aeniyasha, Darkmoon Magic|author:GRiMM / Agentess M|position:5|webfile:music/aeniyasha_darkmoon_magic_by_grimm_agentess_m.mp3|sceneorg:/parties/2009/assembly09/music/aeniyasha_darkmoon_magic_by_grimm__agentess_m.mp3
-title:a 09 m|author:T101/Accession|position:6|webfile:music/a_09_m_by_t101_accession.mp3|sceneorg:/parties/2009/assembly09/music/a_09_m_by_t101accession.mp3
-title:Strabasco|author:Dj Tabasco|position:7|webfile:music/strabasco_by_dj_tabasco.mp3|sceneorg:/parties/2009/assembly09/music/strabasco_by_dj_tabasco.mp3
-title:+4k|author:Gouafhg/Thegang|position:8|webfile:music/4k_by_gouafhg_thegang.mp3|sceneorg:/parties/2009/assembly09/music/4k_by_gouafhgthegang.zip
-title:saw|author:glxblt|position:9|webfile:music/saw_by_glxblt.mp3|sceneorg:/parties/2009/assembly09/music/saw_by_glxblt.mp3
-title:Quantum Speed|author:Everdune|position:10|webfile:music/quantum_speed_by_everdune.mp3|sceneorg:/parties/2009/assembly09/music/quantum_speed_by_everdune.mp3
-title:Symphonic Dreams|author:Rendi|position:11|webfile:music/symphonic_dreams_by_rendi.mp3|sceneorg:/parties/2009/assembly09/music/symphonic_dreams_by_rendi.mp3
-title:Ride the Wind|author:S.Syrjanen, J.Kalilainen|position:12|webfile:music/ride_the_wind_by_s_syrjanen_j_kalilainen.mp3|sceneorg:/parties/2009/assembly09/music/ride_the_wind_by_ssyrjanen_jkalilainen.mp3
-title:pump my porn (tenda rmx)|author:olman brothers|position:13|webfile:music/pump_my_porn_tenda_rmx_by_olman_brothers.mp3|sceneorg:/parties/2009/assembly09/music/pump_my_porn_tenda_rmx_by_olman_brothers.mp3
-title:Back to Basics|author:DJ Joge of Brainstorm|position:14|webfile:music/back_to_basics_by_dj_joge_of_brainstorm.mp3|sceneorg:/parties/2009/assembly09/music/back_to_basics_by_dj_joge_of_brainstorm.mp3
-title:Candy Soup|author:Rajunen|position:15|webfile:music/candy_soup_by_rajunen.mp3|sceneorg:/parties/2009/assembly09/music/candy_soup_by_rajunen.mp3
-title:The last march of fairies|author:JPT|position:0|webfile:music/the_last_march_of_fairies_by_jpt.mp3|sceneorg:/parties/2009/assembly09/music/the_last_march_of_fairies_by_jpt.mp3
-title:aspect|author:psychoticks|position:0|webfile:music/aspect_by_psychoticks.mp3|sceneorg:/parties/2009/assembly09/music/aspect_by_psychoticks.mp3
-title:Can't Get Enough|author:Juzdie / Artline Designs|position:0|webfile:music/can_t_get_enough_by_juzdie_artline_designs.mp3|sceneorg:/parties/2009/assembly09/music/cant_get_enough_by_juzdie__artline_designs.mp3
-title:Postmodernidentitycrisis|author:noby^trtr|position:0|webfile:music/postmodernidentitycrisis_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/music/postmodernidentitycrisis_by_nobytrtr.mp3
-title:FunAtASM|author:Nix3ll|position:0|webfile:music/funatasm_by_nix3ll.mp3|sceneorg:/parties/2009/assembly09/music/funatasm_by_nix3ll.mp3
-title:Ethedrinelin|author:tenda|position:0|webfile:music/ethedrinelin_by_tenda.mp3|sceneorg:/parties/2009/assembly09/music/ethedrinelin_by_tenda.mp3
-title:Fruit logistica|author:noby^trtr|position:0|webfile:music/fruit_logistica_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/music/fruit_logistica_by_nobytrtr.mp3
-title:Knights of the Whites|author:Knights of the Whites|position:0|webfile:music/knights_of_the_whites_by_knights_of_the_whites.mp3|sceneorg:/parties/2009/assembly09/music/knights_of_the_whites_by_knights_of_the_whites.mp3
-title:Sweeps|author:kwanttitatti|position:0|webfile:music/sweeps_by_kwanttitatti.mp3|sceneorg:/parties/2009/assembly09/music/sweeps_by_kwanttitatti.mp3
-title:Mirri|author:Trio DStruction|position:0|webfile:music/mirri_by_trio_dstruction.mp3|sceneorg:/parties/2009/assembly09/music/mirri_by_trio_dstruction.mp3
-title:Siberian flying squirrel|author:skygge|position:0|webfile:music/siberian_flying_squirrel_by_skygge.mp3|sceneorg:/parties/2009/assembly09/music/siberian_flying_squirrel_by_skygge.mp3
-title:solarians|author:shroomi|position:0|webfile:music/solarians_by_shroomi.mp3|sceneorg:/parties/2009/assembly09/music/solarians_by_shroomi.mp3
-title:Tokyo|author:Alkaria|position:0|webfile:music/tokyo_by_alkaria.mp3|sceneorg:/parties/2009/assembly09/music/tokyo_by_alkaria.mp3
-title:Murder at Swan Bay|author:maraz|position:0|webfile:music/murder_at_swan_bay_by_maraz.mp3|sceneorg:/parties/2009/assembly09/music/murder_at_swan_bay_by_maraz.mp3
-title:TECHNO SYSTEM 8000|author:Cross-Dressing Robots|position:0|webfile:music/techno_system_8000_by_cross_dressing_robots.mp3|sceneorg:/parties/2009/assembly09/music/techno_system_8000_by_crossdressing_robots.mp3
-title:Mystery of the 7 Stars|author:ATOPICA & Pekka Ryhänen|position:0|webfile:music/mystery_of_the_7_stars_by_atopica_pekka_ryh_nen.mp3|sceneorg:/parties/2009/assembly09/music/mystery_of_the_7_stars_by_atopica__pekka_ryhanen.mp3
-title:Lambda Fantasy|author:Foldplop|position:0|webfile:music/lambda_fantasy_by_foldplop.mp3|sceneorg:/parties/2009/assembly09/music/lambda_fantasy_by_foldplop.mp3
-title:Loppu|author:Tappio|position:0|webfile:music/loppu_by_tappio.mp3|sceneorg:/parties/2009/assembly09/music/loppu_by_tappio.mp3
-title:Game|author:Capsizer|position:0|webfile:music/game_by_capsizer.mp3|sceneorg:/parties/2009/assembly09/music/game_by_capsizer.mp3
-title:Kamala Hukka|author:E621|position:0|webfile:music/kamala_hukka_by_e621.mp3|sceneorg:/parties/2009/assembly09/music/kamala_hukka_by_e621.mp3
-title:nörtit|author:Poor E|position:0|webfile:music/n_rtit_by_poor_e.mp3|sceneorg:/parties/2009/assembly09/music/nortit_by_poor_e.mp3
-title:Muro cortina|author:alfie / RF|position:0|webfile:music/muro_cortina_by_alfie_rf.mp3|sceneorg:/parties/2009/assembly09/music/muro_cortina_by_alfie__rf.mp3
+title:[kuake]|author:paranoidx|position:1|webfile:music/kuake_by_paranoidx.mp3|sceneorg:/parties/2009/assembly09/music/kuake_by_paranoidx.mp3|youtube:http://www.youtube.com/watch?v=zibFV4UK6jI
+title:Sovietski Electro|author:Rtzon King|position:2|webfile:music/sovietski_electro_by_rtzon_king.mp3|sceneorg:/parties/2009/assembly09/music/sovietski_electro_by_rtzon_king.mp3|youtube:http://www.youtube.com/watch?v=p9Ey-MyQBcw
+title:Irish Rain|author:King Thrill, Tekotuotanto|position:3|webfile:music/irish_rain_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/music/irish_rain_by_king_thrill_tekotuotanto.mp3|youtube:http://www.youtube.com/watch?v=lyo7B2-aCkA
+title:Ninja Sisters|author:Aikapallo|position:4|webfile:music/ninja_sisters_by_aikapallo.mp3|sceneorg:/parties/2009/assembly09/music/ninja_sisters_by_aikapallo.mp3|youtube:http://www.youtube.com/watch?v=AI_fGkerU70
+title:Aeniyasha, Darkmoon Magic|author:GRiMM / Agentess M|position:5|webfile:music/aeniyasha_darkmoon_magic_by_grimm_agentess_m.mp3|sceneorg:/parties/2009/assembly09/music/aeniyasha_darkmoon_magic_by_grimm__agentess_m.mp3|youtube:http://www.youtube.com/watch?v=HUVHQzd2hgI
+title:a 09 m|author:T101/Accession|position:6|webfile:music/a_09_m_by_t101_accession.mp3|sceneorg:/parties/2009/assembly09/music/a_09_m_by_t101accession.mp3|youtube:http://www.youtube.com/watch?v=f78WH-tSO3Y
+title:Strabasco|author:Dj Tabasco|position:7|webfile:music/strabasco_by_dj_tabasco.mp3|sceneorg:/parties/2009/assembly09/music/strabasco_by_dj_tabasco.mp3|youtube:http://www.youtube.com/watch?v=wkPe_RuxW4g
+title:+4k|author:Gouafhg/Thegang|position:8|webfile:music/4k_by_gouafhg_thegang.mp3|sceneorg:/parties/2009/assembly09/music/4k_by_gouafhgthegang.zip|youtube:http://www.youtube.com/watch?v=XfWKYyxzcHI
+title:saw|author:glxblt|position:9|webfile:music/saw_by_glxblt.mp3|sceneorg:/parties/2009/assembly09/music/saw_by_glxblt.mp3|youtube:http://www.youtube.com/watch?v=UxTPmpZd4CA
+title:Quantum Speed|author:Everdune|position:10|webfile:music/quantum_speed_by_everdune.mp3|sceneorg:/parties/2009/assembly09/music/quantum_speed_by_everdune.mp3|youtube:http://www.youtube.com/watch?v=7TVUIlF8HOM
+title:Symphonic Dreams|author:Rendi|position:11|webfile:music/symphonic_dreams_by_rendi.mp3|sceneorg:/parties/2009/assembly09/music/symphonic_dreams_by_rendi.mp3|youtube:http://www.youtube.com/watch?v=fUgLPekVoU8
+title:Ride the Wind|author:S.Syrjanen, J.Kalilainen|position:12|webfile:music/ride_the_wind_by_s_syrjanen_j_kalilainen.mp3|sceneorg:/parties/2009/assembly09/music/ride_the_wind_by_ssyrjanen_jkalilainen.mp3|youtube:http://www.youtube.com/watch?v=DGuVvEeXX0I
+title:pump my porn (tenda rmx)|author:olman brothers|position:13|webfile:music/pump_my_porn_tenda_rmx_by_olman_brothers.mp3|sceneorg:/parties/2009/assembly09/music/pump_my_porn_tenda_rmx_by_olman_brothers.mp3|youtube:http://www.youtube.com/watch?v=GacuhFrq1EI
+title:Back to Basics|author:DJ Joge of Brainstorm|position:14|webfile:music/back_to_basics_by_dj_joge_of_brainstorm.mp3|sceneorg:/parties/2009/assembly09/music/back_to_basics_by_dj_joge_of_brainstorm.mp3|youtube:http://www.youtube.com/watch?v=fWlrU6X0CdQ
+title:Candy Soup|author:Rajunen|position:15|webfile:music/candy_soup_by_rajunen.mp3|sceneorg:/parties/2009/assembly09/music/candy_soup_by_rajunen.mp3|youtube:http://www.youtube.com/watch?v=RVX8k3m_EDA
+title:The last march of fairies|author:JPT|position:0|webfile:music/the_last_march_of_fairies_by_jpt.mp3|sceneorg:/parties/2009/assembly09/music/the_last_march_of_fairies_by_jpt.mp3|youtube:http://www.youtube.com/watch?v=pqoDuUgds8c
+title:aspect|author:psychoticks|position:0|webfile:music/aspect_by_psychoticks.mp3|sceneorg:/parties/2009/assembly09/music/aspect_by_psychoticks.mp3|youtube:http://www.youtube.com/watch?v=LiJMlJhqbHc
+title:Can't Get Enough|author:Juzdie / Artline Designs|position:0|webfile:music/can_t_get_enough_by_juzdie_artline_designs.mp3|sceneorg:/parties/2009/assembly09/music/cant_get_enough_by_juzdie__artline_designs.mp3|youtube:http://www.youtube.com/watch?v=JEwuO96L8nk
+title:Postmodernidentitycrisis|author:noby^trtr|position:0|webfile:music/postmodernidentitycrisis_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/music/postmodernidentitycrisis_by_nobytrtr.mp3|youtube:http://www.youtube.com/watch?v=-rKbCGFs-5w
+title:FunAtASM|author:Nix3ll|position:0|webfile:music/funatasm_by_nix3ll.mp3|sceneorg:/parties/2009/assembly09/music/funatasm_by_nix3ll.mp3|youtube:http://www.youtube.com/watch?v=4RTz0okNOaI
+title:Ethedrinelin|author:tenda|position:0|webfile:music/ethedrinelin_by_tenda.mp3|sceneorg:/parties/2009/assembly09/music/ethedrinelin_by_tenda.mp3|youtube:http://www.youtube.com/watch?v=oBeYhETljbA
+title:Fruit logistica|author:noby^trtr|position:0|webfile:music/fruit_logistica_by_noby_trtr.mp3|sceneorg:/parties/2009/assembly09/music/fruit_logistica_by_nobytrtr.mp3|youtube:http://www.youtube.com/watch?v=eh1Z11_oGZc
+title:Knights of the Whites|author:Knights of the Whites|position:0|webfile:music/knights_of_the_whites_by_knights_of_the_whites.mp3|sceneorg:/parties/2009/assembly09/music/knights_of_the_whites_by_knights_of_the_whites.mp3|youtube:http://www.youtube.com/watch?v=gBCLGsniWVc
+title:Sweeps|author:kwanttitatti|position:0|webfile:music/sweeps_by_kwanttitatti.mp3|sceneorg:/parties/2009/assembly09/music/sweeps_by_kwanttitatti.mp3|youtube:http://www.youtube.com/watch?v=qS_DZ-i1h7M
+title:Mirri|author:Trio DStruction|position:0|webfile:music/mirri_by_trio_dstruction.mp3|sceneorg:/parties/2009/assembly09/music/mirri_by_trio_dstruction.mp3|youtube:http://www.youtube.com/watch?v=jmV1XoU3u6k
+title:Siberian flying squirrel|author:skygge|position:0|webfile:music/siberian_flying_squirrel_by_skygge.mp3|sceneorg:/parties/2009/assembly09/music/siberian_flying_squirrel_by_skygge.mp3|youtube:http://www.youtube.com/watch?v=NLizi2jXJaM
+title:solarians|author:shroomi|position:0|webfile:music/solarians_by_shroomi.mp3|sceneorg:/parties/2009/assembly09/music/solarians_by_shroomi.mp3|youtube:http://www.youtube.com/watch?v=lucootbCvKw
+title:Tokyo|author:Alkaria|position:0|webfile:music/tokyo_by_alkaria.mp3|sceneorg:/parties/2009/assembly09/music/tokyo_by_alkaria.mp3|youtube:http://www.youtube.com/watch?v=IINDIIqftZk
+title:Murder at Swan Bay|author:maraz|position:0|webfile:music/murder_at_swan_bay_by_maraz.mp3|sceneorg:/parties/2009/assembly09/music/murder_at_swan_bay_by_maraz.mp3|youtube:http://www.youtube.com/watch?v=WCeLjSsgBqs
+title:TECHNO SYSTEM 8000|author:Cross-Dressing Robots|position:0|webfile:music/techno_system_8000_by_cross_dressing_robots.mp3|sceneorg:/parties/2009/assembly09/music/techno_system_8000_by_crossdressing_robots.mp3|youtube:http://www.youtube.com/watch?v=fiUvVg66OuU
+title:Mystery of the 7 Stars|author:ATOPICA & Pekka Ryhänen|position:0|webfile:music/mystery_of_the_7_stars_by_atopica_pekka_ryh_nen.mp3|sceneorg:/parties/2009/assembly09/music/mystery_of_the_7_stars_by_atopica__pekka_ryhanen.mp3|youtube:http://www.youtube.com/watch?v=C6qb4WEJL10
+title:Lambda Fantasy|author:Foldplop|position:0|webfile:music/lambda_fantasy_by_foldplop.mp3|sceneorg:/parties/2009/assembly09/music/lambda_fantasy_by_foldplop.mp3|youtube:http://www.youtube.com/watch?v=8YGV57RHAbc
+title:Loppu|author:Tappio|position:0|webfile:music/loppu_by_tappio.mp3|sceneorg:/parties/2009/assembly09/music/loppu_by_tappio.mp3|youtube:http://www.youtube.com/watch?v=fMgtcJqGV-A
+title:Game|author:Capsizer|position:0|webfile:music/game_by_capsizer.mp3|sceneorg:/parties/2009/assembly09/music/game_by_capsizer.mp3|youtube:http://www.youtube.com/watch?v=76J2hbgzNpk
+title:Kamala Hukka|author:E621|position:0|webfile:music/kamala_hukka_by_e621.mp3|sceneorg:/parties/2009/assembly09/music/kamala_hukka_by_e621.mp3|youtube:http://www.youtube.com/watch?v=p5xzSV-mvRU
+title:nörtit|author:Poor E|position:0|webfile:music/n_rtit_by_poor_e.mp3|sceneorg:/parties/2009/assembly09/music/nortit_by_poor_e.mp3|youtube:http://www.youtube.com/watch?v=KbE61SAm2MM
+title:Muro cortina|author:alfie / RF|position:0|webfile:music/muro_cortina_by_alfie_rf.mp3|sceneorg:/parties/2009/assembly09/music/muro_cortina_by_alfie__rf.mp3|youtube:http://www.youtube.com/watch?v=okfi-R32Xl8
 title:Dodecaphonic Excerpts|author:Linazero / RF|position:0|webfile:music/dodecaphonic_excerpts_by_linazero_rf.mp3|sceneorg:/parties/2009/assembly09/music/dodecaphonic_excerpts_by_linazero__rf.mp3
 title:Mummon Kämpillä|author:TyypiZ|position:0|webfile:music/mummon_k_mpill_by_tyypiz.mp3|sceneorg:/parties/2009/assembly09/music/mummon_kampilla_by_tyypiz.mp3
 title:there is never too much..|author:microdots|position:0|webfile:music/there_is_never_too_much_by_microdots.mp3|sceneorg:/parties/2009/assembly09/music/there_is_never_too_much_by_microdots.mp3
