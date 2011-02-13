@@ -109,7 +109,7 @@ title:Alien|author:RedHed|position:0|webfile:raytrace_graphics/alien_by_redhed.p
 title:Lauantai-illan huumeet|author:astro / a-men|position:0|webfile:raytrace_graphics/lauantai_illan_huumeet_by_astro_a_men.png|sceneorg:raytrace/lauantai.zip
 title:the Mölli ja the hirviö.|author:nich.|position:0|webfile:raytrace_graphics/the_mlli_ja_the_hirvi_by_nich.jpeg|sceneorg:raytrace/the_mlli.zip
 title:dual eclipse|author:recc|position:0|sceneorg:raytrace/dual_ecl.zip
-title:The Lagun|author:Garo|position:0|webfile:raytrace_graphics/the_lagun_by_garo.jpeg|sceneorg:raytrace/the_lagu.zip
+title:The Lagun|author:Garo|position:0|sceneorg:raytrace/the_lagu.zip
 title:Wet Wet Wet|author:yksilö/tAAt|position:0|webfile:raytrace_graphics/wet_wet_wet_by_yksil_taat.png|sceneorg:raytrace/wet_wet_.zip
 title:Spikey|author:Nitric|position:0|webfile:raytrace_graphics/spikey_by_nitric.jpeg|sceneorg:raytrace/spikey_b.zip
 title:Goa vibez|author:scottie|position:0|webfile:raytrace_graphics/goa_vibez_by_scottie.jpeg|sceneorg:raytrace/goa_vibe.zip
