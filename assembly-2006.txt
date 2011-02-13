@@ -2,11 +2,11 @@
 
 ! Mobile demo
 
-title:Pulque|author:Hedelmae|position:1|sceneorgvideo:./compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|sceneorg:/parties/2006/assembly06/mobile_demo/pulque_by_hedelmae_1.zip|pouet:25771|dtv:12619
-title:Who's Your Favourite Clown?|author:Shitfaced Clowns|position:2|sceneorgvideo:./compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|sceneorg:/parties/2006/assembly06/mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|pouet:25797
+title:Pulque|author:Hedelmae|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|sceneorg:/parties/2006/assembly06/mobile_demo/pulque_by_hedelmae_1.zip|pouet:25771|dtv:12619
+title:Who's Your Favourite Clown?|author:Shitfaced Clowns|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|sceneorg:/parties/2006/assembly06/mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|pouet:25797
 title:Follow The Sign 4|author:Byterapers|position:3|sceneorg:/parties/2006/assembly06/mobile_demo/b-fts4-psp.zip|pouet:25842
-title:AiES|author:Exile Studios|position:4|sceneorgvideo:./compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|sceneorg:/parties/2006/assembly06/mobile_demo/aies_by_exile_studios_2.zip|pouet:25799|dtv:12620
-title:Caffeine|author:wbs|position:5|sceneorgvideo:./compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|sceneorg:/parties/2006/assembly06/mobile_demo/caffeine_by_wbs_final.zip|pouet:25798
+title:AiES|author:Exile Studios|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|sceneorg:/parties/2006/assembly06/mobile_demo/aies_by_exile_studios_2.zip|pouet:25799|dtv:12620
+title:Caffeine|author:wbs|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|sceneorg:/parties/2006/assembly06/mobile_demo/caffeine_by_wbs_final.zip|pouet:25798
 
 ! Oldskool graphics
 
@@ -23,36 +23,36 @@ title:Give us a Lift to the Moon|author:Jumpseri|position:10|webfile:oldskool_gr
 
 ! Game development
 
-title:Frets on fire|author:Unreal Voodoo|position:1|sceneorgvideo:./compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|sceneorg:/parties/2006/assembly06/game/fretsonfire-1.0.184-win32.zip|pouet:25819
-title:Racing Pitch|author:tAAt 2006 & Skinflake|position:2|sceneorgvideo:./compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|sceneorg:/parties/2006/assembly06/game/racingpitch100.zip|pouet:25772
-title:TattooFrenzy|author:Fingersoft|position:3|sceneorgvideo:./compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/game/tattoofrenzy11_ppc_by_fingersoft.zip|pouet:25699
-title:Bloboats|author:Blobtrox|position:4|sceneorgvideo:./compo_videos/dvavi/game/bloboats_by_blobtrox.avi|sceneorg:/parties/2006/assembly06/game/bloboats-1.0.0.zip|pouet:25820
-title:Super Puzzle 9|author:Aroppuu|position:5|sceneorgvideo:./compo_videos/dvavi/game/super_puzzle_9_by_aroppuu.avi|sceneorg:/parties/2006/assembly06/game/puzzle.zip
-title:Armageddon Armadillo Assault|author:Traction & Jumalauta|position:6|sceneorgvideo:./compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|sceneorg:/parties/2006/assembly06/game/aaa10.exe|pouet:25692
-title:Highway to Assembly|author:Archee|position:7|sceneorgvideo:./compo_videos/dvavi/game/highway_to_assembly_archee.avi|sceneorg:/parties/2006/assembly06/game/highway.zip|pouet:25766
-title:UBV 2006|author:IHIHI|position:8|sceneorgvideo:./compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|sceneorg:/parties/2006/assembly06/game/ubv2006_updated.zip|pouet:25843
-title:Absorb|author:Absorb development team|position:9|sceneorgvideo:./compo_videos/dvavi/game/absorb_by_absorb_development_team.avi|sceneorg:/parties/2006/assembly06/game/absorb_update.zip
-title:Boom! Boom! Driller!|author:Ass Hat Designs|position:10|sceneorgvideo:./compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|sceneorg:/parties/2006/assembly06/game/boomboomdriller102a.zip|pouet:26966
-title:Stariffic|author:XZM|position:11|sceneorgvideo:./compo_videos/dvavi/game/starriffic_by_xzm.avi|sceneorg:/parties/2006/assembly06/game/stariffic-060803-0146.zip
-title:Antigravitaattori|author:Team Sauna|position:12|sceneorgvideo:./compo_videos/dvavi/game/antigravitaattori_by_team_sauna.avi|sceneorg:/parties/2006/assembly06/game/antigravitaattori_update2.zip
-title:CellRace|author:nope.tv|position:13|sceneorgvideo:./compo_videos/dvavi/game/cellrace_by_nope.tv.avi|sceneorg:/parties/2006/assembly06/game/cellrace-1.0.2.zip
-title:Spacetruck|author:Kutale Entertainment|position:14|sceneorgvideo:./compo_videos/dvavi/game/spacetruck_by_kutale_entertainment.avi|sceneorg:/parties/2006/assembly06/game/spacetruck11.zip
+title:Frets on fire|author:Unreal Voodoo|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|sceneorg:/parties/2006/assembly06/game/fretsonfire-1.0.184-win32.zip|pouet:25819
+title:Racing Pitch|author:tAAt 2006 & Skinflake|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|sceneorg:/parties/2006/assembly06/game/racingpitch100.zip|pouet:25772
+title:TattooFrenzy|author:Fingersoft|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/game/tattoofrenzy11_ppc_by_fingersoft.zip|pouet:25699
+title:Bloboats|author:Blobtrox|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/bloboats_by_blobtrox.avi|sceneorg:/parties/2006/assembly06/game/bloboats-1.0.0.zip|pouet:25820
+title:Super Puzzle 9|author:Aroppuu|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/super_puzzle_9_by_aroppuu.avi|sceneorg:/parties/2006/assembly06/game/puzzle.zip
+title:Armageddon Armadillo Assault|author:Traction & Jumalauta|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|sceneorg:/parties/2006/assembly06/game/aaa10.exe|pouet:25692
+title:Highway to Assembly|author:Archee|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/highway_to_assembly_archee.avi|sceneorg:/parties/2006/assembly06/game/highway.zip|pouet:25766
+title:UBV 2006|author:IHIHI|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|sceneorg:/parties/2006/assembly06/game/ubv2006_updated.zip|pouet:25843
+title:Absorb|author:Absorb development team|position:9|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/absorb_by_absorb_development_team.avi|sceneorg:/parties/2006/assembly06/game/absorb_update.zip
+title:Boom! Boom! Driller!|author:Ass Hat Designs|position:10|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|sceneorg:/parties/2006/assembly06/game/boomboomdriller102a.zip|pouet:26966
+title:Stariffic|author:XZM|position:11|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/starriffic_by_xzm.avi|sceneorg:/parties/2006/assembly06/game/stariffic-060803-0146.zip
+title:Antigravitaattori|author:Team Sauna|position:12|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/antigravitaattori_by_team_sauna.avi|sceneorg:/parties/2006/assembly06/game/antigravitaattori_update2.zip
+title:CellRace|author:nope.tv|position:13|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/cellrace_by_nope.tv.avi|sceneorg:/parties/2006/assembly06/game/cellrace-1.0.2.zip
+title:Spacetruck|author:Kutale Entertainment|position:14|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/spacetruck_by_kutale_entertainment.avi|sceneorg:/parties/2006/assembly06/game/spacetruck11.zip
 
 ! 64k intro
 
-title:dead ringer|author:fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in64/dead_ringer_by_fairlight.zip|pouet:25776|dtv:12627
-title:Chaos Theory|author:Conspiracy|position:2|sceneorgvideo:./compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|sceneorg:/parties/2006/assembly06/in64/chaos_theory_by_conspiracy.zip|pouet:25774|dtv:12629
-title:Aesterozoa|author:Kewlers|position:3|sceneorgvideo:./compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|sceneorg:/parties/2006/assembly06/in64/aesterozoa_by_kewlers.zip|pouet:25777|dtv:12621
-title:FR-048: Precision|author:Farbrausch|position:4|sceneorgvideo:./compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|sceneorg:/parties/2006/assembly06/in64/fr-048_precision_by_farbrausch.zip|pouet:25775|dtv:12630
-title:Emo Defect|author:Fiture Crew|position:5|sceneorgvideo:./compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|sceneorg:/parties/2006/assembly06/in64/emo_defect_by_fiture_crew.tar_gz|pouet:25794
-title:Rather Mediocre Laser Trip Experience|author:aspekt|position:6|sceneorgvideo:./compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|sceneorg:/parties/2006/assembly06/in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|pouet:25793|dtv:12625
-title:Naked blonde chicks|author:Immersion|position:7|sceneorgvideo:./compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|sceneorg:/parties/2006/assembly06/in64/naked_blonde_chicks_by_immersion.tgz|pouet:25795|dtv:12626
+title:dead ringer|author:fairlight|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in64/dead_ringer_by_fairlight.zip|pouet:25776|dtv:12627
+title:Chaos Theory|author:Conspiracy|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|sceneorg:/parties/2006/assembly06/in64/chaos_theory_by_conspiracy.zip|pouet:25774|dtv:12629
+title:Aesterozoa|author:Kewlers|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|sceneorg:/parties/2006/assembly06/in64/aesterozoa_by_kewlers.zip|pouet:25777|dtv:12621
+title:FR-048: Precision|author:Farbrausch|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|sceneorg:/parties/2006/assembly06/in64/fr-048_precision_by_farbrausch.zip|pouet:25775|dtv:12630
+title:Emo Defect|author:Fiture Crew|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|sceneorg:/parties/2006/assembly06/in64/emo_defect_by_fiture_crew.tar_gz|pouet:25794
+title:Rather Mediocre Laser Trip Experience|author:aspekt|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|sceneorg:/parties/2006/assembly06/in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|pouet:25793|dtv:12625
+title:Naked blonde chicks|author:Immersion|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|sceneorg:/parties/2006/assembly06/in64/naked_blonde_chicks_by_immersion.tgz|pouet:25795|dtv:12626
 
 ! Oldskool demo
 
-title:Fruitcake|author:RNO|position:1|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/fruitcake_by_rno.lha|pouet:25765|dtv:12616
-title:Progress Without Progress|author:PWP|position:2|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/progress_without_progress_by_pwp.zip|pouet:25764|dtv:12617
-title:Monkey Cowboys Extreme|author:Jumalauta|position:3|sceneorgvideo:./compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|pouet:25763|dtv:12618
+title:Fruitcake|author:RNO|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/fruitcake_by_rno.lha|pouet:25765|dtv:12616
+title:Progress Without Progress|author:PWP|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/progress_without_progress_by_pwp.zip|pouet:25764|dtv:12617
+title:Monkey Cowboys Extreme|author:Jumalauta|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|pouet:25763|dtv:12618
 
 ! Fast graphics
 
@@ -165,14 +165,14 @@ title:Lord of The Flies|author:GNOL|position:0|webfile:instrumental_music/lord_o
 
 ! 4k intro
 
-title:Glitterati|author:Fairlight|position:1|sceneorgvideo:./compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in4k/glitterati_by_fairlight.zip|pouet:25755|dtv:12622
-title:Andromedary|author:tAAt & XZM|position:2|sceneorgvideo:./compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|sceneorg:/parties/2006/assembly06/in4k/andromedary_by_taat_xzm.zip|pouet:25756|dtv:12623
-title:The Thing|author:Prophecy / Unknown Artistis|position:3|sceneorgvideo:./compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|sceneorg:/parties/2006/assembly06/in4k/the_thing_by_prophecy_unknown_artistis.zip|pouet:25757
-title:Rhythm 2|author:Dreadful sight|position:4|sceneorgvideo:./compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|sceneorg:/parties/2006/assembly06/in4k/rhythm_2_by_dreadful_sight.zip|pouet:25758
-title:K'tr4kt|author:Northern Dragons|position:5|sceneorgvideo:./compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|sceneorg:/parties/2006/assembly06/in4k/k_tr4kt_by_northern_dragons.zip|pouet:25761|dtv:12624
-title:Shroom|author:kiirala|position:6|sceneorgvideo:./compo_videos/dvavi/in4k/shroom_by_kiirala.avi|sceneorg:/parties/2006/assembly06/in4k/shroom_by_kiirala.tar.gz|pouet:25759
-title:Last Man Swinging|author:Fingersoft|position:7|sceneorgvideo:./compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/in4k/last_man_swinging_by_fingersoft.zip|pouet:25760
-title:DRM I - The First Element|author:Dragon Magic|position:8|sceneorgvideo:./compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|sceneorg:/parties/2006/assembly06/in4k/drm_i_-_the_first_element_by_dragon_magic.zip|pouet:25762
+title:Glitterati|author:Fairlight|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in4k/glitterati_by_fairlight.zip|pouet:25755|dtv:12622
+title:Andromedary|author:tAAt & XZM|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|sceneorg:/parties/2006/assembly06/in4k/andromedary_by_taat_xzm.zip|pouet:25756|dtv:12623
+title:The Thing|author:Prophecy / Unknown Artistis|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|sceneorg:/parties/2006/assembly06/in4k/the_thing_by_prophecy_unknown_artistis.zip|pouet:25757
+title:Rhythm 2|author:Dreadful sight|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|sceneorg:/parties/2006/assembly06/in4k/rhythm_2_by_dreadful_sight.zip|pouet:25758
+title:K'tr4kt|author:Northern Dragons|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|sceneorg:/parties/2006/assembly06/in4k/k_tr4kt_by_northern_dragons.zip|pouet:25761|dtv:12624
+title:Shroom|author:kiirala|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/shroom_by_kiirala.avi|sceneorg:/parties/2006/assembly06/in4k/shroom_by_kiirala.tar.gz|pouet:25759
+title:Last Man Swinging|author:Fingersoft|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/in4k/last_man_swinging_by_fingersoft.zip|pouet:25760
+title:DRM I - The First Element|author:Dragon Magic|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|sceneorg:/parties/2006/assembly06/in4k/drm_i_-_the_first_element_by_dragon_magic.zip|pouet:25762
 
 ! Short film
 
@@ -195,20 +195,20 @@ title:Keybored|author:Jadajada|position:0|webfile:short_film/keybored_by_jadajad
 
 ! Demo
 
-title:Starstruck|author:TBL|position:1|sceneorgvideo:./compo_videos/dvavi/demo/starstruck_by_tbl.avi|sceneorg:/parties/2006/assembly06/demo/tbl-starstruck-partyversion.zip|pouet:25778|dtv:12631
-title:track one|author:fairlight|position:2|sceneorgvideo:./compo_videos/dvavi/demo/track_one_by_fairlight.avi|sceneorg:/parties/2006/assembly06/demo/track_one_by_fairlight.zip|pouet:25781|dtv:12611
-title:1995|author:Kewlers & mfx|position:3|sceneorgvideo:./compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|sceneorg:/parties/2006/assembly06/demo/1995_by_kewlers_mfx.zip|pouet:25783|dtv:12612
-title:BOMBMAN|author:Matt Current|position:4|sceneorgvideo:./compo_videos/dvavi/demo/bombman_by_matt_current.avi|sceneorg:/parties/2006/assembly06/demo/bombman_by_matt_current.zip|pouet:25782|dtv:12613
-title:2^5|author:Traction|position:5|sceneorgvideo:./compo_videos/dvavi/demo/2_5_by_traction.avi|sceneorg:/parties/2006/assembly06/demo/traction_25_final.zip|pouet:25779|dtv:12628
-title:telos|author:portal process|position:6|sceneorgvideo:./compo_videos/dvavi/demo/telos_by_portal_process.avi|sceneorg:/parties/2006/assembly06/demo/telos_by_portal_process.zip|pouet:25780|dtv:12614
-title:Primate Theory|author:Unknown Artists|position:7|sceneorgvideo:./compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|sceneorg:/parties/2006/assembly06/demo/primate_theory_by_unknown_artists.zip|pouet:25787|dtv:12615
-title:Diskoalifight|author:wAMMA|position:8|sceneorgvideo:./compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|sceneorg:/parties/2006/assembly06/demo/diskoalifight_by_wamma.zip|pouet:25789
-title:Iterate|author:imbusy&xerxes|position:9|sceneorgvideo:./compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|sceneorg:/parties/2006/assembly06/demo/iterate_by_imbusy_xerxes.zip|pouet:25796|dtv:12838
-title:The barythymia|author:Division|position:10|sceneorgvideo:./compo_videos/dvavi/demo/the_barythymia_by_division.avi|sceneorg:/parties/2006/assembly06/demo/the_barythymia_by_division.zip|pouet:25788
-title:Bacardi Cola|author:Moonhazard|position:11|sceneorgvideo:./compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|sceneorg:/parties/2006/assembly06/demo/bacardi_cola_by_moonhazard.zip|pouet:25790
-title:Da Scene|author:Deagrace|position:12|sceneorgvideo:./compo_videos/dvavi/demo/da_scene_by_deagrace.avi|sceneorg:/parties/2006/assembly06/demo/da_scene_by_deagrace.zip|pouet:25785
-title:Formal Obsessions|author:Adapt|position:13|sceneorgvideo:./compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|sceneorg:/parties/2006/assembly06/demo/formal_obsessions_by_adapt.zip|pouet:25786
-title:The Winter Party|author:IT-Forge|position:14|sceneorgvideo:./compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|sceneorg:/parties/2006/assembly06/demo/the_winter_party_by_it-forge.zip|pouet:25784
+title:Starstruck|author:TBL|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/starstruck_by_tbl.avi|sceneorg:/parties/2006/assembly06/demo/tbl-starstruck-partyversion.zip|pouet:25778|dtv:12631
+title:track one|author:fairlight|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/track_one_by_fairlight.avi|sceneorg:/parties/2006/assembly06/demo/track_one_by_fairlight.zip|pouet:25781|dtv:12611
+title:1995|author:Kewlers & mfx|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|sceneorg:/parties/2006/assembly06/demo/1995_by_kewlers_mfx.zip|pouet:25783|dtv:12612
+title:BOMBMAN|author:Matt Current|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bombman_by_matt_current.avi|sceneorg:/parties/2006/assembly06/demo/bombman_by_matt_current.zip|pouet:25782|dtv:12613
+title:2^5|author:Traction|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/2_5_by_traction.avi|sceneorg:/parties/2006/assembly06/demo/traction_25_final.zip|pouet:25779|dtv:12628
+title:telos|author:portal process|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/telos_by_portal_process.avi|sceneorg:/parties/2006/assembly06/demo/telos_by_portal_process.zip|pouet:25780|dtv:12614
+title:Primate Theory|author:Unknown Artists|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|sceneorg:/parties/2006/assembly06/demo/primate_theory_by_unknown_artists.zip|pouet:25787|dtv:12615
+title:Diskoalifight|author:wAMMA|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|sceneorg:/parties/2006/assembly06/demo/diskoalifight_by_wamma.zip|pouet:25789
+title:Iterate|author:imbusy&xerxes|position:9|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|sceneorg:/parties/2006/assembly06/demo/iterate_by_imbusy_xerxes.zip|pouet:25796|dtv:12838
+title:The barythymia|author:Division|position:10|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_barythymia_by_division.avi|sceneorg:/parties/2006/assembly06/demo/the_barythymia_by_division.zip|pouet:25788
+title:Bacardi Cola|author:Moonhazard|position:11|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|sceneorg:/parties/2006/assembly06/demo/bacardi_cola_by_moonhazard.zip|pouet:25790
+title:Da Scene|author:Deagrace|position:12|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/da_scene_by_deagrace.avi|sceneorg:/parties/2006/assembly06/demo/da_scene_by_deagrace.zip|pouet:25785
+title:Formal Obsessions|author:Adapt|position:13|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|sceneorg:/parties/2006/assembly06/demo/formal_obsessions_by_adapt.zip|pouet:25786
+title:The Winter Party|author:IT-Forge|position:14|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|sceneorg:/parties/2006/assembly06/demo/the_winter_party_by_it-forge.zip|pouet:25784
 
 ! Browser demo
 
