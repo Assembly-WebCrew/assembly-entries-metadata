@@ -2,9 +2,9 @@
 
 ! PC demo
 
-title:Unreal|author:Future Crew|position:1|media:./.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:demo/unreal11.zip|pouet:1274|dtv:11374
-title:Crystal Dream|author:Triton|position:2|sceneorg:demo/c_dream.zip
-title:Internal Damage|author:EMF|position:3|media:./.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:demo/emf_id.zip|pouet:4182
+title:Unreal|author:Future Crew|position:1|media:./.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:11374
+title:Crystal Dream|author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip
+title:Internal Damage|author:EMF|position:3|media:./.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182
 title:unknown|author:Sonic PC|position:0
 
 ! C64 demo
@@ -15,10 +15,10 @@ title:Technophobia|author:The Sharks|position:3|pouet:18915
 
 ! Amiga demo
 
-title:Sound Vision|author:Reflect|position:1|media:./.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:13927
-title:Delirium|author:Complex|position:2|media:./.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:amiga/demo/complex-delirium.dms|pouet:5459|dtv:12362
-title:Piece of Mind|author:Nikki Corruptions|position:3|media:./.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:amiga/demo/nc-pieceofmind.cop|pouet:5457
-title:Mandelbrot|author:Beyond Force|position:0|sceneorg:amiga/demo/bf-assembly92intro
+title:Sound Vision|author:Reflect|position:1|media:./.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:13927
+title:Delirium|author:Complex|position:2|media:./.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:12362
+title:Piece of Mind|author:Nikki Corruptions|position:3|media:./.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457
+title:Mandelbrot|author:Beyond Force|position:0|sceneorg:/parties/1992/assembly92/amiga/demo/bf-assembly92intro
 title:Ass Demo|author:Cyberiad|position:0
 title:unknown|author:Parallax|position:0
 title:unknown|author:Soc. Brigade|position:0
@@ -28,50 +28,50 @@ title:Trackmo|author:Xentrix|position:0
 
 ! Music
 
-title:Iridium|author:Misty and Daeron/Shining|position:1|webfile:music/iridium_by_misty_and_daeron_shining.mp3|sceneorg:m4ch/iridium-comp.zip
-title:Towards Immortality|author:Groo/Black Robes|position:2|webfile:music/towards_immortality_by_groo_black_robes.mp3|sceneorg:m4ch/towards_immortality.zip
-title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:m4ch/rubicon.zip
-title:Walking Lonely|author:Megaman/Equinox|position:0|webfile:music/walking_lonely_by_megaman_equinox.mp3|sceneorg:m4ch/walking_lonely.zip
-title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:m4ch/lady.zip
+title:Iridium|author:Misty and Daeron/Shining|position:1|webfile:music/iridium_by_misty_and_daeron_shining.mp3|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
+title:Towards Immortality|author:Groo/Black Robes|position:2|webfile:music/towards_immortality_by_groo_black_robes.mp3|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
+title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip
+title:Walking Lonely|author:Megaman/Equinox|position:0|webfile:music/walking_lonely_by_megaman_equinox.mp3|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
+title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip
 title:Insomnia|author:Omar/Sonic|position:0
-title:Back To Music 2|author:Strobo/Stellar|position:0|webfile:music/back_to_music_2_by_strobo_stellar.mp3|sceneorg:m4ch/back_to_music_ii.zip
-title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:m4ch/new_wave.zip
+title:Back To Music 2|author:Strobo/Stellar|position:0|webfile:music/back_to_music_2_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
+title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip
 
 ! Graphics
 
-title:Naughty Nymphs In Nature|author:Iridon/Shining|position:1|webfile:graphics/naughty_nymphs_in_nature_by_iridon_shining.png|sceneorg:grfx/naughtynymphsinnature.zip
-title:Alternative Tequila|author:Dean/Cyberiad|position:2|webfile:graphics/alternative_tequila_by_dean_cyberiad.png|sceneorg:grfx/dean-alternativetequila.zip
-title:Heavy Metal|author:Zei/Accession|position:3|webfile:graphics/heavy_metal_by_zei_accession.png|sceneorg:grfx/heavymetal.zip
-title:Sleeping Beauty|author:Boris/Banal|position:0|webfile:graphics/sleeping_beauty_by_boris_banal.png|sceneorg:grfx/sleepingbeauty.zip
-title:Monster|author:Drifter|position:0|webfile:graphics/monster_by_drifter.png|sceneorg:grfx/monster.zip
-title:Demonomania|author:Duce|position:0|webfile:graphics/demonomania_by_duce.png|sceneorg:grfx/demonomania.zip
-title:Guardian|author:Gator/Stellar|position:0|webfile:graphics/guardian_by_gator_stellar.png|sceneorg:grfx/guardian.zip
-title:Distant City|author:Harlequin|position:0|webfile:graphics/distant_city_by_harlequin.png|sceneorg:grfx/distant_city.zip
-title:Delirium|author:Jugi/Complex|position:0|webfile:graphics/delirium_by_jugi_complex.png|sceneorg:grfx/deliriumeagle.zip
-title:Destiny Can Wait|author:Kissarobotti/Parallax|position:0|webfile:graphics/destiny_can_wait_by_kissarobotti_parallax.png|sceneorg:grfx/destiny_can_wait4.zip
-title:Carcompo|author:Marvel|position:0|webfile:graphics/carcompo_by_marvel.png|sceneorg:grfx/carcompo.zip
-title:Kossu|author:Mr.Greedy/Byterapers|position:0|webfile:graphics/kossu_by_mr_greedy_byterapers.png|sceneorg:grfx/kossu.zip
-title:Strength & Beauty|author:Mutant/Dual Crew|position:0|webfile:graphics/strength_beauty_by_mutant_dual_crew.png|sceneorg:grfx/strength_beauty.zip
-title:Shuttle|author:Rainman/Disknet|position:0|webfile:graphics/shuttle_by_rainman_disknet.png|sceneorg:grfx/shuttle.zip
-title:Reptile|author:Z (??)|position:0|webfile:graphics/reptile_by_z.png|sceneorg:grfx/reptiles.zip
-title:Seal|author:unknown|position:0|webfile:graphics/seal_by_unknown.png|sceneorg:grfx/seal.zip
-title:Werthers Skull|author:unknown|position:0|webfile:graphics/werthers_skull_by_unknown.png|sceneorg:grfx/werther'sskull.zip
+title:Naughty Nymphs In Nature|author:Iridon/Shining|position:1|webfile:graphics/naughty_nymphs_in_nature_by_iridon_shining.png|sceneorg:/parties/1992/assembly92/grfx/naughtynymphsinnature.zip
+title:Alternative Tequila|author:Dean/Cyberiad|position:2|webfile:graphics/alternative_tequila_by_dean_cyberiad.png|sceneorg:/parties/1992/assembly92/grfx/dean-alternativetequila.zip
+title:Heavy Metal|author:Zei/Accession|position:3|webfile:graphics/heavy_metal_by_zei_accession.png|sceneorg:/parties/1992/assembly92/grfx/heavymetal.zip
+title:Sleeping Beauty|author:Boris/Banal|position:0|webfile:graphics/sleeping_beauty_by_boris_banal.png|sceneorg:/parties/1992/assembly92/grfx/sleepingbeauty.zip
+title:Monster|author:Drifter|position:0|webfile:graphics/monster_by_drifter.png|sceneorg:/parties/1992/assembly92/grfx/monster.zip
+title:Demonomania|author:Duce|position:0|webfile:graphics/demonomania_by_duce.png|sceneorg:/parties/1992/assembly92/grfx/demonomania.zip
+title:Guardian|author:Gator/Stellar|position:0|webfile:graphics/guardian_by_gator_stellar.png|sceneorg:/parties/1992/assembly92/grfx/guardian.zip
+title:Distant City|author:Harlequin|position:0|webfile:graphics/distant_city_by_harlequin.png|sceneorg:/parties/1992/assembly92/grfx/distant_city.zip
+title:Delirium|author:Jugi/Complex|position:0|webfile:graphics/delirium_by_jugi_complex.png|sceneorg:/parties/1992/assembly92/grfx/deliriumeagle.zip
+title:Destiny Can Wait|author:Kissarobotti/Parallax|position:0|webfile:graphics/destiny_can_wait_by_kissarobotti_parallax.png|sceneorg:/parties/1992/assembly92/grfx/destiny_can_wait4.zip
+title:Carcompo|author:Marvel|position:0|webfile:graphics/carcompo_by_marvel.png|sceneorg:/parties/1992/assembly92/grfx/carcompo.zip
+title:Kossu|author:Mr.Greedy/Byterapers|position:0|webfile:graphics/kossu_by_mr_greedy_byterapers.png|sceneorg:/parties/1992/assembly92/grfx/kossu.zip
+title:Strength & Beauty|author:Mutant/Dual Crew|position:0|webfile:graphics/strength_beauty_by_mutant_dual_crew.png|sceneorg:/parties/1992/assembly92/grfx/strength_beauty.zip
+title:Shuttle|author:Rainman/Disknet|position:0|webfile:graphics/shuttle_by_rainman_disknet.png|sceneorg:/parties/1992/assembly92/grfx/shuttle.zip
+title:Reptile|author:Z (??)|position:0|webfile:graphics/reptile_by_z.png|sceneorg:/parties/1992/assembly92/grfx/reptiles.zip
+title:Seal|author:unknown|position:0|webfile:graphics/seal_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/seal.zip
+title:Werthers Skull|author:unknown|position:0|webfile:graphics/werthers_skull_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip
 
 ! Amiga intro
 
-title:Repo Intro|author:Vectra|position:1|sceneorg:amiga/intro/vectra-repo|pouet:29217
+title:Repo Intro|author:Vectra|position:1|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|pouet:29217
 title:unknown|author:Wizzcat|position:2
-title:Vector Hangover|author:Smirre/Vectra|position:3|sceneorg:amiga/intro/vectra-vectorhangover|pouet:29214
-title:Pia Fraus|author:Banal Projects|position:0|sceneorg:amiga/intro/banal-piafraus!|pouet:11356
-title:Stolen Action Replay|author:Chrome|position:0|sceneorg:amiga/intro/chrome-assembly92|pouet:18725
+title:Vector Hangover|author:Smirre/Vectra|position:3|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|pouet:29214
+title:Pia Fraus|author:Banal Projects|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|pouet:11356
+title:Stolen Action Replay|author:Chrome|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|pouet:18725
 title:Assemblytime|author:D-29|position:0
 title:We Are Back|author:Doodle Foundation|position:0
-title:Nuketro|author:Genocide|position:0|sceneorg:amiga/intro/genocide-nukeintro|pouet:33440
-title:Dualism|author:Midnightsun|position:0|sceneorg:amiga/intro/midnightsun-dualism
+title:Nuketro|author:Genocide|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/genocide-nukeintro|pouet:33440
+title:Dualism|author:Midnightsun|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/midnightsun-dualism
 title:Slaves Of Sex|author:Parallax|position:0
-title:Cipher|author:Razer & Heathen God Design|position:0|sceneorg:amiga/intro/razer-cipher
+title:Cipher|author:Razer & Heathen God Design|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/razer-cipher
 title:Assembly|author:Rebels|position:0|pouet:2716
-title:Irrepressible|author:Sonic|position:0|sceneorg:amiga/intro/sonic-irrepressible|pouet:32590
-title:Hard To Be God|author:Stellar|position:0|sceneorg:amiga/intro/stellar-hard_to_be_god|pouet:26098
+title:Irrepressible|author:Sonic|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/sonic-irrepressible|pouet:32590
+title:Hard To Be God|author:Stellar|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/stellar-hard_to_be_god|pouet:26098
 title:Plasma Vectors|author:The Silents|position:0
-title:Assemblo|author:World Industries|position:0|sceneorg:amiga/intro/world_ind-assintro|pouet:28302
+title:Assemblo|author:World Industries|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/world_ind-assintro|pouet:28302

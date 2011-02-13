@@ -2,217 +2,217 @@
 
 ! Oldskool graphics
 
-title:Neuvosto-savo|author:VolvoQ / Doomsday|position:1|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
-title:meltdown|author:tempest / damage|position:2|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
-title:Taeti Hymyilee|author:Britelite|position:3|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
-title:Muijja|author:Marq / Lieves!Tuore ^ Fit|position:4|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
-title:Panther Pants|author:Electric / Extend|position:5|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
-title:Yo!|author:Ravel / AltParty Org.|position:6|sceneorg:oldskool/oldskool_gfx_compo-divx.avi
+title:Neuvosto-savo|author:VolvoQ / Doomsday|position:1|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
+title:meltdown|author:tempest / damage|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
+title:Taeti Hymyilee|author:Britelite|position:3|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
+title:Muijja|author:Marq / Lieves!Tuore ^ Fit|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
+title:Panther Pants|author:Electric / Extend|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
+title:Yo!|author:Ravel / AltParty Org.|position:6|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
 
 ! Drawn graphics
 
-title:Anttilan kuvasto|author:Partikle|position:1|webfile:drawn_graphics/anttilan_kuvasto_by_partikle.png|sceneorg:grfx/anttilan_kuvasto_by_partikle.zip
-title:Krapulantappojuoma|author:Kaolo|position:2|webfile:drawn_graphics/krapulantappojuoma_by_kaolo.png|sceneorg:grfx/krapulantappojuoma_by_kaolo.zip
-title:Your Money, Dear Watson|author:Marvel / Future Crew|position:3|webfile:drawn_graphics/your_money_dear_watson_by_marvel_future_crew.png|sceneorg:grfx/your_money__dear_watson_by_marvel___future_crew.zip
-title:make more demosceners|author:Sh'ar|position:4|webfile:drawn_graphics/make_more_demosceners_by_sh_ar.png|sceneorg:grfx/make_more_demosceners_by_sh_ar.zip
-title:Rolling rocks|author:Mazor/Scoopex|position:5|webfile:drawn_graphics/rolling_rocks_by_mazor_scoopex.png|sceneorg:grfx/rolling_rocks_by_mazor_scoopex.zip
-title:Magic|author:Neurodruid|position:6|webfile:drawn_graphics/magic_by_neurodruid.png|sceneorg:grfx/magic_by_neurodruid.zip
-title:Gentle Touch|author:Random|position:7|webfile:drawn_graphics/gentle_touch_by_random.png|sceneorg:grfx/gentle_touch_by_random.zip
-title:So lonely|author:kone|position:8|webfile:drawn_graphics/so_lonely_by_kone.png|sceneorg:grfx/so_lonely_by_kone.zip
-title:Wonder|author:Pyrotech|position:9|webfile:drawn_graphics/wonder_by_pyrotech.png|sceneorg:grfx/wonder_by_pyrotech.zip
-title:Jorma ei tykkaa karpasista|author:DoC / Fobia Design|position:10|webfile:drawn_graphics/jorma_ei_tykkaa_karpasista_by_doc_fobia_design.png|sceneorg:grfx/jorma_ei_tykkaa_karpasista_by_doc_of_fobia_design.zip
-title:Free|author:Visualice|position:11|webfile:drawn_graphics/free_by_visualice.png|sceneorg:grfx/free_by_visualice.zip
-title:Dollface|author:Gnome/Fascination|position:12|webfile:drawn_graphics/dollface_by_gnome_fascination.png|sceneorg:grfx/dollface_by_gnome_fascination.zip
-title:Addiction|author:mDub/Resistance|position:13|webfile:drawn_graphics/addiction_by_mdub_resistance.png|sceneorg:grfx/addiction_by_mdub_resistance.zip
-title:Follow teh cartoon wabbit|author:Infernal|position:14|webfile:drawn_graphics/follow_teh_cartoon_wabbit_by_infernal.png|sceneorg:grfx/follow_teh_cartoon_wabbit_by_infernal.zip
-title:Angel|author:Pineapple|position:15|webfile:drawn_graphics/angel_by_pineapple.png|sceneorg:grfx/angel_by_pineapple.zip
-title:The Storm Is Coming|author:John Peeba|position:16|webfile:drawn_graphics/the_storm_is_coming_by_john_peeba.png|sceneorg:grfx/the_storm_is_coming_by_john_peeba.zip
+title:Anttilan kuvasto|author:Partikle|position:1|webfile:drawn_graphics/anttilan_kuvasto_by_partikle.png|sceneorg:/parties/2001/assembly01/grfx/anttilan_kuvasto_by_partikle.zip
+title:Krapulantappojuoma|author:Kaolo|position:2|webfile:drawn_graphics/krapulantappojuoma_by_kaolo.png|sceneorg:/parties/2001/assembly01/grfx/krapulantappojuoma_by_kaolo.zip
+title:Your Money, Dear Watson|author:Marvel / Future Crew|position:3|webfile:drawn_graphics/your_money_dear_watson_by_marvel_future_crew.png|sceneorg:/parties/2001/assembly01/grfx/your_money__dear_watson_by_marvel___future_crew.zip
+title:make more demosceners|author:Sh'ar|position:4|webfile:drawn_graphics/make_more_demosceners_by_sh_ar.png|sceneorg:/parties/2001/assembly01/grfx/make_more_demosceners_by_sh_ar.zip
+title:Rolling rocks|author:Mazor/Scoopex|position:5|webfile:drawn_graphics/rolling_rocks_by_mazor_scoopex.png|sceneorg:/parties/2001/assembly01/grfx/rolling_rocks_by_mazor_scoopex.zip
+title:Magic|author:Neurodruid|position:6|webfile:drawn_graphics/magic_by_neurodruid.png|sceneorg:/parties/2001/assembly01/grfx/magic_by_neurodruid.zip
+title:Gentle Touch|author:Random|position:7|webfile:drawn_graphics/gentle_touch_by_random.png|sceneorg:/parties/2001/assembly01/grfx/gentle_touch_by_random.zip
+title:So lonely|author:kone|position:8|webfile:drawn_graphics/so_lonely_by_kone.png|sceneorg:/parties/2001/assembly01/grfx/so_lonely_by_kone.zip
+title:Wonder|author:Pyrotech|position:9|webfile:drawn_graphics/wonder_by_pyrotech.png|sceneorg:/parties/2001/assembly01/grfx/wonder_by_pyrotech.zip
+title:Jorma ei tykkaa karpasista|author:DoC / Fobia Design|position:10|webfile:drawn_graphics/jorma_ei_tykkaa_karpasista_by_doc_fobia_design.png|sceneorg:/parties/2001/assembly01/grfx/jorma_ei_tykkaa_karpasista_by_doc_of_fobia_design.zip
+title:Free|author:Visualice|position:11|webfile:drawn_graphics/free_by_visualice.png|sceneorg:/parties/2001/assembly01/grfx/free_by_visualice.zip
+title:Dollface|author:Gnome/Fascination|position:12|webfile:drawn_graphics/dollface_by_gnome_fascination.png|sceneorg:/parties/2001/assembly01/grfx/dollface_by_gnome_fascination.zip
+title:Addiction|author:mDub/Resistance|position:13|webfile:drawn_graphics/addiction_by_mdub_resistance.png|sceneorg:/parties/2001/assembly01/grfx/addiction_by_mdub_resistance.zip
+title:Follow teh cartoon wabbit|author:Infernal|position:14|webfile:drawn_graphics/follow_teh_cartoon_wabbit_by_infernal.png|sceneorg:/parties/2001/assembly01/grfx/follow_teh_cartoon_wabbit_by_infernal.zip
+title:Angel|author:Pineapple|position:15|webfile:drawn_graphics/angel_by_pineapple.png|sceneorg:/parties/2001/assembly01/grfx/angel_by_pineapple.zip
+title:The Storm Is Coming|author:John Peeba|position:16|webfile:drawn_graphics/the_storm_is_coming_by_john_peeba.png|sceneorg:/parties/2001/assembly01/grfx/the_storm_is_coming_by_john_peeba.zip
 
 ! MP3 music
 
-title:When Time Slips Away|author:Firestorm / Waypoint|position:1|webfile:mp3_music/when_time_slips_away_by_firestorm_waypoint.mp3|sceneorg:mp3/when_time_slips_away_by_firestorm___waypoint.zip
-title:Hail, Holy Queen|author:Nanaste|position:2|webfile:mp3_music/hail_holy_queen_by_nanaste.mp3|sceneorg:mp3/hail__holy_queen_by_nanaste.zip
-title:Warm inside|author:Aisth|position:3|webfile:mp3_music/warm_inside_by_aisth.mp3|sceneorg:mp3/warm_inside_by_aisth.zip
-title:Molequel Man|author:Trauma Child Genesis|position:4|webfile:mp3_music/molequel_man_by_trauma_child_genesis.mp3|sceneorg:mp3/molequel_man_by_trauma_child_genesis.zip
-title:all your base|author:netpoet & xenon / parkstudios|position:5|webfile:mp3_music/all_your_base_by_netpoet_xenon_parkstudios.mp3|sceneorg:mp3/all_your_base_by_netpoet___xenon___parkstudios.zip
-title:Mosaic Days|author:Future Crew|position:6|webfile:mp3_music/mosaic_days_by_future_crew.mp3|sceneorg:mp3/mosaic_days_by_future_crew.zip
-title:Doggy Jazz Club|author:Laatumiehet|position:7|webfile:mp3_music/doggy_jazz_club_by_laatumiehet.mp3|sceneorg:mp3/doggy_jazz_club_by_laatumiehet_.zip
-title:Let The Melody Speak|author:Turkka|position:8|webfile:mp3_music/let_the_melody_speak_by_turkka.mp3|sceneorg:mp3/let_the_melody_speak_by_turkka.zip
-title:Tomorrow Morning|author:spector / recreation|position:9|webfile:mp3_music/tomorrow_morning_by_spector_recreation.mp3|sceneorg:mp3/tomorrow_morning_by_spector___recreation.zip
-title:Naisolento|author:Naisen ja Miehen Välinen Luottamus|position:10|webfile:mp3_music/naisolento_by_naisen_ja_miehen_v_linen_luottamus.mp3|sceneorg:mp3/naisolento_by_naisen_ja_miehen_v_linen_luottamus.zip
-title:Stay With Me|author:Huezo|position:11|webfile:mp3_music/stay_with_me_by_huezo.mp3|sceneorg:mp3/stay_with_me_by_huezo.zip
-title:der gedankenaustausch|author:mindflower & pirzi|position:12|webfile:mp3_music/der_gedankenaustausch_by_mindflower_pirzi.mp3|sceneorg:mp3/der_gedankenaustausch_by_mindflower___pirzi.zip
-title:Yksi Miljoonasta|author:Lactic Acid|position:13|webfile:mp3_music/yksi_miljoonasta_by_lactic_acid.mp3|sceneorg:mp3/yksi_miljoonasta_by_lactic_acid.zip
-title:Dhesus - Kivitetty saatana|author:?kaytanhousuja|position:14|webfile:mp3_music/dhesus_kivitetty_saatana_by_kaytanhousuja.mp3|sceneorg:mp3/dhesus_-_kivitetty_saatana_by__kaytanhousuja.zip
-title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|sceneorg:mp3/mind___body_by_abj.zip
+title:When Time Slips Away|author:Firestorm / Waypoint|position:1|webfile:mp3_music/when_time_slips_away_by_firestorm_waypoint.mp3|sceneorg:/parties/2001/assembly01/mp3/when_time_slips_away_by_firestorm___waypoint.zip
+title:Hail, Holy Queen|author:Nanaste|position:2|webfile:mp3_music/hail_holy_queen_by_nanaste.mp3|sceneorg:/parties/2001/assembly01/mp3/hail__holy_queen_by_nanaste.zip
+title:Warm inside|author:Aisth|position:3|webfile:mp3_music/warm_inside_by_aisth.mp3|sceneorg:/parties/2001/assembly01/mp3/warm_inside_by_aisth.zip
+title:Molequel Man|author:Trauma Child Genesis|position:4|webfile:mp3_music/molequel_man_by_trauma_child_genesis.mp3|sceneorg:/parties/2001/assembly01/mp3/molequel_man_by_trauma_child_genesis.zip
+title:all your base|author:netpoet & xenon / parkstudios|position:5|webfile:mp3_music/all_your_base_by_netpoet_xenon_parkstudios.mp3|sceneorg:/parties/2001/assembly01/mp3/all_your_base_by_netpoet___xenon___parkstudios.zip
+title:Mosaic Days|author:Future Crew|position:6|webfile:mp3_music/mosaic_days_by_future_crew.mp3|sceneorg:/parties/2001/assembly01/mp3/mosaic_days_by_future_crew.zip
+title:Doggy Jazz Club|author:Laatumiehet|position:7|webfile:mp3_music/doggy_jazz_club_by_laatumiehet.mp3|sceneorg:/parties/2001/assembly01/mp3/doggy_jazz_club_by_laatumiehet_.zip
+title:Let The Melody Speak|author:Turkka|position:8|webfile:mp3_music/let_the_melody_speak_by_turkka.mp3|sceneorg:/parties/2001/assembly01/mp3/let_the_melody_speak_by_turkka.zip
+title:Tomorrow Morning|author:spector / recreation|position:9|webfile:mp3_music/tomorrow_morning_by_spector_recreation.mp3|sceneorg:/parties/2001/assembly01/mp3/tomorrow_morning_by_spector___recreation.zip
+title:Naisolento|author:Naisen ja Miehen Välinen Luottamus|position:10|webfile:mp3_music/naisolento_by_naisen_ja_miehen_v_linen_luottamus.mp3|sceneorg:/parties/2001/assembly01/mp3/naisolento_by_naisen_ja_miehen_v_linen_luottamus.zip
+title:Stay With Me|author:Huezo|position:11|webfile:mp3_music/stay_with_me_by_huezo.mp3|sceneorg:/parties/2001/assembly01/mp3/stay_with_me_by_huezo.zip
+title:der gedankenaustausch|author:mindflower & pirzi|position:12|webfile:mp3_music/der_gedankenaustausch_by_mindflower_pirzi.mp3|sceneorg:/parties/2001/assembly01/mp3/der_gedankenaustausch_by_mindflower___pirzi.zip
+title:Yksi Miljoonasta|author:Lactic Acid|position:13|webfile:mp3_music/yksi_miljoonasta_by_lactic_acid.mp3|sceneorg:/parties/2001/assembly01/mp3/yksi_miljoonasta_by_lactic_acid.zip
+title:Dhesus - Kivitetty saatana|author:?kaytanhousuja|position:14|webfile:mp3_music/dhesus_kivitetty_saatana_by_kaytanhousuja.mp3|sceneorg:/parties/2001/assembly01/mp3/dhesus_-_kivitetty_saatana_by__kaytanhousuja.zip
+title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|sceneorg:/parties/2001/assembly01/mp3/mind___body_by_abj.zip
 
 ! Oldskool demo
 
-title:Riyadh|author:Bandwagon|position:1|media:.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:8913
-title:Impossiblator|author:pwp|position:2|sceneorg:oldskool/oldskool_demo_compo-divx.avi|pouet:7663
-title:Beertime 2|author:Dekadence|position:3|sceneorg:oldskool/oldskool_demo_compo-divx.avi|pouet:3476
-title:Big Time|author:CNCD|position:4|sceneorg:oldskool/oldskool_demo_compo-divx.avi|pouet:16221
-title:Orivesi|author:Extend|position:5|sceneorg:oldskool/oldskool_demo_compo-divx.avi|pouet:17958
+title:Riyadh|author:Bandwagon|position:1|media:.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:8913
+title:Impossiblator|author:pwp|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7663
+title:Beertime 2|author:Dekadence|position:3|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:3476
+title:Big Time|author:CNCD|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:16221
+title:Orivesi|author:Extend|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:17958
 
 ! Fast music
 
-title:comrades|author:DJartz|position:1|webfile:fast_music/comrades_by_djartz.mp3|sceneorg:fastmusic/comrades_by_djartz.zip
-title:Reima|author:Aikapallo|position:2|webfile:fast_music/reima_by_aikapallo.mp3|sceneorg:fastmusic/reima_by_aikapallo.zip
-title:Butterfly Nibbles|author:Terminus|position:3|webfile:fast_music/butterfly_nibbles_by_terminus.mp3|sceneorg:fastmusic/butterfly_nibbles_by_terminus.zip
-title:Teleportation|author:Pyrotech|position:4|webfile:fast_music/teleportation_by_pyrotech.mp3|sceneorg:fastmusic/teleportation_by_pyrotech.zip
-title:Salamander|author:KiWi|position:5|webfile:fast_music/salamander_by_kiwi.mp3|sceneorg:fastmusic/salamander_by_kiwi.zip
-title:BeefCake|author:Prophecy|position:6|webfile:fast_music/beefcake_by_prophecy.mp3|sceneorg:fastmusic/beefcake_by_prophecy.zip
-title:Seven|author:Tomas|position:7|webfile:fast_music/seven_by_tomas.mp3|sceneorg:fastmusic/seven_by_tomas.zip
-title:Jamming At Night|author:Mikko Lahti|position:8|webfile:fast_music/jamming_at_night_by_mikko_lahti.mp3|sceneorg:fastmusic/jamming_at_night_by_mikko_lahti.zip
-title:fast music|author:Manwe|position:9|webfile:fast_music/fast_music_by_manwe.mp3|sceneorg:fastmusic/fast_music_by_manwe.zip
-title:Jazyh|author:Complex|position:10|webfile:fast_music/jazyh_by_complex.mp3|sceneorg:fastmusic/jazyh_by_complex.zip
+title:comrades|author:DJartz|position:1|webfile:fast_music/comrades_by_djartz.mp3|sceneorg:/parties/2001/assembly01/fastmusic/comrades_by_djartz.zip
+title:Reima|author:Aikapallo|position:2|webfile:fast_music/reima_by_aikapallo.mp3|sceneorg:/parties/2001/assembly01/fastmusic/reima_by_aikapallo.zip
+title:Butterfly Nibbles|author:Terminus|position:3|webfile:fast_music/butterfly_nibbles_by_terminus.mp3|sceneorg:/parties/2001/assembly01/fastmusic/butterfly_nibbles_by_terminus.zip
+title:Teleportation|author:Pyrotech|position:4|webfile:fast_music/teleportation_by_pyrotech.mp3|sceneorg:/parties/2001/assembly01/fastmusic/teleportation_by_pyrotech.zip
+title:Salamander|author:KiWi|position:5|webfile:fast_music/salamander_by_kiwi.mp3|sceneorg:/parties/2001/assembly01/fastmusic/salamander_by_kiwi.zip
+title:BeefCake|author:Prophecy|position:6|webfile:fast_music/beefcake_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/fastmusic/beefcake_by_prophecy.zip
+title:Seven|author:Tomas|position:7|webfile:fast_music/seven_by_tomas.mp3|sceneorg:/parties/2001/assembly01/fastmusic/seven_by_tomas.zip
+title:Jamming At Night|author:Mikko Lahti|position:8|webfile:fast_music/jamming_at_night_by_mikko_lahti.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jamming_at_night_by_mikko_lahti.zip
+title:fast music|author:Manwe|position:9|webfile:fast_music/fast_music_by_manwe.mp3|sceneorg:/parties/2001/assembly01/fastmusic/fast_music_by_manwe.zip
+title:Jazyh|author:Complex|position:10|webfile:fast_music/jazyh_by_complex.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jazyh_by_complex.zip
 
 ! Oldskool music
 
-title:Molecules|author:!Cube / Armada|position:1|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Fading Stars|author:Britelite|position:2|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Streaming|author:Jammic|position:3|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Rest In Pieces|author:Agemixer|position:4|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Superfly|author:Reed / Damage|position:5|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Tea Time Treat|author:Heatbeat / CNCD|position:6|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Psycho Killer|author:SounDemoN|position:7|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Valtavirtaa|author:Player One|position:8|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:Soothe as a|author:Dr. Iceman|position:9|sceneorg:oldskool/oldskool_music_compo-divx.avi
-title:suddenly|author:abaddon / damage|position:10|sceneorg:oldskool/oldskool_music_compo-divx.avi
+title:Molecules|author:!Cube / Armada|position:1|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Fading Stars|author:Britelite|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Streaming|author:Jammic|position:3|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Rest In Pieces|author:Agemixer|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Superfly|author:Reed / Damage|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Tea Time Treat|author:Heatbeat / CNCD|position:6|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Psycho Killer|author:SounDemoN|position:7|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Valtavirtaa|author:Player One|position:8|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:Soothe as a|author:Dr. Iceman|position:9|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
+title:suddenly|author:abaddon / damage|position:10|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
 
 ! Console demo
 
-title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:./assembly01/console/delicious.mpeg|sceneorg:console/ydl_deli.zip|pouet:3346|dtv:2771
+title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:./assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:2771
 title:e338|author:unique|position:2
 
 ! Combined 4k intro
 
-title:Humus 2|author:Exploder of PUSH Entertainment|position:1|media:.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|sceneorg:in4k/humus2.lzx|pouet:3378|dtv:5174
-title:King of Fuck|author:Spaceballs VS Ephidrena|position:2|sceneorg:in4k/kof.lha|pouet:3372|dtv:5892
-title:Motion sickness|author:yobi /wAMMA|position:3|sceneorg:in4k/motion_sickness_by_yobi__wamma.zip|pouet:6404
-title:Paridisio|author:Itchi / Lonely Coders|position:4|sceneorg:in4k/paridisio_by_itchi___lonely_coders.zip|pouet:8844
-title:Callback|author:Analog44/array|position:5|sceneorg:in4k/callback_by_analog44_array.zip|pouet:5739
-title:Acid Stars|author:Dairos/Nano|position:6|sceneorg:in4k/acid_stars_by_dairos_nano.zip|pouet:3304
-title:Corzi4k|author:Holisterit|position:7|sceneorg:in4k/corzi.zip|pouet:6282
+title:Humus 2|author:Exploder of PUSH Entertainment|position:1|media:.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in4k/humus2.lzx|pouet:3378|dtv:5174
+title:King of Fuck|author:Spaceballs VS Ephidrena|position:2|sceneorg:/parties/2001/assembly01/in4k/kof.lha|pouet:3372|dtv:5892
+title:Motion sickness|author:yobi /wAMMA|position:3|sceneorg:/parties/2001/assembly01/in4k/motion_sickness_by_yobi__wamma.zip|pouet:6404
+title:Paridisio|author:Itchi / Lonely Coders|position:4|sceneorg:/parties/2001/assembly01/in4k/paridisio_by_itchi___lonely_coders.zip|pouet:8844
+title:Callback|author:Analog44/array|position:5|sceneorg:/parties/2001/assembly01/in4k/callback_by_analog44_array.zip|pouet:5739
+title:Acid Stars|author:Dairos/Nano|position:6|sceneorg:/parties/2001/assembly01/in4k/acid_stars_by_dairos_nano.zip|pouet:3304
+title:Corzi4k|author:Holisterit|position:7|sceneorg:/parties/2001/assembly01/in4k/corzi.zip|pouet:6282
 
 ! Flash demo
 
-title:Häiriö|author:RNO|position:1|media:.oldies-goldies/compos/ASM01 Flash demo - 1st - Häiriö by RNO_h264_1856kbit.mp4|sceneorg:flash/hairio_by_rno.zip|pouet:4400
-title:Ufo vs Jurppi|author:Yazu / Kellari|position:2|sceneorg:flash/ufo_vs_jurppi_by_yazu_of_kellari.zip
-title:pixel:engine|author:Esko Ahonen|position:3|sceneorg:flash/pixel_engine_by_esko_ahonen.zip
-title:katse|author:kone|position:4|sceneorg:flash/katse_by_kone.zip
-title:Shiver|author:Outkazt|position:5|sceneorg:flash/shiver_by_outkazt.zip
-title:SUB7|author:subterfuge|position:6|sceneorg:flash/sub7_by_subterfuge.zip
-title:Lonestar|author:RedHillDrunks|position:7|sceneorg:flash/lonestar_by_redhilldrunks.zip
-title:years|author:some|position:8|sceneorg:flash/years_by_some.zip
-title:pipedope|author:jac|position:9|sceneorg:flash/pipedope_by_jac.zip
-title:Outsider|author:Rable|position:10|sceneorg:flash/outsider_by_rable.zip
-title:The Flex quadri|author:Lame Illusions Corp.|position:11|sceneorg:flash/the_flex_quadri_by_lame_illusions_corp_.zip
-title:Trafintu|author:Diza|position:12|sceneorg:flash/trafintu_by_diza.zip
+title:Häiriö|author:RNO|position:1|media:.oldies-goldies/compos/ASM01 Flash demo - 1st - Häiriö by RNO_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/flash/hairio_by_rno.zip|pouet:4400
+title:Ufo vs Jurppi|author:Yazu / Kellari|position:2|sceneorg:/parties/2001/assembly01/flash/ufo_vs_jurppi_by_yazu_of_kellari.zip
+title:pixel:engine|author:Esko Ahonen|position:3|sceneorg:/parties/2001/assembly01/flash/pixel_engine_by_esko_ahonen.zip
+title:katse|author:kone|position:4|sceneorg:/parties/2001/assembly01/flash/katse_by_kone.zip
+title:Shiver|author:Outkazt|position:5|sceneorg:/parties/2001/assembly01/flash/shiver_by_outkazt.zip
+title:SUB7|author:subterfuge|position:6|sceneorg:/parties/2001/assembly01/flash/sub7_by_subterfuge.zip
+title:Lonestar|author:RedHillDrunks|position:7|sceneorg:/parties/2001/assembly01/flash/lonestar_by_redhilldrunks.zip
+title:years|author:some|position:8|sceneorg:/parties/2001/assembly01/flash/years_by_some.zip
+title:pipedope|author:jac|position:9|sceneorg:/parties/2001/assembly01/flash/pipedope_by_jac.zip
+title:Outsider|author:Rable|position:10|sceneorg:/parties/2001/assembly01/flash/outsider_by_rable.zip
+title:The Flex quadri|author:Lame Illusions Corp.|position:11|sceneorg:/parties/2001/assembly01/flash/the_flex_quadri_by_lame_illusions_corp_.zip
+title:Trafintu|author:Diza|position:12|sceneorg:/parties/2001/assembly01/flash/trafintu_by_diza.zip
 
 ! WinAmp plugin
 
-title:B-Plugin|author:Suckho / Byterapers, Inc|position:1|sceneorg:plugin/b-plugin_by_suckho_of_byterapers_inc.zip
-title:Classical Notes|author:BuG / PuavoHard|position:2|sceneorg:plugin/classical_notes_by_bug_of_puavohard.zip
-title:Raytracer|author:A-Men PC|position:3|sceneorg:plugin/raytracer_by_a-men_pc.zip
+title:B-Plugin|author:Suckho / Byterapers, Inc|position:1|sceneorg:/parties/2001/assembly01/plugin/b-plugin_by_suckho_of_byterapers_inc.zip
+title:Classical Notes|author:BuG / PuavoHard|position:2|sceneorg:/parties/2001/assembly01/plugin/classical_notes_by_bug_of_puavohard.zip
+title:Raytracer|author:A-Men PC|position:3|sceneorg:/parties/2001/assembly01/plugin/raytracer_by_a-men_pc.zip
 
 ! Animation
 
-title:Show Our Power|author:gromit/mass|position:1|webfile:animation/show_our_power_by_gromit_mass.mpeg|sceneorg:anim/show_our_power_by_gromit_of_mass.mpg|pouet:5205|dtv:9387
-title:ken sent me|author:prick/mass|position:2|webfile:animation/ken_sent_me_by_prick_mass.mpeg|sceneorg:anim/ken_sent_me_by_prick_of_mass.mpg|pouet:5204|dtv:5841
-title:The Breach|author:Cow - Productions|position:3|webfile:animation/the_breach_by_cow_productions.mpeg|sceneorg:anim/the_breach_by_cow_productions.mpg|pouet:28625
-title:Redrik|author:Ari Marttinen|position:4|webfile:animation/redrik_by_ari_marttinen.mpeg|sceneorg:anim/redrik_by_ari_marttinen.mpg|pouet:28626
-title:Event Strings|author:Visualice & Jaakko|position:5|webfile:animation/event_strings_by_visualice_jaakko.mpeg|sceneorg:anim/event_strings_by_visualice_and_jaakko.mpg|pouet:28627
-title:Drug Wars 2 - Syrtec Strikes Back|author:Vortex Studios|position:6|webfile:animation/drug_wars_2_syrtec_strikes_back_by_vortex_studios.mpeg|sceneorg:anim/drug_wars_2_syrtec_strikes_back_by_vortex_studios.mpg|pouet:28628
-title:Pallo|author:Sampo Leino|position:7|webfile:animation/pallo_by_sampo_leino.mpeg|sceneorg:anim/pallo_by_sampo_leino.mpg|pouet:28629
-title:Genseiryu no Naihanchi no Kata|author:Wakarimasen|position:8|webfile:animation/genseiryu_no_naihanchi_no_kata_by_wakarimasen.mpeg|sceneorg:anim/naihanchi_by_wakarimasen.mpg|pouet:28630
-title:Fearless Robotz|author:Zeliar|position:9|webfile:animation/fearless_robotz_by_zeliar.mpeg|sceneorg:anim/fearless_robotz_by_zeliar.mpg|pouet:28631
-title:Yksin|author:PHS|position:10|webfile:animation/yksin_by_phs.mpeg|sceneorg:anim/yksin_by_phs.mpg|pouet:28632
-title:The Cube|author:T.E.O.|position:11|webfile:animation/the_cube_by_t_e_o.mpeg|sceneorg:anim/the_cube_by_teo.mpg|pouet:28633
-title:SPACE D00DS|author:Ananasmurka|position:12|webfile:animation/space_d00ds_by_ananasmurka.mpeg|sceneorg:anim/space_d00ds_by_ananasmurska.mpg|pouet:28634
-title:Mindbender|author:MAD|position:13|webfile:animation/mindbender_by_mad.mpeg|sceneorg:anim/mindbender_by_mad.mpg|pouet:28635
+title:Show Our Power|author:gromit/mass|position:1|webfile:animation/show_our_power_by_gromit_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/show_our_power_by_gromit_of_mass.mpg|pouet:5205|dtv:9387
+title:ken sent me|author:prick/mass|position:2|webfile:animation/ken_sent_me_by_prick_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/ken_sent_me_by_prick_of_mass.mpg|pouet:5204|dtv:5841
+title:The Breach|author:Cow - Productions|position:3|webfile:animation/the_breach_by_cow_productions.mpeg|sceneorg:/parties/2001/assembly01/anim/the_breach_by_cow_productions.mpg|pouet:28625
+title:Redrik|author:Ari Marttinen|position:4|webfile:animation/redrik_by_ari_marttinen.mpeg|sceneorg:/parties/2001/assembly01/anim/redrik_by_ari_marttinen.mpg|pouet:28626
+title:Event Strings|author:Visualice & Jaakko|position:5|webfile:animation/event_strings_by_visualice_jaakko.mpeg|sceneorg:/parties/2001/assembly01/anim/event_strings_by_visualice_and_jaakko.mpg|pouet:28627
+title:Drug Wars 2 - Syrtec Strikes Back|author:Vortex Studios|position:6|webfile:animation/drug_wars_2_syrtec_strikes_back_by_vortex_studios.mpeg|sceneorg:/parties/2001/assembly01/anim/drug_wars_2_syrtec_strikes_back_by_vortex_studios.mpg|pouet:28628
+title:Pallo|author:Sampo Leino|position:7|webfile:animation/pallo_by_sampo_leino.mpeg|sceneorg:/parties/2001/assembly01/anim/pallo_by_sampo_leino.mpg|pouet:28629
+title:Genseiryu no Naihanchi no Kata|author:Wakarimasen|position:8|webfile:animation/genseiryu_no_naihanchi_no_kata_by_wakarimasen.mpeg|sceneorg:/parties/2001/assembly01/anim/naihanchi_by_wakarimasen.mpg|pouet:28630
+title:Fearless Robotz|author:Zeliar|position:9|webfile:animation/fearless_robotz_by_zeliar.mpeg|sceneorg:/parties/2001/assembly01/anim/fearless_robotz_by_zeliar.mpg|pouet:28631
+title:Yksin|author:PHS|position:10|webfile:animation/yksin_by_phs.mpeg|sceneorg:/parties/2001/assembly01/anim/yksin_by_phs.mpg|pouet:28632
+title:The Cube|author:T.E.O.|position:11|webfile:animation/the_cube_by_t_e_o.mpeg|sceneorg:/parties/2001/assembly01/anim/the_cube_by_teo.mpg|pouet:28633
+title:SPACE D00DS|author:Ananasmurka|position:12|webfile:animation/space_d00ds_by_ananasmurka.mpeg|sceneorg:/parties/2001/assembly01/anim/space_d00ds_by_ananasmurska.mpg|pouet:28634
+title:Mindbender|author:MAD|position:13|webfile:animation/mindbender_by_mad.mpeg|sceneorg:/parties/2001/assembly01/anim/mindbender_by_mad.mpg|pouet:28635
 
 ! Wild demo
 
-title:LeGorSIKA|author:tAAt|position:1|webfile:wild_demo/legorsika_by_taat.mpeg|sceneorg:wild/legorsika_by_taat.mpg|pouet:3373
-title:World War 2 memoirs|author:Milan Kolarovic (a.k.a Acumen)|position:2|webfile:wild_demo/world_war_2_memoirs_by_milan_kolarovic_a_k_a_acumen.mpeg|sceneorg:wild/world_war_2_memoirs_by_milan_kolarovic.mpg|pouet:3374
-title:Jack|author:Trash Video|position:3|webfile:wild_demo/jack_by_trash_video.mpeg|sceneorg:wild/jack_by_trash_video.mpg
-title:lackluster: 13/10/99|author:sunflower|position:4|webfile:wild_demo/lackluster_13_10_99_by_sunflower.mpeg|sceneorg:wild/lackluster_131099_by_sunflower.mpg|pouet:3291|dtv:6049
-title:G-Force 2001|author:Pygmy Projects|position:5|webfile:wild_demo/g_force_2001_by_pygmy_projects.mpeg|sceneorg:wild/gforce_2001_by_pygmy_projects.mpg|pouet:3343
-title:päläri|author:Nyhjä Group|position:6|webfile:wild_demo/p_l_ri_by_nyhj_group.mpeg|sceneorg:wild/palari_by_nyhja_group.mpg
-title:hintti ja kuumoduli|author:united narsists|position:7|webfile:wild_demo/hintti_ja_kuumoduli_by_united_narsists.mpeg|sceneorg:wild/hintti_ja_kuumoduli_by_united_narsists.mpg
-title:Vuoden erämies tai -nainen|author:Unreal Voodoo|position:8|webfile:wild_demo/vuoden_er_mies_tai_nainen_by_unreal_voodoo.mpeg|sceneorg:wild/vuoden_eramies_tai_nainen_by_unreal_voodoo.mpg
-title:Mortal Fighter|author:Episent Productions|position:9|webfile:wild_demo/mortal_fighter_by_episent_productions.mpeg|sceneorg:wild/mortal_fighter_by_episent_productions.mpg|pouet:20919
-title:Special Delivery|author:Lantrix Productions|position:10|webfile:wild_demo/special_delivery_by_lantrix_productions.mpeg|sceneorg:wild/special_delivery_by_lantrix_productions.mpg
-title:Assembly for Dummies|author:Amazement|position:11|webfile:wild_demo/assembly_for_dummies_by_amazement.mpeg|sceneorg:wild/assembly_for_dummies_by_amazement.mpg
-title:TP Hunter|author:Euphore|position:12|webfile:wild_demo/tp_hunter_by_euphore.mpeg|sceneorg:wild/tp_hunter_trailer_by_euphore.mpg|pouet:6197
-title:Turhaa Paskaa|author:bORN|position:13|webfile:wild_demo/turhaa_paskaa_by_born.mpeg|sceneorg:wild/turhaa_paskaa_by_born.mpg
-title:Kaarlon Enkelit|author:WelhoFilmi|position:14|webfile:wild_demo/kaarlon_enkelit_by_welhofilmi.mpeg|sceneorg:wild/kaarlon_enkelit_by_welhofilmi.mpg
-title:Retaliation|author:Fire Mouse Productions|position:15|webfile:wild_demo/retaliation_by_fire_mouse_productions.mpeg|sceneorg:wild/retaliation_by_fire_mouse_productions.mpg
+title:LeGorSIKA|author:tAAt|position:1|webfile:wild_demo/legorsika_by_taat.mpeg|sceneorg:/parties/2001/assembly01/wild/legorsika_by_taat.mpg|pouet:3373
+title:World War 2 memoirs|author:Milan Kolarovic (a.k.a Acumen)|position:2|webfile:wild_demo/world_war_2_memoirs_by_milan_kolarovic_a_k_a_acumen.mpeg|sceneorg:/parties/2001/assembly01/wild/world_war_2_memoirs_by_milan_kolarovic.mpg|pouet:3374
+title:Jack|author:Trash Video|position:3|webfile:wild_demo/jack_by_trash_video.mpeg|sceneorg:/parties/2001/assembly01/wild/jack_by_trash_video.mpg
+title:lackluster: 13/10/99|author:sunflower|position:4|webfile:wild_demo/lackluster_13_10_99_by_sunflower.mpeg|sceneorg:/parties/2001/assembly01/wild/lackluster_131099_by_sunflower.mpg|pouet:3291|dtv:6049
+title:G-Force 2001|author:Pygmy Projects|position:5|webfile:wild_demo/g_force_2001_by_pygmy_projects.mpeg|sceneorg:/parties/2001/assembly01/wild/gforce_2001_by_pygmy_projects.mpg|pouet:3343
+title:päläri|author:Nyhjä Group|position:6|webfile:wild_demo/p_l_ri_by_nyhj_group.mpeg|sceneorg:/parties/2001/assembly01/wild/palari_by_nyhja_group.mpg
+title:hintti ja kuumoduli|author:united narsists|position:7|webfile:wild_demo/hintti_ja_kuumoduli_by_united_narsists.mpeg|sceneorg:/parties/2001/assembly01/wild/hintti_ja_kuumoduli_by_united_narsists.mpg
+title:Vuoden erämies tai -nainen|author:Unreal Voodoo|position:8|webfile:wild_demo/vuoden_er_mies_tai_nainen_by_unreal_voodoo.mpeg|sceneorg:/parties/2001/assembly01/wild/vuoden_eramies_tai_nainen_by_unreal_voodoo.mpg
+title:Mortal Fighter|author:Episent Productions|position:9|webfile:wild_demo/mortal_fighter_by_episent_productions.mpeg|sceneorg:/parties/2001/assembly01/wild/mortal_fighter_by_episent_productions.mpg|pouet:20919
+title:Special Delivery|author:Lantrix Productions|position:10|webfile:wild_demo/special_delivery_by_lantrix_productions.mpeg|sceneorg:/parties/2001/assembly01/wild/special_delivery_by_lantrix_productions.mpg
+title:Assembly for Dummies|author:Amazement|position:11|webfile:wild_demo/assembly_for_dummies_by_amazement.mpeg|sceneorg:/parties/2001/assembly01/wild/assembly_for_dummies_by_amazement.mpg
+title:TP Hunter|author:Euphore|position:12|webfile:wild_demo/tp_hunter_by_euphore.mpeg|sceneorg:/parties/2001/assembly01/wild/tp_hunter_trailer_by_euphore.mpg|pouet:6197
+title:Turhaa Paskaa|author:bORN|position:13|webfile:wild_demo/turhaa_paskaa_by_born.mpeg|sceneorg:/parties/2001/assembly01/wild/turhaa_paskaa_by_born.mpg
+title:Kaarlon Enkelit|author:WelhoFilmi|position:14|webfile:wild_demo/kaarlon_enkelit_by_welhofilmi.mpeg|sceneorg:/parties/2001/assembly01/wild/kaarlon_enkelit_by_welhofilmi.mpg
+title:Retaliation|author:Fire Mouse Productions|position:15|webfile:wild_demo/retaliation_by_fire_mouse_productions.mpeg|sceneorg:/parties/2001/assembly01/wild/retaliation_by_fire_mouse_productions.mpg
 
 ! Combined 64k intro
 
-title:Sonnet|author:Threestate|position:1|media:.oldies-goldies/compos/ASM01 64k - 1st - Sonnet by Threestate_h264_1856kbit.mp4|sceneorg:in64/3s-sonnet.zip|pouet:3282|dtv:9664
-title:Vaahtokarkit|author:Hipo / Lonely Coders|position:2|sceneorg:in64/vaahtokarkit_by_hipo___lonely_coders.zip|pouet:3368
-title:Exodus|author:foobug|position:3|sceneorg:in64/exodus_by_foobug.zip|pouet:3301
-title:Summerfrog|author:Fascination|position:4|sceneorg:in64/summerfrog_by_fascination.zip|pouet:3369
-title:we are cryonics|author:cryonics|position:5|sceneorg:in64/we_are_cryonics.zip|pouet:3293
-title:Ekoteko 42KB|author:tAAt 2001|position:6|sceneorg:in64/ekoteko_42kb_by_taat_2001.zip|pouet:3379
-title:Tripfish 2|author:Kewlers|position:7|sceneorg:in64/tripfish_2_by_kewlers.zip|pouet:3283|dtv:12814
-title:Misfit|author:Deus ex Machina|position:8|sceneorg:in64/dxm_misfit.zip
-title:Devolution|author:Scania Entertainment|position:9|sceneorg:in64/devolution.zip|pouet:6283
-title:Triplert|author:Itchi / Lonely Coders|position:10|sceneorg:in64/triplert_by_itchi___lonely_coders.zip|pouet:3371
-title:Etyyliefekti|author:Coral-CNCD-sYmptom-Inapt|position:11|sceneorg:in64/etyyliefekti_by_coral-cncd-symptom-inapt.zip|pouet:3308
-title:i can hear the future call|author:fairlight|position:12|sceneorg:in64/icanhear.zip|pouet:3294
-title:10 Facts of Life|author:SKR!|position:13|sceneorg:in64/10_facts_of_life_by_skr.zip|pouet:6296
-title:Stylee|author:Nano|position:14|sceneorg:in64/stylee_by_nano.zip
-title:Droplet vs Ocean|author:Digimind & Manwe|position:15|sceneorg:in64/droplet_vs_ocean_by_digimind___manwe.zip|pouet:3367
+title:Sonnet|author:Threestate|position:1|media:.oldies-goldies/compos/ASM01 64k - 1st - Sonnet by Threestate_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in64/3s-sonnet.zip|pouet:3282|dtv:9664
+title:Vaahtokarkit|author:Hipo / Lonely Coders|position:2|sceneorg:/parties/2001/assembly01/in64/vaahtokarkit_by_hipo___lonely_coders.zip|pouet:3368
+title:Exodus|author:foobug|position:3|sceneorg:/parties/2001/assembly01/in64/exodus_by_foobug.zip|pouet:3301
+title:Summerfrog|author:Fascination|position:4|sceneorg:/parties/2001/assembly01/in64/summerfrog_by_fascination.zip|pouet:3369
+title:we are cryonics|author:cryonics|position:5|sceneorg:/parties/2001/assembly01/in64/we_are_cryonics.zip|pouet:3293
+title:Ekoteko 42KB|author:tAAt 2001|position:6|sceneorg:/parties/2001/assembly01/in64/ekoteko_42kb_by_taat_2001.zip|pouet:3379
+title:Tripfish 2|author:Kewlers|position:7|sceneorg:/parties/2001/assembly01/in64/tripfish_2_by_kewlers.zip|pouet:3283|dtv:12814
+title:Misfit|author:Deus ex Machina|position:8|sceneorg:/parties/2001/assembly01/in64/dxm_misfit.zip
+title:Devolution|author:Scania Entertainment|position:9|sceneorg:/parties/2001/assembly01/in64/devolution.zip|pouet:6283
+title:Triplert|author:Itchi / Lonely Coders|position:10|sceneorg:/parties/2001/assembly01/in64/triplert_by_itchi___lonely_coders.zip|pouet:3371
+title:Etyyliefekti|author:Coral-CNCD-sYmptom-Inapt|position:11|sceneorg:/parties/2001/assembly01/in64/etyyliefekti_by_coral-cncd-symptom-inapt.zip|pouet:3308
+title:i can hear the future call|author:fairlight|position:12|sceneorg:/parties/2001/assembly01/in64/icanhear.zip|pouet:3294
+title:10 Facts of Life|author:SKR!|position:13|sceneorg:/parties/2001/assembly01/in64/10_facts_of_life_by_skr.zip|pouet:6296
+title:Stylee|author:Nano|position:14|sceneorg:/parties/2001/assembly01/in64/stylee_by_nano.zip
+title:Droplet vs Ocean|author:Digimind & Manwe|position:15|sceneorg:/parties/2001/assembly01/in64/droplet_vs_ocean_by_digimind___manwe.zip|pouet:3367
 
 ! Multichannel music
 
-title:Funkacider|author:Reed / TRSi & Damage|position:1|webfile:multichannel_music/funkacider_by_reed_trsi_damage.mp3|sceneorg:mmul/funkacider_by_reed_of_trsi_and_damage.zip
-title:Al-Bahar Al-Ahmar|author:gspot / recreation & bandwagon|position:2|webfile:multichannel_music/al_bahar_al_ahmar_by_gspot_recreation_bandwagon.mp3|sceneorg:mmul/al-bahar_al-ahmar_by_gspot_of_recreation_and_bandwagon.zip
-title:Hovering thru|author:Noa Nakai|position:3|webfile:multichannel_music/hovering_thru_by_noa_nakai.mp3|sceneorg:mmul/hovering_thru_by_noa_nakai.zip
-title:Umber Dawn|author:quasian|position:4|webfile:multichannel_music/umber_dawn_by_quasian.mp3|sceneorg:mmul/umber_dawn_by_quasian.zip
-title:an important thought|author:smash / fairlight+jecoute|position:5|webfile:multichannel_music/an_important_thought_by_smash_fairlight_jecoute.mp3|sceneorg:mmul/an_important_thought_by_smash_of_fairlight+jecoute.zip
-title:Babe K Won Snow Kebab|author:Kandy|position:6|webfile:multichannel_music/babe_k_won_snow_kebab_by_kandy.mp3|sceneorg:mmul/babe_k_won_snow_kebab_by_kandy.zip
-title:Slowmotion|author:Prophecy|position:7|webfile:multichannel_music/slowmotion_by_prophecy.mp3|sceneorg:mmul/slowmotion_by_prophecy.zip
-title:bjork7000|author:Aienn|position:8|webfile:multichannel_music/bjork7000_by_aienn.mp3|sceneorg:mmul/bjork7000_by_aienn.zip
-title:Double Dosage|author:Skeema|position:9|webfile:multichannel_music/double_dosage_by_skeema.mp3|sceneorg:mmul/double_dosage_by_skeema_.zip
-title:Beyond Reality|author:Complex|position:10|webfile:multichannel_music/beyond_reality_by_complex.mp3|sceneorg:mmul/beyond_reality_by_complex.zip
+title:Funkacider|author:Reed / TRSi & Damage|position:1|webfile:multichannel_music/funkacider_by_reed_trsi_damage.mp3|sceneorg:/parties/2001/assembly01/mmul/funkacider_by_reed_of_trsi_and_damage.zip
+title:Al-Bahar Al-Ahmar|author:gspot / recreation & bandwagon|position:2|webfile:multichannel_music/al_bahar_al_ahmar_by_gspot_recreation_bandwagon.mp3|sceneorg:/parties/2001/assembly01/mmul/al-bahar_al-ahmar_by_gspot_of_recreation_and_bandwagon.zip
+title:Hovering thru|author:Noa Nakai|position:3|webfile:multichannel_music/hovering_thru_by_noa_nakai.mp3|sceneorg:/parties/2001/assembly01/mmul/hovering_thru_by_noa_nakai.zip
+title:Umber Dawn|author:quasian|position:4|webfile:multichannel_music/umber_dawn_by_quasian.mp3|sceneorg:/parties/2001/assembly01/mmul/umber_dawn_by_quasian.zip
+title:an important thought|author:smash / fairlight+jecoute|position:5|webfile:multichannel_music/an_important_thought_by_smash_fairlight_jecoute.mp3|sceneorg:/parties/2001/assembly01/mmul/an_important_thought_by_smash_of_fairlight+jecoute.zip
+title:Babe K Won Snow Kebab|author:Kandy|position:6|webfile:multichannel_music/babe_k_won_snow_kebab_by_kandy.mp3|sceneorg:/parties/2001/assembly01/mmul/babe_k_won_snow_kebab_by_kandy.zip
+title:Slowmotion|author:Prophecy|position:7|webfile:multichannel_music/slowmotion_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/mmul/slowmotion_by_prophecy.zip
+title:bjork7000|author:Aienn|position:8|webfile:multichannel_music/bjork7000_by_aienn.mp3|sceneorg:/parties/2001/assembly01/mmul/bjork7000_by_aienn.zip
+title:Double Dosage|author:Skeema|position:9|webfile:multichannel_music/double_dosage_by_skeema.mp3|sceneorg:/parties/2001/assembly01/mmul/double_dosage_by_skeema_.zip
+title:Beyond Reality|author:Complex|position:10|webfile:multichannel_music/beyond_reality_by_complex.mp3|sceneorg:/parties/2001/assembly01/mmul/beyond_reality_by_complex.zip
 
 ! Raytraced graphics
 
-title:David vs Goliath|author:Oozie|position:1|webfile:raytraced_graphics/david_vs_goliath_by_oozie.png|sceneorg:grtc/david_vs_goliath_by_oozie.zip
-title:Draakko|author:kustaa|position:2|webfile:raytraced_graphics/draakko_by_kustaa.png|sceneorg:grtc/draakko_by_kustaa.zip
-title:Nutricious dinner|author:CoZaR|position:3|webfile:raytraced_graphics/nutricious_dinner_by_cozar.png|sceneorg:grtc/nutricious_dinner_by_cozar.zip
-title:Will of Iron|author:marzu|position:4|webfile:raytraced_graphics/will_of_iron_by_marzu.png|sceneorg:grtc/will_of_iron_by_marzu.zip
-title:lab|author:hazoc|position:5|webfile:raytraced_graphics/lab_by_hazoc.png|sceneorg:grtc/lab_by_hazoc.zip
-title:Whale Choir|author:st Rana|position:6|webfile:raytraced_graphics/whale_choir_by_st_rana.png|sceneorg:grtc/whale_choir_by_st_rana.zip
-title:Zeppelin Girl|author:DeCoder|position:7|webfile:raytraced_graphics/zeppelin_girl_by_decoder.png|sceneorg:grtc/zeppelin_girl_by_decoder.zip
-title:Hetki|author:Juha / maturefurk|position:8|webfile:raytraced_graphics/hetki_by_juha_maturefurk.png|sceneorg:grtc/hetki_by_juha___maturefurk.zip
-title:Ein Behringer Mixer|author:Huezo|position:9|webfile:raytraced_graphics/ein_behringer_mixer_by_huezo.png|sceneorg:grtc/ein_behringer_mixer_by_huezo.zip
-title:Sari's Room|author:Lactic Acid, Sari|position:10|webfile:raytraced_graphics/sari_s_room_by_lactic_acid_sari.png|sceneorg:grtc/sari_s_room_by_lactic_acid__sari.zip
-title:Android|author:Lassi Warsta|position:11|webfile:raytraced_graphics/android_by_lassi_warsta.png|sceneorg:grtc/android_by_lassi_warsta.zip
-title:Mölli|author:Partikle|position:12|webfile:raytraced_graphics/m_lli_by_partikle.png|sceneorg:grtc/molli_by_partikle.zip
-title:Avatar|author:Sarod|position:13|webfile:raytraced_graphics/avatar_by_sarod.png|sceneorg:grtc/avatar_by_sarod.zip
-title:Mecceri|author:A-J|position:14|webfile:raytraced_graphics/mecceri_by_a_j.png|sceneorg:grtc/mecceri_by_a-j.zip
-title:Jess|author:Frand|position:15|webfile:raytraced_graphics/jess_by_frand.png|sceneorg:grtc/jess_by_frand.zip
+title:David vs Goliath|author:Oozie|position:1|webfile:raytraced_graphics/david_vs_goliath_by_oozie.png|sceneorg:/parties/2001/assembly01/grtc/david_vs_goliath_by_oozie.zip
+title:Draakko|author:kustaa|position:2|webfile:raytraced_graphics/draakko_by_kustaa.png|sceneorg:/parties/2001/assembly01/grtc/draakko_by_kustaa.zip
+title:Nutricious dinner|author:CoZaR|position:3|webfile:raytraced_graphics/nutricious_dinner_by_cozar.png|sceneorg:/parties/2001/assembly01/grtc/nutricious_dinner_by_cozar.zip
+title:Will of Iron|author:marzu|position:4|webfile:raytraced_graphics/will_of_iron_by_marzu.png|sceneorg:/parties/2001/assembly01/grtc/will_of_iron_by_marzu.zip
+title:lab|author:hazoc|position:5|webfile:raytraced_graphics/lab_by_hazoc.png|sceneorg:/parties/2001/assembly01/grtc/lab_by_hazoc.zip
+title:Whale Choir|author:st Rana|position:6|webfile:raytraced_graphics/whale_choir_by_st_rana.png|sceneorg:/parties/2001/assembly01/grtc/whale_choir_by_st_rana.zip
+title:Zeppelin Girl|author:DeCoder|position:7|webfile:raytraced_graphics/zeppelin_girl_by_decoder.png|sceneorg:/parties/2001/assembly01/grtc/zeppelin_girl_by_decoder.zip
+title:Hetki|author:Juha / maturefurk|position:8|webfile:raytraced_graphics/hetki_by_juha_maturefurk.png|sceneorg:/parties/2001/assembly01/grtc/hetki_by_juha___maturefurk.zip
+title:Ein Behringer Mixer|author:Huezo|position:9|webfile:raytraced_graphics/ein_behringer_mixer_by_huezo.png|sceneorg:/parties/2001/assembly01/grtc/ein_behringer_mixer_by_huezo.zip
+title:Sari's Room|author:Lactic Acid, Sari|position:10|webfile:raytraced_graphics/sari_s_room_by_lactic_acid_sari.png|sceneorg:/parties/2001/assembly01/grtc/sari_s_room_by_lactic_acid__sari.zip
+title:Android|author:Lassi Warsta|position:11|webfile:raytraced_graphics/android_by_lassi_warsta.png|sceneorg:/parties/2001/assembly01/grtc/android_by_lassi_warsta.zip
+title:Mölli|author:Partikle|position:12|webfile:raytraced_graphics/m_lli_by_partikle.png|sceneorg:/parties/2001/assembly01/grtc/molli_by_partikle.zip
+title:Avatar|author:Sarod|position:13|webfile:raytraced_graphics/avatar_by_sarod.png|sceneorg:/parties/2001/assembly01/grtc/avatar_by_sarod.zip
+title:Mecceri|author:A-J|position:14|webfile:raytraced_graphics/mecceri_by_a_j.png|sceneorg:/parties/2001/assembly01/grtc/mecceri_by_a-j.zip
+title:Jess|author:Frand|position:15|webfile:raytraced_graphics/jess_by_frand.png|sceneorg:/parties/2001/assembly01/grtc/jess_by_frand.zip
 
 ! Combined demo
 
-title:Lapsuus|author:MatureFurk|position:1|media:.oldies-goldies/compos/ASM01 Demo - 1st - Lapsuus by MatureFurk_h264_1856kbit.mp4|sceneorg:demo/lapsuus.lha|pouet:3284|dtv:6070
-title:gerbera|author:moppi productions|position:2|media:.oldies-goldies/compos/ASM01 Demo - 2nd - gerbera by Moppi Productions_h264_1856kbit.mp4|sceneorg:demo/gerbera_by_moppi_productions.zip|pouet:3286|dtv:4525
-title:Recycled|author:Byterapers inc. & Doomsday|position:3|media:.oldies-goldies/compos/ASM01 Demo - 3rd - Recycled by Byterapers, doomsday_h264_1856kbit.mp4|sceneorg:demo/recycled.zip|pouet:3287
-title:Pirtuaalitodellisuus|author:tAAt 2001|position:4|media:.oldies-goldies/compos/ASM01 Demo - 4th - Pirtuaalitodellisuus by tAAt_h264_1856kbit.mp4|sceneorg:demo/pirtuaalitodellisuus_by_taat_2001.zip|pouet:3288|dtv:8064
-title:dose 2|author:mfx|position:5|sceneorg:demo/mfx_d2.tgz|pouet:3289
-title:ENERGIA|author:sunflower|position:6|media:.oldies-goldies/compos/ASM01 Demo - 6th - ENERGIA by Sunflower_h264_1856kbit.mp4|sceneorg:demo/energia_by_sunflower.zip|pouet:3290|dtv:3538
-title:Gist|author:Grin|position:7|media:.oldies-goldies/compos/ASM01 Demo - 7th - Gist by Grin_h264_1856kbit.mp4|sceneorg:demo/gist_by_grin.zip|pouet:3363|dtv:4559
-title:Horizontal Cool|author:CNCD|position:8|media:.oldies-goldies/compos/ASM01 Demo - 8th - Horizontal Cool by CNCD_h264_1856kbit.mp4|sceneorg:demo/horizontal_cool_by_cncd.zip|pouet:3321|dtv:5097
-title:Triple|author:Noice|position:9|media:.oldies-goldies/compos/ASM01 Demo - 9th - Triple by Noice_h264_1856kbit.mp4|sceneorg:demo/triple_by_noice.zip|pouet:3366|dtv:11125
-title:O B E|author:Virtual Dreams - Fairlight / Sumea Labs|position:10|media:.oldies-goldies/compos/ASM01 Demo - 10th - O B E by VD, Fairlight, sumea labs_h264_1856kbit.mp4|sceneorg:demo/obe.zip|pouet:3300|dtv:12434
-title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:./assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:demo/mwi-cull.lha|pouet:3364|dtv:2522
-title:Forsaken|author:Traction|position:12|media:.oldies-goldies/compos/ASM01 Demo - 12th - Forsaken by Traction_h264_1856kbit.mp4|sceneorg:demo/forsaken_by_traction_2.zip|pouet:3365|dtv:4163
-title:Gasoline 2|author:recreation|position:13|media:.oldies-goldies/compos/ASM01 Demo - 13th - Gasoline 2 by Recreation_h264_1856kbit.mp4|sceneorg:demo/gasoline_2_by_recreation.zip|pouet:3299|dtv:4460
-title:(we took the) greenpill|author:Haujobb|position:14|media:.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|sceneorg:demo/we_took_the__greenpill_by_haujobb.zip|pouet:3292|dtv:29
-title:Out Of Style 2|author:Storm Studios|position:15|media:.oldies-goldies/compos/ASM01 Demo - 15th - Out of Style 2 by Storm Studios_h264_1856kbit.mp4|sceneorg:demo/out_of_style_2_by_storm_studios.zip|pouet:3329|dtv:7709
+title:Lapsuus|author:MatureFurk|position:1|media:.oldies-goldies/compos/ASM01 Demo - 1st - Lapsuus by MatureFurk_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/lapsuus.lha|pouet:3284|dtv:6070
+title:gerbera|author:moppi productions|position:2|media:.oldies-goldies/compos/ASM01 Demo - 2nd - gerbera by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gerbera_by_moppi_productions.zip|pouet:3286|dtv:4525
+title:Recycled|author:Byterapers inc. & Doomsday|position:3|media:.oldies-goldies/compos/ASM01 Demo - 3rd - Recycled by Byterapers, doomsday_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/recycled.zip|pouet:3287
+title:Pirtuaalitodellisuus|author:tAAt 2001|position:4|media:.oldies-goldies/compos/ASM01 Demo - 4th - Pirtuaalitodellisuus by tAAt_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/pirtuaalitodellisuus_by_taat_2001.zip|pouet:3288|dtv:8064
+title:dose 2|author:mfx|position:5|sceneorg:/parties/2001/assembly01/demo/mfx_d2.tgz|pouet:3289
+title:ENERGIA|author:sunflower|position:6|media:.oldies-goldies/compos/ASM01 Demo - 6th - ENERGIA by Sunflower_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/energia_by_sunflower.zip|pouet:3290|dtv:3538
+title:Gist|author:Grin|position:7|media:.oldies-goldies/compos/ASM01 Demo - 7th - Gist by Grin_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gist_by_grin.zip|pouet:3363|dtv:4559
+title:Horizontal Cool|author:CNCD|position:8|media:.oldies-goldies/compos/ASM01 Demo - 8th - Horizontal Cool by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/horizontal_cool_by_cncd.zip|pouet:3321|dtv:5097
+title:Triple|author:Noice|position:9|media:.oldies-goldies/compos/ASM01 Demo - 9th - Triple by Noice_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/triple_by_noice.zip|pouet:3366|dtv:11125
+title:O B E|author:Virtual Dreams - Fairlight / Sumea Labs|position:10|media:.oldies-goldies/compos/ASM01 Demo - 10th - O B E by VD, Fairlight, sumea labs_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/obe.zip|pouet:3300|dtv:12434
+title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:./assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:/parties/2001/assembly01/demo/mwi-cull.lha|pouet:3364|dtv:2522
+title:Forsaken|author:Traction|position:12|media:.oldies-goldies/compos/ASM01 Demo - 12th - Forsaken by Traction_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/forsaken_by_traction_2.zip|pouet:3365|dtv:4163
+title:Gasoline 2|author:recreation|position:13|media:.oldies-goldies/compos/ASM01 Demo - 13th - Gasoline 2 by Recreation_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gasoline_2_by_recreation.zip|pouet:3299|dtv:4460
+title:(we took the) greenpill|author:Haujobb|position:14|media:.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/we_took_the__greenpill_by_haujobb.zip|pouet:3292|dtv:29
+title:Out Of Style 2|author:Storm Studios|position:15|media:.oldies-goldies/compos/ASM01 Demo - 15th - Out of Style 2 by Storm Studios_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/out_of_style_2_by_storm_studios.zip|pouet:3329|dtv:7709

@@ -17,26 +17,26 @@ title:unknown|author:Darra / Damones|position:12
 
 ! PC intro
 
-title:Eclipse|author:EMF|position:1|sceneorg:100k/emf_ecl.zip|pouet:2589
-title:Debut|author:Darkzone|position:2|sceneorg:100k/debut_dz.zip|pouet:5055
-title:Tangle|author:Epical|position:3|sceneorg:100k/tangle.zip|pouet:4097
-title:Locomotion|author:Onyx|position:4|sceneorg:100k/locom.zip|pouet:9406
-title:Motion|author:Avalanche|position:5|sceneorg:100k/motion.zip|pouet:5513
-title:Plan-B|author:Sonic-PC|position:6|sceneorg:100k/planb.zip|pouet:8738
-title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:100k/va.zip|pouet:3001
-title:Stardream|author:Surprise! prod.|position:8|sceneorg:100k/stardrea.zip|pouet:2052
-title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:100k/j!p.zip|pouet:8737
+title:Eclipse|author:EMF|position:1|sceneorg:/parties/1993/assembly93/100k/emf_ecl.zip|pouet:2589
+title:Debut|author:Darkzone|position:2|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|pouet:5055
+title:Tangle|author:Epical|position:3|sceneorg:/parties/1993/assembly93/100k/tangle.zip|pouet:4097
+title:Locomotion|author:Onyx|position:4|sceneorg:/parties/1993/assembly93/100k/locom.zip|pouet:9406
+title:Motion|author:Avalanche|position:5|sceneorg:/parties/1993/assembly93/100k/motion.zip|pouet:5513
+title:Plan-B|author:Sonic-PC|position:6|sceneorg:/parties/1993/assembly93/100k/planb.zip|pouet:8738
+title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:/parties/1993/assembly93/100k/va.zip|pouet:3001
+title:Stardream|author:Surprise! prod.|position:8|sceneorg:/parties/1993/assembly93/100k/stardrea.zip|pouet:2052
+title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:/parties/1993/assembly93/100k/j!p.zip|pouet:8737
 title:Fraust|author:RatCompany|position:10
 title:Preview|author:Irresistible Works|position:11|pouet:51327
-title:Urgent|author:Pentagon|position:11|sceneorg:100k/urgent.zip|pouet:29652
+title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/urgent.zip|pouet:29652
 
 ! PC music multichannel
 
-title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:mmul/icefront.zip
-title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:mmul/cant.zip
+title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/icefront.zip
+title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/cant.zip
 title:Inferno|author:Pentagon|position:3
 title:Atomic II|author:Leinad / Avalanche|position:4
-title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:mmul/strshine.zip
+title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/strshine.zip
 title:Heartbeat|author:Tonedeaf / Extreme|position:6
 title:Time running out|author:Prism / Wish|position:7
 title:Opossumi|author:Mikki / Epical|position:8
@@ -97,15 +97,15 @@ title:Transfusion|author:Extacy|position:8|pouet:17121
 
 ! PC demo
 
-title:Second Reality|author:Future Crew|position:1|sceneorg:demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:63|dtv:9223
-title:Optic Nerve|author:Silents|position:2|sceneorg:demo/opticnrv.zip|pouet:7658
-title:Elements|author:Xography|position:3|sceneorg:demo/elements.zip|pouet:852
-title:Saga|author:Dust|position:4|sceneorg:demo/sagadust.zip|pouet:2585
+title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:63|dtv:9223
+title:Optic Nerve|author:Silents|position:2|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|pouet:7658
+title:Elements|author:Xography|position:3|sceneorg:/parties/1993/assembly93/demo/elements.zip|pouet:852
+title:Saga|author:Dust|position:4|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|pouet:2585
 title:Extermination|author:Extreme|position:5
 title:Fruits of Indolence|author:Virtual Visions|position:6
-title:Wasted time|author:Paranoids|position:7|sceneorg:demo/wasted.zip
-title:Obsession|author:Black Rain|position:8|sceneorg:demo/obsess.zip|pouet:51323
-title:Phenomenon|author:Alphaforce|position:9|sceneorg:demo/phenom.zip
+title:Wasted time|author:Paranoids|position:7|sceneorg:/parties/1993/assembly93/demo/wasted.zip
+title:Obsession|author:Black Rain|position:8|sceneorg:/parties/1993/assembly93/demo/obsess.zip|pouet:51323
+title:Phenomenon|author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip
 
 ! PC music 4 channel
 
@@ -114,7 +114,7 @@ title:Schwinging the Swing|author:Cybelius / Sonic-PC|position:2
 title:Teaspoon|author:Leinad / Avalanche|position:3
 title:Sounds of War|author:Tonedeaf / Extreme|position:4
 title:Pork Chop|author:Executioner|position:5
-title:Phantoms|author:JayJay / Progress|position:6|sceneorg:demo/phenom.zip
+title:Phantoms|author:JayJay / Progress|position:6|sceneorg:/parties/1993/assembly93/demo/phenom.zip
 title:Blackbird|author:Gibson / Extreme|position:7
 title:Hidden Shadows|author:Blizzard / Epical|position:8
 title:Fast Changer II|author:Mellow-D / Sonic-PC|position:9

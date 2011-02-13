@@ -11,21 +11,21 @@ title:Brainscanaloop|author:Barracuda/Extend|position:6
 
 ! 4 channel music
 
-title:Funkyeeh|author:Theseus/Anathema|position:1|webfile:4_channel_music/funkyeeh_by_theseus_anathema.mp3|sceneorg:m4ch/funkyeeh.zip
-title:Illumination|author:Cube/Dee|position:2|webfile:4_channel_music/illumination_by_cube_dee.mp3|sceneorg:m4ch/illumina.zip
-title:Crayfish Party|author:Lizardking/Razor 1911|position:3|webfile:4_channel_music/crayfish_party_by_lizardking_razor_1911.mp3|sceneorg:m4ch/cray.zip
-title:Aroma of northwest|author:Breeze/Capacala|position:4|webfile:4_channel_music/aroma_of_northwest_by_breeze_capacala.mp3|sceneorg:m4ch/aromaonw.zip
-title:Topless|author:Oxide/Sonik|position:5|webfile:4_channel_music/topless_by_oxide_sonik.mp3|sceneorg:m4ch/topless.zip
-title:Jormuan Lava|author:Ukulele/Banal Projects|position:6|webfile:4_channel_music/jormuan_lava_by_ukulele_banal_projects.mp3|sceneorg:m4ch/jormua.zip
-title:Rymdfunk|author:Radix/Limited Edition|position:7|webfile:4_channel_music/rymdfunk_by_radix_limited_edition.mp3|sceneorg:m4ch/rymdfunk.zip
-title:Suuntaviivat|author:Dizzy/CNCD|position:8|webfile:4_channel_music/suuntaviivat_by_dizzy_cncd.mp3|sceneorg:m4ch/suunta.zip
-title:Get it|author:Brem/Bomb Squad|position:9|webfile:4_channel_music/get_it_by_brem_bomb_squad.mp3|sceneorg:m4ch/getit.zip
-title:Pop Huora|author:Groo/CNCD|position:10|webfile:4_channel_music/pop_huora_by_groo_cncd.mp3|sceneorg:m4ch/groovecn.zip
-title:Balthazar|author:Andy/Banal Projects|position:11|webfile:4_channel_music/balthazar_by_andy_banal_projects.mp3|sceneorg:m4ch/balthasa.zip
+title:Funkyeeh|author:Theseus/Anathema|position:1|webfile:4_channel_music/funkyeeh_by_theseus_anathema.mp3|sceneorg:/parties/1995/assembly95/m4ch/funkyeeh.zip
+title:Illumination|author:Cube/Dee|position:2|webfile:4_channel_music/illumination_by_cube_dee.mp3|sceneorg:/parties/1995/assembly95/m4ch/illumina.zip
+title:Crayfish Party|author:Lizardking/Razor 1911|position:3|webfile:4_channel_music/crayfish_party_by_lizardking_razor_1911.mp3|sceneorg:/parties/1995/assembly95/m4ch/cray.zip
+title:Aroma of northwest|author:Breeze/Capacala|position:4|webfile:4_channel_music/aroma_of_northwest_by_breeze_capacala.mp3|sceneorg:/parties/1995/assembly95/m4ch/aromaonw.zip
+title:Topless|author:Oxide/Sonik|position:5|webfile:4_channel_music/topless_by_oxide_sonik.mp3|sceneorg:/parties/1995/assembly95/m4ch/topless.zip
+title:Jormuan Lava|author:Ukulele/Banal Projects|position:6|webfile:4_channel_music/jormuan_lava_by_ukulele_banal_projects.mp3|sceneorg:/parties/1995/assembly95/m4ch/jormua.zip
+title:Rymdfunk|author:Radix/Limited Edition|position:7|webfile:4_channel_music/rymdfunk_by_radix_limited_edition.mp3|sceneorg:/parties/1995/assembly95/m4ch/rymdfunk.zip
+title:Suuntaviivat|author:Dizzy/CNCD|position:8|webfile:4_channel_music/suuntaviivat_by_dizzy_cncd.mp3|sceneorg:/parties/1995/assembly95/m4ch/suunta.zip
+title:Get it|author:Brem/Bomb Squad|position:9|webfile:4_channel_music/get_it_by_brem_bomb_squad.mp3|sceneorg:/parties/1995/assembly95/m4ch/getit.zip
+title:Pop Huora|author:Groo/CNCD|position:10|webfile:4_channel_music/pop_huora_by_groo_cncd.mp3|sceneorg:/parties/1995/assembly95/m4ch/groovecn.zip
+title:Balthazar|author:Andy/Banal Projects|position:11|webfile:4_channel_music/balthazar_by_andy_banal_projects.mp3|sceneorg:/parties/1995/assembly95/m4ch/balthasa.zip
 title:The Robot Kingdom|author:Boheme/Bomb Squad|position:12
-title:Holocaust|author:Sphinx/Fanatic|position:13|webfile:4_channel_music/holocaust_by_sphinx_fanatic.mp3|sceneorg:m4ch/holocaus.zip
-title:Chuynia|author:Yoga/United Artists|position:14|webfile:4_channel_music/chuynia_by_yoga_united_artists.mp3|sceneorg:m4ch/chujnia.zip
-title:Blowing House|author:Dj. Roberto|position:15|webfile:4_channel_music/blowing_house_by_dj_roberto.mp3|sceneorg:m4ch/houseblw.zip
+title:Holocaust|author:Sphinx/Fanatic|position:13|webfile:4_channel_music/holocaust_by_sphinx_fanatic.mp3|sceneorg:/parties/1995/assembly95/m4ch/holocaus.zip
+title:Chuynia|author:Yoga/United Artists|position:14|webfile:4_channel_music/chuynia_by_yoga_united_artists.mp3|sceneorg:/parties/1995/assembly95/m4ch/chujnia.zip
+title:Blowing House|author:Dj. Roberto|position:15|webfile:4_channel_music/blowing_house_by_dj_roberto.mp3|sceneorg:/parties/1995/assembly95/m4ch/houseblw.zip
 
 ! C64 graphics
 
@@ -35,39 +35,39 @@ title:Animaali|author:Votka/Pullo|position:3
 
 ! PC 4K intro
 
-title:Animate|author:Schwartz|position:1|sceneorg:in4k/animate.zip|pouet:2859
-title:Heaven|author:Barti!/Nooon|position:2|sceneorg:in4k/nooon_he.zip|pouet:1105
-title:Crashtest|author:J-P/Rebels|position:3|sceneorg:in4k/crshtest.zip|pouet:6765
-title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:in4k/chrome.zip|pouet:15089
-title:Havoc|author:Vicious/Extreme|position:5|sceneorg:in4k/havoc.zip|pouet:6766
-title:Speed|author:Codex/Paranoids|position:6|sceneorg:in4k/speed.zip|pouet:6767
-title:Complexity|author:Blala/Byteam|position:7|sceneorg:in4k/clxfinal.zip|pouet:6768
-title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:in4k/dragon.zip|pouet:6769
-title:Bit|author:-|position:9|sceneorg:in4k/bit.zip|pouet:5467
-title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:in4k/loop01.zip|pouet:15502
-title:Ahrum|author:-|position:11|sceneorg:in4k/ahrum.zip
-title:Only for few bytes|author:Lunatic|position:12|sceneorg:in4k/offbyte.zip
-title:Redrum|author:Galvados/Jamm|position:13|sceneorg:in4k/redrum.zip|pouet:1199
-title:Strictly 4kb|author:-|position:14|sceneorg:in4k/strictly.zip
-title:Shine|author:-|position:15|sceneorg:in4k/shine.zip
+title:Animate|author:Schwartz|position:1|sceneorg:/parties/1995/assembly95/in4k/animate.zip|pouet:2859
+title:Heaven|author:Barti!/Nooon|position:2|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|pouet:1105
+title:Crashtest|author:J-P/Rebels|position:3|sceneorg:/parties/1995/assembly95/in4k/crshtest.zip|pouet:6765
+title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:/parties/1995/assembly95/in4k/chrome.zip|pouet:15089
+title:Havoc|author:Vicious/Extreme|position:5|sceneorg:/parties/1995/assembly95/in4k/havoc.zip|pouet:6766
+title:Speed|author:Codex/Paranoids|position:6|sceneorg:/parties/1995/assembly95/in4k/speed.zip|pouet:6767
+title:Complexity|author:Blala/Byteam|position:7|sceneorg:/parties/1995/assembly95/in4k/clxfinal.zip|pouet:6768
+title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:/parties/1995/assembly95/in4k/dragon.zip|pouet:6769
+title:Bit|author:-|position:9|sceneorg:/parties/1995/assembly95/in4k/bit.zip|pouet:5467
+title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:/parties/1995/assembly95/in4k/loop01.zip|pouet:15502
+title:Ahrum|author:-|position:11|sceneorg:/parties/1995/assembly95/in4k/ahrum.zip
+title:Only for few bytes|author:Lunatic|position:12|sceneorg:/parties/1995/assembly95/in4k/offbyte.zip
+title:Redrum|author:Galvados/Jamm|position:13|sceneorg:/parties/1995/assembly95/in4k/redrum.zip|pouet:1199
+title:Strictly 4kb|author:-|position:14|sceneorg:/parties/1995/assembly95/in4k/strictly.zip
+title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zip
 
 ! PC demo
 
-title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:demo/stars.zip|pouet:301|dtv:9896
-title:Psychic link|author:Juice|position:2|sceneorg:demo/juice11.zip|pouet:69
-title:DX Project|author:RealTech|position:3|sceneorg:demo/dxproj.zip|pouet:955
-title:Zweilight Zone|author:Capacala|position:4|sceneorg:demo/cc_2lite.zip|pouet:2503
-title:Rebel Mind|author:Epical|position:5|sceneorg:demo/rebelmnd.zip|pouet:6895
-title:Higher Desire|author:Miracle|position:6|sceneorg:demo/mcl_hd.zip|pouet:6773
-title:Television|author:Orange|position:7|sceneorg:demo/tv.zip|pouet:2175
-title:Optimal Torque|author:Dubius|position:8|sceneorg:demo/optimal.zip|pouet:3625
-title:Little Green Men|author:Kosmic|position:9|sceneorg:demo/lgm_kosm.zip|pouet:2753
-title:Figthing for something|author:JapoTek|position:10|sceneorg:demo/jfight.zip|pouet:5042
-title:Mystery|author:Masque|position:11|sceneorg:demo/msqmyst.zip|pouet:6909
-title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:demo/zation.zip|pouet:812
-title:Overflow|author:Black Rain|position:13|sceneorg:demo/tbr_ovrf.zip|pouet:51319
-title:Fever|author:Deus ex Machina|position:14|sceneorg:demo/demfever.zip|pouet:33833
-title:Elegant|author:Simplicity|position:15|sceneorg:demo/elegance.zip|pouet:51320
+title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:9896
+title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69
+title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955
+title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503
+title:Rebel Mind|author:Epical|position:5|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|pouet:6895
+title:Higher Desire|author:Miracle|position:6|sceneorg:/parties/1995/assembly95/demo/mcl_hd.zip|pouet:6773
+title:Television|author:Orange|position:7|sceneorg:/parties/1995/assembly95/demo/tv.zip|pouet:2175
+title:Optimal Torque|author:Dubius|position:8|sceneorg:/parties/1995/assembly95/demo/optimal.zip|pouet:3625
+title:Little Green Men|author:Kosmic|position:9|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|pouet:2753
+title:Figthing for something|author:JapoTek|position:10|sceneorg:/parties/1995/assembly95/demo/jfight.zip|pouet:5042
+title:Mystery|author:Masque|position:11|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|pouet:6909
+title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:/parties/1995/assembly95/demo/zation.zip|pouet:812
+title:Overflow|author:Black Rain|position:13|sceneorg:/parties/1995/assembly95/demo/tbr_ovrf.zip|pouet:51319
+title:Fever|author:Deus ex Machina|position:14|sceneorg:/parties/1995/assembly95/demo/demfever.zip|pouet:33833
+title:Elegant|author:Simplicity|position:15|sceneorg:/parties/1995/assembly95/demo/elegance.zip|pouet:51320
 
 ! C64 demo
 
@@ -114,20 +114,20 @@ title:Domination's Dentro|author:Domination|position:13
 
 ! Animation
 
-title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:anim/flow.mpg|pouet:2567
-title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:anim/asm_pulp_divx.avi|pouet:5357
-title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:anim/space01.avi|pouet:15502
-title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:anim/chess.mpg|pouet:28640
-title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:anim/fline.mpg|pouet:28641
-title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:anim/ride.mpg|pouet:28642
-title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:anim/dawn.mpg|pouet:28643
-title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:anim/bomb.mpg|pouet:28644
-title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:anim/insel.mpg|pouet:28645
-title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:anim/cityscpe.mpg|pouet:28646
-title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:anim/choicecd.mpg|pouet:28647
-title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:anim/aaa.mpg|pouet:28648
-title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:anim/nih.mpg|pouet:28649
-title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:anim/atlantis.mpg|pouet:28650
+title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:/parties/1995/assembly95/anim/flow.mpg|pouet:2567
+title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|pouet:5357
+title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:/parties/1995/assembly95/anim/space01.avi|pouet:15502
+title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:/parties/1995/assembly95/anim/chess.mpg|pouet:28640
+title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:/parties/1995/assembly95/anim/fline.mpg|pouet:28641
+title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:/parties/1995/assembly95/anim/ride.mpg|pouet:28642
+title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:/parties/1995/assembly95/anim/dawn.mpg|pouet:28643
+title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:/parties/1995/assembly95/anim/bomb.mpg|pouet:28644
+title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:/parties/1995/assembly95/anim/insel.mpg|pouet:28645
+title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:/parties/1995/assembly95/anim/cityscpe.mpg|pouet:28646
+title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:/parties/1995/assembly95/anim/choicecd.mpg|pouet:28647
+title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:/parties/1995/assembly95/anim/aaa.mpg|pouet:28648
+title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:/parties/1995/assembly95/anim/nih.mpg|pouet:28649
+title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|pouet:28650
 
 ! Amiga 40k intro
 
@@ -149,54 +149,54 @@ title:Kintro|author:Diffusion|position:15|pouet:18459
 
 ! Graphics
 
-title:Fiction|author:Visualize/Jamm|position:1|webfile:graphics/fiction_by_visualize_jamm.png|sceneorg:grfx/asm95gfx.zip
-title:Mystery|author:Artifec/Complex|position:2|webfile:graphics/mystery_by_artifec_complex.png|sceneorg:grfx/asm95gfx.zip
-title:Agony|author:Jogi/Mellow Chips|position:3|webfile:graphics/agony_by_jogi_mellow_chips.png|sceneorg:grfx/asm95gfx.zip
-title:Valkyria|author:Visigoth/Pure Resistance|position:4|webfile:graphics/valkyria_by_visigoth_pure_resistance.png|sceneorg:grfx/asm95gfx.zip
-title:Mustafa|author:Kube/CNCD|position:5|webfile:graphics/mustafa_by_kube_cncd.png|sceneorg:grfx/asm95gfx.zip
-title:Morphosis|author:Kal/Astroidea|position:6|webfile:graphics/morphosis_by_kal_astroidea.png|sceneorg:grfx/asm95gfx.zip
-title:An axe|author:Yoga/United Artists|position:7|webfile:graphics/an_axe_by_yoga_united_artists.gif|sceneorg:grfx/an_axe.zip
-title:Phobic|author:IronMan|position:8|webfile:graphics/phobic_by_ironman.gif|sceneorg:grfx/phobic.zip
-title:Pain 2|author:Mazor/Paragon|position:9|webfile:graphics/pain_2_by_mazor_paragon.png|sceneorg:grfx/asm95gfx.zip
-title:Baby|author:Facet&Super Nao/Lemon.|position:10|webfile:graphics/baby_by_facet_super_nao_lemon.gif|sceneorg:grfx/baby.zip
-title:NO|author:Wolf/X-Trade|position:11|webfile:graphics/no_by_wolf_x_trade.png|sceneorg:grfx/asm95gfx.zip
-title:Grandma|author:Tyshdomolo/Abyss|position:12|webfile:graphics/grandma_by_tyshdomolo_abyss.gif|sceneorg:grfx/grandma.zip
-title:Nut Fish|author:Zeb/Orange|position:13|webfile:graphics/nut_fish_by_zeb_orange.png|sceneorg:grfx/asm95gfx.zip
-title:Blend|author:Neutesten/Zirkonium|position:14|webfile:graphics/blend_by_neutesten_zirkonium.png|sceneorg:grfx/asm95gfx.zip
-title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cncd.png|sceneorg:grfx/asm95gfx.zip
+title:Fiction|author:Visualize/Jamm|position:1|webfile:graphics/fiction_by_visualize_jamm.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Mystery|author:Artifec/Complex|position:2|webfile:graphics/mystery_by_artifec_complex.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Agony|author:Jogi/Mellow Chips|position:3|webfile:graphics/agony_by_jogi_mellow_chips.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Valkyria|author:Visigoth/Pure Resistance|position:4|webfile:graphics/valkyria_by_visigoth_pure_resistance.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Mustafa|author:Kube/CNCD|position:5|webfile:graphics/mustafa_by_kube_cncd.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Morphosis|author:Kal/Astroidea|position:6|webfile:graphics/morphosis_by_kal_astroidea.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:An axe|author:Yoga/United Artists|position:7|webfile:graphics/an_axe_by_yoga_united_artists.gif|sceneorg:/parties/1995/assembly95/grfx/an_axe.zip
+title:Phobic|author:IronMan|position:8|webfile:graphics/phobic_by_ironman.gif|sceneorg:/parties/1995/assembly95/grfx/phobic.zip
+title:Pain 2|author:Mazor/Paragon|position:9|webfile:graphics/pain_2_by_mazor_paragon.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Baby|author:Facet&Super Nao/Lemon.|position:10|webfile:graphics/baby_by_facet_super_nao_lemon.gif|sceneorg:/parties/1995/assembly95/grfx/baby.zip
+title:NO|author:Wolf/X-Trade|position:11|webfile:graphics/no_by_wolf_x_trade.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Grandma|author:Tyshdomolo/Abyss|position:12|webfile:graphics/grandma_by_tyshdomolo_abyss.gif|sceneorg:/parties/1995/assembly95/grfx/grandma.zip
+title:Nut Fish|author:Zeb/Orange|position:13|webfile:graphics/nut_fish_by_zeb_orange.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Blend|author:Neutesten/Zirkonium|position:14|webfile:graphics/blend_by_neutesten_zirkonium.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cncd.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
 
 ! PC 64K intro
 
-title:Drift|author:Wild Light|position:1|sceneorg:in64/drift.zip|pouet:2184
-title:Stickman's World|author:COMA|position:2|sceneorg:in64/stick.zip|pouet:1139
-title:Bill G Force|author:Complex|position:3|sceneorg:in64/clx_bgfr.zip|pouet:68
-title:Nation Zero|author:Jamm|position:4|sceneorg:in64/nation0.zip|pouet:1366
-title:Detour|author:Halcyon|position:5|sceneorg:in64/detour.zip|pouet:1270
-title:Believe|author:Valhalla|position:6|sceneorg:in64/believe.zip|pouet:1151
-title:Alchymia|author:Mist|position:7|sceneorg:in64/alchymia.zip|pouet:2305
-title:Reality Impact|author:Halo|position:8|sceneorg:in64/realityi.zip|pouet:34231
-title:Camera|author:Symptom|position:9|sceneorg:in64/camera.zip|pouet:5092
-title:Pied|author:Abaddon|position:10|sceneorg:in64/pied.zip|pouet:17517
-title:Dream|author:Epsilon|position:11|sceneorg:in64/dream_ep.zip|pouet:6772
-title:Cocaholic|author:Hazard|position:12|sceneorg:in64/cocaholc.zip|pouet:6774
-title:Tam|author:Anarchy|position:13|sceneorg:in64/tam.zip|pouet:34232
-title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:in64/noclass.zip|pouet:34233
-title:Byte me|author:@|position:15|sceneorg:in64/byteme.zip|pouet:6318
+title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184
+title:Stickman's World|author:COMA|position:2|sceneorg:/parties/1995/assembly95/in64/stick.zip|pouet:1139
+title:Bill G Force|author:Complex|position:3|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|pouet:68
+title:Nation Zero|author:Jamm|position:4|sceneorg:/parties/1995/assembly95/in64/nation0.zip|pouet:1366
+title:Detour|author:Halcyon|position:5|sceneorg:/parties/1995/assembly95/in64/detour.zip|pouet:1270
+title:Believe|author:Valhalla|position:6|sceneorg:/parties/1995/assembly95/in64/believe.zip|pouet:1151
+title:Alchymia|author:Mist|position:7|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|pouet:2305
+title:Reality Impact|author:Halo|position:8|sceneorg:/parties/1995/assembly95/in64/realityi.zip|pouet:34231
+title:Camera|author:Symptom|position:9|sceneorg:/parties/1995/assembly95/in64/camera.zip|pouet:5092
+title:Pied|author:Abaddon|position:10|sceneorg:/parties/1995/assembly95/in64/pied.zip|pouet:17517
+title:Dream|author:Epsilon|position:11|sceneorg:/parties/1995/assembly95/in64/dream_ep.zip|pouet:6772
+title:Cocaholic|author:Hazard|position:12|sceneorg:/parties/1995/assembly95/in64/cocaholc.zip|pouet:6774
+title:Tam|author:Anarchy|position:13|sceneorg:/parties/1995/assembly95/in64/tam.zip|pouet:34232
+title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:/parties/1995/assembly95/in64/noclass.zip|pouet:34233
+title:Byte me|author:@|position:15|sceneorg:/parties/1995/assembly95/in64/byteme.zip|pouet:6318
 
 ! Multichannel music
 
-title:Catch that Goblin|author:Skaven|position:1|webfile:multichannel_music/catch_that_goblin_by_skaven.mp3|sceneorg:mmul/ctgoblin.zip
-title:Guild of sounds|author:Rage|position:2|webfile:multichannel_music/guild_of_sounds_by_rage.mp3|sceneorg:mmul/guildofs.zip
-title:World of unicorns|author:Lizardking|position:3|webfile:multichannel_music/world_of_unicorns_by_lizardking.mp3|sceneorg:mmul/world.zip
-title:Garage|author:Stargazer|position:4|webfile:multichannel_music/garage_by_stargazer.mp3|sceneorg:mmul/garage.zip
-title:Can you feel it|author:Prism|position:5|webfile:multichannel_music/can_you_feel_it_by_prism.mp3|sceneorg:mmul/canyoufl.zip
-title:Breaking the sky|author:Beathawk|position:6|webfile:multichannel_music/breaking_the_sky_by_beathawk.mp3|sceneorg:mmul/breaksky.zip
-title:Temple of sun|author:Yolk|position:7|webfile:multichannel_music/temple_of_sun_by_yolk.mp3|sceneorg:mmul/templsun.zip
-title:Astraying Voyages|author:Purple Motion|position:8|webfile:multichannel_music/astraying_voyages_by_purple_motion.mp3|sceneorg:mmul/astray.zip
-title:Kaapu-Pete Matkustaa|author:Zake|position:9|webfile:multichannel_music/kaapu_pete_matkustaa_by_zake.mp3|sceneorg:mmul/1aa-pete.zip
-title:Music for the forest|author:Pauli Rämö|position:10|webfile:multichannel_music/music_for_the_forest_by_pauli_r_m.mp3|sceneorg:mmul/forests.zip
-title:Spinning|author:Yzi|position:11|webfile:multichannel_music/spinning_by_yzi.mp3|sceneorg:mmul/spinning.zip
-title:Power Boogie|author:Turtle|position:12|webfile:multichannel_music/power_boogie_by_turtle.mp3|sceneorg:mmul/powerboo.zip
-title:So.if.fix.x.|author:RSE|position:13|webfile:multichannel_music/so_if_fix_x_by_rse.mp3|sceneorg:mmul/sifx.zip
-title:Sy-Stems|author:Pete|position:14|webfile:multichannel_music/sy_stems_by_pete.mp3|sceneorg:mmul/sy-stems.zip
-title:Farewell to Lyrics|author:Edge|position:15|webfile:multichannel_music/farewell_to_lyrics_by_edge.mp3|sceneorg:mmul/farewell.zip
+title:Catch that Goblin|author:Skaven|position:1|webfile:multichannel_music/catch_that_goblin_by_skaven.mp3|sceneorg:/parties/1995/assembly95/mmul/ctgoblin.zip
+title:Guild of sounds|author:Rage|position:2|webfile:multichannel_music/guild_of_sounds_by_rage.mp3|sceneorg:/parties/1995/assembly95/mmul/guildofs.zip
+title:World of unicorns|author:Lizardking|position:3|webfile:multichannel_music/world_of_unicorns_by_lizardking.mp3|sceneorg:/parties/1995/assembly95/mmul/world.zip
+title:Garage|author:Stargazer|position:4|webfile:multichannel_music/garage_by_stargazer.mp3|sceneorg:/parties/1995/assembly95/mmul/garage.zip
+title:Can you feel it|author:Prism|position:5|webfile:multichannel_music/can_you_feel_it_by_prism.mp3|sceneorg:/parties/1995/assembly95/mmul/canyoufl.zip
+title:Breaking the sky|author:Beathawk|position:6|webfile:multichannel_music/breaking_the_sky_by_beathawk.mp3|sceneorg:/parties/1995/assembly95/mmul/breaksky.zip
+title:Temple of sun|author:Yolk|position:7|webfile:multichannel_music/temple_of_sun_by_yolk.mp3|sceneorg:/parties/1995/assembly95/mmul/templsun.zip
+title:Astraying Voyages|author:Purple Motion|position:8|webfile:multichannel_music/astraying_voyages_by_purple_motion.mp3|sceneorg:/parties/1995/assembly95/mmul/astray.zip
+title:Kaapu-Pete Matkustaa|author:Zake|position:9|webfile:multichannel_music/kaapu_pete_matkustaa_by_zake.mp3|sceneorg:/parties/1995/assembly95/mmul/1aa-pete.zip
+title:Music for the forest|author:Pauli Rämö|position:10|webfile:multichannel_music/music_for_the_forest_by_pauli_r_m.mp3|sceneorg:/parties/1995/assembly95/mmul/forests.zip
+title:Spinning|author:Yzi|position:11|webfile:multichannel_music/spinning_by_yzi.mp3|sceneorg:/parties/1995/assembly95/mmul/spinning.zip
+title:Power Boogie|author:Turtle|position:12|webfile:multichannel_music/power_boogie_by_turtle.mp3|sceneorg:/parties/1995/assembly95/mmul/powerboo.zip
+title:So.if.fix.x.|author:RSE|position:13|webfile:multichannel_music/so_if_fix_x_by_rse.mp3|sceneorg:/parties/1995/assembly95/mmul/sifx.zip
+title:Sy-Stems|author:Pete|position:14|webfile:multichannel_music/sy_stems_by_pete.mp3|sceneorg:/parties/1995/assembly95/mmul/sy-stems.zip
+title:Farewell to Lyrics|author:Edge|position:15|webfile:multichannel_music/farewell_to_lyrics_by_edge.mp3|sceneorg:/parties/1995/assembly95/mmul/farewell.zip

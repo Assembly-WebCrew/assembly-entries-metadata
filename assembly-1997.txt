@@ -23,7 +23,7 @@ title:Villean|author:AMJ|position:16
 
 title:911|author:Limbo|position:1|pouet:3678
 title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:12259
-title:FAT|author:Mystic|position:3|sceneorg:amiga/in64/mst-fat.lha|pouet:3935
+title:FAT|author:Mystic|position:3|sceneorg:/parties/1997/assembly97/amiga/in64/mst-fat.lha|pouet:3935
 title:With Style|author:Haujobb|position:4|pouet:189
 title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
 title:Memories of Fog|author:Radio|position:6
@@ -49,14 +49,14 @@ title:Unnamed|author:Jer/Panic|position:8
 
 ! PC 4k intro
 
-title:Helium|author:Viznut/pWp|position:1|sceneorg:in4k/helium.zip|pouet:3702
-title:AXE|author:Cyber/Reflection|position:2|sceneorg:in4k/axe.zip|pouet:6609
+title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702
+title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609
 title:eMOTION|author:NoxE|position:3
-title:Recurse|author:Snooky/Yodel|position:4|sceneorg:in4k/ydl_recu.zip|pouet:3015
+title:Recurse|author:Snooky/Yodel|position:4|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|pouet:3015
 title:Nirvana|author:SounDemoN|position:5
-title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:in4k/bw-retr.zip|pouet:14928
-title:Cubes|author:NySTuL|position:7|sceneorg:in4k/cubes.zip|pouet:14927
-title:Nothing|author:Virtual Eagle|position:8|sceneorg:in4k/nothing.zip|pouet:14926
+title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|pouet:14928
+title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927
+title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926
 
 ! PC win95 demo
 
@@ -70,20 +70,20 @@ title:3D Highlights|author:Lepsi Developments|position:3|pouet:1685
 
 ! Raytrace graphics
 
-title:Mars Bathfinder|author:Frank/Orange|position:1|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Munhuone II|author:Peeri/Eclipse sf|position:2|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Elegance|author:Marvel/Future Crew|position:3|webfile:raytrace_graphics/elegance_by_marvel_future_crew.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Catching Rays|author:MeSoN/Nerve Axis :)|position:4|webfile:raytrace_graphics/catching_rays_by_meson_nerve_axis.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Projekti Ikuisuus Projekti|author:Scottie/Order|position:5|webfile:raytrace_graphics/projekti_ikuisuus_projekti_by_scottie_order.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Mechstorm|author:Borderline/Void|position:6|webfile:raytrace_graphics/mechstorm_by_borderline_void.jpeg|sceneorg:grtc/asm97-trace.zip
-title:A Fly|author:Yelly|position:7|webfile:raytrace_graphics/a_fly_by_yelly.jpeg|sceneorg:grtc/asm97-trace.zip
-title:AI|author:Nitric/Trioxide|position:8|webfile:raytrace_graphics/ai_by_nitric_trioxide.png|sceneorg:grtc/asm97-trace.zip
-title:Camera View|author:Sami-seta/Paskasoft Prod|position:9|webfile:raytrace_graphics/camera_view_by_sami_seta_paskasoft_prod.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Cyberbabe|author:Pekko/Enhance|position:10|webfile:raytrace_graphics/cyberbabe_by_pekko_enhance.jpeg|sceneorg:grtc/asm97-trace.zip
+title:Mars Bathfinder|author:Frank/Orange|position:1|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Munhuone II|author:Peeri/Eclipse sf|position:2|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Elegance|author:Marvel/Future Crew|position:3|webfile:raytrace_graphics/elegance_by_marvel_future_crew.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Catching Rays|author:MeSoN/Nerve Axis :)|position:4|webfile:raytrace_graphics/catching_rays_by_meson_nerve_axis.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Projekti Ikuisuus Projekti|author:Scottie/Order|position:5|webfile:raytrace_graphics/projekti_ikuisuus_projekti_by_scottie_order.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Mechstorm|author:Borderline/Void|position:6|webfile:raytrace_graphics/mechstorm_by_borderline_void.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:A Fly|author:Yelly|position:7|webfile:raytrace_graphics/a_fly_by_yelly.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:AI|author:Nitric/Trioxide|position:8|webfile:raytrace_graphics/ai_by_nitric_trioxide.png|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Camera View|author:Sami-seta/Paskasoft Prod|position:9|webfile:raytrace_graphics/camera_view_by_sami_seta_paskasoft_prod.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Cyberbabe|author:Pekko/Enhance|position:10|webfile:raytrace_graphics/cyberbabe_by_pekko_enhance.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:At the Beach|author:Tudor/TBL|position:11
 title:Return of the Wader|author:b.A.m/m.A.d|position:12
-title:Venus de Geller|author:recc/Radio|position:13|webfile:raytrace_graphics/venus_de_geller_by_recc_radio.jpeg|sceneorg:grtc/asm97-trace.zip
-title:Scene|author:Demonic/Reality Benders|position:14|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg|sceneorg:grtc/asm97-trace.zip
+title:Venus de Geller|author:recc/Radio|position:13|webfile:raytrace_graphics/venus_de_geller_by_recc_radio.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
+title:Scene|author:Demonic/Reality Benders|position:14|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:Portal|author:Envision Virtual Studios|position:15
 
 ! Wild demo
@@ -119,13 +119,13 @@ title:Vote for Me|author:aa/roy|position:8
 ! 4 channel music
 
 title:Omnipotent|author:Spay/Capacala|position:1
-title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:m4ch/barcelon.zip
+title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip
 title:Odnalia B|author:pekka pou/da Jormas|position:3
 title:Three Minutes|author:Ganja/Nerve Axis :)|position:4
 title:Can U see the fuse?|author:Stargazer/Sonik Clique|position:5
 title:Evil Tupaque|author:Yolk/CNCD|position:6
 title:Crowd Pleaser|author:Deck/Scoopex|position:7
-title:Dimwit Kroove|author:Illusion/dCS&dsd|position:8|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|sceneorg:m4ch/il-dimwi.zip
+title:Dimwit Kroove|author:Illusion/dCS&dsd|position:8|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|sceneorg:/parties/1997/assembly97/m4ch/il-dimwi.zip
 title:Tietokonekappale|author:Jammaster Jamaica/Rapukanta|position:9
 title:Zarina|author:Repe/Style^RRR|position:10
 title:Mohka Kontrolh|author:Mirko/Oxylon|position:11
@@ -154,46 +154,46 @@ title:Fairy|author:Avocado/Lumen|position:15
 
 ! PC demo
 
-title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:demo/boostfin.zip
-title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:demo/markku.zip|pouet:86|dtv:12474
-title:Mindtrap|author:Trauma|position:3|sceneorg:demo/mindtrap.zip|pouet:474
-title:Insects|author:Coma|position:4|sceneorg:demo/cominsct.zip|pouet:1138
-title:Travelling|author:Cryonics|position:5|sceneorg:demo/crs-trvl.zip|pouet:5340
-title:Seven|author:Immortals|position:6|sceneorg:demo/seven.zip|pouet:12695
-title:Agent Orange|author:Orange|position:7|sceneorg:demo/agento.arj|pouet:2522
-title:I NEED a beer|author:TPOLM|position:8|sceneorg:demo/yie.zip|pouet:5040
+title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
+title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86|dtv:12474
+title:Mindtrap|author:Trauma|position:3|sceneorg:/parties/1997/assembly97/demo/mindtrap.zip|pouet:474
+title:Insects|author:Coma|position:4|sceneorg:/parties/1997/assembly97/demo/cominsct.zip|pouet:1138
+title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340
+title:Seven|author:Immortals|position:6|sceneorg:/parties/1997/assembly97/demo/seven.zip|pouet:12695
+title:Agent Orange|author:Orange|position:7|sceneorg:/parties/1997/assembly97/demo/agento.arj|pouet:2522
+title:I NEED a beer|author:TPOLM|position:8|sceneorg:/parties/1997/assembly97/demo/yie.zip|pouet:5040
 title:High Deeps|author:Core Image|position:9|pouet:14925
 title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:802
-title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:demo/alexandr.zip|pouet:2543
-title:Resurrection Now|author:Jamm|position:12|sceneorg:demo/resnow.zip|pouet:6732
-title:7G|author:Sense|position:13|sceneorg:demo/sns_7gfn.zip|pouet:1051
-title:Splendid|author:Excused|position:14|sceneorg:demo/exc_spld.zip|pouet:2936
-title:Retro|author:Cubic|position:15|sceneorg:demo/ctsretro.zip|pouet:1503
+title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|pouet:2543
+title:Resurrection Now|author:Jamm|position:12|sceneorg:/parties/1997/assembly97/demo/resnow.zip|pouet:6732
+title:7G|author:Sense|position:13|sceneorg:/parties/1997/assembly97/demo/sns_7gfn.zip|pouet:1051
+title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936
+title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503
 
 ! PC 64k intro
 
-title:Mainstream|author:Moottori|position:1|sceneorg:in64/m_stream.zip|pouet:2189
-title:Greble|author:Recreation|position:2|sceneorg:in64/rcn-grbl.zip|pouet:6610
-title:Dislocated|author:Bandwagon|position:3|sceneorg:in64/bw-disl.zip|pouet:5529
-title:13|author:MFX|position:4|sceneorg:in64/mfx_13.zip|pouet:2518
-title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:in64/jlantani.zip|pouet:6513
-title:Black Silk|author:Analogue|position:6|sceneorg:in64/black.arj|pouet:7993
-title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:in64/jest.zip|pouet:2188
-title:Noblesse|author:Amable|position:8|sceneorg:in64/amb_nobl.zip|pouet:1258
+title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189
+title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610
+title:Dislocated|author:Bandwagon|position:3|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|pouet:5529
+title:13|author:MFX|position:4|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|pouet:2518
+title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|pouet:6513
+title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in64/black.arj|pouet:7993
+title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
+title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258
 
 ! Multichannel music
 
-title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:mmul/evolutio.zip
-title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:mmul/blissasm.zip
+title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip
+title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip
 title:Behind the Kaikal|author:Muffler/Haujobb/dCS|position:3
 title:Asparagus|author:Avocado/Lumen|position:4
 title:Groove Train|author:Dj Flashlight|position:5
 title:Jazzembly|author:Rho/Reveal|position:6
-title:Monkey Business|author:Prism/EMF|position:7|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|sceneorg:mmul/monkybiz.zip
+title:Monkey Business|author:Prism/EMF|position:7|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/monkybiz.zip
 title:It's a Duck Thing|author:Croaker/Halcyon tpoljm hirmu|position:8
-title:Always|author:Swallow & Illusion/dsd|position:9|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|sceneorg:mmul/is-alway.zip
+title:Always|author:Swallow & Illusion/dsd|position:9|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|sceneorg:/parties/1997/assembly97/mmul/is-alway.zip
 title:Plug|author:Leach|position:10
-title:Open Skies|author:Edge/EMF|position:11|webfile:multichannel_music/open_skies_by_edge_emf.mp3|sceneorg:mmul/opensks.zip
+title:Open Skies|author:Edge/EMF|position:11|webfile:multichannel_music/open_skies_by_edge_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/opensks.zip
 title:Big Bad Luck|author:Tremor/Trauma|position:12
 title:Hostile Hornet|author:Rage/Night55|position:13
 title:Liquid Brown|author:Cybernova/Beatless|position:14
