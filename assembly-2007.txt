@@ -3,8 +3,8 @@
 ! Mobile demo
 
 title:Beertime X|author:Dekadence|position:1|sceneorgvideo:./compo_videos/divx/mobile_demo/beer_x_by_decadence_nokia_n95_symbian.avi|sceneorg:/parties/2007/assembly07/mobile_demo/beertime_x_by_dekadence_fix.zip|pouet:31589
-title:mixtape memories|author:prostyle corp.|position:2|sceneorgvideo:mobile_demo/prostyle_corp-mixtape_memories_(final).avi|sceneorg:/parties/2007/assembly07/mobile_demo/prostyle_corp-mixtape_memories_(java_executable-final).zip|pouet:31566
-title:Pink Velvet Fluffer|author:Immersion|position:3|sceneorgvideo:mobile_demo/pink_velvet_fluffer_by_immersion.mp4|sceneorg:/parties/2007/assembly07/mobile_demo/pink_velvet_fluffer_by_immersion.tgz|pouet:31614
+title:mixtape memories|author:prostyle corp.|position:2|sceneorgvideo:/parties/2007/assembly07/mobile_demo/prostyle_corp-mixtape_memories_(final).avi|sceneorg:/parties/2007/assembly07/mobile_demo/prostyle_corp-mixtape_memories_(java_executable-final).zip|pouet:31566
+title:Pink Velvet Fluffer|author:Immersion|position:3|sceneorgvideo:/parties/2007/assembly07/mobile_demo/pink_velvet_fluffer_by_immersion.mp4|sceneorg:/parties/2007/assembly07/mobile_demo/pink_velvet_fluffer_by_immersion.tgz|pouet:31614
 
 ! Oldskool graphics
 
@@ -177,7 +177,7 @@ title:Kuutamo|author:Joni Koskimaa|position:0|webfile:freestyle_music/kuutamo_by
 ! 4k intro
 
 title:Candystall|author:Pittsburgh Stallers vs Loonies|position:1|sceneorg:/parties/2007/assembly07/in4k/candystall_by_pittsburgh_stallers_vs_loonies.zip|pouet:31522|dtv:13077
-title:Stiletto|author:rgba|position:2|sceneorgvideo:in4k/stiletto_by_rgba.avi|sceneorg:/parties/2007/assembly07/in4k/stiletto_by_rgba.zip|pouet:31520|dtv:13136
+title:Stiletto|author:rgba|position:2|sceneorgvideo:/parties/2007/assembly07/in4k/stiletto_by_rgba.avi|sceneorg:/parties/2007/assembly07/in4k/stiletto_by_rgba.zip|pouet:31520|dtv:13136
 title:RetroPedro|author:PuavoHard|position:3|sceneorg:/parties/2007/assembly07/in4k/retropedro_by_puavohard.zip|pouet:31529|dtv:13078
 title:Step Back|author:Northern Dragons|position:4|sceneorg:/parties/2007/assembly07/in4k/step_back_by_northern_dragons.zip|pouet:31523
 title:CLUSTERSTORM|author:Loonies|position:5|sceneorg:/parties/2007/assembly07/in4k/clusterstorm_by_loonies.zip|pouet:31528|dtv:13137
