@@ -82,9 +82,9 @@ title:Kuutio nurmella|author:SOB|position:0|webfile:fast_graphics/kuutio_nurmell
 
 ! Fast music
 
-title:Back to Roots|author:Ari "artz" Pulkkinen|position:1|webfile:fast_music/back_to_roots_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2003/assembly03/fastmusic/back_to_roots_by_ari__artz__pulkkinen.zip
-title:Parempi kuin Pekka|author:Aikapallo|position:2|webfile:fast_music/parempi_kuin_pekka_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/fastmusic/parempi_kuin_pekka_by_aikapallo.zip
-title:kebab'n'bass|author:gremino|position:3|webfile:fast_music/kebab_n_bass_by_gremino.mp3|sceneorg:/parties/2003/assembly03/fastmusic/kebab_n_bass_by_gremino.zip
+title:Back to Roots|author:Ari "artz" Pulkkinen|position:1|webfile:fast_music/back_to_roots_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2003/assembly03/fastmusic/back_to_roots_by_ari__artz__pulkkinen.zip|youtube:http://www.youtube.com/watch?v=U_TVxopaLBE
+title:Parempi kuin Pekka|author:Aikapallo|position:2|webfile:fast_music/parempi_kuin_pekka_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/fastmusic/parempi_kuin_pekka_by_aikapallo.zip|youtube:http://www.youtube.com/watch?v=Ixnq431ZAi8
+title:kebab'n'bass|author:gremino|position:3|webfile:fast_music/kebab_n_bass_by_gremino.mp3|sceneorg:/parties/2003/assembly03/fastmusic/kebab_n_bass_by_gremino.zip|youtube:http://www.youtube.com/watch?v=YUxb95z9UDs
 title:455emblytango|author:tArzAn/tAAt|position:4|webfile:fast_music/455emblytango_by_tarzan_taat.mp3|sceneorg:/parties/2003/assembly03/fastmusic/455emblytango_by_tarzan_taat.zip
 title:linnut|author:crud|position:5|webfile:fast_music/linnut_by_crud.mp3|sceneorg:/parties/2003/assembly03/fastmusic/linnut_by_crud.zip
 title:break me up!|author:rimbi6000|position:6|webfile:fast_music/break_me_up_by_rimbi6000.mp3|sceneorg:/parties/2003/assembly03/fastmusic/break_me_up__by_rimbi6000.zip
