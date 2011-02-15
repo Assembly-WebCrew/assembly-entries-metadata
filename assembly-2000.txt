@@ -152,17 +152,17 @@ title:oliphaunt|author:kilobite|position:12|sceneorg:/parties/2000/assembly00/in
 
 ! Animation
 
-title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:6159
-title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612
-title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613
-title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614
-title:Gates of Hell|author:Vortex|position:5|webfile:animation/gates_of_hell_by_vortex.mpeg|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|pouet:28615
-title:Cubinson Rosoe|author:Katastrophik|position:6|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|pouet:28616
-title:Creepy Horror|author:Data2|position:7|webfile:animation/creepy_horror_by_data2.mpeg|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|pouet:28617
-title:escape|author:nOte|position:8|webfile:animation/escape_by_note.mpeg|sceneorg:/parties/2000/assembly00/anim/escape.mpg|pouet:28618
-title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|pouet:28619
-title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620
-title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621
+title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:6159|youtube:http://www.youtube.com/watch?v=342z0EvSM-c
+title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:http://www.youtube.com/watch?v=vqLplqijSwk
+title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613|youtube:http://www.youtube.com/watch?v=QpeDGlGiXQE
+title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614|youtube:http://www.youtube.com/watch?v=67l2VW8r8XA
+title:Gates of Hell|author:Vortex|position:5|webfile:animation/gates_of_hell_by_vortex.mpeg|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|pouet:28615|youtube:http://www.youtube.com/watch?v=vU1j_N-OTE8
+title:Cubinson Rosoe|author:Katastrophik|position:6|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|pouet:28616|youtube:http://www.youtube.com/watch?v=mnRi6NXTQig
+title:Creepy Horror|author:Data2|position:7|webfile:animation/creepy_horror_by_data2.mpeg|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|pouet:28617|youtube:http://www.youtube.com/watch?v=xl8QIh2Rh4M
+title:escape|author:nOte|position:8|webfile:animation/escape_by_note.mpeg|sceneorg:/parties/2000/assembly00/anim/escape.mpg|pouet:28618|youtube:http://www.youtube.com/watch?v=5rUoj3DeHYY
+title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|pouet:28619|youtube:http://www.youtube.com/watch?v=Ns_gdoyTSHA
+title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620|youtube:http://www.youtube.com/watch?v=B1m4ZIFMxKw
+title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621|youtube:http://www.youtube.com/watch?v=XrG0nniMQ-M
 
 ! Pixel graphics
 
@@ -194,18 +194,18 @@ title:ei kiva|author:kokki|position:25|webfile:pixel_graphics/ei_kiva_by_kokki.p
 
 ! Wild demo
 
-title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:6140
+title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:6140|youtube:http://www.youtube.com/watch?v=kmPHdqoowAk
 title:What Is a Woman|author:Nyhjä Group|position:2
 title:Vihred uhka|author:Insane Bastards|position:3
-title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611
-title:Assembler (k)|author:Funky Bong|position:5|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg
-title:The Game|author:Joorus & Julle|position:6|webfile:wild_demo/the_game_by_joorus_julle.mpeg|sceneorg:/parties/2000/assembly00/wild/the_game.zip|pouet:28610
-title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg
+title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611|youtube:http://www.youtube.com/watch?v=btj7QqDMSnU
+title:Assembler (k)|author:Funky Bong|position:5|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|youtube:http://www.youtube.com/watch?v=eDpKsovdq8k
+title:The Game|author:Joorus & Julle|position:6|webfile:wild_demo/the_game_by_joorus_julle.mpeg|sceneorg:/parties/2000/assembly00/wild/the_game.zip|pouet:28610|youtube:http://www.youtube.com/watch?v=_Kgi47REmf8
+title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|youtube:http://www.youtube.com/watch?v=e_-8xbn_5Z4
 title:Shebaxan - Teaser Trailer|author:Jussi Castellanos|position:8
-title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920
+title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920|youtube:http://www.youtube.com/watch?v=HwvVDQdvjPs
 title:Everything Falls (trailer!)|author:Tontza / Ice CD ISDN|position:10
-title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:11534
-title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315
+title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:11534|youtube:http://www.youtube.com/watch?v=a2SASU3gGrc
+title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315|youtube:http://www.youtube.com/watch?v=rjQjbMYKrr0
 title:Perfect Day|author:BHC|position:13
 title:Ei Sormia Sinne, Pliis!|author:ENTR0P1C!Production|position:14
 title:The Meeting|author:Teophania|position:15
