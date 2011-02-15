@@ -30,21 +30,21 @@ title:The Storm Is Coming|author:John Peeba|position:16|webfile:drawn_graphics/t
 
 ! MP3 music
 
-title:When Time Slips Away|author:Firestorm / Waypoint|position:1|webfile:mp3_music/when_time_slips_away_by_firestorm_waypoint.mp3|sceneorg:/parties/2001/assembly01/mp3/when_time_slips_away_by_firestorm___waypoint.zip
-title:Hail, Holy Queen|author:Nanaste|position:2|webfile:mp3_music/hail_holy_queen_by_nanaste.mp3|sceneorg:/parties/2001/assembly01/mp3/hail__holy_queen_by_nanaste.zip
-title:Warm inside|author:Aisth|position:3|webfile:mp3_music/warm_inside_by_aisth.mp3|sceneorg:/parties/2001/assembly01/mp3/warm_inside_by_aisth.zip
-title:Molequel Man|author:Trauma Child Genesis|position:4|webfile:mp3_music/molequel_man_by_trauma_child_genesis.mp3|sceneorg:/parties/2001/assembly01/mp3/molequel_man_by_trauma_child_genesis.zip
-title:all your base|author:netpoet & xenon / parkstudios|position:5|webfile:mp3_music/all_your_base_by_netpoet_xenon_parkstudios.mp3|sceneorg:/parties/2001/assembly01/mp3/all_your_base_by_netpoet___xenon___parkstudios.zip
-title:Mosaic Days|author:Future Crew|position:6|webfile:mp3_music/mosaic_days_by_future_crew.mp3|sceneorg:/parties/2001/assembly01/mp3/mosaic_days_by_future_crew.zip
-title:Doggy Jazz Club|author:Laatumiehet|position:7|webfile:mp3_music/doggy_jazz_club_by_laatumiehet.mp3|sceneorg:/parties/2001/assembly01/mp3/doggy_jazz_club_by_laatumiehet_.zip
-title:Let The Melody Speak|author:Turkka|position:8|webfile:mp3_music/let_the_melody_speak_by_turkka.mp3|sceneorg:/parties/2001/assembly01/mp3/let_the_melody_speak_by_turkka.zip
-title:Tomorrow Morning|author:spector / recreation|position:9|webfile:mp3_music/tomorrow_morning_by_spector_recreation.mp3|sceneorg:/parties/2001/assembly01/mp3/tomorrow_morning_by_spector___recreation.zip
-title:Naisolento|author:Naisen ja Miehen Välinen Luottamus|position:10|webfile:mp3_music/naisolento_by_naisen_ja_miehen_v_linen_luottamus.mp3|sceneorg:/parties/2001/assembly01/mp3/naisolento_by_naisen_ja_miehen_v_linen_luottamus.zip
-title:Stay With Me|author:Huezo|position:11|webfile:mp3_music/stay_with_me_by_huezo.mp3|sceneorg:/parties/2001/assembly01/mp3/stay_with_me_by_huezo.zip
-title:der gedankenaustausch|author:mindflower & pirzi|position:12|webfile:mp3_music/der_gedankenaustausch_by_mindflower_pirzi.mp3|sceneorg:/parties/2001/assembly01/mp3/der_gedankenaustausch_by_mindflower___pirzi.zip
-title:Yksi Miljoonasta|author:Lactic Acid|position:13|webfile:mp3_music/yksi_miljoonasta_by_lactic_acid.mp3|sceneorg:/parties/2001/assembly01/mp3/yksi_miljoonasta_by_lactic_acid.zip
-title:Dhesus - Kivitetty saatana|author:?kaytanhousuja|position:14|webfile:mp3_music/dhesus_kivitetty_saatana_by_kaytanhousuja.mp3|sceneorg:/parties/2001/assembly01/mp3/dhesus_-_kivitetty_saatana_by__kaytanhousuja.zip
-title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|sceneorg:/parties/2001/assembly01/mp3/mind___body_by_abj.zip
+title:When Time Slips Away|author:Firestorm / Waypoint|position:1|webfile:mp3_music/when_time_slips_away_by_firestorm_waypoint.mp3|sceneorg:/parties/2001/assembly01/mp3/when_time_slips_away_by_firestorm___waypoint.zip|youtube:http://www.youtube.com/watch?v=4Rp9xvPnRN4
+title:Hail, Holy Queen|author:Nanaste|position:2|webfile:mp3_music/hail_holy_queen_by_nanaste.mp3|sceneorg:/parties/2001/assembly01/mp3/hail__holy_queen_by_nanaste.zip|youtube:http://www.youtube.com/watch?v=c2NbzCJ2kTA
+title:Warm inside|author:Aisth|position:3|webfile:mp3_music/warm_inside_by_aisth.mp3|sceneorg:/parties/2001/assembly01/mp3/warm_inside_by_aisth.zip|youtube:http://www.youtube.com/watch?v=MgyMr8tWn2s
+title:Molequel Man|author:Trauma Child Genesis|position:4|webfile:mp3_music/molequel_man_by_trauma_child_genesis.mp3|sceneorg:/parties/2001/assembly01/mp3/molequel_man_by_trauma_child_genesis.zip|youtube:http://www.youtube.com/watch?v=hRE0BDy8uO8
+title:all your base|author:netpoet & xenon / parkstudios|position:5|webfile:mp3_music/all_your_base_by_netpoet_xenon_parkstudios.mp3|sceneorg:/parties/2001/assembly01/mp3/all_your_base_by_netpoet___xenon___parkstudios.zip|youtube:http://www.youtube.com/watch?v=T-8masT5YzU
+title:Mosaic Days|author:Future Crew|position:6|webfile:mp3_music/mosaic_days_by_future_crew.mp3|sceneorg:/parties/2001/assembly01/mp3/mosaic_days_by_future_crew.zip|youtube:http://www.youtube.com/watch?v=j-iRmQiQxRU
+title:Doggy Jazz Club|author:Laatumiehet|position:7|webfile:mp3_music/doggy_jazz_club_by_laatumiehet.mp3|sceneorg:/parties/2001/assembly01/mp3/doggy_jazz_club_by_laatumiehet_.zip|youtube:http://www.youtube.com/watch?v=B6Nxa3vtFJQ
+title:Let The Melody Speak|author:Turkka|position:8|webfile:mp3_music/let_the_melody_speak_by_turkka.mp3|sceneorg:/parties/2001/assembly01/mp3/let_the_melody_speak_by_turkka.zip|youtube:http://www.youtube.com/watch?v=71aLMlUUreU
+title:Tomorrow Morning|author:spector / recreation|position:9|webfile:mp3_music/tomorrow_morning_by_spector_recreation.mp3|sceneorg:/parties/2001/assembly01/mp3/tomorrow_morning_by_spector___recreation.zip|youtube:http://www.youtube.com/watch?v=YfpCe2-2IE8
+title:Naisolento|author:Naisen ja Miehen Välinen Luottamus|position:10|webfile:mp3_music/naisolento_by_naisen_ja_miehen_v_linen_luottamus.mp3|sceneorg:/parties/2001/assembly01/mp3/naisolento_by_naisen_ja_miehen_v_linen_luottamus.zip|youtube:http://www.youtube.com/watch?v=wcgDTM6EEV0
+title:Stay With Me|author:Huezo|position:11|webfile:mp3_music/stay_with_me_by_huezo.mp3|sceneorg:/parties/2001/assembly01/mp3/stay_with_me_by_huezo.zip|youtube:http://www.youtube.com/watch?v=_EM8EBgjzW8
+title:der gedankenaustausch|author:mindflower & pirzi|position:12|webfile:mp3_music/der_gedankenaustausch_by_mindflower_pirzi.mp3|sceneorg:/parties/2001/assembly01/mp3/der_gedankenaustausch_by_mindflower___pirzi.zip|youtube:http://www.youtube.com/watch?v=HzHDVbb8dzQ
+title:Yksi Miljoonasta|author:Lactic Acid|position:13|webfile:mp3_music/yksi_miljoonasta_by_lactic_acid.mp3|sceneorg:/parties/2001/assembly01/mp3/yksi_miljoonasta_by_lactic_acid.zip|youtube:http://www.youtube.com/watch?v=R_SjvwSdaqM
+title:Dhesus - Kivitetty saatana|author:?kaytanhousuja|position:14|webfile:mp3_music/dhesus_kivitetty_saatana_by_kaytanhousuja.mp3|sceneorg:/parties/2001/assembly01/mp3/dhesus_-_kivitetty_saatana_by__kaytanhousuja.zip|youtube:http://www.youtube.com/watch?v=vukMdN9OgKI
+title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|sceneorg:/parties/2001/assembly01/mp3/mind___body_by_abj.zip|youtube:http://www.youtube.com/watch?v=gWxe2j8UIZg
 
 ! Oldskool demo
 
@@ -56,16 +56,16 @@ title:Orivesi|author:Extend|position:5|sceneorg:/parties/2001/assembly01/oldskoo
 
 ! Fast music
 
-title:comrades|author:DJartz|position:1|webfile:fast_music/comrades_by_djartz.mp3|sceneorg:/parties/2001/assembly01/fastmusic/comrades_by_djartz.zip
-title:Reima|author:Aikapallo|position:2|webfile:fast_music/reima_by_aikapallo.mp3|sceneorg:/parties/2001/assembly01/fastmusic/reima_by_aikapallo.zip
-title:Butterfly Nibbles|author:Terminus|position:3|webfile:fast_music/butterfly_nibbles_by_terminus.mp3|sceneorg:/parties/2001/assembly01/fastmusic/butterfly_nibbles_by_terminus.zip
-title:Teleportation|author:Pyrotech|position:4|webfile:fast_music/teleportation_by_pyrotech.mp3|sceneorg:/parties/2001/assembly01/fastmusic/teleportation_by_pyrotech.zip
-title:Salamander|author:KiWi|position:5|webfile:fast_music/salamander_by_kiwi.mp3|sceneorg:/parties/2001/assembly01/fastmusic/salamander_by_kiwi.zip
-title:BeefCake|author:Prophecy|position:6|webfile:fast_music/beefcake_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/fastmusic/beefcake_by_prophecy.zip
-title:Seven|author:Tomas|position:7|webfile:fast_music/seven_by_tomas.mp3|sceneorg:/parties/2001/assembly01/fastmusic/seven_by_tomas.zip
-title:Jamming At Night|author:Mikko Lahti|position:8|webfile:fast_music/jamming_at_night_by_mikko_lahti.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jamming_at_night_by_mikko_lahti.zip
-title:fast music|author:Manwe|position:9|webfile:fast_music/fast_music_by_manwe.mp3|sceneorg:/parties/2001/assembly01/fastmusic/fast_music_by_manwe.zip
-title:Jazyh|author:Complex|position:10|webfile:fast_music/jazyh_by_complex.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jazyh_by_complex.zip
+title:comrades|author:DJartz|position:1|webfile:fast_music/comrades_by_djartz.mp3|sceneorg:/parties/2001/assembly01/fastmusic/comrades_by_djartz.zip|youtube:http://www.youtube.com/watch?v=lRRh7TfKsq0
+title:Reima|author:Aikapallo|position:2|webfile:fast_music/reima_by_aikapallo.mp3|sceneorg:/parties/2001/assembly01/fastmusic/reima_by_aikapallo.zip|youtube:http://www.youtube.com/watch?v=OFbWb6s-m4U
+title:Butterfly Nibbles|author:Terminus|position:3|webfile:fast_music/butterfly_nibbles_by_terminus.mp3|sceneorg:/parties/2001/assembly01/fastmusic/butterfly_nibbles_by_terminus.zip|youtube:http://www.youtube.com/watch?v=yC6zRkSa5nE
+title:Teleportation|author:Pyrotech|position:4|webfile:fast_music/teleportation_by_pyrotech.mp3|sceneorg:/parties/2001/assembly01/fastmusic/teleportation_by_pyrotech.zip|youtube:http://www.youtube.com/watch?v=pryyPx_KJ1o
+title:Salamander|author:KiWi|position:5|webfile:fast_music/salamander_by_kiwi.mp3|sceneorg:/parties/2001/assembly01/fastmusic/salamander_by_kiwi.zip|youtube:http://www.youtube.com/watch?v=EsHU88ZnFp8
+title:BeefCake|author:Prophecy|position:6|webfile:fast_music/beefcake_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/fastmusic/beefcake_by_prophecy.zip|youtube:http://www.youtube.com/watch?v=O1TwqCm0OrU
+title:Seven|author:Tomas|position:7|webfile:fast_music/seven_by_tomas.mp3|sceneorg:/parties/2001/assembly01/fastmusic/seven_by_tomas.zip|youtube:http://www.youtube.com/watch?v=eeclDAkSkHU
+title:Jamming At Night|author:Mikko Lahti|position:8|webfile:fast_music/jamming_at_night_by_mikko_lahti.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jamming_at_night_by_mikko_lahti.zip|youtube:http://www.youtube.com/watch?v=yHGxmDNI0T0
+title:fast music|author:Manwe|position:9|webfile:fast_music/fast_music_by_manwe.mp3|sceneorg:/parties/2001/assembly01/fastmusic/fast_music_by_manwe.zip|youtube:http://www.youtube.com/watch?v=59_4Alydm2k
+title:Jazyh|author:Complex|position:10|webfile:fast_music/jazyh_by_complex.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jazyh_by_complex.zip|youtube:http://www.youtube.com/watch?v=CV0N_THEob8
 
 ! Oldskool music
 
@@ -170,16 +170,16 @@ title:Droplet vs Ocean|author:Digimind & Manwe|position:15|sceneorg:/parties/200
 
 ! Multichannel music
 
-title:Funkacider|author:Reed / TRSi & Damage|position:1|webfile:multichannel_music/funkacider_by_reed_trsi_damage.mp3|sceneorg:/parties/2001/assembly01/mmul/funkacider_by_reed_of_trsi_and_damage.zip
-title:Al-Bahar Al-Ahmar|author:gspot / recreation & bandwagon|position:2|webfile:multichannel_music/al_bahar_al_ahmar_by_gspot_recreation_bandwagon.mp3|sceneorg:/parties/2001/assembly01/mmul/al-bahar_al-ahmar_by_gspot_of_recreation_and_bandwagon.zip
-title:Hovering thru|author:Noa Nakai|position:3|webfile:multichannel_music/hovering_thru_by_noa_nakai.mp3|sceneorg:/parties/2001/assembly01/mmul/hovering_thru_by_noa_nakai.zip
-title:Umber Dawn|author:quasian|position:4|webfile:multichannel_music/umber_dawn_by_quasian.mp3|sceneorg:/parties/2001/assembly01/mmul/umber_dawn_by_quasian.zip
-title:an important thought|author:smash / fairlight+jecoute|position:5|webfile:multichannel_music/an_important_thought_by_smash_fairlight_jecoute.mp3|sceneorg:/parties/2001/assembly01/mmul/an_important_thought_by_smash_of_fairlight+jecoute.zip
-title:Babe K Won Snow Kebab|author:Kandy|position:6|webfile:multichannel_music/babe_k_won_snow_kebab_by_kandy.mp3|sceneorg:/parties/2001/assembly01/mmul/babe_k_won_snow_kebab_by_kandy.zip
-title:Slowmotion|author:Prophecy|position:7|webfile:multichannel_music/slowmotion_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/mmul/slowmotion_by_prophecy.zip
-title:bjork7000|author:Aienn|position:8|webfile:multichannel_music/bjork7000_by_aienn.mp3|sceneorg:/parties/2001/assembly01/mmul/bjork7000_by_aienn.zip
-title:Double Dosage|author:Skeema|position:9|webfile:multichannel_music/double_dosage_by_skeema.mp3|sceneorg:/parties/2001/assembly01/mmul/double_dosage_by_skeema_.zip
-title:Beyond Reality|author:Complex|position:10|webfile:multichannel_music/beyond_reality_by_complex.mp3|sceneorg:/parties/2001/assembly01/mmul/beyond_reality_by_complex.zip
+title:Funkacider|author:Reed / TRSi & Damage|position:1|webfile:multichannel_music/funkacider_by_reed_trsi_damage.mp3|sceneorg:/parties/2001/assembly01/mmul/funkacider_by_reed_of_trsi_and_damage.zip|youtube:http://www.youtube.com/watch?v=itaVBIOe6Xk
+title:Al-Bahar Al-Ahmar|author:gspot / recreation & bandwagon|position:2|webfile:multichannel_music/al_bahar_al_ahmar_by_gspot_recreation_bandwagon.mp3|sceneorg:/parties/2001/assembly01/mmul/al-bahar_al-ahmar_by_gspot_of_recreation_and_bandwagon.zip|youtube:http://www.youtube.com/watch?v=hiY8UYGvYkk
+title:Hovering thru|author:Noa Nakai|position:3|webfile:multichannel_music/hovering_thru_by_noa_nakai.mp3|sceneorg:/parties/2001/assembly01/mmul/hovering_thru_by_noa_nakai.zip|youtube:http://www.youtube.com/watch?v=tqwqQ-_jCB0
+title:Umber Dawn|author:quasian|position:4|webfile:multichannel_music/umber_dawn_by_quasian.mp3|sceneorg:/parties/2001/assembly01/mmul/umber_dawn_by_quasian.zip|youtube:http://www.youtube.com/watch?v=G6XPySWa29M
+title:an important thought|author:smash / fairlight+jecoute|position:5|webfile:multichannel_music/an_important_thought_by_smash_fairlight_jecoute.mp3|sceneorg:/parties/2001/assembly01/mmul/an_important_thought_by_smash_of_fairlight+jecoute.zip|youtube:http://www.youtube.com/watch?v=ylJdvRmebI8
+title:Babe K Won Snow Kebab|author:Kandy|position:6|webfile:multichannel_music/babe_k_won_snow_kebab_by_kandy.mp3|sceneorg:/parties/2001/assembly01/mmul/babe_k_won_snow_kebab_by_kandy.zip|youtube:http://www.youtube.com/watch?v=Ri2eQfDuulo
+title:Slowmotion|author:Prophecy|position:7|webfile:multichannel_music/slowmotion_by_prophecy.mp3|sceneorg:/parties/2001/assembly01/mmul/slowmotion_by_prophecy.zip|youtube:http://www.youtube.com/watch?v=zld2OZgnz4w
+title:bjork7000|author:Aienn|position:8|webfile:multichannel_music/bjork7000_by_aienn.mp3|sceneorg:/parties/2001/assembly01/mmul/bjork7000_by_aienn.zip|youtube:http://www.youtube.com/watch?v=p4wKDEY-88k
+title:Double Dosage|author:Skeema|position:9|webfile:multichannel_music/double_dosage_by_skeema.mp3|sceneorg:/parties/2001/assembly01/mmul/double_dosage_by_skeema_.zip|youtube:http://www.youtube.com/watch?v=IZw-xrJtGu0
+title:Beyond Reality|author:Complex|position:10|webfile:multichannel_music/beyond_reality_by_complex.mp3|sceneorg:/parties/2001/assembly01/mmul/beyond_reality_by_complex.zip|youtube:http://www.youtube.com/watch?v=zorjVfbJGkQ
 
 ! Raytraced graphics
 
