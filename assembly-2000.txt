@@ -132,7 +132,7 @@ title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hat
 
 ! Playstation demo
 
-title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432
+title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432|youtube:http://www.youtube.com/watch?v=-0QHPO2m-og
 title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/rankkuri.zip|pouet:2433
 
 ! 4k intro
