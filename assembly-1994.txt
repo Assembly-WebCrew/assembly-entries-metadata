@@ -8,15 +8,15 @@ title:Unnamed|author:Agemixer/Astral|position:3
 
 ! 4 channel music
 
-title:Compulsion to Obey|author:Lizardking/Razor1911|position:1|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip
-title:Blue shoe Blues|author:Petrof/Absolute|position:2|webfile:4_channel_music/blue_shoe_blues_by_petrof_absolute.mp3|sceneorg:/parties/1994/assembly94/m4ch/bsblues.zip
-title:Tappajakotka & pupu|author:Yolk/Parallax|position:3|webfile:4_channel_music/tappajakotka_pupu_by_yolk_parallax.mp3|sceneorg:/parties/1994/assembly94/m4ch/tkpupu.zip
-title:Blue Progression|author:Buzzer/Zenon & Yzi/Fit|position:4|webfile:4_channel_music/blue_progression_by_buzzer_zenon_yzi_fit.mp3|sceneorg:/parties/1994/assembly94/m4ch/blueprog.zip
-title:Alnite Groove|author:Dizzy/Cncd|position:5|webfile:4_channel_music/alnite_groove_by_dizzy_cncd.mp3|sceneorg:/parties/1994/assembly94/m4ch/allniteg.zip
-title:Vote4me|author:Leinad/Avalanche|position:6|webfile:4_channel_music/vote4me_by_leinad_avalanche.mp3|sceneorg:/parties/1994/assembly94/m4ch/vote4me.zip
-title:Thunderball|author:Dime/Decnite|position:7|webfile:4_channel_music/thunderball_by_dime_decnite.mp3|sceneorg:/parties/1994/assembly94/m4ch/thunderb.zip
-title:Sensitivity|author:Light|position:8|webfile:4_channel_music/sensitivity_by_light.mp3|sceneorg:/parties/1994/assembly94/m4ch/sensivit.zip
-title:Berrycape.bu1|author:Nudcase/Balance|position:9|webfile:4_channel_music/berrycape_bu1_by_nudcase_balance.mp3|sceneorg:/parties/1994/assembly94/m4ch/berrycap.zip
+title:Compulsion to Obey|author:Lizardking/Razor1911|position:1|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip|youtube:http://www.youtube.com/watch?v=hdZC659Vvdg
+title:Blue shoe Blues|author:Petrof/Absolute|position:2|webfile:4_channel_music/blue_shoe_blues_by_petrof_absolute.mp3|sceneorg:/parties/1994/assembly94/m4ch/bsblues.zip|youtube:http://www.youtube.com/watch?v=BjWum2zLGew
+title:Tappajakotka & pupu|author:Yolk/Parallax|position:3|webfile:4_channel_music/tappajakotka_pupu_by_yolk_parallax.mp3|sceneorg:/parties/1994/assembly94/m4ch/tkpupu.zip|youtube:http://www.youtube.com/watch?v=g9m8nw3KJX0
+title:Blue Progression|author:Buzzer/Zenon & Yzi/Fit|position:4|webfile:4_channel_music/blue_progression_by_buzzer_zenon_yzi_fit.mp3|sceneorg:/parties/1994/assembly94/m4ch/blueprog.zip|youtube:http://www.youtube.com/watch?v=YyqVhm9Uv0o
+title:Alnite Groove|author:Dizzy/Cncd|position:5|webfile:4_channel_music/alnite_groove_by_dizzy_cncd.mp3|sceneorg:/parties/1994/assembly94/m4ch/allniteg.zip|youtube:http://www.youtube.com/watch?v=5kI7xdwLs0Y
+title:Vote4me|author:Leinad/Avalanche|position:6|webfile:4_channel_music/vote4me_by_leinad_avalanche.mp3|sceneorg:/parties/1994/assembly94/m4ch/vote4me.zip|youtube:http://www.youtube.com/watch?v=kuRMIF6ZJLA
+title:Thunderball|author:Dime/Decnite|position:7|webfile:4_channel_music/thunderball_by_dime_decnite.mp3|sceneorg:/parties/1994/assembly94/m4ch/thunderb.zip|youtube:http://www.youtube.com/watch?v=SJ7DXSIU3MA
+title:Sensitivity|author:Light|position:8|webfile:4_channel_music/sensitivity_by_light.mp3|sceneorg:/parties/1994/assembly94/m4ch/sensivit.zip|youtube:http://www.youtube.com/watch?v=fyGu1kqJhHA
+title:Berrycape.bu1|author:Nudcase/Balance|position:9|webfile:4_channel_music/berrycape_bu1_by_nudcase_balance.mp3|sceneorg:/parties/1994/assembly94/m4ch/berrycap.zip|youtube:http://www.youtube.com/watch?v=tUx95UJQ84U
 title:Happypaskamies|author:Moby/Sanity|position:10
 
 ! PC demo
@@ -45,16 +45,16 @@ title:The Mo|author:Demons|position:21|sceneorg:/parties/1994/assembly94/demo/th
 
 ! 32 channel music
 
-title:Walkaway|author:Stargazer/Sonic|position:1|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip
-title:Journey|author:Cube/Aggression|position:2|webfile:32_channel_music/journey_by_cube_aggression.mp3|sceneorg:/parties/1994/assembly94/mmul/journey.zip
-title:Claustrophobia|author:Lizardking/Triton|position:3|webfile:32_channel_music/claustrophobia_by_lizardking_triton.mp3|sceneorg:/parties/1994/assembly94/mmul/claustr2.zip
-title:When The Heavens Fall|author:Purple Motion/Fc|position:4|webfile:32_channel_music/when_the_heavens_fall_by_purple_motion_fc.mp3|sceneorg:/parties/1994/assembly94/mmul/when.zip
-title:Infinity|author:Khyron/Acid|position:5|webfile:32_channel_music/infinity_by_khyron_acid.mp3|sceneorg:/parties/1994/assembly94/mmul/infinity.zip
-title:Empty Mind|author:Edge/Unexpected|position:6|webfile:32_channel_music/empty_mind_by_edge_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/emptmind.zip
-title:Lil'funk Machine|author:Vinyl/Mind Probe|position:7|webfile:32_channel_music/lil_funk_machine_by_vinyl_mind_probe.mp3|sceneorg:/parties/1994/assembly94/mmul/lilfunk.zip
-title:Artificial Inteligence|author:Prism/Unexpected|position:8|webfile:32_channel_music/artificial_inteligence_by_prism_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/artfclin.zip
-title:Nobody Dreaming|author:Dune/Sonic PC|position:10|webfile:32_channel_music/nobody_dreaming_by_dune_sonic_pc.mp3|sceneorg:/parties/1994/assembly94/mmul/nobody.zip
-title:Lovesong|author:Channel5/Flp|position:11|webfile:32_channel_music/lovesong_by_channel5_flp.mp3|sceneorg:/parties/1994/assembly94/mmul/lovesong.zip
+title:Walkaway|author:Stargazer/Sonic|position:1|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip|youtube:http://www.youtube.com/watch?v=7cj8RRDaJy4
+title:Journey|author:Cube/Aggression|position:2|webfile:32_channel_music/journey_by_cube_aggression.mp3|sceneorg:/parties/1994/assembly94/mmul/journey.zip|youtube:http://www.youtube.com/watch?v=S88tqzJ-RBg
+title:Claustrophobia|author:Lizardking/Triton|position:3|webfile:32_channel_music/claustrophobia_by_lizardking_triton.mp3|sceneorg:/parties/1994/assembly94/mmul/claustr2.zip|youtube:http://www.youtube.com/watch?v=ooHRgkwFJxw
+title:When The Heavens Fall|author:Purple Motion/Fc|position:4|webfile:32_channel_music/when_the_heavens_fall_by_purple_motion_fc.mp3|sceneorg:/parties/1994/assembly94/mmul/when.zip|youtube:http://www.youtube.com/watch?v=0Aml-E_OsmI
+title:Infinity|author:Khyron/Acid|position:5|webfile:32_channel_music/infinity_by_khyron_acid.mp3|sceneorg:/parties/1994/assembly94/mmul/infinity.zip|youtube:http://www.youtube.com/watch?v=A5dlzV9uRuA
+title:Empty Mind|author:Edge/Unexpected|position:6|webfile:32_channel_music/empty_mind_by_edge_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/emptmind.zip|youtube:http://www.youtube.com/watch?v=PFCNkhEbsho
+title:Lil'funk Machine|author:Vinyl/Mind Probe|position:7|webfile:32_channel_music/lil_funk_machine_by_vinyl_mind_probe.mp3|sceneorg:/parties/1994/assembly94/mmul/lilfunk.zip|youtube:http://www.youtube.com/watch?v=K6mQYqEGIWU
+title:Artificial Inteligence|author:Prism/Unexpected|position:8|webfile:32_channel_music/artificial_inteligence_by_prism_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/artfclin.zip|youtube:http://www.youtube.com/watch?v=6gPTqKC5PgA
+title:Nobody Dreaming|author:Dune/Sonic PC|position:10|webfile:32_channel_music/nobody_dreaming_by_dune_sonic_pc.mp3|sceneorg:/parties/1994/assembly94/mmul/nobody.zip|youtube:http://www.youtube.com/watch?v=75Tpdtwtg0U
+title:Lovesong|author:Channel5/Flp|position:11|webfile:32_channel_music/lovesong_by_channel5_flp.mp3|sceneorg:/parties/1994/assembly94/mmul/lovesong.zip|youtube:http://www.youtube.com/watch?v=IrB4UP-gi78
 
 ! C64 graphics
 
