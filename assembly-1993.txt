@@ -32,11 +32,11 @@ title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/
 
 ! PC music multichannel
 
-title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/icefront.zip
-title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/cant.zip
+title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/icefront.zip|youtube:http://www.youtube.com/watch?v=esJZAGNT5YA
+title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/cant.zip|youtube:http://www.youtube.com/watch?v=a00w9FxwS_k
 title:Inferno|author:Pentagon|position:3
 title:Atomic II|author:Leinad / Avalanche|position:4
-title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/strshine.zip
+title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/strshine.zip|youtube:http://www.youtube.com/watch?v=goJVCAaULLM
 title:Heartbeat|author:Tonedeaf / Extreme|position:6
 title:Time running out|author:Prism / Wish|position:7
 title:Opossumi|author:Mikki / Epical|position:8
