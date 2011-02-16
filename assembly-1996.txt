@@ -2,16 +2,16 @@
 
 ! C64 music
 
-title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Anal Overload|author:Addict/TB|position:3|webfile:c64_music/anal_overload_by_addict_tb.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Emulating Vinkuna|author:Elektro|position:4|webfile:c64_music/emulating_vinkuna_by_elektro.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Selfmade Executable|author:AMJ/Side B|position:5|webfile:c64_music/selfmade_executable_by_amj_side_b.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Orava|author:Deetsay/Panic|position:6|webfile:c64_music/orava_by_deetsay_panic.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Kao 3|author:Dr.Zoom/Atlantis|position:7|webfile:c64_music/kao_3_by_dr_zoom_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_zardax_origo_dreamline.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
-title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip
+title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=txLxTswkKUo
+title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=mpOMXok6Qvc
+title:Anal Overload|author:Addict/TB|position:3|webfile:c64_music/anal_overload_by_addict_tb.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=7B8lA2mTnt8
+title:Emulating Vinkuna|author:Elektro|position:4|webfile:c64_music/emulating_vinkuna_by_elektro.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=X0-1c8xDlEI
+title:Selfmade Executable|author:AMJ/Side B|position:5|webfile:c64_music/selfmade_executable_by_amj_side_b.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=ny0iJ4Xu9uQ
+title:Orava|author:Deetsay/Panic|position:6|webfile:c64_music/orava_by_deetsay_panic.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=5UFqizDXN_0
+title:Kao 3|author:Dr.Zoom/Atlantis|position:7|webfile:c64_music/kao_3_by_dr_zoom_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=-5nQA_vV6rI
+title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_zardax_origo_dreamline.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=B4O0OqwDIT4
+title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=D1yP1tH0bq0
+title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=oBzMMPE9huE
 
 ! Amiga 64K intro
 
