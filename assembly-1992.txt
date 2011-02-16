@@ -30,12 +30,12 @@ title:Trackmo|author:Xentrix|position:0
 
 title:Iridium|author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
 title:Towards Immortality|author:Groo/Black Robes|position:2|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
-title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip
+title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip|youtube:http://www.youtube.com/watch?v=UdUwuei9iQw
 title:Walking Lonely|author:Megaman/Equinox|position:0|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
-title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip
+title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip|youtube:http://www.youtube.com/watch?v=I_ehvL8lCqI
 title:Insomnia|author:Omar/Sonic|position:0
 title:Back To Music 2|author:Strobo/Stellar|position:0|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
-title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip
+title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|youtube:http://www.youtube.com/watch?v=PO3bS4B2hKQ
 
 ! Graphics
 
