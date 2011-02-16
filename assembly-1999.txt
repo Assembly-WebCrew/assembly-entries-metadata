@@ -29,20 +29,20 @@ title:Lain|author:OtakInc|position:3|sceneorg:/parties/1999/assembly99/java/lain
 
 ! MP3 music
 
-title:Credits|author:Purple Motion|position:1|webfile:mp3_music/credits_by_purple_motion.mp3|sceneorg:/parties/1999/assembly99/mp3/credits_.zip
+title:Credits|author:Purple Motion|position:1|webfile:mp3_music/credits_by_purple_motion.mp3|sceneorg:/parties/1999/assembly99/mp3/credits_.zip|youtube:http://www.youtube.com/watch?v=WkGfJmzyrGw
 title:Lätkäjätkät vie mun naiset|author:Wode|position:2|sceneorg:/parties/1999/assembly99/mp3/ltkjtkt_.zip
-title:box|author:jugi|position:3|webfile:mp3_music/box_by_jugi.mp3|sceneorg:/parties/1999/assembly99/mp3/box_by_j.zip
-title:Improvisation #9999|author:SounDemoN|position:4|webfile:mp3_music/improvisation_9999_by_soundemon.mp3|sceneorg:/parties/1999/assembly99/mp3/improvis.zip
-title:Enigmatique|author:Trauma Child Genesis|position:5|webfile:mp3_music/enigmatique_by_trauma_child_genesis.mp3|sceneorg:/parties/1999/assembly99/mp3/enigmati.zip
-title:threethree|author:Kyllönen|position:6|webfile:mp3_music/threethree_by_kyllnen.mp3|sceneorg:/parties/1999/assembly99/mp3/threethr.zip
-title:Cut The Dope|author:nOOKIE|position:7|webfile:mp3_music/cut_the_dope_by_nookie.mp3|sceneorg:/parties/1999/assembly99/mp3/cut_the_.zip
-title:Lollipop|author:Limbo Duck|position:8|webfile:mp3_music/lollipop_by_limbo_duck.mp3|sceneorg:/parties/1999/assembly99/mp3/lollipop.zip
-title:Vultronic|author:Korgie / pCr|position:9|webfile:mp3_music/vultronic_by_korgie_pcr.mp3|sceneorg:/parties/1999/assembly99/mp3/vultroni.zip
-title:Believe In Blue|author:Substance|position:10|webfile:mp3_music/believe_in_blue_by_substance.mp3|sceneorg:/parties/1999/assembly99/mp3/believe_.zip
-title:Champagne in my shoe|author:bash|position:11|webfile:mp3_music/champagne_in_my_shoe_by_bash.mp3|sceneorg:/parties/1999/assembly99/mp3/champagn.zip
-title:funki|author:Muffler|position:12|webfile:mp3_music/funki_by_muffler.mp3|sceneorg:/parties/1999/assembly99/mp3/funki_by.zip
-title:valkama|author:wildcat|position:13|webfile:mp3_music/valkama_by_wildcat.mp3|sceneorg:/parties/1999/assembly99/mp3/valkama_.zip
-title:phlatys|author:S.Louhela|position:14|webfile:mp3_music/phlatys_by_s_louhela.mp3|sceneorg:/parties/1999/assembly99/mp3/phlatys_.zip
+title:box|author:jugi|position:3|webfile:mp3_music/box_by_jugi.mp3|sceneorg:/parties/1999/assembly99/mp3/box_by_j.zip|youtube:http://www.youtube.com/watch?v=VZxC91kspZ8
+title:Improvisation #9999|author:SounDemoN|position:4|webfile:mp3_music/improvisation_9999_by_soundemon.mp3|sceneorg:/parties/1999/assembly99/mp3/improvis.zip|youtube:http://www.youtube.com/watch?v=bHKhsJUfIOY
+title:Enigmatique|author:Trauma Child Genesis|position:5|webfile:mp3_music/enigmatique_by_trauma_child_genesis.mp3|sceneorg:/parties/1999/assembly99/mp3/enigmati.zip|youtube:http://www.youtube.com/watch?v=5W6G68wne5Y
+title:threethree|author:Kyllönen|position:6|webfile:mp3_music/threethree_by_kyllnen.mp3|sceneorg:/parties/1999/assembly99/mp3/threethr.zip|youtube:http://www.youtube.com/watch?v=YEzLX4xJKpU
+title:Cut The Dope|author:nOOKIE|position:7|webfile:mp3_music/cut_the_dope_by_nookie.mp3|sceneorg:/parties/1999/assembly99/mp3/cut_the_.zip|youtube:http://www.youtube.com/watch?v=e0_eJ139f4k
+title:Lollipop|author:Limbo Duck|position:8|webfile:mp3_music/lollipop_by_limbo_duck.mp3|sceneorg:/parties/1999/assembly99/mp3/lollipop.zip|youtube:http://www.youtube.com/watch?v=Sr7Dx5hVkWo
+title:Vultronic|author:Korgie / pCr|position:9|webfile:mp3_music/vultronic_by_korgie_pcr.mp3|sceneorg:/parties/1999/assembly99/mp3/vultroni.zip|youtube:http://www.youtube.com/watch?v=mW9M503mtGE
+title:Believe In Blue|author:Substance|position:10|webfile:mp3_music/believe_in_blue_by_substance.mp3|sceneorg:/parties/1999/assembly99/mp3/believe_.zip|youtube:http://www.youtube.com/watch?v=pB42-0m8u9k
+title:Champagne in my shoe|author:bash|position:11|webfile:mp3_music/champagne_in_my_shoe_by_bash.mp3|sceneorg:/parties/1999/assembly99/mp3/champagn.zip|youtube:http://www.youtube.com/watch?v=Kuz99fLSv_I
+title:funki|author:Muffler|position:12|webfile:mp3_music/funki_by_muffler.mp3|sceneorg:/parties/1999/assembly99/mp3/funki_by.zip|youtube:http://www.youtube.com/watch?v=ZlFRod_z1bk
+title:valkama|author:wildcat|position:13|webfile:mp3_music/valkama_by_wildcat.mp3|sceneorg:/parties/1999/assembly99/mp3/valkama_.zip|youtube:http://www.youtube.com/watch?v=BYiD-uEfVUg
+title:phlatys|author:S.Louhela|position:14|webfile:mp3_music/phlatys_by_s_louhela.mp3|sceneorg:/parties/1999/assembly99/mp3/phlatys_.zip|youtube:http://www.youtube.com/watch?v=3xDLwrBOJZM
 
 ! Amiga 4k intro
 
@@ -60,21 +60,21 @@ title:Please Hurt Me|author:Statik|position:4|sceneorg:/parties/1999/assembly99/
 
 ! Tiny music
 
-title:Parasite Blessing|author:Quasian|position:1|webfile:tiny_music/parasite_blessing_by_quasian.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 1st - Parasite Blessing by Quasian_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/parasite.zip
-title:Space Hybrids|author:Zealan|position:2|webfile:tiny_music/space_hybrids_by_zealan.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 2nd - Space Hybrids by Zealan_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/space_hy.zip
-title:Cochlea|author:Noa Nakai|position:3|webfile:tiny_music/cochlea_by_noa_nakai.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 3rd - Cochlea by Noa Nakai_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/cochlea_.zip
-title:groove-a-thon|author:goldcrest|position:4|webfile:tiny_music/groove_a_thon_by_goldcrest.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 4th - groobe-a-thon by goldcrest_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/grooveat.zip
-title:tone reveal|author:Shake|position:5|webfile:tiny_music/tone_reveal_by_shake.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 5th - tone reveal by Shake_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/tone_rev.zip
-title:reflektive|author:xhale|position:6|webfile:tiny_music/reflektive_by_xhale.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 6th - reflektive by xhale_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/reflekti.zip
-title:Fifty-Four|author:Substance|position:7|webfile:tiny_music/fifty_four_by_substance.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 7th - Fifty-Four by Substance_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/fiftyfou.zip
-title:Landscapes|author:Vapor|position:8|webfile:tiny_music/landscapes_by_vapor.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 8th - Landscapes by Vapor_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/landscap.zip
-title:Funkest 2|author:Dixan|position:9|webfile:tiny_music/funkest_2_by_dixan.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 9th - Funkest 2 by Dixan_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/funkest_.zip
-title:real|author:chavez|position:10|webfile:tiny_music/real_by_chavez.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 10th - real by chavez_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/real_by_.zip
-title:4MK REHEVAE NAINEN v2.0|author:skeema|position:11|webfile:tiny_music/4mk_rehevae_nainen_v2_0_by_skeema.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 11th - 4MK REHEVAE NAINEN by skeema_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/4mk_rehe.zip
-title:A-TWINKLE|author:Jcole|position:12|webfile:tiny_music/a_twinkle_by_jcole.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 12th - A-TWINKLE by Jcole_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/atwinkle.zip
-title:Garage dayz|author:Leach|position:13|webfile:tiny_music/garage_dayz_by_leach.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 13th - Garage dayz by Leach_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/garage_d.zip
-title:Rokkivuohen Poika|author:Nitro|position:14|webfile:tiny_music/rokkivuohen_poika_by_nitro.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 14th - Rokkivuohen Poika by Nitro_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/rokkivuo.zip
-title:Likwit Motha|author:Repe|position:15|webfile:tiny_music/likwit_motha_by_repe.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 15th - Likwit Motha by Repe_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/likwit_m.zip
+title:Parasite Blessing|author:Quasian|position:1|webfile:tiny_music/parasite_blessing_by_quasian.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 1st - Parasite Blessing by Quasian_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/parasite.zip|youtube:http://www.youtube.com/watch?v=PYjDmQnkEXs
+title:Space Hybrids|author:Zealan|position:2|webfile:tiny_music/space_hybrids_by_zealan.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 2nd - Space Hybrids by Zealan_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/space_hy.zip|youtube:http://www.youtube.com/watch?v=wQ7ksdtxScs
+title:Cochlea|author:Noa Nakai|position:3|webfile:tiny_music/cochlea_by_noa_nakai.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 3rd - Cochlea by Noa Nakai_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/cochlea_.zip|youtube:http://www.youtube.com/watch?v=g_eTQmkSpzE
+title:groove-a-thon|author:goldcrest|position:4|webfile:tiny_music/groove_a_thon_by_goldcrest.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 4th - groobe-a-thon by goldcrest_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/grooveat.zip|youtube:http://www.youtube.com/watch?v=fxMu-rCil-I
+title:tone reveal|author:Shake|position:5|webfile:tiny_music/tone_reveal_by_shake.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 5th - tone reveal by Shake_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/tone_rev.zip|youtube:http://www.youtube.com/watch?v=otLTnP0pzow
+title:reflektive|author:xhale|position:6|webfile:tiny_music/reflektive_by_xhale.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 6th - reflektive by xhale_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/reflekti.zip|youtube:http://www.youtube.com/watch?v=r8rKAOd6KBo
+title:Fifty-Four|author:Substance|position:7|webfile:tiny_music/fifty_four_by_substance.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 7th - Fifty-Four by Substance_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/fiftyfou.zip|youtube:http://www.youtube.com/watch?v=_aeG85uf5kA
+title:Landscapes|author:Vapor|position:8|webfile:tiny_music/landscapes_by_vapor.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 8th - Landscapes by Vapor_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/landscap.zip|youtube:http://www.youtube.com/watch?v=bOFNIKvdrno
+title:Funkest 2|author:Dixan|position:9|webfile:tiny_music/funkest_2_by_dixan.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 9th - Funkest 2 by Dixan_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/funkest_.zip|youtube:http://www.youtube.com/watch?v=vQZZTkUgy2Y
+title:real|author:chavez|position:10|webfile:tiny_music/real_by_chavez.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 10th - real by chavez_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/real_by_.zip|youtube:http://www.youtube.com/watch?v=vgaknXOHmM0
+title:4MK REHEVAE NAINEN v2.0|author:skeema|position:11|webfile:tiny_music/4mk_rehevae_nainen_v2_0_by_skeema.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 11th - 4MK REHEVAE NAINEN by skeema_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/4mk_rehe.zip|youtube:http://www.youtube.com/watch?v=EBkv2AL5k9g
+title:A-TWINKLE|author:Jcole|position:12|webfile:tiny_music/a_twinkle_by_jcole.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 12th - A-TWINKLE by Jcole_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/atwinkle.zip|youtube:http://www.youtube.com/watch?v=wjmpxidKR-o
+title:Garage dayz|author:Leach|position:13|webfile:tiny_music/garage_dayz_by_leach.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 13th - Garage dayz by Leach_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/garage_d.zip|youtube:http://www.youtube.com/watch?v=kkkDhpgvdQE
+title:Rokkivuohen Poika|author:Nitro|position:14|webfile:tiny_music/rokkivuohen_poika_by_nitro.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 14th - Rokkivuohen Poika by Nitro_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/rokkivuo.zip|youtube:http://www.youtube.com/watch?v=gw7eA5F6uK0
+title:Likwit Motha|author:Repe|position:15|webfile:tiny_music/likwit_motha_by_repe.mp3|media:./.oldies-goldies/compos/ASM99 tiny music - 15th - Likwit Motha by Repe_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/likwit_m.zip|youtube:http://www.youtube.com/watch?v=Z_YIcs8r_1s
 
 ! PC 4k intro
 
@@ -208,13 +208,13 @@ title:BeastMaster|author:marzu|position:15|webfile:graphics/beastmaster_by_marzu
 
 ! Multichannel music
 
-title:Monument|author:Nobody|position:1|webfile:multichannel_music/monument_by_nobody.mp3|sceneorg:/parties/1999/assembly99/mmul/monument.zip
-title:second time|author:Quasian|position:2|webfile:multichannel_music/second_time_by_quasian.mp3|sceneorg:/parties/1999/assembly99/mmul/second_t.zip
-title:Route through Baghdad|author:gspot/bandwagon/recreation|position:3|webfile:multichannel_music/route_through_baghdad_by_gspot_bandwagon_recreation.mp3|sceneorg:/parties/1999/assembly99/mmul/route_th.zip
-title:jazzy high|author:hooligan/dcs|position:4|webfile:multichannel_music/jazzy_high_by_hooligan_dcs.mp3|sceneorg:/parties/1999/assembly99/mmul/jazzy_hi.zip
-title:smal red grapes|author:xhale|position:5|webfile:multichannel_music/smal_red_grapes_by_xhale.mp3|sceneorg:/parties/1999/assembly99/mmul/smal_red.zip
-title:Mellon Moon|author:Jean Nine|position:6|webfile:multichannel_music/mellon_moon_by_jean_nine.mp3|sceneorg:/parties/1999/assembly99/mmul/mellon_m.zip
-title:Banana Color|author:Ylikulju|position:7|webfile:multichannel_music/banana_color_by_ylikulju.mp3|sceneorg:/parties/1999/assembly99/mmul/banana_c.zip
-title:x.15periments|author:rain|position:8|webfile:multichannel_music/x_15periments_by_rain.mp3|sceneorg:/parties/1999/assembly99/mmul/x15perim.zip
-title:106 Miles|author:goldcrest|position:9|webfile:multichannel_music/106_miles_by_goldcrest.mp3|sceneorg:/parties/1999/assembly99/mmul/106_mile.zip
-title:Berylux tones|author:Jcole|position:10|webfile:multichannel_music/berylux_tones_by_jcole.mp3|sceneorg:/parties/1999/assembly99/mmul/berylux_.zip
+title:Monument|author:Nobody|position:1|webfile:multichannel_music/monument_by_nobody.mp3|sceneorg:/parties/1999/assembly99/mmul/monument.zip|youtube:http://www.youtube.com/watch?v=ETMpsOYSY-I
+title:second time|author:Quasian|position:2|webfile:multichannel_music/second_time_by_quasian.mp3|sceneorg:/parties/1999/assembly99/mmul/second_t.zip|youtube:http://www.youtube.com/watch?v=6fY6GIjY3QQ
+title:Route through Baghdad|author:gspot/bandwagon/recreation|position:3|webfile:multichannel_music/route_through_baghdad_by_gspot_bandwagon_recreation.mp3|sceneorg:/parties/1999/assembly99/mmul/route_th.zip|youtube:http://www.youtube.com/watch?v=-a6TkRK2GUI
+title:jazzy high|author:hooligan/dcs|position:4|webfile:multichannel_music/jazzy_high_by_hooligan_dcs.mp3|sceneorg:/parties/1999/assembly99/mmul/jazzy_hi.zip|youtube:http://www.youtube.com/watch?v=02yFqzT3dqE
+title:smal red grapes|author:xhale|position:5|webfile:multichannel_music/smal_red_grapes_by_xhale.mp3|sceneorg:/parties/1999/assembly99/mmul/smal_red.zip|youtube:http://www.youtube.com/watch?v=PBi8AqS_9io
+title:Mellon Moon|author:Jean Nine|position:6|webfile:multichannel_music/mellon_moon_by_jean_nine.mp3|sceneorg:/parties/1999/assembly99/mmul/mellon_m.zip|youtube:http://www.youtube.com/watch?v=uzq65qKn_Rk
+title:Banana Color|author:Ylikulju|position:7|webfile:multichannel_music/banana_color_by_ylikulju.mp3|sceneorg:/parties/1999/assembly99/mmul/banana_c.zip|youtube:http://www.youtube.com/watch?v=QgviQuoWKzM
+title:x.15periments|author:rain|position:8|webfile:multichannel_music/x_15periments_by_rain.mp3|sceneorg:/parties/1999/assembly99/mmul/x15perim.zip|youtube:http://www.youtube.com/watch?v=NkdSqWdTQQE
+title:106 Miles|author:goldcrest|position:9|webfile:multichannel_music/106_miles_by_goldcrest.mp3|sceneorg:/parties/1999/assembly99/mmul/106_mile.zip|youtube:http://www.youtube.com/watch?v=Vx4nWPTclpY
+title:Berylux tones|author:Jcole|position:10|webfile:multichannel_music/berylux_tones_by_jcole.mp3|sceneorg:/parties/1999/assembly99/mmul/berylux_.zip|youtube:http://www.youtube.com/watch?v=1Cz7QDrwh8A
