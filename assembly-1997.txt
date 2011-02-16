@@ -119,13 +119,13 @@ title:Vote for Me|author:aa/roy|position:8
 ! 4 channel music
 
 title:Omnipotent|author:Spay/Capacala|position:1
-title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip
+title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip|youtube:http://www.youtube.com/watch?v=0fi2e7UdQgA
 title:Odnalia B|author:pekka pou/da Jormas|position:3
 title:Three Minutes|author:Ganja/Nerve Axis :)|position:4
 title:Can U see the fuse?|author:Stargazer/Sonik Clique|position:5
 title:Evil Tupaque|author:Yolk/CNCD|position:6
 title:Crowd Pleaser|author:Deck/Scoopex|position:7
-title:Dimwit Kroove|author:Illusion/dCS&dsd|position:8|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|sceneorg:/parties/1997/assembly97/m4ch/il-dimwi.zip
+title:Dimwit Kroove|author:Illusion/dCS&dsd|position:8|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|sceneorg:/parties/1997/assembly97/m4ch/il-dimwi.zip|youtube:http://www.youtube.com/watch?v=O5zXuyRNmaw
 title:Tietokonekappale|author:Jammaster Jamaica/Rapukanta|position:9
 title:Zarina|author:Repe/Style^RRR|position:10
 title:Mohka Kontrolh|author:Mirko/Oxylon|position:11
@@ -183,17 +183,17 @@ title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/a
 
 ! Multichannel music
 
-title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip
-title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip
+title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip|youtube:http://www.youtube.com/watch?v=7pftQ1r_Wzk
+title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip|youtube:http://www.youtube.com/watch?v=QuJW1DM34-o
 title:Behind the Kaikal|author:Muffler/Haujobb/dCS|position:3
 title:Asparagus|author:Avocado/Lumen|position:4
 title:Groove Train|author:Dj Flashlight|position:5
 title:Jazzembly|author:Rho/Reveal|position:6
-title:Monkey Business|author:Prism/EMF|position:7|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/monkybiz.zip
+title:Monkey Business|author:Prism/EMF|position:7|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/monkybiz.zip|youtube:http://www.youtube.com/watch?v=Nt2awV7ibFI
 title:It's a Duck Thing|author:Croaker/Halcyon tpoljm hirmu|position:8
-title:Always|author:Swallow & Illusion/dsd|position:9|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|sceneorg:/parties/1997/assembly97/mmul/is-alway.zip
+title:Always|author:Swallow & Illusion/dsd|position:9|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|sceneorg:/parties/1997/assembly97/mmul/is-alway.zip|youtube:http://www.youtube.com/watch?v=Pyc-5i28en8
 title:Plug|author:Leach|position:10
-title:Open Skies|author:Edge/EMF|position:11|webfile:multichannel_music/open_skies_by_edge_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/opensks.zip
+title:Open Skies|author:Edge/EMF|position:11|webfile:multichannel_music/open_skies_by_edge_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/opensks.zip|youtube:http://www.youtube.com/watch?v=SJAXuUV5KaE
 title:Big Bad Luck|author:Tremor/Trauma|position:12
 title:Hostile Hornet|author:Rage/Night55|position:13
 title:Liquid Brown|author:Cybernova/Beatless|position:14
