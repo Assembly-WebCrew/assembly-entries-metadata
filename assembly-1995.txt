@@ -114,20 +114,20 @@ title:Domination's Dentro|author:Domination|position:13
 
 ! Animation
 
-title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:/parties/1995/assembly95/anim/flow.mpg|pouet:2567
-title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|pouet:5357
-title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:/parties/1995/assembly95/anim/space01.avi|pouet:15502
-title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:/parties/1995/assembly95/anim/chess.mpg|pouet:28640
-title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:/parties/1995/assembly95/anim/fline.mpg|pouet:28641
-title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:/parties/1995/assembly95/anim/ride.mpg|pouet:28642
-title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:/parties/1995/assembly95/anim/dawn.mpg|pouet:28643
-title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:/parties/1995/assembly95/anim/bomb.mpg|pouet:28644
-title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:/parties/1995/assembly95/anim/insel.mpg|pouet:28645
-title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:/parties/1995/assembly95/anim/cityscpe.mpg|pouet:28646
-title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:/parties/1995/assembly95/anim/choicecd.mpg|pouet:28647
-title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:/parties/1995/assembly95/anim/aaa.mpg|pouet:28648
-title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:/parties/1995/assembly95/anim/nih.mpg|pouet:28649
-title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|pouet:28650
+title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:/parties/1995/assembly95/anim/flow.mpg|pouet:2567|youtube:http://www.youtube.com/watch?v=jxJONwxAC5o
+title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|pouet:5357|youtube:http://www.youtube.com/watch?v=znmzblccKFU
+title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:/parties/1995/assembly95/anim/space01.avi|pouet:15502|youtube:http://www.youtube.com/watch?v=ijsDZwG_9Us
+title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:/parties/1995/assembly95/anim/chess.mpg|pouet:28640|youtube:http://www.youtube.com/watch?v=CoU7soYhbOo
+title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:/parties/1995/assembly95/anim/fline.mpg|pouet:28641|youtube:http://www.youtube.com/watch?v=yS5Ru15OY60
+title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:/parties/1995/assembly95/anim/ride.mpg|pouet:28642|youtube:http://www.youtube.com/watch?v=h0p2ZzwAlgQ
+title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:/parties/1995/assembly95/anim/dawn.mpg|pouet:28643|youtube:http://www.youtube.com/watch?v=92hqcdw4ad8
+title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:/parties/1995/assembly95/anim/bomb.mpg|pouet:28644|youtube:http://www.youtube.com/watch?v=Q-_1s-hVhFA
+title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:/parties/1995/assembly95/anim/insel.mpg|pouet:28645|youtube:http://www.youtube.com/watch?v=l29tyPwGM00
+title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:/parties/1995/assembly95/anim/cityscpe.mpg|pouet:28646|youtube:http://www.youtube.com/watch?v=t41zVXV-elE
+title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:/parties/1995/assembly95/anim/choicecd.mpg|pouet:28647|youtube:http://www.youtube.com/watch?v=xga1Z3XVjUw
+title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:/parties/1995/assembly95/anim/aaa.mpg|pouet:28648|youtube:http://www.youtube.com/watch?v=BZ-4dPNAwJE
+title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:/parties/1995/assembly95/anim/nih.mpg|pouet:28649|youtube:http://www.youtube.com/watch?v=QN3XPK-FAso
+title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|pouet:28650|youtube:http://www.youtube.com/watch?v=Zj6knjJwnB0
 
 ! Amiga 40k intro
 
