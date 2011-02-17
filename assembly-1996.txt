@@ -2,16 +2,16 @@
 
 ! C64 music
 
-title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=txLxTswkKUo
-title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=mpOMXok6Qvc
-title:Anal Overload|author:Addict/TB|position:3|webfile:c64_music/anal_overload_by_addict_tb.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=7B8lA2mTnt8
-title:Emulating Vinkuna|author:Elektro|position:4|webfile:c64_music/emulating_vinkuna_by_elektro.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=X0-1c8xDlEI
-title:Selfmade Executable|author:AMJ/Side B|position:5|webfile:c64_music/selfmade_executable_by_amj_side_b.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=ny0iJ4Xu9uQ
-title:Orava|author:Deetsay/Panic|position:6|webfile:c64_music/orava_by_deetsay_panic.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=5UFqizDXN_0
-title:Kao 3|author:Dr.Zoom/Atlantis|position:7|webfile:c64_music/kao_3_by_dr_zoom_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=-5nQA_vV6rI
-title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_zardax_origo_dreamline.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=B4O0OqwDIT4
-title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=D1yP1tH0bq0
-title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:http://www.youtube.com/watch?v=oBzMMPE9huE
+title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:txLxTswkKUo
+title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:mpOMXok6Qvc
+title:Anal Overload|author:Addict/TB|position:3|webfile:c64_music/anal_overload_by_addict_tb.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:7B8lA2mTnt8
+title:Emulating Vinkuna|author:Elektro|position:4|webfile:c64_music/emulating_vinkuna_by_elektro.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:X0-1c8xDlEI
+title:Selfmade Executable|author:AMJ/Side B|position:5|webfile:c64_music/selfmade_executable_by_amj_side_b.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:ny0iJ4Xu9uQ
+title:Orava|author:Deetsay/Panic|position:6|webfile:c64_music/orava_by_deetsay_panic.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:5UFqizDXN_0
+title:Kao 3|author:Dr.Zoom/Atlantis|position:7|webfile:c64_music/kao_3_by_dr_zoom_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:-5nQA_vV6rI
+title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_zardax_origo_dreamline.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:B4O0OqwDIT4
+title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:D1yP1tH0bq0
+title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:oBzMMPE9huE
 
 ! Amiga 64K intro
 
@@ -177,11 +177,11 @@ title:Power Rangers|author:Cool Productions|position:13|sceneorg:/parties/1996/a
 
 ! Animation
 
-title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:/parties/1996/assembly96/anim/amis5000.zip|pouet:6733|youtube:http://www.youtube.com/watch?v=jbd0G3o9-to
+title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:/parties/1996/assembly96/anim/amis5000.zip|pouet:6733|youtube:jbd0G3o9-to
 title:In and out|author:Timo Kinnunen|position:2
 title:Giant bunghole in outer s.|author:Paskasoft|position:3
 title:Heroes|author:unknown|position:4
-title:Green Peace|author:Innocent/Abaddon|position:5|webfile:animation/green_peace_by_innocent_abaddon.mpeg|sceneorg:/parties/1996/assembly96/anim/green.zip|pouet:32360|youtube:http://www.youtube.com/watch?v=USZiICB-s6Q
+title:Green Peace|author:Innocent/Abaddon|position:5|webfile:animation/green_peace_by_innocent_abaddon.mpeg|sceneorg:/parties/1996/assembly96/anim/green.zip|pouet:32360|youtube:USZiICB-s6Q
 title:Visitor|author:Slimy Devil/TDC|position:6
 title:Jolly Day|author:Inside|position:7
 title:Overall|author:Grunt|position:8

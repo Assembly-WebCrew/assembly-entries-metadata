@@ -20,21 +20,21 @@ title:AntiHeroes|author:marzu|position:15|webfile:oldskool_graphics/antiheroes_b
 
 ! MP3 music
 
-title:High Up A Mountain|author:Lowland / Astropolis|position:1|webfile:mp3_music/high_up_a_mountain_by_lowland_astropolis.mp3|sceneorg:/parties/2000/assembly00/mp3/high_up_.zip|youtube:http://www.youtube.com/watch?v=97iVzIrRltQ
-title:2000: an aural odyssey|author:Firestorm|position:2|webfile:mp3_music/2000_an_aural_odyssey_by_firestorm.mp3|sceneorg:/parties/2000/assembly00/mp3/2000_an_.zip|youtube:http://www.youtube.com/watch?v=1PStgL_oJZI
-title:On it|author:jugi|position:3|webfile:mp3_music/on_it_by_jugi.mp3|sceneorg:/parties/2000/assembly00/mp3/on_it_by.zip|youtube:http://www.youtube.com/watch?v=2qAi_L9ruag
-title:Mopo Karkailee|author:tonic|position:4|webfile:mp3_music/mopo_karkailee_by_tonic.mp3|sceneorg:/parties/2000/assembly00/mp3/mopo_kar.zip|youtube:http://www.youtube.com/watch?v=Rk9RC0qlyBE
-title:Zimmah Queue|author:Trauma Child Genesis|position:5|webfile:mp3_music/zimmah_queue_by_trauma_child_genesis.mp3|sceneorg:/parties/2000/assembly00/mp3/zimmah_q.zip|youtube:http://www.youtube.com/watch?v=XINBq7oHWRs
-title:Motion Blur|author:Huezo|position:6|webfile:mp3_music/motion_blur_by_huezo.mp3|sceneorg:/parties/2000/assembly00/mp3/motion_b.zip|youtube:http://www.youtube.com/watch?v=odq13QaVoqs
-title:pilvet|author:gspot|position:7|webfile:mp3_music/pilvet_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mp3/pilvet_b.zip|youtube:http://www.youtube.com/watch?v=G0QRMNFYSM4
-title:Airwalk|author:Ganja / Nerve Axis|position:8|webfile:mp3_music/airwalk_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mp3/airwalk_.zip|youtube:http://www.youtube.com/watch?v=r99oU8t_oic
-title:i will go|author:virgill / haujobb|position:9|webfile:mp3_music/i_will_go_by_virgill_haujobb.mp3|sceneorg:/parties/2000/assembly00/mp3/i_will_g.zip|youtube:http://www.youtube.com/watch?v=MCecF063sbQ
-title:Finpotentit - Kesälerssi|author:CPlanet|position:10|webfile:mp3_music/finpotentit_kes_lerssi_by_cplanet.mp3|sceneorg:/parties/2000/assembly00/mp3/finpoten.zip|youtube:http://www.youtube.com/watch?v=ZnCg3PvdV50
-title:Adagio for Freedom|author:Acumen|position:11|webfile:mp3_music/adagio_for_freedom_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mp3/adagio_f.zip|youtube:http://www.youtube.com/watch?v=ftgRR3u7UcE
-title:Kaljaa ainiaan|author:Vilunen|position:12|webfile:mp3_music/kaljaa_ainiaan_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mp3/kaljaa_a.zip|youtube:http://www.youtube.com/watch?v=mw-A0f9f4Jc
-title:Lame Station|author:Janne Kosonen & Petri Malinen (submit : ABJ.(Ville Malinen))|position:13|webfile:mp3_music/lame_station_by_janne_kosonen_petri_malinen_submit_abj_ville_malinen.mp3|sceneorg:/parties/2000/assembly00/mp3/lame_sta.zip|youtube:http://www.youtube.com/watch?v=gVdK221oHMk
-title:Just Use Your Imagination|author:Turkka|position:14|webfile:mp3_music/just_use_your_imagination_by_turkka.mp3|sceneorg:/parties/2000/assembly00/mp3/just_use.zip|youtube:http://www.youtube.com/watch?v=rbLFt08Zg20
-title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|youtube:http://www.youtube.com/watch?v=4mbvNHw-UtY
+title:High Up A Mountain|author:Lowland / Astropolis|position:1|webfile:mp3_music/high_up_a_mountain_by_lowland_astropolis.mp3|sceneorg:/parties/2000/assembly00/mp3/high_up_.zip|youtube:97iVzIrRltQ
+title:2000: an aural odyssey|author:Firestorm|position:2|webfile:mp3_music/2000_an_aural_odyssey_by_firestorm.mp3|sceneorg:/parties/2000/assembly00/mp3/2000_an_.zip|youtube:1PStgL_oJZI
+title:On it|author:jugi|position:3|webfile:mp3_music/on_it_by_jugi.mp3|sceneorg:/parties/2000/assembly00/mp3/on_it_by.zip|youtube:2qAi_L9ruag
+title:Mopo Karkailee|author:tonic|position:4|webfile:mp3_music/mopo_karkailee_by_tonic.mp3|sceneorg:/parties/2000/assembly00/mp3/mopo_kar.zip|youtube:Rk9RC0qlyBE
+title:Zimmah Queue|author:Trauma Child Genesis|position:5|webfile:mp3_music/zimmah_queue_by_trauma_child_genesis.mp3|sceneorg:/parties/2000/assembly00/mp3/zimmah_q.zip|youtube:XINBq7oHWRs
+title:Motion Blur|author:Huezo|position:6|webfile:mp3_music/motion_blur_by_huezo.mp3|sceneorg:/parties/2000/assembly00/mp3/motion_b.zip|youtube:odq13QaVoqs
+title:pilvet|author:gspot|position:7|webfile:mp3_music/pilvet_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mp3/pilvet_b.zip|youtube:G0QRMNFYSM4
+title:Airwalk|author:Ganja / Nerve Axis|position:8|webfile:mp3_music/airwalk_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mp3/airwalk_.zip|youtube:r99oU8t_oic
+title:i will go|author:virgill / haujobb|position:9|webfile:mp3_music/i_will_go_by_virgill_haujobb.mp3|sceneorg:/parties/2000/assembly00/mp3/i_will_g.zip|youtube:MCecF063sbQ
+title:Finpotentit - Kesälerssi|author:CPlanet|position:10|webfile:mp3_music/finpotentit_kes_lerssi_by_cplanet.mp3|sceneorg:/parties/2000/assembly00/mp3/finpoten.zip|youtube:ZnCg3PvdV50
+title:Adagio for Freedom|author:Acumen|position:11|webfile:mp3_music/adagio_for_freedom_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mp3/adagio_f.zip|youtube:ftgRR3u7UcE
+title:Kaljaa ainiaan|author:Vilunen|position:12|webfile:mp3_music/kaljaa_ainiaan_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mp3/kaljaa_a.zip|youtube:mw-A0f9f4Jc
+title:Lame Station|author:Janne Kosonen & Petri Malinen (submit : ABJ.(Ville Malinen))|position:13|webfile:mp3_music/lame_station_by_janne_kosonen_petri_malinen_submit_abj_ville_malinen.mp3|sceneorg:/parties/2000/assembly00/mp3/lame_sta.zip|youtube:gVdK221oHMk
+title:Just Use Your Imagination|author:Turkka|position:14|webfile:mp3_music/just_use_your_imagination_by_turkka.mp3|sceneorg:/parties/2000/assembly00/mp3/just_use.zip|youtube:rbLFt08Zg20
+title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|youtube:4mbvNHw-UtY
 
 ! 64k intro
 
@@ -89,21 +89,21 @@ title:Explicit Supremacy|author:Apocalypse Design|position:15|sceneorg:/parties/
 
 ! Oldskool music
 
-title:Acid Jazzed Evening|author:tempest/damage|position:1|webfile:oldskool_music/acid_jazzed_evening_by_tempest_damage.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/acid_jaz.zip|youtube:http://www.youtube.com/watch?v=tXzLIrgHAxw
-title:A Strange Night In the Hen House|author:kiwi|position:2|webfile:oldskool_music/a_strange_night_in_the_hen_house_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/a_strang.zip|youtube:http://www.youtube.com/watch?v=RiFDFS3q9_s
+title:Acid Jazzed Evening|author:tempest/damage|position:1|webfile:oldskool_music/acid_jazzed_evening_by_tempest_damage.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/acid_jaz.zip|youtube:tXzLIrgHAxw
+title:A Strange Night In the Hen House|author:kiwi|position:2|webfile:oldskool_music/a_strange_night_in_the_hen_house_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/a_strang.zip|youtube:RiFDFS3q9_s
 title:Dash It|author:Agemixer / Scallop|position:3|sceneorg:/parties/2000/assembly00/oldskool/music/dash_it_.zip
 title:Angel project|author:!Cube|position:4|sceneorg:/parties/2000/assembly00/oldskool/music/angel_pr.zip
 title:sunchild|author:britelite|position:5|sceneorg:/parties/2000/assembly00/oldskool/music/sunchild.zip
-title:Taivalkoski Beats|author:Jean Nine|position:6|webfile:oldskool_music/taivalkoski_beats_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/taivalko.zip|youtube:http://www.youtube.com/watch?v=NFpsCzJ0U8I
-title:Alma Caribe|author:dixan|position:7|webfile:oldskool_music/alma_caribe_by_dixan.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/alma_car.zip|youtube:http://www.youtube.com/watch?v=p1vuv9lGHgo
-title:Miniswing|author:Marvel|position:8|webfile:oldskool_music/miniswing_by_marvel.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/miniswin.zip|youtube:http://www.youtube.com/watch?v=sogeu8Re9g8
-title:vanha koulutalo|author:juzdie|position:9|webfile:oldskool_music/vanha_koulutalo_by_juzdie.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/vanha_ko.zip|youtube:http://www.youtube.com/watch?v=1uaG23h0ucw
+title:Taivalkoski Beats|author:Jean Nine|position:6|webfile:oldskool_music/taivalkoski_beats_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/taivalko.zip|youtube:NFpsCzJ0U8I
+title:Alma Caribe|author:dixan|position:7|webfile:oldskool_music/alma_caribe_by_dixan.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/alma_car.zip|youtube:p1vuv9lGHgo
+title:Miniswing|author:Marvel|position:8|webfile:oldskool_music/miniswing_by_marvel.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/miniswin.zip|youtube:sogeu8Re9g8
+title:vanha koulutalo|author:juzdie|position:9|webfile:oldskool_music/vanha_koulutalo_by_juzdie.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/vanha_ko.zip|youtube:1uaG23h0ucw
 title:hold that thought|author:deetsay / panic|position:10|sceneorg:/parties/2000/assembly00/oldskool/music/hold_tha.zip
-title:An Intro Tune|author:Ganja / Nerve Axis|position:11|webfile:oldskool_music/an_intro_tune_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/an_intro.zip|youtube:http://www.youtube.com/watch?v=tlnvdang8XA
-title:The Great Hole|author:Huezo|position:12|webfile:oldskool_music/the_great_hole_by_huezo.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/the_grea.zip|youtube:http://www.youtube.com/watch?v=24JrfGrYcY8
-title:Afterburner|author:Leopold|position:13|webfile:oldskool_music/afterburner_by_leopold.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/afterbur.zip|youtube:http://www.youtube.com/watch?v=6_sz0g1eXLg
-title:hassans lounge|author:vae|position:14|webfile:oldskool_music/hassans_lounge_by_vae.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/hassans_.zip|youtube:http://www.youtube.com/watch?v=kQz4-dKsWPQ
-title:Antarctica|author:deck / scoopex|position:15|webfile:oldskool_music/antarctica_by_deck_scoopex.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/antarcti.zip|youtube:http://www.youtube.com/watch?v=gxuxs75JAhk
+title:An Intro Tune|author:Ganja / Nerve Axis|position:11|webfile:oldskool_music/an_intro_tune_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/an_intro.zip|youtube:tlnvdang8XA
+title:The Great Hole|author:Huezo|position:12|webfile:oldskool_music/the_great_hole_by_huezo.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/the_grea.zip|youtube:24JrfGrYcY8
+title:Afterburner|author:Leopold|position:13|webfile:oldskool_music/afterburner_by_leopold.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/afterbur.zip|youtube:6_sz0g1eXLg
+title:hassans lounge|author:vae|position:14|webfile:oldskool_music/hassans_lounge_by_vae.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/hassans_.zip|youtube:kQz4-dKsWPQ
+title:Antarctica|author:deck / scoopex|position:15|webfile:oldskool_music/antarctica_by_deck_scoopex.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/antarcti.zip|youtube:gxuxs75JAhk
 
 ! Flash
 
@@ -132,7 +132,7 @@ title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hat
 
 ! Playstation demo
 
-title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432|youtube:http://www.youtube.com/watch?v=-0QHPO2m-og
+title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432|youtube:-0QHPO2m-og
 title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/rankkuri.zip|pouet:2433
 
 ! 4k intro
@@ -152,17 +152,17 @@ title:oliphaunt|author:kilobite|position:12|sceneorg:/parties/2000/assembly00/in
 
 ! Animation
 
-title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:6159|youtube:http://www.youtube.com/watch?v=342z0EvSM-c
-title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:http://www.youtube.com/watch?v=vqLplqijSwk
-title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613|youtube:http://www.youtube.com/watch?v=QpeDGlGiXQE
-title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614|youtube:http://www.youtube.com/watch?v=67l2VW8r8XA
-title:Gates of Hell|author:Vortex|position:5|webfile:animation/gates_of_hell_by_vortex.mpeg|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|pouet:28615|youtube:http://www.youtube.com/watch?v=vU1j_N-OTE8
-title:Cubinson Rosoe|author:Katastrophik|position:6|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|pouet:28616|youtube:http://www.youtube.com/watch?v=mnRi6NXTQig
-title:Creepy Horror|author:Data2|position:7|webfile:animation/creepy_horror_by_data2.mpeg|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|pouet:28617|youtube:http://www.youtube.com/watch?v=xl8QIh2Rh4M
-title:escape|author:nOte|position:8|webfile:animation/escape_by_note.mpeg|sceneorg:/parties/2000/assembly00/anim/escape.mpg|pouet:28618|youtube:http://www.youtube.com/watch?v=5rUoj3DeHYY
-title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|pouet:28619|youtube:http://www.youtube.com/watch?v=Ns_gdoyTSHA
-title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620|youtube:http://www.youtube.com/watch?v=B1m4ZIFMxKw
-title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621|youtube:http://www.youtube.com/watch?v=XrG0nniMQ-M
+title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:6159|youtube:342z0EvSM-c
+title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:vqLplqijSwk
+title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613|youtube:QpeDGlGiXQE
+title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614|youtube:67l2VW8r8XA
+title:Gates of Hell|author:Vortex|position:5|webfile:animation/gates_of_hell_by_vortex.mpeg|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|pouet:28615|youtube:vU1j_N-OTE8
+title:Cubinson Rosoe|author:Katastrophik|position:6|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|pouet:28616|youtube:mnRi6NXTQig
+title:Creepy Horror|author:Data2|position:7|webfile:animation/creepy_horror_by_data2.mpeg|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|pouet:28617|youtube:xl8QIh2Rh4M
+title:escape|author:nOte|position:8|webfile:animation/escape_by_note.mpeg|sceneorg:/parties/2000/assembly00/anim/escape.mpg|pouet:28618|youtube:5rUoj3DeHYY
+title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|pouet:28619|youtube:Ns_gdoyTSHA
+title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620|youtube:B1m4ZIFMxKw
+title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621|youtube:XrG0nniMQ-M
 
 ! Pixel graphics
 
@@ -194,18 +194,18 @@ title:ei kiva|author:kokki|position:25|webfile:pixel_graphics/ei_kiva_by_kokki.p
 
 ! Wild demo
 
-title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:6140|youtube:http://www.youtube.com/watch?v=kmPHdqoowAk
+title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:6140|youtube:kmPHdqoowAk
 title:What Is a Woman|author:Nyhjä Group|position:2
 title:Vihred uhka|author:Insane Bastards|position:3
-title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611|youtube:http://www.youtube.com/watch?v=btj7QqDMSnU
-title:Assembler (k)|author:Funky Bong|position:5|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|youtube:http://www.youtube.com/watch?v=eDpKsovdq8k
-title:The Game|author:Joorus & Julle|position:6|webfile:wild_demo/the_game_by_joorus_julle.mpeg|sceneorg:/parties/2000/assembly00/wild/the_game.zip|pouet:28610|youtube:http://www.youtube.com/watch?v=_Kgi47REmf8
-title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|youtube:http://www.youtube.com/watch?v=e_-8xbn_5Z4
+title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611|youtube:btj7QqDMSnU
+title:Assembler (k)|author:Funky Bong|position:5|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|youtube:eDpKsovdq8k
+title:The Game|author:Joorus & Julle|position:6|webfile:wild_demo/the_game_by_joorus_julle.mpeg|sceneorg:/parties/2000/assembly00/wild/the_game.zip|pouet:28610|youtube:_Kgi47REmf8
+title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|youtube:e_-8xbn_5Z4
 title:Shebaxan - Teaser Trailer|author:Jussi Castellanos|position:8
-title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920|youtube:http://www.youtube.com/watch?v=HwvVDQdvjPs
+title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920|youtube:HwvVDQdvjPs
 title:Everything Falls (trailer!)|author:Tontza / Ice CD ISDN|position:10
-title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:11534|youtube:http://www.youtube.com/watch?v=a2SASU3gGrc
-title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315|youtube:http://www.youtube.com/watch?v=rjQjbMYKrr0
+title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:11534|youtube:a2SASU3gGrc
+title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315|youtube:rjQjbMYKrr0
 title:Perfect Day|author:BHC|position:13
 title:Ei Sormia Sinne, Pliis!|author:ENTR0P1C!Production|position:14
 title:The Meeting|author:Teophania|position:15
@@ -236,18 +236,18 @@ title:Wizards Room|author:Ember|position:20|webfile:raytrace_graphics/wizards_ro
 
 ! Multichannel music
 
-title:Papa funk goes larp|author:Vilunen|position:1|webfile:multichannel_music/papa_funk_goes_larp_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mmul/papa_fun.zip|youtube:http://www.youtube.com/watch?v=QAs5l0Ev8Uo
-title:Dreams n fantasies|author:PK|position:2|webfile:multichannel_music/dreams_n_fantasies_by_pk.mp3|sceneorg:/parties/2000/assembly00/mmul/dreams_n.zip|youtube:http://www.youtube.com/watch?v=5hbq5WfsZ4o
-title:napol by dawn|author:gspot|position:3|webfile:multichannel_music/napol_by_dawn_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mmul/napol_by.zip|youtube:http://www.youtube.com/watch?v=wCKClOs3chg
-title:Track no stomach too|author:Nitro|position:4|webfile:multichannel_music/track_no_stomach_too_by_nitro.mp3|sceneorg:/parties/2000/assembly00/mmul/track_no.zip|youtube:http://www.youtube.com/watch?v=0V4QXs6U4vA
-title:hedelmdsalaattia|author:g-crest & maza|position:5|webfile:multichannel_music/hedelmdsalaattia_by_g_crest_maza.mp3|sceneorg:/parties/2000/assembly00/mmul/hedelmsa.zip|youtube:http://www.youtube.com/watch?v=ruyvuch6eeY
-title:turquoise|author:reed|position:6|webfile:multichannel_music/turquoise_by_reed.mp3|sceneorg:/parties/2000/assembly00/mmul/turquois.zip|youtube:http://www.youtube.com/watch?v=nKRUsz3DzE4
-title:Landmark of Lullabies|author:Acumen|position:7|webfile:multichannel_music/landmark_of_lullabies_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mmul/landmark.zip|youtube:http://www.youtube.com/watch?v=ecK2hXaPurY
-title:Essence of Life|author:Prophecy|position:8|webfile:multichannel_music/essence_of_life_by_prophecy.mp3|sceneorg:/parties/2000/assembly00/mmul/essence_.zip|youtube:http://www.youtube.com/watch?v=wH8xfwBuAxU
-title:Late Night Session|author:Ganja / Nerve Axis|position:9|webfile:multichannel_music/late_night_session_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mmul/late_nig.zip|youtube:http://www.youtube.com/watch?v=u7SCzET3N1Q
-title:Sdhkvjeesus|author:lawb|position:10|webfile:multichannel_music/sdhkvjeesus_by_lawb.mp3|sceneorg:/parties/2000/assembly00/mmul/shkjeesu.zip|youtube:http://www.youtube.com/watch?v=WZBtzsWAfYw
-title:The Day Big Ugly Bill Ate My Electric Guitar|author:kiwi|position:11|webfile:multichannel_music/the_day_big_ugly_bill_ate_my_electric_guitar_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/mmul/the_day_.zip|youtube:http://www.youtube.com/watch?v=7RkCl7aehx0
-title:Lemonapplet Beautiful|author:Jean Nine|position:12|webfile:multichannel_music/lemonapplet_beautiful_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/mmul/lemonapp.zip|youtube:http://www.youtube.com/watch?v=RiH4EynNs94
-title:On the winds|author:Breeze|position:13|webfile:multichannel_music/on_the_winds_by_breeze.mp3|sceneorg:/parties/2000/assembly00/mmul/on_the_w.zip|youtube:http://www.youtube.com/watch?v=9NJwP66M07c
-title:computerese|author:smirk/damage|position:14|webfile:multichannel_music/computerese_by_smirk_damage.mp3|sceneorg:/parties/2000/assembly00/mmul/computer.zip|youtube:http://www.youtube.com/watch?v=jMSqKrQ1qUw
-title:freq.ency|author:wayout/gzar, chemical reaction, nivea|position:15|webfile:multichannel_music/freq_ency_by_wayout_gzar_chemical_reaction_nivea.mp3|sceneorg:/parties/2000/assembly00/mmul/freqency.zip|youtube:http://www.youtube.com/watch?v=kcMnzIxbP4M
+title:Papa funk goes larp|author:Vilunen|position:1|webfile:multichannel_music/papa_funk_goes_larp_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mmul/papa_fun.zip|youtube:QAs5l0Ev8Uo
+title:Dreams n fantasies|author:PK|position:2|webfile:multichannel_music/dreams_n_fantasies_by_pk.mp3|sceneorg:/parties/2000/assembly00/mmul/dreams_n.zip|youtube:5hbq5WfsZ4o
+title:napol by dawn|author:gspot|position:3|webfile:multichannel_music/napol_by_dawn_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mmul/napol_by.zip|youtube:wCKClOs3chg
+title:Track no stomach too|author:Nitro|position:4|webfile:multichannel_music/track_no_stomach_too_by_nitro.mp3|sceneorg:/parties/2000/assembly00/mmul/track_no.zip|youtube:0V4QXs6U4vA
+title:hedelmdsalaattia|author:g-crest & maza|position:5|webfile:multichannel_music/hedelmdsalaattia_by_g_crest_maza.mp3|sceneorg:/parties/2000/assembly00/mmul/hedelmsa.zip|youtube:ruyvuch6eeY
+title:turquoise|author:reed|position:6|webfile:multichannel_music/turquoise_by_reed.mp3|sceneorg:/parties/2000/assembly00/mmul/turquois.zip|youtube:nKRUsz3DzE4
+title:Landmark of Lullabies|author:Acumen|position:7|webfile:multichannel_music/landmark_of_lullabies_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mmul/landmark.zip|youtube:ecK2hXaPurY
+title:Essence of Life|author:Prophecy|position:8|webfile:multichannel_music/essence_of_life_by_prophecy.mp3|sceneorg:/parties/2000/assembly00/mmul/essence_.zip|youtube:wH8xfwBuAxU
+title:Late Night Session|author:Ganja / Nerve Axis|position:9|webfile:multichannel_music/late_night_session_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mmul/late_nig.zip|youtube:u7SCzET3N1Q
+title:Sdhkvjeesus|author:lawb|position:10|webfile:multichannel_music/sdhkvjeesus_by_lawb.mp3|sceneorg:/parties/2000/assembly00/mmul/shkjeesu.zip|youtube:WZBtzsWAfYw
+title:The Day Big Ugly Bill Ate My Electric Guitar|author:kiwi|position:11|webfile:multichannel_music/the_day_big_ugly_bill_ate_my_electric_guitar_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/mmul/the_day_.zip|youtube:7RkCl7aehx0
+title:Lemonapplet Beautiful|author:Jean Nine|position:12|webfile:multichannel_music/lemonapplet_beautiful_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/mmul/lemonapp.zip|youtube:RiH4EynNs94
+title:On the winds|author:Breeze|position:13|webfile:multichannel_music/on_the_winds_by_breeze.mp3|sceneorg:/parties/2000/assembly00/mmul/on_the_w.zip|youtube:9NJwP66M07c
+title:computerese|author:smirk/damage|position:14|webfile:multichannel_music/computerese_by_smirk_damage.mp3|sceneorg:/parties/2000/assembly00/mmul/computer.zip|youtube:jMSqKrQ1qUw
+title:freq.ency|author:wayout/gzar, chemical reaction, nivea|position:15|webfile:multichannel_music/freq_ency_by_wayout_gzar_chemical_reaction_nivea.mp3|sceneorg:/parties/2000/assembly00/mmul/freqency.zip|youtube:kcMnzIxbP4M

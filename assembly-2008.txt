@@ -3,20 +3,20 @@
 ! Extreme music
 
 title:Spacecake|author:Gasman / H-Prg / AY Riders|position:1|sceneorg:/parties/2008/assembly08/extreme/music/spacecake_by_gasman__hprg__ay_riders.zip
-title:The Epic Tune|author:Noby|position:2|webfile:extreme_music/the_epic_tune_by_noby.mp3|sceneorg:/parties/2008/assembly08/extreme/music/the_epic_tune_by_noby.zip|youtube:http://www.youtube.com/watch?v=tE46QJosxig
-title:Demotoys|author:Castor / Immersion|position:3|webfile:extreme_music/demotoys_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/extreme/music/demotoys_by_castor__immersion.zip|youtube:http://www.youtube.com/watch?v=_AVicRLfe6E
-title:Power Quercetin|author:King Thrill / Tekotuotanto|position:4|webfile:extreme_music/power_quercetin_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/extreme/music/power_quercetin_by_king_thrill__tekotuotanto.zip|youtube:http://www.youtube.com/watch?v=NOhdLxb1OGM
+title:The Epic Tune|author:Noby|position:2|webfile:extreme_music/the_epic_tune_by_noby.mp3|sceneorg:/parties/2008/assembly08/extreme/music/the_epic_tune_by_noby.zip|youtube:tE46QJosxig
+title:Demotoys|author:Castor / Immersion|position:3|webfile:extreme_music/demotoys_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/extreme/music/demotoys_by_castor__immersion.zip|youtube:_AVicRLfe6E
+title:Power Quercetin|author:King Thrill / Tekotuotanto|position:4|webfile:extreme_music/power_quercetin_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/extreme/music/power_quercetin_by_king_thrill__tekotuotanto.zip|youtube:NOhdLxb1OGM
 title:Ego|author:Reed / Fairlight|position:5|sceneorg:/parties/2008/assembly08/extreme/music/ego_by_reed__fairlight.zip
 title:Revolver|author:Reed / Fairlight|position:6|sceneorg:/parties/2008/assembly08/extreme/music/revolver_by_reed__fairlight.zip
-title:Robot|author:Castor / Immersion|position:7|webfile:extreme_music/robot_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/extreme/music/robot_by_castor__immersion.zip|youtube:http://www.youtube.com/watch?v=zvxZHtvgeEk
+title:Robot|author:Castor / Immersion|position:7|webfile:extreme_music/robot_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/extreme/music/robot_by_castor__immersion.zip|youtube:zvxZHtvgeEk
 title:Time Passes By|author:Lauri Nukala|position:8|sceneorg:/parties/2008/assembly08/extreme/music/time_passes_by_by_lauri_nukala.zip
-title:Solanoid Surfers|author:Roz & Marq / Fit|position:9|webfile:extreme_music/solanoid_surfers_by_roz_marq_fit.mp3|sceneorg:/parties/2008/assembly08/extreme/music/solanoid_surfers_by_roz__marq__fit.zip|youtube:http://www.youtube.com/watch?v=JIlxZWE65RY
+title:Solanoid Surfers|author:Roz & Marq / Fit|position:9|webfile:extreme_music/solanoid_surfers_by_roz_marq_fit.mp3|sceneorg:/parties/2008/assembly08/extreme/music/solanoid_surfers_by_roz__marq__fit.zip|youtube:JIlxZWE65RY
 title:Wobblism|author:AEGIS OF DSS|position:10|sceneorg:/parties/2008/assembly08/extreme/music/wobblism_by_aegis_of_dss.zip
-title:Unpacked|author:Gargaj|position:11|webfile:extreme_music/unpacked_by_gargaj.mp3|sceneorg:/parties/2008/assembly08/extreme/music/unpacked_by_gargaj.zip|youtube:http://www.youtube.com/watch?v=LW5yazbB3K8
+title:Unpacked|author:Gargaj|position:11|webfile:extreme_music/unpacked_by_gargaj.mp3|sceneorg:/parties/2008/assembly08/extreme/music/unpacked_by_gargaj.zip|youtube:LW5yazbB3K8
 title:Fresh One|author:Lauri Nukala|position:12|sceneorg:/parties/2008/assembly08/extreme/music/fresh_one_by_lauri_nukala.zip
-title:The Orbiting|author:iON ^ gRANDMA|position:0|webfile:extreme_music/the_orbiting_by_ion_grandma.mp3|sceneorg:/parties/2008/assembly08/extreme/music/the_orbiting_by_ion__grandma.zip|youtube:http://www.youtube.com/watch?v=nPkmQ88chOQ
-title:Extreme Dreamer|author:Bugg / PuavoHard|position:0|webfile:extreme_music/extreme_dreamer_by_bugg_puavohard.mp3|sceneorg:/parties/2008/assembly08/extreme/music/extreme_dreamer_by_bugg__puavohard.zip|youtube:http://www.youtube.com/watch?v=LNjcvVA432Q
-title:Motion|author:Orlando Boom|position:0|webfile:extreme_music/motion_by_orlando_boom.mp3|sceneorg:/parties/2008/assembly08/extreme/music/motion_by_orlando_boom.zip|youtube:http://www.youtube.com/watch?v=jePac4AvMQk
+title:The Orbiting|author:iON ^ gRANDMA|position:0|webfile:extreme_music/the_orbiting_by_ion_grandma.mp3|sceneorg:/parties/2008/assembly08/extreme/music/the_orbiting_by_ion__grandma.zip|youtube:nPkmQ88chOQ
+title:Extreme Dreamer|author:Bugg / PuavoHard|position:0|webfile:extreme_music/extreme_dreamer_by_bugg_puavohard.mp3|sceneorg:/parties/2008/assembly08/extreme/music/extreme_dreamer_by_bugg__puavohard.zip|youtube:LNjcvVA432Q
+title:Motion|author:Orlando Boom|position:0|webfile:extreme_music/motion_by_orlando_boom.mp3|sceneorg:/parties/2008/assembly08/extreme/music/motion_by_orlando_boom.zip|youtube:jePac4AvMQk
 title:filtterikorvat - filter ears|author:tArzAn|position:0|sceneorg:/parties/2008/assembly08/extreme/music/filtterikorvat__filter_ears_by_tarzan.zip
 title:Merimiehen Herkkusieni|author:SpeaK & AKX|position:0|sceneorg:/parties/2008/assembly08/extreme/music/merimiehen_herkkusieni_by_speak__akx_.zip
 
@@ -85,19 +85,19 @@ title:Hummani hei|author:Rakeinen / Tekotuotanto|position:0|webfile:fast_graphic
 
 ! Fast music
 
-title:Cosmic Dance of Shiva|author:Little Bitchard|position:1|webfile:fast_music/cosmic_dance_of_shiva_by_little_bitchard.mp3|sceneorg:/parties/2008/assembly08/fast/music/cosmic_dance_of_shiva_by_little_bitchard.mp3|youtube:http://www.youtube.com/watch?v=2NTaaJXtfn8
-title:Batman Nahkanuija & Yön Timot|author:King Thrill / Tekotuotanto|position:2|webfile:fast_music/batman_nahkanuija_y_n_timot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/fast/music/batman_nahkanuija__yon_timot_by_king_thrill__tekotuotanto.mp3|youtube:http://www.youtube.com/watch?v=7-Rtg4nPPrc
-title:Analog 303volution|author:maraz|position:3|webfile:fast_music/analog_303volution_by_maraz.mp3|sceneorg:/parties/2008/assembly08/fast/music/analog_303volution_by_maraz.mp3|youtube:http://www.youtube.com/watch?v=KuhoGAJq29Y
-title:Imprombination|author:JoonasD6|position:4|webfile:fast_music/imprombination_by_joonasd6.mp3|sceneorg:/parties/2008/assembly08/fast/music/imprombination_by_joonasd6.ogg|youtube:http://www.youtube.com/watch?v=1rWq8ewE53w
-title:The Scent of Kalma|author:kerko|position:5|webfile:fast_music/the_scent_of_kalma_by_kerko.mp3|sceneorg:/parties/2008/assembly08/fast/music/the_scent_of_kalma_by_kerko.mp3|youtube:http://www.youtube.com/watch?v=GEnjlsSF4ms
-title:Oldschool Rox|author:Wolfboy|position:6|webfile:fast_music/oldschool_rox_by_wolfboy.mp3|sceneorg:/parties/2008/assembly08/fast/music/oldschool_rox_by_wolfboy.mp3|youtube:http://www.youtube.com/watch?v=eUY5PuxERRg
-title:rapid development|author:skygge|position:7|webfile:fast_music/rapid_development_by_skygge.mp3|sceneorg:/parties/2008/assembly08/fast/music/rapid_development_by_skygge.mp3|youtube:http://www.youtube.com/watch?v=dtmJvGZeB9M
-title:Continuous Faceplant|author:Bugg / PuavoHard|position:8|webfile:fast_music/continuous_faceplant_by_bugg_puavohard.mp3|sceneorg:/parties/2008/assembly08/fast/music/continuous_faceplant_by_bugg__puavohard.ogg|youtube:http://www.youtube.com/watch?v=9_6ksRVdgHs
-title:Latched hill cross-section|author:Jadajada|position:9|webfile:fast_music/latched_hill_cross_section_by_jadajada.mp3|sceneorg:/parties/2008/assembly08/fast/music/latched_hill_crosssection_by_jadajada.mp3|youtube:http://www.youtube.com/watch?v=VS-YnneMdVE
-title:Trafalmadorians in my pants|author:Rajunen|position:10|webfile:fast_music/trafalmadorians_in_my_pants_by_rajunen.mp3|sceneorg:/parties/2008/assembly08/fast/music/trafalmadorians_in_my_pants_by_rajunen.mp3|youtube:http://www.youtube.com/watch?v=tCdVcvQHYR4
-title:paramparampam|author:Voidloop|position:11|webfile:fast_music/paramparampam_by_voidloop.mp3|sceneorg:/parties/2008/assembly08/fast/music/paramparampam_by_voidloop.mp3|youtube:http://www.youtube.com/watch?v=k59CGzHxZ4I
-title:Hide n Streak|author:Castor / Immersion|position:12|webfile:fast_music/hide_n_streak_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/fast/music/hide_n_streak_by_castor__immersion.mp3|youtube:http://www.youtube.com/watch?v=0tjfGlOpZqU
-title:fealter irs|author:tArzAn|position:13|webfile:fast_music/fealter_irs_by_tarzan.mp3|sceneorg:/parties/2008/assembly08/fast/music/fealter_irs_by_tarzan.ogg|youtube:http://www.youtube.com/watch?v=azdM5pLshA0
+title:Cosmic Dance of Shiva|author:Little Bitchard|position:1|webfile:fast_music/cosmic_dance_of_shiva_by_little_bitchard.mp3|sceneorg:/parties/2008/assembly08/fast/music/cosmic_dance_of_shiva_by_little_bitchard.mp3|youtube:2NTaaJXtfn8
+title:Batman Nahkanuija & Yön Timot|author:King Thrill / Tekotuotanto|position:2|webfile:fast_music/batman_nahkanuija_y_n_timot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/fast/music/batman_nahkanuija__yon_timot_by_king_thrill__tekotuotanto.mp3|youtube:7-Rtg4nPPrc
+title:Analog 303volution|author:maraz|position:3|webfile:fast_music/analog_303volution_by_maraz.mp3|sceneorg:/parties/2008/assembly08/fast/music/analog_303volution_by_maraz.mp3|youtube:KuhoGAJq29Y
+title:Imprombination|author:JoonasD6|position:4|webfile:fast_music/imprombination_by_joonasd6.mp3|sceneorg:/parties/2008/assembly08/fast/music/imprombination_by_joonasd6.ogg|youtube:1rWq8ewE53w
+title:The Scent of Kalma|author:kerko|position:5|webfile:fast_music/the_scent_of_kalma_by_kerko.mp3|sceneorg:/parties/2008/assembly08/fast/music/the_scent_of_kalma_by_kerko.mp3|youtube:GEnjlsSF4ms
+title:Oldschool Rox|author:Wolfboy|position:6|webfile:fast_music/oldschool_rox_by_wolfboy.mp3|sceneorg:/parties/2008/assembly08/fast/music/oldschool_rox_by_wolfboy.mp3|youtube:eUY5PuxERRg
+title:rapid development|author:skygge|position:7|webfile:fast_music/rapid_development_by_skygge.mp3|sceneorg:/parties/2008/assembly08/fast/music/rapid_development_by_skygge.mp3|youtube:dtmJvGZeB9M
+title:Continuous Faceplant|author:Bugg / PuavoHard|position:8|webfile:fast_music/continuous_faceplant_by_bugg_puavohard.mp3|sceneorg:/parties/2008/assembly08/fast/music/continuous_faceplant_by_bugg__puavohard.ogg|youtube:9_6ksRVdgHs
+title:Latched hill cross-section|author:Jadajada|position:9|webfile:fast_music/latched_hill_cross_section_by_jadajada.mp3|sceneorg:/parties/2008/assembly08/fast/music/latched_hill_crosssection_by_jadajada.mp3|youtube:VS-YnneMdVE
+title:Trafalmadorians in my pants|author:Rajunen|position:10|webfile:fast_music/trafalmadorians_in_my_pants_by_rajunen.mp3|sceneorg:/parties/2008/assembly08/fast/music/trafalmadorians_in_my_pants_by_rajunen.mp3|youtube:tCdVcvQHYR4
+title:paramparampam|author:Voidloop|position:11|webfile:fast_music/paramparampam_by_voidloop.mp3|sceneorg:/parties/2008/assembly08/fast/music/paramparampam_by_voidloop.mp3|youtube:k59CGzHxZ4I
+title:Hide n Streak|author:Castor / Immersion|position:12|webfile:fast_music/hide_n_streak_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/fast/music/hide_n_streak_by_castor__immersion.mp3|youtube:0tjfGlOpZqU
+title:fealter irs|author:tArzAn|position:13|webfile:fast_music/fealter_irs_by_tarzan.mp3|sceneorg:/parties/2008/assembly08/fast/music/fealter_irs_by_tarzan.ogg|youtube:azdM5pLshA0
 
 ! Graphics
 
@@ -171,56 +171,56 @@ pouet:51127|author:Wide Load|media:./2008/Compos/794_RealWild_Rabies_h264_7168kb
 
 ! Music
 
-title:My Grey Magic Box|author:Aikapallo|position:1|webfile:music/my_grey_magic_box_by_aikapallo.mp3|sceneorg:/parties/2008/assembly08/music/my_grey_magic_box_by_aikapallo.mp3|youtube:http://www.youtube.com/watch?v=Ed6WS2M1SIM
-title:The Disturbingly Destructive Adventures of Agent S|author:GRiMM / Agent S|position:2|webfile:music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm_agent_s.mp3|sceneorg:/parties/2008/assembly08/music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm__agent_s.mp3|youtube:http://www.youtube.com/watch?v=VmAaWz4Z3K0
-title:Do it right|author:Ierker|position:3|webfile:music/do_it_right_by_ierker.mp3|sceneorg:/parties/2008/assembly08/music/do_it_right_by_ierker.mp3|youtube:http://www.youtube.com/watch?v=TpYAXZfWm0M
-title:Fusion of Sound|author:PK / Ananasmurska|position:4|webfile:music/fusion_of_sound_by_pk_ananasmurska.mp3|sceneorg:/parties/2008/assembly08/music/fusion_of_sound_by_pk__ananasmurska.mp3|youtube:http://www.youtube.com/watch?v=woIfZgzQgs8
-title:Uno Aestas Electro|author:Rajunen|position:5|webfile:music/uno_aestas_electro_by_rajunen.mp3|sceneorg:/parties/2008/assembly08/music/uno_aestas_electro_by_rajunen.mp3|youtube:http://www.youtube.com/watch?v=NmlG9YcxlDQ
-title:I Can Has (Moar Cowbell)|author:Minomus|position:6|webfile:music/i_can_has_moar_cowbell_by_minomus.mp3|sceneorg:/parties/2008/assembly08/music/i_can_has_moar_cowbell_by_minomus.mp3|youtube:http://www.youtube.com/watch?v=OJgntirsTQc
-title:Fridge Jams|author:D Fast|position:7|webfile:music/fridge_jams_by_d_fast.mp3|sceneorg:/parties/2008/assembly08/music/fridge_jams_by_d_fast.mp3|youtube:http://www.youtube.com/watch?v=HYgj6WXFkUU
-title:Ancestral Recall|author:mhp|position:8|webfile:music/ancestral_recall_by_mhp.mp3|sceneorg:/parties/2008/assembly08/music/ancestral_recall_by_mhp.mp3|youtube:http://www.youtube.com/watch?v=7bgxZEAe9tA
-title:Willy from Wisconsin|author:Olli-Serkku & Janne-Eno|position:9|webfile:music/willy_from_wisconsin_by_olli_serkku_janne_eno.mp3|sceneorg:/parties/2008/assembly08/music/willy_from_wisconsin_by_olliserkku__janneeno.mp3|youtube:http://www.youtube.com/watch?v=9h8TWz1msEY
-title:August (Reggae Rework|author:Calendargirl & el-B|position:10|webfile:music/august_reggae_rework_by_calendargirl_el_b.mp3|sceneorg:/parties/2008/assembly08/music/august_reggae_rework_by_calendargirl__elb.mp3|youtube:http://www.youtube.com/watch?v=MaaZEZ2sepY
-title:Do You Wanna Dance With Me?|author:D Fast|position:11|webfile:music/do_you_wanna_dance_with_me_by_d_fast.mp3|sceneorg:/parties/2008/assembly08/music/do_you_wanna_dance_with_me_by_d_fast.mp3|youtube:http://www.youtube.com/watch?v=J-NcDhov3ac
-title:Psalmi 155|author:emikael|position:12|webfile:music/psalmi_155_by_emikael.mp3|sceneorg:/parties/2008/assembly08/music/psalmi_155_by_emikael.mp3|youtube:http://www.youtube.com/watch?v=p7fMTbGXxhk
-title:Moravia (feat. Thomas Pavla)|author:Kitkaliitto|position:13|webfile:music/moravia_feat_thomas_pavla_by_kitkaliitto.mp3|sceneorg:/parties/2008/assembly08/music/moravia_feat_thomas_pavla_by_kitkaliitto.mp3|youtube:http://www.youtube.com/watch?v=KQACQPGw48g
-title:Eternal Love|author:Kim Wirtanen|position:14|webfile:music/eternal_love_by_kim_wirtanen.mp3|sceneorg:/parties/2008/assembly08/music/eternal_love_by_kim_wirtanen.mp3|youtube:http://www.youtube.com/watch?v=38Bz7ar7TIk
-title:Une Jaleauvin avec le Caucisse|author:Castor / Immersion|position:15|webfile:music/une_jaleauvin_avec_le_caucisse_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/music/une_jaleauvin_avec_le_caucisse_by_castor__immersion.zip|youtube:http://www.youtube.com/watch?v=5nEGo_0bjio
-title:Gangsta Shittii|author:Reed Richards feat. KillerB|position:16|webfile:music/gangsta_shittii_by_reed_richards_feat_killerb.mp3|sceneorg:/parties/2008/assembly08/music/gangsta_shittii_by_reed_richards_feat_killerb.mp3|youtube:http://www.youtube.com/watch?v=rZUai918nRk
-title:Eastern Way|author:Puti|position:17|webfile:music/eastern_way_by_puti.mp3|sceneorg:/parties/2008/assembly08/music/eastern_way_by_puti.mp3|youtube:http://www.youtube.com/watch?v=1HkUTvYmSdc
-title:I wish I had a Demo|author:Roz/Fit^RNO^wAMMA|position:0|webfile:music/i_wish_i_had_a_demo_by_roz_fit_rno_wamma.mp3|sceneorg:/parties/2008/assembly08/music/i_wish_i_had_a_demo__by_rozfitrnowamma.mp3|youtube:http://www.youtube.com/watch?v=QdWoNWo2Rio
-title:End of evenfall|author:JP|position:0|webfile:music/end_of_evenfall_by_jp.mp3|sceneorg:/parties/2008/assembly08/music/end_of_evenfall_by_jp.mp3|youtube:http://www.youtube.com/watch?v=PXxcmdCEG8w
-title:Musicdomination|author:eSonic|position:0|webfile:music/musicdomination_by_esonic.mp3|sceneorg:/parties/2008/assembly08/music/musicdomination_by_esonic.mp3|youtube:http://www.youtube.com/watch?v=nt16bDLCw5U
-title:Stronger than a Storm|author:King Thrill / Tekotuotanto|position:0|webfile:music/stronger_than_a_storm_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/music/stronger_than_a_storm_by_king_thrill__tekotuotanto.mp3|youtube:http://www.youtube.com/watch?v=ab1b1OR2Olw
-title:Control Your Life|author:Phomin|position:0|webfile:music/control_your_life_by_phomin.mp3|sceneorg:/parties/2008/assembly08/music/control_your_life_by_phomin.mp3|youtube:http://www.youtube.com/watch?v=KXwak5Sk6QA
-title:Freedom|author:St Fungus|position:0|webfile:music/freedom_by_st_fungus.mp3|sceneorg:/parties/2008/assembly08/music/freedom_by_st_fungus.mp3|youtube:http://www.youtube.com/watch?v=T_ZiW_v23eE
-title:Across the Blue Ocean|author:marzu|position:0|webfile:music/across_the_blue_ocean_by_marzu.mp3|sceneorg:/parties/2008/assembly08/music/across_the_blue_ocean_by_marzu.mp3|youtube:http://www.youtube.com/watch?v=iOmlgHFLSzU
-title:The Black Space|author:Anteuz|position:0|webfile:music/the_black_space_by_anteuz.mp3|sceneorg:/parties/2008/assembly08/music/the_black_space_by_anteuz.mp3|youtube:http://www.youtube.com/watch?v=2iswnCqJD2U
-title:Dancistor|author:Mattias Nixell|position:0|webfile:music/dancistor_by_mattias_nixell.mp3|sceneorg:/parties/2008/assembly08/music/dancistor_by_mattias_nixell.mp3|youtube:http://www.youtube.com/watch?v=2ev20CeZPFU
-title:Crack the Sky|author:Tomi "ATOPICA" Antikainen|position:0|webfile:music/crack_the_sky_by_tomi_atopica_antikainen.mp3|sceneorg:/parties/2008/assembly08/music/crack_the_sky_by_tomi_atopica_antikainen.mp3|youtube:http://www.youtube.com/watch?v=C6wBkczlqW0
-title:Behind the dirty wall|author:Tim Bender|position:0|webfile:music/behind_the_dirty_wall_by_tim_bender.mp3|sceneorg:/parties/2008/assembly08/music/behind_the_dirty_wall_by_tim_bender.mp3|youtube:http://www.youtube.com/watch?v=M54yDIr7KV8
-title:Silver|author:North+Yoru|position:0|webfile:music/silver_by_north_yoru.mp3|sceneorg:/parties/2008/assembly08/music/silver_by_northyoru.mp3|youtube:http://www.youtube.com/watch?v=7VdRfhSR-v4
-title:FM AvaRuuS|author:r00t3d|position:0|webfile:music/fm_avaruus_by_r00t3d.mp3|sceneorg:/parties/2008/assembly08/music/fm_avaruus_by_r00t3d.mp3|youtube:http://www.youtube.com/watch?v=_qyyexmA_JE
-title:spring wrap|author:skygge|position:0|webfile:music/spring_wrap_by_skygge.mp3|sceneorg:/parties/2008/assembly08/music/spring_wrap_by_skygge.mp3|youtube:http://www.youtube.com/watch?v=bkUw34XjKGQ
-title:Addiction|author:Orbis|position:0|webfile:music/addiction_by_orbis.mp3|sceneorg:/parties/2008/assembly08/music/addiction_by_orbis.mp3|youtube:http://www.youtube.com/watch?v=Nvb4nJUY9HQ
-title:Saturday Afternoon|author:codec|position:0|webfile:music/saturday_afternoon_by_codec.mp3|sceneorg:/parties/2008/assembly08/music/saturday_afternoon_by_codec.mp3|youtube:http://www.youtube.com/watch?v=hm45ZZgKUwM
-title:Vector Plasma|author:Noby|position:0|webfile:music/vector_plasma_by_noby.mp3|sceneorg:/parties/2008/assembly08/music/vector_plasma_by_noby.mp3|youtube:http://www.youtube.com/watch?v=LdaYhhYmjx4
-title:Master of a Hundred Camels|author:kerko|position:0|webfile:music/master_of_a_hundred_camels_by_kerko.mp3|sceneorg:/parties/2008/assembly08/music/master_of_a_hundred_camels_by_kerko.mp3|youtube:http://www.youtube.com/watch?v=9YHQnJ_wNDo
-title:A Touch Of Summer (Another Chance Remix)|author:Zaragi|position:0|webfile:music/a_touch_of_summer_another_chance_remix_by_zaragi.mp3|sceneorg:/parties/2008/assembly08/music/a_touch_of_summer_another_chance_remix_by_zaragi.mp3|youtube:http://www.youtube.com/watch?v=yrOaRKrQdcA
-title:piudapo|author:JoonasD6|position:0|webfile:music/piudapo_by_joonasd6.mp3|sceneorg:/parties/2008/assembly08/music/piudapo_by_joonasd6.mp3|youtube:http://www.youtube.com/watch?v=UzYvGiqNfbk
-title:Dincer|author:Dick Flacid|position:0|webfile:music/dincer_by_dick_flacid.mp3|sceneorg:/parties/2008/assembly08/music/dincer_by_dick_flacid.mp3|youtube:http://www.youtube.com/watch?v=ElWsprWN1ZE
-title:Clouds Crumblin|author:oni|position:0|webfile:music/clouds_crumblin_by_oni.mp3|sceneorg:/parties/2008/assembly08/music/clouds_crumblin_by_oni.mp3|youtube:http://www.youtube.com/watch?v=4zPGbMQsV6k
-title:Last Rays of Daylight|author:The SkyWay|position:0|webfile:music/last_rays_of_daylight_by_the_skyway.mp3|sceneorg:/parties/2008/assembly08/music/last_rays_of_daylight_by_the_skyway.mp3|youtube:http://www.youtube.com/watch?v=0k9I_cZjSZs
-title:Rajaumailla|author:Deluusio|position:0|webfile:music/rajaumailla_by_deluusio.mp3|sceneorg:/parties/2008/assembly08/music/rajaumailla_by_deluusio.mp3|youtube:http://www.youtube.com/watch?v=S_aRga8RN2M
-title:Almost analog|author:maraz|position:0|webfile:music/almost_analog_by_maraz.mp3|sceneorg:/parties/2008/assembly08/music/almost_analog_by_maraz.mp3|youtube:http://www.youtube.com/watch?v=XFRNFNPhrx0
-title:Dimension Of Chaos|author:Wolfboy|position:0|webfile:music/dimension_of_chaos_by_wolfboy.mp3|sceneorg:/parties/2008/assembly08/music/dimension_of_chaos_by_wolfboy.mp3|youtube:http://www.youtube.com/watch?v=eKE1xgfSZyk
-title:Juicy Obsession|author:trigger_hurt|position:0|webfile:music/juicy_obsession_by_trigger_hurt.mp3|sceneorg:/parties/2008/assembly08/music/juicy_obsession_by_trigger_hurt.mp3|youtube:http://www.youtube.com/watch?v=xIUVFsuZT7Y
-title:Periscope Depth|author:kerko|position:0|webfile:music/periscope_depth_by_kerko.mp3|sceneorg:/parties/2008/assembly08/music/periscope_depth_by_kerko.mp3|youtube:http://www.youtube.com/watch?v=UIm-jshIv-U
-title:Lighttorrent|author:Sfumato|position:0|webfile:music/lighttorrent_by_sfumato.mp3|sceneorg:/parties/2008/assembly08/music/lighttorrent_by_sfumato.mp3|youtube:http://www.youtube.com/watch?v=jTMUk8Qcrao
-title:Feculent|author:La NausÈe|position:0|webfile:music/feculent_by_la_naus_e.mp3|sceneorg:/parties/2008/assembly08/music/feculent_by_la_nause.mp3|youtube:http://www.youtube.com/watch?v=dLqElsVqi5I
-title:Superfine|author:Tomas "Royalpulse" Ukkonen|position:0|webfile:music/superfine_by_tomas_royalpulse_ukkonen.mp3|sceneorg:/parties/2008/assembly08/music/superfine_by_tomas_royalpulse_ukkonen.mp3|youtube:http://www.youtube.com/watch?v=xf3A13nHgiI
-title:Please Me|author:Tenor's Modest Paramour / Lo-Kiwi|position:0|webfile:music/please_me_by_tenor_s_modest_paramour_lo_kiwi.mp3|sceneorg:/parties/2008/assembly08/music/please_me_by_tenors_modest_paramour__lokiwi.mp3|youtube:http://www.youtube.com/watch?v=cwgVsjhHty4
-title:False Hope|author:Brainstorm/Paranoids|position:0|webfile:music/false_hope_by_brainstorm_paranoids.mp3|sceneorg:/parties/2008/assembly08/music/false_hope_by_brainstormparanoids.mp3|youtube:http://www.youtube.com/watch?v=_JBAELc9_Lo
+title:My Grey Magic Box|author:Aikapallo|position:1|webfile:music/my_grey_magic_box_by_aikapallo.mp3|sceneorg:/parties/2008/assembly08/music/my_grey_magic_box_by_aikapallo.mp3|youtube:Ed6WS2M1SIM
+title:The Disturbingly Destructive Adventures of Agent S|author:GRiMM / Agent S|position:2|webfile:music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm_agent_s.mp3|sceneorg:/parties/2008/assembly08/music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm__agent_s.mp3|youtube:VmAaWz4Z3K0
+title:Do it right|author:Ierker|position:3|webfile:music/do_it_right_by_ierker.mp3|sceneorg:/parties/2008/assembly08/music/do_it_right_by_ierker.mp3|youtube:TpYAXZfWm0M
+title:Fusion of Sound|author:PK / Ananasmurska|position:4|webfile:music/fusion_of_sound_by_pk_ananasmurska.mp3|sceneorg:/parties/2008/assembly08/music/fusion_of_sound_by_pk__ananasmurska.mp3|youtube:woIfZgzQgs8
+title:Uno Aestas Electro|author:Rajunen|position:5|webfile:music/uno_aestas_electro_by_rajunen.mp3|sceneorg:/parties/2008/assembly08/music/uno_aestas_electro_by_rajunen.mp3|youtube:NmlG9YcxlDQ
+title:I Can Has (Moar Cowbell)|author:Minomus|position:6|webfile:music/i_can_has_moar_cowbell_by_minomus.mp3|sceneorg:/parties/2008/assembly08/music/i_can_has_moar_cowbell_by_minomus.mp3|youtube:OJgntirsTQc
+title:Fridge Jams|author:D Fast|position:7|webfile:music/fridge_jams_by_d_fast.mp3|sceneorg:/parties/2008/assembly08/music/fridge_jams_by_d_fast.mp3|youtube:HYgj6WXFkUU
+title:Ancestral Recall|author:mhp|position:8|webfile:music/ancestral_recall_by_mhp.mp3|sceneorg:/parties/2008/assembly08/music/ancestral_recall_by_mhp.mp3|youtube:7bgxZEAe9tA
+title:Willy from Wisconsin|author:Olli-Serkku & Janne-Eno|position:9|webfile:music/willy_from_wisconsin_by_olli_serkku_janne_eno.mp3|sceneorg:/parties/2008/assembly08/music/willy_from_wisconsin_by_olliserkku__janneeno.mp3|youtube:9h8TWz1msEY
+title:August (Reggae Rework|author:Calendargirl & el-B|position:10|webfile:music/august_reggae_rework_by_calendargirl_el_b.mp3|sceneorg:/parties/2008/assembly08/music/august_reggae_rework_by_calendargirl__elb.mp3|youtube:MaaZEZ2sepY
+title:Do You Wanna Dance With Me?|author:D Fast|position:11|webfile:music/do_you_wanna_dance_with_me_by_d_fast.mp3|sceneorg:/parties/2008/assembly08/music/do_you_wanna_dance_with_me_by_d_fast.mp3|youtube:J-NcDhov3ac
+title:Psalmi 155|author:emikael|position:12|webfile:music/psalmi_155_by_emikael.mp3|sceneorg:/parties/2008/assembly08/music/psalmi_155_by_emikael.mp3|youtube:p7fMTbGXxhk
+title:Moravia (feat. Thomas Pavla)|author:Kitkaliitto|position:13|webfile:music/moravia_feat_thomas_pavla_by_kitkaliitto.mp3|sceneorg:/parties/2008/assembly08/music/moravia_feat_thomas_pavla_by_kitkaliitto.mp3|youtube:KQACQPGw48g
+title:Eternal Love|author:Kim Wirtanen|position:14|webfile:music/eternal_love_by_kim_wirtanen.mp3|sceneorg:/parties/2008/assembly08/music/eternal_love_by_kim_wirtanen.mp3|youtube:38Bz7ar7TIk
+title:Une Jaleauvin avec le Caucisse|author:Castor / Immersion|position:15|webfile:music/une_jaleauvin_avec_le_caucisse_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/music/une_jaleauvin_avec_le_caucisse_by_castor__immersion.zip|youtube:5nEGo_0bjio
+title:Gangsta Shittii|author:Reed Richards feat. KillerB|position:16|webfile:music/gangsta_shittii_by_reed_richards_feat_killerb.mp3|sceneorg:/parties/2008/assembly08/music/gangsta_shittii_by_reed_richards_feat_killerb.mp3|youtube:rZUai918nRk
+title:Eastern Way|author:Puti|position:17|webfile:music/eastern_way_by_puti.mp3|sceneorg:/parties/2008/assembly08/music/eastern_way_by_puti.mp3|youtube:1HkUTvYmSdc
+title:I wish I had a Demo|author:Roz/Fit^RNO^wAMMA|position:0|webfile:music/i_wish_i_had_a_demo_by_roz_fit_rno_wamma.mp3|sceneorg:/parties/2008/assembly08/music/i_wish_i_had_a_demo__by_rozfitrnowamma.mp3|youtube:QdWoNWo2Rio
+title:End of evenfall|author:JP|position:0|webfile:music/end_of_evenfall_by_jp.mp3|sceneorg:/parties/2008/assembly08/music/end_of_evenfall_by_jp.mp3|youtube:PXxcmdCEG8w
+title:Musicdomination|author:eSonic|position:0|webfile:music/musicdomination_by_esonic.mp3|sceneorg:/parties/2008/assembly08/music/musicdomination_by_esonic.mp3|youtube:nt16bDLCw5U
+title:Stronger than a Storm|author:King Thrill / Tekotuotanto|position:0|webfile:music/stronger_than_a_storm_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/music/stronger_than_a_storm_by_king_thrill__tekotuotanto.mp3|youtube:ab1b1OR2Olw
+title:Control Your Life|author:Phomin|position:0|webfile:music/control_your_life_by_phomin.mp3|sceneorg:/parties/2008/assembly08/music/control_your_life_by_phomin.mp3|youtube:KXwak5Sk6QA
+title:Freedom|author:St Fungus|position:0|webfile:music/freedom_by_st_fungus.mp3|sceneorg:/parties/2008/assembly08/music/freedom_by_st_fungus.mp3|youtube:T_ZiW_v23eE
+title:Across the Blue Ocean|author:marzu|position:0|webfile:music/across_the_blue_ocean_by_marzu.mp3|sceneorg:/parties/2008/assembly08/music/across_the_blue_ocean_by_marzu.mp3|youtube:iOmlgHFLSzU
+title:The Black Space|author:Anteuz|position:0|webfile:music/the_black_space_by_anteuz.mp3|sceneorg:/parties/2008/assembly08/music/the_black_space_by_anteuz.mp3|youtube:2iswnCqJD2U
+title:Dancistor|author:Mattias Nixell|position:0|webfile:music/dancistor_by_mattias_nixell.mp3|sceneorg:/parties/2008/assembly08/music/dancistor_by_mattias_nixell.mp3|youtube:2ev20CeZPFU
+title:Crack the Sky|author:Tomi "ATOPICA" Antikainen|position:0|webfile:music/crack_the_sky_by_tomi_atopica_antikainen.mp3|sceneorg:/parties/2008/assembly08/music/crack_the_sky_by_tomi_atopica_antikainen.mp3|youtube:C6wBkczlqW0
+title:Behind the dirty wall|author:Tim Bender|position:0|webfile:music/behind_the_dirty_wall_by_tim_bender.mp3|sceneorg:/parties/2008/assembly08/music/behind_the_dirty_wall_by_tim_bender.mp3|youtube:M54yDIr7KV8
+title:Silver|author:North+Yoru|position:0|webfile:music/silver_by_north_yoru.mp3|sceneorg:/parties/2008/assembly08/music/silver_by_northyoru.mp3|youtube:7VdRfhSR-v4
+title:FM AvaRuuS|author:r00t3d|position:0|webfile:music/fm_avaruus_by_r00t3d.mp3|sceneorg:/parties/2008/assembly08/music/fm_avaruus_by_r00t3d.mp3|youtube:_qyyexmA_JE
+title:spring wrap|author:skygge|position:0|webfile:music/spring_wrap_by_skygge.mp3|sceneorg:/parties/2008/assembly08/music/spring_wrap_by_skygge.mp3|youtube:bkUw34XjKGQ
+title:Addiction|author:Orbis|position:0|webfile:music/addiction_by_orbis.mp3|sceneorg:/parties/2008/assembly08/music/addiction_by_orbis.mp3|youtube:Nvb4nJUY9HQ
+title:Saturday Afternoon|author:codec|position:0|webfile:music/saturday_afternoon_by_codec.mp3|sceneorg:/parties/2008/assembly08/music/saturday_afternoon_by_codec.mp3|youtube:hm45ZZgKUwM
+title:Vector Plasma|author:Noby|position:0|webfile:music/vector_plasma_by_noby.mp3|sceneorg:/parties/2008/assembly08/music/vector_plasma_by_noby.mp3|youtube:LdaYhhYmjx4
+title:Master of a Hundred Camels|author:kerko|position:0|webfile:music/master_of_a_hundred_camels_by_kerko.mp3|sceneorg:/parties/2008/assembly08/music/master_of_a_hundred_camels_by_kerko.mp3|youtube:9YHQnJ_wNDo
+title:A Touch Of Summer (Another Chance Remix)|author:Zaragi|position:0|webfile:music/a_touch_of_summer_another_chance_remix_by_zaragi.mp3|sceneorg:/parties/2008/assembly08/music/a_touch_of_summer_another_chance_remix_by_zaragi.mp3|youtube:yrOaRKrQdcA
+title:piudapo|author:JoonasD6|position:0|webfile:music/piudapo_by_joonasd6.mp3|sceneorg:/parties/2008/assembly08/music/piudapo_by_joonasd6.mp3|youtube:UzYvGiqNfbk
+title:Dincer|author:Dick Flacid|position:0|webfile:music/dincer_by_dick_flacid.mp3|sceneorg:/parties/2008/assembly08/music/dincer_by_dick_flacid.mp3|youtube:ElWsprWN1ZE
+title:Clouds Crumblin|author:oni|position:0|webfile:music/clouds_crumblin_by_oni.mp3|sceneorg:/parties/2008/assembly08/music/clouds_crumblin_by_oni.mp3|youtube:4zPGbMQsV6k
+title:Last Rays of Daylight|author:The SkyWay|position:0|webfile:music/last_rays_of_daylight_by_the_skyway.mp3|sceneorg:/parties/2008/assembly08/music/last_rays_of_daylight_by_the_skyway.mp3|youtube:0k9I_cZjSZs
+title:Rajaumailla|author:Deluusio|position:0|webfile:music/rajaumailla_by_deluusio.mp3|sceneorg:/parties/2008/assembly08/music/rajaumailla_by_deluusio.mp3|youtube:S_aRga8RN2M
+title:Almost analog|author:maraz|position:0|webfile:music/almost_analog_by_maraz.mp3|sceneorg:/parties/2008/assembly08/music/almost_analog_by_maraz.mp3|youtube:XFRNFNPhrx0
+title:Dimension Of Chaos|author:Wolfboy|position:0|webfile:music/dimension_of_chaos_by_wolfboy.mp3|sceneorg:/parties/2008/assembly08/music/dimension_of_chaos_by_wolfboy.mp3|youtube:eKE1xgfSZyk
+title:Juicy Obsession|author:trigger_hurt|position:0|webfile:music/juicy_obsession_by_trigger_hurt.mp3|sceneorg:/parties/2008/assembly08/music/juicy_obsession_by_trigger_hurt.mp3|youtube:xIUVFsuZT7Y
+title:Periscope Depth|author:kerko|position:0|webfile:music/periscope_depth_by_kerko.mp3|sceneorg:/parties/2008/assembly08/music/periscope_depth_by_kerko.mp3|youtube:UIm-jshIv-U
+title:Lighttorrent|author:Sfumato|position:0|webfile:music/lighttorrent_by_sfumato.mp3|sceneorg:/parties/2008/assembly08/music/lighttorrent_by_sfumato.mp3|youtube:jTMUk8Qcrao
+title:Feculent|author:La NausÈe|position:0|webfile:music/feculent_by_la_naus_e.mp3|sceneorg:/parties/2008/assembly08/music/feculent_by_la_nause.mp3|youtube:dLqElsVqi5I
+title:Superfine|author:Tomas "Royalpulse" Ukkonen|position:0|webfile:music/superfine_by_tomas_royalpulse_ukkonen.mp3|sceneorg:/parties/2008/assembly08/music/superfine_by_tomas_royalpulse_ukkonen.mp3|youtube:xf3A13nHgiI
+title:Please Me|author:Tenor's Modest Paramour / Lo-Kiwi|position:0|webfile:music/please_me_by_tenor_s_modest_paramour_lo_kiwi.mp3|sceneorg:/parties/2008/assembly08/music/please_me_by_tenors_modest_paramour__lokiwi.mp3|youtube:cwgVsjhHty4
+title:False Hope|author:Brainstorm/Paranoids|position:0|webfile:music/false_hope_by_brainstorm_paranoids.mp3|sceneorg:/parties/2008/assembly08/music/false_hope_by_brainstormparanoids.mp3|youtube:_JBAELc9_Lo
 
 ! Extreme graphics
 

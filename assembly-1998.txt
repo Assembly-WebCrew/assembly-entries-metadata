@@ -37,7 +37,7 @@ title:Lee|author:Sail|position:8|sceneorg:/parties/1998/assembly98/javademo/lee_
 
 ! Wild demo
 
-title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:/parties/1998/assembly98/wilddemo/get_real.zip|pouet:23298|youtube:http://www.youtube.com/watch?v=b9pJ8RzZuss
+title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:/parties/1998/assembly98/wilddemo/get_real.zip|pouet:23298|youtube:b9pJ8RzZuss
 title:Paha posteljooni|author:Insane Bastards productions|position:2|sceneorg:/parties/1998/assembly98/wilddemo/paha_pos.zip
 title:Tuikea Torsti|author:CBU - ryhmä|position:3|sceneorg:/parties/1998/assembly98/wilddemo/tuikea_t.zip
 title:Special FX|author:Pixel/Future Crew|position:4|sceneorg:/parties/1998/assembly98/wilddemo/special_.zip
@@ -129,7 +129,7 @@ title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:/parties/1998/assem
 
 title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:8796
 title:dELTA|author:Embassy|position:2|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|pouet:3736
-title:Synthesis|author:Network|position:3|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517|youtube:http://www.youtube.com/watch?v=KP33rtR51xM
+title:Synthesis|author:Network|position:3|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517|youtube:KP33rtR51xM
 title:Aromecolor|author:Cirion|position:4|sceneorg:/parties/1998/assembly98/amigadem/aromecol.zip|pouet:4711
 title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|pouet:3042|dtv:7572
 title:Boogienights|author:sPEDES|position:6|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|pouet:12670
@@ -137,173 +137,173 @@ title:High Sport Grammar|author:T.C.W|position:0|sceneorg:/parties/1998/assembly
 
 ! Animation
 
-title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:1215|youtube:http://www.youtube.com/watch?v=mKfLEs_27UU
-title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|pouet:28283|youtube:http://www.youtube.com/watch?v=CLOqywkx-Sw
-title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:/parties/1998/assembly98/animatio/mars_by_.zip|pouet:28284|youtube:http://www.youtube.com/watch?v=07Pkdi-YohQ
-title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:/parties/1998/assembly98/animatio/spice_by.zip|pouet:28285|youtube:http://www.youtube.com/watch?v=A8YAO3p6cG8
-title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:/parties/1998/assembly98/animatio/kvak_by_.zip|pouet:7732|youtube:http://www.youtube.com/watch?v=M8dFxjlJHTc
-title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:/parties/1998/assembly98/animatio/pirates_.zip|pouet:28286|youtube:http://www.youtube.com/watch?v=6BJLPnkuhdc
-title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|pouet:3022|dtv:9608|youtube:http://www.youtube.com/watch?v=yl-DDzo60Go
-title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:/parties/1998/assembly98/animatio/darn_by_.zip|pouet:28287|youtube:http://www.youtube.com/watch?v=vOnvtH2sWSM
-title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:/parties/1998/assembly98/animatio/lauantai.zip|pouet:28288|youtube:http://www.youtube.com/watch?v=o9yHCs7bVSs
-title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:/parties/1998/assembly98/animatio/tappelia.zip|pouet:28289|youtube:http://www.youtube.com/watch?v=dgbAskIguog
-title:WannaRat|author:Tridea|position:11|webfile:animation/wannarat_by_tridea.avi|sceneorg:/parties/1998/assembly98/animatio/wannarat.zip|pouet:28290|youtube:http://www.youtube.com/watch?v=RHslsmESW48
-title:Invasion on Antigone 7|author:marzu|position:12|webfile:animation/invasion_on_antigone_7_by_marzu.avi|sceneorg:/parties/1998/assembly98/animatio/invasion.zip|pouet:28291|youtube:http://www.youtube.com/watch?v=_ecMa4pgWTg
-title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|sceneorg:/parties/1998/assembly98/animatio/dustoff_.zip|pouet:28293|youtube:http://www.youtube.com/watch?v=8Qe4G4bVr4g
-title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:/parties/1998/assembly98/animatio/1024_kby.zip|pouet:28294|youtube:http://www.youtube.com/watch?v=GTomiJTUvFM
-title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:/parties/1998/assembly98/animatio/foggyday.zip|pouet:28295|youtube:http://www.youtube.com/watch?v=X2fBmEfkC4Y
+title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:1215|youtube:mKfLEs_27UU
+title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|pouet:28283|youtube:CLOqywkx-Sw
+title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:/parties/1998/assembly98/animatio/mars_by_.zip|pouet:28284|youtube:07Pkdi-YohQ
+title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:/parties/1998/assembly98/animatio/spice_by.zip|pouet:28285|youtube:A8YAO3p6cG8
+title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:/parties/1998/assembly98/animatio/kvak_by_.zip|pouet:7732|youtube:M8dFxjlJHTc
+title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:/parties/1998/assembly98/animatio/pirates_.zip|pouet:28286|youtube:6BJLPnkuhdc
+title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|pouet:3022|dtv:9608|youtube:yl-DDzo60Go
+title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:/parties/1998/assembly98/animatio/darn_by_.zip|pouet:28287|youtube:vOnvtH2sWSM
+title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:/parties/1998/assembly98/animatio/lauantai.zip|pouet:28288|youtube:o9yHCs7bVSs
+title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:/parties/1998/assembly98/animatio/tappelia.zip|pouet:28289|youtube:dgbAskIguog
+title:WannaRat|author:Tridea|position:11|webfile:animation/wannarat_by_tridea.avi|sceneorg:/parties/1998/assembly98/animatio/wannarat.zip|pouet:28290|youtube:RHslsmESW48
+title:Invasion on Antigone 7|author:marzu|position:12|webfile:animation/invasion_on_antigone_7_by_marzu.avi|sceneorg:/parties/1998/assembly98/animatio/invasion.zip|pouet:28291|youtube:_ecMa4pgWTg
+title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|sceneorg:/parties/1998/assembly98/animatio/dustoff_.zip|pouet:28293|youtube:8Qe4G4bVr4g
+title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:/parties/1998/assembly98/animatio/1024_kby.zip|pouet:28294|youtube:GTomiJTUvFM
+title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:/parties/1998/assembly98/animatio/foggyday.zip|pouet:28295|youtube:X2fBmEfkC4Y
 
 ! Music
 
-title:Schotsman in a skirt|author:!cube/Trauma|position:1|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|sceneorg:/parties/1998/assembly98/music/schotsma.zip|youtube:http://www.youtube.com/watch?v=iqpYFH3eBqA
-title:System 51|author:Quasian|position:2|webfile:music/system_51_by_quasian.mp3|sceneorg:/parties/1998/assembly98/music/system_5.zip|youtube:http://www.youtube.com/watch?v=g-oYGM7FcL0
-title:The mystical power of Hizbollah|author:Gspot|position:3|webfile:music/the_mystical_power_of_hizbollah_by_gspot.mp3|sceneorg:/parties/1998/assembly98/music/the_myst.zip|youtube:http://www.youtube.com/watch?v=5clQ8FuU57I
-title:Invasion Of Mutant Killer Bunnies!|author:KiWi|position:4|webfile:music/invasion_of_mutant_killer_bunnies_by_kiwi.mp3|sceneorg:/parties/1998/assembly98/music/invasion.zip|youtube:http://www.youtube.com/watch?v=0C6m_BOivHo
-title:xeq-complex|author:ceniq/milk|position:0|webfile:music/xeq_complex_by_ceniq_milk.mp3|sceneorg:/parties/1998/assembly98/music/xeqcompl.zip|youtube:http://www.youtube.com/watch?v=msyn5IBjORo
-title:sway|author:sojagga|position:6|webfile:music/sway_by_sojagga.mp3|sceneorg:/parties/1998/assembly98/music/sway_by_.zip|youtube:http://www.youtube.com/watch?v=mVvP3ehLlm8
-title:Kaikal pop|author:Muffler|position:7|webfile:music/kaikal_pop_by_muffler.mp3|sceneorg:/parties/1998/assembly98/music/kaikal_p.zip|youtube:http://www.youtube.com/watch?v=ZQ9MQtU7EaI
-title:jazzy vibesz|author:Prob.|position:8|webfile:music/jazzy_vibesz_by_prob.mp3|sceneorg:/parties/1998/assembly98/music/jazzy_vi.zip|youtube:http://www.youtube.com/watch?v=p3eDURtirE0
-title:Unexpected surprise|author:Prism|position:9|webfile:music/unexpected_surprise_by_prism.mp3|sceneorg:/parties/1998/assembly98/music/unexpect.zip|youtube:http://www.youtube.com/watch?v=470JUrjyJXQ
-title:cherry jam|author:reed|position:10|webfile:music/cherry_jam_by_reed.mp3|sceneorg:/parties/1998/assembly98/music/cherry_j.zip|youtube:http://www.youtube.com/watch?v=U5eLWuTFbUI
-title:My mushrooms|author:Deck|position:11|webfile:music/my_mushrooms_by_deck.mp3|sceneorg:/parties/1998/assembly98/music/my_mushr.zip|youtube:http://www.youtube.com/watch?v=WJAYTwzPg1s
-title:Kalkutta|author:Firestorm / Morel Arts|position:12|webfile:music/kalkutta_by_firestorm_morel_arts.mp3|sceneorg:/parties/1998/assembly98/music/kalkutta.zip|youtube:http://www.youtube.com/watch?v=UtE5k4Eu7YM
-title:Hello kontrol|author:Mirko|position:13|webfile:music/hello_kontrol_by_mirko.mp3|sceneorg:/parties/1998/assembly98/music/hello_ko.zip|youtube:http://www.youtube.com/watch?v=HCBsLC15ewo
-title:Funky Animal|author:Goldcrest|position:14|webfile:music/funky_animal_by_goldcrest.mp3|sceneorg:/parties/1998/assembly98/music/funky_an.zip|youtube:http://www.youtube.com/watch?v=J5AbqaVUUQI
-title:Delfoi Blue|author:ikhyon|position:15|webfile:music/delfoi_blue_by_ikhyon.mp3|sceneorg:/parties/1998/assembly98/music/delfoi_b.zip|youtube:http://www.youtube.com/watch?v=dunMQtsvMBc
+title:Schotsman in a skirt|author:!cube/Trauma|position:1|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|sceneorg:/parties/1998/assembly98/music/schotsma.zip|youtube:iqpYFH3eBqA
+title:System 51|author:Quasian|position:2|webfile:music/system_51_by_quasian.mp3|sceneorg:/parties/1998/assembly98/music/system_5.zip|youtube:g-oYGM7FcL0
+title:The mystical power of Hizbollah|author:Gspot|position:3|webfile:music/the_mystical_power_of_hizbollah_by_gspot.mp3|sceneorg:/parties/1998/assembly98/music/the_myst.zip|youtube:5clQ8FuU57I
+title:Invasion Of Mutant Killer Bunnies!|author:KiWi|position:4|webfile:music/invasion_of_mutant_killer_bunnies_by_kiwi.mp3|sceneorg:/parties/1998/assembly98/music/invasion.zip|youtube:0C6m_BOivHo
+title:xeq-complex|author:ceniq/milk|position:0|webfile:music/xeq_complex_by_ceniq_milk.mp3|sceneorg:/parties/1998/assembly98/music/xeqcompl.zip|youtube:msyn5IBjORo
+title:sway|author:sojagga|position:6|webfile:music/sway_by_sojagga.mp3|sceneorg:/parties/1998/assembly98/music/sway_by_.zip|youtube:mVvP3ehLlm8
+title:Kaikal pop|author:Muffler|position:7|webfile:music/kaikal_pop_by_muffler.mp3|sceneorg:/parties/1998/assembly98/music/kaikal_p.zip|youtube:ZQ9MQtU7EaI
+title:jazzy vibesz|author:Prob.|position:8|webfile:music/jazzy_vibesz_by_prob.mp3|sceneorg:/parties/1998/assembly98/music/jazzy_vi.zip|youtube:p3eDURtirE0
+title:Unexpected surprise|author:Prism|position:9|webfile:music/unexpected_surprise_by_prism.mp3|sceneorg:/parties/1998/assembly98/music/unexpect.zip|youtube:470JUrjyJXQ
+title:cherry jam|author:reed|position:10|webfile:music/cherry_jam_by_reed.mp3|sceneorg:/parties/1998/assembly98/music/cherry_j.zip|youtube:U5eLWuTFbUI
+title:My mushrooms|author:Deck|position:11|webfile:music/my_mushrooms_by_deck.mp3|sceneorg:/parties/1998/assembly98/music/my_mushr.zip|youtube:WJAYTwzPg1s
+title:Kalkutta|author:Firestorm / Morel Arts|position:12|webfile:music/kalkutta_by_firestorm_morel_arts.mp3|sceneorg:/parties/1998/assembly98/music/kalkutta.zip|youtube:UtE5k4Eu7YM
+title:Hello kontrol|author:Mirko|position:13|webfile:music/hello_kontrol_by_mirko.mp3|sceneorg:/parties/1998/assembly98/music/hello_ko.zip|youtube:HCBsLC15ewo
+title:Funky Animal|author:Goldcrest|position:14|webfile:music/funky_animal_by_goldcrest.mp3|sceneorg:/parties/1998/assembly98/music/funky_an.zip|youtube:J5AbqaVUUQI
+title:Delfoi Blue|author:ikhyon|position:15|webfile:music/delfoi_blue_by_ikhyon.mp3|sceneorg:/parties/1998/assembly98/music/delfoi_b.zip|youtube:dunMQtsvMBc
 title:Moods (Opus I)|author:DiXan|position:0|sceneorg:/parties/1998/assembly98/music/moods_op.zip
-title:All your secrets|author:Leach|position:0|webfile:music/all_your_secrets_by_leach.mp3|sceneorg:/parties/1998/assembly98/music/all_your.zip|youtube:http://www.youtube.com/watch?v=rQcImC0cMcU
-title:Moonflower|author:Zage|position:0|webfile:music/moonflower_by_zage.mp3|sceneorg:/parties/1998/assembly98/music/moonflow.zip|youtube:http://www.youtube.com/watch?v=BsD1yd0MfXI
-title:psychedelia|author:treme|position:0|webfile:music/psychedelia_by_treme.mp3|sceneorg:/parties/1998/assembly98/music/psychede.zip|youtube:http://www.youtube.com/watch?v=krc_x7Wp9X8
-title:Goodbye Past|author:L-Wizard|position:0|webfile:music/goodbye_past_by_l_wizard.mp3|sceneorg:/parties/1998/assembly98/music/goodbye_.zip|youtube:http://www.youtube.com/watch?v=OKB6uyyoo3Y
-title:Take Your Vet Off|author:Turkka|position:0|webfile:music/take_your_vet_off_by_turkka.mp3|sceneorg:/parties/1998/assembly98/music/take_you.zip|youtube:http://www.youtube.com/watch?v=NqGw4Pf5I7Q
-title:kioma nivada|author:Jcole/Milk^Vista|position:0|webfile:music/kioma_nivada_by_jcole_milk_vista.mp3|sceneorg:/parties/1998/assembly98/music/kioma_ni.zip|youtube:http://www.youtube.com/watch?v=Ia7xWN-F49E
-title:juuri näin.|author:Sape / Cheddar|position:0|webfile:music/juuri_nin_by_sape_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/juuri_ni.zip|youtube:http://www.youtube.com/watch?v=Yy_K8CtAYd8
-title:little adventure|author:loonie|position:0|webfile:music/little_adventure_by_loonie.mp3|sceneorg:/parties/1998/assembly98/music/little_a.zip|youtube:http://www.youtube.com/watch?v=XZZw2KWoC_A
-title:Secrets|author:Impulse|position:0|webfile:music/secrets_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/secrets_.zip|youtube:http://www.youtube.com/watch?v=jozIVVyl6xw
-title:kvaak|author:jobe|position:0|webfile:music/kvaak_by_jobe.mp3|sceneorg:/parties/1998/assembly98/music/kvaak_by.zip|youtube:http://www.youtube.com/watch?v=uH4nWF_lvOg
-title:Control us|author:Frodo/Cheddar|position:0|webfile:music/control_us_by_frodo_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/control_.zip|youtube:http://www.youtube.com/watch?v=sO3D8WzslSc
-title:the Formula of Mulatius|author:Phaser|position:0|webfile:music/the_formula_of_mulatius_by_phaser.mp3|sceneorg:/parties/1998/assembly98/music/the_form.zip|youtube:http://www.youtube.com/watch?v=X57_chHiNdo
-title:Fight for Freedom|author:Impulse|position:0|webfile:music/fight_for_freedom_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/fight_fo.zip|youtube:http://www.youtube.com/watch?v=YRSWC6Qap1U
-title:Pakkeli|author:ARto|position:0|webfile:music/pakkeli_by_arto.mp3|sceneorg:/parties/1998/assembly98/music/pakkeli_.zip|youtube:http://www.youtube.com/watch?v=r4GdA-eGJqQ
-title:Music|author:Shake|position:0|webfile:music/music_by_shake.mp3|sceneorg:/parties/1998/assembly98/music/music_by.zip|youtube:http://www.youtube.com/watch?v=oDrDEJTxym8
-title:Pool of Kurnutus|author:Renegadez|position:0|webfile:music/pool_of_kurnutus_by_renegadez.mp3|sceneorg:/parties/1998/assembly98/music/pool_of_.zip|youtube:http://www.youtube.com/watch?v=ZMZ0YC4Rg8M
-title:dominican republic|author:strala|position:0|webfile:music/dominican_republic_by_strala.mp3|sceneorg:/parties/1998/assembly98/music/dominica.zip|youtube:http://www.youtube.com/watch?v=YVf695iBOyQ
-title:Paska HardCore Biisi|author:Harry|position:0|webfile:music/paska_hardcore_biisi_by_harry.mp3|sceneorg:/parties/1998/assembly98/music/paska_ha.zip|youtube:http://www.youtube.com/watch?v=r2ImdqClGpo
+title:All your secrets|author:Leach|position:0|webfile:music/all_your_secrets_by_leach.mp3|sceneorg:/parties/1998/assembly98/music/all_your.zip|youtube:rQcImC0cMcU
+title:Moonflower|author:Zage|position:0|webfile:music/moonflower_by_zage.mp3|sceneorg:/parties/1998/assembly98/music/moonflow.zip|youtube:BsD1yd0MfXI
+title:psychedelia|author:treme|position:0|webfile:music/psychedelia_by_treme.mp3|sceneorg:/parties/1998/assembly98/music/psychede.zip|youtube:krc_x7Wp9X8
+title:Goodbye Past|author:L-Wizard|position:0|webfile:music/goodbye_past_by_l_wizard.mp3|sceneorg:/parties/1998/assembly98/music/goodbye_.zip|youtube:OKB6uyyoo3Y
+title:Take Your Vet Off|author:Turkka|position:0|webfile:music/take_your_vet_off_by_turkka.mp3|sceneorg:/parties/1998/assembly98/music/take_you.zip|youtube:NqGw4Pf5I7Q
+title:kioma nivada|author:Jcole/Milk^Vista|position:0|webfile:music/kioma_nivada_by_jcole_milk_vista.mp3|sceneorg:/parties/1998/assembly98/music/kioma_ni.zip|youtube:Ia7xWN-F49E
+title:juuri näin.|author:Sape / Cheddar|position:0|webfile:music/juuri_nin_by_sape_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/juuri_ni.zip|youtube:Yy_K8CtAYd8
+title:little adventure|author:loonie|position:0|webfile:music/little_adventure_by_loonie.mp3|sceneorg:/parties/1998/assembly98/music/little_a.zip|youtube:XZZw2KWoC_A
+title:Secrets|author:Impulse|position:0|webfile:music/secrets_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/secrets_.zip|youtube:jozIVVyl6xw
+title:kvaak|author:jobe|position:0|webfile:music/kvaak_by_jobe.mp3|sceneorg:/parties/1998/assembly98/music/kvaak_by.zip|youtube:uH4nWF_lvOg
+title:Control us|author:Frodo/Cheddar|position:0|webfile:music/control_us_by_frodo_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/control_.zip|youtube:sO3D8WzslSc
+title:the Formula of Mulatius|author:Phaser|position:0|webfile:music/the_formula_of_mulatius_by_phaser.mp3|sceneorg:/parties/1998/assembly98/music/the_form.zip|youtube:X57_chHiNdo
+title:Fight for Freedom|author:Impulse|position:0|webfile:music/fight_for_freedom_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/fight_fo.zip|youtube:YRSWC6Qap1U
+title:Pakkeli|author:ARto|position:0|webfile:music/pakkeli_by_arto.mp3|sceneorg:/parties/1998/assembly98/music/pakkeli_.zip|youtube:r4GdA-eGJqQ
+title:Music|author:Shake|position:0|webfile:music/music_by_shake.mp3|sceneorg:/parties/1998/assembly98/music/music_by.zip|youtube:oDrDEJTxym8
+title:Pool of Kurnutus|author:Renegadez|position:0|webfile:music/pool_of_kurnutus_by_renegadez.mp3|sceneorg:/parties/1998/assembly98/music/pool_of_.zip|youtube:ZMZ0YC4Rg8M
+title:dominican republic|author:strala|position:0|webfile:music/dominican_republic_by_strala.mp3|sceneorg:/parties/1998/assembly98/music/dominica.zip|youtube:YVf695iBOyQ
+title:Paska HardCore Biisi|author:Harry|position:0|webfile:music/paska_hardcore_biisi_by_harry.mp3|sceneorg:/parties/1998/assembly98/music/paska_ha.zip|youtube:r2ImdqClGpo
 title:Ahaa..|author:Fenris D / Proton Group|position:0|sceneorg:/parties/1998/assembly98/music/ahaa_by_.zip
-title:panache|author:spud|position:0|webfile:music/panache_by_spud.mp3|sceneorg:/parties/1998/assembly98/music/panache_.zip|youtube:http://www.youtube.com/watch?v=jibpngiIP7Y
-title:Heavenly|author:Sprinkle / Aalto|position:0|webfile:music/heavenly_by_sprinkle_aalto.mp3|sceneorg:/parties/1998/assembly98/music/heavenly.zip|youtube:http://www.youtube.com/watch?v=3utzJwEOSc4
-title:Hungary|author:Midnight|position:0|webfile:music/hungary_by_midnight.mp3|sceneorg:/parties/1998/assembly98/music/hungary_.zip|youtube:http://www.youtube.com/watch?v=1TnCkAFqI1U
-title:HARD ASS|author:nOOKIE|position:0|webfile:music/hard_ass_by_nookie.mp3|sceneorg:/parties/1998/assembly98/music/hard_ass.zip|youtube:http://www.youtube.com/watch?v=uFw2OQRA0CA
-title:Far Away|author:Rage|position:0|webfile:music/far_away_by_rage.mp3|sceneorg:/parties/1998/assembly98/music/far_away.zip|youtube:http://www.youtube.com/watch?v=C5b5PnpLgcs
+title:panache|author:spud|position:0|webfile:music/panache_by_spud.mp3|sceneorg:/parties/1998/assembly98/music/panache_.zip|youtube:jibpngiIP7Y
+title:Heavenly|author:Sprinkle / Aalto|position:0|webfile:music/heavenly_by_sprinkle_aalto.mp3|sceneorg:/parties/1998/assembly98/music/heavenly.zip|youtube:3utzJwEOSc4
+title:Hungary|author:Midnight|position:0|webfile:music/hungary_by_midnight.mp3|sceneorg:/parties/1998/assembly98/music/hungary_.zip|youtube:1TnCkAFqI1U
+title:HARD ASS|author:nOOKIE|position:0|webfile:music/hard_ass_by_nookie.mp3|sceneorg:/parties/1998/assembly98/music/hard_ass.zip|youtube:uFw2OQRA0CA
+title:Far Away|author:Rage|position:0|webfile:music/far_away_by_rage.mp3|sceneorg:/parties/1998/assembly98/music/far_away.zip|youtube:C5b5PnpLgcs
 title:noname1|author:discreet|position:0|sceneorg:/parties/1998/assembly98/music/noname1_.zip
-title:Fool for a Day|author:Crux|position:0|webfile:music/fool_for_a_day_by_crux.mp3|sceneorg:/parties/1998/assembly98/music/fool_for.zip|youtube:http://www.youtube.com/watch?v=4WKoAufKExY
-title:noname2|author:discreet|position:0|webfile:music/noname2_by_discreet.mp3|sceneorg:/parties/1998/assembly98/music/noname2_.zip|youtube:http://www.youtube.com/watch?v=qaF6VRY3HCQ
+title:Fool for a Day|author:Crux|position:0|webfile:music/fool_for_a_day_by_crux.mp3|sceneorg:/parties/1998/assembly98/music/fool_for.zip|youtube:4WKoAufKExY
+title:noname2|author:discreet|position:0|webfile:music/noname2_by_discreet.mp3|sceneorg:/parties/1998/assembly98/music/noname2_.zip|youtube:qaF6VRY3HCQ
 title:Luminescent Green|author:Scinet|position:0|sceneorg:/parties/1998/assembly98/music/luminesc.zip
-title:paint drops|author:Nitro|position:0|webfile:music/paint_drops_by_nitro.mp3|sceneorg:/parties/1998/assembly98/music/paint_dr.zip|youtube:http://www.youtube.com/watch?v=2Qg3Dwc8Vkc
-title:Strings|author:Zovirax|position:0|webfile:music/strings_by_zovirax.mp3|sceneorg:/parties/1998/assembly98/music/strings_.zip|youtube:http://www.youtube.com/watch?v=l3sE0OtvMLE
-title:Kedon kukkaset|author:Tremor|position:0|webfile:music/kedon_kukkaset_by_tremor.mp3|sceneorg:/parties/1998/assembly98/music/kedon_ku.zip|youtube:http://www.youtube.com/watch?v=lJ1ExQCBR1w
-title:Syltty kontrol|author:Jama|position:0|webfile:music/syltty_kontrol_by_jama.mp3|sceneorg:/parties/1998/assembly98/music/syltty_k.zip|youtube:http://www.youtube.com/watch?v=itBCM2E2CjM
-title:nemo kontrol|author:kimble|position:0|webfile:music/nemo_kontrol_by_kimble.mp3|sceneorg:/parties/1998/assembly98/music/nemo_kon.zip|youtube:http://www.youtube.com/watch?v=OEPdKnWc1fI
-title:Boom!|author:Artsi/Lux|position:0|webfile:music/boom_by_artsi_lux.mp3|sceneorg:/parties/1998/assembly98/music/boom_by_.zip|youtube:http://www.youtube.com/watch?v=yMx-2B1YBlg
-title:Crazee World|author:MtC|position:0|webfile:music/crazee_world_by_mtc.mp3|sceneorg:/parties/1998/assembly98/music/crazee_w.zip|youtube:http://www.youtube.com/watch?v=2xNNsGHQig0
-title:Come and get me|author:kuu|position:0|webfile:music/come_and_get_me_by_kuu.mp3|sceneorg:/parties/1998/assembly98/music/come_and.zip|youtube:http://www.youtube.com/watch?v=cqNXzvW01Io
-title:U R Krushed.|author:Repe|position:0|webfile:music/u_r_krushed_by_repe.mp3|sceneorg:/parties/1998/assembly98/music/u_r_krus.zip|youtube:http://www.youtube.com/watch?v=gO58ezG7fDc
-title:Bream|author:Limbo Duck|position:0|webfile:music/bream_by_limbo_duck.mp3|sceneorg:/parties/1998/assembly98/music/bream_by.zip|youtube:http://www.youtube.com/watch?v=vIY1aJFwTSc
-title:Digital|author:Substance|position:0|webfile:music/digital_by_substance.mp3|sceneorg:/parties/1998/assembly98/music/digital_.zip|youtube:http://www.youtube.com/watch?v=ZsrI5bSPNr0
-title:Kuthno el Salvam|author:tonic|position:0|webfile:music/kuthno_el_salvam_by_tonic.mp3|sceneorg:/parties/1998/assembly98/music/kuthno_e.zip|youtube:http://www.youtube.com/watch?v=sljTBdzdzXQ
-title:Arcane Denial|author:Manfex|position:0|webfile:music/arcane_denial_by_manfex.mp3|sceneorg:/parties/1998/assembly98/music/arcane_d.zip|youtube:http://www.youtube.com/watch?v=aKXfqM4PT-s
-title:attending eart|author:xhale|position:0|webfile:music/attending_eart_by_xhale.mp3|sceneorg:/parties/1998/assembly98/music/attendin.zip|youtube:http://www.youtube.com/watch?v=fVdUNPi82m0
-title:The tears, the Asm'98|author:Vable|position:0|webfile:music/the_tears_the_asm_98_by_vable.mp3|sceneorg:/parties/1998/assembly98/music/the_tear.zip|youtube:http://www.youtube.com/watch?v=bMAqy8oMsx0
+title:paint drops|author:Nitro|position:0|webfile:music/paint_drops_by_nitro.mp3|sceneorg:/parties/1998/assembly98/music/paint_dr.zip|youtube:2Qg3Dwc8Vkc
+title:Strings|author:Zovirax|position:0|webfile:music/strings_by_zovirax.mp3|sceneorg:/parties/1998/assembly98/music/strings_.zip|youtube:l3sE0OtvMLE
+title:Kedon kukkaset|author:Tremor|position:0|webfile:music/kedon_kukkaset_by_tremor.mp3|sceneorg:/parties/1998/assembly98/music/kedon_ku.zip|youtube:lJ1ExQCBR1w
+title:Syltty kontrol|author:Jama|position:0|webfile:music/syltty_kontrol_by_jama.mp3|sceneorg:/parties/1998/assembly98/music/syltty_k.zip|youtube:itBCM2E2CjM
+title:nemo kontrol|author:kimble|position:0|webfile:music/nemo_kontrol_by_kimble.mp3|sceneorg:/parties/1998/assembly98/music/nemo_kon.zip|youtube:OEPdKnWc1fI
+title:Boom!|author:Artsi/Lux|position:0|webfile:music/boom_by_artsi_lux.mp3|sceneorg:/parties/1998/assembly98/music/boom_by_.zip|youtube:yMx-2B1YBlg
+title:Crazee World|author:MtC|position:0|webfile:music/crazee_world_by_mtc.mp3|sceneorg:/parties/1998/assembly98/music/crazee_w.zip|youtube:2xNNsGHQig0
+title:Come and get me|author:kuu|position:0|webfile:music/come_and_get_me_by_kuu.mp3|sceneorg:/parties/1998/assembly98/music/come_and.zip|youtube:cqNXzvW01Io
+title:U R Krushed.|author:Repe|position:0|webfile:music/u_r_krushed_by_repe.mp3|sceneorg:/parties/1998/assembly98/music/u_r_krus.zip|youtube:gO58ezG7fDc
+title:Bream|author:Limbo Duck|position:0|webfile:music/bream_by_limbo_duck.mp3|sceneorg:/parties/1998/assembly98/music/bream_by.zip|youtube:vIY1aJFwTSc
+title:Digital|author:Substance|position:0|webfile:music/digital_by_substance.mp3|sceneorg:/parties/1998/assembly98/music/digital_.zip|youtube:ZsrI5bSPNr0
+title:Kuthno el Salvam|author:tonic|position:0|webfile:music/kuthno_el_salvam_by_tonic.mp3|sceneorg:/parties/1998/assembly98/music/kuthno_e.zip|youtube:sljTBdzdzXQ
+title:Arcane Denial|author:Manfex|position:0|webfile:music/arcane_denial_by_manfex.mp3|sceneorg:/parties/1998/assembly98/music/arcane_d.zip|youtube:aKXfqM4PT-s
+title:attending eart|author:xhale|position:0|webfile:music/attending_eart_by_xhale.mp3|sceneorg:/parties/1998/assembly98/music/attendin.zip|youtube:fVdUNPi82m0
+title:The tears, the Asm'98|author:Vable|position:0|webfile:music/the_tears_the_asm_98_by_vable.mp3|sceneorg:/parties/1998/assembly98/music/the_tear.zip|youtube:bMAqy8oMsx0
 title:Haucee koko lunta talossa|author:JM Jamaica|position:0|sceneorg:/parties/1998/assembly98/music/haucee_k.zip
-title:urlg|author:Aapo|position:0|webfile:music/urlg_by_aapo.mp3|sceneorg:/parties/1998/assembly98/music/urlg_by_.zip|youtube:http://www.youtube.com/watch?v=YGfHVvRn6Q4
-title:mass control|author:yli.|position:0|webfile:music/mass_control_by_yli.mp3|sceneorg:/parties/1998/assembly98/music/mass_con.zip|youtube:http://www.youtube.com/watch?v=Fa-m6i-m9No
-title:I Wish...|author:BlueShadow|position:0|webfile:music/i_wish_by_blueshadow.mp3|sceneorg:/parties/1998/assembly98/music/i_wish_b.zip|youtube:http://www.youtube.com/watch?v=8L1ELMipRsg
-title:Wild West Express|author:BasB|position:0|webfile:music/wild_west_express_by_basb.mp3|sceneorg:/parties/1998/assembly98/music/wild_wes.zip|youtube:http://www.youtube.com/watch?v=Z45yoBdRG7U
-title:Surreal|author:shS|position:0|webfile:music/surreal_by_shs.mp3|sceneorg:/parties/1998/assembly98/music/surreal_.zip|youtube:http://www.youtube.com/watch?v=eEyQFZu73jA
-title:cogten|author:Kyllönen|position:0|webfile:music/cogten_by_kyllnen.mp3|sceneorg:/parties/1998/assembly98/music/cogten_b.zip|youtube:http://www.youtube.com/watch?v=xGIwjw4OI-Y
-title:Harmageddon|author:lawb|position:0|webfile:music/harmageddon_by_lawb.mp3|sceneorg:/parties/1998/assembly98/music/harmaged.zip|youtube:http://www.youtube.com/watch?v=xB2lIeTZ62Q
-title:Brain Pain|author:kalma|position:0|webfile:music/brain_pain_by_kalma.mp3|sceneorg:/parties/1998/assembly98/music/brain_pa.zip|youtube:http://www.youtube.com/watch?v=GHZ8lHNMAe8
-title:When Aliens Land...|author:MusicMan|position:0|webfile:music/when_aliens_land_by_musicman.mp3|sceneorg:/parties/1998/assembly98/music/when_ali.zip|youtube:http://www.youtube.com/watch?v=-to9DLEqldg
-title:No Way Out|author:jPx|position:0|webfile:music/no_way_out_by_jpx.mp3|sceneorg:/parties/1998/assembly98/music/no_way_o.zip|youtube:http://www.youtube.com/watch?v=Qc-2bDtmT2g
-title:Ill|author:Rondo|position:0|webfile:music/ill_by_rondo.mp3|sceneorg:/parties/1998/assembly98/music/ill_by_r.zip|youtube:http://www.youtube.com/watch?v=E3jScQ-OvtA
-title:Mr.X and the Groovedrug|author:Vastator (Mr.V) and Silver (Mr.S)|position:0|webfile:music/mr_x_and_the_groovedrug_by_vastator_mr_v_and_silver_mr_s.mp3|sceneorg:/parties/1998/assembly98/music/mrx_and_.zip|youtube:http://www.youtube.com/watch?v=RFzhO7gUucY
-title:Dominotar|author:Debris|position:0|webfile:music/dominotar_by_debris.mp3|sceneorg:/parties/1998/assembly98/music/dominota.zip|youtube:http://www.youtube.com/watch?v=pjv77riJYjc
-title:Badsector in my mind|author:JER|position:0|webfile:music/badsector_in_my_mind_by_jer.mp3|sceneorg:/parties/1998/assembly98/music/badsecto.zip|youtube:http://www.youtube.com/watch?v=M27h2zXDXGY
-title:Falling Asleep|author:white|position:0|webfile:music/falling_asleep_by_white.mp3|sceneorg:/parties/1998/assembly98/music/falling_.zip|youtube:http://www.youtube.com/watch?v=P9UmbrZgnsE
-title:Overdose|author:Milcom|position:0|webfile:music/overdose_by_milcom.mp3|sceneorg:/parties/1998/assembly98/music/overdose.zip|youtube:http://www.youtube.com/watch?v=vmW6v1ZXZWc
-title:finno-ugrian beat|author:adam|position:0|webfile:music/finno_ugrian_beat_by_adam.mp3|sceneorg:/parties/1998/assembly98/music/finnougr.zip|youtube:http://www.youtube.com/watch?v=JEqgeVKjLTc
-title:ned weep|author:crazer|position:0|webfile:music/ned_weep_by_crazer.mp3|sceneorg:/parties/1998/assembly98/music/ned_weep.zip|youtube:http://www.youtube.com/watch?v=fClqh0SrVVQ
-title:ortto.xm|author:inu|position:0|webfile:music/ortto_xm_by_inu.mp3|sceneorg:/parties/1998/assembly98/music/orttoxm_.zip|youtube:http://www.youtube.com/watch?v=j7vQZfTKfKI
-title:Fuck me smoothly|author:hyPno|position:0|webfile:music/fuck_me_smoothly_by_hypno.mp3|sceneorg:/parties/1998/assembly98/music/fuck_me_.zip|youtube:http://www.youtube.com/watch?v=aX-TexJCdCg
-title:Ebeneezer|author:Coralli|position:0|webfile:music/ebeneezer_by_coralli.mp3|sceneorg:/parties/1998/assembly98/music/ebeneeze.zip|youtube:http://www.youtube.com/watch?v=-nMt2lz3Dgo
-title:Unelmia (dremas)|author:dna|position:0|webfile:music/unelmia_dremas_by_dna.mp3|sceneorg:/parties/1998/assembly98/music/unelmia_.zip|youtube:http://www.youtube.com/watch?v=9tTWwGAvsBA
-title:Echoes Of The Dawn|author:Shamus|position:0|webfile:music/echoes_of_the_dawn_by_shamus.mp3|sceneorg:/parties/1998/assembly98/music/echoes_o.zip|youtube:http://www.youtube.com/watch?v=BX5xssukCM4
-title:Invernia (Winterland)|author:Antik|position:0|webfile:music/invernia_winterland_by_antik.mp3|sceneorg:/parties/1998/assembly98/music/invernia.zip|youtube:http://www.youtube.com/watch?v=lka_X-ndMfc
-title:Autumnal Winds|author:spook|position:0|webfile:music/autumnal_winds_by_spook.mp3|sceneorg:/parties/1998/assembly98/music/autumnal.zip|youtube:http://www.youtube.com/watch?v=Nr6QkG8Ials
-title:Cryogenic Chamber|author:Humdrum|position:0|webfile:music/cryogenic_chamber_by_humdrum.mp3|sceneorg:/parties/1998/assembly98/music/cryogeni.zip|youtube:http://www.youtube.com/watch?v=3yOWeL8usWs
-title:Samba Brazilia|author:Solar Crisis|position:0|webfile:music/samba_brazilia_by_solar_crisis.mp3|sceneorg:/parties/1998/assembly98/music/samba_br.zip|youtube:http://www.youtube.com/watch?v=OALkHjoQzhI
-title:Lifestyle|author:WT|position:0|webfile:music/lifestyle_by_wt.mp3|sceneorg:/parties/1998/assembly98/music/lifestyl.zip|youtube:http://www.youtube.com/watch?v=6cMHy9BAWcI
-title:Egoterroristi|author:Linearic/Vandals|position:0|webfile:music/egoterroristi_by_linearic_vandals.mp3|sceneorg:/parties/1998/assembly98/music/egoterro.zip|youtube:http://www.youtube.com/watch?v=zJ3IAbQnFS4
-title:Poutapilvi|author:Juho/AP|position:0|webfile:music/poutapilvi_by_juho_ap.mp3|sceneorg:/parties/1998/assembly98/music/poutapil.zip|youtube:http://www.youtube.com/watch?v=B4U8StREELM
+title:urlg|author:Aapo|position:0|webfile:music/urlg_by_aapo.mp3|sceneorg:/parties/1998/assembly98/music/urlg_by_.zip|youtube:YGfHVvRn6Q4
+title:mass control|author:yli.|position:0|webfile:music/mass_control_by_yli.mp3|sceneorg:/parties/1998/assembly98/music/mass_con.zip|youtube:Fa-m6i-m9No
+title:I Wish...|author:BlueShadow|position:0|webfile:music/i_wish_by_blueshadow.mp3|sceneorg:/parties/1998/assembly98/music/i_wish_b.zip|youtube:8L1ELMipRsg
+title:Wild West Express|author:BasB|position:0|webfile:music/wild_west_express_by_basb.mp3|sceneorg:/parties/1998/assembly98/music/wild_wes.zip|youtube:Z45yoBdRG7U
+title:Surreal|author:shS|position:0|webfile:music/surreal_by_shs.mp3|sceneorg:/parties/1998/assembly98/music/surreal_.zip|youtube:eEyQFZu73jA
+title:cogten|author:Kyllönen|position:0|webfile:music/cogten_by_kyllnen.mp3|sceneorg:/parties/1998/assembly98/music/cogten_b.zip|youtube:xGIwjw4OI-Y
+title:Harmageddon|author:lawb|position:0|webfile:music/harmageddon_by_lawb.mp3|sceneorg:/parties/1998/assembly98/music/harmaged.zip|youtube:xB2lIeTZ62Q
+title:Brain Pain|author:kalma|position:0|webfile:music/brain_pain_by_kalma.mp3|sceneorg:/parties/1998/assembly98/music/brain_pa.zip|youtube:GHZ8lHNMAe8
+title:When Aliens Land...|author:MusicMan|position:0|webfile:music/when_aliens_land_by_musicman.mp3|sceneorg:/parties/1998/assembly98/music/when_ali.zip|youtube:-to9DLEqldg
+title:No Way Out|author:jPx|position:0|webfile:music/no_way_out_by_jpx.mp3|sceneorg:/parties/1998/assembly98/music/no_way_o.zip|youtube:Qc-2bDtmT2g
+title:Ill|author:Rondo|position:0|webfile:music/ill_by_rondo.mp3|sceneorg:/parties/1998/assembly98/music/ill_by_r.zip|youtube:E3jScQ-OvtA
+title:Mr.X and the Groovedrug|author:Vastator (Mr.V) and Silver (Mr.S)|position:0|webfile:music/mr_x_and_the_groovedrug_by_vastator_mr_v_and_silver_mr_s.mp3|sceneorg:/parties/1998/assembly98/music/mrx_and_.zip|youtube:RFzhO7gUucY
+title:Dominotar|author:Debris|position:0|webfile:music/dominotar_by_debris.mp3|sceneorg:/parties/1998/assembly98/music/dominota.zip|youtube:pjv77riJYjc
+title:Badsector in my mind|author:JER|position:0|webfile:music/badsector_in_my_mind_by_jer.mp3|sceneorg:/parties/1998/assembly98/music/badsecto.zip|youtube:M27h2zXDXGY
+title:Falling Asleep|author:white|position:0|webfile:music/falling_asleep_by_white.mp3|sceneorg:/parties/1998/assembly98/music/falling_.zip|youtube:P9UmbrZgnsE
+title:Overdose|author:Milcom|position:0|webfile:music/overdose_by_milcom.mp3|sceneorg:/parties/1998/assembly98/music/overdose.zip|youtube:vmW6v1ZXZWc
+title:finno-ugrian beat|author:adam|position:0|webfile:music/finno_ugrian_beat_by_adam.mp3|sceneorg:/parties/1998/assembly98/music/finnougr.zip|youtube:JEqgeVKjLTc
+title:ned weep|author:crazer|position:0|webfile:music/ned_weep_by_crazer.mp3|sceneorg:/parties/1998/assembly98/music/ned_weep.zip|youtube:fClqh0SrVVQ
+title:ortto.xm|author:inu|position:0|webfile:music/ortto_xm_by_inu.mp3|sceneorg:/parties/1998/assembly98/music/orttoxm_.zip|youtube:j7vQZfTKfKI
+title:Fuck me smoothly|author:hyPno|position:0|webfile:music/fuck_me_smoothly_by_hypno.mp3|sceneorg:/parties/1998/assembly98/music/fuck_me_.zip|youtube:aX-TexJCdCg
+title:Ebeneezer|author:Coralli|position:0|webfile:music/ebeneezer_by_coralli.mp3|sceneorg:/parties/1998/assembly98/music/ebeneeze.zip|youtube:-nMt2lz3Dgo
+title:Unelmia (dremas)|author:dna|position:0|webfile:music/unelmia_dremas_by_dna.mp3|sceneorg:/parties/1998/assembly98/music/unelmia_.zip|youtube:9tTWwGAvsBA
+title:Echoes Of The Dawn|author:Shamus|position:0|webfile:music/echoes_of_the_dawn_by_shamus.mp3|sceneorg:/parties/1998/assembly98/music/echoes_o.zip|youtube:BX5xssukCM4
+title:Invernia (Winterland)|author:Antik|position:0|webfile:music/invernia_winterland_by_antik.mp3|sceneorg:/parties/1998/assembly98/music/invernia.zip|youtube:lka_X-ndMfc
+title:Autumnal Winds|author:spook|position:0|webfile:music/autumnal_winds_by_spook.mp3|sceneorg:/parties/1998/assembly98/music/autumnal.zip|youtube:Nr6QkG8Ials
+title:Cryogenic Chamber|author:Humdrum|position:0|webfile:music/cryogenic_chamber_by_humdrum.mp3|sceneorg:/parties/1998/assembly98/music/cryogeni.zip|youtube:3yOWeL8usWs
+title:Samba Brazilia|author:Solar Crisis|position:0|webfile:music/samba_brazilia_by_solar_crisis.mp3|sceneorg:/parties/1998/assembly98/music/samba_br.zip|youtube:OALkHjoQzhI
+title:Lifestyle|author:WT|position:0|webfile:music/lifestyle_by_wt.mp3|sceneorg:/parties/1998/assembly98/music/lifestyl.zip|youtube:6cMHy9BAWcI
+title:Egoterroristi|author:Linearic/Vandals|position:0|webfile:music/egoterroristi_by_linearic_vandals.mp3|sceneorg:/parties/1998/assembly98/music/egoterro.zip|youtube:zJ3IAbQnFS4
+title:Poutapilvi|author:Juho/AP|position:0|webfile:music/poutapilvi_by_juho_ap.mp3|sceneorg:/parties/1998/assembly98/music/poutapil.zip|youtube:B4U8StREELM
 title:15Feet away|author:Dany|position:0|sceneorg:/parties/1998/assembly98/music/15feet_a.zip
-title:like loiske|author:mig27|position:0|webfile:music/like_loiske_by_mig27.mp3|sceneorg:/parties/1998/assembly98/music/like_loi.zip|youtube:http://www.youtube.com/watch?v=Q9LQZqd8S7s
-title:Inside Defeat|author:Extrian|position:0|webfile:music/inside_defeat_by_extrian.mp3|sceneorg:/parties/1998/assembly98/music/inside_d.zip|youtube:http://www.youtube.com/watch?v=NO6apReEDLc
-title:Helena Takalo-project|author:Shade|position:0|webfile:music/helena_takalo_project_by_shade.mp3|sceneorg:/parties/1998/assembly98/music/helena_t.zip|youtube:http://www.youtube.com/watch?v=k-LwMmRaYJ4
-title:1 1/2 birds|author:teemuki|position:0|webfile:music/1_1_2_birds_by_teemuki.mp3|sceneorg:/parties/1998/assembly98/music/1_12_bir.zip|youtube:http://www.youtube.com/watch?v=6gKnvgOUk94
-title:i was on my way to kitchen, as i tripped on my dog (everyday life)|author:codehead/suolahappo.|position:0|webfile:music/i_was_on_my_way_to_kitchen_as_i_tripped_on_my_dog_everyday_life_by_codehead_s.mp3|sceneorg:/parties/1998/assembly98/music/i_was_on.zip|youtube:http://www.youtube.com/watch?v=6c-XeEvpeMc
-title:Bahama Beach|author:Tompa do Pompa|position:0|webfile:music/bahama_beach_by_tompa_do_pompa.mp3|sceneorg:/parties/1998/assembly98/music/bahama_b.zip|youtube:http://www.youtube.com/watch?v=0sJTFLMpw7M
-title:Disindegrate|author:Tripod|position:0|webfile:music/disindegrate_by_tripod.mp3|sceneorg:/parties/1998/assembly98/music/disindeg.zip|youtube:http://www.youtube.com/watch?v=NJNRVWajS8k
-title:hypnotic liquid|author:x.fader|position:0|webfile:music/hypnotic_liquid_by_x_fader.mp3|sceneorg:/parties/1998/assembly98/music/hypnotic.zip|youtube:http://www.youtube.com/watch?v=LPEKLhRIHJ4
-title:Anyway i want|author:The hooligan|position:0|webfile:music/anyway_i_want_by_the_hooligan.mp3|sceneorg:/parties/1998/assembly98/music/anyway_i.zip|youtube:http://www.youtube.com/watch?v=6BKVFQhHkEA
-title:Vimonen Valssi|author:Makkonen|position:0|webfile:music/vimonen_valssi_by_makkonen.mp3|sceneorg:/parties/1998/assembly98/music/vimonen_.zip|youtube:http://www.youtube.com/watch?v=lyje_u9pRkw
-title:Crystal Tears|author:Psychedelic|position:0|webfile:music/crystal_tears_by_psychedelic.mp3|sceneorg:/parties/1998/assembly98/music/crystal_.zip|youtube:http://www.youtube.com/watch?v=2LbKMYX2nzA
-title:Polka dots and moonbeams|author:md|position:0|webfile:music/polka_dots_and_moonbeams_by_md.mp3|sceneorg:/parties/1998/assembly98/music/polka_do.zip|youtube:http://www.youtube.com/watch?v=r8J5wEJI-tM
+title:like loiske|author:mig27|position:0|webfile:music/like_loiske_by_mig27.mp3|sceneorg:/parties/1998/assembly98/music/like_loi.zip|youtube:Q9LQZqd8S7s
+title:Inside Defeat|author:Extrian|position:0|webfile:music/inside_defeat_by_extrian.mp3|sceneorg:/parties/1998/assembly98/music/inside_d.zip|youtube:NO6apReEDLc
+title:Helena Takalo-project|author:Shade|position:0|webfile:music/helena_takalo_project_by_shade.mp3|sceneorg:/parties/1998/assembly98/music/helena_t.zip|youtube:k-LwMmRaYJ4
+title:1 1/2 birds|author:teemuki|position:0|webfile:music/1_1_2_birds_by_teemuki.mp3|sceneorg:/parties/1998/assembly98/music/1_12_bir.zip|youtube:6gKnvgOUk94
+title:i was on my way to kitchen, as i tripped on my dog (everyday life)|author:codehead/suolahappo.|position:0|webfile:music/i_was_on_my_way_to_kitchen_as_i_tripped_on_my_dog_everyday_life_by_codehead_s.mp3|sceneorg:/parties/1998/assembly98/music/i_was_on.zip|youtube:6c-XeEvpeMc
+title:Bahama Beach|author:Tompa do Pompa|position:0|webfile:music/bahama_beach_by_tompa_do_pompa.mp3|sceneorg:/parties/1998/assembly98/music/bahama_b.zip|youtube:0sJTFLMpw7M
+title:Disindegrate|author:Tripod|position:0|webfile:music/disindegrate_by_tripod.mp3|sceneorg:/parties/1998/assembly98/music/disindeg.zip|youtube:NJNRVWajS8k
+title:hypnotic liquid|author:x.fader|position:0|webfile:music/hypnotic_liquid_by_x_fader.mp3|sceneorg:/parties/1998/assembly98/music/hypnotic.zip|youtube:LPEKLhRIHJ4
+title:Anyway i want|author:The hooligan|position:0|webfile:music/anyway_i_want_by_the_hooligan.mp3|sceneorg:/parties/1998/assembly98/music/anyway_i.zip|youtube:6BKVFQhHkEA
+title:Vimonen Valssi|author:Makkonen|position:0|webfile:music/vimonen_valssi_by_makkonen.mp3|sceneorg:/parties/1998/assembly98/music/vimonen_.zip|youtube:lyje_u9pRkw
+title:Crystal Tears|author:Psychedelic|position:0|webfile:music/crystal_tears_by_psychedelic.mp3|sceneorg:/parties/1998/assembly98/music/crystal_.zip|youtube:2LbKMYX2nzA
+title:Polka dots and moonbeams|author:md|position:0|webfile:music/polka_dots_and_moonbeams_by_md.mp3|sceneorg:/parties/1998/assembly98/music/polka_do.zip|youtube:r8J5wEJI-tM
 title:Oddis Slajos|author:Cryptic|position:0|sceneorg:/parties/1998/assembly98/music/oddis_sl.zip
-title:Knock 'em Cold|author:Olli Tuhkanen|position:0|webfile:music/knock_em_cold_by_olli_tuhkanen.mp3|sceneorg:/parties/1998/assembly98/music/knock_em.zip|youtube:http://www.youtube.com/watch?v=6V8MNZj09fI
-title:Mortal Sheep|author:lammatti|position:0|webfile:music/mortal_sheep_by_lammatti.mp3|sceneorg:/parties/1998/assembly98/music/mortal_s.zip|youtube:http://www.youtube.com/watch?v=Kskp6WaHw8M
-title:Experience|author:Elwood|position:0|webfile:music/experience_by_elwood.mp3|sceneorg:/parties/1998/assembly98/music/experien.zip|youtube:http://www.youtube.com/watch?v=PytGpBPnOvM
-title:The Green Water Fall|author:Emppu|position:0|webfile:music/the_green_water_fall_by_emppu.mp3|sceneorg:/parties/1998/assembly98/music/the_gree.zip|youtube:http://www.youtube.com/watch?v=Uch2aMq8ejM
-title:Singapore|author:Kameli|position:0|webfile:music/singapore_by_kameli.mp3|sceneorg:/parties/1998/assembly98/music/singapor.zip|youtube:http://www.youtube.com/watch?v=FT7p_l-XhQQ
-title:Elves in the night|author:DoC & Yoni|position:0|webfile:music/elves_in_the_night_by_doc_yoni.mp3|sceneorg:/parties/1998/assembly98/music/elves_in.zip|youtube:http://www.youtube.com/watch?v=E0PTameYCr8
-title:BrakeBite|author:Maxx|position:0|webfile:music/brakebite_by_maxx.mp3|sceneorg:/parties/1998/assembly98/music/brakebit.zip|youtube:http://www.youtube.com/watch?v=8qyehpQaISQ
-title:Voodoo Squirrel|author:Calf|position:0|webfile:music/voodoo_squirrel_by_calf.mp3|sceneorg:/parties/1998/assembly98/music/voodoo_s.zip|youtube:http://www.youtube.com/watch?v=aHHNoe2t-f4
-title:Summer Song|author:spiikki|position:0|webfile:music/summer_song_by_spiikki.mp3|sceneorg:/parties/1998/assembly98/music/summer_s.zip|youtube:http://www.youtube.com/watch?v=ujyPMcSx6qE
-title:Scotchman in a skirt|author:Cube|position:0|webfile:music/scotchman_in_a_skirt_by_cube.mp3|sceneorg:/parties/1998/assembly98/music/scotchma.zip|youtube:http://www.youtube.com/watch?v=2oBXDYOU5v4
-title:Escape|author:Domino|position:0|webfile:music/escape_by_domino.mp3|sceneorg:/parties/1998/assembly98/music/escape_b.zip|youtube:http://www.youtube.com/watch?v=fkXpCUXWkJs
-title:Karkkikepponen|author:Lark|position:0|webfile:music/karkkikepponen_by_lark.mp3|sceneorg:/parties/1998/assembly98/music/karkkike.zip|youtube:http://www.youtube.com/watch?v=kGvX2fCTG2A
-title:flatline|author:endotone|position:0|webfile:music/flatline_by_endotone.mp3|sceneorg:/parties/1998/assembly98/music/flatline.zip|youtube:http://www.youtube.com/watch?v=lIIWpwzgESs
-title:Poppanova|author:Spiderman|position:0|webfile:music/poppanova_by_spiderman.mp3|sceneorg:/parties/1998/assembly98/music/poppanov.zip|youtube:http://www.youtube.com/watch?v=N3wyGasFveo
-title:Cryptonized|author:Yoshid|position:0|webfile:music/cryptonized_by_yoshid.mp3|sceneorg:/parties/1998/assembly98/music/cryptoni.zip|youtube:http://www.youtube.com/watch?v=H1ikXJMzc3s
-title:Alpha|author:Chris/Styrox|position:0|webfile:music/alpha_by_chris_styrox.mp3|sceneorg:/parties/1998/assembly98/music/alpha_by.zip|youtube:http://www.youtube.com/watch?v=EGBonjbMIis
-title:Transdimensional|author:Icarus|position:0|webfile:music/transdimensional_by_icarus.mp3|sceneorg:/parties/1998/assembly98/music/transdim.zip|youtube:http://www.youtube.com/watch?v=vlq9Pix03P4
-title:Bubble|author:Foze/Cheddar|position:0|webfile:music/bubble_by_foze_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/bubble_b.zip|youtube:http://www.youtube.com/watch?v=krA5RInE_lM
-title:Humppa1|author:Mordicus|position:0|webfile:music/humppa1_by_mordicus.mp3|sceneorg:/parties/1998/assembly98/music/humppa1_.zip|youtube:http://www.youtube.com/watch?v=AwZJswphNgo
-title:anaali|author:Shivan|position:0|webfile:music/anaali_by_shivan.mp3|sceneorg:/parties/1998/assembly98/music/anaali_b.zip|youtube:http://www.youtube.com/watch?v=LhRYiEbcRR4
-title:Where are you|author:Apps|position:0|webfile:music/where_are_you_by_apps.mp3|sceneorg:/parties/1998/assembly98/music/where_ar.zip|youtube:http://www.youtube.com/watch?v=879djZ372vA
-title:Sea Of Hues|author:Liam the lemming|position:0|webfile:music/sea_of_hues_by_liam_the_lemming.mp3|sceneorg:/parties/1998/assembly98/music/sea_of_h.zip|youtube:http://www.youtube.com/watch?v=uoNi5wD9ip8
-title:one|author:Obeliq|position:0|webfile:music/one_by_obeliq.mp3|sceneorg:/parties/1998/assembly98/music/one_by_o.zip|youtube:http://www.youtube.com/watch?v=A6Ss95bLdN4
-title:Tides of Time|author:Mystical/purple+sol/trauma|position:0|webfile:music/tides_of_time_by_mystical_purple_sol_trauma.mp3|sceneorg:/parties/1998/assembly98/music/tides_of.zip|youtube:http://www.youtube.com/watch?v=naKnG7VkoUY
-title:silent scream|author:Garfield|position:0|webfile:music/silent_scream_by_garfield.mp3|sceneorg:/parties/1998/assembly98/music/silent_s.zip|youtube:http://www.youtube.com/watch?v=OVxH8cu5JDc
-title:Funkkipunkki|author:Petri Järvisalo|position:0|webfile:music/funkkipunkki_by_petri_jrvisalo.mp3|sceneorg:/parties/1998/assembly98/music/funkkipu.zip|youtube:http://www.youtube.com/watch?v=7yQOmq1Rm1c
-title:wake your mind|author:whk|position:0|webfile:music/wake_your_mind_by_whk.mp3|sceneorg:/parties/1998/assembly98/music/wake_you.zip|youtube:http://www.youtube.com/watch?v=Pu-ofxmbfjE
-title:Skyline|author:ruff|position:0|webfile:music/skyline_by_ruff.mp3|sceneorg:/parties/1998/assembly98/music/skyline_.zip|youtube:http://www.youtube.com/watch?v=xizEq-4IYzE
-title:Machine Drome|author:Willow|position:0|webfile:music/machine_drome_by_willow.mp3|sceneorg:/parties/1998/assembly98/music/machine_.zip|youtube:http://www.youtube.com/watch?v=-C9KD9IEH-M
-title:Dagha|author:Elohim|position:0|webfile:music/dagha_by_elohim.mp3|sceneorg:/parties/1998/assembly98/music/dagha_by.zip|youtube:http://www.youtube.com/watch?v=0YuMKbLehLo
-title:Empty Planet|author:LUK|position:0|webfile:music/empty_planet_by_luk.mp3|sceneorg:/parties/1998/assembly98/music/empty_pl.zip|youtube:http://www.youtube.com/watch?v=1A-R-ZygNHk
-title:The Beginning|author:Nobody/WildLight|position:0|webfile:music/the_beginning_by_nobody_wildlight.mp3|sceneorg:/parties/1998/assembly98/music/the_begi.zip|youtube:http://www.youtube.com/watch?v=lIuwymB0LqU
-title:Garden|author:Ren|position:0|webfile:music/garden_by_ren.mp3|sceneorg:/parties/1998/assembly98/music/garden_b.zip|youtube:http://www.youtube.com/watch?v=uUY3HR2q3uA
-title:Voteholic|author:Juke|position:0|webfile:music/voteholic_by_juke.mp3|sceneorg:/parties/1998/assembly98/music/voteholi.zip|youtube:http://www.youtube.com/watch?v=kS6Ic1VRQOY
-title:Roland|author:Organic / Bad Karma|position:0|webfile:music/roland_by_organic_bad_karma.mp3|sceneorg:/parties/1998/assembly98/music/roland_b.zip|youtube:http://www.youtube.com/watch?v=oGS8t6zBCXo
-title:Bat's Groove|author:Drizzt|position:0|webfile:music/bat_s_groove_by_drizzt.mp3|sceneorg:/parties/1998/assembly98/music/bats_gro.zip|youtube:http://www.youtube.com/watch?v=dofctp-NRgM
-title:Some|author:JanneZ|position:0|webfile:music/some_by_jannez.mp3|sceneorg:/parties/1998/assembly98/music/some_by_.zip|youtube:http://www.youtube.com/watch?v=aKqAri9kImY
-title:yellow tea|author:orbiter|position:0|webfile:music/yellow_tea_by_orbiter.mp3|sceneorg:/parties/1998/assembly98/music/yellow_t.zip|youtube:http://www.youtube.com/watch?v=iITDlAUJtw8
-title:Fucked up|author:Nagash|position:0|webfile:music/fucked_up_by_nagash.mp3|sceneorg:/parties/1998/assembly98/music/fucked_u.zip|youtube:http://www.youtube.com/watch?v=SeQWlvgNoxo
+title:Knock 'em Cold|author:Olli Tuhkanen|position:0|webfile:music/knock_em_cold_by_olli_tuhkanen.mp3|sceneorg:/parties/1998/assembly98/music/knock_em.zip|youtube:6V8MNZj09fI
+title:Mortal Sheep|author:lammatti|position:0|webfile:music/mortal_sheep_by_lammatti.mp3|sceneorg:/parties/1998/assembly98/music/mortal_s.zip|youtube:Kskp6WaHw8M
+title:Experience|author:Elwood|position:0|webfile:music/experience_by_elwood.mp3|sceneorg:/parties/1998/assembly98/music/experien.zip|youtube:PytGpBPnOvM
+title:The Green Water Fall|author:Emppu|position:0|webfile:music/the_green_water_fall_by_emppu.mp3|sceneorg:/parties/1998/assembly98/music/the_gree.zip|youtube:Uch2aMq8ejM
+title:Singapore|author:Kameli|position:0|webfile:music/singapore_by_kameli.mp3|sceneorg:/parties/1998/assembly98/music/singapor.zip|youtube:FT7p_l-XhQQ
+title:Elves in the night|author:DoC & Yoni|position:0|webfile:music/elves_in_the_night_by_doc_yoni.mp3|sceneorg:/parties/1998/assembly98/music/elves_in.zip|youtube:E0PTameYCr8
+title:BrakeBite|author:Maxx|position:0|webfile:music/brakebite_by_maxx.mp3|sceneorg:/parties/1998/assembly98/music/brakebit.zip|youtube:8qyehpQaISQ
+title:Voodoo Squirrel|author:Calf|position:0|webfile:music/voodoo_squirrel_by_calf.mp3|sceneorg:/parties/1998/assembly98/music/voodoo_s.zip|youtube:aHHNoe2t-f4
+title:Summer Song|author:spiikki|position:0|webfile:music/summer_song_by_spiikki.mp3|sceneorg:/parties/1998/assembly98/music/summer_s.zip|youtube:ujyPMcSx6qE
+title:Scotchman in a skirt|author:Cube|position:0|webfile:music/scotchman_in_a_skirt_by_cube.mp3|sceneorg:/parties/1998/assembly98/music/scotchma.zip|youtube:2oBXDYOU5v4
+title:Escape|author:Domino|position:0|webfile:music/escape_by_domino.mp3|sceneorg:/parties/1998/assembly98/music/escape_b.zip|youtube:fkXpCUXWkJs
+title:Karkkikepponen|author:Lark|position:0|webfile:music/karkkikepponen_by_lark.mp3|sceneorg:/parties/1998/assembly98/music/karkkike.zip|youtube:kGvX2fCTG2A
+title:flatline|author:endotone|position:0|webfile:music/flatline_by_endotone.mp3|sceneorg:/parties/1998/assembly98/music/flatline.zip|youtube:lIIWpwzgESs
+title:Poppanova|author:Spiderman|position:0|webfile:music/poppanova_by_spiderman.mp3|sceneorg:/parties/1998/assembly98/music/poppanov.zip|youtube:N3wyGasFveo
+title:Cryptonized|author:Yoshid|position:0|webfile:music/cryptonized_by_yoshid.mp3|sceneorg:/parties/1998/assembly98/music/cryptoni.zip|youtube:H1ikXJMzc3s
+title:Alpha|author:Chris/Styrox|position:0|webfile:music/alpha_by_chris_styrox.mp3|sceneorg:/parties/1998/assembly98/music/alpha_by.zip|youtube:EGBonjbMIis
+title:Transdimensional|author:Icarus|position:0|webfile:music/transdimensional_by_icarus.mp3|sceneorg:/parties/1998/assembly98/music/transdim.zip|youtube:vlq9Pix03P4
+title:Bubble|author:Foze/Cheddar|position:0|webfile:music/bubble_by_foze_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/bubble_b.zip|youtube:krA5RInE_lM
+title:Humppa1|author:Mordicus|position:0|webfile:music/humppa1_by_mordicus.mp3|sceneorg:/parties/1998/assembly98/music/humppa1_.zip|youtube:AwZJswphNgo
+title:anaali|author:Shivan|position:0|webfile:music/anaali_by_shivan.mp3|sceneorg:/parties/1998/assembly98/music/anaali_b.zip|youtube:LhRYiEbcRR4
+title:Where are you|author:Apps|position:0|webfile:music/where_are_you_by_apps.mp3|sceneorg:/parties/1998/assembly98/music/where_ar.zip|youtube:879djZ372vA
+title:Sea Of Hues|author:Liam the lemming|position:0|webfile:music/sea_of_hues_by_liam_the_lemming.mp3|sceneorg:/parties/1998/assembly98/music/sea_of_h.zip|youtube:uoNi5wD9ip8
+title:one|author:Obeliq|position:0|webfile:music/one_by_obeliq.mp3|sceneorg:/parties/1998/assembly98/music/one_by_o.zip|youtube:A6Ss95bLdN4
+title:Tides of Time|author:Mystical/purple+sol/trauma|position:0|webfile:music/tides_of_time_by_mystical_purple_sol_trauma.mp3|sceneorg:/parties/1998/assembly98/music/tides_of.zip|youtube:naKnG7VkoUY
+title:silent scream|author:Garfield|position:0|webfile:music/silent_scream_by_garfield.mp3|sceneorg:/parties/1998/assembly98/music/silent_s.zip|youtube:OVxH8cu5JDc
+title:Funkkipunkki|author:Petri Järvisalo|position:0|webfile:music/funkkipunkki_by_petri_jrvisalo.mp3|sceneorg:/parties/1998/assembly98/music/funkkipu.zip|youtube:7yQOmq1Rm1c
+title:wake your mind|author:whk|position:0|webfile:music/wake_your_mind_by_whk.mp3|sceneorg:/parties/1998/assembly98/music/wake_you.zip|youtube:Pu-ofxmbfjE
+title:Skyline|author:ruff|position:0|webfile:music/skyline_by_ruff.mp3|sceneorg:/parties/1998/assembly98/music/skyline_.zip|youtube:xizEq-4IYzE
+title:Machine Drome|author:Willow|position:0|webfile:music/machine_drome_by_willow.mp3|sceneorg:/parties/1998/assembly98/music/machine_.zip|youtube:-C9KD9IEH-M
+title:Dagha|author:Elohim|position:0|webfile:music/dagha_by_elohim.mp3|sceneorg:/parties/1998/assembly98/music/dagha_by.zip|youtube:0YuMKbLehLo
+title:Empty Planet|author:LUK|position:0|webfile:music/empty_planet_by_luk.mp3|sceneorg:/parties/1998/assembly98/music/empty_pl.zip|youtube:1A-R-ZygNHk
+title:The Beginning|author:Nobody/WildLight|position:0|webfile:music/the_beginning_by_nobody_wildlight.mp3|sceneorg:/parties/1998/assembly98/music/the_begi.zip|youtube:lIuwymB0LqU
+title:Garden|author:Ren|position:0|webfile:music/garden_by_ren.mp3|sceneorg:/parties/1998/assembly98/music/garden_b.zip|youtube:uUY3HR2q3uA
+title:Voteholic|author:Juke|position:0|webfile:music/voteholic_by_juke.mp3|sceneorg:/parties/1998/assembly98/music/voteholi.zip|youtube:kS6Ic1VRQOY
+title:Roland|author:Organic / Bad Karma|position:0|webfile:music/roland_by_organic_bad_karma.mp3|sceneorg:/parties/1998/assembly98/music/roland_b.zip|youtube:oGS8t6zBCXo
+title:Bat's Groove|author:Drizzt|position:0|webfile:music/bat_s_groove_by_drizzt.mp3|sceneorg:/parties/1998/assembly98/music/bats_gro.zip|youtube:dofctp-NRgM
+title:Some|author:JanneZ|position:0|webfile:music/some_by_jannez.mp3|sceneorg:/parties/1998/assembly98/music/some_by_.zip|youtube:aKqAri9kImY
+title:yellow tea|author:orbiter|position:0|webfile:music/yellow_tea_by_orbiter.mp3|sceneorg:/parties/1998/assembly98/music/yellow_t.zip|youtube:iITDlAUJtw8
+title:Fucked up|author:Nagash|position:0|webfile:music/fucked_up_by_nagash.mp3|sceneorg:/parties/1998/assembly98/music/fucked_u.zip|youtube:SeQWlvgNoxo
 title:Julkunen|author:Putkimies|position:0|sceneorg:/parties/1998/assembly98/music/julkunen.zip
-title:summer v2|author:marq|position:0|webfile:music/summer_v2_by_marq.mp3|sceneorg:/parties/1998/assembly98/music/summer_v.zip|youtube:http://www.youtube.com/watch?v=Iv1EOV0Ic4Y
+title:summer v2|author:marq|position:0|webfile:music/summer_v2_by_marq.mp3|sceneorg:/parties/1998/assembly98/music/summer_v.zip|youtube:Iv1EOV0Ic4Y
 title:Asm98: Space Odyssey|author:Ore-Gano|position:0|sceneorg:/parties/1998/assembly98/music/asm98_sp.zip
-title:aerobicworkout'79|author:aurini|position:0|webfile:music/aerobicworkout_79_by_aurini.mp3|sceneorg:/parties/1998/assembly98/music/aerobicw.zip|youtube:http://www.youtube.com/watch?v=8dmesOPVP_I
-title:Behind the sun|author:xlr8r|position:0|webfile:music/behind_the_sun_by_xlr8r.mp3|sceneorg:/parties/1998/assembly98/music/behind_t.zip|youtube:http://www.youtube.com/watch?v=LpA2ZmdwfW4
-title:The Dream|author:Razoredge|position:0|webfile:music/the_dream_by_razoredge.mp3|sceneorg:/parties/1998/assembly98/music/the_drea.zip|youtube:http://www.youtube.com/watch?v=MvQ9hG_rPkg
+title:aerobicworkout'79|author:aurini|position:0|webfile:music/aerobicworkout_79_by_aurini.mp3|sceneorg:/parties/1998/assembly98/music/aerobicw.zip|youtube:8dmesOPVP_I
+title:Behind the sun|author:xlr8r|position:0|webfile:music/behind_the_sun_by_xlr8r.mp3|sceneorg:/parties/1998/assembly98/music/behind_t.zip|youtube:LpA2ZmdwfW4
+title:The Dream|author:Razoredge|position:0|webfile:music/the_dream_by_razoredge.mp3|sceneorg:/parties/1998/assembly98/music/the_drea.zip|youtube:MvQ9hG_rPkg
 
 ! Graphics
 

@@ -2,9 +2,9 @@
 
 ! PC demo
 
-title:Unreal|author:Future Crew|position:1|media:./.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:11374|youtube:http://www.youtube.com/watch?v=OJ2shm7OU6g
+title:Unreal|author:Future Crew|position:1|media:./.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:11374|youtube:OJ2shm7OU6g
 title:Crystal Dream|author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip
-title:Internal Damage|author:EMF|position:3|media:./.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:http://www.youtube.com/watch?v=3Cf8WBw6I2Y
+title:Internal Damage|author:EMF|position:3|media:./.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:3Cf8WBw6I2Y
 title:unknown|author:Sonic PC|position:0
 
 ! C64 demo
@@ -15,9 +15,9 @@ title:Technophobia|author:The Sharks|position:3|pouet:18915
 
 ! Amiga demo
 
-title:Sound Vision|author:Reflect|position:1|media:./.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:13927|youtube:http://www.youtube.com/watch?v=OKF2cj8rIKg
-title:Delirium|author:Complex|position:2|media:./.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:12362|youtube:http://www.youtube.com/watch?v=BgrYcWPJrWg
-title:Piece of Mind|author:Nikki Corruptions|position:3|media:./.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457|youtube:http://www.youtube.com/watch?v=dD4jl8QbpVI
+title:Sound Vision|author:Reflect|position:1|media:./.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:13927|youtube:OKF2cj8rIKg
+title:Delirium|author:Complex|position:2|media:./.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:12362|youtube:BgrYcWPJrWg
+title:Piece of Mind|author:Nikki Corruptions|position:3|media:./.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457|youtube:dD4jl8QbpVI
 title:Mandelbrot|author:Beyond Force|position:0|sceneorg:/parties/1992/assembly92/amiga/demo/bf-assembly92intro
 title:Ass Demo|author:Cyberiad|position:0
 title:unknown|author:Parallax|position:0
@@ -30,12 +30,12 @@ title:Trackmo|author:Xentrix|position:0
 
 title:Iridium|author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
 title:Towards Immortality|author:Groo/Black Robes|position:2|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
-title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip|youtube:http://www.youtube.com/watch?v=UdUwuei9iQw
+title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip|youtube:UdUwuei9iQw
 title:Walking Lonely|author:Megaman/Equinox|position:0|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
-title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip|youtube:http://www.youtube.com/watch?v=I_ehvL8lCqI
+title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip|youtube:I_ehvL8lCqI
 title:Insomnia|author:Omar/Sonic|position:0
 title:Back To Music 2|author:Strobo/Stellar|position:0|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
-title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|youtube:http://www.youtube.com/watch?v=PO3bS4B2hKQ
+title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|youtube:PO3bS4B2hKQ
 
 ! Graphics
 
