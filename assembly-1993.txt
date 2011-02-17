@@ -87,7 +87,7 @@ title:Korvmack|author:Leinad / Avalanche|position:10
 ! Amiga demo
 
 title:Extension|author:Pygmy|position:1|pouet:3038|dtv:3804
-title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:172
+title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:172|youtube:http://www.youtube.com/watch?v=V7G5Jrcob6M
 title:Romantic Demo|author:Melon|position:3|pouet:4953
 title:Amnesty|author:Vectra|position:4|pouet:15407
 title:Hysteria|author:Analogy|position:5|pouet:12000
