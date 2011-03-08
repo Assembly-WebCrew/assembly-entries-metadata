@@ -237,6 +237,14 @@ title:Ray Attack|author:Bugg / PuavoHard|position:10|webfile:extreme_graphics/ra
 title:spAre|author:kraviz/abhorus|position:11|webfile:extreme_graphics/spare_by_kraviz_abhorus.png|sceneorg:/parties/2008/assembly08/extreme/grfx/spare_by_kravizabhorus.zip
 title:truelies|author:unseenfate/pen15|position:12|webfile:extreme_graphics/truelies_by_unseenfate_pen15.png|sceneorg:/parties/2008/assembly08/extreme/grfx/truelies_by_unseenfatepen15.zip
 title:Left above the clouds|author:DiamonDie/foobug^Numedia Cyclops|position:13|webfile:extreme_graphics/left_above_the_clouds_by_diamondie_foobug_numeotU/0.jpg|position:4|dtv:13455
+title:test|author:tArzAn|position:0|webfile:extreme_graphics/test_by_tarzan.png|sceneorg:/parties/2008/assembly08/extreme/grfx/test_by_tarzan.zip
+
+! Demo
+
+pouet:51140|author:Pyrotech|media:./2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/within_epsilon_by_pyrotech.zip|title:Within Epsilon|youtube:4YvYnHvhI_E|thumbnail:http://i.ytimg.com/vi/4YvYnHvhI_E/0.jpg|position:1|dtv:13422
+pouet:51128|author:PlayPsyCo|media:./2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/contre_jour_by_playpsyco.zip|title:Contre Jour|youtube:8Xxklx6Kifg|thumbnail:http://i.ytimg.com/vi/8Xxklx6Kifg/0.jpg|position:2|dtv:13421
+pouet:51130|author:Division|media:./2008/Compos/781_Demo_Deform_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/deform_by_division.zip|title:Deform|youtube:bIaQ__UgKXs|thumbnail:http://i.ytimg.com/vi/bIaQ__UgKXs/0.jpg|position:3|dtv:13436
+pouet:51136|author:JUMALAUTA|media:./2008/Compos/780_Demo_Detox_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/detox_by_jumalauta.zip|title:DE:TOX|youtube:vXZxGaNqotU|thumbnail:http://i.ytimg.com/vi/vXZxGaNqotU/0.jpg|position:4|dtv:13455
 pouet:51134|author:Mojito|media:./2008/Compos/786_Demo_Total_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/total_by_mojito.zip|title:Total|youtube:CxXwfQsmHyo|thumbnail:http://i.ytimg.com/vi/CxXwfQsmHyo/0.jpg|position:5|dtv:13435
 pouet:51132|author:Adapt|media:./2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/the_invisible_hold_by_adapt.zip|title:The Invisible Hold|youtube:HhITfKVIvak|thumbnail:http://i.ytimg.com/vi/HhITfKVIvak/0.jpg|position:6|dtv:13434
 title:Effects|author:Codex/Paranoids|position:0|sceneorg:/parties/2008/assembly08/demo/effects_by_codexparanoids.zip
