@@ -1,52 +1,82 @@
 # 2010
 
 ! Executable graphics
-title:Novus vita|image:novus_vita_by_ananasmurska.png|author:Ananasmurska|position:1|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/novus_vita_by_ananasmurska.zip
-title:Come play with us|image:come_play_with_us_by_havocplague.png|author:havocplague|position:2|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/come_play_with_us_by_havocplague.zip
-title:Hymy_5v_Paint.bmp|image:hymy_5v_paintbmp_by_hymy.png|author:Hymy|position:3|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/hymy_5v_paintbmp_by_hymy.zip
+
+title:Novus vita|webfile:executable_graphics/novus_vita_by_ananasmurska.png|author:Ananasmurska|position:1|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/novus_vita_by_ananasmurska.zip
+title:Come play with us|webfile:executable_graphics/come_play_with_us_by_havocplague.png|author:havocplague|position:2|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/come_play_with_us_by_havocplague.zip
+title:Hymy_5v_Paint.bmp|webfile:executable_graphics/hymy_5v_paintbmp_by_hymy.png|author:Hymy|position:3|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/hymy_5v_paintbmp_by_hymy.zip
 
 ! Fast graphics
-author:Random|image:Like_holding_a_phone_what_could_go_wrong.tif.png|title:Like holding a phone - what could go wrong?|position:1|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/like_holding_a_phone__what_could_go_wrong_by_random.zip
-author:Dekus|image:FASTGFX1_DEKUS.jpg|title:Fire one two three!|position:2|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/fire_one_two_three_by_dekus.zip
-author:john peeba|image:herp_derp.png|title:herp derp|position:3|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/herp_derp_by_john_peeba.zip
-author:Timi Koponen|image:holding_an_apple_by_timi_koponen.png|title:Holding an Apple.|position:4|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/holding_an_apple_by_timi_koponen.png
-author:Anni|image:palloilija_by_anni.jpg|title:Palloilija|position:5|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/palloilija_by_anni.jpg
-author:juriga|image:young_hiawatha_by_juriga.png|title:Young Hiawatha|position:6|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/young_hiawatha_by_juriga.zip
-author:Onis|image:peaceful_fishing_by_onis.png|title:Peaceful fishing|position:7|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/peaceful_fishing_by_onis.png
-author:Sibane|image:there_are_no_issues_hello_by_sibane.png|title:There are no issues... Hello?|position:8|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/there_are_no_issues_hello_by_sibane.zip
-author:Sipe|image:messed_up.png|title:Messed up|position:9|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/messed_up_by_sipe.zip
-author:Irah|image:holdem.png|title:Hold'em wrong|position:10|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/holdem_wrong_by_irah.zip
-author:Zagupi / HBC|image:hes_holding_it_wrong_by_zagupi__hbc.png|title:He's holding it wrong|position:11|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/hes_holding_it_wrong_by_zagupi__hbc.png
-author:Oxbacka|image:guitar_devil_by_oxbacka.png|title:Guitar devil|position:12|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/guitar_devil_by_oxbacka.png
-author:Decoder & Elviira-LeeLoo|image:youre_holding_it_wrong_by_decoder__elviiraleeloo.png|title:You're holding it wrong|position:13|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/youre_holding_it_wrong_by_decoder__elviiraleeloo.png
-author:MacGywer|image:get_sharper.png|title:Get Sharper|position:14|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/get_sharper_by_macgywer.zip
-author:McLad|image:user_error_by_mclad.png|title:User Error|position:15|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/user_error_by_mclad.png
-author:ara|image:wrong_by_ara.png|title:wrong|position:16|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/wrong_by_ara.png
+
+author:Random|webfile:fast_graphics/Like_holding_a_phone_what_could_go_wrong.tif.png|title:Like holding a phone - what could go wrong?|position:1|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/like_holding_a_phone__what_could_go_wrong_by_random.zip
+author:Dekus|webfile:fast_graphics/FASTGFX1_DEKUS.jpg|title:Fire one two three!|position:2|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/fire_one_two_three_by_dekus.zip
+author:john peeba|webfile:fast_graphics/herp_derp.png|title:herp derp|position:3|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/herp_derp_by_john_peeba.zip
+author:Timi Koponen|webfile:fast_graphics/holding_an_apple_by_timi_koponen.png|title:Holding an Apple.|position:4|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/holding_an_apple_by_timi_koponen.png
+author:Anni|webfile:fast_graphics/palloilija_by_anni.jpg|title:Palloilija|position:5|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/palloilija_by_anni.jpg
+author:juriga|webfile:fast_graphics/young_hiawatha_by_juriga.png|title:Young Hiawatha|position:6|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/young_hiawatha_by_juriga.zip
+author:Onis|webfile:fast_graphics/peaceful_fishing_by_onis.png|title:Peaceful fishing|position:7|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/peaceful_fishing_by_onis.png
+author:Sibane|webfile:fast_graphics/there_are_no_issues_hello_by_sibane.png|title:There are no issues... Hello?|position:8|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/there_are_no_issues_hello_by_sibane.zip
+author:Sipe|webfile:fast_graphics/messed_up.png|title:Messed up|position:9|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/messed_up_by_sipe.zip
+author:Irah|webfile:fast_graphics/holdem.png|title:Hold'em wrong|position:10|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/holdem_wrong_by_irah.zip
+author:Zagupi / HBC|webfile:fast_graphics/hes_holding_it_wrong_by_zagupi__hbc.png|title:He's holding it wrong|position:11|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/hes_holding_it_wrong_by_zagupi__hbc.png
+author:Oxbacka|webfile:fast_graphics/guitar_devil_by_oxbacka.png|title:Guitar devil|position:12|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/guitar_devil_by_oxbacka.png
+author:Decoder & Elviira-LeeLoo|webfile:fast_graphics/youre_holding_it_wrong_by_decoder__elviiraleeloo.png|title:You're holding it wrong|position:13|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/youre_holding_it_wrong_by_decoder__elviiraleeloo.png
+author:MacGywer|webfile:fast_graphics/get_sharper.png|title:Get Sharper|position:14|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/get_sharper_by_macgywer.zip
+author:McLad|webfile:fast_graphics/user_error_by_mclad.png|title:User Error|position:15|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/user_error_by_mclad.png
+author:ara|webfile:fast_graphics/wrong_by_ara.png|title:wrong|position:16|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/wrong_by_ara.png
+
+title:Kato mutsi - ilman käsiä!|author:Doomchild|position:0
+title:Mother|author:RooPelle|position:0
+title:Saksikäsi Eetu takes a leak (Free Willy sequel)|author:Saeru|position:0
+title:Don't try this at home|author:Mig26|position:0
+title:Beer time|author:Timo Perämaa|position:0
+title:Holding it wrong|author:Janne Jalava|position:0
+title:This is how its done|author:Tug|position:0
+title:Hold by rubber parts|author:kiirala|position:0
+title:What's My Purpose?|author:maxon / HBC|position:0
+title:Trio Fail|author:Surround|position:0
+title:Sattuu|author:Sulq|position:0
+title:I really held it wrong|author:Dark|position:0
+title:Kivipää|author:Nossat|position:0
+title:Wups|author:Juha Linna|position:0
+title:Smile|author:~mursu~|position:0
+title:suicide fail|author:luuk / 6th Fire|position:0
+title:pärinä|author:Tirehtööri|position:0
 
 ! Graphics
-position:1|author:korpi / HBC|title:It all stated at the forgotten toyshop...|image:toyshop_hires.jpg|type:asset
-position:2|author:john peeba|title:Komrade Kong|image:komrade_kong.png|type:asset
-position:3|author:bracket / Accession|title:Yellona|image:brc-yellona.png|type:asset
-position:4|author:DeCoder|title:Aurinkoista tietä eteenpäin|image:aurinkoista_tieta_eteenpain.png:t|type:asset
-position:5|author:E-V-M|title:Paper Bird|image:paperbird.jpg|type:asset
-position:6|author:Migugi / HBC|title:Quod Erat Demonstrandum|image:quod_erat_demonstrandum.png|type:asset
-position:7|author:Codsarmo|title:The Caravan|image:thecaravan_final.jpg|type:asset
-position:8|author:Partikle|title:Dragon slayer|image:dragon.jpg|type:asset
-position:9|author:Kinnerean|title:John found out that his dog was the leader of the Animals Against Men-group|image:animals_against_men.png|type:asset
-position:10|author:flumba|title:Blitzkrieg (dramatization)|image:blitz_sig.png|type:asset
-position:11|author:Random|title:Imagination takes over|image:imagination_takes_over.tif.png|type:asset
-position:12|author:Irah|title:Please Buy Another Joystick|image:2ndJoystickPlz.png|type:asset
-position:13|author:Mupsus|title:PiggyZiggy|image:Piggy.jpg|type:asset
-position:14|author:Maraia|title:O HAI|image:O_HAI.png|type:asset
-position:15|author:HBT|title:Great Adventure|image:adventure.png|type:asset
-position:16|author:Dekus|title:Ready for Assembly|image:ASM2Final2_SIG.jpg|type:asset
-position:17|author:PeXi|title:A Night To Remember|image:antr.png|type:asset
-position:18|author:Mig26|title:Mr. Dali & Ms. Paint|image:dali.jpg|type:asset
-position:19|author:Vablo|title:Infernal Legion|image:infernal_legion.jpg|type:asset
-position:20|author:Silvy|title:Queen|image:Queen.jpg|type:asset
-position:21|author:maxon / HBC|title:Grow Up|image:Grow_Up.png|type:asset
+
+position:1|author:korpi / HBC|title:It all stated at the forgotten toyshop...|webfile:graphics/toyshop_hires.jpg|type:asset
+position:2|author:john peeba|title:Komrade Kong|webfile:graphics/komrade_kong.png|type:asset
+position:3|author:bracket / Accession|title:Yellona|webfile:graphics/brc-yellona.png|type:asset
+position:4|author:DeCoder|title:Aurinkoista tietä eteenpäin|webfile:graphics/aurinkoista_tieta_eteenpain.png:t|type:asset
+position:5|author:E-V-M|title:Paper Bird|webfile:graphics/paperbird.jpg|type:asset
+position:6|author:Migugi / HBC|title:Quod Erat Demonstrandum|webfile:graphics/quod_erat_demonstrandum.png|type:asset
+position:7|author:Codsarmo|title:The Caravan|webfile:graphics/thecaravan_final.jpg|type:asset
+position:8|author:Partikle|title:Dragon slayer|webfile:graphics/dragon.jpg|type:asset
+position:9|author:Kinnerean|title:John found out that his dog was the leader of the Animals Against Men-group|webfile:graphics/animals_against_men.png|type:asset
+position:10|author:flumba|title:Blitzkrieg (dramatization)|webfile:graphics/blitz_sig.png|type:asset
+position:11|author:Random|title:Imagination takes over|webfile:graphics/imagination_takes_over.tif.png|type:asset
+position:12|author:Irah|title:Please Buy Another Joystick|webfile:graphics/2ndJoystickPlz.png|type:asset
+position:13|author:Mupsus|title:PiggyZiggy|webfile:graphics/Piggy.jpg|type:asset
+position:14|author:Maraia|title:O HAI|webfile:graphics/O_HAI.png|type:asset
+position:15|author:HBT|title:Great Adventure|webfile:graphics/adventure.png|type:asset
+position:16|author:Dekus|title:Ready for Assembly|webfile:graphics/ASM2Final2_SIG.jpg|type:asset
+position:17|author:PeXi|title:A Night To Remember|webfile:graphics/antr.png|type:asset
+position:18|author:Mig26|title:Mr. Dali & Ms. Paint|webfile:graphics/dali.jpg|type:asset
+position:19|author:Vablo|title:Infernal Legion|webfile:graphics/infernal_legion.jpg|type:asset
+position:20|author:Silvy|title:Queen|webfile:graphics/Queen.jpg|type:asset
+position:21|author:maxon / HBC|title:Grow Up|webfile:graphics/Grow_Up.png|type:asset
+
+title:I run my legs off|author:Sibane|position:0
+title:Kraft|author:Nosfe|position:0
+title:Thera|author:Sazu |position:0
+title:Old Coders Cave|author:MacGywer|position:0
+title:Voodoo People|author:Timo Perämaa|position:0
+title:Roudaus|author:~mursu~|position:0
+title:Kisser|author:Tommip|position:0
 
 ! Demo
+
 title:Happiness is around the bend|sceneorg:/parties/2010/assembly10/demo/happiness_is_around_the_bend_by_andromeda_software_development.zip|author:Andromeda Software Development|youtube:z8wfYd9Y-_4|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1193_demo_happiness_is_around_the_bend_by_asd_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/z8wfYd9Y-_4/0.jpg
 title:Ceasefire (all fall down..)|sceneorg:/parties/2010/assembly10/demo/ceasefire_all_fall_down_by_cncd_vs_fairlight.zip|author:CNCD vs Fairlight|youtube:vQ2iQQvofCE|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1185_demo_ceasefire__all_fall_down_by_cncd_vs_fairlight_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/vQ2iQQvofCE/0.jpg
 title:Abysmal Invaders|sceneorg:/parties/2010/assembly10/demo/abysmal_invaders_by_pyrotech.zip|author:Pyrotech|youtube:BKbrt-QpEU8|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1184_demo_abysmal_invaders_by_pyrotech_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/BKbrt-QpEU8/0.jpg
@@ -60,6 +90,7 @@ title:restart|sceneorg:/parties/2010/assembly10/demo/restart_by_xplsv.zip|author
 title:D|sceneorg:/parties/2010/assembly10/demo/d_by_mrp.zip|author:mrp|youtube:e3i6ETJ_Unw|position:11|sceneorgvideo:/parties/2010/assembly10/vod/1186_demo_d_by_mrp_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/e3i6ETJ_Unw/0.jpg
 
 ! 4k intro
+
 title:Neanderstaller|sceneorg:/parties/2010/assembly10/in4k/neanderstaller_by_pittsburgh_stallers.zip|author:Pittsburgh Stallers|youtube:5Ns8qg9GlLw|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1156_4k_neanderstaller_by_pittsburgh_stallers_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/5Ns8qg9GlLw/0.jpg
 title:Atleeti|sceneorg:/parties/2010/assembly10/in4k/atleeti_by_archee.zip|author:Archee|youtube:rl2KHwhIMTk|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1167_4k_atleetti_by_archee_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/rl2KHwhIMTk/0.jpg
 title:Bubblin Under|sceneorg:/parties/2010/assembly10/in4k/bubblin_under_by_adapt.zip|author:adapt|youtube:5B-yqlLGN-o|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1168_4k_bubblin_under_by_adapt_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/5B-yqlLGN-o/0.jpg
@@ -77,7 +108,10 @@ title:Rabbit Passes By|sceneorg:/parties/2010/assembly10/in4k/rabbit_passes_by_b
 title:Universaal Universum|sceneorg:/parties/2010/assembly10/in4k/universaal_universum_by_laserboy__hot_multimedia.gz|author:Laserboy + Hot Multimedia|youtube:Zx-Am9Dso_g|position:15|sceneorgvideo:/parties/2010/assembly10/vod/1164_4k_universaal_universum_by_laserboy_hot_multimedia_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/Zx-Am9Dso_g/0.jpg
 title:kaks koiraa savosta redux|sceneorg:/parties/2010/assembly10/in4k/kaks_koiraa_savosta_redux_by_brainlez_coders.zip|author:brainlez Coders!|youtube:BR44WmCqTps|position:16|sceneorgvideo:/parties/2010/assembly10/vod/1161_4k_kaks_koiraa-savosta_redux_by_brainlez_coders_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/BR44WmCqTps/0.jpg
 
+title:Friendly Fireworks|author:Dzarg|position:0
+
 ! 64k intro
+
 title:x marks the spot|sceneorg:/parties/2010/assembly10/in64/x_marks_the_spot_by_portal_process.zip|author:portal process|youtube:fpQnV_Bp7Jo|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1181_64k_x_marks_the_spot_by_portal_process_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/fpQnV_Bp7Jo/0.jpg
 title:Behind the Curtain|sceneorg:/parties/2010/assembly10/in64/behind_the_curtain_by_united_force_vs_digital_dynamite.zip|author:United Force vs. Digital Dynamite|youtube:6w3Y5hdkmO4|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1171_64k_behind_the_curtain_by_united_force_vs._digital_dynamite_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/6w3Y5hdkmO4/0.jpg
 title:Ars Nova|sceneorg:/parties/2010/assembly10/in64/ars_nova_by_phantom_lordaccept_corp.zip|author:Phantom Lord/Accept Corp.|youtube:odAIAfPEgmM|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1177_64k_ars_nova_by_phantom_lord_accept_corp_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/odAIAfPEgmM/0.jpg
@@ -85,13 +119,17 @@ title:Pier|sceneorg:/parties/2010/assembly10/in64/pier_by_hedelmae.zip|author:He
 title:The Hungarian Gambit|sceneorg:/parties/2010/assembly10/in64/the_hungarian_gambit_by_ate_bit.zip|author:Ate Bit|youtube:iQjbQpWw2Cs|position:5|sceneorgvideo:/parties/2010/assembly10/vod/1178_64k_the_hungarian_gambit_by_ate_bit_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/iQjbQpWw2Cs/0.jpg
 title:transmission 1|sceneorg:/parties/2010/assembly10/in64/transmission_1_by_sn.zip|author:s/n|youtube:zZO-HBXH5ec|position:6|sceneorgvideo:/parties/2010/assembly10/vod/1173_64k_transmission_1_by_sn_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/zZO-HBXH5ec/0.jpg
 
+title:kerava|author:mrp|position:0
+
 ! Oldskool demo
+
 title:Grind|sceneorg:/parties/2010/assembly10/oldskool/demo/grind_by_dekadence__accession.lha|author:Dekadence & Accession|youtube:9E63E1gY7fk|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1117_oldskool_demo_-_grind_by_dekandence_accession_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/9E63E1gY7fk/0.jpg
 title:Vanility|sceneorg:/parties/2010/assembly10/oldskool/demo/vanility_by_byterapers.zip|author:Byterapers|youtube:bKPL_jC8Tk8|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1114_oldskool_demo_-_vanility_by_byterapers_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/bKPL_jC8Tk8/0.jpg
 title:crushed|sceneorg:/parties/2010/assembly10/oldskool/demo/crushed_by_inversion.zip|author:inversion|youtube:RxbI7Wo59TU|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1116_oldskool_demo_-_crushed_by_inversion_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/RxbI7Wo59TU/0.jpg
 title:Trackmo 2|sceneorg:/parties/2010/assembly10/oldskool/demo/trackmo_2_by_fst.zip|author:FST|youtube:vJq5qf6nxP0|position:4|sceneorgvideo:/parties/2010/assembly10/vod/1115_oldskool_demo_-_trackmo_2_by_fst_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/vJq5qf6nxP0/0.jpg
 
 ! Real wild demo
+
 title:Spiral out|sceneorg:/parties/2010/assembly10/real_wild/spiral_out_by_evoflash.zip|author:evoflash|youtube:2a7gni15HSk|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1133_realwild_spiral_out_by_evoflash_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/2a7gni15HSk/0.jpg
 title:Derelict|sceneorg:/parties/2010/assembly10/real_wild/derelict_by_hedelmae.zip|author:Hedelmae|youtube:NltalxRSKn8|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1132_realwild_derelict_by_hedelmae_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/NltalxRSKn8/0.jpg
 title:Checked = "Checked"|author:jypa|youtube:qpvLOT6k9Kg|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1127_realwild_checked_is_checked_by_jypa_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/qpvLOT6k9Kg/0.jpg
@@ -101,6 +139,7 @@ title:casual vortex|sceneorg:/parties/2010/assembly10/real_wild/casual_vortex_by
 title:Oil Spill|sceneorg:/parties/2010/assembly10/real_wild/oil_spill_by_wide_load.zip|author:Wide Load|youtube:jktjfETZMKs|position:7|sceneorgvideo:/parties/2010/assembly10/vod/1128_realwild_oil_spill_by_wide_load_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/jktjfETZMKs/0.jpg
 
 ! Short film
+
 author:Tekotuotanto|sceneorg:/parties/2010/assembly10/short/retrostorm_720p-h264-aac.mp4|title:RetroStorm|youtube:q73NsYxadaw|position:1|type:external|thumbnail:http://i.ytimg.com/vi/q73NsYxadaw/0.jpg
 author:Pistoke|sceneorg:/parties/2010/assembly10/short/what_is_love_by_pistoke.mp4|title:What is Love|youtube:pRGeToVbArY|position:2|type:external|thumbnail:http://i.ytimg.com/vi/pRGeToVbArY/0.jpg
 author:HBC|sceneorg:/parties/2010/assembly10/short/hbc-00009_space_funk_rock.mp4|title:Space Funk Rock|youtube:bxKOCmW-EiI|position:3|type:external|thumbnail:http://i.ytimg.com/vi/bxKOCmW-EiI/0.jpg
@@ -110,8 +149,13 @@ author:Jami|sceneorg:/parties/2010/assembly10/short/vuosikerta.mp4|title:Vuosike
 author:npli|sceneorg:/parties/2010/assembly10/short/supermouse2000_by_npli.mp4|title:Super Mouse 2000|youtube:mgOwcjbNVEM|position:7|type:external|thumbnail:http://i.ytimg.com/vi/mgOwcjbNVEM/0.jpg
 author:Alphapolygon|sceneorg:/parties/2010/assembly10/short/jack_and_the_photo.avi|title:Jack and the photo|youtube:9wZWcMwXOfo|position:8|type:external|thumbnail:http://i.ytimg.com/vi/9wZWcMwXOfo/0.jpg
 author:Humane|sceneorg:/parties/2010/assembly10/short/hmn-winefromdatap.avi|title:Wine from the tap|youtube:53jYqW-E4o0|position:9|type:external|thumbnail:http://i.ytimg.com/vi/53jYqW-E4o0/0.jpg
+title:Clip Jammin'|author:Kouvola Krew|sceneorgvideo:/parties/2010/assembly10/short/clip_jammin__by_kouvola_krew.avi|position:0
+title:The s-word|author:Moods plateau|sceneorgvideo:/parties/2010/assembly10/short/mds-s-word.avi|position:0
+title:hope had brought us this far|author:Flo & Lackluster|sceneorgvideo:/parties/2010/assembly10/short/hhbutf_by_flo.mp4|position:0
+title:Johanna Rupiainen esittelee kotinsa|author:Stickletti|sceneorgvideo:/parties/2010/assembly10/short/rupiainen.mpg|position:0
 
 ! GameDev
+
 title:Tricky Truck|sceneorg:/parties/2010/assembly10/gamedev/tricky_truck_by_archee_.zip|author:Archee|youtube:4mHZMPSeKQA|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1101_gamedev_tricky_truck_by_archee_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/4mHZMPSeKQA/0.jpg
 title:7-bit Pirates|sceneorg:/parties/2010/assembly10/gamedev/7bit_pirates_by_the_7_bits.zip|author:The 7 bits|youtube:GTu5u71YMqU|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1085_gamedev_7-bit_pirate_by_the_7_bits_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/GTu5u71YMqU/0.jpg
 title:Part-time Angle Grinder Hero|sceneorg:/parties/2010/assembly10/gamedev/parttime_angle_grinder_hero_by_tekotuotanto.zip|author:Tekotuotanto|youtube:xqtKgfmMF5o|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1097_gamedev_part-time_angle_grinder_hero_by_tekotuotanto_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/xqtKgfmMF5o/0.jpg
@@ -133,6 +177,7 @@ title:Dimensional Shrooms|sceneorg:/parties/2010/assembly10/gamedev/dimensional_
 title:Fancy Fang's Adventures|sceneorg:/parties/2010/assembly10/gamedev/fancy_fangs_adventures_by_bendy_patrol_games.zip|author:Bendy Patrol Games|youtube:nQAKezqD9f0|position:19|sceneorgvideo:/parties/2010/assembly10/vod/1089_gamedev_fancy_fangs_adventures_by_bendy_patrol_games_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/nQAKezqD9f0/0.jpg
 
 ! Executable music
+
 title:Pixelated Knight Tales|sceneorg:/parties/2010/assembly10/executable_music/pixelated_knight_tales_by_king_thrill__tekotuotanto.zip|author:King Thrill / Tekotuotanto|youtube:CL0VZcxWOVs|position:1|type:external|thumbnail:http://i.ytimg.com/vi/CL0VZcxWOVs/0.jpg
 title:The toilet seat of gods II|sceneorg:/parties/2010/assembly10/executable_music/the_toilet_seat_of_gods_ii_by_jdruid.zip|author:JDruid|youtube:fbCUdkxvY6Y|position:2|type:external|thumbnail:http://i.ytimg.com/vi/fbCUdkxvY6Y/0.jpg
 title:Namevote this sucka|sceneorg:/parties/2010/assembly10/executable_music/namevote_this_sucka_by_player_one.zip|author:Player One|youtube:eAIu2LiEZmg|position:3|type:external|thumbnail:http://i.ytimg.com/vi/eAIu2LiEZmg/0.jpg
@@ -144,6 +189,7 @@ title:My Happy Place|sceneorg:/parties/2010/assembly10/executable_music/my_happy
 title:mulperi|sceneorg:/parties/2010/assembly10/executable_music/mulperi_by_mr_bunny__brainlez_coders.zip|author:Mr. Bunny / brainlez Coders!|youtube:Y0dyD13V2Q0|position:9|type:external|thumbnail:http://i.ytimg.com/vi/Y0dyD13V2Q0/0.jpg
 
 ! Fast music
+
 author:King Thrill / Tekotuotanto|sceneorg:/parties/2010/assembly10/fast/music/c_a_s_t_l_e_m_a_n_i_a_by_king_thrill__tekotuotanto.mp3|title:C A S T L E M A N I A|youtube:mK1gqbM70KY|position:1|type:external|thumbnail:http://i.ytimg.com/vi/mK1gqbM70KY/0.jpg
 author:Castor|sceneorg:/parties/2010/assembly10/fast/music/a_little_time_for_iskelma_by_castor.mp3|title:A little time for iskelmä|youtube:SnERHN1Csd0|position:2|type:external|thumbnail:http://i.ytimg.com/vi/SnERHN1Csd0/0.jpg
 author:Little Bitchard|sceneorg:/parties/2010/assembly10/fast/music/well_this_was_fast_by_little_bitchard.mp3|title:Well This Was Fast|youtube:X2cAUB-fcnY|position:3|type:external|thumbnail:http://i.ytimg.com/vi/X2cAUB-fcnY/0.jpg
@@ -161,7 +207,8 @@ author:Rajunen|sceneorg:/parties/2010/assembly10/fast/music/brainfartism_by_raju
 author:Aspor|sceneorg:/parties/2010/assembly10/fast/music/false_dreams_by_aspor.ogg|title:False Dreams|youtube:ZXenD1PboZM|position:15|type:external|thumbnail:http://i.ytimg.com/vi/ZXenD1PboZM/0.jpg
 
 ! Music
-author:GRiMM /|sceneorg:/parties/2010/assembly10/music/the_apocalypse_will_arrive_on_a_nes_cartridge_by_grimm__meridian.mp3|title:The Apocalypse Will Arrive On A NES Cartridge|youtube:1PC47CFo7yw|position:1|type:external|thumbnail:http://i.ytimg.com/vi/1PC47CFo7yw/0.jpg
+
+author:GRiMM / Meridian|sceneorg:/parties/2010/assembly10/music/the_apocalypse_will_arrive_on_a_nes_cartridge_by_grimm__meridian.mp3|title:The Apocalypse Will Arrive On A NES Cartridge|youtube:1PC47CFo7yw|position:1|type:external|thumbnail:http://i.ytimg.com/vi/1PC47CFo7yw/0.jpg
 author:Aikapallo|title:When There's no Beer|youtube:Ytm68Od5Hsc|position:2|type:external|thumbnail:http://i.ytimg.com/vi/Ytm68Od5Hsc/0.jpg
 author:Cap'n Thrill / Tekotuotanto|sceneorg:/parties/2010/assembly10/music/as_we_arrr_the_pirates_by_capn_thrill__tekotuotanto.mp3|title:As We ARRR the Pirates|youtube:pdqmQl2rkmo|position:3|type:external|thumbnail:http://i.ytimg.com/vi/pdqmQl2rkmo/0.jpg
 author:Noby|sceneorg:/parties/2010/assembly10/music/monophonique_by_noby.zip|title:Monophonique|youtube:RJWhysWpAL4|position:4|type:external|thumbnail:http://i.ytimg.com/vi/RJWhysWpAL4/0.jpg
@@ -175,3 +222,55 @@ author:P-Wex & s2sounds|sceneorg:/parties/2010/assembly10/music/dude_where_is_my
 author:Yolk / CNCD|sceneorg:/parties/2010/assembly10/music/oh_a_whoa_by_yolk__cncd.mp3|title:Oh! A whoa!|youtube:ybGIQGVgdxM|position:12|type:external|thumbnail:http://i.ytimg.com/vi/ybGIQGVgdxM/0.jpg
 author:beek|sceneorg:/parties/2010/assembly10/music/dont_let_em_by_beek.it|title:don't let em|youtube:ETUHsLu6_u0|position:13|type:external|thumbnail:http://i.ytimg.com/vi/ETUHsLu6_u0/0.jpg
 
+title:Old Man Belmont|author:Signal|position:0
+title:New Beginning|author:NDi|position:0
+title:Ugly|author:Castor of Inversion|position:0
+title:Revenge|author:Oxide & Maza / Sonik Clique|position:0
+title:Purple dreams|author:Paokala|position:0
+title:Rise (Assembly 2010 quartersize teaser edit)|author:DJ Joge|position:0
+title:The Past Is Not Dead|author:KK|position:0
+title:On the Edge|author:damage / wAMMA|position:0
+title:Animated|author:Noby|position:0
+title:Alpha Trance|author:The Hooligan|position:0
+title:Requiem|author:artz|position:0
+title:Not so different|author:Roz|position:0
+title:Tibetian Power Seeds|author:cce|position:0
+title:Far Former Times|author:Rebellion|position:0
+title:Square will rise|author:Kaspe|position:0
+title:651|author:Santtu Haka|position:0
+title:SUPER MEGA IBIZA EXPERIENCE|author:glxblt|position:0
+title:Something|author:Awe|position:0
+title:The Majestic Enemy|author:JPT|position:0
+title:Eagle|author:Rendi|position:0
+title:Cold Played Love After Party|author:Reignarsson|position:0
+title:651|author:Santtu Haka|position:0
+title:Ancient Wisdom|author:ATOPICA|position:0
+title:The Beauty & The Beat That Bites|author:CULT Commander|position:0
+title:How A Fish Loses Its Freedom|author:Cross-Dressing Robots|position:0
+title:Vivid|author:crafn & Aerochord|position:0
+title:Race U There|author:glxblt|position:0
+title:Castle World|author:Tomi Antikainen|position:0
+title:Sysadmin|author:Free Fall|position:0
+title:Drank In My Cup|author:Aegis|position:0
+title:Functure|author:Galaksinvartija|position:0
+title:Chrysanthemum Life Machine|author:Cross-Dressing Robots|position:0
+title:Costa Del Nymphos|author:Raiden / Satori|position:0
+title:Song of the Phoenix Bird|author:TA & Electronic Birds|position:0
+title:EchoRun|author:Wingman|position:0
+title:yhen markan kiksu|author:minomus|position:0
+title:Whirtlpole|author:Asiamies Lorkki|position:0
+title:Sokal Affair|author:Valdor|position:0
+title:Kansallislaulumme|author:Japanin laivaston tasavaltio|position:0
+title:Hituc Pjanottais|author:trigger|position:0
+title:Fly Away|author:Coloneil|position:0
+title:swingalicious|author:luuk / 6th Fire|position:0
+title:White|author:Dj Tabasco|position:0
+title:Moment in the morning|author:Gouafhg|position:0
+title:Algorithm Aria|author:Puti|position:0
+title:Asteloori|author:korhi|position:0
+title:Silence After the Storm|author:The Duck|position:0
+title:Termination|author:Free Fall|position:0
+title:acid like burns|author:karma force|position:0
+title:Grill in the Hill|author:RHZ|position:0
+title:Terrorism against our nation will not stand|author:Vätsgy|position:0
+title:I only dance with my gasmask|author:tzaeru|position:0
