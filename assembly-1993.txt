@@ -97,7 +97,7 @@ title:Transfusion|author:Extacy|position:8|pouet:17121
 
 ! PC demo
 
-title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,demo/2ndreal2.zip,demo/2nd_real.zip,demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404
+title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404
 title:Optic Nerve|author:Silents|position:2|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|pouet:7658
 title:Elements|author:Xography|position:3|sceneorg:/parties/1993/assembly93/demo/elements.zip|pouet:852
 title:Saga|author:Dust|position:4|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|pouet:2585

@@ -112,15 +112,15 @@ title:Kukko|author:unknown|position:13
 ! Amiga demo
 
 title:Sumea|author:Virtual Dreams|position:1|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|pouet:1154|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404
-title:Dim|author:Mellow Chips|position:2|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,amiga/demo/mc_dim2.lha,amiga/demo/mc_dim3.lha,amiga/demo/mc_dim4.lha|pouet:15846
+title:Dim|author:Mellow Chips|position:2|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,/parties/1996/assembly96/amiga/demo/mc_dim2.lha,/parties/1996/assembly96/amiga/demo/mc_dim3.lha,/parties/1996/assembly96/amiga/demo/mc_dim4.lha|pouet:15846
 title:Goa|author:The Black Lotus|position:3|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|pouet:3457|dtv:id_file=3951&id_prod=4606&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3457.jpg&width=512&height=404
 title:Traffic|author:Mystic|position:4|sceneorg:/parties/1996/assembly96/amiga/demo/mst_tfc.lha|pouet:3944
-title:Mindabuse|author:Limited Edition|position:5|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha,amiga/demo/ledma2.lha|pouet:3949
+title:Mindabuse|author:Limited Edition|position:5|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha,/parties/1996/assembly96/amiga/demo/ledma2.lha|pouet:3949
 title:Cyberia|author:Scoopex&Bomb|position:6|sceneorg:/parties/1996/assembly96/amiga/demo/cyberia.lha|pouet:2566
 title:Insane|author:Extend|position:7|sceneorg:/parties/1996/assembly96/amiga/demo/ext_insa.lha|pouet:17439
 title:Showstopper|author:Cirion|position:8|sceneorg:/parties/1996/assembly96/amiga/demo/showstop.lha|pouet:16134
 title:Clichés|author:Artificial People|position:9|sceneorg:/parties/1996/assembly96/amiga/demo/ap_clic.lha|pouet:19041
-title:Bold|author:Banal Projects|position:10|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha,amiga/demo/bold2.lha|pouet:17653
+title:Bold|author:Banal Projects|position:10|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha,/parties/1996/assembly96/amiga/demo/bold2.lha|pouet:17653
 title:Gyrate|author:Wrath|position:11|sceneorg:/parties/1996/assembly96/amiga/demo/gyrate.lha|pouet:5915
 
 ! 4 channel music

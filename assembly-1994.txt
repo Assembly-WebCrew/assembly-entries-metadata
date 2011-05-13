@@ -118,7 +118,7 @@ title:Breath Taker|author:Vitual Dreams|position:2|sceneorg:/parties/1994/assemb
 title:Drool This|author:Parallax|position:3|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|pouet:7971|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404
 title:Ilyad|author:Alcatraz|position:4|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|pouet:10359|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404
 title:Cccp|author:Juliet & Case|position:5|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|pouet:14991
-title:Maxium Overdrive II|author:Rage|position:6|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,amiga/demo/rage2.dms,amiga/demo/rage3.dms|pouet:9106
+title:Maxium Overdrive II|author:Rage|position:6|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,/parties/1994/assembly94/amiga/demo/rage2.dms,/parties/1994/assembly94/amiga/demo/rage3.dms|pouet:9106
 title:Despair|author:Insane|position:7|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|pouet:17249
 title:Sup.l# $7fd1|author:Analogy|position:8|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|pouet:23217|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404
 title:Final Condom|author:Delon|position:9|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|pouet:7617|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404
