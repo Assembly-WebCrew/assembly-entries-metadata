@@ -2,9 +2,9 @@
 
 ! PC demo
 
-title:Unreal|author:Future Crew|position:1|media:./.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:id_file=4160&id_prod=11374&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1274.gif&width=512&height=404|youtube:OJ2shm7OU6g
+title:Unreal|author:Future Crew|position:1|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:id_file=4160&id_prod=11374&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1274.gif&width=512&height=404|youtube:OJ2shm7OU6g
 title:Crystal Dream|author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip
-title:Internal Damage|author:EMF|position:3|media:./.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:3Cf8WBw6I2Y
+title:Internal Damage|author:EMF|position:3|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:3Cf8WBw6I2Y
 title:unknown|author:Sonic PC|position:0
 
 ! C64 demo
@@ -15,9 +15,9 @@ title:Technophobia|author:The Sharks|position:3|pouet:18915
 
 ! Amiga demo
 
-title:Sound Vision|author:Reflect|position:1|media:./.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:id_file=6412&id_prod=13927&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5458_1.png&width=512&height=404|youtube:OKF2cj8rIKg
-title:Delirium|author:Complex|position:2|media:./.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:id_file=4017&id_prod=12362&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5459.png&width=512&height=404|youtube:BgrYcWPJrWg
-title:Piece of Mind|author:Nikki Corruptions|position:3|media:./.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457|youtube:dD4jl8QbpVI
+title:Sound Vision|author:Reflect|position:1|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:id_file=6412&id_prod=13927&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5458_1.png&width=512&height=404|youtube:OKF2cj8rIKg
+title:Delirium|author:Complex|position:2|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:id_file=4017&id_prod=12362&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5459.png&width=512&height=404|youtube:BgrYcWPJrWg
+title:Piece of Mind|author:Nikki Corruptions|position:3|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457|youtube:dD4jl8QbpVI
 title:Mandelbrot|author:Beyond Force|position:0|sceneorg:/parties/1992/assembly92/amiga/demo/bf-assembly92intro
 title:Ass Demo|author:Cyberiad|position:0
 title:unknown|author:Parallax|position:0
