@@ -155,7 +155,7 @@ title:Fairy|author:Avocado/Lumen|position:15
 ! PC demo
 
 title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
-title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86|dtv:12474
+title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86
 title:Mindtrap|author:Trauma|position:3|sceneorg:/parties/1997/assembly97/demo/mindtrap.zip|pouet:474
 title:Insects|author:Coma|position:4|sceneorg:/parties/1997/assembly97/demo/cominsct.zip|pouet:1138
 title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340
