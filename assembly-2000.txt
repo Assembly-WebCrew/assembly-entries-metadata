@@ -38,14 +38,14 @@ title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sc
 
 ! 64k intro
 
-title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:12487
+title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404
 title:Incision|author:Exploder|position:2|sceneorg:/parties/2000/assembly00/in64/incision.zip|pouet:3590
 title:Who needs raytrace anyway?|author:foobug|position:3|sceneorg:/parties/2000/assembly00/in64/who_need.zip|pouet:503
 title:mixed bag|author:jmagic/komplex|position:4|sceneorg:/parties/2000/assembly00/in64/mixed_ba.zip|pouet:252
 title:FREKTAALI|author:Armada/Trauma, Grin, tAAt|position:5|sceneorg:/parties/2000/assembly00/in64/frektaal.zip|pouet:550
 title:Attraction|author:TMB/OUTBREAK|position:6|sceneorg:/parties/2000/assembly00/in64/attracti.zip|pouet:4332
 title:level twentyfive|author:array|position:7|sceneorg:/parties/2000/assembly00/in64/level_tw.zip|pouet:160
-title:Electricity|author:Appendix|position:8|sceneorg:/parties/2000/assembly00/in64/electric.zip|pouet:3456|dtv:3459
+title:Electricity|author:Appendix|position:8|sceneorg:/parties/2000/assembly00/in64/electric.zip|pouet:3456|dtv:id_file=4063&id_prod=3459&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3456.jpg&width=512&height=404
 title:kirahvi|author:addiction + unique|position:9|sceneorg:/parties/2000/assembly00/in64/kirahvi_.zip|pouet:3653
 title:Heartbeat|author:Static|position:10|sceneorg:/parties/2000/assembly00/in64/heartbea.zip|pouet:460
 title:Rays|author:Whelpz|position:11|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|pouet:3994
@@ -71,20 +71,20 @@ title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assem
 
 ! Demo
 
-title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:9834
-title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:944
-title:lapsus|author:maturefurk|position:3|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|pouet:130|dtv:6069
+title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404
+title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404
+title:lapsus|author:maturefurk|position:3|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|pouet:130|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404
 title:Lotto|author:Doomsday|position:4|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|pouet:481
-title:the nonstop ibiza experience|author:Orange|position:5|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|pouet:129|dtv:10652
-title:en haluaisi olla|author:damage|position:6|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|pouet:588|dtv:3520
+title:the nonstop ibiza experience|author:Orange|position:5|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|pouet:129|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404
+title:en haluaisi olla|author:damage|position:6|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|pouet:588|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404
 title:Stuff I whacked together when I was bored.|author:Sol/Trauma|position:7|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|pouet:473
 title:HAUgyJOBB|author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip
-title:Enlight The Surreal|author:Noice|position:9|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|pouet:124|dtv:3559
+title:Enlight The Surreal|author:Noice|position:9|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|pouet:124|dtv:id_file=4025&id_prod=3559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/124.jpg&width=512&height=404
 title:Reaching|author:Unique|position:10|sceneorg:/parties/2000/assembly00/demo/reaching.zip|pouet:592
-title:live evil|author:Mandula|position:11|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|pouet:297|dtv:6278
+title:live evil|author:Mandula|position:11|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|pouet:297|dtv:id_file=1903&id_prod=6278&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/297.jpg&width=512&height=404
 title:RETURN|author:A-Men PC|position:12|sceneorg:/parties/2000/assembly00/demo/return_b.zip|pouet:6314
 title:Metatag|author:MadWizards|position:13|sceneorg:/parties/2000/assembly00/demo/metatag_.zip|pouet:2299
-title:ahonen does asm|author:the tough guys|position:14|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|pouet:2801|dtv:5618
+title:ahonen does asm|author:the tough guys|position:14|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|pouet:2801|dtv:id_file=3850&id_prod=5618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2801.jpg&width=512&height=404
 title:Explicit Supremacy|author:Apocalypse Design|position:15|sceneorg:/parties/2000/assembly00/demo/explicit.zip|pouet:1541
 
 ! Oldskool music
@@ -137,7 +137,7 @@ title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/r
 
 ! 4k intro
 
-title:Humus|author:Exploder|position:1|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|pouet:3377|dtv:5173
+title:Humus|author:Exploder|position:1|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|pouet:3377|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404
 title:The Blue Man|author:NoID|position:2|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|pouet:7614
 title:Mercury|author:Digimind|position:3|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|pouet:12222
 title:Penseys|author:Moottori|position:4|sceneorg:/parties/2000/assembly00/in4k/penseys_.zip|pouet:14256
@@ -152,7 +152,7 @@ title:oliphaunt|author:kilobite|position:12|sceneorg:/parties/2000/assembly00/in
 
 ! Animation
 
-title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:6159|youtube:342z0EvSM-c
+title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:id_file=3328&id_prod=6159&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2625.jpg&width=512&height=404|youtube:342z0EvSM-c
 title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:vqLplqijSwk
 title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613|youtube:QpeDGlGiXQE
 title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614|youtube:67l2VW8r8XA
@@ -194,7 +194,7 @@ title:ei kiva|author:kokki|position:25|webfile:pixel_graphics/ei_kiva_by_kokki.p
 
 ! Wild demo
 
-title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:6140|youtube:kmPHdqoowAk
+title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:id_file=3345&id_prod=6140&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2626.jpg&width=512&height=404|youtube:kmPHdqoowAk
 title:What Is a Woman|author:Nyhjä Group|position:2
 title:Vihred uhka|author:Insane Bastards|position:3
 title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611|youtube:btj7QqDMSnU
@@ -204,7 +204,7 @@ title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo
 title:Shebaxan - Teaser Trailer|author:Jussi Castellanos|position:8
 title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920|youtube:HwvVDQdvjPs
 title:Everything Falls (trailer!)|author:Tontza / Ice CD ISDN|position:10
-title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:11534|youtube:a2SASU3gGrc
+title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:id_file=4120&id_prod=11534&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/9895.jpg&width=512&height=404|youtube:a2SASU3gGrc
 title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315|youtube:rjQjbMYKrr0
 title:Perfect Day|author:BHC|position:13
 title:Ei Sormia Sinne, Pliis!|author:ENTR0P1C!Production|position:14

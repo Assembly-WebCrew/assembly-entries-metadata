@@ -51,10 +51,10 @@ title:Red Room|author:unknown|position:10|sceneorg:/parties/1996/assembly96/in4k
 
 ! PC demo
 
-title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:6448
-title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:10904
-title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:/parties/1996/assembly96/demo/vividexp.zip|pouet:2167|dtv:13103
-title:Super Television|author:Orange|position:4|sceneorg:/parties/1996/assembly96/demo/stv.zip|pouet:298|dtv:10103
+title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:id_file=2381&id_prod=6448&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/312.jpg&width=512&height=404
+title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:id_file=2386&id_prod=10904&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/376.jpg&width=512&height=404
+title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:/parties/1996/assembly96/demo/vividexp.zip|pouet:2167|dtv:id_file=2915&id_prod=13103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2167_2.gif&width=512&height=404
+title:Super Television|author:Orange|position:4|sceneorg:/parties/1996/assembly96/demo/stv.zip|pouet:298|dtv:id_file=2412&id_prod=10103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/298.gif&width=512&height=404
 title:Sperm|author:Five Coders|position:5|sceneorg:/parties/1996/assembly96/demo/sperm.zip|pouet:13323
 title:Daydream|author:Japotek|position:6|sceneorg:/parties/1996/assembly96/demo/daydream.zip|pouet:5041
 title:Stream|author:MFX|position:7|sceneorg:/parties/1996/assembly96/demo/mfx_strm.zip|pouet:1382
@@ -111,9 +111,9 @@ title:Kukko|author:unknown|position:13
 
 ! Amiga demo
 
-title:Sumea|author:Virtual Dreams|position:1|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|pouet:1154|dtv:10050
+title:Sumea|author:Virtual Dreams|position:1|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|pouet:1154|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404
 title:Dim|author:Mellow Chips|position:2|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,amiga/demo/mc_dim2.lha,amiga/demo/mc_dim3.lha,amiga/demo/mc_dim4.lha|pouet:15846
-title:Goa|author:The Black Lotus|position:3|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|pouet:3457|dtv:4606
+title:Goa|author:The Black Lotus|position:3|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|pouet:3457|dtv:id_file=3951&id_prod=4606&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3457.jpg&width=512&height=404
 title:Traffic|author:Mystic|position:4|sceneorg:/parties/1996/assembly96/amiga/demo/mst_tfc.lha|pouet:3944
 title:Mindabuse|author:Limited Edition|position:5|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha,amiga/demo/ledma2.lha|pouet:3949
 title:Cyberia|author:Scoopex&Bomb|position:6|sceneorg:/parties/1996/assembly96/amiga/demo/cyberia.lha|pouet:2566
@@ -161,7 +161,7 @@ title:unknown|author:Speedo|position:15
 
 ! PC 64K intro
 
-title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:12804
+title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404
 title:Wego|author:Complex|position:2|sceneorg:/parties/1996/assembly96/in64/clx_wego.zip|pouet:78
 title:Nation Zero 2|author:Jamm|position:3|sceneorg:/parties/1996/assembly96/in64/nation2.zip|pouet:1367
 title:Palikka|author:Moottori|position:4|sceneorg:/parties/1996/assembly96/in64/palikka.zip|pouet:4744

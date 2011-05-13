@@ -48,7 +48,7 @@ title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|
 
 ! Oldskool demo
 
-title:Riyadh|author:Bandwagon|position:1|media:.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:8913|youtube:_2nbbvCqehg
+title:Riyadh|author:Bandwagon|position:1|media:.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:id_file=4195&id_prod=8913&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7662.jpg&width=512&height=404|youtube:_2nbbvCqehg
 title:Impossiblator|author:pwp|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7663
 title:Beertime 2|author:Dekadence|position:3|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:3476
 title:Big Time|author:CNCD|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:16221
@@ -82,13 +82,13 @@ title:suddenly|author:abaddon / damage|position:10|sceneorg:/parties/2001/assemb
 
 ! Console demo
 
-title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:2771|youtube:ATWnd9kQAWs
+title:Delicious|author:Yodel|position:1|media:.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:id_file=3874&id_prod=2771&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3346.jpg&width=512&height=404|youtube:ATWnd9kQAWs
 title:e338|author:unique|position:2
 
 ! Combined 4k intro
 
-title:Humus 2|author:Exploder of PUSH Entertainment|position:1|media:.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in4k/humus2.lzx|pouet:3378|dtv:5174|youtube:Ef0KGpWejZI
-title:King of Fuck|author:Spaceballs VS Ephidrena|position:2|sceneorg:/parties/2001/assembly01/in4k/kof.lha|pouet:3372|dtv:5892
+title:Humus 2|author:Exploder of PUSH Entertainment|position:1|media:.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in4k/humus2.lzx|pouet:3378|dtv:id_file=3829&id_prod=5174&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3378.jpg&width=512&height=404|youtube:Ef0KGpWejZI
+title:King of Fuck|author:Spaceballs VS Ephidrena|position:2|sceneorg:/parties/2001/assembly01/in4k/kof.lha|pouet:3372|dtv:id_file=3875&id_prod=5892&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3372.jpg&width=512&height=404
 title:Motion sickness|author:yobi /wAMMA|position:3|sceneorg:/parties/2001/assembly01/in4k/motion_sickness_by_yobi__wamma.zip|pouet:6404
 title:Paridisio|author:Itchi / Lonely Coders|position:4|sceneorg:/parties/2001/assembly01/in4k/paridisio_by_itchi___lonely_coders.zip|pouet:8844
 title:Callback|author:Analog44/array|position:5|sceneorg:/parties/2001/assembly01/in4k/callback_by_analog44_array.zip|pouet:5739
@@ -118,8 +118,8 @@ title:Raytracer|author:A-Men PC|position:3|sceneorg:/parties/2001/assembly01/plu
 
 ! Animation
 
-title:Show Our Power|author:gromit/mass|position:1|webfile:animation/show_our_power_by_gromit_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/show_our_power_by_gromit_of_mass.mpg|pouet:5205|dtv:9387|youtube:6POZpAdhxxU
-title:ken sent me|author:prick/mass|position:2|webfile:animation/ken_sent_me_by_prick_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/ken_sent_me_by_prick_of_mass.mpg|pouet:5204|dtv:5841|youtube:14E76Iq3aGA
+title:Show Our Power|author:gromit/mass|position:1|webfile:animation/show_our_power_by_gromit_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/show_our_power_by_gromit_of_mass.mpg|pouet:5205|dtv:id_file=3338&id_prod=9387&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5205.jpg&width=512&height=404|youtube:6POZpAdhxxU
+title:ken sent me|author:prick/mass|position:2|webfile:animation/ken_sent_me_by_prick_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/ken_sent_me_by_prick_of_mass.mpg|pouet:5204|dtv:id_file=3320&id_prod=5841&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5204.jpg&width=512&height=404|youtube:14E76Iq3aGA
 title:The Breach|author:Cow - Productions|position:3|webfile:animation/the_breach_by_cow_productions.mpeg|sceneorg:/parties/2001/assembly01/anim/the_breach_by_cow_productions.mpg|pouet:28625|youtube:mQKQVrFDGcM
 title:Redrik|author:Ari Marttinen|position:4|webfile:animation/redrik_by_ari_marttinen.mpeg|sceneorg:/parties/2001/assembly01/anim/redrik_by_ari_marttinen.mpg|pouet:28626|youtube:aQGRL780Km8
 title:Event Strings|author:Visualice & Jaakko|position:5|webfile:animation/event_strings_by_visualice_jaakko.mpeg|sceneorg:/parties/2001/assembly01/anim/event_strings_by_visualice_and_jaakko.mpg|pouet:28627|youtube:CC85EBZKImg
@@ -137,7 +137,7 @@ title:Mindbender|author:MAD|position:13|webfile:animation/mindbender_by_mad.mpeg
 title:LeGorSIKA|author:tAAt|position:1|webfile:wild_demo/legorsika_by_taat.mpeg|sceneorg:/parties/2001/assembly01/wild/legorsika_by_taat.mpg|pouet:3373|youtube:IlZJ8d-2Pgs
 title:World War 2 memoirs|author:Milan Kolarovic (a.k.a Acumen)|position:2|webfile:wild_demo/world_war_2_memoirs_by_milan_kolarovic_a_k_a_acumen.mpeg|sceneorg:/parties/2001/assembly01/wild/world_war_2_memoirs_by_milan_kolarovic.mpg|pouet:3374|youtube:oAmrCLBUSmE
 title:Jack|author:Trash Video|position:3|webfile:wild_demo/jack_by_trash_video.mpeg|sceneorg:/parties/2001/assembly01/wild/jack_by_trash_video.mpg|youtube:lsWQ9A0yn18
-title:lackluster: 13/10/99|author:sunflower|position:4|webfile:wild_demo/lackluster_13_10_99_by_sunflower.mpeg|sceneorg:/parties/2001/assembly01/wild/lackluster_131099_by_sunflower.mpg|pouet:3291|dtv:6049|youtube:QhHQQALJk8o
+title:lackluster: 13/10/99|author:sunflower|position:4|webfile:wild_demo/lackluster_13_10_99_by_sunflower.mpeg|sceneorg:/parties/2001/assembly01/wild/lackluster_131099_by_sunflower.mpg|pouet:3291|dtv:id_file=3042&id_prod=6049&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3291.jpg&width=512&height=404|youtube:QhHQQALJk8o
 title:G-Force 2001|author:Pygmy Projects|position:5|webfile:wild_demo/g_force_2001_by_pygmy_projects.mpeg|sceneorg:/parties/2001/assembly01/wild/gforce_2001_by_pygmy_projects.mpg|pouet:3343|youtube:70cyi9bxKYE
 title:päläri|author:Nyhjä Group|position:6|webfile:wild_demo/p_l_ri_by_nyhj_group.mpeg|sceneorg:/parties/2001/assembly01/wild/palari_by_nyhja_group.mpg|youtube:1fWsWAja9vI
 title:hintti ja kuumoduli|author:united narsists|position:7|webfile:wild_demo/hintti_ja_kuumoduli_by_united_narsists.mpeg|sceneorg:/parties/2001/assembly01/wild/hintti_ja_kuumoduli_by_united_narsists.mpg|youtube:fzuM2TKqDqc
@@ -152,13 +152,13 @@ title:Retaliation|author:Fire Mouse Productions|position:15|webfile:wild_demo/re
 
 ! Combined 64k intro
 
-title:Sonnet|author:Threestate|position:1|media:.oldies-goldies/compos/ASM01 64k - 1st - Sonnet by Threestate_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in64/3s-sonnet.zip|pouet:3282|dtv:9664|youtube:Pb-r5PRQ32A
+title:Sonnet|author:Threestate|position:1|media:.oldies-goldies/compos/ASM01 64k - 1st - Sonnet by Threestate_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in64/3s-sonnet.zip|pouet:3282|dtv:id_file=4054&id_prod=9664&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3282.jpg&width=512&height=404|youtube:Pb-r5PRQ32A
 title:Vaahtokarkit|author:Hipo / Lonely Coders|position:2|sceneorg:/parties/2001/assembly01/in64/vaahtokarkit_by_hipo___lonely_coders.zip|pouet:3368
 title:Exodus|author:foobug|position:3|sceneorg:/parties/2001/assembly01/in64/exodus_by_foobug.zip|pouet:3301
 title:Summerfrog|author:Fascination|position:4|sceneorg:/parties/2001/assembly01/in64/summerfrog_by_fascination.zip|pouet:3369
 title:we are cryonics|author:cryonics|position:5|sceneorg:/parties/2001/assembly01/in64/we_are_cryonics.zip|pouet:3293
 title:Ekoteko 42KB|author:tAAt 2001|position:6|sceneorg:/parties/2001/assembly01/in64/ekoteko_42kb_by_taat_2001.zip|pouet:3379
-title:Tripfish 2|author:Kewlers|position:7|sceneorg:/parties/2001/assembly01/in64/tripfish_2_by_kewlers.zip|pouet:3283|dtv:12814
+title:Tripfish 2|author:Kewlers|position:7|sceneorg:/parties/2001/assembly01/in64/tripfish_2_by_kewlers.zip|pouet:3283|dtv:id_file=1497&id_prod=12814&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3283_2.jpg&width=512&height=404
 title:Misfit|author:Deus ex Machina|position:8|sceneorg:/parties/2001/assembly01/in64/dxm_misfit.zip
 title:Devolution|author:Scania Entertainment|position:9|sceneorg:/parties/2001/assembly01/in64/devolution.zip|pouet:6283
 title:Triplert|author:Itchi / Lonely Coders|position:10|sceneorg:/parties/2001/assembly01/in64/triplert_by_itchi___lonely_coders.zip|pouet:3371
@@ -201,18 +201,18 @@ title:Jess|author:Frand|position:15|webfile:raytraced_graphics/jess_by_frand.png
 
 ! Combined demo
 
-title:Lapsuus|author:MatureFurk|position:1|media:.oldies-goldies/compos/ASM01 Demo - 1st - Lapsuus by MatureFurk_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/lapsuus.lha|pouet:3284|dtv:6070|youtube:OfaoYvsUWnY
-title:gerbera|author:moppi productions|position:2|media:.oldies-goldies/compos/ASM01 Demo - 2nd - gerbera by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gerbera_by_moppi_productions.zip|pouet:3286|dtv:4525|youtube:RCufCFBCVJA
+title:Lapsuus|author:MatureFurk|position:1|media:.oldies-goldies/compos/ASM01 Demo - 1st - Lapsuus by MatureFurk_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/lapsuus.lha|pouet:3284|dtv:id_file=2483&id_prod=6070&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3284.jpg&width=512&height=404|youtube:OfaoYvsUWnY
+title:gerbera|author:moppi productions|position:2|media:.oldies-goldies/compos/ASM01 Demo - 2nd - gerbera by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gerbera_by_moppi_productions.zip|pouet:3286|dtv:id_file=3192&id_prod=4525&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3286.jpg&width=512&height=404|youtube:RCufCFBCVJA
 title:Recycled|author:Byterapers inc. & Doomsday|position:3|media:.oldies-goldies/compos/ASM01 Demo - 3rd - Recycled by Byterapers, doomsday_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/recycled.zip|pouet:3287|youtube:pyCh8Wu_XLI
-title:Pirtuaalitodellisuus|author:tAAt 2001|position:4|media:.oldies-goldies/compos/ASM01 Demo - 4th - Pirtuaalitodellisuus by tAAt_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/pirtuaalitodellisuus_by_taat_2001.zip|pouet:3288|dtv:8064|youtube:XMD6nouLHVA
+title:Pirtuaalitodellisuus|author:tAAt 2001|position:4|media:.oldies-goldies/compos/ASM01 Demo - 4th - Pirtuaalitodellisuus by tAAt_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/pirtuaalitodellisuus_by_taat_2001.zip|pouet:3288|dtv:id_file=4058&id_prod=8064&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3288.jpg&width=512&height=404|youtube:XMD6nouLHVA
 title:dose 2|author:mfx|position:5|sceneorg:/parties/2001/assembly01/demo/mfx_d2.tgz|pouet:3289
-title:ENERGIA|author:sunflower|position:6|media:.oldies-goldies/compos/ASM01 Demo - 6th - ENERGIA by Sunflower_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/energia_by_sunflower.zip|pouet:3290|dtv:3538|youtube:5MT61NDHuQE
-title:Gist|author:Grin|position:7|media:.oldies-goldies/compos/ASM01 Demo - 7th - Gist by Grin_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gist_by_grin.zip|pouet:3363|dtv:4559|youtube:k-9yUWdv9fQ
-title:Horizontal Cool|author:CNCD|position:8|media:.oldies-goldies/compos/ASM01 Demo - 8th - Horizontal Cool by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/horizontal_cool_by_cncd.zip|pouet:3321|dtv:5097|youtube:uyVIuDStCiI
-title:Triple|author:Noice|position:9|media:.oldies-goldies/compos/ASM01 Demo - 9th - Triple by Noice_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/triple_by_noice.zip|pouet:3366|dtv:11125|youtube:L6A7riwPcqw
-title:O B E|author:Virtual Dreams - Fairlight / Sumea Labs|position:10|media:.oldies-goldies/compos/ASM01 Demo - 10th - O B E by VD, Fairlight, sumea labs_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/obe.zip|pouet:3300|dtv:12434|youtube:VgVwZAr_IwE
-title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:/parties/2001/assembly01/demo/mwi-cull.lha|pouet:3364|dtv:2522|youtube:6ACoOa6vtqQ
-title:Forsaken|author:Traction|position:12|media:.oldies-goldies/compos/ASM01 Demo - 12th - Forsaken by Traction_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/forsaken_by_traction_2.zip|pouet:3365|dtv:4163|youtube:qA3dorsiexY
-title:Gasoline 2|author:recreation|position:13|media:.oldies-goldies/compos/ASM01 Demo - 13th - Gasoline 2 by Recreation_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gasoline_2_by_recreation.zip|pouet:3299|dtv:4460|youtube:T4Vp3dz7WMU
-title:(we took the) greenpill|author:Haujobb|position:14|media:.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/we_took_the__greenpill_by_haujobb.zip|pouet:3292|dtv:29|youtube:_sE5a7EfAZk
-title:Out Of Style 2|author:Storm Studios|position:15|media:.oldies-goldies/compos/ASM01 Demo - 15th - Out of Style 2 by Storm Studios_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/out_of_style_2_by_storm_studios.zip|pouet:3329|dtv:7709|youtube:zPIXGs8y4g8
+title:ENERGIA|author:sunflower|position:6|media:.oldies-goldies/compos/ASM01 Demo - 6th - ENERGIA by Sunflower_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/energia_by_sunflower.zip|pouet:3290|dtv:id_file=4027&id_prod=3538&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3290.gif&width=512&height=404|youtube:5MT61NDHuQE
+title:Gist|author:Grin|position:7|media:.oldies-goldies/compos/ASM01 Demo - 7th - Gist by Grin_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gist_by_grin.zip|pouet:3363|dtv:id_file=4059&id_prod=4559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3363.jpg&width=512&height=404|youtube:k-9yUWdv9fQ
+title:Horizontal Cool|author:CNCD|position:8|media:.oldies-goldies/compos/ASM01 Demo - 8th - Horizontal Cool by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/horizontal_cool_by_cncd.zip|pouet:3321|dtv:id_file=4189&id_prod=5097&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3321.gif&width=512&height=404|youtube:uyVIuDStCiI
+title:Triple|author:Noice|position:9|media:.oldies-goldies/compos/ASM01 Demo - 9th - Triple by Noice_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/triple_by_noice.zip|pouet:3366|dtv:id_file=4180&id_prod=11125&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3366.jpg&width=512&height=404|youtube:L6A7riwPcqw
+title:O B E|author:Virtual Dreams - Fairlight / Sumea Labs|position:10|media:.oldies-goldies/compos/ASM01 Demo - 10th - O B E by VD, Fairlight, sumea labs_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/obe.zip|pouet:3300|dtv:id_file=1498&id_prod=12434&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3300_1.jpg&width=512&height=404|youtube:VgVwZAr_IwE
+title:Cull Bazaar|author:Madwizards|position:11|media:.oldies-goldies/compos/ASM01 Demo - 11th - Cull Bazaar by MadWizards_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/demo/mwi-cull_bazaar_ppc_divx.avi|sceneorg:/parties/2001/assembly01/demo/mwi-cull.lha|pouet:3364|dtv:id_file=3847&id_prod=2522&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3364.jpg&width=512&height=404|youtube:6ACoOa6vtqQ
+title:Forsaken|author:Traction|position:12|media:.oldies-goldies/compos/ASM01 Demo - 12th - Forsaken by Traction_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/forsaken_by_traction_2.zip|pouet:3365|dtv:id_file=4182&id_prod=4163&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3365.jpg&width=512&height=404|youtube:qA3dorsiexY
+title:Gasoline 2|author:recreation|position:13|media:.oldies-goldies/compos/ASM01 Demo - 13th - Gasoline 2 by Recreation_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gasoline_2_by_recreation.zip|pouet:3299|dtv:id_file=4184&id_prod=4460&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3299.jpg&width=512&height=404|youtube:T4Vp3dz7WMU
+title:(we took the) greenpill|author:Haujobb|position:14|media:.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/we_took_the__greenpill_by_haujobb.zip|pouet:3292|dtv:id_file=4060&id_prod=29&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3292.gif&width=512&height=404|youtube:_sE5a7EfAZk
+title:Out Of Style 2|author:Storm Studios|position:15|media:.oldies-goldies/compos/ASM01 Demo - 15th - Out of Style 2 by Storm Studios_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/out_of_style_2_by_storm_studios.zip|pouet:3329|dtv:id_file=4193&id_prod=7709&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3329.jpg&width=512&height=404|youtube:zPIXGs8y4g8

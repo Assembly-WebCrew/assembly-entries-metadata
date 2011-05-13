@@ -14,7 +14,7 @@ title:Jensomania|author:amj|position:7|sceneorg:/parties/1999/assembly99/c64/mus
 
 title:Älä ota sit vakavasti|author:da jormas!|position:1|sceneorg:/parties/1999/assembly99/amiga/in64/l_ota_si.zip|pouet:4518
 title:Push|author:Extreme|position:2|sceneorg:/parties/1999/assembly99/amiga/in64/push_by_.zip|pouet:1936
-title:Sparkling blue light|author:Spaceballs|position:3|sceneorg:/parties/1999/assembly99/amiga/in64/sparklin.zip|pouet:3512|dtv:9747
+title:Sparkling blue light|author:Spaceballs|position:3|sceneorg:/parties/1999/assembly99/amiga/in64/sparklin.zip|pouet:3512|dtv:id_file=3928&id_prod=9747&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3512.jpg&width=512&height=404
 title:Pulsar|author:Scoopex|position:4|sceneorg:/parties/1999/assembly99/amiga/in64/pulsar_b.zip|pouet:1347
 title:Kangooroa or something|author:bus|position:5|sceneorg:/parties/1999/assembly99/amiga/in64/kangooro.zip|pouet:7741
 title:HC-DC10|author:Spedes|position:6|sceneorg:/parties/1999/assembly99/amiga/in64/hcdc10_b.zip|pouet:12669
@@ -140,15 +140,15 @@ title:Stargate|author:Raimo Suulasnaama|position:11|media:./.oldies-goldies/comp
 
 ! Amiga demo
 
-title:Beats|author:Loveboat|position:1|sceneorg:/parties/1999/assembly99/amiga/demo/beats_by.zip|pouet:3448|dtv:1268
-title:Klone|author:Dual crew shining|position:2|sceneorg:/parties/1999/assembly99/amiga/demo/klone_by.zip|pouet:1562|dtv:5919
+title:Beats|author:Loveboat|position:1|sceneorg:/parties/1999/assembly99/amiga/demo/beats_by.zip|pouet:3448|dtv:id_file=3891&id_prod=1268&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3448.jpg&width=512&height=404
+title:Klone|author:Dual crew shining|position:2|sceneorg:/parties/1999/assembly99/amiga/demo/klone_by.zip|pouet:1562|dtv:id_file=2446&id_prod=5919&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1562.jpg&width=512&height=404
 title:Megademo|author:Mystic|position:3|sceneorg:/parties/1999/assembly99/amiga/demo/megademo.zip|pouet:3937
 title:Donut fetish|author:Yoman3|position:4|sceneorg:/parties/1999/assembly99/amiga/demo/donut_fe.zip|pouet:16215
 
 ! Animation
 
 title:Grumps|author:jarno|position:1|webfile:animation/grumps_by_jarno.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 1st - Grumps by jarno_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/grumps_b.zip|pouet:9557|youtube:4SS3AB-ogCE
-title:Paradise|author:720 and Bluecow|position:2|webfile:animation/paradise_by_720_and_bluecow.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 2nd - Paradise by 729 and Bluecow_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/paradise.zip|pouet:28306|dtv:12342|youtube:web5vCX6Y48
+title:Paradise|author:720 and Bluecow|position:2|webfile:animation/paradise_by_720_and_bluecow.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 2nd - Paradise by 729 and Bluecow_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/paradise.zip|pouet:28306|dtv:id_file=4102&id_prod=12342&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/paradise_1.jpg&width=512&height=404|youtube:web5vCX6Y48
 title:Drugwars|author:Vortex|position:3|webfile:animation/drugwars_by_vortex.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 3rd - Drugwars by Vortex_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/drugwars.zip|pouet:28307|youtube:CACkXyvv2t8
 title:Kvakzilla|author:fragment|position:4|webfile:animation/kvakzilla_by_fragment.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 4th - Kvakzilla by fragment_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/kvakzill.zip|pouet:7733|youtube:7abThUahxFA
 title:itsenäisyyspäivä|author:muumiperhe|position:5|webfile:animation/itsenisyyspiv_by_muumiperhe.mpeg|media:./.oldies-goldies/compos/ASM99 Animation - 5th - Itsenäisyyspäivä by Muumiperhe_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/itsenisy.zip|pouet:28308|youtube:4mIB0a2UBtA
@@ -183,7 +183,7 @@ title:Error inside|author:fat chili team|position:7|media:./.oldies-goldies/comp
 
 ! PC 64k intro
 
-title:Viagra|author:Mewlers|position:1|sceneorg:/parties/1999/assembly99/in64/viagra_b.zip|pouet:293|dtv:11544
+title:Viagra|author:Mewlers|position:1|sceneorg:/parties/1999/assembly99/in64/viagra_b.zip|pouet:293|dtv:id_file=4062&id_prod=11544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8754.jpg&width=512&height=404
 title:Flekk|author:Nah-kolor|position:2|sceneorg:/parties/1999/assembly99/in64/flekk_by.zip|pouet:449
 title:3x3|author:Reality Benders|position:3|sceneorg:/parties/1999/assembly99/in64/3x3_by_r.zip|pouet:14250
 title:Puheaika|author:Dazed Productions|position:4|sceneorg:/parties/1999/assembly99/in64/puheaika.zip

@@ -15,7 +15,7 @@ title:jokela 3|author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/ass
 ! Amiga 64k intro
 
 title:edit0.5|author:haujobb|position:1|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|pouet:1035
-title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|pouet:3518|dtv:10237
+title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|pouet:3518|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404
 title:red-eye|author:sonik clique|position:3|sceneorg:/parties/1998/assembly98/amiga64k/redeye_b.zip|pouet:7501
 title:Elektrik Baby|author:Raato^Pou^Ves / dA JoRMaS!|position:4|sceneorg:/parties/1998/assembly98/amiga64k/elektrik.zip|pouet:11975
 title:popgun|author:paragon|position:5|sceneorg:/parties/1998/assembly98/amiga64k/popgun_b.zip|pouet:51586
@@ -127,23 +127,23 @@ title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:/parties/1998/assem
 
 ! Amiga demo
 
-title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:8796
+title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:id_file=2441&id_prod=8796&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/194.jpg&width=512&height=404
 title:dELTA|author:Embassy|position:2|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|pouet:3736
 title:Synthesis|author:Network|position:3|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517|youtube:KP33rtR51xM
 title:Aromecolor|author:Cirion|position:4|sceneorg:/parties/1998/assembly98/amigadem/aromecol.zip|pouet:4711
-title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|pouet:3042|dtv:7572
+title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|pouet:3042|dtv:id_file=3849&id_prod=7572&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3042.jpg&width=512&height=404
 title:Boogienights|author:sPEDES|position:6|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|pouet:12670
 title:High Sport Grammar|author:T.C.W|position:0|sceneorg:/parties/1998/assembly98/amigadem/high_spo.zip
 
 ! Animation
 
-title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:1215|youtube:mKfLEs_27UU
+title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:id_file=3360&id_prod=1215&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/6445.jpg&width=512&height=404|youtube:mKfLEs_27UU
 title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|pouet:28283|youtube:CLOqywkx-Sw
 title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:/parties/1998/assembly98/animatio/mars_by_.zip|pouet:28284|youtube:07Pkdi-YohQ
 title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:/parties/1998/assembly98/animatio/spice_by.zip|pouet:28285|youtube:A8YAO3p6cG8
 title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:/parties/1998/assembly98/animatio/kvak_by_.zip|pouet:7732|youtube:M8dFxjlJHTc
 title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:/parties/1998/assembly98/animatio/pirates_.zip|pouet:28286|youtube:6BJLPnkuhdc
-title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|pouet:3022|dtv:9608|youtube:yl-DDzo60Go
+title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|pouet:3022|dtv:id_file=3362&id_prod=9608&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3022.jpg&width=512&height=404|youtube:yl-DDzo60Go
 title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:/parties/1998/assembly98/animatio/darn_by_.zip|pouet:28287|youtube:vOnvtH2sWSM
 title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:/parties/1998/assembly98/animatio/lauantai.zip|pouet:28288|youtube:o9yHCs7bVSs
 title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:/parties/1998/assembly98/animatio/tappelia.zip|pouet:28289|youtube:dgbAskIguog
@@ -351,7 +351,7 @@ title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_tr
 title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295
 title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147
 title:tour|author:pulse|position:3|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|pouet:1088
-title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|pouet:308|dtv:9286
+title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|pouet:308|dtv:id_file=2444&id_prod=9286&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/308.jpg&width=512&height=404
 title:Vague Space|author:cncd|position:5|sceneorg:/parties/1998/assembly98/pcdemo/vague_sp.zip|pouet:1273
 title:giger|author:recreation|position:6|sceneorg:/parties/1998/assembly98/pcdemo/giger_by.zip|pouet:7402
 title:übernational zonk|author:tpolm|position:7|sceneorg:/parties/1998/assembly98/pcdemo/bernatio.zip|pouet:3443

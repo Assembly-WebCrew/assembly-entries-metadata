@@ -22,7 +22,7 @@ title:Villean|author:AMJ|position:16
 ! Amiga 64k intro
 
 title:911|author:Limbo|position:1|pouet:3678
-title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:12259
+title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:id_file=4161&id_prod=12259&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3524.jpg&width=512&height=404
 title:FAT|author:Mystic|position:3|sceneorg:/parties/1997/assembly97/amiga/in64/mst-fat.lha|pouet:3935
 title:With Style|author:Haujobb|position:4|pouet:189
 title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
@@ -99,7 +99,7 @@ title:Coward|author:2nd Gen|position:8
 
 ! Amiga demo
 
-title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:8437
+title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:id_file=3878&id_prod=8437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/195.jpg&width=512&height=404
 title:Zoo|author:Puzzle|position:2|pouet:51429
 title:Casting|author:Embassy|position:3|pouet:6675
 title:Zoom|author:Anadune|position:4|pouet:3811

@@ -21,12 +21,12 @@ title:Happypaskamies|author:Moby/Sanity|position:10
 
 ! PC demo
 
-title:Verses|author:Electro Motive Force|position:1|sceneorg:/parties/1994/assembly94/demo/verses.zip|pouet:67|dtv:11521
+title:Verses|author:Electro Motive Force|position:1|sceneorg:/parties/1994/assembly94/demo/verses.zip|pouet:67|dtv:id_file=2337&id_prod=11521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/67.jpg&width=512&height=404
 title:Holistic|author:Cascada VR-section|position:2|sceneorg:/parties/1994/assembly94/demo/holistic.zip|pouet:7982
-title:Heartquake|author:Iquana|position:3|sceneorg:/parties/1994/assembly94/demo/heartq.zip|pouet:364|dtv:4922
+title:Heartquake|author:Iquana|position:3|sceneorg:/parties/1994/assembly94/demo/heartq.zip|pouet:364|dtv:id_file=2335&id_prod=4922&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/364.jpg&width=512&height=404
 title:Warp|author:Legend Design|position:4|sceneorg:/parties/1994/assembly94/demo/ld-warpf.zip|pouet:3044
 title:Images|author:Epical|position:5|sceneorg:/parties/1994/assembly94/demo/images.zip|pouet:5089
-title:The Real THING|author:Capacala|position:6|sceneorg:/parties/1994/assembly94/demo/realthng.zip|pouet:66|dtv:10694
+title:The Real THING|author:Capacala|position:6|sceneorg:/parties/1994/assembly94/demo/realthng.zip|pouet:66|dtv:id_file=2340&id_prod=10694&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/66.jpg&width=512&height=404
 title:Catch up|author:Grif|position:7|sceneorg:/parties/1994/assembly94/demo/catchupp.zip|pouet:1293
 title:Silence|author:Hysteria|position:8|sceneorg:/parties/1994/assembly94/demo/silence.zip|pouet:1292
 title:Cosmic Brothers|author:Complex|position:9|sceneorg:/parties/1994/assembly94/demo/cosmic.zip|pouet:5333
@@ -37,7 +37,7 @@ title:Trekmo|author:Patrik Aalto|position:13|sceneorg:/parties/1994/assembly94/d
 title:Un Eatable|author:TC|position:14|sceneorg:/parties/1994/assembly94/demo/uneatble.zip|pouet:2526
 title:Visions of Light|author:Valhalla|position:15|sceneorg:/parties/1994/assembly94/demo/visionsl.zip|pouet:4852
 title:Fly|author:Anjovis|position:16|sceneorg:/parties/1994/assembly94/demo/fly.zip|pouet:8656
-title:Meltdown|author:SPA|position:17|pouet:3473|dtv:6855
+title:Meltdown|author:SPA|position:17|pouet:3473|dtv:id_file=4198&id_prod=6855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3473.jpg&width=512&height=404
 title:FairlyTale|author:Styx|position:18|sceneorg:/parties/1994/assembly94/demo/fairy.zip|pouet:7222
 title:Accident|author:Axidental|position:19|sceneorg:/parties/1994/assembly94/demo/accident.zip|pouet:8661
 title:Dawn|author:Tei|position:20|sceneorg:/parties/1994/assembly94/demo/dawn.zip|pouet:8660
@@ -80,7 +80,7 @@ title:Plasmatic|author:Zden|position:11|sceneorg:/parties/1994/assembly94/in4k/p
 
 title:G-force|author:Pygmy Projects|position:1|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|pouet:3419
 title:Falurecolor|author:Razor 1911|position:2|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|pouet:7358
-title:Darkroom|author:Stellar|position:3|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|pouet:3452|dtv:2637
+title:Darkroom|author:Stellar|position:3|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|pouet:3452|dtv:id_file=4061&id_prod=2637&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3452.jpg&width=512&height=404
 title:Kampela|author:Hirmu|position:4|sceneorg:/parties/1994/assembly94/amiga/in40/kampela.zip|pouet:19532
 title:40k Intro|author:Halo|position:5|sceneorg:/parties/1994/assembly94/amiga/in40/halo40k.zip|pouet:19533
 title:Sourcemetery|author:Razor 1911|position:6|sceneorg:/parties/1994/assembly94/amiga/in40/sourceme.zip|pouet:7359
@@ -115,13 +115,13 @@ title:Best of Trinomic|author:Trinomic|position:3|sceneorg:/parties/1994/assembl
 
 title:Mindflow|author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.zip
 title:Breath Taker|author:Vitual Dreams|position:2|sceneorg:/parties/1994/assembly94/amiga/demo/vdbt.zip|pouet:2568
-title:Drool This|author:Parallax|position:3|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|pouet:7971|dtv:3270
-title:Ilyad|author:Alcatraz|position:4|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|pouet:10359|dtv:13532
+title:Drool This|author:Parallax|position:3|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|pouet:7971|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404
+title:Ilyad|author:Alcatraz|position:4|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|pouet:10359|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404
 title:Cccp|author:Juliet & Case|position:5|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|pouet:14991
 title:Maxium Overdrive II|author:Rage|position:6|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,amiga/demo/rage2.dms,amiga/demo/rage3.dms|pouet:9106
 title:Despair|author:Insane|position:7|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|pouet:17249
-title:Sup.l# $7fd1|author:Analogy|position:8|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|pouet:23217|dtv:12361
-title:Final Condom|author:Delon|position:9|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|pouet:7617|dtv:12860
+title:Sup.l# $7fd1|author:Analogy|position:8|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|pouet:23217|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404
+title:Final Condom|author:Delon|position:9|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|pouet:7617|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404
 title:Ill Flower|author:unknown|position:10|sceneorg:/parties/1994/assembly94/amiga/demo/illflow.zip|pouet:12349
 title:Creme|author:Embassy|position:11|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|pouet:6681
 title:Hardday|author:Emt Design|position:12|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|pouet:17250

@@ -53,7 +53,7 @@ title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zi
 
 ! PC demo
 
-title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:9896
+title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404
 title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69
 title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955
 title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503
@@ -98,11 +98,11 @@ title:Kielo|author:Turo/Fascination|position:15
 
 ! Amiga demo
 
-title:ZIF|author:Parallax|position:1|pouet:1149|dtv:12360
+title:ZIF|author:Parallax|position:1|pouet:1149|dtv:id_file=4047&id_prod=12360&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1149_1.jpg&width=512&height=404
 title:Logic|author:Pygmy Projects|position:2|pouet:7823
 title:Miracles|author:Stellar|position:3|pouet:1389
 title:Fruit Kitchen|author:Silents|position:4|pouet:3648
-title:C42|author:Juliet and Case|position:5|pouet:7969|dtv:12859
+title:C42|author:Juliet and Case|position:5|pouet:7969|dtv:id_file=4044&id_prod=12859&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/c42.jpg&width=512&height=404
 title:Dive|author:Complex|position:6|pouet:23927
 title:Hate 2|author:Fanatic|position:7|pouet:12362
 title:Embryo|author:Balance|position:8|pouet:3988
