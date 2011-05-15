@@ -249,3 +249,22 @@ pouet:51134|author:Mojito|media:/vod/2008/Compos/786_Demo_Total_h264_7168kbit.mp
 pouet:51132|author:Adapt|media:/vod/2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/the_invisible_hold_by_adapt.zip|title:The Invisible Hold|youtube:HhITfKVIvak|thumbnail:http://i.ytimg.com/vi/HhITfKVIvak/0.jpg|position:6|dtv:id_file=4653&id_prod=13434&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51132_1.jpg&width=512&height=404
 title:Effects|author:Codex/Paranoids|position:0|sceneorg:/parties/2008/assembly08/demo/effects_by_codexparanoids.zip
 title:Kalvosinappi - Membrane Mustard by XZM stolen|author:tAAt|position:0|sceneorg:/parties/2008/assembly08/demo/kalvosinappi__membrane_mustard_by_xzm_stolen_by_taat.zip
+
+! AssemblyTV
+
+title:ARTtech-seminaari - Sell your Friends vs. WOW epic mounts: the game industry at change|author:AssemblyTV seminars|media:/vod/2008/Seminars/614_sell_your_friends_vs_WOW_epic_mounts_-_the_game_industry_at_change_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/614
+title:ARTtech-seminaari - Iron Sky - Nazis! On the Moon!|author:AssemblyTV seminars|media:/vod/2008/Seminars/616_iron_sky_-_nazis_on_the_moon_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/616
+title:ARTtech-seminaari - Indie start-up for dummies|author:AssemblyTV seminars|media:/vod/2008/Seminars/618_indie_programming_for_dummies_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/618
+title:ARTtech-seminaari - Gaming: How AMD is changing how Gamers Game|author:AssemblyTV seminars|media:/vod/2008/Seminars/620_gaming_-_how_AMD_is_changing_how_gamers_game_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/620
+title:ARTtech-seminaari - Playing with Robots both real and virtual|author:AssemblyTV seminars|media:/vod/2008/Seminars/622_playing_with_robots_both_real_and_virtual_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/622
+title:ARTtech-seminaari - Improving the end user experience: Playtesting mobile games|author:AssemblyTV seminars|media:/vod/2008/Seminars/623_improving_the_end_user_experience_-_playtesting_mobile_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/623
+title:ARTtech-seminaari - Dynamic Mesh Deformation for Car Games|author:AssemblyTV seminars|media:/vod/2008/Seminars/626_dynamic_mesh_deformation_for_car_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/626
+title:ARTtech-seminaari - Harnessing the power of XGSE|author:AssemblyTV seminars|media:/vod/2008/Seminars/627_harnessing_the_power_of_XGSE_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/627
+title:ARTtech-seminaari - Demo Programming for Beginners|author:AssemblyTV seminars|media:/vod/2008/Seminars/628_demo_programming_for_beginners_h264_896kbit.mp4|guid:http://elaine.assembly.org/programs/628
+title:Compo studio: Fast Graphics compo |author:AssemblyTV|media:/vod/2008/AssemblyTV/631_compostudio_fast_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/631
+title:ARTtech-seminaari - Programming on Cell tutorial, top to bottom|author:AssemblyTV seminars|media:/vod/2008/Seminars/634_programming_on_cell_tutorial_top_to_bottom_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/634
+title:compo studio: 4k intro |author:AssemblyTV|media:/vod/2008/AssemblyTV/643_compostudio_4k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/643
+title:Microsoft Digigirls -panel discussion|author:AssemblyTV|media:/vod/2008/AssemblyTV/654_microsoft_digigirls_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/654
+title:Alternative Party interview|author:AssemblyTV|media:/vod/2008/AssemblyTV/655_altparty_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/655
+title:Compo studio: 64k intro|author:AssemblyTV|media:/vod/2008/AssemblyTV/677_compostudio_64k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/677
+title:Nokia - Building on Linux|author:AssemblyTV|media:/vod/2008/AssemblyTV/707_nokia-building_on_linux_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/707

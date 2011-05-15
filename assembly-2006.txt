@@ -292,3 +292,40 @@ title:Jargon|author:ankkalaps / Sitruslapset|position:0|webfile:freestyle_graphi
 title:Hyperthermophile disease|author:NoThanks|position:0|webfile:freestyle_graphics/hyperthermophile_disease_by_nothanks.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/hyperthermophile_disease_by_nothanks.zip
 title:Kurpitsakiiras|author:lemonade / Sitruslapset|position:0|webfile:freestyle_graphics/kurpitsakiiras_by_lemonade_sitruslapset.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/kurpitsakiiras_by_lemonade_sitruslapset.zip
 title:Alone|author:Max Dee|position:0|webfile:freestyle_graphics/alone_by_max_dee.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/alone_by_max_dee_1.zip
+
+! AssemblyTV
+
+title:Gaming: Age limits|author:AssemblyTV|media:/vod/2006/assemblytv/26_gaming_agelimits_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/26
+title:Setok makes it work|author:AssemblyTV|media:/vod/2006/assemblytv/27_setok_auttaa_h264_896kbps.mp4|guid:
+title:Outsiders|author:AssemblyTV|media:/vod/2006/assemblytv/28_outsiders_at_pasila_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/28
+title:Gaming: DJ Orkidea interview|author:AssemblyTV|media:/vod/2006/assemblytv/39_gaming_dj_orkidea_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/39
+title:Behind the scenes with Setok|author:AssemblyTV|media:/vod/2006/assemblytv/40_kulisseissa_kuhisee_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/40
+title:Gaming: Level7 part 1|author:AssemblyTV|media:/vod/2006/assemblytv/46_gaming_level7_part1_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/46
+title:Interviewing Alive|author:AssemblyTV|media:/vod/2006/assemblytv/52_alive_haastattelu_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/52
+title:Interview with Abyss|author:AssemblyTV|media:/vod/2006/assemblytv/54_abyss_haastattelu_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/54
+title:Seminar: Linux 4k coding|author:AssemblyTV seminars|media:/vod/2006/seminars/59_seminar_linux_4k_coding_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/59
+title:Seminar: Mobility with MUPE - developer's point of view|author:AssemblyTV seminars|media:/vod/2006/seminars/62_seminar_mobility_with_mupe_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/62
+title:Seminar: The Art of Pixels: from sprites to Photoshop|author:AssemblyTV seminars|media:/vod/2006/seminars/63_seminar_art_of_pixels_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/63
+title:Visitor interviews|author:AssemblyTV|media:/vod/2006/assemblytv/64_kavijahaastattelut_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/64
+title:Seminar: The Neglected Art of Fixed Point Arithmetic|author:AssemblyTV seminars|media:/vod/2006/seminars/65_seminar_neglected_art_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/65
+title:Seminar: The New Procedure|author:AssemblyTV seminars|media:/vod/2006/seminars/92_seminar_the_new_procedure_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/92
+title:Seminar: "It ain't 1996 anymore" - entry into today's games industry|author:AssemblyTV seminars|media:/vod/2006/seminars/94_seminar_it_aint_1996_anymore_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/94
+title:Seminar: History and Future of 3D audio|author:AssemblyTV seminars|media:/vod/2006/seminars/95_history_and_future_of_3d_audio_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/95
+title:Seminar: World of Viruses|author:AssemblyTV seminars|media:/vod/2006/seminars/97_seminar_world_of_viruses_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/97
+title:Seminar: Standards and Opera|author:AssemblyTV seminars|media:/vod/2006/seminars/98_seminar_standards_and_opera_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/98
+title:Seminar: Opera Mini: coping with J2ME fragmentation|author:AssemblyTV seminars|media:/vod/2006/seminars/99_seminar_opera_mini_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/99
+title:Gaming: Assembly GameLab|author:AssemblyTV|media:/vod/2006/assemblytv/101_gaming_gamelab_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/101
+title:Visitor gallup part 1|author:AssemblyTV|media:/vod/2006/assemblytv/107_gallup_part1_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/107
+title:Art in Assembly|author:AssemblyTV|media:/vod/2006/assemblytv/116_art_in_assembly_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/116
+title:Seminar: Keynote: Star Wreck|author:AssemblyTV seminars|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/130
+title:Gaming: World Gamemaster Tournament|author:AssemblyTV|media:/vod/2006/assemblytv/131_gaming_wgt_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/131
+title:Seminar: Getting a job in games|author:AssemblyTV seminars|media:/vod/2006/seminars/138_seminar_getting_a_job_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/138
+title:Seminar: Bringing your first game to market|author:AssemblyTV seminars|media:/vod/2006/seminars/140_seminar_bringing_your_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/140
+title:Seminar: Experiences from 10 years of game development|author:AssemblyTV seminars|media:/vod/2006/seminars/141_seminar_experiences_from_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/141
+title:Seminar: Silent Grove Studios - a story of a start-up game developer|author:AssemblyTV seminars|media:/vod/2006/seminars/142_seminar_silent_grove_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/142
+title:Seminar: Snowflake Studios & Online development|author:AssemblyTV seminars|media:/vod/2006/seminars/143_seminar_snowflake_studios_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/143
+title:Star Wreck -trivia|author:AssemblyTV|media:/vod/2006/assemblytv/163_star_wreck_trivia_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/163
+title:Visitor interviews from Saturday|author:AssemblyTV|media:/vod/2006/assemblytv/164_visitor_interviews_saturday_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/164
+title:Interview with Opera guys|author:AssemblyTV|media:/vod/2006/assemblytv/175_opera_interview_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/175
+title:Walkabout with Setok and Matthew|author:AssemblyTV|media:/vod/2006/assemblytv/204_walkabout_with_setok_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/204
+title:Tooth Brush Chain|author:AssemblyTV|media:/vod/2006/assemblytv/207_hammasharja_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/207

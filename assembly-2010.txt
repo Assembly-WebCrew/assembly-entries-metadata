@@ -262,3 +262,42 @@ title:acid like burns|author:karma force|position:0|sceneorg:/parties/2010/assem
 title:Grill in the Hill|author:RHZ|position:0|sceneorg:/parties/2010/assembly10/music/grill_in_the_hill_by_rhz.mp3|webfile:music/grill_in_the_hill_by_rhz.mp3
 title:Terrorism against our nation will not stand|author:Vätsgy|position:0|sceneorg:/parties/2010/assembly10/music/terrorism_against_our_nation_will_not_stand_by_vatsgy.mp3|webfile:music/terrorism_against_our_nation_will_not_stand_by_v_tsgy.mp3
 title:I only dance with my gasmask|author:tzaeru|position:0|sceneorg:/parties/2010/assembly10/music/i_only_dance_with_my_gasmask_by_tzaeru.mp3|webfile:music/i_only_dance_with_my_gasmask_by_tzaeru.mp3
+
+! AssemblyTV
+
+title:ARTtech seminars - Robot Wars|author:AssemblyTV seminars|media:/vod/2010/Seminars/1015_ARTtech_seminars_-_Robot_Wars_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1015
+title:ARTtech seminars - Game Development Education, Clubs, and Cooperative Organizations in Finland|author:AssemblyTV seminars|media:/vod/2010/Seminars/1016_game_developement_e_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1016
+title:ARTtech seminars - Relevance of Security in Networked world|author:AssemblyTV seminars|media:/vod/2010/Seminars/1017_relevance_of_securi_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1017
+title:ARTtech seminars - QT programming|author:AssemblyTV seminars|media:/vod/2010/Seminars/1020_qt_programming_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1020
+title:ARTtech seminars - Experiencing Alan Wake|author:AssemblyTV seminars|media:/vod/2010/Seminars/1021_experiencing_alan_wake_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1021
+title:Opening ceremony|author:AssemblyTV|media:/vod/2010/AssemblyTV/1032_opening_ceremony_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1032
+title:Compostudio - GameDev|author:AssemblyTV|media:/vod/2010/AssemblyTV/1035_compostudio_game-dev_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1035
+title:Compostudio - Executable music and graphics|author:AssemblyTV|media:/vod/2010/AssemblyTV/1041_compostudio_executable_music_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1041
+title:Compostudio - Oldskool demo|author:AssemblyTV|media:/vod/2010/AssemblyTV/1043_oldskool_demo_compostudio_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1043
+title:Compostudio - Fast music|author:AssemblyTV|media:/vod/2010/AssemblyTV/1045_compo_studio_fast_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1045
+title:Compostudio - Music|author:AssemblyTV|media:/vod/2010/AssemblyTV/1049_compostudio_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1049
+title:Compostudio - Real wild demo|author:AssemblyTV|media:/vod/2010/AssemblyTV/1053_compostudio_real_wild_demo_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1053
+title:Compostudio - Short film|author:AssemblyTV|media:/vod/2010/AssemblyTV/1056_compostudio_short_film_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1056
+title:AssemblyTV broadcast starts|author:AssemblyTV|media:/vod/2010/AssemblyTV/1065_broadcast_start_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1065
+title:Interview with Konstantinos Pataridis and Soledad Penadés|author:AssemblyTV|media:/vod/2010/AssemblyTV/1067_interview_with_konstantinos_pataridis_and_soledad_penades_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1067
+title:Interview with people from The Demoscene Documentary - never forget|author:AssemblyTV|media:/vod/2010/AssemblyTV/1068_Haastattelu_dokkari_23_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1068
+title:Interview with John Buckman and Peter Sunde Kolmisoppi|author:AssemblyTV|media:/vod/2010/AssemblyTV/1071_interview_with_john_buckman_and_peter_sunde_kolmisoppi_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1071
+title:Scene quiz show - 1. qualification|author:AssemblyTV|media:/vod/2010/AssemblyTV/1073_skenevisa_karsinta_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1073
+title:Scene quiz show - 2. qualification|author:AssemblyTV|media:/vod/2010/AssemblyTV/1074_skenevisa_karsinta_2_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1074
+title:Team Fortress 2 - Tournament final|author:AssemblyTV|media:/vod/2010/AssemblyTV/1075_tf2_palkintojenjako_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1075
+title:Scene quiz show - final|author:AssemblyTV|media:/vod/2010/AssemblyTV/1079_skenevisa_finaali_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1079
+title:Guest interviews|author:AssemblyTV|media:/vod/2010/AssemblyTV/1081_jonotusfiiliksia_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1081
+title:Rullakko queue system|author:AssemblyTV|media:/vod/2010/AssemblyTV/1082_rullakkojono_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1082
+title:Search for Kemppi part 1/3|author:AssemblyTV|media:/vod/2010/AssemblyTV/1083_kempin_metsastys_osa_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1083
+title:Demowall - demos in public places|author:AssemblyTV|media:/vod/2010/AssemblyTV/1109_demoseinä_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1109
+title:ASUS loves Paragon|author:AssemblyTV|media:/vod/2010/AssemblyTV/1111_asus_loves_paragon_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1111
+title:Helsinki Hacklab interview|author:AssemblyTV|media:/vod/2010/AssemblyTV/1112_helsinki_hacklab_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1112
+title:Story behind: ALT - The Most Original Entry|author:AssemblyTV|media:/vod/2010/AssemblyTV/1118_story_behind_ALT_h264_1024kbit.mp4|guid:http://elaine.assembly.org/programs/1118
+title:Asus 3D|author:AssemblyTV|media:/vod/2010/AssemblyTV/1119_Asus3D_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1119
+title:muroradio|author:AssemblyTV|media:/vod/2010/AssemblyTV/1120_MuroRadio_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1120
+title:dance competition|author:AssemblyTV|media:/vod/2010/AssemblyTV/1121_tanssipeli_haastattelu_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1121
+title:Robowar drop-out feelings|author:AssemblyTV|media:/vod/2010/AssemblyTV/1169_robosota_viiksipojat_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1169
+title:metkunet|author:AssemblyTV|media:/vod/2010/AssemblyTV/1182_metkunet_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1182
+title:Guitar hero|author:AssemblyTV|media:/vod/2010/AssemblyTV/1183_kitarasankarit_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1183
+title:Robowar finals|author:AssemblyTV|media:/vod/2010/AssemblyTV/1197_robosota_final_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1197
+title:Guest interviews on Saturday|author:AssemblyTV|media:/vod/2010/AssemblyTV/1198_areenafiiliksia_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1198
