@@ -265,8 +265,8 @@ pouet:53639|author:adapt|media:/vod/2009/Compos/975_Demo_Devour_by_adapt_h264_71
 
 ! AssemblyTV
 
-title:Scene Quiz Show - Qualifier 1|author:AssemblyTV|media:/vod/2009/AssemblyTV/800_Scene_Quiz_Show_-_Qualifier_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/800
-title:Scene Quiz Show - Qualifier 3|author:AssemblyTV|media:/vod/2009/AssemblyTV/802_Scene_Quiz_Show-Qualifier_2_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/802
+title:Scene Quiz Show - Qualifier 1|author:AssemblyTV|media:/vod/2009/AssemblyTV/800_Scene_Quiz_Show-Qualifier_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/800|youtube:http://www.youtube.com/watch?v=5U7BujEA1Yg
+title:Scene Quiz Show - Qualifier 3|author:AssemblyTV|media:/vod/2009/AssemblyTV/802_Scene_Quiz_Show-Qualifier_3_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/802|youtube:http://www.youtube.com/watch?v=fOGJqS9ArlQ
 title:Scene Quiz Show - Final|author:AssemblyTV|media:/vod/2009/AssemblyTV/803_Scene_Quiz_Show-Final_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/803|youtube:http://www.youtube.com/watch?v=NAxpHVLxXoE
 title:Positive Gaming Machine Dance European and World Championships 2009|author:AssemblyTV|media:/vod/2009/AssemblyTV/804_positive_gaming_machine_dance_world_championship_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/804|youtube:http://www.youtube.com/watch?v=e8V1NE5roUY
 title:Assembly Weather|author:AssemblyTV|media:/vod/2009/AssemblyTV/805_assembly_weather_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/805|youtube:http://www.youtube.com/watch?v=QWfJfLfF_d4
@@ -275,23 +275,23 @@ title:Funet-Antenni - Science on TV|author:AssemblyTV|media:/vod/2009/AssemblyTV
 title:Assembly Walkabout 2009|author:AssemblyTV|media:/vod/2009/AssemblyTV/810_assembly_summer_2009_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/810|youtube:http://www.youtube.com/watch?v=2XfmHGtgWE0
 title:Constructing Assembly|author:AssemblyTV|media:/vod/2009/AssemblyTV/811_construct_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/811|youtube:http://www.youtube.com/watch?v=vWHQxKUdnZs
 title:AssemblyTV 2009 Broadcast Starts|author:AssemblyTV|media:/vod/2009/AssemblyTV/812_AssemblyTV_2009_Broadcast_Starts_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/812|youtube:http://www.youtube.com/watch?v=cKRuVG1zS_I
-title:Compo Studio: Fast Music|author:AssemblyTV|media:/vod/2009/AssemblyTV/818_compostudio_fast_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/818
-title:Compo Studio: Fast Graphics|author:AssemblyTV|media:/vod/2009/AssemblyTV/820_compostudio_fast_graphics_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/820
-title:Compo Studio: Extreme Music|author:AssemblyTV|media:/vod/2009/AssemblyTV/822_compostudio_extreme_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/822
-title:Compo Studio: Extreme Graphics|author:AssemblyTV|media:/vod/2009/AssemblyTV/824_compostudio_extreme_graphics_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/824
-title:Compo Studio: 4k Intro|author:AssemblyTV|media:/vod/2009/AssemblyTV/826_compostudio_4k_intro_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/826
-title:Compo Studio: Oldskool Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/828_compostudio_oldskool_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/828
-title:Robo War Finals|author:AssemblyTV|media:/vod/2009/AssemblyTV/829_robo_war_finals_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/829
-title:Compo Studio: Real Wild Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/835_compostudio_realwild_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/835
-title:Prize Ceremony #1|author:AssemblyTV|media:/vod/2009/AssemblyTV/836_prize_ceremony_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/836
-title:Compo Studio: Short Film|author:AssemblyTV|media:/vod/2009/AssemblyTV/838_compostudio_shortfilm_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/838
-title:Compo Studio: Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/841_compostudio_demo_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/841
-title:Prize Ceremony #2|author:AssemblyTV|media:/vod/2009/AssemblyTV/842_prize_ceremony_2_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/842
-title:AssemblyTV 10 years|author:AssemblyTV|media:/vod/2009/AssemblyTV/858_AssemblyTV_10_years_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/858
-title:AltParty 2009 - Cyberpunk Demoparty|author:AssemblyTV|media:/vod/2009/AssemblyTV/861_Altparty_2009-Cyberpunk_Demoparty_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/861
-title:Feminism of Cyberpunk|author:AssemblyTV|media:/vod/2009/AssemblyTV/862_Feminism_of_Cyberpunk_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/862
-title:Live2011.com - World's biggest digital media art challenge|author:AssemblyTV|media:/vod/2009/AssemblyTV/863_Live2011_com_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/863
-title:How to train your brain and prepare for the coming Terminators and/or Matrix|author:AssemblyTV|media:/vod/2009/AssemblyTV/865_How_to_train_your_brain_and_prepare_for_the_coming_Terminators_and-or_Matrix_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/865
+title:Compo Studio: Fast Music|author:AssemblyTV|media:/vod/2009/AssemblyTV/818_compostudio_fast_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/818|youtube:http://www.youtube.com/watch?v=PbC2IRC_4Zs
+title:Compo Studio: Fast Graphics|author:AssemblyTV|media:/vod/2009/AssemblyTV/820_compostudio_fast_graphics_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/820|youtube:http://www.youtube.com/watch?v=aoT2YcTEaz8
+title:Compo Studio: Extreme Music|author:AssemblyTV|media:/vod/2009/AssemblyTV/822_compostudio_extreme_music_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/822|youtube:http://www.youtube.com/watch?v=rg5sFcPpswA
+title:Compo Studio: Extreme Graphics|author:AssemblyTV|media:/vod/2009/AssemblyTV/824_compostudio_extreme_graphics_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/824|youtube:http://www.youtube.com/watch?v=r7WAlweFtX8
+title:Compo Studio: 4k Intro|author:AssemblyTV|media:/vod/2009/AssemblyTV/826_compostudio_4k_intro_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/826|youtube:http://www.youtube.com/watch?v=bHlu5W4QBk0
+title:Compo Studio: Oldskool Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/828_compostudio_oldskool_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/828|youtube:http://www.youtube.com/watch?v=VY8HrlzWcM4
+title:Robo War Finals|author:AssemblyTV|media:/vod/2009/AssemblyTV/829_robo_war_finals_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/829|youtube:http://www.youtube.com/watch?v=2xaFaJf03_I
+title:Compo Studio: Real Wild Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/835_compostudio_realwild_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/835|youtube:http://www.youtube.com/watch?v=Nm6fSpGPKjY
+title:Prize Ceremony #1|author:AssemblyTV|media:/vod/2009/AssemblyTV/836_prize_ceremony_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/836|youtube:http://www.youtube.com/watch?v=DuxaPSjcRmo
+title:Compo Studio: Short Film|author:AssemblyTV|media:/vod/2009/AssemblyTV/838_compostudio_shortfilm_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/838|youtube:http://www.youtube.com/watch?v=aPND_uMBwlI
+title:Compo Studio: Demo|author:AssemblyTV|media:/vod/2009/AssemblyTV/841_compostudio_demo_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/841|youtube:http://www.youtube.com/watch?v=HR5Co--NjvE
+title:Prize Ceremony #2|author:AssemblyTV|media:/vod/2009/AssemblyTV/842_prize_ceremony_2_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/842|youtube:http://www.youtube.com/watch?v=JD3JLAwRTfQ
+title:AssemblyTV 10 years|author:AssemblyTV|media:/vod/2009/AssemblyTV/858_AssemblyTV_10_years_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/858|youtube:http://www.youtube.com/watch?v=gbNU7-RRIDY
+title:AltParty 2009 - Cyberpunk Demoparty|author:AssemblyTV|media:/vod/2009/AssemblyTV/861_Altparty_2009-Cyberpunk_Demoparty_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/861|youtube:http://www.youtube.com/watch?v=KNhUsH2A8Ts
+title:Feminism of Cyberpunk|author:AssemblyTV|media:/vod/2009/AssemblyTV/862_Feminism_of_Cyberpunk_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/862|youtube:http://www.youtube.com/watch?v=vFQrzWoQx0o
+title:Live2011.com - World's biggest digital media art challenge|author:AssemblyTV|media:/vod/2009/AssemblyTV/863_Live2011_com_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/863|youtube:http://www.youtube.com/watch?v=DTqeUyFI6TM
+title:How to train your brain and prepare for the coming Terminators and/or Matrix|author:AssemblyTV|media:/vod/2009/AssemblyTV/865_How_to_train_your_brain_and_prepare_for_the_coming_Terminators_and-or_Matrix_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/865|youtube:http://www.youtube.com/watch?v=M5erri5iD_0
 title:Building a Smarter Planet with Serious Gaming and 3D Virtual Worlds|author:AssemblyTV seminars|media:/vod/2009/Seminars/869_Building_a_Smarter_Planet_with_Serious_Gaming_and_3D_Virtual_Worlds_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/869
 title:Developing graphics technology for non-AAA games|author:AssemblyTV seminars|media:/vod/2009/Seminars/870_Developing_graphics_technology_for_non-AAA_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/870
 title:Demo Programming for Beginners|author:AssemblyTV seminars|media:/vod/2009/Seminars/871_Demo_Programming_for_Beginners_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/871
