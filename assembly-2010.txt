@@ -265,11 +265,6 @@ title:I only dance with my gasmask|author:tzaeru|position:0|sceneorg:/parties/20
 
 ! AssemblyTV
 
-title:ARTtech seminars - Robot Wars|author:AssemblyTV seminars|media:/vod/2010/Seminars/1015_ARTtech_seminars_-_Robot_Wars_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1015
-title:ARTtech seminars - Game Development Education, Clubs, and Cooperative Organizations in Finland|author:AssemblyTV seminars|media:/vod/2010/Seminars/1016_game_developement_e_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1016
-title:ARTtech seminars - Relevance of Security in Networked world|author:AssemblyTV seminars|media:/vod/2010/Seminars/1017_relevance_of_securi_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1017
-title:ARTtech seminars - QT programming|author:AssemblyTV seminars|media:/vod/2010/Seminars/1020_qt_programming_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1020
-title:ARTtech seminars - Experiencing Alan Wake|author:AssemblyTV seminars|media:/vod/2010/Seminars/1021_experiencing_alan_wake_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1021
 title:Opening ceremony|author:AssemblyTV|media:/vod/2010/AssemblyTV/1032_opening_ceremony_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1032
 title:Compostudio - GameDev|author:AssemblyTV|media:/vod/2010/AssemblyTV/1035_compostudio_game-dev_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1035
 title:Compostudio - Executable music and graphics|author:AssemblyTV|media:/vod/2010/AssemblyTV/1041_compostudio_executable_music_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1041
@@ -301,3 +296,11 @@ title:metkunet|author:AssemblyTV|media:/vod/2010/AssemblyTV/1182_metkunet_h264_1
 title:Guitar hero|author:AssemblyTV|media:/vod/2010/AssemblyTV/1183_kitarasankarit_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1183
 title:Robowar finals|author:AssemblyTV|media:/vod/2010/AssemblyTV/1197_robosota_final_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1197
 title:Guest interviews on Saturday|author:AssemblyTV|media:/vod/2010/AssemblyTV/1198_areenafiiliksia_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1198
+
+! Seminars
+
+title:ARTtech seminars - Robot Wars|author:AssemblyTV seminars|media:/vod/2010/Seminars/1015_ARTtech_seminars_-_Robot_Wars_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1015
+title:ARTtech seminars - Game Development Education, Clubs, and Cooperative Organizations in Finland|author:AssemblyTV seminars|media:/vod/2010/Seminars/1016_game_developement_e_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1016
+title:ARTtech seminars - Relevance of Security in Networked world|author:AssemblyTV seminars|media:/vod/2010/Seminars/1017_relevance_of_securi_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1017
+title:ARTtech seminars - QT programming|author:AssemblyTV seminars|media:/vod/2010/Seminars/1020_qt_programming_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1020
+title:ARTtech seminars - Experiencing Alan Wake|author:AssemblyTV seminars|media:/vod/2010/Seminars/1021_experiencing_alan_wake_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1021

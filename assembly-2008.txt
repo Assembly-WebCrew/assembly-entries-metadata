@@ -252,6 +252,15 @@ title:Kalvosinappi - Membrane Mustard by XZM stolen|author:tAAt|position:0|scene
 
 ! AssemblyTV
 
+title:Compo studio: Fast Graphics compo |author:AssemblyTV|media:/vod/2008/AssemblyTV/631_compostudio_fast_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/631|youtube:EwbTrM9DNwY
+title:compo studio: 4k intro |author:AssemblyTV|media:/vod/2008/AssemblyTV/643_compostudio_4k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/643|youtube:suY_T8FD1_U
+title:Microsoft Digigirls -panel discussion|author:AssemblyTV|media:/vod/2008/AssemblyTV/654_microsoft_digigirls_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/654|youtube:4X4nYYXhIas
+title:Alternative Party interview|author:AssemblyTV|media:/vod/2008/AssemblyTV/655_altparty_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/655|youtube:_HEcBz4Ox3M
+title:Compo studio: 64k intro|author:AssemblyTV|media:/vod/2008/AssemblyTV/677_compostudio_64k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/677|youtube:xQZuWEqTJp8
+title:Nokia - Building on Linux|author:AssemblyTV|media:/vod/2008/AssemblyTV/707_nokia-building_on_linux_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/707|youtube:EbHKhzFqs9s
+
+! Seminars
+
 title:ARTtech-seminaari - Sell your Friends vs. WOW epic mounts: the game industry at change|author:AssemblyTV seminars|media:/vod/2008/Seminars/614_sell_your_friends_vs_WOW_epic_mounts_-_the_game_industry_at_change_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/614|youtube:jE5H6asV_GE
 title:ARTtech-seminaari - Iron Sky - Nazis! On the Moon!|author:AssemblyTV seminars|media:/vod/2008/Seminars/616_iron_sky_-_nazis_on_the_moon_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/616|youtube:SZUvu1TB2tE
 title:ARTtech-seminaari - Indie start-up for dummies|author:AssemblyTV seminars|media:/vod/2008/Seminars/618_indie_programming_for_dummies_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/618|youtube:DtaRxL5fwzo
@@ -261,10 +270,4 @@ title:ARTtech-seminaari - Improving the end user experience: Playtesting mobile 
 title:ARTtech-seminaari - Dynamic Mesh Deformation for Car Games|author:AssemblyTV seminars|media:/vod/2008/Seminars/626_dynamic_mesh_deformation_for_car_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/626|youtube:VNS-0cJlpIs
 title:ARTtech-seminaari - Harnessing the power of XGSE|author:AssemblyTV seminars|media:/vod/2008/Seminars/627_harnessing_the_power_of_XGSE_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/627|youtube:qFDqo5OJScw
 title:ARTtech-seminaari - Demo Programming for Beginners|author:AssemblyTV seminars|media:/vod/2008/Seminars/628_demo_programming_for_beginners_h264_896kbit.mp4|guid:http://elaine.assembly.org/programs/628|youtube:QW-0tIYYqnY
-title:Compo studio: Fast Graphics compo |author:AssemblyTV|media:/vod/2008/AssemblyTV/631_compostudio_fast_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/631|youtube:EwbTrM9DNwY
 title:ARTtech-seminaari - Programming on Cell tutorial, top to bottom|author:AssemblyTV seminars|media:/vod/2008/Seminars/634_programming_on_cell_tutorial_top_to_bottom_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/634|youtube:BNZChLnrDv8
-title:compo studio: 4k intro |author:AssemblyTV|media:/vod/2008/AssemblyTV/643_compostudio_4k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/643|youtube:suY_T8FD1_U
-title:Microsoft Digigirls -panel discussion|author:AssemblyTV|media:/vod/2008/AssemblyTV/654_microsoft_digigirls_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/654|youtube:4X4nYYXhIas
-title:Alternative Party interview|author:AssemblyTV|media:/vod/2008/AssemblyTV/655_altparty_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/655|youtube:_HEcBz4Ox3M
-title:Compo studio: 64k intro|author:AssemblyTV|media:/vod/2008/AssemblyTV/677_compostudio_64k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/677|youtube:xQZuWEqTJp8
-title:Nokia - Building on Linux|author:AssemblyTV|media:/vod/2008/AssemblyTV/707_nokia-building_on_linux_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/707|youtube:EbHKhzFqs9s
