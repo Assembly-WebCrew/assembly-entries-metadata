@@ -139,10 +139,10 @@ author:Jami|sceneorg:/parties/2010/assembly10/short/vuosikerta.mp4|title:Vuosike
 author:npli|sceneorg:/parties/2010/assembly10/short/supermouse2000_by_npli.mp4|title:Super Mouse 2000|youtube:mgOwcjbNVEM|position:7|type:external|thumbnail:http://i.ytimg.com/vi/mgOwcjbNVEM/0.jpg
 author:Alphapolygon|sceneorg:/parties/2010/assembly10/short/jack_and_the_photo.avi|title:Jack and the photo|youtube:9wZWcMwXOfo|position:8|type:external|thumbnail:http://i.ytimg.com/vi/9wZWcMwXOfo/0.jpg
 author:Humane|sceneorg:/parties/2010/assembly10/short/hmn-winefromdatap.avi|title:Wine from the tap|youtube:53jYqW-E4o0|position:9|type:external|thumbnail:http://i.ytimg.com/vi/53jYqW-E4o0/0.jpg
-title:Clip Jammin'|author:Kouvola Krew|sceneorgvideo:/parties/2010/assembly10/short/clip_jammin__by_kouvola_krew.avi|position:0
-title:The s-word|author:Moods plateau|sceneorgvideo:/parties/2010/assembly10/short/mds-s-word.avi|position:0
-title:hope had brought us this far|author:Flo & Lackluster|sceneorgvideo:/parties/2010/assembly10/short/hhbutf_by_flo.mp4|position:0
-title:Johanna Rupiainen esittelee kotinsa|author:Stickletti|sceneorgvideo:/parties/2010/assembly10/short/rupiainen.mpg|position:0
+title:Clip Jammin'|author:Kouvola Krew|sceneorgvideo:/parties/2010/assembly10/short/clip_jammin__by_kouvola_krew.avi|position:0|youtube:http://www.youtube.com/watch?v=sie4oDWpZUY
+title:The s-word|author:Moods plateau|sceneorgvideo:/parties/2010/assembly10/short/mds-s-word.avi|position:0|youtube:http://www.youtube.com/watch?v=HxLbrM7rNo4
+title:hope had brought us this far|author:Flo & Lackluster|sceneorgvideo:/parties/2010/assembly10/short/hhbutf_by_flo.mp4|position:0|youtube:http://www.youtube.com/watch?v=LC8fwgxmQs4
+title:Johanna Rupiainen esittelee kotinsa|author:Stickletti|sceneorgvideo:/parties/2010/assembly10/short/rupiainen.mpg|position:0|youtube:http://www.youtube.com/watch?v=82nYw7yP4zE
 
 
 ! GameDev
