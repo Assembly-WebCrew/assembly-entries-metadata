@@ -307,24 +307,24 @@ title:Auringonkukka|author:ankkis / sitruslapset|position:0|webfile:freestyle_gr
 
 ! AssemblyTV
 
-title:Visitor interview 3|author:AssemblyTV|media:/vod/2007/AssemblyTV/257_visitorinterview3_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/257|youtube:http://www.youtube.com/watch?v=Oi0e3oqeu5A
-title:Assembly Update 1|author:AssemblyTV|media:/vod/2007/AssemblyTV/259_asmupdate1_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/259|youtube:http://www.youtube.com/watch?v=RoN2XP1lGfo
-title:Visitor Interview 1|author:AssemblyTV|media:/vod/2007/AssemblyTV/271_visitorinterview1_h264_1856kbps.mp4|guid:1|youtube:http://www.youtube.com/watch?v=FTq9O6gwk3I
-title:Assembly Update 2|author:AssemblyTV|media:/vod/2007/AssemblyTV/284_asmupdate2_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/284|youtube:http://www.youtube.com/watch?v=X9x_7fn8BbY
-title:Assembly Update 3|author:AssemblyTV|media:/vod/2007/AssemblyTV/287_asmupdate3_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/287|youtube:http://www.youtube.com/watch?v=PF9_8-e6YWc
-title:Assembly Update 6|author:AssemblyTV|media:/vod/2007/AssemblyTV/292_asmupdate6_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/292|youtube:http://www.youtube.com/watch?v=eI33CuryIzM
-title:Assembly Update 7|author:AssemblyTV|media:/vod/2007/AssemblyTV/294_asmupdate7_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/294|youtube:http://www.youtube.com/watch?v=p2mtbMffs_0
-title:Regular Visitors interview|author:AssemblyTV|media:/vod/2007/AssemblyTV/332_regularvisitors1_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/298|youtube:http://www.youtube.com/watch?v=PvsSzO9ztbk
-title:Saunalahti -revolutionising tv|author:AssemblyTV|media:/vod/2007/AssemblyTV/322_saunalahtitv_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/322|youtube:http://www.youtube.com/watch?v=5vRkLragrJ8
-title:F-Secure|author:AssemblyTV|media:/vod/2007/AssemblyTV/323_fsecure_interview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/323|youtube:http://www.youtube.com/watch?v=nyC0mWI-2vU
-title:Interview: Fennogrid|author:AssemblyTV|media:/vod/2007/AssemblyTV/324_fennogrid_interview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/324|youtube:http://www.youtube.com/watch?v=6XUX7S8dk1M
-title:Band interview - DCX|author:AssemblyTV|media:/vod/2007/AssemblyTV/326_dcx_haastattelu_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/326|youtube:http://www.youtube.com/watch?v=udNC-SF5jQ0
-title:Asus overclocking|author:AssemblyTV|media:/vod/2007/AssemblyTV/364_ylikellotus_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/364|youtube:http://www.youtube.com/watch?v=gNGFNWjwJQI
-title:Notebook gaming|author:AssemblyTV|media:/vod/2007/AssemblyTV/365_notebookgaming_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/365|youtube:http://www.youtube.com/watch?v=rL-1VF22eig
-title:Limbo -project 3/3|author:AssemblyTV seminars|media:/vod/2007/Seminars/394_limbo33_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/394|youtube:http://www.youtube.com/watch?v=iLe59rmhkLg
-title:Video on Demand|author:AssemblyTV|media:/vod/2007/AssemblyTV/395_vodinterview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/395|youtube:http://www.youtube.com/watch?v=ol-G1FeB0c4
-title:Asus Motherboards|author:AssemblyTV|media:/vod/2007/AssemblyTV/396_asus_motherboards_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/396|youtube:http://www.youtube.com/watch?v=lUil27yi4w0
-title:Compostudio: 64k intro|author:AssemblyTV|media:/vod/2007/AssemblyTV/400_64kintrocompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/400|youtube:http://www.youtube.com/watch?v=cFu6nvIaCnI
-title:Compostudio: Demo compo|author:AssemblyTV|media:/vod/2007/AssemblyTV/402_democompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/402|youtube:http://www.youtube.com/watch?v=FJRYM_HLi1M
-title:Pelikone.fi|author:AssemblyTV seminars|media:/vod/2007/Seminars/405_pelikone_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/405|youtube:http://www.youtube.com/watch?v=zwRufUbVYyI
-title:After Starwreck|author:AssemblyTV seminars|media:/vod/2007/Seminars/408_starwreck_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/408|youtube:http://www.youtube.com/watch?v=XVSO-BZ1cqw
+title:Visitor interview 3|author:AssemblyTV|media:/vod/2007/AssemblyTV/257_visitorinterview3_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/257|youtube:Oi0e3oqeu5A
+title:Assembly Update 1|author:AssemblyTV|media:/vod/2007/AssemblyTV/259_asmupdate1_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/259|youtube:RoN2XP1lGfo
+title:Visitor Interview 1|author:AssemblyTV|media:/vod/2007/AssemblyTV/271_visitorinterview1_h264_1856kbps.mp4|guid:1|youtube:FTq9O6gwk3I
+title:Assembly Update 2|author:AssemblyTV|media:/vod/2007/AssemblyTV/284_asmupdate2_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/284|youtube:X9x_7fn8BbY
+title:Assembly Update 3|author:AssemblyTV|media:/vod/2007/AssemblyTV/287_asmupdate3_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/287|youtube:PF9_8-e6YWc
+title:Assembly Update 6|author:AssemblyTV|media:/vod/2007/AssemblyTV/292_asmupdate6_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/292|youtube:eI33CuryIzM
+title:Assembly Update 7|author:AssemblyTV|media:/vod/2007/AssemblyTV/294_asmupdate7_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/294|youtube:p2mtbMffs_0
+title:Regular Visitors interview|author:AssemblyTV|media:/vod/2007/AssemblyTV/332_regularvisitors1_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/298|youtube:PvsSzO9ztbk
+title:Saunalahti -revolutionising tv|author:AssemblyTV|media:/vod/2007/AssemblyTV/322_saunalahtitv_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/322|youtube:5vRkLragrJ8
+title:F-Secure|author:AssemblyTV|media:/vod/2007/AssemblyTV/323_fsecure_interview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/323|youtube:nyC0mWI-2vU
+title:Interview: Fennogrid|author:AssemblyTV|media:/vod/2007/AssemblyTV/324_fennogrid_interview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/324|youtube:6XUX7S8dk1M
+title:Band interview - DCX|author:AssemblyTV|media:/vod/2007/AssemblyTV/326_dcx_haastattelu_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/326|youtube:udNC-SF5jQ0
+title:Asus overclocking|author:AssemblyTV|media:/vod/2007/AssemblyTV/364_ylikellotus_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/364|youtube:gNGFNWjwJQI
+title:Notebook gaming|author:AssemblyTV|media:/vod/2007/AssemblyTV/365_notebookgaming_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/365|youtube:rL-1VF22eig
+title:Limbo -project 3/3|author:AssemblyTV seminars|media:/vod/2007/Seminars/394_limbo33_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/394|youtube:iLe59rmhkLg
+title:Video on Demand|author:AssemblyTV|media:/vod/2007/AssemblyTV/395_vodinterview_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/395|youtube:ol-G1FeB0c4
+title:Asus Motherboards|author:AssemblyTV|media:/vod/2007/AssemblyTV/396_asus_motherboards_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/396|youtube:lUil27yi4w0
+title:Compostudio: 64k intro|author:AssemblyTV|media:/vod/2007/AssemblyTV/400_64kintrocompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/400|youtube:cFu6nvIaCnI
+title:Compostudio: Demo compo|author:AssemblyTV|media:/vod/2007/AssemblyTV/402_democompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/402|youtube:FJRYM_HLi1M
+title:Pelikone.fi|author:AssemblyTV seminars|media:/vod/2007/Seminars/405_pelikone_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/405|youtube:zwRufUbVYyI
+title:After Starwreck|author:AssemblyTV seminars|media:/vod/2007/Seminars/408_starwreck_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/408|youtube:XVSO-BZ1cqw
