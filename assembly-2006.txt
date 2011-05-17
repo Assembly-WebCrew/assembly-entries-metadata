@@ -316,19 +316,25 @@ title:Tooth Brush Chain|author:AssemblyTV|media:/vod/2006/assemblytv/207_hammash
 
 ! Seminars
 
-title:Seminar: Linux 4k coding|author:AssemblyTV seminars|media:/vod/2006/seminars/59_seminar_linux_4k_coding_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/59|youtube:-UQSiRg8Ra0
-title:Seminar: Mobility with MUPE - developer's point of view|author:AssemblyTV seminars|media:/vod/2006/seminars/62_seminar_mobility_with_mupe_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/62|youtube:ixzCubtmb60
-title:Seminar: The Art of Pixels: from sprites to Photoshop|author:AssemblyTV seminars|media:/vod/2006/seminars/63_seminar_art_of_pixels_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/63|youtube:wTCJnbajL9U
-title:Seminar: The Neglected Art of Fixed Point Arithmetic|author:AssemblyTV seminars|media:/vod/2006/seminars/65_seminar_neglected_art_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/65|youtube:jvrPw-nxFdk
-title:Seminar: The New Procedure|author:AssemblyTV seminars|media:/vod/2006/seminars/92_seminar_the_new_procedure_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/92|youtube:jddVjPaq4W8
-title:Seminar: "It ain't 1996 anymore" - entry into today's games industry|author:AssemblyTV seminars|media:/vod/2006/seminars/94_seminar_it_aint_1996_anymore_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/94|youtube:g0t70vnOp5Q
-title:Seminar: History and Future of 3D audio|author:AssemblyTV seminars|media:/vod/2006/seminars/95_history_and_future_of_3d_audio_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/95|youtube:5XTEPDgyE0U
-title:Seminar: World of Viruses|author:AssemblyTV seminars|media:/vod/2006/seminars/97_seminar_world_of_viruses_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/97|youtube:sv1zs8THH1Y
-title:Seminar: Standards and Opera|author:AssemblyTV seminars|media:/vod/2006/seminars/98_seminar_standards_and_opera_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/98|youtube:gsbyqIkU6i4
-title:Seminar: Opera Mini: coping with J2ME fragmentation|author:AssemblyTV seminars|media:/vod/2006/seminars/99_seminar_opera_mini_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/99|youtube:XqcJy4IU2rs
-title:Seminar: Keynote: Star Wreck|author:AssemblyTV seminars|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/130|youtube:VQhyXLjYv9w
-title:Seminar: Getting a job in games|author:AssemblyTV seminars|media:/vod/2006/seminars/138_seminar_getting_a_job_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/138|youtube:GJOMhnutMKU
-title:Seminar: Bringing your first game to market|author:AssemblyTV seminars|media:/vod/2006/seminars/140_seminar_bringing_your_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/140|youtube:x3QbHKE3h5c
-title:Seminar: Experiences from 10 years of game development|author:AssemblyTV seminars|media:/vod/2006/seminars/141_seminar_experiences_from_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/141|youtube:f_-iawuLSDk
-title:Seminar: Silent Grove Studios - a story of a start-up game developer|author:AssemblyTV seminars|media:/vod/2006/seminars/142_seminar_silent_grove_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/142|youtube:oPntn6OHCxY
-title:Seminar: Snowflake Studios & Online development|author:AssemblyTV seminars|media:/vod/2006/seminars/143_seminar_snowflake_studios_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/143|youtube:sk8SgJ03-KY
+title:Keynote: Star Wreck - and more!|author:Samuli Torssonen, Timo Vuorensola, Atte Joutsen, Jarmo Puskala|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/130|youtube:VQhyXLjYv9w
+title:Linux 4k coding|author:Markku Reunanen|media:/vod/2006/seminars/59_seminar_linux_4k_coding_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/59|youtube:-UQSiRg8Ra0
+title:Mobility with MUPE - developer's point of view|author:Matti Nelimarkka|media:/vod/2006/seminars/62_seminar_mobility_with_mupe_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/62|youtube:ixzCubtmb60
+title:The Art of Pixels: from sprites to Photoshop|author:Tamas Polgar|media:/vod/2006/seminars/63_seminar_art_of_pixels_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/63|youtube:wTCJnbajL9U
+title:The Neglected Art of Fixed Point Arithmetic|author:Jetro Lauha|media:/vod/2006/seminars/65_seminar_neglected_art_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/65|youtube:jvrPw-nxFdk
+title:Cutting corners, not polygons|author:Eivind Liland, Erik Faye-Lund
+title:Games development using Microsoft XNA Studio|author:Aali Alikoski
+title:Direct3D 10 essentials|author:Niko Suni
+title:The New Procedure|author:Nick Rooke|media:/vod/2006/seminars/92_seminar_the_new_procedure_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/92|youtube:jddVjPaq4W8
+title:Mobile 3D hardware|author:Umesh Gowda
+title:"It ain't 1996 anymore" - entry into today's games industry|author:Matias Myllyrinne|media:/vod/2006/seminars/94_seminar_it_aint_1996_anymore_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/94|youtube:g0t70vnOp5Q
+title:History and Future of 3D audio|author:Peter Harrison|media:/vod/2006/seminars/95_history_and_future_of_3d_audio_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/95|youtube:5XTEPDgyE0U
+title:World of Viruses|author:Mikko Hyppönen|media:/vod/2006/seminars/97_seminar_world_of_viruses_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/97|youtube:sv1zs8THH1Y
+title:Standards and Opera|author:Charles McCathieNevile, Gorm Eriksen|media:/vod/2006/seminars/98_seminar_standards_and_opera_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/98|youtube:gsbyqIkU6i4
+title:Opera Mini: coping with J2ME fragmentation|author:Balder Mørk|media:/vod/2006/seminars/99_seminar_opera_mini_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/99|youtube:XqcJy4IU2rs
+title:The Naked PSP|author:TyRaNiD
+title:Getting a job in games|author:Jussi Laakkonen|media:/vod/2006/seminars/138_seminar_getting_a_job_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/138|youtube:GJOMhnutMKU
+title:Bringing your first game to market|author:Johan Sjöberg|media:/vod/2006/seminars/140_seminar_bringing_your_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/140|youtube:x3QbHKE3h5c
+title:Experiences from 10 years of game development|author:Tobias Sjögren|media:/vod/2006/seminars/141_seminar_experiences_from_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/141|youtube:f_-iawuLSDk
+title:Silent Grove Studios - a story of a start-up game developer|author:Henrik Öquist|media:/vod/2006/seminars/142_seminar_silent_grove_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/142|youtube:oPntn6OHCxY
+title:Snowflake Studios & Online development|author:Lasse Liljedahl|media:/vod/2006/seminars/143_seminar_snowflake_studios_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/143|youtube:sk8SgJ03-KY
+title:AMD|author:Joakim Stenberg

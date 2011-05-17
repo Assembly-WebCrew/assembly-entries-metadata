@@ -261,13 +261,24 @@ title:Nokia - Building on Linux|author:AssemblyTV|media:/vod/2008/AssemblyTV/707
 
 ! Seminars
 
-title:ARTtech-seminaari - Sell your Friends vs. WOW epic mounts: the game industry at change|author:AssemblyTV seminars|media:/vod/2008/Seminars/614_sell_your_friends_vs_WOW_epic_mounts_-_the_game_industry_at_change_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/614|youtube:jE5H6asV_GE
-title:ARTtech-seminaari - Iron Sky - Nazis! On the Moon!|author:AssemblyTV seminars|media:/vod/2008/Seminars/616_iron_sky_-_nazis_on_the_moon_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/616|youtube:SZUvu1TB2tE
-title:ARTtech-seminaari - Indie start-up for dummies|author:AssemblyTV seminars|media:/vod/2008/Seminars/618_indie_programming_for_dummies_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/618|youtube:DtaRxL5fwzo
-title:ARTtech-seminaari - Gaming: How AMD is changing how Gamers Game|author:AssemblyTV seminars|media:/vod/2008/Seminars/620_gaming_-_how_AMD_is_changing_how_gamers_game_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/620|youtube:96iiCcvDiGg
-title:ARTtech-seminaari - Playing with Robots both real and virtual|author:AssemblyTV seminars|media:/vod/2008/Seminars/622_playing_with_robots_both_real_and_virtual_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/622|youtube:SjdlEqZNvPM
-title:ARTtech-seminaari - Improving the end user experience: Playtesting mobile games|author:AssemblyTV seminars|media:/vod/2008/Seminars/623_improving_the_end_user_experience_-_playtesting_mobile_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/623|youtube:uH4gjZqzVu4
-title:ARTtech-seminaari - Dynamic Mesh Deformation for Car Games|author:AssemblyTV seminars|media:/vod/2008/Seminars/626_dynamic_mesh_deformation_for_car_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/626|youtube:VNS-0cJlpIs
-title:ARTtech-seminaari - Harnessing the power of XGSE|author:AssemblyTV seminars|media:/vod/2008/Seminars/627_harnessing_the_power_of_XGSE_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/627|youtube:qFDqo5OJScw
-title:ARTtech-seminaari - Demo Programming for Beginners|author:AssemblyTV seminars|media:/vod/2008/Seminars/628_demo_programming_for_beginners_h264_896kbit.mp4|guid:http://elaine.assembly.org/programs/628|youtube:QW-0tIYYqnY
-title:ARTtech-seminaari - Programming on Cell tutorial, top to bottom|author:AssemblyTV seminars|media:/vod/2008/Seminars/634_programming_on_cell_tutorial_top_to_bottom_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/634|youtube:BNZChLnrDv8
+title:Stone's War|author:Marko Mäkilaakso
+title:Iron Sky - Nazis! On the Moon!|author:Timo Vuorensola|media:/vod/2008/Seminars/616_iron_sky_-_nazis_on_the_moon_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/616|youtube:SZUvu1TB2tE
+title:Iron Sky - Workflow of the production|author:Timo Vuorensola
+title:Improving the end user experience: Playtesting mobile games|author:Elina Ollila|media:/vod/2008/Seminars/623_improving_the_end_user_experience_-_playtesting_mobile_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/623|youtube:uH4gjZqzVu4
+title:Making of Crayon Physics Deluxe or How I Got Lucky and Won the IGF|author:Petri Purho
+title:Gaming: How AMD is changing how Gamers "Game"|author:Ian McNaughton|media:/vod/2008/Seminars/620_gaming_-_how_AMD_is_changing_how_gamers_game_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/620|youtube:96iiCcvDiGg
+title:Playing with Robots both real and virtual|author:Paul Foster|media:/vod/2008/Seminars/622_playing_with_robots_both_real_and_virtual_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/622|youtube:SjdlEqZNvPM
+title:The demoscene explained, and more!|author:Nina Høegh-Larsen, Jaakko Kaitaniemi, Cesare Castiglia, Matt Swoboda, Jussi Laakkonen
+title:Alternative Party presents: Avant-Garde Video Art meets Demoscene and Steampunk|author:Kari Yli-Annala, Pilvari Pirtola, Kristoffer Lawson, Mikko Tuomela
+title:Demo Programming for Beginners|author:Martti Nurmikari|media:/vod/2008/Seminars/628_demo_programming_for_beginners_h264_896kbit.mp4|guid:http://elaine.assembly.org/programs/628|youtube:QW-0tIYYqnY
+title:Programming on Cell tutorial, top to bottom|author:Arnd Bergmann|media:/vod/2008/Seminars/634_programming_on_cell_tutorial_top_to_bottom_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/634|youtube:BNZChLnrDv8
+title:Harnessing the power of XGSE|author:Gergely Szelei Kis|media:/vod/2008/Seminars/627_harnessing_the_power_of_XGSE_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/627|youtube:qFDqo5OJScw
+title:Housemarque's cross platform engine design|author:Jere Sanisalo
+title:Meaning of Life – Game AI demystified|author:Mikko Mononen
+title:Fighting Organized Online Crime|author:Mikko Hyppönen
+title:Indie start-up for dummies: unavoidable mistakes, self-induced
+ misery and a surprising amount of luck|author:Jani Kahrama, Jetro Lauha|media:/vod/2008/Seminars/618_indie_programming_for_dummies_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/618|youtube:DtaRxL5fwzo
+title:Sell your Friends vs. WOW epic mounts: the game industry at change|author:Jussi Laakkonen|media:/vod/2008/Seminars/614_sell_your_friends_vs_WOW_epic_mounts_-_the_game_industry_at_change_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/614|youtube:jE5H6asV_GE
+title:Dynamic Mesh Deformation for Car Games|author:Johannes Rajala|media:/vod/2008/Seminars/626_dynamic_mesh_deformation_for_car_games_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/626|youtube:VNS-0cJlpIs
+title:Visibility optimization for games|author:Teppo Soininen
+title:XNA for Aspiring Game Developers|author:Teemu Haila

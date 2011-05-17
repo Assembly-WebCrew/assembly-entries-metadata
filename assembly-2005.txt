@@ -364,24 +364,26 @@ title:Kun valot sammuivat|author:AssemblyTV|media:/vod/2005/assemblytv/98_kun_va
 
 ! Seminars
 
-title:3D collision and animation systems by Jani Kajala|author:AssemblyTV seminars|media:/vod/2005/seminars/3d_collision_and_animation_systems_by_jani_kajala.avi|youtube:43Wy75KR-_A
-title:AMD by Joakim Stenberg|author:AssemblyTV seminars|media:/vod/2005/seminars/amd_by_joakim_stenberg.avi|youtube:YT6V380L4s8
-title:Asus AI-boost, AI-life by Markus Koskela|author:AssemblyTV seminars|media:/vod/2005/seminars/asus_ai-boost_ai-life_by_markus_koskela.avi|youtube:bRkV3ehBRAM
-title:ATI Crossfire by Richard Huddy|author:AssemblyTV seminars|media:/vod/2005/seminars/ati_crossfire_by_richard_huddy.avi|youtube:2tV6QLtmHa0
-title:Crafting a 3D-engine by Dierk Ohlerich|author:AssemblyTV seminars|media:/vod/2005/seminars/crafting_a_3d-engine_by_dierk_ohlerich.avi|youtube:Oo-jlpvhTcY
-title:Crinkler compressing Windows 4k intros by Aske Christensen|author:AssemblyTV seminars|media:/vod/2005/seminars/crinkler_compressing_windows_4k_intros_by_aske_christensen.avi|youtube:VIzg9NCW3rs
-title:Development and testing with VS 2005 team system by Aali Alikoski|author:AssemblyTV seminars|media:/vod/2005/seminars/development_and_testing_with_vs_2005_team_system_by_aali_alikoski.avi|youtube:3HHCTYebKZI
-title:EA Tiburon by Steve Chiang|author:AssemblyTV seminars|media:/vod/2005/seminars/ea_tiburon_by_steve_chiang.avi|youtube:esXRX06kM4Y
-title:Flatout - behind the scenes by Jussi Laakkonen|author:AssemblyTV seminars|media:/vod/2005/seminars/flatout_behind_the_scenes_by_jussi_laakkonen.avi|youtube:DVlfGX6FRPc
-title:Freax - history of the demoscene by Tamas Polgar|author:AssemblyTV seminars|media:/vod/2005/seminars/freax_history_of_the_demoscene_by_tamas_polgar.avi|youtube:1XZ9dZIr7Cw
-title:Frozenbyte - the story of Finnish sisu by Joel Kinnunen and Lauri Hyvärinen|author:AssemblyTV seminars|media:/vod/2005/seminars/frozenbyte_the_story_of_finnish_sisu_by_joel_kinnunen_and_lauri_hyvarinen.avi|youtube:LwDzsRd8SrU
-title:Gentle introduction to physics by Jetro Lauha|author:AssemblyTV seminars|media:/vod/2005/seminars/gentle_introduction_to_physics_by_jetro_lauha.avi|youtube:hNj1LdmkhUQ
-title:Getting rid of audio aliasing by Tammo Hinrichs|author:AssemblyTV seminars|media:/vod/2005/seminars/getting_rid_of_audio_aliasing_by_tammo_hinrichs.avi|youtube:oJ6M-JDyeXU
-title:Implementing OpenGL ES by Petri Kero|author:AssemblyTV seminars|media:/vod/2005/seminars/implementing_opengl_es_by_petri_kero.avi|youtube:GTxzGAht8C4
-title:Portable demo coding by Markku Reunanen|author:AssemblyTV seminars|media:/vod/2005/seminars/portable_demo_coding_by_markku_reunanen.avi|youtube:SCFBrTVB30U
-title:Real world mobile game design by Tim Lönnqvist|author:AssemblyTV seminars|media:/vod/2005/seminars/real_world_mobile_game_design_by_tim_lonnqvist.avi|youtube:t2FdgLNIzAY
-title:Small size - big sound by Gergely Szelei|author:AssemblyTV seminars|media:/vod/2005/seminars/small_size_big_sound_by_gergely_szelei.avi|youtube:8RDsDjJfgZM
-title:Speed optimization techniques by Fabian Giesen|author:AssemblyTV seminars|media:/vod/2005/seminars/speed_optimization_techniquest_by_fabian_giesen.avi|youtube:TGru1kZYI_c
-title:State of the art in Amiga 4k by Aske Christen|author:AssemblyTV seminars|media:/vod/2005/seminars/state_of_the_art_in_amiga_4k_by_aske_christen.avi|youtube:zv0R6ItVpiE
-title:The best of 4k intros by Matti Palosuo|author:AssemblyTV seminars|media:/vod/2005/seminars/the_best_of_4k_intros_by_matti_palosuo.avi|youtube:M9FDWRTuPCk
-title:Web sites with VS 2005 Web Dev Express by Aali Alikoski|author:AssemblyTV seminars|media:/vod/2005/seminars/web_sites_with_vs_2005_web_dev_express_by_aali_alikoski.avi|youtube:JbYT6N29-3Q
+title:Best of 4k intros|author:Matti Palosuo|media:/vod/2005/seminars/the_best_of_4k_intros_by_matti_palosuo.avi|youtube:M9FDWRTuPCk
+title:Implementing OpenGL ES on Embedded Devices|author:Petri Kero|media:/vod/2005/seminars/implementing_opengl_es_by_petri_kero.avi|youtube:GTxzGAht8C4
+title:Mobile 3D|author:Petri Nordlund
+title:Freax - history of the demoscene|author:Tamas Polgar|media:/vod/2005/seminars/freax_history_of_the_demoscene_by_tamas_polgar.avi|youtube:1XZ9dZIr7Cw
+title:My studies at EVTEK|author:Jeremie Matsuda
+title:What's hot at AMD|author:Joakim Stenberg|media:/vod/2005/seminars/amd_by_joakim_stenberg.avi|youtube:YT6V380L4s8
+title:"When light speed is not enough" - speed optimization techniques|author:Fabian Giesen|media:/vod/2005/seminars/speed_optimization_techniquest_by_fabian_giesen.avi|youtube:TGru1kZYI_c
+title:Getting rid of audio aliasing|author:Tammo Hinrichs|media:/vod/2005/seminars/getting_rid_of_audio_aliasing_by_tammo_hinrichs.avi|youtube:oJ6M-JDyeXU
+title:Fast & Easy web sites with Visual Studio 2005 Web Developer Express and C#|author:Aali Alikoski|media:/vod/2005/seminars/web_sites_with_vs_2005_web_dev_express_by_aali_alikoski.avi|youtube:JbYT6N29-3Q
+title:Professional development and Testing with Visual Studio 2005 Team System|author:Aali Alikoski|media:/vod/2005/seminars/development_and_testing_with_vs_2005_team_system_by_aali_alikoski.avi|youtube:3HHCTYebKZI
+title:Portable demo coding|author:Markku Reunanen|media:/vod/2005/seminars/portable_demo_coding_by_markku_reunanen.avi|youtube:SCFBrTVB30U
+title:Crafting a 3D-engine|author:Dierk Ohlerich|media:/vod/2005/seminars/crafting_a_3d-engine_by_dierk_ohlerich.avi|youtube:Oo-jlpvhTcY
+title:EA Tiburon|author:Steve Chiang|media:/vod/2005/seminars/ea_tiburon_by_steve_chiang.avi|youtube:esXRX06kM4Y
+title:Crinkler - compressing Windows 4k intros to EXE files|author:Aske Christensen|media:/vod/2005/seminars/crinkler_compressing_windows_4k_intros_by_aske_christensen.avi|youtube:VIzg9NCW3rs
+title:Small size, big sound|author:Gergely Szelei|media:/vod/2005/seminars/small_size_big_sound_by_gergely_szelei.avi|youtube:8RDsDjJfgZM
+title:FlatOut - behind the scenes|author:Jussi Laakkonen|media:/vod/2005/seminars/flatout_behind_the_scenes_by_jussi_laakkonen.avi|youtube:DVlfGX6FRPc
+title:Frozenbyte - the story of Finnish Sisu|author:Joel Kinnunen, Lauri Hyvärinen|media:/vod/2005/seminars/frozenbyte_the_story_of_finnish_sisu_by_joel_kinnunen_and_lauri_hyvarinen.avi|youtube:LwDzsRd8SrU
+title:Real world mobile game design|author:Tim Lönnqvist|media:/vod/2005/seminars/real_world_mobile_game_design_by_tim_lonnqvist.avi|youtube:t2FdgLNIzAY
+title:Ai-boost|author:Markus Koskela|media:/vod/2005/seminars/asus_ai-boost_ai-life_by_markus_koskela.avi|youtube:bRkV3ehBRAM
+title:Gentle Introduction to Physics in Games and Demos|author:Jetro Lauha|media:/vod/2005/seminars/gentle_introduction_to_physics_by_jetro_lauha.avi|youtube:hNj1LdmkhUQ
+title:3D collision and animation systems|author:Jani Kajala|media:/vod/2005/seminars/3d_collision_and_animation_systems_by_jani_kajala.avi|youtube:43Wy75KR-_A
+title:The state of the art in Amiga 4k intro programming|author:Aske Christensen|media:/vod/2005/seminars/state_of_the_art_in_amiga_4k_by_aske_christen.avi|youtube:zv0R6ItVpiE
+title:ATI Crossfire|author:Richard Huddy|media:/vod/2005/seminars/ati_crossfire_by_richard_huddy.avi|youtube:2tV6QLtmHa0

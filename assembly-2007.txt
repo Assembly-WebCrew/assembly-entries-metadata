@@ -325,9 +325,26 @@ title:Video on Demand|author:AssemblyTV|media:/vod/2007/AssemblyTV/395_vodinterv
 title:Asus Motherboards|author:AssemblyTV|media:/vod/2007/AssemblyTV/396_asus_motherboards_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/396|youtube:lUil27yi4w0
 title:Compostudio: 64k intro|author:AssemblyTV|media:/vod/2007/AssemblyTV/400_64kintrocompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/400|youtube:cFu6nvIaCnI
 title:Compostudio: Demo compo|author:AssemblyTV|media:/vod/2007/AssemblyTV/402_democompostudio_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/402|youtube:FJRYM_HLi1M
+title:Limbo -project 3/3|author:AssemblyTV|media:/vod/2007/Seminars/394_limbo33_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/394|youtube:iLe59rmhkLg
+title:Pelikone.fi|author:AssemblyTV|media:/vod/2007/Seminars/405_pelikone_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/405|youtube:zwRufUbVYyI
+title:After Starwreck|author:AssemblyTV|media:/vod/2007/Seminars/408_starwreck_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/408|youtube:XVSO-BZ1cqw
 
 ! Seminars
 
-title:Limbo -project 3/3|author:AssemblyTV seminars|media:/vod/2007/Seminars/394_limbo33_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/394|youtube:iLe59rmhkLg
-title:Pelikone.fi|author:AssemblyTV seminars|media:/vod/2007/Seminars/405_pelikone_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/405|youtube:zwRufUbVYyI
-title:After Starwreck|author:AssemblyTV seminars|media:/vod/2007/Seminars/408_starwreck_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/408|youtube:XVSO-BZ1cqw
+title:Motion Capture in Animation|author:Samuli Homanen, Petri Paananen
+title:Grids - The world is just about enough|author:Kalle Happonen, Antti Pirinen
+title:Non-photorealistic rendering|author:Ville-Kalle Arponen
+title:Immediate Mode Graphical User Interfaces (IMGUI)|author:Jetro Lauha, Jari Komppa
+title:Demoscene outreach panel|author:Bent Stamnes, Sir Garbagetruck, Gergely Szelei Kis, Mika Rautio
+title:Anima - animation studio from Sörnäinen|author:Petteri Pasanen
+title:.NET: Silverlight|author:Peter Green
+title:.NET: XNA - .NET for the Xbox 360!|author:Peter Green
+title:Next Generation GPU's - What to expect|author:Juha Järvinen
+title:Efficient development for OpenGL ES 2.0|author:Jason Hewitt
+title:AMD's DirectX 10 Hardware in details|author:Richard Huddy
+title:Utilizing the PS3 hardware in Super Stardust HD|author:Jere Sanisalo
+title:From Finland to USA and China - a game developer's journey|author:Jani Penttinen
+title:Next-gen Game Design|author:Aki Raula
+title:Coding for 64 kilobytes in GNU/Linux|author:Mika Rautio
+title:Building the Colossus: Iron Sky|author:Energia Productions team
+title:Computer graphics research at TKK|author:Lauri Savioja, Ari Silvennoinen
