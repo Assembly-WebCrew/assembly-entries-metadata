@@ -20,12 +20,15 @@ title:Jormuan Lava|author:Ukulele/Banal Projects|position:6|webfile:4_channel_mu
 title:Rymdfunk|author:Radix/Limited Edition|position:7|webfile:4_channel_music/rymdfunk_by_radix_limited_edition.mp3|sceneorg:/parties/1995/assembly95/m4ch/rymdfunk.zip|youtube:yQTvQaXZ2i8
 title:Suuntaviivat|author:Dizzy/CNCD|position:8|webfile:4_channel_music/suuntaviivat_by_dizzy_cncd.mp3|sceneorg:/parties/1995/assembly95/m4ch/suunta.zip|youtube:27FcKrHjC5U
 title:Get it|author:Brem/Bomb Squad|position:9|webfile:4_channel_music/get_it_by_brem_bomb_squad.mp3|sceneorg:/parties/1995/assembly95/m4ch/getit.zip|youtube:gUYcIZvpDn8
-title:Pop Huora|author:Groo/CNCD|position:10|webfile:4_channel_music/pop_huora_by_groo_cncd.mp3|sceneorg:/parties/1995/assembly95/m4ch/groovecn.zip|youtube:DWb0AossDuM
+title:Pop Huora|author:Groo/CNCD|position:10
 title:Balthazar|author:Andy/Banal Projects|position:11|webfile:4_channel_music/balthazar_by_andy_banal_projects.mp3|sceneorg:/parties/1995/assembly95/m4ch/balthasa.zip|youtube:osh4gEfkoXk
 title:The Robot Kingdom|author:Boheme/Bomb Squad|position:12
 title:Holocaust|author:Sphinx/Fanatic|position:13|webfile:4_channel_music/holocaust_by_sphinx_fanatic.mp3|sceneorg:/parties/1995/assembly95/m4ch/holocaus.zip|youtube:cdeQhQS4nWM
 title:Chuynia|author:Yoga/United Artists|position:14|webfile:4_channel_music/chuynia_by_yoga_united_artists.mp3|sceneorg:/parties/1995/assembly95/m4ch/chujnia.zip|youtube:0a4ltY5Go_0
 title:Blowing House|author:Dj. Roberto|position:15|webfile:4_channel_music/blowing_house_by_dj_roberto.mp3|sceneorg:/parties/1995/assembly95/m4ch/houseblw.zip|youtube:qRPuBmN4Kl8
+
+title:Groove Connexion|author:Mccoy/Scoopex|position:0|webfile:4_channel_music/groove_connexion_by_mccoy_scoopex.mp3|sceneorg:/parties/1995/assembly95/m4ch/groovecn.zip|youtube:DWb0AossDuM
+
 
 ! C64 graphics
 
