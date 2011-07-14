@@ -348,9 +348,9 @@ title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_tr
 
 ! PC demo
 
-title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295
+title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295|cappedtv:trauma-gateways&width=640&height=400
 title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147
-title:tour|author:pulse|position:3|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|pouet:1088
+title:tour|author:pulse|position:3|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|pouet:1088|cappedtv:pulse_pygmy_projects_virtual_d-tour&width=640&height=480
 title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|pouet:308|dtv:id_file=2444&id_prod=9286&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/308.jpg&width=512&height=404
 title:Vague Space|author:cncd|position:5|sceneorg:/parties/1998/assembly98/pcdemo/vague_sp.zip|pouet:1273
 title:giger|author:recreation|position:6|sceneorg:/parties/1998/assembly98/pcdemo/giger_by.zip|pouet:7402

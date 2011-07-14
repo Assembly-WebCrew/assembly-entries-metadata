@@ -57,7 +57,7 @@ title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zi
 ! PC demo
 
 title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404
-title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69
+title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400
 title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955
 title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503
 title:Rebel Mind|author:Epical|position:5|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|pouet:6895

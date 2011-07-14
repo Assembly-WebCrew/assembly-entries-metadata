@@ -161,7 +161,7 @@ title:unknown|author:Speedo|position:15
 
 ! PC 64K intro
 
-title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404
+title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404|cappedtv:eufrosyne-blind&width=800&height=600
 title:Wego|author:Complex|position:2|sceneorg:/parties/1996/assembly96/in64/clx_wego.zip|pouet:78
 title:Nation Zero 2|author:Jamm|position:3|sceneorg:/parties/1996/assembly96/in64/nation2.zip|pouet:1367
 title:Palikka|author:Moottori|position:4|sceneorg:/parties/1996/assembly96/in64/palikka.zip|pouet:4744

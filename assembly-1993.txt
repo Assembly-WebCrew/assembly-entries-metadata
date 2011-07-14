@@ -87,7 +87,7 @@ title:Korvmack|author:Leinad / Avalanche|position:10
 ! Amiga demo
 
 title:Extension|author:Pygmy|position:1|pouet:3038|dtv:id_file=4196&id_prod=3804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3038.png&width=512&height=404
-title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:id_file=2333&id_prod=172&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3202.gif&width=512&height=404|youtube:V7G5Jrcob6M
+title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:id_file=2333&id_prod=172&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3202.gif&width=512&height=404|youtube:V7G5Jrcob6M|cappedtv:fairlight_virtual_dreams-242&width=564&height=434
 title:Romantic Demo|author:Melon|position:3|pouet:4953
 title:Amnesty|author:Vectra|position:4|pouet:15407
 title:Hysteria|author:Analogy|position:5|pouet:12000
@@ -97,7 +97,7 @@ title:Transfusion|author:Extacy|position:8|pouet:17121
 
 ! PC demo
 
-title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404
+title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|cappedtv:1210750466-1-0&width=640&height=400
 title:Optic Nerve|author:Silents|position:2|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|pouet:7658
 title:Elements|author:Xography|position:3|sceneorg:/parties/1993/assembly93/demo/elements.zip|pouet:852
 title:Saga|author:Dust|position:4|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|pouet:2585

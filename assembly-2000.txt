@@ -38,7 +38,7 @@ title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sc
 
 ! 64k intro
 
-title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404
+title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|cappedtv:haujobb-dead_flowers&width=640&height=368
 title:Incision|author:Exploder|position:2|sceneorg:/parties/2000/assembly00/in64/incision.zip|pouet:3590
 title:Who needs raytrace anyway?|author:foobug|position:3|sceneorg:/parties/2000/assembly00/in64/who_need.zip|pouet:503
 title:mixed bag|author:jmagic/komplex|position:4|sceneorg:/parties/2000/assembly00/in64/mixed_ba.zip|pouet:252
@@ -71,7 +71,7 @@ title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assem
 
 ! Demo
 
-title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404
+title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|cappedtv:1208980142-1-0&width=512&height=384
 title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404
 title:lapsus|author:maturefurk|position:3|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|pouet:130|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404
 title:Lotto|author:Doomsday|position:4|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|pouet:481
