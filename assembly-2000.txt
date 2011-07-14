@@ -1,6 +1,6 @@
-# 2000
+:year 2000
 
-! Oldskool graphics
+:section Oldskool graphics
 
 title:Assassin|author:Mazor/Scoopex|position:1|webfile:oldskool_graphics/assassin_by_mazor_scoopex.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/assassin.zip
 title:Absintti|author:Electric/Extend|position:2|sceneorg:/parties/2000/assembly00/oldskool/grfx/absintti.zip
@@ -18,7 +18,7 @@ title:When Sky Is Blue|author:Nico / Byterapers, Inc|position:13|webfile:oldskoo
 title:Too heavy head|author:Larga/PuavoHard|position:14|webfile:oldskool_graphics/too_heavy_head_by_larga_puavohard.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/too_heav.zip
 title:AntiHeroes|author:marzu|position:15|webfile:oldskool_graphics/antiheroes_by_marzu.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/antihero.zip
 
-! MP3 music
+:section MP3 music
 
 title:High Up A Mountain|author:Lowland / Astropolis|position:1|webfile:mp3_music/high_up_a_mountain_by_lowland_astropolis.mp3|sceneorg:/parties/2000/assembly00/mp3/high_up_.zip|youtube:97iVzIrRltQ
 title:2000: an aural odyssey|author:Firestorm|position:2|webfile:mp3_music/2000_an_aural_odyssey_by_firestorm.mp3|sceneorg:/parties/2000/assembly00/mp3/2000_an_.zip|youtube:1PStgL_oJZI
@@ -36,7 +36,7 @@ title:Lame Station|author:Janne Kosonen & Petri Malinen (submit : ABJ.(Ville Mal
 title:Just Use Your Imagination|author:Turkka|position:14|webfile:mp3_music/just_use_your_imagination_by_turkka.mp3|sceneorg:/parties/2000/assembly00/mp3/just_use.zip|youtube:rbLFt08Zg20
 title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|youtube:4mbvNHw-UtY
 
-! 64k intro
+:section 64k intro
 
 title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|cappedtv:haujobb-dead_flowers&width=640&height=368
 title:Incision|author:Exploder|position:2|sceneorg:/parties/2000/assembly00/in64/incision.zip|pouet:3590
@@ -52,7 +52,7 @@ title:Rays|author:Whelpz|position:11|sceneorg:/parties/2000/assembly00/in64/rays
 title:Presence|author:.sPOOn.|position:12|sceneorg:/parties/2000/assembly00/in64/presence.zip|pouet:3619
 title:Seeking|author:No Pants Productions|position:13|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|pouet:204
 
-! Oldskool demo
+:section Oldskool demo
 
 title:Oldskool Trippin|author:Haujobb|position:1|sceneorg:/parties/2000/assembly00/oldskool/demo/oldskool.zip|pouet:2114
 title:Scenefabu Jurputus|author:HP-Productions|position:2|sceneorg:/parties/2000/assembly00/oldskool/demo/scenefab.zip|pouet:12775
@@ -69,7 +69,7 @@ title:Our Speedway|author:Hujowa|position:12|sceneorg:/parties/2000/assembly00/o
 title:Coira|author:Unique|position:13|sceneorg:/parties/2000/assembly00/oldskool/demo/coira_by.zip|pouet:13319
 title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assembly00/oldskool/demo/new_cont.zip|pouet:13320
 
-! Demo
+:section Demo
 
 title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|cappedtv:1208980142-1-0&width=512&height=384
 title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404
@@ -87,7 +87,7 @@ title:Metatag|author:MadWizards|position:13|sceneorg:/parties/2000/assembly00/de
 title:ahonen does asm|author:the tough guys|position:14|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|pouet:2801|dtv:id_file=3850&id_prod=5618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2801.jpg&width=512&height=404
 title:Explicit Supremacy|author:Apocalypse Design|position:15|sceneorg:/parties/2000/assembly00/demo/explicit.zip|pouet:1541
 
-! Oldskool music
+:section Oldskool music
 
 title:Acid Jazzed Evening|author:tempest/damage|position:1|webfile:oldskool_music/acid_jazzed_evening_by_tempest_damage.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/acid_jaz.zip|youtube:tXzLIrgHAxw
 title:A Strange Night In the Hen House|author:kiwi|position:2|webfile:oldskool_music/a_strange_night_in_the_hen_house_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/a_strang.zip|youtube:RiFDFS3q9_s
@@ -105,7 +105,7 @@ title:Afterburner|author:Leopold|position:13|webfile:oldskool_music/afterburner_
 title:hassans lounge|author:vae|position:14|webfile:oldskool_music/hassans_lounge_by_vae.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/hassans_.zip|youtube:kQz4-dKsWPQ
 title:Antarctica|author:deck / scoopex|position:15|webfile:oldskool_music/antarctica_by_deck_scoopex.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/antarcti.zip|youtube:gxuxs75JAhk
 
-! Flash
+:section Flash
 
 title:Party People|author:Alpha Design|position:1|sceneorg:/parties/2000/assembly00/flash/party_pe.zip|pouet:27734
 title:vesileimat alkkareissa|author:tAAt|position:2|sceneorg:/parties/2000/assembly00/flash/vesileim.zip
@@ -118,7 +118,7 @@ title:Jumalanako mahtavaa?|author:p.orkkana|position:8|sceneorg:/parties/2000/as
 title:purkamo.com featuring paleface|author:purkamo.com|position:9|sceneorg:/parties/2000/assembly00/flash/purkamoc.zip
 title:Astraalikakka|author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00/flash/astraali.zip
 
-! ANSI graphics
+:section ANSI graphics
 
 title:Clasm|author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip
 title:Who am I?|author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip
@@ -130,12 +130,12 @@ title:Devil in disguise|author:DiamonDie|position:7|sceneorg:/parties/2000/assem
 title:next generation|author:nultrix|position:8|sceneorg:/parties/2000/assembly00/ansi/next_gen.zip
 title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hate_by_.zip
 
-! Playstation demo
+:section Playstation demo
 
 title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432|youtube:-0QHPO2m-og
 title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/rankkuri.zip|pouet:2433
 
-! 4k intro
+:section 4k intro
 
 title:Humus|author:Exploder|position:1|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|pouet:3377|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404
 title:The Blue Man|author:NoID|position:2|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|pouet:7614
@@ -150,7 +150,7 @@ title:200 bytes of party beers|author:suckho of byterapers, inc|position:10|scen
 title:4K2|author:HeadcrasH|position:11|sceneorg:/parties/2000/assembly00/in4k/4k2_by_h.zip|pouet:14260
 title:oliphaunt|author:kilobite|position:12|sceneorg:/parties/2000/assembly00/in4k/oliphaun.zip|pouet:14261
 
-! Animation
+:section Animation
 
 title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:id_file=3328&id_prod=6159&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2625.jpg&width=512&height=404|youtube:342z0EvSM-c
 title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:vqLplqijSwk
@@ -164,7 +164,7 @@ title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate
 title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620|youtube:B1m4ZIFMxKw
 title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621|youtube:XrG0nniMQ-M
 
-! Pixel graphics
+:section Pixel graphics
 
 title:Origin|author:Neurodruid|position:1|webfile:pixel_graphics/origin_by_neurodruid.png|sceneorg:/parties/2000/assembly00/grfx/origin_b.zip
 title:Kam tu Papa|author:Marvel|position:2|webfile:pixel_graphics/kam_tu_papa_by_marvel.png|sceneorg:/parties/2000/assembly00/grfx/kam_tu_p.zip
@@ -192,7 +192,7 @@ title:Sinking|author:Oxide|position:23|webfile:pixel_graphics/sinking_by_oxide.p
 title:Liberation|author:Borderline|position:24|webfile:pixel_graphics/liberation_by_borderline.png|sceneorg:/parties/2000/assembly00/grfx/liberati.zip
 title:ei kiva|author:kokki|position:25|webfile:pixel_graphics/ei_kiva_by_kokki.png|sceneorg:/parties/2000/assembly00/grfx/ei_kiva_.zip
 
-! Wild demo
+:section Wild demo
 
 title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:id_file=3345&id_prod=6140&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2626.jpg&width=512&height=404|youtube:kmPHdqoowAk
 title:What Is a Woman|author:Nyhjä Group|position:2
@@ -211,7 +211,7 @@ title:Ei Sormia Sinne, Pliis!|author:ENTR0P1C!Production|position:14
 title:The Meeting|author:Teophania|position:15
 title:Timelapse|author:BorderLine|position:16
 
-! Raytrace graphics
+:section Raytrace graphics
 
 title:Opus Dei|author:Olmirad|position:1|webfile:raytrace_graphics/opus_dei_by_olmirad.png|sceneorg:/parties/2000/assembly00/grtc/opus_dei.zip
 title:ANTipathy|author:DeCoder & Altiplano|position:2|webfile:raytrace_graphics/antipathy_by_decoder_altiplano.png|sceneorg:/parties/2000/assembly00/grtc/antipath.zip
@@ -234,7 +234,7 @@ title:God ate my Banana|author:Oozie|position:18|webfile:raytrace_graphics/god_a
 title:Baari|author:Huezo|position:19|webfile:raytrace_graphics/baari_by_huezo.png|sceneorg:/parties/2000/assembly00/grtc/baari_by.zip
 title:Wizards Room|author:Ember|position:20|webfile:raytrace_graphics/wizards_room_by_ember.png|sceneorg:/parties/2000/assembly00/grtc/wizards_.zip
 
-! Multichannel music
+:section Multichannel music
 
 title:Papa funk goes larp|author:Vilunen|position:1|webfile:multichannel_music/papa_funk_goes_larp_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mmul/papa_fun.zip|youtube:QAs5l0Ev8Uo
 title:Dreams n fantasies|author:PK|position:2|webfile:multichannel_music/dreams_n_fantasies_by_pk.mp3|sceneorg:/parties/2000/assembly00/mmul/dreams_n.zip|youtube:5hbq5WfsZ4o

@@ -1,6 +1,6 @@
-# 1996
+:year 1996
 
-! C64 music
+:section C64 music
 
 title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:txLxTswkKUo
 title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:mpOMXok6Qvc
@@ -13,7 +13,7 @@ title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_za
 title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:D1yP1tH0bq0
 title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:oBzMMPE9huE
 
-! Amiga 64K intro
+:section Amiga 64K intro
 
 title:Pure|author:Sonik Clique|position:1|sceneorg:/parties/1996/assembly96/amiga/in64/s_pure.zip|pouet:2984
 title:So What?|author:Royal|position:2|sceneorg:/parties/1996/assembly96/amiga/in64/ryl_so.zip|pouet:15837
@@ -27,7 +27,7 @@ title:Übergirl|author:Subspace|position:9|sceneorg:/parties/1996/assembly96/ami
 title:Nona|author:Zenon|position:10|sceneorg:/parties/1996/assembly96/amiga/in64/nona.lha|pouet:11537
 title:Hit the fan|author:Sam&Roy|position:11|sceneorg:/parties/1996/assembly96/amiga/in64/sr_htf.zip|pouet:15844
 
-! C64 graphics
+:section C64 graphics
 
 title:Herb's Shot|author:Electric/Extend|position:1
 title:Entwined|author:Mike/Byterapers|position:2
@@ -36,7 +36,7 @@ title:Dudette|author:Deetsay/Panic|position:4
 title:Cyborg|author:Jasso/Jassoteam|position:5
 title:Smoking|author:Calamity/Laxity|position:6
 
-! PC 4K intro
+:section PC 4K intro
 
 title:Pure Spirit|author:unknown|position:1|sceneorg:/parties/1996/assembly96/in4k/pure.zip|pouet:6538
 title:Countach|author:Dave/ByTeam|position:2|sceneorg:/parties/1996/assembly96/in4k/countach.zip|pouet:6706
@@ -49,7 +49,7 @@ title:Mystical|author:unknown|position:8|sceneorg:/parties/1996/assembly96/in4k/
 title:Balls|author:unknown|position:9|sceneorg:/parties/1996/assembly96/in4k/balls.zip|pouet:1735
 title:Red Room|author:unknown|position:10|sceneorg:/parties/1996/assembly96/in4k/redroom.zip
 
-! PC demo
+:section PC demo
 
 title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:id_file=2381&id_prod=6448&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/312.jpg&width=512&height=404
 title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:id_file=2386&id_prod=10904&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/376.jpg&width=512&height=404
@@ -67,7 +67,7 @@ title:Anxious|author:Vandals|position:13|sceneorg:/parties/1996/assembly96/demo/
 title:They will Pay|author:Borealis|position:14|sceneorg:/parties/1996/assembly96/demo/theywill.zip|pouet:13325
 title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:/parties/1996/assembly96/demo/pure.zip|pouet:13326
 
-! C64 demo
+:section C64 demo
 
 title:Follow the sign 3|author:Byterapers|position:1|sceneorg:/parties/1996/assembly96/c64/demo/fts3.lha|pouet:1428
 title:Nothing but code|author:Beyond Force|position:2|sceneorg:/parties/1996/assembly96/c64/demo/nothbcod.lha|pouet:1734
@@ -75,7 +75,7 @@ title:Fruits|author:Panic|position:3|sceneorg:/parties/1996/assembly96/c64/demo/
 title:Stupidity 3|author:Wrath Designs|position:4|sceneorg:/parties/1996/assembly96/c64/demo/stupidi3.lha|pouet:1851
 title:Drug sixtyfour|author:Reflex|position:5|sceneorg:/parties/1996/assembly96/c64/demo/drug64.lha|pouet:3162
 
-! Raytrace graphics
+:section Raytrace graphics
 
 title:unknown|author:Sami-setä/Paskasoft Prods.|position:1
 title:unknown|author:Vaapukka/Mighty Muumies|position:2
@@ -93,7 +93,7 @@ title:unknown|author:Thain/Sensible|position:13
 title:unknown|author:Artifex/Complex|position:14
 title:unknown|author:Slayer&Gonzo/Stetson Design|position:15
 
-! Wild
+:section Wild
 
 title:U.F.Orb|author:Outer Space|position:1
 title:Radio Silent|author:Princess Interactive|position:2
@@ -109,7 +109,7 @@ title:Stickman's world|author:unknown|position:11
 title:Pil|author:unknown|position:12
 title:Kukko|author:unknown|position:13
 
-! Amiga demo
+:section Amiga demo
 
 title:Sumea|author:Virtual Dreams|position:1|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|pouet:1154|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404
 title:Dim|author:Mellow Chips|position:2|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,/parties/1996/assembly96/amiga/demo/mc_dim2.lha,/parties/1996/assembly96/amiga/demo/mc_dim3.lha,/parties/1996/assembly96/amiga/demo/mc_dim4.lha|pouet:15846
@@ -123,7 +123,7 @@ title:Clichés|author:Artificial People|position:9|sceneorg:/parties/1996/assemb
 title:Bold|author:Banal Projects|position:10|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha,/parties/1996/assembly96/amiga/demo/bold2.lha|pouet:17653
 title:Gyrate|author:Wrath|position:11|sceneorg:/parties/1996/assembly96/amiga/demo/gyrate.lha|pouet:5915
 
-! 4 channel music
+:section 4 channel music
 
 title:unknown|author:Major/Bombsquad|position:1
 title:unknown|author:Stargazer/Sonik Clique|position:2
@@ -141,7 +141,7 @@ title:unknown|author:Andy/CNCD|position:13
 title:unknown|author:Charlie|position:14
 title:unknown|author:Breeze/Capacala|position:15
 
-! Graphics
+:section Graphics
 
 title:Babylona|author:Made/Bomb Software|position:1|webfile:graphics/babylona_by_made_bomb_software.png|sceneorg:/parties/1996/assembly96/grfx/babylona.zip
 title:Voyeur|author:Visualize/Jamm|position:2|webfile:graphics/voyeur_by_visualize_jamm.png|sceneorg:/parties/1996/assembly96/grfx/voyeur.zip
@@ -159,7 +159,7 @@ title:Compo picture|author:Dreamer&Fame/Nah Kolor|position:13|webfile:graphics/c
 title:Compo picture|author:Eibon/Bombsquad|position:14|webfile:graphics/compo_picture_by_eibon_bombsquad.png|sceneorg:/parties/1996/assembly96/grfx/asm96gfx.zip
 title:unknown|author:Speedo|position:15
 
-! PC 64K intro
+:section PC 64K intro
 
 title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404|cappedtv:eufrosyne-blind&width=800&height=600
 title:Wego|author:Complex|position:2|sceneorg:/parties/1996/assembly96/in64/clx_wego.zip|pouet:78
@@ -175,7 +175,7 @@ title:Prelude|author:Amorphous|position:11|sceneorg:/parties/1996/assembly96/in6
 title:Pallo|author:unknown|position:12
 title:Power Rangers|author:Cool Productions|position:13|sceneorg:/parties/1996/assembly96/in64/ranger.zip|pouet:23065
 
-! Animation
+:section Animation
 
 title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:/parties/1996/assembly96/anim/amis5000.zip|pouet:6733|youtube:jbd0G3o9-to
 title:In and out|author:Timo Kinnunen|position:2
@@ -191,7 +191,7 @@ title:Dragon Eye|author:Cascada|position:11
 title:Assault|author:Remorse|position:12
 title:Meriheli|author:unknown|position:13
 
-! Multichannel music
+:section Multichannel music
 
 title:unknown|author:Crux/DCC|position:1
 title:unknown|author:Prototype|position:2

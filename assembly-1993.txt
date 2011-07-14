@@ -1,6 +1,6 @@
-# 1993
+:year 1993
 
-! Amiga music
+:section Amiga music
 
 title:unknown|author:Dizzy / Carillon & Cyberiad|position:1
 title:unknown|author:Groo / C & C|position:2
@@ -15,7 +15,7 @@ title:unknown|author:Galaxy / Elysion|position:10
 title:unknown|author:Nutcase / Balance|position:11
 title:unknown|author:Darra / Damones|position:12
 
-! PC intro
+:section PC intro
 
 title:Eclipse|author:EMF|position:1|sceneorg:/parties/1993/assembly93/100k/emf_ecl.zip|pouet:2589
 title:Debut|author:Darkzone|position:2|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|pouet:5055
@@ -30,7 +30,7 @@ title:Fraust|author:RatCompany|position:10
 title:Preview|author:Irresistible Works|position:11|pouet:51327
 title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/urgent.zip|pouet:29652
 
-! PC music multichannel
+:section PC music multichannel
 
 title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/icefront.zip|youtube:esJZAGNT5YA
 title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/cant.zip|youtube:a00w9FxwS_k
@@ -43,7 +43,7 @@ title:Opossumi|author:Mikki / Epical|position:8
 title:Deepness|author:Funk't'ion / Paranoids|position:9
 title:Shout|author:Bloodsoaker / Wapy|position:10
 
-! Amiga graphics
+:section Amiga graphics
 
 title:unknown|author:Hotshot / Complex|position:1
 title:unknown|author:Jugi / Complex|position:2
@@ -56,7 +56,7 @@ title:unknown|author:Cobra / Eon|position:8
 title:unknown|author:Problen / Wizzcat|position:9
 title:unknown|author:Electric / Extend|position:10
 
-! Amiga 40k intro
+:section Amiga 40k intro
 
 title:unknown|author:Stellar (code by Dweezil)|position:1|pouet:8174
 title:unknown|author:Tsunami & Dean|position:2
@@ -71,7 +71,7 @@ title:unknown|author:Humane|position:10|pouet:18586
 title:unknown|author:Epsilon|position:11|pouet:15356
 title:unknown|author:Beyond Force|position:12|pouet:23226
 
-! PC graphics
+:section PC graphics
 
 title:Ice Kingdom|author:Marvel / Future Crew|position:1
 title:Eevi|author:Delsion / Cascada|position:2
@@ -84,7 +84,7 @@ title:Assyroad|author:Kapsu / Epical|position:8
 title:Dungeon|author:Mahlzahnx / Pentagon|position:9
 title:Korvmack|author:Leinad / Avalanche|position:10
 
-! Amiga demo
+:section Amiga demo
 
 title:Extension|author:Pygmy|position:1|pouet:3038|dtv:id_file=4196&id_prod=3804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3038.png&width=512&height=404
 title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:id_file=2333&id_prod=172&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3202.gif&width=512&height=404|youtube:V7G5Jrcob6M|cappedtv:fairlight_virtual_dreams-242&width=564&height=434
@@ -95,7 +95,7 @@ title:Out Of Your Mind|author:unknown|position:6
 title:BALL|author:unknown|position:7
 title:Transfusion|author:Extacy|position:8|pouet:17121
 
-! PC demo
+:section PC demo
 
 title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|cappedtv:1210750466-1-0&width=640&height=400
 title:Optic Nerve|author:Silents|position:2|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|pouet:7658
@@ -107,7 +107,7 @@ title:Wasted time|author:Paranoids|position:7|sceneorg:/parties/1993/assembly93/
 title:Obsession|author:Black Rain|position:8|sceneorg:/parties/1993/assembly93/demo/obsess.zip|pouet:51323
 title:Phenomenon|author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip
 
-! PC music 4 channel
+:section PC music 4 channel
 
 title:Sundance|author:Purple Motion / Future Crew|position:1
 title:Schwinging the Swing|author:Cybelius / Sonic-PC|position:2

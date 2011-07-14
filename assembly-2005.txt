@@ -1,6 +1,6 @@
-# 2005
+:year 2005
 
-! Mobile demo
+:section Mobile demo
 
 title:FormFunk|author:The Rocket / Sonik Clique (Windows Mobile on Dell Axim X50v)|position:1|media:/vod/2005/assemblytv/248_formfunk__dell_axim__by_the_rocket___son.avi|sceneorg:/parties/2005/assembly05/mobile_demo/formfunk.zip|pouet:18371|youtube:JFOF0LgEgYU
 title:PORTMEIRION STATE|author:Matt Current (Nintendo Game Boy Advance)|position:2|media:/vod/2005/assemblytv/245_portmeirion_state__gba__by_matt_current.avi|sceneorg:/parties/2005/assembly05/mobile_demo/portmeirion_state_by_matt_current.zip|pouet:18337|youtube:37-_JCxyLAs
@@ -9,7 +9,7 @@ title:Back in Time|author:Hedelmae (Linux on First Technology PXA-3)|position:4|
 title:Zados 2000|author:HiRMU (Java on Nokia 3100)|position:5|media:/vod/2005/assemblytv/249_zados_2000__nokia_3100__by_hirmu.avi|sceneorg:/parties/2005/assembly05/mobile_demo/zados_2000_by_hirmu.zip|pouet:18336|youtube:SkGOfbW15Fk
 title:Experiment: Imhotep|author:mfx (Java on Sony Ericsson K300i)|position:6|media:/vod/2005/assemblytv/246_experiment__imhotep__k300i__by_mfx.avi|sceneorg:/parties/2005/assembly05/mobile_demo/experiment__imhotep_by_mfx.zip|pouet:18335|youtube:KU9z52cZPx8
 
-! Oldskool graphics
+:section Oldskool graphics
 
 title:me, myself and ma booty|author:phase1 of creators|position:1|webfile:oldskool_graphics/me_myself_and_ma_booty_by_phase1_of_creators.png|sceneorg:/parties/2005/assembly05/oldskool/grfx/me__myself_and_ma_booty_by_phase1_of_creators.zip
 title:Heatwave|author:tempest/fairlight|position:2
@@ -23,7 +23,7 @@ title:Entrapped|author:Moran / Cyberpunks Unity|position:9|webfile:oldskool_grap
 title:pseudoart|author:liitin|position:10|webfile:oldskool_graphics/pseudoart_by_liitin.png|sceneorg:/parties/2005/assembly05/oldskool/grfx/pseudoart_by_liitin_1.zip
 title:ViiNAPiRU [BooseDevil]|author:CoaXCable|position:0|webfile:oldskool_graphics/viinapiru_boosedevil_by_coaxcable.png|sceneorg:/parties/2005/assembly05/oldskool/grfx/viinapiru__boosedevil__by_coaxcable.zip
 
-! Game development
+:section Game development
 
 title:Kumoon|author:Mayoneez and the Boyz (Windows)|position:1|media:/vod/2005/assemblytv/476_kumoon_by_mayoneez_and_the_boyz.avi|sceneorg:/parties/2005/assembly05/game/kumoon4assembly.zip|pouet:18298|youtube:q6lRcK2RIA0
 title:Skies|author:Aukiogames (Windows)|position:2|media:/vod/2005/assemblytv/478_skies_by_aukiogames.avi|sceneorg:/parties/2005/assembly05/game/skies_beta_r1.zip|pouet:18297|youtube:sSVt8-MgVIA
@@ -35,7 +35,7 @@ title:HiddenLynx|author:Mayoneez (Windows)|position:7|media:/vod/2005/assemblytv
 title:Thurst|author:Juha-Pekka Jokela (Windows / MorphOS)|position:8|media:/vod/2005/assemblytv/480_thurst_by_juha_pekka_jokela.avi|sceneorg:/parties/2005/assembly05/game/thurst.zip|pouet:18303|youtube:QDicZ5rJXJU
 title:Bubbly|author:Joel "Bylkki" Pitkänen (Windows)|position:9|media:/vod/2005/assemblytv/482_bubbly_by_joel__bylkki__pitkanen.avi|sceneorg:/parties/2005/assembly05/game/bubbly.zip|pouet:18300|youtube:zq5IXhlbLPg
 
-! 64k intro
+:section 64k intro
 
 title:Che Guevara|author:Fairlight (Windows)|position:1|media:/vod/2005/assemblytv/331_che_guevara_by_fairlight.avi|sceneorgvideo:/parties/2005/assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|sceneorg:/parties/2005/assembly05/in64/che_guevara_by_fairlight.zip|pouet:18339|dtv:id_file=1502&id_prod=12465&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18339.jpg&width=512&height=404|youtube:dLwCHnlO95A
 title:Flight 666|author:Loonies (Windows)|position:2|media:/vod/2005/assemblytv/329_flight_666_by_loonies.avi|sceneorg:/parties/2005/assembly05/in64/flight_666_by_loonies.zip|pouet:18340|dtv:id_file=1506&id_prod=12493&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18340.jpg&width=512&height=404|youtube:Gjr9hUJumAE
@@ -50,14 +50,14 @@ title:Black / White|author:Rozware (Windows)|position:10|media:/vod/2005/assembl
 title:bribing you with oil!|author:flo (Windows)|position:11|media:/vod/2005/assemblytv/325_bribing_you_with_oil__by_flo.avi|sceneorg:/parties/2005/assembly05/in64/bribing_you_with_oil__by_flo.zip|pouet:18344|youtube:pDeezKIfWk4
 title:Lodi|author:immersion (Mac OS X)|position:12|media:/vod/2005/assemblytv/328_lodi_by_immersion.avi|sceneorg:/parties/2005/assembly05/in64/lodi_by_immersion.tar_gz|pouet:18348|youtube:LZYnwwEnqko
 
-! Oldskool demo
+:section Oldskool demo
 
 title:Boogie Factor|author:Fairlight (Commodore 64)|position:1|media:/vod/2005/assemblytv/211_boogie_factor_by_fairlight.avi|pouet:18365|dtv:id_file=4004&id_prod=12547&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18365.png&width=512&height=404|youtube:VG6_Oo0rU2s
 title:BoomBoom|author:aspekt (Commodore 64)|position:2|media:/vod/2005/assemblytv/213_boomboom_by_aspekt.avi|sceneorg:/parties/2005/assembly05/oldskool/demo/boomboom_by_aspekt.d64|pouet:18322|youtube:B2NEYUzomEI
 title:Treble|author:RNO (Amiga 500)|position:3|media:/vod/2005/assemblytv/212_treble_by_rno.avi|sceneorg:/parties/2005/assembly05/oldskool/demo/rno-treble.lha|pouet:18324|youtube:iYTFih0Iw_A
 title:nnn|author:Cyberpunks Unity (Sinclair Spectrum)|position:4|media:/vod/2005/assemblytv/214_nnn_by_cyberpunks_unity.avi|sceneorg:/parties/2005/assembly05/oldskool/demo/nnn_by_cyberpunks_unity.zip|pouet:18323|youtube:OsYUX9-sk1I
 
-! Fast graphics
+:section Fast graphics
 
 title:Nigerian Breakfast|author:Hasso Neurath Foundation|position:1|webfile:fast_graphics/nigerian_breakfast_by_hasso_neurath_foundation.png|sceneorg:/parties/2005/assembly05/fast/grfx/nigerian_breakfast_by_hasso_neurath_foundation.zip
 title:Breakfast With a Twist|author:maxon|position:2|webfile:fast_graphics/breakfast_with_a_twist_by_maxon.png|sceneorg:/parties/2005/assembly05/fast/grfx/breakfast_with_a_twist_by_maxon.zip
@@ -77,7 +77,7 @@ title:Fat Spam|author:Pika|position:15|webfile:fast_graphics/fat_spam_by_pika.jp
 title:Bacon on The Beat|author:Delicio|position:16|webfile:fast_graphics/bacon_on_the_beat_by_delicio.jpeg|sceneorg:/parties/2005/assembly05/fast/grfx/bacon_on_the_beat_by_delicio.jpg
 title:SpamSuxx|author:tuomas DECKER karmakallio|position:17|webfile:fast_graphics/spamsuxx_by_tuomas_decker_karmakallio.png|sceneorg:/parties/2005/assembly05/fast/grfx/spamsuxx_by_tuomas_decker_karmakallio.tif
 
-! Fast music
+:section Fast music
 
 title:Tarmo|author:Aikapallo|position:1|webfile:fast_music/tarmo_by_aikapallo.mp3|sceneorg:/parties/2005/assembly05/fast/music/tarmo_by_aikapallo_1.zip|youtube:vs5S84hJOMw
 title:Straylight|author:Nightbeat|position:2|webfile:fast_music/straylight_by_nightbeat.mp3|sceneorg:/parties/2005/assembly05/fast/music/straylight.zip|youtube:wKw63KnY504
@@ -97,7 +97,7 @@ title:Twisten' Moneyspeed|author:phaser|position:0|webfile:fast_music/twisten_mo
 title:Dawnbreak|author:Painless|position:0|webfile:fast_music/dawnbreak_by_painless.mp3|sceneorg:/parties/2005/assembly05/fast/music/dawnbreak_by_painless.zip|youtube:FNCxlv7zSQ8
 title:Quick Fix|author:Scanner & JellyPop / Dope|position:0|webfile:fast_music/quick_fix_by_scanner_jellypop_dope.mp3|sceneorg:/parties/2005/assembly05/fast/music/quick_fix_by_scanner___jellypop___dope.zip|youtube:ofRg3-pkA2o
 
-! Oldskool music
+:section Oldskool music
 
 title:Dirty '64|author:Reed / Fairlight|position:1|webfile:oldskool_music/dirty_64_by_reed_fairlight.mp3|sceneorg:/parties/2005/assembly05/oldskool/music/dirty__64_by_reed___fairlight.mp3|youtube:NmG8ledOcAQ
 title:Mushroom|author:SounDemoN / Dekadence|position:2|webfile:oldskool_music/mushroom_by_soundemon_dekadence.mp3|sceneorg:/parties/2005/assembly05/oldskool/music/mushroom_by_soundemon___dekadence.mp3|youtube:zwxU8VDZ7qo
@@ -127,7 +127,7 @@ title:disqualified entry|author:sauli / jml|position:0|webfile:oldskool_music/di
 title:That Lo-Fi Sound|author:Player One / Dekadence|position:0|webfile:oldskool_music/that_lo_fi_sound_by_player_one_dekadence.mp3|sceneorg:/parties/2005/assembly05/oldskool/music/that_lo-fi_sound_by_player_one___dekadence.mp3|youtube:kz4EegLEDjk
 title:U Know Da Score|author:rm / RNO ^ Dekadence|position:0|webfile:oldskool_music/u_know_da_score_by_rm_rno_dekadence.mp3|sceneorg:/parties/2005/assembly05/oldskool/music/u_know_da_score_by_rm___rno___dekadence.mod|youtube:ckEI8ZYR1jw
 
-! Drawn themed graphics
+:section Drawn themed graphics
 
 title:boneprone organismo|author:mazor of fairlight|position:1|webfile:drawn_themed_graphics/boneprone_organismo_by_mazor_of_fairlight.png|sceneorg:/parties/2005/assembly05/grfx/drawn/boneprone_organismo_by_mazor_of_fairlight_1.zip
 title:Sika|author:John Peeba|position:2|webfile:drawn_themed_graphics/sika_by_john_peeba.png|sceneorg:/parties/2005/assembly05/grfx/drawn/sika_by_john_peeba.zip
@@ -154,7 +154,7 @@ title:1886 and 0.* stars|author:Irah|position:0|webfile:drawn_themed_graphics/18
 title:Miscarriage|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:drawn_themed_graphics/miscarriage_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2005/assembly05/grfx/drawn/miscarriage_by_diamondie_foobug_numedia_cyclops.zip
 title:Ace of Stars|author:Salome of HyperCube|position:0|webfile:drawn_themed_graphics/ace_of_stars_by_salome_of_hypercube.png|sceneorg:/parties/2005/assembly05/grfx/drawn/ace_of_stars_by_salome_of_hypercube.zip
 
-! Freestyle music
+:section Freestyle music
 
 title:Funk Trap|author:Paavo "Tarantula" Härkönen|position:1|webfile:freestyle_music/funk_trap_by_paavo_tarantula_h_rk_nen.mp3|sceneorg:/parties/2005/assembly05/music/freestyle/funk_trap_by_paavo__tarantula__h_rk_nen.ogg|youtube:kYSyQyibwXo
 title:I'll be gone|author:ierker / granma|position:2|webfile:freestyle_music/i_ll_be_gone_by_ierker_granma.mp3|sceneorg:/parties/2005/assembly05/music/freestyle/i_ll_be_gone_by_ierker___granma.ogg|youtube:dY3UPzllKsc
@@ -187,7 +187,7 @@ title:Weird Day Coding (Night Time)|author:Akinos|position:0|webfile:freestyle_m
 title:minä olen pikku mies|author:Army of droon|position:0|webfile:freestyle_music/min_olen_pikku_mies_by_army_of_droon.mp3|sceneorg:/parties/2005/assembly05/music/freestyle/min__olen_pikku_mies_by_army_of_droon.mp3|youtube:Ys39XSuMHHo
 title:we are the gods|author:1in10/mfx&kewlers|position:0|webfile:freestyle_music/we_are_the_gods_by_1in10_mfx_kewlers.mp3|sceneorg:/parties/2005/assembly05/music/freestyle/we_are_the_gods_by_1in10_mfx_kewlers.mp3|youtube:iay9pUfmDbY
 
-! 4k intro
+:section 4k intro
 
 title:Make it 4k|author:Fit & Bandwagon (Linux)|position:1|media:/vod/2005/assemblytv/161_make_it_4k_by_fit___bandwagon.avi|sceneorg:/parties/2005/assembly05/in4k/make_it_4k_by_fit___bandwagon_1.tgz|pouet:18321|youtube:2TDIV1YywD8
 title:Trapped Mind|author:Prophecy (Windows)|position:2|media:/vod/2005/assemblytv/159_trapped_mind_by_prophecy.avi|sceneorg:/parties/2005/assembly05/in4k/trapped_mind_by_prophecy.zip|pouet:18314|youtube:YDftBW8WDpk
@@ -201,7 +201,7 @@ title:Driftwood Theory|author:Lasse Toimela (Windows)|position:9|media:/vod/2005
 title:Cracked|author:Inphernic (Windows)|position:10|media:/vod/2005/assemblytv/156_cracked_by_inphernic.avi|sceneorg:/parties/2005/assembly05/in4k/cracked_by_inphernic.zip|pouet:18315|youtube:BaMAIDGzV5s
 title:kalja|author:immersion / zoi (Linux)|position:11|media:/vod/2005/assemblytv/164_kalja_by_immersion___zoi.avi|sceneorg:/parties/2005/assembly05/in4k/kalja_by_immersion___zoi.gz|pouet:18320|youtube:Xs_JBMM8EDU
 
-! Short film
+:section Short film
 
 title:Get Inspired|author:maxon|position:1|webfile:short_film/get_inspired_by_maxon.avi|media:/vod/2005/assemblytv/230_get_inspired_by_maxon.avi|sceneorg:/parties/2005/assembly05/short_film/get_inspired_by_maxon-nomickey-version_hdtv720p.avi|pouet:18394|dtv:id_file=1896&id_prod=12869&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18394_1.jpg&width=512&height=404|youtube:3qdvk6TxP8w
 title:Porrasturvat for Stairstation 360 Live Revolution|author:tAAt 2005|position:2|webfile:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|media:/vod/2005/assemblytv/237_porrasturvat_for_stairstation_360_live_r.avi|sceneorg:/parties/2005/assembly05/short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|pouet:18380|dtv:id_file=1838&id_prod=12734&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18380_1.jpg&width=512&height=404|youtube:HPfP21Fu-wo
@@ -216,7 +216,7 @@ title:Iisalmi - demojen ja oluen kaupunki traileri|author:Byterapers Movie Produ
 title:Dweebs High|author:Grendel / Überfinns / Byterapers Movie Productions Indie Label|position:11|webfile:short_film/dweebs_high_by_grendel_berfinns_byterapers_movie_productions_indie_label.avi|media:/vod/2005/assemblytv/235_dweebs_high_by_grendel___Uberfinns___byt.avi|sceneorg:/parties/2005/assembly05/short_film/dweebs_high_by_grendel___uberfinns___byterapers_movie_productions_indie_label.avi|pouet:18378|youtube:gcQCDZ1eEGQ
 title:Super 8|author:sivu|position:12|webfile:short_film/super_8_by_sivu.avi|media:/vod/2005/assemblytv/239_super_8_by_sivu.avi|sceneorg:/parties/2005/assembly05/short_film/super_8_by_sivu.avi|pouet:18400|youtube:vEqfCOtXGrg
 
-! Demo
+:section Demo
 
 title:Iconoclast|author:Andromeda Software Development (Windows)|position:1|media:/vod/2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|sceneorgvideo:/parties/2005/assembly05/demo/asd-iconoclast-lowq.avi|sceneorg:/parties/2005/assembly05/demo/iconoclast_by_andromeda_software_development.zip|pouet:18350|dtv:id_file=1503&id_prod=12464&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18350_1.jpg&width=512&height=404|youtube:0HlZaZ30qF0|cappedtv:asd-iconoclast&width=640&height=458
 title:STS-04: Instant Zen|author:Synesthetics (Windows)|position:2|media:/vod/2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|sceneorg:/parties/2005/assembly05/demo/sts-04__instant_zen_by_synesthetics.zip|pouet:18359|dtv:id_file=1504&id_prod=12502&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18359.jpg&width=512&height=404|youtube:cjndamq12T8|cappedtv:synesthetics-instant_zen&width=640&height=360
@@ -234,7 +234,7 @@ title:Club Null|author:wAMMA (Windows)|position:13|media:/vod/2005/assemblytv/45
 title:Unknown Entity|author:proMille deZign (Windows)|position:14|media:/vod/2005/assemblytv/464_unknown_entity_by_promille_dezign.avi|sceneorg:/parties/2005/assembly05/demo/unknown_entity_by_promille_dezign.zip|pouet:18361|youtube:7tsnYjKdsBQ
 title:pyromanssi - pyromance|author:tAAt (Windows)|position:15|media:/vod/2005/assemblytv/453_pyromanssi___pyromance_by_taat.avi|sceneorg:/parties/2005/assembly05/demo/pyromanssi_-_pyromance_by_taat.zip|pouet:18358|youtube:kUVQVj3_PoE
 
-! Browser demo
+:section Browser demo
 
 title:Redbug|author:Shingebis|position:1|media:/vod/2005/assemblytv/223_redbug_by_shingebis.avi|sceneorg:/parties/2005/assembly05/browser_demo/04_redbug_by_shingebis.zip|pouet:18326|youtube:6vkCmWpVYZI
 title:the drop|author:komplex|position:2|media:/vod/2005/assemblytv/222_the_drop_by_komplex.avi|sceneorg:/parties/2005/assembly05/browser_demo/03_drop_by_komplex_final.zip|pouet:18325|youtube:QMP5xUPh98k
@@ -244,7 +244,7 @@ title:Scene of Life|author:Inapt & Static|position:5|media:/vod/2005/assemblytv/
 title:I,Mofo|author:Pyrotech|position:6|media:/vod/2005/assemblytv/221_i_mofo_by_pyrotech.avi|sceneorg:/parties/2005/assembly05/browser_demo/02_i_mofo_by_pyrotech.zip|pouet:18330|youtube:rlc0MYMBMxI
 title:Etsin unelmaa|author:CND GROUP|position:7|media:/vod/2005/assemblytv/226_etsin_unelmaa_by_cnd_group.avi|sceneorg:/parties/2005/assembly05/browser_demo/01_etsin_unelmaa_by_cnd_group.zip|pouet:18331|youtube:jpZBTUFhIbs
 
-! Instrumental music
+:section Instrumental music
 
 title:ape dog pack|author:quasian|position:1|webfile:instrumental_music/ape_dog_pack_by_quasian.mp3|sceneorg:/parties/2005/assembly05/music/instrumental/ape_dog_pack_by_quasian_1.ogg|youtube:HQrke6Zo4-U
 title:The Pirate's Tale|author:Paavo "Tarantula" Härkönen|position:2|webfile:instrumental_music/the_pirate_s_tale_by_paavo_tarantula_h_rk_nen.mp3|sceneorg:/parties/2005/assembly05/music/instrumental/the_pirate_s_tale_by_paavo__tarantula__h_rk_nen.ogg|youtube:zLoiExLwpYc
@@ -303,7 +303,7 @@ title:Slow Motion|author:Dj TT aka. Automatiq|position:0|webfile:instrumental_mu
 title:Flavors of Night|author:Lasse "Draugo Silverscale" Kulmala|position:0|webfile:instrumental_music/flavors_of_night_by_lasse_draugo_silverscale_kulmala.mp3|sceneorg:/parties/2005/assembly05/music/instrumental/flavors_of_night_by_lasse__draugo_silverscale__kulmala.mp3|youtube:fvATG8iPRNg
 title:0mg|author:YHTEiSO|position:0|webfile:instrumental_music/0mg_by_yhteiso.mp3|sceneorg:/parties/2005/assembly05/music/instrumental/0mg_by_yhteiso.zip|youtube:JiatxYkIjws
 
-! Freestyle graphics
+:section Freestyle graphics
 
 title:Not to 3.14|author:Random/Gfxile|position:1|webfile:freestyle_graphics/not_to_3_14_by_random_gfxile.png|sceneorg:/parties/2005/assembly05/grfx/freestyle/not_to_3_14_by_random_gfxile.zip
 title:Let There Be Light|author:PeXi|position:2|webfile:freestyle_graphics/let_there_be_light_by_pexi.png|sceneorg:/parties/2005/assembly05/grfx/freestyle/let_there_be_light_by_pexi.zip
@@ -338,7 +338,8 @@ title:kylmakaapin_pimea_pingviini|author:PainCreators|position:0|webfile:freesty
 title:Too Fast Too Furious|author:Kingi|position:0|webfile:freestyle_graphics/too_fast_too_furious_by_kingi.png|sceneorg:/parties/2005/assembly05/grfx/freestyle/too_fast_too_furious_by_kingi.zip
 title:Roger|author:wAMMA|position:0|webfile:freestyle_graphics/roger_by_wamma.png|sceneorg:/parties/2005/assembly05/grfx/freestyle/roger_by_wamma.zip
 
-! AssemblyTV
+:section AssemblyTV
+
 title:Pelikonepeijoonit - MBnet-ständi|author:AssemblyTV|media:/vod/2005/assemblytv/107_pelikonepeijoonit___mbnet_standi.avi|youtube:xD0Gs87LMxc
 title:Katu-gallup|author:AssemblyTV|media:/vod/2005/assemblytv/112_katu_gallup.avi|youtube:GThPOrBR3nc
 title:Steve Chiang says something before 4k intro|author:AssemblyTV|media:/vod/2005/assemblytv/114_steve_chang_says_something_before_4k_int.avi|youtube:1NQ6rHsNkm4
@@ -362,7 +363,7 @@ title:Organizers answer|author:AssemblyTV|media:/vod/2005/assemblytv/84_organize
 title:Nukkumapaikkojen testaus|author:AssemblyTV|media:/vod/2005/assemblytv/95_nukkumapaikkojen_testaus.avi|youtube:Evy8d5Zl7CI
 title:Kun valot sammuivat|author:AssemblyTV|media:/vod/2005/assemblytv/98_kun_valot_sammuivat.avi|youtube:0NgNisLSPxo
 
-! Seminars
+:section Seminars
 
 title:Best of 4k intros|author:Matti Palosuo|media:/vod/2005/seminars/the_best_of_4k_intros_by_matti_palosuo.avi|youtube:M9FDWRTuPCk
 title:Implementing OpenGL ES on Embedded Devices|author:Petri Kero|media:/vod/2005/seminars/implementing_opengl_es_by_petri_kero.avi|youtube:GTxzGAht8C4

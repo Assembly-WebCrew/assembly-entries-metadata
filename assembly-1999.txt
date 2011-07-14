@@ -1,6 +1,6 @@
-# 1999
+:year 1999
 
-! C64 music
+:section C64 music
 
 title:Starfall|author:Brite-Lite|position:1|sceneorg:/parties/1999/assembly99/c64/music/starfall.zip
 title:Desert queen|author:Agemixer|position:2|sceneorg:/parties/1999/assembly99/c64/music/desert_q.zip
@@ -10,7 +10,7 @@ title:The Theme|author:Flex|position:5|sceneorg:/parties/1999/assembly99/c64/mus
 title:music|author:deetsay / panic!|position:6|sceneorg:/parties/1999/assembly99/c64/music/music_by.zip
 title:Jensomania|author:amj|position:7|sceneorg:/parties/1999/assembly99/c64/music/jensoman.zip
 
-! Amiga 64k intro
+:section Amiga 64k intro
 
 title:Älä ota sit vakavasti|author:da jormas!|position:1|sceneorg:/parties/1999/assembly99/amiga/in64/l_ota_si.zip|pouet:4518
 title:Push|author:Extreme|position:2|sceneorg:/parties/1999/assembly99/amiga/in64/push_by_.zip|pouet:1936
@@ -21,13 +21,13 @@ title:HC-DC10|author:Spedes|position:6|sceneorg:/parties/1999/assembly99/amiga/i
 title:wx-co123|author:replay|position:7|sceneorg:/parties/1999/assembly99/amiga/in64/wxco123_.zip|pouet:12314
 title:G4|author:- Rock|position:8|sceneorg:/parties/1999/assembly99/amiga/in64/g4_by___.zip|pouet:24899
 
-! Java demo
+:section Java demo
 
 title:I|author:Yodel|position:1|sceneorg:/parties/1999/assembly99/java/i_by_yod.zip|pouet:3016
 title:cyboman 2|author:komplex|position:2|sceneorg:/parties/1999/assembly99/java/cyboman_.zip|pouet:887
 title:Lain|author:OtakInc|position:3|sceneorg:/parties/1999/assembly99/java/lain_by_.zip|pouet:6387
 
-! MP3 music
+:section MP3 music
 
 title:Credits|author:Purple Motion|position:1|webfile:mp3_music/credits_by_purple_motion.mp3|sceneorg:/parties/1999/assembly99/mp3/credits_.zip|youtube:WkGfJmzyrGw
 title:Lätkäjätkät vie mun naiset|author:Wode|position:2|sceneorg:/parties/1999/assembly99/mp3/ltkjtkt_.zip
@@ -44,21 +44,21 @@ title:funki|author:Muffler|position:12|webfile:mp3_music/funki_by_muffler.mp3|sc
 title:valkama|author:wildcat|position:13|webfile:mp3_music/valkama_by_wildcat.mp3|sceneorg:/parties/1999/assembly99/mp3/valkama_.zip|youtube:BYiD-uEfVUg
 title:phlatys|author:S.Louhela|position:14|webfile:mp3_music/phlatys_by_s_louhela.mp3|sceneorg:/parties/1999/assembly99/mp3/phlatys_.zip|youtube:3xDLwrBOJZM
 
-! Amiga 4k intro
+:section Amiga 4k intro
 
 title:Gap|author:Extreme|position:1|sceneorg:/parties/1999/assembly99/amiga/in4k/gap_by_e.zip|pouet:9522
 title:Pukamat|author:Tundrah|position:2|sceneorg:/parties/1999/assembly99/amiga/in4k/pukamat_.zip|pouet:16216
 title:land|author:sabaoth|position:3|sceneorg:/parties/1999/assembly99/amiga/in4k/land_by_.zip|pouet:16217
 title:Etic|author:Digital|position:4|sceneorg:/parties/1999/assembly99/amiga/in4k/etic_by_.zip|pouet:16219
 
-! C64 graphics
+:section C64 graphics
 
 title:I cant play|author:Agemixer|position:1|sceneorg:/parties/1999/assembly99/c64/grfx/i_cant_p.zip
 title:kuva|author:deetsay / panic|position:2|sceneorg:/parties/1999/assembly99/c64/grfx/kuva_by_.zip
 title:Lost children|author:Brite-Lite|position:3|sceneorg:/parties/1999/assembly99/c64/grfx/lost_chi.zip
 title:Please Hurt Me|author:Statik|position:4|sceneorg:/parties/1999/assembly99/c64/grfx/please_h.zip
 
-! Tiny music
+:section Tiny music
 
 title:Parasite Blessing|author:Quasian|position:1|webfile:tiny_music/parasite_blessing_by_quasian.mp3|media:/vod/.oldies-goldies/compos/ASM99 tiny music - 1st - Parasite Blessing by Quasian_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/parasite.zip|youtube:PYjDmQnkEXs
 title:Space Hybrids|author:Zealan|position:2|webfile:tiny_music/space_hybrids_by_zealan.mp3|media:/vod/.oldies-goldies/compos/ASM99 tiny music - 2nd - Space Hybrids by Zealan_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/space_hy.zip|youtube:wQ7ksdtxScs
@@ -76,7 +76,7 @@ title:Garage dayz|author:Leach|position:13|webfile:tiny_music/garage_dayz_by_lea
 title:Rokkivuohen Poika|author:Nitro|position:14|webfile:tiny_music/rokkivuohen_poika_by_nitro.mp3|media:/vod/.oldies-goldies/compos/ASM99 tiny music - 14th - Rokkivuohen Poika by Nitro_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/rokkivuo.zip|youtube:gw7eA5F6uK0
 title:Likwit Motha|author:Repe|position:15|webfile:tiny_music/likwit_motha_by_repe.mp3|media:/vod/.oldies-goldies/compos/ASM99 tiny music - 15th - Likwit Motha by Repe_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/tinymusic/likwit_m.zip|youtube:Z_YIcs8r_1s
 
-! PC 4k intro
+:section PC 4k intro
 
 title:matriisi|author:mooze|position:1|sceneorg:/parties/1999/assembly99/in4k/matriisi.zip|pouet:4483
 title:Orinoco|author:Digimind|position:2|sceneorg:/parties/1999/assembly99/in4k/orinoco_.zip|pouet:6370
@@ -91,7 +91,7 @@ title:Save World|author:Juce|position:10|sceneorg:/parties/1999/assembly99/in4k/
 title:Invalider|author:Dodge / Mystic Etanat|position:11|sceneorg:/parties/1999/assembly99/in4k/invalide.zip|pouet:14254
 title:Phygo|author:Viznut/pwp|position:12|sceneorg:/parties/1999/assembly99/in4k/phygo_by.zip|pouet:14255
 
-! PC non-accelerated demo
+:section PC non-accelerated demo
 
 title:Gasoline|author:recreation|position:1|media:/vod/.oldies-goldies/compos/ASM99 PC non accel - 1st - Gasoline by recreation_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/no-accel/gasoline.zip|pouet:1611|youtube:ioA3xXzU4hk
 title:Cod Liver Oil|author:Damones|position:2|sceneorg:/parties/1999/assembly99/demo/no-accel/cod_live.zip|pouet:2416
@@ -105,7 +105,7 @@ title:Anataus 6|author:Fit|position:9|media:/vod/.oldies-goldies/compos/ASM99 PC
 title:Life|author:The Moose Brothers|position:10|media:/vod/.oldies-goldies/compos/ASM99 PC non accel - 10th - Life by The Moose Brothers_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/no-accel/life_by_.zip|pouet:14249|youtube:tDDQ9atiMp4
 title:The Message|author:Php|position:11|media:/vod/.oldies-goldies/compos/ASM99 PC non accel - 11th - The Message by Php_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/no-accel/the_mess.zip|pouet:14247|youtube:ujubVL8lqrE
 
-! Raytrace graphics
+:section Raytrace graphics
 
 title:Hillevi Hiiri ja Amerikan serkku|author:orbiter|position:1|webfile:raytrace_graphics/hillevi_hiiri_ja_amerikan_serkku_by_orbiter.png|sceneorg:/parties/1999/assembly99/grfx/grtc/hillevi_.zip
 title:DragonRun|author:Hoax|position:2|webfile:raytrace_graphics/dragonrun_by_hoax.png|sceneorg:/parties/1999/assembly99/grfx/grtc/dragonru.zip
@@ -124,7 +124,7 @@ title:Restaurant|author:Ghost|position:14|webfile:raytrace_graphics/restaurant_b
 title:Space Invasion|author:Beam|position:15|webfile:raytrace_graphics/space_invasion_by_beam.jpeg|sceneorg:/parties/1999/assembly99/grfx/grtc/space_in.zip
 title:Underground|author:kulve|position:16|webfile:raytrace_graphics/underground_by_kulve.jpeg|sceneorg:/parties/1999/assembly99/grfx/grtc/undergro.zip
 
-! Wild demo
+:section Wild demo
 
 title:Asminator|author:the mans|position:1|media:/vod/.oldies-goldies/compos/ASM99 Wild - 1st - Asminator by the mans_h264_1856kbit.mp4|youtube:td1dLRCK5-o
 title:Bongfuck MCs - Uprocking Bitch|author:mankeli|position:2|media:/vod/.oldies-goldies/compos/ASM99 Wild - 2nd - Bongfuck MCs - Uprocking Bith by mankeli_h264_1856kbit.mp4|youtube:0ttFE1pekRI
@@ -138,14 +138,14 @@ title:Pihapiirin Eläimiä|author:Luontodokumenttiprojekti|position:9|media:/vod
 title:Kolme ihmistä rannalla|author:The TermoNuclear League of Liberty|position:10|media:/vod/.oldies-goldies/compos/ASM99 Wild - 10th - Kolme ihmistä rannalla by TNLL_h264_1856kbit.mp4|youtube:GnOICLNXh5U
 title:Stargate|author:Raimo Suulasnaama|position:11|media:/vod/.oldies-goldies/compos/ASM99 Wild - 11th - Stargate by Raimo Suulasnaama_h264_1856kbit.mp4|youtube:NVB7IapMmzc
 
-! Amiga demo
+:section Amiga demo
 
 title:Beats|author:Loveboat|position:1|sceneorg:/parties/1999/assembly99/amiga/demo/beats_by.zip|pouet:3448|dtv:id_file=3891&id_prod=1268&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3448.jpg&width=512&height=404
 title:Klone|author:Dual crew shining|position:2|sceneorg:/parties/1999/assembly99/amiga/demo/klone_by.zip|pouet:1562|dtv:id_file=2446&id_prod=5919&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1562.jpg&width=512&height=404
 title:Megademo|author:Mystic|position:3|sceneorg:/parties/1999/assembly99/amiga/demo/megademo.zip|pouet:3937
 title:Donut fetish|author:Yoman3|position:4|sceneorg:/parties/1999/assembly99/amiga/demo/donut_fe.zip|pouet:16215
 
-! Animation
+:section Animation
 
 title:Grumps|author:jarno|position:1|webfile:animation/grumps_by_jarno.mpeg|media:/vod/.oldies-goldies/compos/ASM99 Animation - 1st - Grumps by jarno_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/grumps_b.zip|pouet:9557|youtube:4SS3AB-ogCE
 title:Paradise|author:720 and Bluecow|position:2|webfile:animation/paradise_by_720_and_bluecow.mpeg|media:/vod/.oldies-goldies/compos/ASM99 Animation - 2nd - Paradise by 729 and Bluecow_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/paradise.zip|pouet:28306|dtv:id_file=4102&id_prod=12342&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/paradise_1.jpg&width=512&height=404|youtube:web5vCX6Y48
@@ -163,7 +163,7 @@ title:Gaagel|author:Mage The Man|position:13|webfile:animation/gaagel_by_mage_th
 title:A Bugs Love|author:Edward|position:14|webfile:animation/a_bugs_love_by_edward.mpeg|media:/vod/.oldies-goldies/compos/ASM99 Animation - 14th - A Bugs Love by Edward_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/a_bugs_l.zip|pouet:28305|youtube:eG489EbFZgY
 title:The Suicidal Stickman|author:Raynet and Squirrel|position:15|webfile:animation/the_suicidal_stickman_by_raynet_and_squirrel.mpeg|media:/vod/.oldies-goldies/compos/ASM99 Animation - 15th - The Suicidal Stickman by Raynet and Squirrel_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/anim/the_suic.zip|pouet:28315|youtube:AOl08MqDd-I
 
-! C64 demo
+:section C64 demo
 
 title:speedway 3|author:panic!|position:1|sceneorg:/parties/1999/assembly99/c64/demo/speedway.zip|pouet:1693
 title:J.A.Q.|author:Scallop|position:2|sceneorg:/parties/1999/assembly99/c64/demo/jaq_by_s.zip|pouet:26255
@@ -171,7 +171,7 @@ title:woznak´s jazz experience|author:visac|position:3|sceneorg:/parties/1999/a
 title:Beertime|author:Dekadence|position:4|sceneorg:/parties/1999/assembly99/c64/demo/beertime.zip
 title:OLD SKOOL|author:BioProduction|position:5|sceneorg:/parties/1999/assembly99/c64/demo/old_skoo.zip
 
-! PC demo
+:section PC demo
 
 title:Virhe|author:Mature Furk|position:1|media:/vod/.oldies-goldies/compos/ASM99 PC Accel demo - 1st - Virhe by Mature Furk_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/accel/virhe_by.zip|pouet:1084|youtube:pbP91an9DS8
 title:Traumatique|author:Trauma|position:2|media:/vod/.oldies-goldies/compos/ASM99 PC Accel demo - 2nd - Traumatique by Trauma_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/accel/traumati.zip|pouet:472|youtube:hyc_fyZR2qg
@@ -181,14 +181,14 @@ title:Evolution|author:Amuq Creations|position:5|media:/vod/.oldies-goldies/comp
 title:Edison|author:TsT|position:6|media:/vod/.oldies-goldies/compos/ASM99 PC Accel demo - 6th - Edison by TsT_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/accel/edison_b.zip|pouet:14244|youtube:ZhoTKZQ2yLM
 title:Error inside|author:fat chili team|position:7|media:/vod/.oldies-goldies/compos/ASM99 PC Accel demo - 7th - Error inside by fat chili team_h264_1856kbit.mp4|sceneorg:/parties/1999/assembly99/demo/accel/error_in.zip|pouet:14245|youtube:45EkiWGhXRQ
 
-! PC 64k intro
+:section PC 64k intro
 
 title:Viagra|author:Mewlers|position:1|sceneorg:/parties/1999/assembly99/in64/viagra_b.zip|pouet:293|dtv:id_file=4062&id_prod=11544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8754.jpg&width=512&height=404
 title:Flekk|author:Nah-kolor|position:2|sceneorg:/parties/1999/assembly99/in64/flekk_by.zip|pouet:449
 title:3x3|author:Reality Benders|position:3|sceneorg:/parties/1999/assembly99/in64/3x3_by_r.zip|pouet:14250
 title:Puheaika|author:Dazed Productions|position:4|sceneorg:/parties/1999/assembly99/in64/puheaika.zip
 
-! Graphics
+:section Graphics
 
 title:My headphones are waterproof|author:Shar|position:1|webfile:graphics/my_headphones_are_waterproof_by_shar.jpeg|sceneorg:/parties/1999/assembly99/grfx/my_headp.zip
 title:Nippon Steel|author:Beam|position:2|webfile:graphics/nippon_steel_by_beam.jpeg|sceneorg:/parties/1999/assembly99/grfx/nippon_s.zip
@@ -206,7 +206,7 @@ title:Orme|author:Zaac & Peskanov|position:13|webfile:graphics/orme_by_zaac_pesk
 title:World of Bubbles|author:Boose|position:14|webfile:graphics/world_of_bubbles_by_boose.png|sceneorg:/parties/1999/assembly99/grfx/world_of.zip
 title:BeastMaster|author:marzu|position:15|webfile:graphics/beastmaster_by_marzu.png|sceneorg:/parties/1999/assembly99/grfx/beastmas.zip
 
-! Multichannel music
+:section Multichannel music
 
 title:Monument|author:Nobody|position:1|webfile:multichannel_music/monument_by_nobody.mp3|sceneorg:/parties/1999/assembly99/mmul/monument.zip|youtube:ETMpsOYSY-I
 title:second time|author:Quasian|position:2|webfile:multichannel_music/second_time_by_quasian.mp3|sceneorg:/parties/1999/assembly99/mmul/second_t.zip|youtube:6fY6GIjY3QQ

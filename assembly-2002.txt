@@ -1,6 +1,6 @@
-# 2002
+:year 2002
 
-! Mobile demo
+:section Mobile demo
 
 title:Limbo (Pocket PC)|author:Byterapers & Doomsday|position:1|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:7156|youtube:6wEbYuoQdQQ
 title:perkele plus (Siemens SL45i)|author:contraz + excess|position:2|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:7129|dtv:id_file=1889&id_prod=7960&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7129.gif&width=512&height=404|youtube:jKma04-Q3tw
@@ -19,7 +19,7 @@ title:Ono (Nokia 7650)|author:Forsaken|position:0|sceneorg:/parties/2002/assembl
 title:Anynomous (Casio FX10)|author:Twinsoft|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/anynomous_by_twinsoft--casio_fx10.zip
 title:The Son of Grooveboy (GBA)|author:Sca9 Entertainment|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:8649
 
-! Oldskool graphics
+:section Oldskool graphics
 
 title:The Last Battle (C64)|author:Phase1 & Mermaid|position:1|webfile:oldskool_graphics/the_last_battle_c64_by_phase1_mermaid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/lastbattlebymermaid.zip
 title:Theodore Bear (C64)|author:Heatbeat/CNCD|position:2|sceneorg:/parties/2002/assembly02/oldskool/grfx/theodore_bear_by_heatbeat_cncd.zip
@@ -33,14 +33,14 @@ title:Kuplat (MSX)|author:Marq / Lieves!Tuore ^ Fit|position:9|webfile:oldskool_
 title:Paradise shore (C64)|author:Bregade11|position:10|webfile:oldskool_graphics/paradise_shore_c64_by_bregade11.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/paradiseshorebybredage11.zip
 title:Hymyile|author:Saksan Perussanasto/Jumalauta|position:0
 
-! Game development
+:section Game development
 
 title:Porrasturvat - Stair Dismount|author:Tarzan / tAAt|position:1|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 1st - Porrasturvat by Tarzan-tAAt_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/porrasturvat_by_taat.zip|pouet:7090|youtube:nNlTLJxZw78
 title:Mr. Pixel|author:Jens Bache-Wiig|position:2|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 2nd - Mr. Pixel by Jens Bache-Wiig_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/mrpixel.zip|pouet:7208|youtube:wv6Ps2YCyx8
 title:Blockofighter|author:Miika Sell & Juha Kaarlas|position:3|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 3rd - Blockofighter by Miika Sell, Juha Kaarlas_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/blockofighter.zip|pouet:7195|youtube:JeLvJnq4mQ8
 title:Capture the Prize|author:CustardForBrains|position:4|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 4th - Capture the Prize by CustardForBrains_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/capture_the_prize_by_custardforbrains.zip|pouet:8858|youtube:KrHOsHCoM6k
 
-! Oldskool demo
+:section Oldskool demo
 
 title:Impossiblator 2 (VIC-20)|author:pwp|position:1|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/impossiblator_2_by_pwp.zip|pouet:7121|youtube:melQL5ectvo
 title:My Kondom (C64)|author:Haujobb & Dekadence|position:2|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/mycondom.zip|pouet:7188|youtube:mohgZZsGgss
@@ -49,7 +49,7 @@ title:Vicious (VIC-20)|author:Dekadence|position:4|media:/vod/.oldies-goldies/co
 title:Outsider (C64)|author:Spaceballs|position:5|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 5th - Outsider by Spaceballs_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/outsider.zip|pouet:7213|youtube:MifNEW3wPsM
 title:Risperdal Dreams (C64)|author:Upstars|position:6|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/rispeldel.zip|pouet:9298|youtube:umpsRu2Hs-I
 
-! Analog graphics
+:section Analog graphics
 
 title:Snakes in oil|author:Partikle|position:1
 title:Blunt-smokin' AfroLinux|author:Pineapple|position:2|webfile:analog_graphics/blunt_smokin_afrolinux_by_pineapple.png|sceneorg:/parties/2002/assembly02/analog-grfx/pineapple-blunt_smokin_afrolinux.zip
@@ -62,7 +62,7 @@ title:Filipino Nature|author:Kingi|position:8|webfile:analog_graphics/filipino_n
 title:Untitled|author:MCK|position:9|webfile:analog_graphics/untitled_by_mck.png|sceneorg:/parties/2002/assembly02/analog-grfx/mck-untitled.zip
 title:Kafka's day off|author:Marq/Fit^Lieves!Tuore|position:10|webfile:analog_graphics/kafka_s_day_off_by_marq_fit_lieves_tuore.png|sceneorg:/parties/2002/assembly02/analog-grfx/marq-kafkas_day_off.zip
 
-! Fast music
+:section Fast music
 
 title:Jetkalenkka|author:Aikapallo|position:1|webfile:fast_music/jetkalenkka_by_aikapallo.mp3|sceneorg:/parties/2002/assembly02/fastmusic/jetkalenkka_by_aikapallo.zip|youtube:4v_q7gEx0fs
 title:Karjalan Haamu|author:Ari "DJArtz" Pulkkinen|position:2|webfile:fast_music/karjalan_haamu_by_ari_djartz_pulkkinen.mp3|sceneorg:/parties/2002/assembly02/fastmusic/karjalan_haamu_by_ari__djartz__pulkkinen.zip|youtube:NFzwgES3HBI
@@ -96,7 +96,7 @@ title:God ate all my 3 sleeves|author:Kheldysh|position:0|webfile:fast_music/god
 title:A Homage|author:Puti|position:0|webfile:fast_music/a_homage_by_puti.mp3|sceneorg:/parties/2002/assembly02/fastmusic/a_homage_by_puti.zip|youtube:4JlW3u8PO_4
 title:oh my dog|author:kiste / Team scene.ee|position:0|webfile:fast_music/oh_my_dog_by_kiste_team_scene_ee.mp3|sceneorg:/parties/2002/assembly02/fastmusic/oh_my_dog_by_kiste___team_scene_ee.zip|youtube:FDpNvSZRws8
 
-! Oldskool music
+:section Oldskool music
 
 title:Balls Of Steel (C64)|author:jammic|position:1|webfile:oldskool_music/balls_of_steel_c64_by_jammic.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ballsofsteel.zip|youtube:WEiAFBVuzBU
 title:Would You? (C64)|author:Britelite / Dekadence|position:2|webfile:oldskool_music/would_you_c64_by_britelite_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wouldyou.zip|youtube:zdoSeZbLGB4
@@ -133,7 +133,7 @@ title:Fields of Mist (PC)|author:humppamies / piAstro|position:0|webfile:oldskoo
 title:Attack in no time (PC)|author:Ilem|position:0|webfile:oldskool_music/attack_in_no_time_pc_by_ilem.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/attack_in_no_time_by_ilem.zip|youtube:pG1WT0WPXf4
 title:Primality|author:Gasman / Hooy-Program|position:0
 
-! Flash demo
+:section Flash demo
 
 title:Super mushroom sisters|author:RNO|position:1|media:/vod/.oldies-goldies/compos/ASM02 Flash - 1st - Super mushroom sisters by RNO_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/flash/super_mushroom_sisters_by_rno.zip|pouet:7126|youtube:kwSefGbYAuE
 title:Kreivi Krapula|author:Rapture Seekers|position:2|media:/vod/.oldies-goldies/compos/ASM02 Flash - 2nd - Kreivi Krapula by Rapture Seekers_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/flash/kreivi_krapula_by_rapture_seekers.zip|youtube:XchKMU_akSU
@@ -156,7 +156,7 @@ title:Invaders|author:piAstro|position:0|sceneorg:/parties/2002/assembly02/flash
 title:dokumenttiprojekti: velluorava|author:DoC / FD|position:0|sceneorg:/parties/2002/assembly02/flash/dokumenttiprojekti__velluorava_by_doc___fd__special_appearance_by_howler.zip
 title:Return of the Lamer|author:chosenone-|position:0|sceneorg:/parties/2002/assembly02/flash/return_of_the_lamer_by_chosenone-.zip
 
-! Combined demo
+:section Combined demo
 
 title:liquid... wen?|author:haujobb|position:1|sceneorg:/parties/2002/assembly02/demo/liquid____wen__by_haujobb.zip|pouet:7130|dtv:id_file=2992&id_prod=6254&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7130.gif&width=512&height=404|cappedtv:haujobb-liquid_wen&width=640&height=480
 title:Halla|author:Moppi Productions|position:2|media:/vod/.oldies-goldies/compos/ASM02 Demo - 2nd - Halla by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/demo/halla_by_moppi.zip|pouet:7132|dtv:id_file=1500&id_prod=4795&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7132.jpg&width=512&height=404|youtube:DsbEny9XBBQ
@@ -191,7 +191,7 @@ title:Wir sind raus|author:Anti Flash Konsortium|position:0|sceneorg:/parties/20
 title:Spring|author:Ananasmurska|position:0|sceneorg:/parties/2002/assembly02/demo/spring_by_ananasmurska_final.zip|pouet:8834
 title:My Dreams|author:Art mafia collective|position:0|sceneorg:/parties/2002/assembly02/demo/my_dreams_by_art_mafia_collective.zip
 
-! Instrumental music
+:section Instrumental music
 
 title:The Goblin Returns|author:Skaven / Future Crew|position:1|webfile:instrumental_music/the_goblin_returns_by_skaven_future_crew.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/the_goblin_returns_by_skaven___future_crew.zip|youtube:6Ah38jugfpw
 title:Conflict|author:Firestorm / Doomsday|position:2|webfile:instrumental_music/conflict_by_firestorm_doomsday.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/conflict_by_firestorm___doomsday_1.zip|youtube:-dgqIMDKUk8
@@ -319,7 +319,7 @@ title:Electric worm|author:sPiiKKi / Nalleperhe|position:0|webfile:instrumental_
 title:Avaruuspöpö|author:Ad Absurdum|position:0|webfile:instrumental_music/avaruusp_p_by_ad_absurdum.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/avaruusp_p__by_ad_absurdum.zip|youtube:9TaHOAgqUUY
 title:Flow|author:SounDemoN 1|position:0|webfile:instrumental_music/flow_by_soundemon_1.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/flow_by_soundemon.zip|youtube:CO6pvapYgqg
 
-! Forum Nokia 24h
+:section Forum Nokia 24h
 
 title:funky starfighter (Symbian OS)|author:portal project|position:1|sceneorg:/parties/2002/assembly02/forumnokia/funky_starfighter_by_portal_project_1.zip
 title:Shine (Java)|author:Komplex|position:2|sceneorg:/parties/2002/assembly02/forumnokia/shine_by_komplex.zip
@@ -330,7 +330,7 @@ title:crap|author:psikorp|position:0|sceneorg:/parties/2002/assembly02/forumnoki
 title:Max payne cracktro|author:White and black phantom fanclub|position:0|sceneorg:/parties/2002/assembly02/forumnokia/max_payne_cracktro_by_white_and_black_phantom_fanclub.zip
 title:Yksin|author:Jou|position:0|sceneorg:/parties/2002/assembly02/forumnokia/yksin_by_jou.zip
 
-! Wild demo
+:section Wild demo
 
 title:The Way Out|author:Unreal Voodoo|position:1|webfile:wild_demo/the_way_out_by_unreal_voodoo.mpeg|sceneorg:/parties/2002/assembly02/wild/the_way_out_by_unreal_voodoo.mpg|pouet:7144|youtube:7f3brR0U6CQ
 title:The Fellow Chip|author:Amazement|position:2|webfile:wild_demo/the_fellow_chip_by_amazement.mpeg|sceneorg:/parties/2002/assembly02/wild/the_fellow_chip_by_amazement.mpg|pouet:10386|youtube:ATDSEFGxIAE
@@ -356,7 +356,7 @@ title:Tuning tarina - The Movie|author:Tero K|position:0|webfile:wild_demo/tunin
 title:Pertti the Motion Picture|author:Spurged Squash|position:0|webfile:wild_demo/pertti_the_motion_picture_by_spurged_squash.avi|sceneorg:/parties/2002/assembly02/wild/pertti_by_spurged_squash.avi|youtube:nHZ5bopkn6Q
 title:The End Of The World|author:Golem|position:0|webfile:wild_demo/the_end_of_the_world_by_golem.mpeg|sceneorg:/parties/2002/assembly02/wild/the_end_of_the_world_by_golem.mpg|youtube:O35nM1mzOcc
 
-! Animation
+:section Animation
 
 title:Project Kerosene|author:Heikki Anttila & Milan Kolarovic|position:1|webfile:animation/project_kerosene_by_heikki_anttila_milan_kolarovic.avi|sceneorg:/parties/2002/assembly02/anim/project_kerosene_by_anttila_kolarovic.avi|pouet:8350|dtv:id_file=1499&id_prod=8350&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8350.jpg&width=512&height=404|youtube:6jrEP5xf3Tk
 title:Blue|author:Visualice and Melwyn of Haujobb|position:2|webfile:animation/blue_by_visualice_and_melwyn_of_haujobb.avi|sceneorg:/parties/2002/assembly02/anim/blue_by_melwyn.avi|pouet:7605|dtv:id_file=1836&id_prod=1521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7605.jpg&width=512&height=404|youtube:SV5sHpPtxp8
@@ -371,7 +371,7 @@ title:Aquarium|author:Entropia|position:0|webfile:animation/aquarium_by_entropia
 title:heikotus|author:nosfe/mfx|position:0|webfile:animation/heikotus_by_nosfe_mfx.mpeg|sceneorg:/parties/2002/assembly02/anim/heikotus_by_nosfe.mpg|pouet:7200|youtube:0baXmhuu87s
 title:Help!|author:Trance14 and Lapa|position:0|webfile:animation/help_by_trance14_and_lapa.mpeg|sceneorg:/parties/2002/assembly02/anim/help_by_trance14_and_lapa.mpg|pouet:20609|youtube:SMj1okSxx2o
 
-! Combined 64k intro
+:section Combined 64k intro
 
 title:squish|author:AND|position:1|media:/vod/.oldies-goldies/compos/ASM02 64k - 1st - squish by AND_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/in64/squish_by_and.zip|pouet:7135|youtube:GFn_JY0yIOc
 title:Future visions|author:Potion|position:2|media:/vod/.oldies-goldies/compos/ASM02 64k - 2nd - Future visions by Potion_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/in64/ass02.amiga.64k.potion.future.visions.vcd.mpeg|sceneorg:/parties/2002/assembly02/in64/future_visions_by_potion.lha|pouet:7210|youtube:loIHxyxwssw
@@ -395,7 +395,7 @@ title:Nokia Sucks|author:The Swedes|position:0|sceneorg:/parties/2002/assembly02
 title:unssi kertoo vitsin|author:jumalauta|position:0|sceneorg:/parties/2002/assembly02/in64/unssi_kertoo_vitsin_by_jumalauta.zip|pouet:6993
 title:vittu vs perkele|author:Odd|position:0|sceneorg:/parties/2002/assembly02/in64/vittu_vs_perkele_by_odd.zip|pouet:7186
 
-! Combined 4k intro
+:section Combined 4k intro
 
 title:humus3|author:Exploder / PUSH Entertainment|position:1|sceneorg:/parties/2002/assembly02/in4k/humus3_by_exploder___push_entertainment.lzx|pouet:7133
 title:Sotakyrpä|author:Spaceballs & Ephidrena|position:2|sceneorg:/parties/2002/assembly02/in4k/sotakyrpa_by_spaceballs_ephidrena.lha|pouet:7123
@@ -411,7 +411,7 @@ title:c.hello|author:HeadcrasH|position:10|sceneorg:/parties/2002/assembly02/in4
 title:lametus|author:lenin_ra|position:11|sceneorg:/parties/2002/assembly02/in4k/lametus_by_lenin_ra.zip|pouet:20612
 title:Sifiela|author:Itchi / Lonely Coders|position:12|sceneorg:/parties/2002/assembly02/in4k/sifiela_by_itchi___lonely_coders.zip|pouet:20613
 
-! Vocal music
+:section Vocal music
 
 title:Valley of the Past|author:Firestorm / Doomsday|position:1|webfile:vocal_music/valley_of_the_past_by_firestorm_doomsday.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/valley_of_the_past_by_firestorm___doomsday_1.zip|youtube:Fd6VoJUeHNI
 title:Rain Slows the Time|author:Bliss of Fairlight Music|position:2|webfile:vocal_music/rain_slows_the_time_by_bliss_of_fairlight_music.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/rain_slows_the_time_by_bliss_of_fairlight_music.zip|youtube:wBddsowZ10U
@@ -471,7 +471,7 @@ title:Psyko Manne|author:Da-|position:0|webfile:vocal_music/psyko_manne_by_da.mp
 title:Kasakkapartio|author:KPM|position:0|sceneorg:/parties/2002/assembly02/vocalmusic/kasakkapartio_by_kpm_1.zip-wasbadzip
 title:"World War II memoirs" theme (Asm'02 mix)|author:Milan Kolarovic (a.k.a. Acumen)|position:0|webfile:vocal_music/world_war_ii_memoirs_theme_asm_02_mix_by_milan_kolarovic_a_k_a_acumen.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/_world_war_ii_memoirs__theme__asm_02_mix__by_milan_kolarovic__a_k_a__acumen_.zip|youtube:L0Kb1YVKt9E
 
-! Raytraced graphics
+:section Raytraced graphics
 
 title:Butterfly|author:Antti Lehtinen|position:1|webfile:raytraced_graphics/butterfly_by_antti_lehtinen.png|sceneorg:/parties/2002/assembly02/grtc/butterfly_by_antti_lehtinen.zip
 title:You've got mail|author:Oozie|position:2|webfile:raytraced_graphics/you_ve_got_mail_by_oozie.png|sceneorg:/parties/2002/assembly02/grtc/you_ve_got_mail_by_oozie.zip
@@ -511,7 +511,7 @@ title:Asetelma|author:jou!|position:0|webfile:raytraced_graphics/asetelma_by_jou
 title:Experiment|author:D'Walker|position:0|webfile:raytraced_graphics/experiment_by_d_walker.png|sceneorg:/parties/2002/assembly02/grtc/experiment_by_d_walker.zip
 title:fly|author:Merlin IIK|position:0|webfile:raytraced_graphics/fly_by_merlin_iik.png|sceneorg:/parties/2002/assembly02/grtc/fly_by_by_merlin_iik.zip
 
-! Drawn graphics
+:section Drawn graphics
 
 title:Blood Donation|author:Calvin/Halo|position:1|webfile:drawn_graphics/blood_donation_by_calvin_halo.png|sceneorg:/parties/2002/assembly02/grfx/blood_donation_by_calvin_halo.zip
 title:Hitchhiker|author:maxon|position:2|webfile:drawn_graphics/hitchhiker_by_maxon.png|sceneorg:/parties/2002/assembly02/grfx/hitchhiker_by_maxon.zip

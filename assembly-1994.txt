@@ -1,12 +1,12 @@
-# 1994
+:year 1994
 
-! C64 music
+:section C64 music
 
 title:Illogical|author:Genius/Palace|position:1
 title:Anne|author:Thor/Extended|position:2
 title:Unnamed|author:Agemixer/Astral|position:3
 
-! 4 channel music
+:section 4 channel music
 
 title:Compulsion to Obey|author:Lizardking/Razor1911|position:1|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip|youtube:hdZC659Vvdg
 title:Blue shoe Blues|author:Petrof/Absolute|position:2|webfile:4_channel_music/blue_shoe_blues_by_petrof_absolute.mp3|sceneorg:/parties/1994/assembly94/m4ch/bsblues.zip|youtube:BjWum2zLGew
@@ -19,7 +19,7 @@ title:Sensitivity|author:Light|position:8|webfile:4_channel_music/sensitivity_by
 title:Berrycape.bu1|author:Nudcase/Balance|position:9|webfile:4_channel_music/berrycape_bu1_by_nudcase_balance.mp3|sceneorg:/parties/1994/assembly94/m4ch/berrycap.zip|youtube:tUx95UJQ84U
 title:Happypaskamies|author:Moby/Sanity|position:10
 
-! PC demo
+:section PC demo
 
 title:Verses|author:Electro Motive Force|position:1|sceneorg:/parties/1994/assembly94/demo/verses.zip|pouet:67|dtv:id_file=2337&id_prod=11521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/67.jpg&width=512&height=404
 title:Holistic|author:Cascada VR-section|position:2|sceneorg:/parties/1994/assembly94/demo/holistic.zip|pouet:7982
@@ -43,7 +43,7 @@ title:Accident|author:Axidental|position:19|sceneorg:/parties/1994/assembly94/de
 title:Dawn|author:Tei|position:20|sceneorg:/parties/1994/assembly94/demo/dawn.zip|pouet:8660
 title:The Mo|author:Demons|position:21|sceneorg:/parties/1994/assembly94/demo/themo.zip|pouet:8663
 
-! 32 channel music
+:section 32 channel music
 
 title:Walkaway|author:Stargazer/Sonic|position:1|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip|youtube:7cj8RRDaJy4
 title:Journey|author:Cube/Aggression|position:2|webfile:32_channel_music/journey_by_cube_aggression.mp3|sceneorg:/parties/1994/assembly94/mmul/journey.zip|youtube:S88tqzJ-RBg
@@ -56,13 +56,13 @@ title:Artificial Inteligence|author:Prism/Unexpected|position:8|webfile:32_chann
 title:Nobody Dreaming|author:Dune/Sonic PC|position:10|webfile:32_channel_music/nobody_dreaming_by_dune_sonic_pc.mp3|sceneorg:/parties/1994/assembly94/mmul/nobody.zip|youtube:75Tpdtwtg0U
 title:Lovesong|author:Channel5/Flp|position:11|webfile:32_channel_music/lovesong_by_channel5_flp.mp3|sceneorg:/parties/1994/assembly94/mmul/lovesong.zip|youtube:IrB4UP-gi78
 
-! C64 graphics
+:section C64 graphics
 
 title:Swislain|author:Electric/Extended|position:1
 title:Dragon|author:Mire/Panic|position:2
 title:Ischarah|author:Mr.Sex/Byterapers|position:3
 
-! PC 4k intro
+:section PC 4k intro
 
 title:Stoned|author:Dust|position:1|sceneorg:/parties/1994/assembly94/in4k/stoned.zip|pouet:10851
 title:Spam4kb|author:Tobo|position:2|sceneorg:/parties/1994/assembly94/in4k/spam4kb.zip|pouet:19196
@@ -76,7 +76,7 @@ title:JustdoIt|author:Megaduo/Grif|position:9|sceneorg:/parties/1994/assembly94/
 title:Happi Happi Joy Joy|author:P-nut/Darkzone|position:10|sceneorg:/parties/1994/assembly94/in4k/happijoy.zip|pouet:19198
 title:Plasmatic|author:Zden|position:11|sceneorg:/parties/1994/assembly94/in4k/plasmat.zip|pouet:24739
 
-! Amiga 40k intro
+:section Amiga 40k intro
 
 title:G-force|author:Pygmy Projects|position:1|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|pouet:3419
 title:Falurecolor|author:Razor 1911|position:2|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|pouet:7358
@@ -105,13 +105,13 @@ title:Hotdog|author:Meka Design|position:24|sceneorg:/parties/1994/assembly94/am
 title:Gurumeditation II|author:Eclipse|position:25|sceneorg:/parties/1994/assembly94/amiga/in40/gm2.zip|pouet:51149
 title:Crap!|author:Exhouse|position:26|sceneorg:/parties/1994/assembly94/amiga/in40/crap.zip|pouet:13338
 
-! C64 demo
+:section C64 demo
 
 title:Att. of the Stubidos 3|author:Beyond Force|position:1|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1732
 title:World of Code II|author:Byterapers|position:2|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1618
 title:Best of Trinomic|author:Trinomic|position:3|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:44715
 
-! Amiga demo
+:section Amiga demo
 
 title:Mindflow|author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.zip
 title:Breath Taker|author:Vitual Dreams|position:2|sceneorg:/parties/1994/assembly94/amiga/demo/vdbt.zip|pouet:2568
@@ -126,7 +126,7 @@ title:Ill Flower|author:unknown|position:10|sceneorg:/parties/1994/assembly94/am
 title:Creme|author:Embassy|position:11|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|pouet:6681
 title:Hardday|author:Emt Design|position:12|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|pouet:17250
 
-! Graphics
+:section Graphics
 
 title:Pain|author:Destop/Cyberiad & Carillon|position:1
 title:Wester Dog|author:RWO & Zinko / Polka Brothers|position:2|webfile:graphics/wester_dog_by_rwo_zinko_polka_brothers.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
@@ -152,7 +152,7 @@ title:Unfinished Tales|author:Marvel/Fc|position:21|webfile:graphics/unfinished_
 title:Abadoned Emotions|author:Olv/Acression|position:22
 title:Cat Eyes|author:Madster/Tcb|position:23|webfile:graphics/cat_eyes_by_madster_tcb.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
 
-! PC 64k intro
+:section PC 64k intro
 
 title:AirFrame|author:Prime|position:1|sceneorg:/parties/1994/assembly94/in64/airframe.zip|pouet:107
 title:Space Jam|author:Fascination|position:2|sceneorg:/parties/1994/assembly94/in64/spacejam.zip|pouet:2533

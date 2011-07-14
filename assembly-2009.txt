@@ -1,6 +1,6 @@
-# 2009
+:year 2009
 
-! Extreme music
+:section Extreme music
 
 title:I was a Nintendo Girl|author:King Thrill, Tekotuotanto|position:1|webfile:extreme_music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/extreme/music/i_was_a_nintendo_girl_by_king_thrill_tekotuotanto.zip|youtube:gl3bCG-o8rQ
 title:Heartbound|author:ilmarque^trilobit|position:2|webfile:extreme_music/heartbound_by_ilmarque_trilobit.mp3|sceneorg:/parties/2009/assembly09/extreme/music/heartbound_by_ilmarquetrilobit.mp3|youtube:nbe9xLTjyD8
@@ -29,7 +29,7 @@ title:kompromissikisat|author:tArzAn / tAAt 2009|position:0|webfile:extreme_musi
 title:F.U.N.K.Y.|author:rebb@paradise|position:0|webfile:extreme_music/f_u_n_k_y_by_rebb_paradise.mp3|sceneorg:/parties/2009/assembly09/extreme/music/funky_by_rebbparadise.mod|youtube:wufB_oFQQ8I
 title:meduusa ja hiekkalinna|author:blobtrox|position:0|webfile:extreme_music/meduusa_ja_hiekkalinna_by_blobtrox.mp3|sceneorg:/parties/2009/assembly09/extreme/music/meduusa_ja_hiekkalinna_by_blobtrox.zip|youtube:ZTFEdFruMjU
 
-! Game development
+:section Game development
 
 pouet:53620|author:Bombsquad|media:/vod/2009/Compos/933_Gamedev_Counterbalance_by_Bombsquad_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/gamedev/counterbalance_by_bombsquad.zip|title:Counterbalance|youtube:bSRXDi2s3pM|thumbnail:http://i.ytimg.com/vi/bSRXDi2s3pM/0.jpg|position:1|dtv:id_file=6211&id_prod=13868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53620_1.jpg&width=512&height=404
 pouet:53625|author:DDT|media:/vod/2009/Compos/930_Gamedev_Brainless_by_DDT_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/gamedev/brainless_by_ddt.zip|title:Brainless|youtube:lba9rkvt8p8|thumbnail:http://i.ytimg.com/vi/lba9rkvt8p8/0.jpg|position:2|dtv:id_file=6205&id_prod=13866&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53625_1.png&width=512&height=404
@@ -49,7 +49,7 @@ pouet:53627|author:Fragile|media:/vod/2009/Compos/919_Gamedev_Powerslide_by_Frag
 pouet:53626|author:ElectricApe|media:/vod/2009/Compos/921_Gamedev_Kuraperse_Racing_by_ElectricApe_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/gamedev/kuraperse_racing_by_electricape.zip|title:Kuraperse Racing|youtube:4UVNTHk3kKE|position:16|thumbnail:http://i.ytimg.com/vi/4UVNTHk3kKE/0.jpg
 pouet:53629|author:MikaakiM Production|media:/vod/2009/Compos/926_Gamedev_Globular_Arrebato_by_MikaakiM_Production_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/gamedev/globular_arrebato_by_mikaakim_production.zip|title:Globular Arrebato|youtube:pa3swWD6-Xo|position:17|thumbnail:http://i.ytimg.com/vi/pa3swWD6-Xo/0.jpg
 
-! 64k intro
+:section 64k intro
 
 pouet:53646|author:Ate Bit|media:/vod/2009/Compos/967_64k_Transform_by_Ate_Bit_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in64/transform_by_ate_bit.zip|title:Transform|youtube:BZ0ugNefzu8|thumbnail:http://i.ytimg.com/vi/BZ0ugNefzu8/0.jpg|position:1|dtv:id_file=6175&id_prod=13857&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53646_1.jpg&width=512&height=404|cappedtv:ate_bit-transform&width=640&height=482
 pouet:53656|author:Evoflash|media:/vod/2009/Compos/958_64k_Proof_of_Concept_by_Evoflash_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in64/proof_of_concept_by_evoflash.zip|title:Proof of Concept|youtube:aOxu_DcedRA|thumbnail:http://i.ytimg.com/vi/aOxu_DcedRA/0.jpg|position:2|dtv:id_file=6151&id_prod=13851&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53656_1.jpg&width=512&height=404
@@ -61,12 +61,12 @@ pouet:53640|author:f0x|media:/vod/2009/Compos/968_64k_CC2009_invitation_by_f0x_h
 pouet:53657|author:immersion|media:/vod/2009/Compos/959_64k_faux_flavors_by_immersion_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in64/faux_flavors_by_immersion-missing.tar.gz|title:faux flavors|youtube:1D2cbdhmrMw|thumbnail:http://i.ytimg.com/vi/1D2cbdhmrMw/0.jpg|position:8|dtv:id_file=6155&id_prod=13852&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/02_faux_shot.jpg&width=512&height=404
 pouet:53644|author:mrp|media:/vod/2009/Compos/960_64k_Klusteri_by_mrp_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in64/klusteri_by_mrp.zip|title:Klusteri|youtube:EAyYGz6uMKk|thumbnail:http://i.ytimg.com/vi/EAyYGz6uMKk/0.jpg|position:9|dtv:id_file=6159&id_prod=13853&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53644_1.jpg&width=512&height=404
 
-! Oldskool demo
+:section Oldskool demo
 
 pouet:53636|author:Unreal Voodoo|media:/vod/2009/Compos/993_Oldskool_3_and_half_inches_is_enough_by_Unreal_Voodoo_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/oldskool/demo/3_inches_is_enough_by_unreal_voodoo.zip|title:3½ inches is enough|youtube:kE1M58ov6V0|thumbnail:http://i.ytimg.com/vi/kE1M58ov6V0/0.jpg|position:1|dtv:id_file=6219&id_prod=13870&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53636_1.png&width=512&height=404
 author:Byterapers, inc.|media:/vod/2009/Compos/994_Oldskool_Children_of_the_Sign_by_Byterapers_h264_7168kbit.mp4|title:Children of the Sign|youtube:ud5TeDy-A7Q|position:2|thumbnail:http://i.ytimg.com/vi/ud5TeDy-A7Q/0.jpg
 
-! Fast graphics
+:section Fast graphics
 
 title:Wrong day to troll|author:mangis|position:1|webfile:fast_graphics/wrong_day_to_troll_by_mangis.jpeg|sceneorg:/parties/2009/assembly09/fast/grfx/wrong_day_to_troll_by_mangis.jpg
 title:Oh shiii-|author:john peeba|position:2|webfile:fast_graphics/oh_shiii_by_john_peeba.png|sceneorg:/parties/2009/assembly09/fast/grfx/oh_shiii_by_john_peeba.png
@@ -93,7 +93,7 @@ title:Stuck|author:DiamonDie|position:0|webfile:fast_graphics/stuck_by_diamondie
 title:Scene content at asm|author:jepp|position:0|webfile:fast_graphics/scene_content_at_asm_by_jepp.png|sceneorg:/parties/2009/assembly09/fast/grfx/scene_content_at_asm_by_jepp.png
 title:AfterBeach|author:Hopokka|position:0|webfile:fast_graphics/afterbeach_by_hopokka.png|sceneorg:/parties/2009/assembly09/fast/grfx/afterbeach_by_hopokka.png
 
-! Fast music
+:section Fast music
 
 title:kodin putkimies|author:shroomi|position:1|webfile:fast_music/kodin_putkimies_by_shroomi.mp3|sceneorg:/parties/2009/assembly09/fast/music/kodin_putkimies_by_shroomi.mp3|youtube:iLPQkG8_ADY
 title:the new Teruminator Bot|author:King Thrill, Tekotuotanto|position:2|webfile:fast_music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2009/assembly09/fast/music/the_new_teruminator_bot_by_king_thrill_tekotuotanto.mp3|youtube:jLU1hSAO95Y
@@ -116,7 +116,7 @@ title:arP TrippiN|author:eimink|position:0|webfile:fast_music/arp_trippin_by_eim
 title:Immutable|author:Bugg / PuavoHard|position:0|webfile:fast_music/immutable_by_bugg_puavohard.mp3|sceneorg:/parties/2009/assembly09/fast/music/immutable_by_bugg__puavohard.ogg|youtube:2Xf9gu1aINw
 title:Maximum 3000W|author:Poor E|position:0|webfile:fast_music/maximum_3000w_by_poor_e.mp3|sceneorg:/parties/2009/assembly09/fast/music/maximum_3000w_by_poor_e.mp3|youtube:pd1uKrKPkF4
 
-! Graphics
+:section Graphics
 
 title:Profit mot|author:maxon / HBC|position:1|webfile:graphics/profit_mot_by_maxon_hbc.jpeg|sceneorg:/parties/2009/assembly09/grfx/profit_motive_has_no_conscience_by_maxon__hbc.zip
 title:The Hummingbird|author:juriga|position:2|webfile:graphics/the_hummingbird_by_juriga.png|sceneorg:/parties/2009/assembly09/grfx/the_hummingbird_by_juriga.zip
@@ -148,7 +148,7 @@ title:Mä meen nyt nukkuun|author:Timo Perämaa|position:0|webfile:graphics/m_me
 title:Little girl in bloom|author:notsie|position:0|webfile:graphics/little_girl_in_bloom_by_notsie.png|sceneorg:/parties/2009/assembly09/grfx/little_girl_in_bloom_by_notsie.zip
 title:Hitchhiker|author:DiamonDie|position:0|webfile:graphics/hitchhiker_by_diamondie.png|sceneorg:/parties/2009/assembly09/grfx/hitchhiker_by_diamondie.zip
 
-! 4k intro
+:section 4k intro
 
 pouet:53605|author:Youth Uprising|media:/vod/2009/Compos/948_4k_Muon_Baryon_by_Youth_Uprising_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in4k/muon_baryon_by_youth_uprising.zip|title:Muon Baryon|youtube:RSckKYzkCiM|thumbnail:http://i.ytimg.com/vi/RSckKYzkCiM/0.jpg|position:1|dtv:id_file=6120&id_prod=13843&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53605_1.jpg&width=512&height=404|cappedtv:youth_uprising_mlat_design_out-muon_baryon&width=640&height=360
 pouet:53604|author:SQNY|media:/vod/2009/Compos/941_4k_Dollop_by_SQNY_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in4k/dollop_by_sqny.zip|title:Dollop|youtube:2OLSdmjqbSw|thumbnail:http://i.ytimg.com/vi/2OLSdmjqbSw/0.jpg|position:2|dtv:id_file=6100&id_prod=13838&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53604_1.jpg&width=512&height=404|cappedtv:sqny-dollop&width=640&height=358
@@ -168,7 +168,7 @@ title:2 koiraa savosta|author:brainlez Coders!|position:0|media:/vod/2009/Compos
 pouet:53672|author:mrp|media:/vod/2009/Compos/939_4k_Hasselnussen_by_mrp_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in4k/hasselnussen_by_mrp.zip|title:Hasselnussen|youtube:HtoXzHSN8L8|position:0|thumbnail:http://i.ytimg.com/vi/HtoXzHSN8L8/0.jpg
 title:Kilofile|author:npli|position:0|media:/vod/2009/Compos/946_4k_Kilofile_by_npli_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in4k/kilofile_by_npli.zip|pouet:53674|youtube:qsrrw4eD6D4
 
-! Short film
+:section Short film
 
 pouet:53660|author:Tekotuotanto|media:/vod/2009/Compos/1006_Short_Kanava_DELTA_by_Tekotuotanto_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/short/kanava_delta_by_tekotuotanto_h264-aac.mp4|title:Kanava DELTA|youtube:4GH2AdMudFI|thumbnail:http://i.ytimg.com/vi/4GH2AdMudFI/0.jpg|position:1|dtv:id_file=6239&id_prod=13875&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53660_1.jpg&width=512&height=404
 pouet:53661|author:Kouvola Krew|sceneorg:/parties/2009/assembly09/short/therell_be_balls_by_kouvola_krew.avi|title:There'll be balls|youtube:8DcvnZjGz5c|thumbnail:http://i.ytimg.com/vi/8DcvnZjGz5c/0.jpg|position:2|dtv:id_file=6223&id_prod=13871&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53661_1.jpg&width=512&height=404|cappedtv:kouvola_krew-therell_be_balls&width=720&height=404
@@ -183,7 +183,7 @@ title:Kekkulin keittiössä ep1|author:Kiss-maja Films|position:0|sceneorg:/part
 title:Bacon Fat|author:XETEK & red-|position:0|sceneorg:/parties/2009/assembly09/short/bacon_fat_by_xetek_and_red_1280x720.mp4|pouet:53680
 title:KOVA JANO|author:SBA|position:0|sceneorg:/parties/2009/assembly09/short/kova_jano.mp4|pouet:53679
 
-! Real wild demo
+:section Real wild demo
 
 pouet:53631|author:throb+t-rex|media:/vod/2009/Compos/986_RealWild_coder_colors_by_throb_t-rex_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/real_wild/c0d3r_c0l0rz_final_by_throb_t-rex.zip|title:coder colors|youtube:GioWiMxRHLQ|thumbnail:http://i.ytimg.com/vi/GioWiMxRHLQ/0.jpg|position:1|dtv:id_file=6247&id_prod=13877&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53631_1.jpg&width=512&height=404
 pouet:53635|author:Bemmu|media:/vod/2009/Compos/988_RealWild_Javascript_Wii_Emulator_by_Bemmu_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/real_wild/javascript_wii_emulator_by_bemmu.zip|title:Javascript Wii Emulator|youtube:_9qEWclzEiA|thumbnail:http://i.ytimg.com/vi/_9qEWclzEiA/0.jpg|position:2|dtv:id_file=6255&id_prod=13879&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53635_1.jpg&width=512&height=404
@@ -194,7 +194,7 @@ pouet:53632|author:Immersion|media:/vod/2009/Compos/987_RealWild_dime_cross_by_I
 pouet:53681|author:Wide Load|media:/vod/2009/Compos/984_RealWild_52_by_Wide_Load_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/real_wild/52_by_wide_load.zip|title:52|youtube:z7FC3fHGhv8|thumbnail:http://i.ytimg.com/vi/z7FC3fHGhv8/0.jpg|position:7|dtv:id_file=6243&id_prod=13876&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53681_1.jpg&width=512&height=404
 title:Demonscene|author:KorpisotuRiT|position:0|sceneorg:/parties/2009/assembly09/real_wild/demonscene_by_korpisoturit.swf|pouet:53678
 
-! Music
+:section Music
 
 title:[kuake]|author:paranoidx|position:1|webfile:music/kuake_by_paranoidx.mp3|sceneorg:/parties/2009/assembly09/music/kuake_by_paranoidx.mp3|youtube:zibFV4UK6jI
 title:Sovietski Electro|author:Rtzon King|position:2|webfile:music/sovietski_electro_by_rtzon_king.mp3|sceneorg:/parties/2009/assembly09/music/sovietski_electro_by_rtzon_king.mp3|youtube:p9Ey-MyQBcw
@@ -237,7 +237,7 @@ title:Dodecaphonic Excerpts|author:Linazero / RF|position:0|webfile:music/dodeca
 title:Mummon Kämpillä|author:TyypiZ|position:0|webfile:music/mummon_k_mpill_by_tyypiz.mp3|sceneorg:/parties/2009/assembly09/music/mummon_kampilla_by_tyypiz.mp3|youtube:4IgLgTDLd4M
 title:there is never too much..|author:microdots|position:0|webfile:music/there_is_never_too_much_by_microdots.mp3|sceneorg:/parties/2009/assembly09/music/there_is_never_too_much_by_microdots.mp3|youtube:H1u7VH5sSNU
 
-! Extreme graphics
+:section Extreme graphics
 
 title:You'll be illin|author:HBT|position:1|webfile:extreme_graphics/you_ll_be_illin_by_hbt.png|sceneorg:/parties/2009/assembly09/extreme/grfx/youll_be_illin_by_hbt.png
 title:Solitary Confinement|author:Faemiyah|position:2|webfile:extreme_graphics/solitary_confinement_by_faemiyah.png|sceneorg:/parties/2009/assembly09/extreme/grfx/solitary_confinement_by_faemiyah.zip
@@ -251,7 +251,7 @@ title:Selfish Shellfish|author:Duce/Extend|position:9|webfile:extreme_graphics/s
 title:Misfortuner|author:Norude|position:10|webfile:extreme_graphics/misfortuner_by_norude.png|sceneorg:/parties/2009/assembly09/extreme/grfx/misfortuner_by_norude.png
 title:IsoVeli|author:mrp|position:11|webfile:extreme_graphics/isoveli_by_mrp.png|sceneorg:/parties/2009/assembly09/extreme/grfx/isoveli_by_mrp.zip
 
-! Demo
+:section Demo
 
 pouet:53647|author:CNCD & Fairlight & Orange|media:/vod/2009/Compos/976_Demo_Frameranger_by_CNCD_Fairlight_Orange_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/demo/frameranger_by_cncd__fairlight__orange.zip|title:Frameranger|youtube:M35mnRixFcM|thumbnail:http://i.ytimg.com/vi/M35mnRixFcM/0.jpg|position:1|dtv:id_file=6064&id_prod=13829&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53647_1.jpg&width=512&height=404|cappedtv:cncd_orange_fairlight-frameranger&width=640&height=358
 pouet:53654|author:Pyrotech|media:/vod/2009/Compos/983_Demo_Project_Avarus_by_Pyrotech_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/demo/project_avarus_by_pyrotech.zip|title:Project Avarus|youtube:9hFt-rjVUKs|thumbnail:http://i.ytimg.com/vi/9hFt-rjVUKs/0.jpg|position:2|dtv:id_file=6068&id_prod=13830&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53654_1.jpg&width=512&height=404
@@ -263,7 +263,7 @@ pouet:53650|author:Division|media:/vod/2009/Compos/973_Demo_Evolve_by_Division_h
 pouet:53651|author:friction|media:/vod/2009/Compos/980_Demo_FR001_Attraction_by_friction_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/demo/fr001_attraction_by_friction.zip|title:fr-001: attraction|youtube:7hOrJoevxEw|thumbnail:http://i.ytimg.com/vi/7hOrJoevxEw/0.jpg|position:8|dtv:id_file=6092&id_prod=13836&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53651_1.jpg&width=512&height=404
 pouet:53639|author:adapt|media:/vod/2009/Compos/975_Demo_Devour_by_adapt_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/demo/devour_by_adapt.zip|title:Devour|youtube:1afSToHLFqw|thumbnail:http://i.ytimg.com/vi/1afSToHLFqw/0.jpg|position:9|dtv:id_file=6096&id_prod=13837&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53639_1.jpg&width=512&height=404
 
-! AssemblyTV
+:section AssemblyTV
 
 title:Scene Quiz Show - Qualifier 1|author:AssemblyTV|media:/vod/2009/AssemblyTV/800_Scene_Quiz_Show-Qualifier_1_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/800|youtube:5U7BujEA1Yg
 title:Scene Quiz Show - Qualifier 3|author:AssemblyTV|media:/vod/2009/AssemblyTV/802_Scene_Quiz_Show-Qualifier_3_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/802|youtube:fOGJqS9ArlQ
@@ -301,7 +301,7 @@ title:Desert Planet Interview|author:AssemblyTV|media:/vod/2009/AssemblyTV/913_d
 title:Goto80 interview|author:AssemblyTV|media:/vod/2009/AssemblyTV/1008_Goto80_interview_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1008|youtube:X_ZNhdXLYrk
 title:Assembly Concerts 2009 - DJ Daemon set|author:AssemblyTV|media:/vod/2009/AssemblyTV/1011_Assembly_Concerts_2009-DJ_Daemon-set_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1011|youtube:dRWTg29hnYQ
 
-! Seminars
+:section Seminars
 
 title:Distributing and Monetizing Windows Mobile Applications through the Windows Marketplace for Mobile|author:Mark D Grady|media:/vod/2009/Seminars/877_Distributing_and_Monetizing_Windows_Mobile_Applications_through_the_Windows_Marketplace_for_Mobile_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/877|youtube:GSunRCdJ13c
 title:The Creation of Blueberry Garden - the inside story of the winner of IGF 2009|author:Erik Svedäng|media:/vod/2009/Seminars/881_The_Creation_of_Blueberry_Garden_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/881|youtube:dJptkQjNkXc

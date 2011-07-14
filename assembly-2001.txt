@@ -1,6 +1,6 @@
-# 2001
+:year 2001
 
-! Oldskool graphics
+:section Oldskool graphics
 
 title:Neuvosto-savo|author:VolvoQ / Doomsday|position:1|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
 title:meltdown|author:tempest / damage|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
@@ -9,7 +9,7 @@ title:Muijja|author:Marq / Lieves!Tuore ^ Fit|position:4|sceneorg:/parties/2001/
 title:Panther Pants|author:Electric / Extend|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
 title:Yo!|author:Ravel / AltParty Org.|position:6|sceneorg:/parties/2001/assembly01/oldskool/oldskool_gfx_compo-divx.avi
 
-! Drawn graphics
+:section Drawn graphics
 
 title:Anttilan kuvasto|author:Partikle|position:1|webfile:drawn_graphics/anttilan_kuvasto_by_partikle.png|sceneorg:/parties/2001/assembly01/grfx/anttilan_kuvasto_by_partikle.zip
 title:Krapulantappojuoma|author:Kaolo|position:2|webfile:drawn_graphics/krapulantappojuoma_by_kaolo.png|sceneorg:/parties/2001/assembly01/grfx/krapulantappojuoma_by_kaolo.zip
@@ -28,7 +28,7 @@ title:Follow teh cartoon wabbit|author:Infernal|position:14|webfile:drawn_graphi
 title:Angel|author:Pineapple|position:15|webfile:drawn_graphics/angel_by_pineapple.png|sceneorg:/parties/2001/assembly01/grfx/angel_by_pineapple.zip
 title:The Storm Is Coming|author:John Peeba|position:16|webfile:drawn_graphics/the_storm_is_coming_by_john_peeba.png|sceneorg:/parties/2001/assembly01/grfx/the_storm_is_coming_by_john_peeba.zip
 
-! MP3 music
+:section MP3 music
 
 title:When Time Slips Away|author:Firestorm / Waypoint|position:1|webfile:mp3_music/when_time_slips_away_by_firestorm_waypoint.mp3|sceneorg:/parties/2001/assembly01/mp3/when_time_slips_away_by_firestorm___waypoint.zip|youtube:4Rp9xvPnRN4
 title:Hail, Holy Queen|author:Nanaste|position:2|webfile:mp3_music/hail_holy_queen_by_nanaste.mp3|sceneorg:/parties/2001/assembly01/mp3/hail__holy_queen_by_nanaste.zip|youtube:c2NbzCJ2kTA
@@ -46,7 +46,7 @@ title:Yksi Miljoonasta|author:Lactic Acid|position:13|webfile:mp3_music/yksi_mil
 title:Dhesus - Kivitetty saatana|author:?kaytanhousuja|position:14|webfile:mp3_music/dhesus_kivitetty_saatana_by_kaytanhousuja.mp3|sceneorg:/parties/2001/assembly01/mp3/dhesus_-_kivitetty_saatana_by__kaytanhousuja.zip|youtube:vukMdN9OgKI
 title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|sceneorg:/parties/2001/assembly01/mp3/mind___body_by_abj.zip|youtube:gWxe2j8UIZg
 
-! Oldskool demo
+:section Oldskool demo
 
 title:Riyadh|author:Bandwagon|position:1|media:/vod/.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:id_file=4195&id_prod=8913&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7662.jpg&width=512&height=404|youtube:_2nbbvCqehg
 title:Impossiblator|author:pwp|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7663
@@ -54,7 +54,7 @@ title:Beertime 2|author:Dekadence|position:3|sceneorg:/parties/2001/assembly01/o
 title:Big Time|author:CNCD|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:16221
 title:Orivesi|author:Extend|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:17958
 
-! Fast music
+:section Fast music
 
 title:comrades|author:DJartz|position:1|webfile:fast_music/comrades_by_djartz.mp3|sceneorg:/parties/2001/assembly01/fastmusic/comrades_by_djartz.zip|youtube:lRRh7TfKsq0
 title:Reima|author:Aikapallo|position:2|webfile:fast_music/reima_by_aikapallo.mp3|sceneorg:/parties/2001/assembly01/fastmusic/reima_by_aikapallo.zip|youtube:OFbWb6s-m4U
@@ -67,7 +67,7 @@ title:Jamming At Night|author:Mikko Lahti|position:8|webfile:fast_music/jamming_
 title:fast music|author:Manwe|position:9|webfile:fast_music/fast_music_by_manwe.mp3|sceneorg:/parties/2001/assembly01/fastmusic/fast_music_by_manwe.zip|youtube:59_4Alydm2k
 title:Jazyh|author:Complex|position:10|webfile:fast_music/jazyh_by_complex.mp3|sceneorg:/parties/2001/assembly01/fastmusic/jazyh_by_complex.zip|youtube:CV0N_THEob8
 
-! Oldskool music
+:section Oldskool music
 
 title:Molecules|author:!Cube / Armada|position:1|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
 title:Fading Stars|author:Britelite|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
@@ -80,12 +80,12 @@ title:Valtavirtaa|author:Player One|position:8|sceneorg:/parties/2001/assembly01
 title:Soothe as a|author:Dr. Iceman|position:9|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
 title:suddenly|author:abaddon / damage|position:10|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi
 
-! Console demo
+:section Console demo
 
 title:Delicious|author:Yodel|position:1|media:/vod/.oldies-goldies/compos/ASM01 Console demo - 1st - Delicious by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/console/delicious.mpeg|sceneorg:/parties/2001/assembly01/console/ydl_deli.zip|pouet:3346|dtv:id_file=3874&id_prod=2771&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3346.jpg&width=512&height=404|youtube:ATWnd9kQAWs
 title:e338|author:unique|position:2
 
-! Combined 4k intro
+:section Combined 4k intro
 
 title:Humus 2|author:Exploder of PUSH Entertainment|position:1|media:/vod/.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in4k/humus2.lzx|pouet:3378|dtv:id_file=3829&id_prod=5174&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3378.jpg&width=512&height=404|youtube:Ef0KGpWejZI
 title:King of Fuck|author:Spaceballs VS Ephidrena|position:2|sceneorg:/parties/2001/assembly01/in4k/kof.lha|pouet:3372|dtv:id_file=3875&id_prod=5892&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3372.jpg&width=512&height=404
@@ -95,7 +95,7 @@ title:Callback|author:Analog44/array|position:5|sceneorg:/parties/2001/assembly0
 title:Acid Stars|author:Dairos/Nano|position:6|sceneorg:/parties/2001/assembly01/in4k/acid_stars_by_dairos_nano.zip|pouet:3304
 title:Corzi4k|author:Holisterit|position:7|sceneorg:/parties/2001/assembly01/in4k/corzi.zip|pouet:6282
 
-! Flash demo
+:section Flash demo
 
 title:Häiriö|author:RNO|position:1|media:/vod/.oldies-goldies/compos/ASM01 Flash demo - 1st - Häiriö by RNO_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/flash/hairio_by_rno.zip|pouet:4400|youtube:278nAUcmzAM
 title:Ufo vs Jurppi|author:Yazu / Kellari|position:2|sceneorg:/parties/2001/assembly01/flash/ufo_vs_jurppi_by_yazu_of_kellari.zip
@@ -110,13 +110,13 @@ title:Outsider|author:Rable|position:10|sceneorg:/parties/2001/assembly01/flash/
 title:The Flex quadri|author:Lame Illusions Corp.|position:11|sceneorg:/parties/2001/assembly01/flash/the_flex_quadri_by_lame_illusions_corp_.zip
 title:Trafintu|author:Diza|position:12|sceneorg:/parties/2001/assembly01/flash/trafintu_by_diza.zip
 
-! WinAmp plugin
+:section WinAmp plugin
 
 title:B-Plugin|author:Suckho / Byterapers, Inc|position:1|sceneorg:/parties/2001/assembly01/plugin/b-plugin_by_suckho_of_byterapers_inc.zip
 title:Classical Notes|author:BuG / PuavoHard|position:2|sceneorg:/parties/2001/assembly01/plugin/classical_notes_by_bug_of_puavohard.zip
 title:Raytracer|author:A-Men PC|position:3|sceneorg:/parties/2001/assembly01/plugin/raytracer_by_a-men_pc.zip
 
-! Animation
+:section Animation
 
 title:Show Our Power|author:gromit/mass|position:1|webfile:animation/show_our_power_by_gromit_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/show_our_power_by_gromit_of_mass.mpg|pouet:5205|dtv:id_file=3338&id_prod=9387&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5205.jpg&width=512&height=404|youtube:6POZpAdhxxU
 title:ken sent me|author:prick/mass|position:2|webfile:animation/ken_sent_me_by_prick_mass.mpeg|sceneorg:/parties/2001/assembly01/anim/ken_sent_me_by_prick_of_mass.mpg|pouet:5204|dtv:id_file=3320&id_prod=5841&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5204.jpg&width=512&height=404|youtube:14E76Iq3aGA
@@ -132,7 +132,7 @@ title:The Cube|author:T.E.O.|position:11|webfile:animation/the_cube_by_t_e_o.mpe
 title:SPACE D00DS|author:Ananasmurka|position:12|webfile:animation/space_d00ds_by_ananasmurka.mpeg|sceneorg:/parties/2001/assembly01/anim/space_d00ds_by_ananasmurska.mpg|pouet:28634|youtube:2ZEFuZELR9s
 title:Mindbender|author:MAD|position:13|webfile:animation/mindbender_by_mad.mpeg|sceneorg:/parties/2001/assembly01/anim/mindbender_by_mad.mpg|pouet:28635|youtube:oXmCzf_1mxg
 
-! Wild demo
+:section Wild demo
 
 title:LeGorSIKA|author:tAAt|position:1|webfile:wild_demo/legorsika_by_taat.mpeg|sceneorg:/parties/2001/assembly01/wild/legorsika_by_taat.mpg|pouet:3373|youtube:IlZJ8d-2Pgs
 title:World War 2 memoirs|author:Milan Kolarovic (a.k.a Acumen)|position:2|webfile:wild_demo/world_war_2_memoirs_by_milan_kolarovic_a_k_a_acumen.mpeg|sceneorg:/parties/2001/assembly01/wild/world_war_2_memoirs_by_milan_kolarovic.mpg|pouet:3374|youtube:oAmrCLBUSmE
@@ -150,7 +150,7 @@ title:Turhaa Paskaa|author:bORN|position:13|webfile:wild_demo/turhaa_paskaa_by_b
 title:Kaarlon Enkelit|author:WelhoFilmi|position:14|webfile:wild_demo/kaarlon_enkelit_by_welhofilmi.mpeg|sceneorg:/parties/2001/assembly01/wild/kaarlon_enkelit_by_welhofilmi.mpg|youtube:aC4ELqiqczQ
 title:Retaliation|author:Fire Mouse Productions|position:15|webfile:wild_demo/retaliation_by_fire_mouse_productions.mpeg|sceneorg:/parties/2001/assembly01/wild/retaliation_by_fire_mouse_productions.mpg|youtube:Kx4SwC9vWHI
 
-! Combined 64k intro
+:section Combined 64k intro
 
 title:Sonnet|author:Threestate|position:1|media:/vod/.oldies-goldies/compos/ASM01 64k - 1st - Sonnet by Threestate_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/in64/3s-sonnet.zip|pouet:3282|dtv:id_file=4054&id_prod=9664&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3282.jpg&width=512&height=404|youtube:Pb-r5PRQ32A
 title:Vaahtokarkit|author:Hipo / Lonely Coders|position:2|sceneorg:/parties/2001/assembly01/in64/vaahtokarkit_by_hipo___lonely_coders.zip|pouet:3368
@@ -168,7 +168,7 @@ title:10 Facts of Life|author:SKR!|position:13|sceneorg:/parties/2001/assembly01
 title:Stylee|author:Nano|position:14|sceneorg:/parties/2001/assembly01/in64/stylee_by_nano.zip
 title:Droplet vs Ocean|author:Digimind & Manwe|position:15|sceneorg:/parties/2001/assembly01/in64/droplet_vs_ocean_by_digimind___manwe.zip|pouet:3367
 
-! Multichannel music
+:section Multichannel music
 
 title:Funkacider|author:Reed / TRSi & Damage|position:1|webfile:multichannel_music/funkacider_by_reed_trsi_damage.mp3|sceneorg:/parties/2001/assembly01/mmul/funkacider_by_reed_of_trsi_and_damage.zip|youtube:itaVBIOe6Xk
 title:Al-Bahar Al-Ahmar|author:gspot / recreation & bandwagon|position:2|webfile:multichannel_music/al_bahar_al_ahmar_by_gspot_recreation_bandwagon.mp3|sceneorg:/parties/2001/assembly01/mmul/al-bahar_al-ahmar_by_gspot_of_recreation_and_bandwagon.zip|youtube:hiY8UYGvYkk
@@ -181,7 +181,7 @@ title:bjork7000|author:Aienn|position:8|webfile:multichannel_music/bjork7000_by_
 title:Double Dosage|author:Skeema|position:9|webfile:multichannel_music/double_dosage_by_skeema.mp3|sceneorg:/parties/2001/assembly01/mmul/double_dosage_by_skeema_.zip|youtube:IZw-xrJtGu0
 title:Beyond Reality|author:Complex|position:10|webfile:multichannel_music/beyond_reality_by_complex.mp3|sceneorg:/parties/2001/assembly01/mmul/beyond_reality_by_complex.zip|youtube:zorjVfbJGkQ
 
-! Raytraced graphics
+:section Raytraced graphics
 
 title:David vs Goliath|author:Oozie|position:1|webfile:raytraced_graphics/david_vs_goliath_by_oozie.png|sceneorg:/parties/2001/assembly01/grtc/david_vs_goliath_by_oozie.zip
 title:Draakko|author:kustaa|position:2|webfile:raytraced_graphics/draakko_by_kustaa.png|sceneorg:/parties/2001/assembly01/grtc/draakko_by_kustaa.zip
@@ -199,7 +199,7 @@ title:Avatar|author:Sarod|position:13|webfile:raytraced_graphics/avatar_by_sarod
 title:Mecceri|author:A-J|position:14|webfile:raytraced_graphics/mecceri_by_a_j.png|sceneorg:/parties/2001/assembly01/grtc/mecceri_by_a-j.zip
 title:Jess|author:Frand|position:15|webfile:raytraced_graphics/jess_by_frand.png|sceneorg:/parties/2001/assembly01/grtc/jess_by_frand.zip
 
-! Combined demo
+:section Combined demo
 
 title:Lapsuus|author:MatureFurk|position:1|media:/vod/.oldies-goldies/compos/ASM01 demo - 1st - Lapsuus by MatureFurk_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/lapsuus.lha|pouet:3284|dtv:id_file=2483&id_prod=6070&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3284.jpg&width=512&height=404|youtube:1ClmFGQ7I1s
 title:gerbera|author:moppi productions|position:2|media:/vod/.oldies-goldies/compos/ASM01 Demo - 2nd - gerbera by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/demo/gerbera_by_moppi_productions.zip|pouet:3286|dtv:id_file=3192&id_prod=4525&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3286.jpg&width=512&height=404|youtube:RCufCFBCVJA

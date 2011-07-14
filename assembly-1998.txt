@@ -1,6 +1,6 @@
-# 1998
+:year 1998
 
-! C64 music
+:section C64 music
 
 title:tribute2sinatra|author:tbb|position:1|sceneorg:/parties/1998/assembly98/c64music/tribute2.zip
 title:Jamaican sixtyfour|author:Venturus & Abaddon|position:2|sceneorg:/parties/1998/assembly98/c64music/jamaican.zip
@@ -12,7 +12,7 @@ title:4give|author:barracuda|position:7|sceneorg:/parties/1998/assembly98/c64mus
 title:jazz crackers|author:alive in hell|position:8|sceneorg:/parties/1998/assembly98/c64music/jazz_cra.zip
 title:jokela 3|author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/assembly98/c64music/jokela_3.zip
 
-! Amiga 64k intro
+:section Amiga 64k intro
 
 title:edit0.5|author:haujobb|position:1|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|pouet:1035
 title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|pouet:3518|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404
@@ -24,7 +24,7 @@ title:dcsintro|author:Dcs|position:7|sceneorg:/parties/1998/assembly98/amiga64k/
 title:damones assembly 98|author:damones|position:8|sceneorg:/parties/1998/assembly98/amiga64k/damones_.zip
 title:Seamless|author:Extend|position:0|sceneorg:/parties/1998/assembly98/amiga64k/seamless.zip
 
-! Java demo
+:section Java demo
 
 title:GODOG|author:Complex|position:1|sceneorg:/parties/1998/assembly98/javademo/godog_by.zip|pouet:888
 title:Loop.2|author:Digital Nerds|position:2|sceneorg:/parties/1998/assembly98/javademo/loop2_by.zip|pouet:1408
@@ -35,7 +35,7 @@ title:Space Odyssey|author:NySTuL|position:6|sceneorg:/parties/1998/assembly98/j
 title:Return of the Mack|author:H-Town/Silents|position:7|sceneorg:/parties/1998/assembly98/javademo/return_o.zip
 title:Lee|author:Sail|position:8|sceneorg:/parties/1998/assembly98/javademo/lee_by_s.zip
 
-! Wild demo
+:section Wild demo
 
 title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:/parties/1998/assembly98/wilddemo/get_real.zip|pouet:23298|youtube:b9pJ8RzZuss
 title:Paha posteljooni|author:Insane Bastards productions|position:2|sceneorg:/parties/1998/assembly98/wilddemo/paha_pos.zip
@@ -56,13 +56,13 @@ title:Real Demo|author:Hämäläiset|position:0|sceneorg:/parties/1998/assembly9
 title:hjk|author:jkj|position:0|sceneorg:/parties/1998/assembly98/wilddemo/hjk_by_j.zip
 title:Mister M|author:Spaketti Produkts|position:0|sceneorg:/parties/1998/assembly98/wilddemo/mister_m.zip
 
-! C64 graphics
+:section C64 graphics
 
 title:Alley|author:Mike|position:1|sceneorg:/parties/1998/assembly98/c64graph/alley_by.zip
 title:kahviuni 13|author:electric|position:2|sceneorg:/parties/1998/assembly98/c64graph/kahviuni.zip
 title:Daydream believer|author:Debris|position:3|sceneorg:/parties/1998/assembly98/c64graph/daydream.zip
 
-! PC 4k intro
+:section PC 4k intro
 
 title:Mesha|author:Picard / Rhyme|position:1|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|pouet:954
 title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|pouet:6507
@@ -73,13 +73,13 @@ title:Sunrise|author:Digimind|position:6|sceneorg:/parties/1998/assembly98/pc4ki
 title:titanic|author:3G Design|position:7|sceneorg:/parties/1998/assembly98/pc4kintr/titanic_.zip|pouet:9348
 title:the box|author:ultrabright|position:8|sceneorg:/parties/1998/assembly98/pc4kintr/the_box_.zip|pouet:9350
 
-! C64 demo
+:section C64 demo
 
 title:Speedway 2|author:Panic|position:1|sceneorg:/parties/1998/assembly98/c64demo/speedway.zip|pouet:1692
 title:Perse|author:geFiLUS|position:2|sceneorg:/parties/1998/assembly98/c64demo/perse_by.zip|pouet:24248
 title:kumivanilja|author:yleisradio|position:3|sceneorg:/parties/1998/assembly98/c64demo/kumivani.zip|pouet:24247
 
-! Raytrace graphics
+:section Raytrace graphics
 
 title:hms victory|author:frank|position:1|webfile:raytrace_graphics/hms_victory_by_frank.png|sceneorg:/parties/1998/assembly98/raytrace/hms_vict.zip
 title:Raytraced car|author:Maxwell|position:2|webfile:raytrace_graphics/raytraced_car_by_maxwell.png|sceneorg:/parties/1998/assembly98/raytrace/raytrace.zip
@@ -118,14 +118,14 @@ title:FutureSlug|author:Sparrow|position:0|sceneorg:/parties/1998/assembly98/ray
 title:tuomion tossu|author:Tatü|position:0|webfile:raytrace_graphics/tuomion_tossu_by_tat.jpeg|sceneorg:/parties/1998/assembly98/raytrace/tuomion_.zip
 title:Jonui, Windkeeper|author:HaH|position:0|sceneorg:/parties/1998/assembly98/raytrace/jonui_wi.zip
 
-! Windows demo
+:section Windows demo
 
 title:Bleam (win version)|author:Lionhead|position:1|sceneorg:/parties/1998/assembly98/windowsd/bleam_wi.zip|pouet:2555
 title:This is how we party|author:m.A.d Software|position:2|sceneorg:/parties/1998/assembly98/windowsd/this_is_.zip|pouet:8057
 title:Demonic|author:Refinition & Dimercis|position:3|sceneorg:/parties/1998/assembly98/windowsd/demonic_.zip|pouet:25490
 title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:/parties/1998/assembly98/windowsd/anonymou.zip|pouet:25239
 
-! Amiga demo
+:section Amiga demo
 
 title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:id_file=2441&id_prod=8796&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/194.jpg&width=512&height=404
 title:dELTA|author:Embassy|position:2|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|pouet:3736
@@ -135,7 +135,7 @@ title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigad
 title:Boogienights|author:sPEDES|position:6|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|pouet:12670
 title:High Sport Grammar|author:T.C.W|position:0|sceneorg:/parties/1998/assembly98/amigadem/high_spo.zip
 
-! Animation
+:section Animation
 
 title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:id_file=3360&id_prod=1215&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/6445.jpg&width=512&height=404|youtube:mKfLEs_27UU
 title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|pouet:28283|youtube:CLOqywkx-Sw
@@ -153,7 +153,7 @@ title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|
 title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:/parties/1998/assembly98/animatio/1024_kby.zip|pouet:28294|youtube:GTomiJTUvFM
 title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:/parties/1998/assembly98/animatio/foggyday.zip|pouet:28295|youtube:X2fBmEfkC4Y
 
-! Music
+:section Music
 
 title:Schotsman in a skirt|author:!cube/Trauma|position:1|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|sceneorg:/parties/1998/assembly98/music/schotsma.zip|youtube:iqpYFH3eBqA
 title:System 51|author:Quasian|position:2|webfile:music/system_51_by_quasian.mp3|sceneorg:/parties/1998/assembly98/music/system_5.zip|youtube:g-oYGM7FcL0
@@ -305,7 +305,7 @@ title:aerobicworkout'79|author:aurini|position:0|webfile:music/aerobicworkout_79
 title:Behind the sun|author:xlr8r|position:0|webfile:music/behind_the_sun_by_xlr8r.mp3|sceneorg:/parties/1998/assembly98/music/behind_t.zip|youtube:LpA2ZmdwfW4
 title:The Dream|author:Razoredge|position:0|webfile:music/the_dream_by_razoredge.mp3|sceneorg:/parties/1998/assembly98/music/the_drea.zip|youtube:MvQ9hG_rPkg
 
-! Graphics
+:section Graphics
 
 title:Scared|author:Pixel/Future Crew|position:1|webfile:graphics/scared_by_pixel_future_crew.png|sceneorg:/parties/1998/assembly98/graphics/scared_b.zip
 title:Unique|author:Kidlove/Scoopex|position:2|webfile:graphics/unique_by_kidlove_scoopex.png|sceneorg:/parties/1998/assembly98/graphics/unique_b.zip
@@ -346,7 +346,7 @@ title:Tank Girl And ME|author:Duffy|position:0|webfile:graphics/tank_girl_and_me
 title:Young World|author:Greenpix / universe & ex|position:0|webfile:graphics/young_world_by_greenpix_universe_ex.gif|sceneorg:/parties/1998/assembly98/graphics/young_wo.zip
 title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_treme.png|sceneorg:/parties/1998/assembly98/graphics/solid_as.zip
 
-! PC demo
+:section PC demo
 
 title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295|cappedtv:trauma-gateways&width=640&height=400
 title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147
@@ -375,7 +375,7 @@ title:Nexxus|author:CUD|position:0|sceneorg:/parties/1998/assembly98/pcdemo/nexx
 title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|pouet:13231
 title:Johnny weasel|author:Dawn 3|position:0|sceneorg:/parties/1998/assembly98/pcdemo/johnny_w.zip|pouet:2975
 
-! PC 64k intro
+:section PC 64k intro
 
 title:Oxygen|author:Coral|position:1|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|pouet:4326
 title:Technicolor|author:Moottori|position:2|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|pouet:4747

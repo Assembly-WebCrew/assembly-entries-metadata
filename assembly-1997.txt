@@ -1,6 +1,6 @@
-# 1997
+:year 1997
 
-! C64 music
+:section C64 music
 
 title:Fugue in G-Minor|author:Trident/Active|position:1
 title:Oldskool|author:Cube!/Trauma+Palace|position:2
@@ -19,7 +19,7 @@ title:kestomono|author:tempest/abomination/panic|position:14
 title:Turga!|author:Barracuda/Extend|position:15
 title:Villean|author:AMJ|position:16
 
-! Amiga 64k intro
+:section Amiga 64k intro
 
 title:911|author:Limbo|position:1|pouet:3678
 title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:id_file=4161&id_prod=12259&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3524.jpg&width=512&height=404
@@ -29,14 +29,14 @@ title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
 title:Memories of Fog|author:Radio|position:6
 title:Touche|author:Da Jormas|position:7
 
-! Java demo
+:section Java demo
 
 title:Javademo Ankka|author:Five Coders|position:1|pouet:6569
 title:Super|author:Ghetto Broz|position:2|pouet:6572
 title:The levels of Insight|author:dk-scene|position:3
 title:Javamiga|author:dCS|position:4
 
-! C64 graphics
+:section C64 graphics
 
 title:Scissors|author:Electric/Extend|position:1
 title:Leon|author:Tyrant/Resource/Therapy|position:2
@@ -47,7 +47,7 @@ title:Kazmazin|author:Ztri/Extend|position:6
 title:Superstar/tmp!|author:tempest/abomination/panic|position:7
 title:Unnamed|author:Jer/Panic|position:8
 
-! PC 4k intro
+:section PC 4k intro
 
 title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702
 title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609
@@ -58,17 +58,17 @@ title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/as
 title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927
 title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926
 
-! PC win95 demo
+:section PC win95 demo
 
 title:My Love|author:JapoTek|position:1|pouet:11572
 
-! C64 demo
+:section C64 demo
 
 title:Speedway|author:Panic|position:1|pouet:1691
 title:O-Tech People|author:Active|position:2|pouet:1672
 title:3D Highlights|author:Lepsi Developments|position:3|pouet:1685
 
-! Raytrace graphics
+:section Raytrace graphics
 
 title:Mars Bathfinder|author:Frank/Orange|position:1|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:Munhuone II|author:Peeri/Eclipse sf|position:2|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
@@ -86,7 +86,7 @@ title:Venus de Geller|author:recc/Radio|position:13|webfile:raytrace_graphics/ve
 title:Scene|author:Demonic/Reality Benders|position:14|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:Portal|author:Envision Virtual Studios|position:15
 
-! Wild demo
+:section Wild demo
 
 title:IP6 Itsenaisyyspaiva|author:United Nartists|position:1
 title:Stomping System|author:Pixel/Future Crew|position:2
@@ -97,7 +97,7 @@ title:Sininen Aamu|author:Mad Habit|position:6
 title:Hohtohetki|author:Retu/Vivid|position:7
 title:Coward|author:2nd Gen|position:8
 
-! Amiga demo
+:section Amiga demo
 
 title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:id_file=3878&id_prod=8437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/195.jpg&width=512&height=404
 title:Zoo|author:Puzzle|position:2|pouet:51429
@@ -105,7 +105,7 @@ title:Casting|author:Embassy|position:3|pouet:6675
 title:Zoom|author:Anadune|position:4|pouet:3811
 title:Timeout|author:C-lous/Haujobb/LED & Co|position:5
 
-! Animation
+:section Animation
 
 title:Cutie Wars|author:FSpirit/Dream One|position:1
 title:ID5|author:Pekko/Enhance|position:2
@@ -116,7 +116,7 @@ title:The Quest|author:Vertex/fd|position:6
 title:F-14 in action|author:Irixian/n.o.F/X|position:7
 title:Vote for Me|author:aa/roy|position:8
 
-! 4 channel music
+:section 4 channel music
 
 title:Omnipotent|author:Spay/Capacala|position:1
 title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip|youtube:0fi2e7UdQgA
@@ -134,7 +134,7 @@ title:Paranormal|author:Theseus|position:13
 title:Musiikki|author:BigLupu/Ural 13 Productions|position:14
 title:Joopa|author:DiONYS/Pillu|position:15
 
-! Graphics
+:section Graphics
 
 title:Vanishing Point|author:Rendall/AstroideA|position:1
 title:Sucker|author:Pixel/Future Crew|position:2
@@ -152,7 +152,7 @@ title:sIK bOJ|author:iSKA/VD-Flt|position:13
 title:Fighter and Troll|author:Kortal/Fairytale|position:14
 title:Fairy|author:Avocado/Lumen|position:15
 
-! PC demo
+:section PC demo
 
 title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
 title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86
@@ -170,7 +170,7 @@ title:7G|author:Sense|position:13|sceneorg:/parties/1997/assembly97/demo/sns_7gf
 title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936
 title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503
 
-! PC 64k intro
+:section PC 64k intro
 
 title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189
 title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610
@@ -181,7 +181,7 @@ title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in
 title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
 title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258
 
-! Multichannel music
+:section Multichannel music
 
 title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip|youtube:7pftQ1r_Wzk
 title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip|youtube:QuJW1DM34-o
