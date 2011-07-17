@@ -2,35 +2,35 @@
 
 :section Mobile demo
 
-title:Limbo (Pocket PC)|author:Byterapers & Doomsday|position:1|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:7156|youtube:6wEbYuoQdQQ
-title:perkele plus (Siemens SL45i)|author:contraz + excess|position:2|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:7129|dtv:id_file=1889&id_prod=7960&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7129.gif&width=512&height=404|youtube:jKma04-Q3tw
-title:Vit 2 (GBA)|author:Unique|position:3|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 3rd - Vit 2 by Unique_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/vit_2_by_unique-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/vit_2_by_unique_1--gba.zip|pouet:7150|dtv:id_file=3926&id_prod=11604&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7150.jpg&width=512&height=404|youtube:30zsknBfMlE
-title:Beyond the limits (GBA)|author:Vivid Design|position:4|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 4th - Beyond the limits by Vivid Design_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/beyond_the_limits_by_vivid_design-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/beynd_the_limits_by_vivid_design--gba.zip|pouet:7158|youtube:iGbTRRl0vCI
-title:Kumiakku (Yopi Linux)|author:tAAt 2002|position:5|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 5th - Kumiakku by tAAt_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/kumiakku_by_taat_2002-yopy_linux-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/kumiakku_by_taat_2002--yopy_linux.zip|pouet:7202|youtube:DacMvuaJlho
-title:Child's Play (GBC)|author:CNCD|position:6|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 6th - Child's play by CNCD_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/childs_play_by_cncd-gbc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/child_s_play_by_cncd--gbc.zip|pouet:7161|youtube:ybYN0T4oOWs
-title:Aikaspektri (Nokia 7650)|author:Extend & Embassy|position:7|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 7th - Aikaspektri by Extend, Embassy_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/aikaspektri_by_extend__embassy-nokia_7650-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/aikaspektri_by_extend___embassy--nokia_7650.zip|pouet:13757|youtube:VhXJ0oi0Kuw
-title:period of revolutionary transform (GBA)|author:Matt Current|position:8|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 8th - period of revolutionary transform by Matt Current_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/period_of_revolutionary_transform_by_matt_current-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/period_of_revolutionary_transform_by_matt_current--gba.zip|pouet:7149|youtube:yDO-0KjLkGg
-title:Eevil Flower (TI-82)|author:DrVeriEevil|position:9|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 9th - Eevil Flower by DrVeriEevil_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/eevil_flower_by_dr_verieevil-ti82-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/eevil_flower_by_drverieevil--ti82.zip|pouet:7160|youtube:FLnBRUNkOfM
-title:Anarchy (GBA)|author:Halo|position:10|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 10th - Anarchy by Halo_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/anarchy_by_halo-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/anarchy_by_halo--gba.zip|pouet:7159|youtube:rNUk-nGAhf0
-title:KILKEN (GBA)|author:calodox|position:11|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 11th - Kilken by calodox_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/kilken_by_calodox-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/kilken_by_calodox--gba.zip|pouet:7117|youtube:VxLBZ_H8biU
-title:925 (Nokia 3410)|author:komakomplex|position:12|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 12th - 925 by komakomplex_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/925_by_komakomplex-nokia_3410-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/925_by_komakomplex--nokia_3410.zip|pouet:7165|dtv:id_file=1890&id_prod=369&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7165.jpg&width=512&height=404|youtube:d7vsMYEfi08
-title:plutoniumia (Pocket PC)|author:aikarele|position:13|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 13th - plutoniumia by aikarele_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/plutoniumia_by_aikarele-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/plutoniumia_by_aikarele--ppc.zip|pouet:7214|youtube:k3YusW2AZ_o
-title:Ono (Nokia 7650)|author:Forsaken|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/ono_by_forsaken_1--nokia_7650.zip
-title:Anynomous (Casio FX10)|author:Twinsoft|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/anynomous_by_twinsoft--casio_fx10.zip
-title:The Son of Grooveboy (GBA)|author:Sca9 Entertainment|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:8649
+title:Limbo|author:Byterapers & Doomsday|position:1|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:7156|youtube:6wEbYuoQdQQ
+title:perkele plus|author:contraz + excess|position:2|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:7129|dtv:id_file=1889&id_prod=7960&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7129.gif&width=512&height=404|youtube:jKma04-Q3tw
+title:Vit 2|author:Unique|position:3|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 3rd - Vit 2 by Unique_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/vit_2_by_unique-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/vit_2_by_unique_1--gba.zip|pouet:7150|dtv:id_file=3926&id_prod=11604&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7150.jpg&width=512&height=404|youtube:30zsknBfMlE
+title:Beyond the limits|author:Vivid Design|position:4|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 4th - Beyond the limits by Vivid Design_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/beyond_the_limits_by_vivid_design-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/beynd_the_limits_by_vivid_design--gba.zip|pouet:7158|youtube:iGbTRRl0vCI
+title:Kumiakku|author:tAAt 2002|position:5|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 5th - Kumiakku by tAAt_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/kumiakku_by_taat_2002-yopy_linux-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/kumiakku_by_taat_2002--yopy_linux.zip|pouet:7202|youtube:DacMvuaJlho
+title:Child's Play|author:CNCD|position:6|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 6th - Child's play by CNCD_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/childs_play_by_cncd-gbc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/child_s_play_by_cncd--gbc.zip|pouet:7161|youtube:ybYN0T4oOWs
+title:Aikaspektri|author:Extend & Embassy|position:7|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 7th - Aikaspektri by Extend, Embassy_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/aikaspektri_by_extend__embassy-nokia_7650-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/aikaspektri_by_extend___embassy--nokia_7650.zip|pouet:13757|youtube:VhXJ0oi0Kuw
+title:period of revolutionary transform|author:Matt Current|position:8|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 8th - period of revolutionary transform by Matt Current_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/period_of_revolutionary_transform_by_matt_current-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/period_of_revolutionary_transform_by_matt_current--gba.zip|pouet:7149|youtube:yDO-0KjLkGg
+title:Eevil Flower|author:DrVeriEevil|position:9|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 9th - Eevil Flower by DrVeriEevil_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/eevil_flower_by_dr_verieevil-ti82-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/eevil_flower_by_drverieevil--ti82.zip|pouet:7160|youtube:FLnBRUNkOfM
+title:Anarchy|author:Halo|position:10|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 10th - Anarchy by Halo_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/anarchy_by_halo-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/anarchy_by_halo--gba.zip|pouet:7159|youtube:rNUk-nGAhf0
+title:KILKEN|author:calodox|position:11|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 11th - Kilken by calodox_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/kilken_by_calodox-gba-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/kilken_by_calodox--gba.zip|pouet:7117|youtube:VxLBZ_H8biU
+title:925|author:komakomplex|position:12|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 12th - 925 by komakomplex_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/925_by_komakomplex-nokia_3410-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/925_by_komakomplex--nokia_3410.zip|pouet:7165|dtv:id_file=1890&id_prod=369&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7165.jpg&width=512&height=404|youtube:d7vsMYEfi08
+title:plutoniumia|author:aikarele|position:13|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 13th - plutoniumia by aikarele_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/plutoniumia_by_aikarele-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/plutoniumia_by_aikarele--ppc.zip|pouet:7214|youtube:k3YusW2AZ_o
+title:Ono|author:Forsaken|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/ono_by_forsaken_1--nokia_7650.zip
+title:Anynomous|author:Twinsoft|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/anynomous_by_twinsoft--casio_fx10.zip
+title:The Son of Grooveboy|author:Sca9 Entertainment|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:8649
 
 :section Oldskool graphics
 
-title:The Last Battle (C64)|author:Phase1 & Mermaid|position:1|webfile:oldskool_graphics/the_last_battle_c64_by_phase1_mermaid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/lastbattlebymermaid.zip
-title:Theodore Bear (C64)|author:Heatbeat/CNCD|position:2|sceneorg:/parties/2002/assembly02/oldskool/grfx/theodore_bear_by_heatbeat_cncd.zip
-title:gawd bless america (C64)|author:tempest/damage|position:3|webfile:oldskool_graphics/gawd_bless_america_c64_by_tempest_damage.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/gawdblessamericabytempestdamage.zip
-title:Self-Portrait (C64)|author:Electric/Extend|position:4|webfile:oldskool_graphics/self_portrait_c64_by_electric_extend.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/selfpoirtraitby_elecktric.zip
-title:Sexi (C64)|author:Adam/DualCrew-Shining|position:5|webfile:oldskool_graphics/sexi_c64_by_adam_dualcrew_shining.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/sexibyadam.zip
-title:Numedia rage (C64)|author:voldoq/Doomsday|position:6|webfile:oldskool_graphics/numedia_rage_c64_by_voldoq_doomsday.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/numediaragebyvoldoq.zip
-title:Naisen paeae (SVI-328)|author:Ravel / Sleber Eid|position:7|webfile:oldskool_graphics/naisen_paeae_svi_328_by_ravel_sleber_eid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/naisenpaeaebyravel.zip
-title:Word! (VIC-20)|author:Britelite / Dekadence|position:8|webfile:oldskool_graphics/word_vic_20_by_britelite_dekadence.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/wordbybritlite.zip
-title:Kuplat (MSX)|author:Marq / Lieves!Tuore ^ Fit|position:9|webfile:oldskool_graphics/kuplat_msx_by_marq_lieves_tuore_fit.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/kuplatbymarq.zip
-title:Paradise shore (C64)|author:Bregade11|position:10|webfile:oldskool_graphics/paradise_shore_c64_by_bregade11.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/paradiseshorebybredage11.zip
+title:The Last Battle|author:Phase1 & Mermaid|position:1|webfile:oldskool_graphics/the_last_battle_c64_by_phase1_mermaid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/lastbattlebymermaid.zip
+title:Theodore Bear|author:Heatbeat/CNCD|position:2|sceneorg:/parties/2002/assembly02/oldskool/grfx/theodore_bear_by_heatbeat_cncd.zip
+title:gawd bless america|author:tempest/damage|position:3|webfile:oldskool_graphics/gawd_bless_america_c64_by_tempest_damage.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/gawdblessamericabytempestdamage.zip
+title:Self-Portrait|author:Electric/Extend|position:4|webfile:oldskool_graphics/self_portrait_c64_by_electric_extend.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/selfpoirtraitby_elecktric.zip
+title:Sexi|author:Adam/DualCrew-Shining|position:5|webfile:oldskool_graphics/sexi_c64_by_adam_dualcrew_shining.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/sexibyadam.zip
+title:Numedia rage|author:voldoq/Doomsday|position:6|webfile:oldskool_graphics/numedia_rage_c64_by_voldoq_doomsday.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/numediaragebyvoldoq.zip
+title:Naisen paeae|author:Ravel / Sleber Eid|position:7|webfile:oldskool_graphics/naisen_paeae_svi_328_by_ravel_sleber_eid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/naisenpaeaebyravel.zip
+title:Word!|author:Britelite / Dekadence|position:8|webfile:oldskool_graphics/word_vic_20_by_britelite_dekadence.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/wordbybritlite.zip
+title:Kuplat|author:Marq / Lieves!Tuore ^ Fit|position:9|webfile:oldskool_graphics/kuplat_msx_by_marq_lieves_tuore_fit.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/kuplatbymarq.zip
+title:Paradise shore|author:Bregade11|position:10|webfile:oldskool_graphics/paradise_shore_c64_by_bregade11.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/paradiseshorebybredage11.zip
 title:Hymyile|author:Saksan Perussanasto/Jumalauta|position:0
 
 :section Game development
@@ -42,12 +42,12 @@ title:Capture the Prize|author:CustardForBrains|position:4|media:/vod/.oldies-go
 
 :section Oldskool demo
 
-title:Impossiblator 2 (VIC-20)|author:pwp|position:1|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/impossiblator_2_by_pwp.zip|pouet:7121|youtube:melQL5ectvo
-title:My Kondom (C64)|author:Haujobb & Dekadence|position:2|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/mycondom.zip|pouet:7188|youtube:mohgZZsGgss
-title:Software Developer's Air Display (VIC-20)|author:CNCD|position:3|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 3rd - Software Developer's Air Display by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/software_developer_s_air_display_by_cncd.zip|pouet:7122|youtube:roxC5eYII2Y
-title:Vicious (VIC-20)|author:Dekadence|position:4|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 4th - Vicious by Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/vicious_d64.zip|pouet:7192|youtube:RcZVgz3Vbkw
-title:Outsider (C64)|author:Spaceballs|position:5|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 5th - Outsider by Spaceballs_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/outsider.zip|pouet:7213|youtube:MifNEW3wPsM
-title:Risperdal Dreams (C64)|author:Upstars|position:6|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/rispeldel.zip|pouet:9298|youtube:umpsRu2Hs-I
+title:Impossiblator 2|author:pwp|position:1|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/impossiblator_2_by_pwp.zip|pouet:7121|youtube:melQL5ectvo
+title:My Kondom|author:Haujobb & Dekadence|position:2|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/mycondom.zip|pouet:7188|youtube:mohgZZsGgss
+title:Software Developer's Air Display|author:CNCD|position:3|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 3rd - Software Developer's Air Display by CNCD_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/software_developer_s_air_display_by_cncd.zip|pouet:7122|youtube:roxC5eYII2Y
+title:Vicious|author:Dekadence|position:4|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 4th - Vicious by Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/vicious_d64.zip|pouet:7192|youtube:RcZVgz3Vbkw
+title:Outsider|author:Spaceballs|position:5|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 5th - Outsider by Spaceballs_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/outsider.zip|pouet:7213|youtube:MifNEW3wPsM
+title:Risperdal Dreams|author:Upstars|position:6|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/rispeldel.zip|pouet:9298|youtube:umpsRu2Hs-I
 
 :section Analog graphics
 
@@ -98,39 +98,39 @@ title:oh my dog|author:kiste / Team scene.ee|position:0|webfile:fast_music/oh_my
 
 :section Oldskool music
 
-title:Balls Of Steel (C64)|author:jammic|position:1|webfile:oldskool_music/balls_of_steel_c64_by_jammic.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ballsofsteel.zip|youtube:WEiAFBVuzBU
-title:Would You? (C64)|author:Britelite / Dekadence|position:2|webfile:oldskool_music/would_you_c64_by_britelite_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wouldyou.zip|youtube:zdoSeZbLGB4
-title:Child's Play Music (Game Boy)|author:Heatbeat/CNCD|position:3|sceneorg:/parties/2002/assembly02/oldskool/music/child_s_play_by_heatbeat_cncd.zip
-title:A Sad Fly In a Jar of Jam (PC)|author:KiWi|position:4|webfile:oldskool_music/a_sad_fly_in_a_jar_of_jam_pc_by_kiwi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/a_sad_fly_in_a_jar_of_jam_by_kiwi.zip|youtube:HtvqSSN08po
-title:Viides Simffonia (C64)|author:deetsay|position:5|sceneorg:/parties/2002/assembly02/oldskool/music/viides_simffonia_by_deetsay.zip
-title:Way up North (C64)|author:Player One / Dekadence|position:6|webfile:oldskool_music/way_up_north_c64_by_player_one_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wayupnorth.zip|youtube:6QW1R6E579U
-title:Das Hit (C64)|author:Agemixer or Scallop|position:7|webfile:oldskool_music/das_hit_c64_by_agemixer_or_scallop.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/dashit.zip|youtube:o_SwHPfTlQ0
-title:Spiral (C64)|author:SounDemoN|position:8|webfile:oldskool_music/spiral_c64_by_soundemon.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/spiral.zip|youtube:pO65vAS7-dI
-title:Cape Horn (PC)|author:Reed / Fairlight|position:9|webfile:oldskool_music/cape_horn_pc_by_reed_fairlight.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/cape_horn_by_reed___fairlight.zip|youtube:pVYN6OpKVdI
-title:blackjack (C64)|author:tempest & abaddon / damage|position:10|webfile:oldskool_music/blackjack_c64_by_tempest_abaddon_damage.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/blackjack.zip|youtube:C2fUMipoAZQ
-title:funkkin robot (PC)|author:sauli|position:11|webfile:oldskool_music/funkkin_robot_pc_by_sauli.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/funkkin_robot_by_sauli.zip|youtube:N8G10wyd0s8
-title:Bossa-ing Around (PC)|author:Rondo|position:12|webfile:oldskool_music/bossa_ing_around_pc_by_rondo.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/bossa-ing_around_by_rondo.zip|youtube:1MLzBTbIEZw
-title:Sokeritoukka (C64)|author:Thor/Extend|position:13|webfile:oldskool_music/sokeritoukka_c64_by_thor_extend.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/sokeritoukka.zip|youtube:c8RdSQsjoac
-title:Lunch Hour Automat (PC)|author:Acumen|position:14|webfile:oldskool_music/lunch_hour_automat_pc_by_acumen.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/lunch_hour_automat_by_acumen.zip|youtube:0cZYulocJgo
-title:eezi (PC)|author:major|position:15|webfile:oldskool_music/eezi_pc_by_major.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/eezi_by_major.zip|youtube:qOS3U_DQkgY
-title:Bubbletrouble (C64)|author:Ferrara / phObos team|position:0|sceneorg:/parties/2002/assembly02/oldskool/music/bubbletrouble_by_ferrara___phobos_team.zip
-title:Delion Princess (Amiga AHX)|author:Oxide / Sonik|position:0|sceneorg:/parties/2002/assembly02/oldskool/music/delion_princess_by_oxide___sonik.lha
-title:Left hands (PC)|author:PPessi|position:0|webfile:oldskool_music/left_hands_pc_by_ppessi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/left_hands_by_ppessi.zip|youtube:0j1Oq9bG4CE
-title:Chippi 5 (PC)|author:Rascal / Fascination|position:0|webfile:oldskool_music/chippi_5_pc_by_rascal_fascination.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/chippi_5_by_rascal___fascination.zip|youtube:O2pleoUoX-g
-title:Run! (C64)|author:Tabus|position:0
-title:motivaatiopurkaus (PC)|author:gremino|position:0|webfile:oldskool_music/motivaatiopurkaus_pc_by_gremino.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/motivaatiopurkaus_by_gremino.zip|youtube:XDQyLrpI3M8
-title:Prunk! (PC)|author:HEXAGON / Gender8 & SKR!|position:0|webfile:oldskool_music/prunk_pc_by_hexagon_gender8_skr.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/prunk__by_hexagon___gender8___skr_.zip|youtube:m9x-hFQLZqM
-title:Time has gone (PC)|author:Huezo|position:0|webfile:oldskool_music/time_has_gone_pc_by_huezo.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/time_has_gone_by_huezo.zip|youtube:H23Bt5h4P4A
-title:Chatterbox (PC)|author:Kandy|position:0|webfile:oldskool_music/chatterbox_pc_by_kandy.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/chatterbox_by_kandy.zip|youtube:cVTq9v3k-vI
-title:Timeless (PC)|author:Marwin / Noice|position:0|webfile:oldskool_music/timeless_pc_by_marwin_noice.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/timeless_by_marwin___noice.zip|youtube:PkcMMyyYme8
-title:moonflower (PC)|author:mathew/granma|position:0|webfile:oldskool_music/moonflower_pc_by_mathew_granma.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/moonflower_by_mathew_granma.zip|youtube:goNmMiS3PYY
-title:Erazor Cat (PC)|author:Flapjack & Pyromaniac of Madwizards|position:0|webfile:oldskool_music/erazor_cat_pc_by_flapjack_pyromaniac_of_madwizards.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/erazor_cat_by_flapjack___pyromaniac_of_madwizards.zip|youtube:szfZ5_tUsOI
-title:Oldschool Medley (PC)|author:Leopold|position:0|webfile:oldskool_music/oldschool_medley_pc_by_leopold.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/oldschool_medley_by_leopold.zip|youtube:OcXrmXyPdG4
-title:ilekkitrap (PC)|author:Juippi|position:0|webfile:oldskool_music/ilekkitrap_pc_by_juippi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ilekkitrap_by_juippi.zip|youtube:THUHCixc9IM
-title:ihana päivä (PC)|author:JuhoAP|position:0|webfile:oldskool_music/ihana_p_iv_pc_by_juhoap.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ihana_p_iv__by_juhoap.zip|youtube:pKZmzhxJb-I
-title:itaepasila (C64)|author:ISOTISSI LESBOLIISA|position:0
-title:Fields of Mist (PC)|author:humppamies / piAstro|position:0|webfile:oldskool_music/fields_of_mist_pc_by_humppamies_piastro.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/fields_of_mist_by_humppamies___piastro.zip|youtube:-pHS9zVb0jI
-title:Attack in no time (PC)|author:Ilem|position:0|webfile:oldskool_music/attack_in_no_time_pc_by_ilem.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/attack_in_no_time_by_ilem.zip|youtube:pG1WT0WPXf4
+title:Balls Of Steel|author:jammic|position:1|webfile:oldskool_music/balls_of_steel_c64_by_jammic.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ballsofsteel.zip|youtube:WEiAFBVuzBU
+title:Would You?|author:Britelite / Dekadence|position:2|webfile:oldskool_music/would_you_c64_by_britelite_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wouldyou.zip|youtube:zdoSeZbLGB4
+title:Child's Play Music|author:Heatbeat/CNCD|position:3|sceneorg:/parties/2002/assembly02/oldskool/music/child_s_play_by_heatbeat_cncd.zip
+title:A Sad Fly In a Jar of Jam|author:KiWi|position:4|webfile:oldskool_music/a_sad_fly_in_a_jar_of_jam_pc_by_kiwi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/a_sad_fly_in_a_jar_of_jam_by_kiwi.zip|youtube:HtvqSSN08po
+title:Viides Simffonia|author:deetsay|position:5|sceneorg:/parties/2002/assembly02/oldskool/music/viides_simffonia_by_deetsay.zip
+title:Way up North|author:Player One / Dekadence|position:6|webfile:oldskool_music/way_up_north_c64_by_player_one_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wayupnorth.zip|youtube:6QW1R6E579U
+title:Das Hit|author:Agemixer or Scallop|position:7|webfile:oldskool_music/das_hit_c64_by_agemixer_or_scallop.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/dashit.zip|youtube:o_SwHPfTlQ0
+title:Spiral|author:SounDemoN|position:8|webfile:oldskool_music/spiral_c64_by_soundemon.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/spiral.zip|youtube:pO65vAS7-dI
+title:Cape Horn|author:Reed / Fairlight|position:9|webfile:oldskool_music/cape_horn_pc_by_reed_fairlight.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/cape_horn_by_reed___fairlight.zip|youtube:pVYN6OpKVdI
+title:blackjack|author:tempest & abaddon / damage|position:10|webfile:oldskool_music/blackjack_c64_by_tempest_abaddon_damage.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/blackjack.zip|youtube:C2fUMipoAZQ
+title:funkkin robot|author:sauli|position:11|webfile:oldskool_music/funkkin_robot_pc_by_sauli.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/funkkin_robot_by_sauli.zip|youtube:N8G10wyd0s8
+title:Bossa-ing Around|author:Rondo|position:12|webfile:oldskool_music/bossa_ing_around_pc_by_rondo.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/bossa-ing_around_by_rondo.zip|youtube:1MLzBTbIEZw
+title:Sokeritoukka|author:Thor/Extend|position:13|webfile:oldskool_music/sokeritoukka_c64_by_thor_extend.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/sokeritoukka.zip|youtube:c8RdSQsjoac
+title:Lunch Hour Automat|author:Acumen|position:14|webfile:oldskool_music/lunch_hour_automat_pc_by_acumen.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/lunch_hour_automat_by_acumen.zip|youtube:0cZYulocJgo
+title:eezi|author:major|position:15|webfile:oldskool_music/eezi_pc_by_major.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/eezi_by_major.zip|youtube:qOS3U_DQkgY
+title:Bubbletrouble|author:Ferrara / phObos team|position:0|sceneorg:/parties/2002/assembly02/oldskool/music/bubbletrouble_by_ferrara___phobos_team.zip
+title:Delion Princess|author:Oxide / Sonik|position:0|sceneorg:/parties/2002/assembly02/oldskool/music/delion_princess_by_oxide___sonik.lha
+title:Left hands|author:PPessi|position:0|webfile:oldskool_music/left_hands_pc_by_ppessi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/left_hands_by_ppessi.zip|youtube:0j1Oq9bG4CE
+title:Chippi 5|author:Rascal / Fascination|position:0|webfile:oldskool_music/chippi_5_pc_by_rascal_fascination.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/chippi_5_by_rascal___fascination.zip|youtube:O2pleoUoX-g
+title:Run!|author:Tabus|position:0
+title:motivaatiopurkaus|author:gremino|position:0|webfile:oldskool_music/motivaatiopurkaus_pc_by_gremino.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/motivaatiopurkaus_by_gremino.zip|youtube:XDQyLrpI3M8
+title:Prunk!|author:HEXAGON / Gender8 & SKR!|position:0|webfile:oldskool_music/prunk_pc_by_hexagon_gender8_skr.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/prunk__by_hexagon___gender8___skr_.zip|youtube:m9x-hFQLZqM
+title:Time has gone|author:Huezo|position:0|webfile:oldskool_music/time_has_gone_pc_by_huezo.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/time_has_gone_by_huezo.zip|youtube:H23Bt5h4P4A
+title:Chatterbox|author:Kandy|position:0|webfile:oldskool_music/chatterbox_pc_by_kandy.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/chatterbox_by_kandy.zip|youtube:cVTq9v3k-vI
+title:Timeless|author:Marwin / Noice|position:0|webfile:oldskool_music/timeless_pc_by_marwin_noice.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/timeless_by_marwin___noice.zip|youtube:PkcMMyyYme8
+title:moonflower|author:mathew/granma|position:0|webfile:oldskool_music/moonflower_pc_by_mathew_granma.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/moonflower_by_mathew_granma.zip|youtube:goNmMiS3PYY
+title:Erazor Cat|author:Flapjack & Pyromaniac of Madwizards|position:0|webfile:oldskool_music/erazor_cat_pc_by_flapjack_pyromaniac_of_madwizards.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/erazor_cat_by_flapjack___pyromaniac_of_madwizards.zip|youtube:szfZ5_tUsOI
+title:Oldschool Medley|author:Leopold|position:0|webfile:oldskool_music/oldschool_medley_pc_by_leopold.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/oldschool_medley_by_leopold.zip|youtube:OcXrmXyPdG4
+title:ilekkitrap|author:Juippi|position:0|webfile:oldskool_music/ilekkitrap_pc_by_juippi.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ilekkitrap_by_juippi.zip|youtube:THUHCixc9IM
+title:ihana päivä|author:JuhoAP|position:0|webfile:oldskool_music/ihana_p_iv_pc_by_juhoap.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ihana_p_iv__by_juhoap.zip|youtube:pKZmzhxJb-I
+title:itaepasila|author:ISOTISSI LESBOLIISA|position:0
+title:Fields of Mist|author:humppamies / piAstro|position:0|webfile:oldskool_music/fields_of_mist_pc_by_humppamies_piastro.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/fields_of_mist_by_humppamies___piastro.zip|youtube:-pHS9zVb0jI
+title:Attack in no time|author:Ilem|position:0|webfile:oldskool_music/attack_in_no_time_pc_by_ilem.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/attack_in_no_time_by_ilem.zip|youtube:pG1WT0WPXf4
 title:Primality|author:Gasman / Hooy-Program|position:0
 
 :section Flash demo
@@ -321,9 +321,9 @@ title:Flow|author:SounDemoN 1|position:0|webfile:instrumental_music/flow_by_soun
 
 :section Forum Nokia 24h
 
-title:funky starfighter (Symbian OS)|author:portal project|position:1|sceneorg:/parties/2002/assembly02/forumnokia/funky_starfighter_by_portal_project_1.zip
-title:Shine (Java)|author:Komplex|position:2|sceneorg:/parties/2002/assembly02/forumnokia/shine_by_komplex.zip
-title:Farmor (Symbian OS)|author:Granma/m0x|position:3|sceneorg:/parties/2002/assembly02/forumnokia/farmor_by_granma_m0x.zip
+title:funky starfighter|author:portal project|position:1|sceneorg:/parties/2002/assembly02/forumnokia/funky_starfighter_by_portal_project_1.zip
+title:Shine|author:Komplex|position:2|sceneorg:/parties/2002/assembly02/forumnokia/shine_by_komplex.zip
+title:Farmor|author:Granma/m0x|position:3|sceneorg:/parties/2002/assembly02/forumnokia/farmor_by_granma_m0x.zip
 title:24h Shadedots|author:Jmagic/Komplex|position:0|sceneorg:/parties/2002/assembly02/forumnokia/24h_shadedots__by_jmagic_komplex.zip
 title:Adventure in the Woods|author:Jugi of Komplex|position:0|sceneorg:/parties/2002/assembly02/forumnokia/adventure_in_the_woods_by_jugi_of_komplex.zip
 title:crap|author:psikorp|position:0|sceneorg:/parties/2002/assembly02/forumnokia/crap_by_psikorp.zip
