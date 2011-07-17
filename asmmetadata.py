@@ -14,7 +14,7 @@ def normalize_key(value):
 
 class EntryYear(object):
     year = None
-    sections = {}
+    sections = []
     entries = {}
 
 
@@ -40,8 +40,8 @@ def parse_file(file_handle):
             elif data_type == ":section":
                 section = value
                 normalized_section = normalize_key(section)
-                assert not normalized_section in result.sections
-                result.sections[normalized_section] = {'name': section}
+                assert not normalized_section in result.entries
+                result.sections.append({'name': section})
                 result.entries[normalized_section] = []
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
