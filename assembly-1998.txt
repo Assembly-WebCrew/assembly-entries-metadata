@@ -75,9 +75,9 @@ title:the box|author:ultrabright|position:8|sceneorg:/parties/1998/assembly98/pc
 
 :section C64 demo
 
-title:Speedway 2|author:Panic|position:1|sceneorg:/parties/1998/assembly98/c64demo/speedway.zip|pouet:1692
-title:Perse|author:geFiLUS|position:2|sceneorg:/parties/1998/assembly98/c64demo/perse_by.zip|pouet:24248
-title:kumivanilja|author:yleisradio|position:3|sceneorg:/parties/1998/assembly98/c64demo/kumivani.zip|pouet:24247
+title:Speedway 2|author:Panic|position:1|pouet:1692
+title:Perse|author:geFiLUS|position:2|pouet:24248
+title:kumivanilja|author:yleisradio|position:3|pouet:24247
 
 :section Raytrace graphics
 
