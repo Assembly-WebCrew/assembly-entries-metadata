@@ -41,7 +41,9 @@ def parse_file(file_handle):
                 section = value
                 normalized_section = normalize_key(section)
                 assert not normalized_section in result.entries
-                result.sections.append({'name': section})
+                result.sections.append({
+                        'key': normalized_section,
+                        'name': section})
                 result.entries[normalized_section] = []
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
