@@ -38,13 +38,23 @@ def parse_file(file_handle):
                 year = int(value)
                 result.year = year
             elif data_type == ":section":
-                section = value
-                normalized_section = normalize_key(section)
+                # Sections must have year.
+                assert year is not None
+                section_name = value
+                normalized_section = normalize_key(section_name)
                 assert not normalized_section in result.entries
-                result.sections.append({
-                        'key': normalized_section,
-                        'name': section})
+                section = {
+                    'key': normalized_section,
+                    'name': section_name,
+                    }
+                result.sections.append(section)
                 result.entries[normalized_section] = []
+            elif data_type == ":description":
+                # Descriptions can only be under section.
+                assert section is not None
+                # Only one description per section is allowed.
+                assert 'description' not in section
+                section['description'] = value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue

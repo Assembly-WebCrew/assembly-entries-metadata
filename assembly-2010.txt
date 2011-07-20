@@ -1,12 +1,16 @@
 :year 2010
 
 :section Executable graphics
+:description <p>In executable graphics competition images are produced with small programs that are limited to 4 kilobytes in size. Average low resolution thumbnail image on these pages takes about the same amount of space as those programs are limited to.</p>
+
 title:Novus vita|author:Ananasmurska|position:1|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/novus_vita_by_ananasmurska.zip|webfile:executable_graphics/novus_vita_by_ananasmurska.png
 title:Come play with us|author:havocplague|position:2|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/come_play_with_us_by_havocplague.zip|webfile:executable_graphics/come_play_with_us_by_havocplague.png
 title:Hymy_5v_Paint.bmp|author:Hymy|position:3|type:asset|sceneorg:/parties/2010/assembly10/executable_graphics/hymy_5v_paintbmp_by_hymy.zip|webfile:executable_graphics/hymy_5v_paint_bmp_by_hymy.png
 
 
 :section Fast graphics
+:description <p>If Fast graphics competition competitors had 1.5 hours to draw an image with theme "You're holding it wrong".</p>
+
 author:Random|title:Like holding a phone - what could go wrong?|position:1|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/like_holding_a_phone__what_could_go_wrong_by_random.zip|webfile:fast_graphics/like_holding_a_phone_what_could_go_wrong_by_random.png
 author:Dekus|title:Fire one two three!|position:2|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/fire_one_two_three_by_dekus.zip|webfile:fast_graphics/fire_one_two_three_by_dekus.jpeg
 author:john peeba|title:herp derp|position:3|type:asset|sceneorg:/parties/2010/assembly10/fast/grfx/herp_derp_by_john_peeba.zip|webfile:fast_graphics/herp_derp_by_john_peeba.png
@@ -41,7 +45,10 @@ title:Smile|author:~mursu~|position:0|sceneorg:/parties/2010/assembly10/fast/grf
 title:suicide fail|author:luuk / 6th Fire|position:0|sceneorg:/parties/2010/assembly10/fast/grfx/suicide_fail_by_luuk__6th_fire.png|webfile:fast_graphics/suicide_fail_by_luuk_6th_fire.png
 title:pärinä|author:Tirehtööri|position:0
 
+
 :section Graphics
+:description <p>In Graphics competition images may be created with any desired method about anything.</p>
+
 position:1|author:korpi / HBC|title:It all stated at the forgotten toyshop...|type:asset|sceneorg:/parties/2010/assembly10/grfx/it_all_stated_at_the_forgotten_toyshop_by_korpi__hbc.zip|webfile:graphics/it_all_stated_at_the_forgotten_toyshop_by_korpi_hbc.png
 position:2|author:john peeba|title:Komrade Kong|type:asset|sceneorg:/parties/2010/assembly10/grfx/komrade_kong_by_john_peeba.zip|webfile:graphics/komrade_kong_by_john_peeba.png
 position:3|author:bracket / Accession|title:Yellona|type:asset|sceneorg:/parties/2010/assembly10/grfx/yellona_by_bracket__accession.zip|webfile:graphics/yellona_by_bracket_accession.png
@@ -70,7 +77,10 @@ title:Voodoo People|author:Timo Perämaa|position:0|sceneorg:/parties/2010/assem
 title:Roudaus|author:~mursu~|position:0|sceneorg:/parties/2010/assembly10/grfx/roudaus_by_mursu.zip|webfile:graphics/roudaus_by_mursu.png
 title:Kisser|author:Tommip|position:0|sceneorg:/parties/2010/assembly10/grfx/kisser_by_tommip.zip|webfile:graphics/kisser_by_tommip.png
 
+
 :section Demo
+:description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 2000 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p>
+
 title:Happiness is around the bend|sceneorg:/parties/2010/assembly10/demo/happiness_is_around_the_bend_by_andromeda_software_development.zip|author:Andromeda Software Development|youtube:z8wfYd9Y-_4|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1193_demo_happiness_is_around_the_bend_by_asd_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/z8wfYd9Y-_4/0.jpg|cappedtv:andromeda_software_development-happiness_is_around_the_bend&width=960&height=544
 title:Ceasefire (all fall down..)|sceneorg:/parties/2010/assembly10/demo/ceasefire_all_fall_down_by_cncd_vs_fairlight.zip|author:CNCD vs Fairlight|youtube:vQ2iQQvofCE|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1185_demo_ceasefire__all_fall_down_by_cncd_vs_fairlight_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/vQ2iQQvofCE/0.jpg|cappedtv:cncd_fairlight-ceasefire_all_falls_down&width=960&height=540
 title:Abysmal Invaders|sceneorg:/parties/2010/assembly10/demo/abysmal_invaders_by_pyrotech.zip|author:Pyrotech|youtube:BKbrt-QpEU8|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1184_demo_abysmal_invaders_by_pyrotech_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/BKbrt-QpEU8/0.jpg
@@ -85,6 +95,8 @@ title:D|sceneorg:/parties/2010/assembly10/demo/d_by_mrp.zip|author:mrp|youtube:e
 
 
 :section 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 2000 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes. This is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+
 title:Neanderstaller|sceneorg:/parties/2010/assembly10/in4k/neanderstaller_by_pittsburgh_stallers.zip|author:Pittsburgh Stallers|youtube:5Ns8qg9GlLw|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1156_4k_neanderstaller_by_pittsburgh_stallers_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/5Ns8qg9GlLw/0.jpg|cappedtv:pittsburgh_stallers-neanderstaller0&width=960&height=540
 title:Atleeti|sceneorg:/parties/2010/assembly10/in4k/atleeti_by_archee.zip|author:Archee|youtube:rl2KHwhIMTk|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1167_4k_atleetti_by_archee_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/rl2KHwhIMTk/0.jpg
 title:Bubblin Under|sceneorg:/parties/2010/assembly10/in4k/bubblin_under_by_adapt.zip|author:adapt|youtube:5B-yqlLGN-o|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1168_4k_bubblin_under_by_adapt_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/5B-yqlLGN-o/0.jpg
@@ -103,7 +115,10 @@ title:Universaal Universum|sceneorg:/parties/2010/assembly10/in4k/universaal_uni
 title:kaks koiraa savosta redux|sceneorg:/parties/2010/assembly10/in4k/kaks_koiraa_savosta_redux_by_brainlez_coders.zip|author:brainlez Coders!|youtube:BR44WmCqTps|position:16|sceneorgvideo:/parties/2010/assembly10/vod/1161_4k_kaks_koiraa-savosta_redux_by_brainlez_coders_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/BR44WmCqTps/0.jpg
 title:Friendly Fireworks|author:Dzarg|position:0|sceneorg:/parties/2010/assembly10/in4k/friendly_fireworks_by_dzarg.zip
 
+
 :section 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 2000 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes that gives enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
+
 title:x marks the spot|sceneorg:/parties/2010/assembly10/in64/x_marks_the_spot_by_portal_process.zip|author:portal process|youtube:fpQnV_Bp7Jo|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1181_64k_x_marks_the_spot_by_portal_process_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/fpQnV_Bp7Jo/0.jpg|cappedtv:portal_process-x_marks_the_spot&width=960&height=540
 title:Behind the Curtain|sceneorg:/parties/2010/assembly10/in64/behind_the_curtain_by_united_force_vs_digital_dynamite.zip|author:United Force vs. Digital Dynamite|youtube:6w3Y5hdkmO4|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1171_64k_behind_the_curtain_by_united_force_vs._digital_dynamite_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/6w3Y5hdkmO4/0.jpg|cappedtv:united_force_digital_dynamite-behind_the_curtain0&width=960&height=540
 title:Ars Nova|sceneorg:/parties/2010/assembly10/in64/ars_nova_by_phantom_lordaccept_corp.zip|author:Phantom Lord/Accept Corp.|youtube:odAIAfPEgmM|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1177_64k_ars_nova_by_phantom_lord_accept_corp_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/odAIAfPEgmM/0.jpg
@@ -112,7 +127,10 @@ title:The Hungarian Gambit|sceneorg:/parties/2010/assembly10/in64/the_hungarian_
 title:transmission 1|sceneorg:/parties/2010/assembly10/in64/transmission_1_by_sn.zip|author:s/n|youtube:zZO-HBXH5ec|position:6|sceneorgvideo:/parties/2010/assembly10/vod/1173_64k_transmission_1_by_sn_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/zZO-HBXH5ec/0.jpg
 title:kerava|author:mrp|position:0|sceneorg:/parties/2010/assembly10/in64/kerava_by_mrp.zip
 
+
 :section Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
+
 title:Grind|sceneorg:/parties/2010/assembly10/oldskool/demo/grind_by_dekadence__accession.lha|author:Dekadence & Accession|youtube:9E63E1gY7fk|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1117_oldskool_demo_-_grind_by_dekandence_accession_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/9E63E1gY7fk/0.jpg|cappedtv:dekadence_accession-grind&width=640&height=400
 title:Vanility|sceneorg:/parties/2010/assembly10/oldskool/demo/vanility_by_byterapers.zip|author:Byterapers|youtube:bKPL_jC8Tk8|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1114_oldskool_demo_-_vanility_by_byterapers_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/bKPL_jC8Tk8/0.jpg
 title:crushed|sceneorg:/parties/2010/assembly10/oldskool/demo/crushed_by_inversion.zip|author:inversion|youtube:RxbI7Wo59TU|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1116_oldskool_demo_-_crushed_by_inversion_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/RxbI7Wo59TU/0.jpg
@@ -120,6 +138,8 @@ title:Trackmo 2|sceneorg:/parties/2010/assembly10/oldskool/demo/trackmo_2_by_fst
 
 
 :section Real wild demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or event platforms that competitor has built himself.</p>
+
 title:Spiral out|sceneorg:/parties/2010/assembly10/real_wild/spiral_out_by_evoflash.zip|author:evoflash|youtube:2a7gni15HSk|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1133_realwild_spiral_out_by_evoflash_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/2a7gni15HSk/0.jpg
 title:Derelict|sceneorg:/parties/2010/assembly10/real_wild/derelict_by_hedelmae.zip|author:Hedelmae|youtube:NltalxRSKn8|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1132_realwild_derelict_by_hedelmae_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/NltalxRSKn8/0.jpg
 title:Checked = "Checked"|author:jypa|youtube:qpvLOT6k9Kg|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1127_realwild_checked_is_checked_by_jypa_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/qpvLOT6k9Kg/0.jpg
@@ -130,6 +150,8 @@ title:Oil Spill|sceneorg:/parties/2010/assembly10/real_wild/oil_spill_by_wide_lo
 
 
 :section Short film
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
+
 author:Tekotuotanto|sceneorg:/parties/2010/assembly10/short/retrostorm_720p-h264-aac.mp4|title:RetroStorm|youtube:q73NsYxadaw|position:1|type:external|thumbnail:http://i.ytimg.com/vi/q73NsYxadaw/0.jpg
 author:Pistoke|sceneorg:/parties/2010/assembly10/short/what_is_love_by_pistoke.mp4|title:What is Love|youtube:pRGeToVbArY|position:2|type:external|thumbnail:http://i.ytimg.com/vi/pRGeToVbArY/0.jpg
 author:HBC|sceneorg:/parties/2010/assembly10/short/hbc-00009_space_funk_rock.mp4|title:Space Funk Rock|youtube:bxKOCmW-EiI|position:3|type:external|thumbnail:http://i.ytimg.com/vi/bxKOCmW-EiI/0.jpg|cappedtv:bit_cheese-hbc00009_space_funk_rock&width=960&height=540
@@ -146,6 +168,8 @@ title:Johanna Rupiainen esittelee kotinsa|author:Stickletti|sceneorgvideo:/parti
 
 
 :section GameDev
+:description <p>In GameDev competition entries are playable games that are published a little over week before Assembly and also include a short gameplay video that is shown during the event.</p>
+
 title:Tricky Truck|sceneorg:/parties/2010/assembly10/gamedev/tricky_truck_by_archee_.zip|author:Archee|youtube:4mHZMPSeKQA|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1101_gamedev_tricky_truck_by_archee_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/4mHZMPSeKQA/0.jpg
 title:7-bit Pirates|sceneorg:/parties/2010/assembly10/gamedev/7bit_pirates_by_the_7_bits.zip|author:The 7 bits|youtube:GTu5u71YMqU|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1085_gamedev_7-bit_pirate_by_the_7_bits_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/GTu5u71YMqU/0.jpg
 title:Part-time Angle Grinder Hero|sceneorg:/parties/2010/assembly10/gamedev/parttime_angle_grinder_hero_by_tekotuotanto.zip|author:Tekotuotanto|youtube:xqtKgfmMF5o|position:3|sceneorgvideo:/parties/2010/assembly10/vod/1097_gamedev_part-time_angle_grinder_hero_by_tekotuotanto_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/xqtKgfmMF5o/0.jpg
@@ -168,6 +192,8 @@ title:Fancy Fang's Adventures|sceneorg:/parties/2010/assembly10/gamedev/fancy_fa
 
 
 :section Executable music
+:description <p>In executable music competition music is generated with programs that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music.</p>
+
 title:Pixelated Knight Tales|sceneorg:/parties/2010/assembly10/executable_music/pixelated_knight_tales_by_king_thrill__tekotuotanto.zip|author:King Thrill / Tekotuotanto|youtube:CL0VZcxWOVs|position:1|type:external|thumbnail:http://i.ytimg.com/vi/CL0VZcxWOVs/0.jpg|webfile:executable_music/pixelated_knight_tales_by_king_thrill_tekotuotanto.mp3
 title:The toilet seat of gods II|sceneorg:/parties/2010/assembly10/executable_music/the_toilet_seat_of_gods_ii_by_jdruid.zip|author:JDruid|youtube:fbCUdkxvY6Y|position:2|type:external|thumbnail:http://i.ytimg.com/vi/fbCUdkxvY6Y/0.jpg|webfile:executable_music/the_toilet_seat_of_gods_ii_by_jdruid.mp3
 title:Namevote this sucka|sceneorg:/parties/2010/assembly10/executable_music/namevote_this_sucka_by_player_one.zip|author:Player One|youtube:eAIu2LiEZmg|position:3|type:external|thumbnail:http://i.ytimg.com/vi/eAIu2LiEZmg/0.jpg|webfile:executable_music/namevote_this_sucka_by_player_one.mp3
@@ -180,6 +206,8 @@ title:mulperi|sceneorg:/parties/2010/assembly10/executable_music/mulperi_by_mr_b
 
 
 :section Fast music
+:description <p>In Fast music competition competitors have 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music may be created with any tool desired.</p>
+
 author:King Thrill / Tekotuotanto|sceneorg:/parties/2010/assembly10/fast/music/c_a_s_t_l_e_m_a_n_i_a_by_king_thrill__tekotuotanto.mp3|title:C A S T L E M A N I A|youtube:mK1gqbM70KY|position:1|type:external|thumbnail:http://i.ytimg.com/vi/mK1gqbM70KY/0.jpg|webfile:fast_music/c_a_s_t_l_e_m_a_n_i_a_by_king_thrill_tekotuotanto.mp3
 author:Castor|sceneorg:/parties/2010/assembly10/fast/music/a_little_time_for_iskelma_by_castor.mp3|title:A little time for iskelmä|youtube:SnERHN1Csd0|position:2|type:external|thumbnail:http://i.ytimg.com/vi/SnERHN1Csd0/0.jpg|webfile:fast_music/a_little_time_for_iskelm_by_castor.mp3
 author:Little Bitchard|sceneorg:/parties/2010/assembly10/fast/music/well_this_was_fast_by_little_bitchard.mp3|title:Well This Was Fast|youtube:X2cAUB-fcnY|position:3|type:external|thumbnail:http://i.ytimg.com/vi/X2cAUB-fcnY/0.jpg|webfile:fast_music/well_this_was_fast_by_little_bitchard.mp3
@@ -198,6 +226,8 @@ author:Aspor|sceneorg:/parties/2010/assembly10/fast/music/false_dreams_by_aspor.
 
 
 :section Music
+:description <p>In Music competition entries may be any type of music from any genre.</p>
+
 author:GRiMM / Meridian|sceneorg:/parties/2010/assembly10/music/the_apocalypse_will_arrive_on_a_nes_cartridge_by_grimm__meridian.mp3|title:The Apocalypse Will Arrive On A NES Cartridge|youtube:1PC47CFo7yw|position:1|type:external|thumbnail:http://i.ytimg.com/vi/1PC47CFo7yw/0.jpg|webfile:music/the_apocalypse_will_arrive_on_a_nes_cartridge_by_grimm_meridian.mp3
 author:Aikapallo|title:When There's no Beer|youtube:Ytm68Od5Hsc|position:2|type:external|thumbnail:http://i.ytimg.com/vi/Ytm68Od5Hsc/0.jpg|webfile:music/when_there_s_no_beer_by_aikapallo.mp3
 author:Cap'n Thrill / Tekotuotanto|sceneorg:/parties/2010/assembly10/music/as_we_arrr_the_pirates_by_capn_thrill__tekotuotanto.mp3|title:As We ARRR the Pirates|youtube:pdqmQl2rkmo|position:3|type:external|thumbnail:http://i.ytimg.com/vi/pdqmQl2rkmo/0.jpg|webfile:music/as_we_arrr_the_pirates_by_cap_n_thrill_tekotuotanto.mp3
@@ -263,7 +293,9 @@ title:Grill in the Hill|author:RHZ|position:0|sceneorg:/parties/2010/assembly10/
 title:Terrorism against our nation will not stand|author:Vätsgy|position:0|sceneorg:/parties/2010/assembly10/music/terrorism_against_our_nation_will_not_stand_by_vatsgy.mp3|webfile:music/terrorism_against_our_nation_will_not_stand_by_v_tsgy.mp3|youtube:_uQLtBj_sxw
 title:I only dance with my gasmask|author:tzaeru|position:0|sceneorg:/parties/2010/assembly10/music/i_only_dance_with_my_gasmask_by_tzaeru.mp3|webfile:music/i_only_dance_with_my_gasmask_by_tzaeru.mp3|youtube:e9J1gaQYu1g
 
+
 :section AssemblyTV
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 title:Opening ceremony|author:AssemblyTV|media:/vod/2010/AssemblyTV/1032_opening_ceremony_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1032|youtube:UtGSrJbKMzI
 title:Compostudio - GameDev|author:AssemblyTV|media:/vod/2010/AssemblyTV/1035_compostudio_game-dev_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1035|youtube:uWyKJH97AqI
@@ -296,6 +328,7 @@ title:metkunet|author:AssemblyTV|media:/vod/2010/AssemblyTV/1182_metkunet_h264_1
 title:Guitar hero|author:AssemblyTV|media:/vod/2010/AssemblyTV/1183_kitarasankarit_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1183|youtube:wrUDJYWfoP8
 title:Robowar finals|author:AssemblyTV|media:/vod/2010/AssemblyTV/1197_robosota_final_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1197|youtube:IXhLmv4RMIM
 title:Guest interviews on Saturday|author:AssemblyTV|media:/vod/2010/AssemblyTV/1198_areenafiiliksia_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/1198|youtube:0iXWeFXTvuY
+
 
 :section Seminars
 
