@@ -107,8 +107,8 @@ title:Crap!|author:Exhouse|position:26|sceneorg:/parties/1994/assembly94/amiga/i
 
 :section C64 demo
 
-title:Att. of the Stubidos 3|author:Beyond Force|position:1|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1732
-title:World of Code II|author:Byterapers|position:2|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1618
+title:Att. of the Stubidos 3|author:Beyond Force|position:1|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1732|youtube:44SgIqUX3UQ
+title:World of Code II|author:Byterapers|position:2|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1618|youtube:_njUT8xbAX8
 title:Best of Trinomic|author:Trinomic|position:3|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:44715
 
 :section Amiga demo
