@@ -1,6 +1,7 @@
 :year 2004
 
 :section Mobile demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that you usually would carry with you.</p>
 
 title:Uhka idästä|author:Jumalauta|position:1|media:/vod/.oldies-goldies/compos/ASM04 Mobile demo - 1st - Uhka idästä by Jumalauta_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/mobile_demo/uhka_idasta_by_jumalauta.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/mobile_demo/uhka_idasta_by_jumalauta.avi|pouet:13054|youtube:SbxHx9jCIZQ
 title:Spirit|author:Ex-Euthanasia|position:2|media:/vod/.oldies-goldies/compos/ASM04 Mobile demo - 2nd - Spirit by Ex-Euthanasia_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/mobile_demo/spirit_by_ex-euthanasia.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/mobile_demo/spirit_by_ex-euthanasia.avi|pouet:13132|youtube:AhEWbik313o
@@ -9,7 +10,9 @@ title:Jenny Thinks|author:Fit and Bandwagon|position:4|media:/vod/.oldies-goldie
 title:ffi|author:ka, alien/vd|position:5|media:/vod/.oldies-goldies/compos/ASM04 Mobile demo - 5th - ffi by ka, alien-vd_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/mobile_demo/ffi_by_ka_alien_vd.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/mobile_demo/ffi_by_ka_alien_vd.avi|pouet:16655|youtube:ddElrOKVXGA
 title:CordClipper|author:cord-less|position:6|media:/vod/.oldies-goldies/compos/ASM04 Mobile demo - 6th - CordClipper by cord-less_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/mobile_demo/cordclipper_by_cord-less.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/mobile_demo/cordclipper_by_cord-less.avi|pouet:16653|youtube:x0lObEKK8L0
 
+
 :section Oldskool graphics
+:description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1992.</p>
 
 title:COCILLANA|author:Electric/Extend|position:1|webfile:oldskool_graphics/cocillana_by_electric_extend_c64.png|sceneorg:/parties/2004/assembly04/oldskool/grfx/cocillana_by_electric_extend.zip
 title:PEACEMAKER|author:Duce / Extend|position:2|webfile:oldskool_graphics/peacemaker_by_duce_extend_c64.png|sceneorg:/parties/2004/assembly04/oldskool/grfx/peacemaker__by_duce___extend.zip
@@ -28,6 +31,7 @@ title:mosaic|author:ascizo / kerma|position:0|webfile:oldskool_graphics/mosaic_b
 title:naamioitu kostaja|author:png/kerma|position:0|sceneorg:/parties/2004/assembly04/oldskool/grfx/naamioitu_kostaja_by_png_kerma.zip
 
 :section Drawn graphics
+:description <p>Pictures were created by drawing them by hand.</p>
 
 title:city tree|author:Epos / Granma|position:1|webfile:drawn_graphics/city_tree_by_epos_granma.png|sceneorg:/parties/2004/assembly04/grfx/drawn/city_tree_by_epos___granma_1.zip
 title:Safe Haven|author:Visualice|position:2|webfile:drawn_graphics/safe_haven_by_visualice.png|sceneorg:/parties/2004/assembly04/grfx/drawn/safe_haven_by_visualice.zip
@@ -60,7 +64,9 @@ title:Page 35|author:iNF|position:0|webfile:drawn_graphics/page_35_by_inf.png|sc
 title:Captain Chin|author:Kingi|position:0|webfile:drawn_graphics/captain_chin_by_kingi.png|sceneorg:/parties/2004/assembly04/grfx/drawn/captain_chin_by_kingi.zip
 title:Paranoid|author:Joukahainen|position:0|webfile:drawn_graphics/paranoid_by_joukahainen.png|sceneorg:/parties/2004/assembly04/grfx/drawn/paranoid_by_joukahainen.zip
 
+
 :section 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2005 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:The Prophecy - Project Nemesis|author:Conspiracy|position:1|media:/vod/.oldies-goldies/compos/ASM04 64k - 1st - The Prophecy by Conspiracy_h264_1856kbit.mp4|sceneorg:/parties/2004/assembly04/in64/the_prophecy_-_project_nemesis_by_conspiracy.zip|pouet:13030|dtv:id_file=3150&id_prod=12393&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/13030_1.jpg&width=512&height=404|youtube:PRhCgt6rE1I
 title:Wessyde|author:RNO|position:2|media:/vod/.oldies-goldies/compos/ASM04 64k - 2nd - Wessyde by RNO_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/intro_64k_compo/rno-wessyde.avi|sceneorg:/parties/2004/assembly04/in64/wessyde_by_rno_1.lha|pouet:13044|youtube:PvN2L7mm4lQ
@@ -68,7 +74,9 @@ title:Parallaksirasva - Parallax Fat|author:tAAT 2004|position:3|media:/vod/.old
 title:The Crime|author:Kraviz & Peregrinius|position:0
 title:Transportation|author:Pkettu|position:0|sceneorg:/parties/2004/assembly04/in64/transportation_by_pkettu.zip|pouet:13049
 
+
 :section Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 title:Halfway There|author:Dekadence|position:1|media:/vod/.oldies-goldies/compos/ASM04 Oldskool demo - 1st - Halfway There by Dekadence_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/halfway_there_by_dekadence.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/halfway_there_by_dekadence.avi|pouet:13018|youtube:NtoN--AJEw4
 title:Major Release|author:dA JoRMaS|position:2|media:/vod/.oldies-goldies/compos/ASM04 Oldskool demo - 2nd - Major Release by dA JoRMaS_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/major_release_by_da_jormas.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/major_release_by_da_jormas.avi|pouet:13022|youtube:yOk9cQI48ok
@@ -79,7 +87,9 @@ title:Stick Up Game|author:evilpaul-4mat-eater|position:6|media:/vod/.oldies-gol
 title:Emulated|author:Ozzy Oldskool of Upstars|position:7|media:/vod/.oldies-goldies/compos/ASM04 Oldskool demo - 7th - Emulated by Ozzy Oldskool_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/emulated_by_ozzy_oldskool_of_up.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/oldskool_demo/emulated_by_ozzy_oldskool_of_up.avi|pouet:17707|youtube:Bjx9rDdNprw
 title:Lentävä Matto|author:ISO|position:0|pouet:13067
 
+
 :section Fast graphics
+:description <p>Competitors had 1.5 hours to create an image with a predefined theme.</p>
 
 title:So long, and thanks for all the fish!|author:Sh'ar|position:1|webfile:fast_graphics/so_long_and_thanks_for_all_the_fish_by_sh_ar.png|sceneorg:/parties/2004/assembly04/fast/grfx/so_long__and_thanks_for_all_the_fish__by_sh_ar.zip
 title:Halpaa Lihaa|author:john peeba|position:2|webfile:fast_graphics/halpaa_lihaa_by_john_peeba.png|sceneorg:/parties/2004/assembly04/fast/grfx/halpaa_lihaa_by_john_peeba.zip
@@ -103,7 +113,9 @@ title:Punainen delfiini|author:Kultti.org|position:0|webfile:fast_graphics/punai
 title:kuivaa on|author:Murales Pöhinöös|position:0|webfile:fast_graphics/kuivaa_on_by_murales_p_hin_s.png|sceneorg:/parties/2004/assembly04/fast/grfx/kuivaa_on_by_murales_p_hin__s.zip
 title:Mirage|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:fast_graphics/mirage_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2004/assembly04/fast/grfx/mirage_by_diamondie_foobug_numedia_cyclops.zip
 
+
 :section Fast music
+:description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
 title:Summer Rain|author:Ari 'artz' Pulkkinen|position:1|webfile:fast_music/summer_rain_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2004/assembly04/fast/music/summer_rain_by_ari__artz__pulkkinen.zip|youtube:1DtfDPDJOW0
 title:No Way Out|author:KiWi|position:2|webfile:fast_music/no_way_out_by_kiwi.mp3|sceneorg:/parties/2004/assembly04/fast/music/no_way_out_by_kiwi.zip|youtube:qpN-YLdwoQA
@@ -122,7 +134,9 @@ title:Two Parts of a Story|author:->LUKE<- / Amazement^Numedia Cyclops|position:
 title:Tuulahduksia Metsästä|author:Prophecy|position:0|webfile:fast_music/tuulahduksia_mets_st_by_prophecy.mp3|sceneorg:/parties/2004/assembly04/fast/music/tuulahduksia_mets_st__by_prophecy_1.zip|youtube:jlbTq5xBp5E
 title:Insane Gangrene|author:Inphernic|position:0|webfile:fast_music/insane_gangrene_by_inphernic.mp3|sceneorg:/parties/2004/assembly04/fast/music/insane_gangrene_by_inphernic.zip|youtube:f7kiVqo1RsI
 
+
 :section Oldskool music
+:description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
 title:Da Smit Eastwood Jacks|author:Skalaria|position:1|webfile:oldskool_music/da_smit_eastwood_jacks_by_skalaria_c64.mp3|sceneorg:/parties/2004/assembly04/oldskool/music/da_smit_eastwood_jacks_by_skalaria.zip|youtube:dX_-uTIGKSs
 title:Last Try|author:Britelite / Dekadence|position:2|webfile:oldskool_music/last_try_by_britelite_dekadence_c64.mp3|sceneorg:/parties/2004/assembly04/oldskool/music/last_try_by_britelite___dekadence.zip|youtube:WfiVNSK7evY
@@ -175,6 +189,7 @@ title:MK VI|author:1in10|position:0|webfile:oldskool_music/mk_vi_by_1in10_xm.mp3
 title:Tottero|author:Beathawk|position:0
 
 :section Freestyle themed graphics
+:description <p>In Freestyle themed graphics competition images could be created with any desired method and had to include one or more elements from predefined themes: Shining light, Hunger, Overload.</p>
 
 title:Get Off My Back|author:poro|position:1|webfile:freestyle_themed_graphics/get_off_my_back_by_poro.png|sceneorg:/parties/2004/assembly04/grfx/freestyle_themed/get_off_my_back_by_poro.zip
 title:Purple Cow|author:kris / rebels (amiga!) & clique|position:2|webfile:freestyle_themed_graphics/purple_cow_by_kris_rebels_amiga_clique.png|sceneorg:/parties/2004/assembly04/grfx/freestyle_themed/purple_cow_by_kris___rebels__amiga_____clique.zip
@@ -213,7 +228,9 @@ title:Daybreak on Amon-Ra|author:devil / scene.ee|position:0|webfile:freestyle_t
 title:Legoman Forever|author:isw of SoCS|position:0|webfile:freestyle_themed_graphics/legoman_forever_by_isw_of_socs.png|sceneorg:/parties/2004/assembly04/grfx/freestyle_themed/legoman_forever_by_isw_of_socs.zip
 title:Cardiac Arrest|author:DeCoder / lucid|position:0|webfile:freestyle_themed_graphics/cardiac_arrest_by_decoder_lucid.png|sceneorg:/parties/2004/assembly04/grfx/freestyle_themed/cardiac_arrest_by_decoder___lucid.zip
 
+
 :section Freestyle music
+:description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
 title:Vår dag|author:Shanona|position:1|webfile:freestyle_music/v_r_dag_by_shanona.mp3|sceneorg:/parties/2004/assembly04/music/freestyle/v_r_dag_by_shanona.ogg|youtube:SR1u4koLX1I
 title:Rakkaus meitä yhdistää|author:Harmonian polku|position:2|webfile:freestyle_music/rakkaus_meit_yhdist_by_harmonian_polku.mp3|sceneorg:/parties/2004/assembly04/music/freestyle/rakkaus_meit__yhdist___by_harmonian_polku.ogg|youtube:Kgd6O5L8Cvw
@@ -247,7 +264,9 @@ title:Toivo|author:MC Kurppa|position:0|webfile:freestyle_music/toivo_by_mc_kurp
 title:banaanisose|author:rnn|position:0|webfile:freestyle_music/banaanisose_by_rnn.mp3|sceneorg:/parties/2004/assembly04/music/freestyle/banaanisose_by_rnn.mp3|youtube:wo0YfGgp57c
 title:Yheksääkymppii|author:arto|position:0|webfile:freestyle_music/yheks_kymppii_by_arto.mp3|sceneorg:/parties/2004/assembly04/music/freestyle/yheks__kymppii_by_arto.mp3|youtube:i_kZs_sYvvg
 
+
 :section 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2004 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:San Angeles Observation|author:tonic, !Cube, st Rana|position:1|media:/vod/.oldies-goldies/compos/ASM04 4k - 1st - San Angeles Observation by tonic_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assembly04/assemblytv/compos/intro_4k_compo/san_angeles_observation.avi|sceneorg:/parties/2004/assembly04/in4k/san_angeles_observation_by_tonic___cube__st_rana.zip|pouet:13020|dtv:id_file=3041&id_prod=12391&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/13020.jpg&width=512&height=404|youtube:zfKb4l_1vZs|cappedtv:armada_trauma-san_angeles_observation&width=640&height=480
 title:Feet4|author:AND|position:2|media:/vod/.oldies-goldies/compos/ASM04 4k - 2nd - Feet4 by AND_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/intro_4k_compo/feet4.avi|sceneorg:/parties/2004/assembly04/in4k/feet4_by_and_1.zip|pouet:13021|youtube:_k4rOUQfrVw
@@ -266,7 +285,9 @@ title:Lätäkkö|author:Apaksi / Lasi Interactive|position:14|media:/vod/.oldies
 title:Flowers|author:Sula|position:0|sceneorg:/parties/2004/assembly04/in4k/flowers_by_sula_1.zip
 title:Disco|author:Efe / THP|position:0|sceneorg:/parties/2004/assembly04/in4k/disco_by_efe___thp.zip
 
+
 :section Short film
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
 title:Kanava OMEGA|author:Tekotuotanto|position:1|webfile:short_film/kanava_omega_by_tekotuotanto.avi|media:/vod/.oldies-goldies/compos/ASM04 Shortfilm - 1st - Kanava OMEGA by Tekotuotanto_h264_1856kbit.mp4|sceneorg:/parties/2004/assembly04/short_film/kanavaomega.avi|pouet:26123|youtube:YeW2HhhXSmU
 title:Cursed Forest 4|author:Pelld Productions|position:2|webfile:short_film/cursed_forest_4_by_pelld_productions.avi|media:/vod/.oldies-goldies/compos/ASM04 Shortfilm - 2nd - Cursed Forest 4 by Pelld Productions_h264_1856kbit.mp4|sceneorg:/parties/2004/assembly04/short_film/cursed_forest_4.avi|pouet:26124|dtv:id_file=2910&id_prod=12761&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/26124_1.jpg&width=512&height=404|youtube:aKGa2RN1HhY
@@ -295,6 +316,7 @@ title:fuckhead|author:satori|position:0|webfile:short_film/fuckhead_by_satori.mp
 title:Apple Vendetta|author:Overnight Productions|position:0|webfile:short_film/apple_vendetta_by_overnight_productions.mpeg|sceneorg:/parties/2004/assembly04/short_film/apple_vendetta_by_overnightprods.mpg|pouet:26475|youtube:5rjWom4XNwY
 title:Sirkan metafyysinen tyyli|author:säästöpojat feat. lempeät kuninkaat|position:0|webfile:short_film/sirkan_metafyysinen_tyyli_by_s_st_pojat_feat_lempe_t_kuninkaat.avi|sceneorg:/parties/2004/assembly04/short_film/sirkka.avi|pouet:13026|youtube:AtpABWq1ujk
 
+
 :section Unofficial ANSI/ASCII
 :description <p>ANSI/ASCII graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
@@ -310,7 +332,9 @@ title:taiteilijan ahdinko|author:tribe|position:9|sceneorg:/parties/2004/assembl
 title:dO yOU REMEMBER|author:yOP|position:10|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/do_you_remember_by_yop.zip
 title:Enjoy|author:fts|position:11|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/enjoy_by_fts.zip
 
+
 :section Demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2007 PC computer.</p>
 
 title:Obsoleet|author:Unreal Voodoo|position:1|media:/vod/.oldies-goldies/compos/ASM04 Demo - 1st - Obsoleet by Unreal Voodoo_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/demo_compo/obsoleet_by_unreal_voodoo.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/demo_compo/obsoleet_by_unreal_voodoo.avi|pouet:13033|dtv:id_file=3149&id_prod=12394&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/13033.png&width=512&height=404|youtube:ahsSKtwQr7E
 title:Planet Risk|author:Andromeda Software Development|position:2|media:/vod/.oldies-goldies/compos/ASM04 Demo - 2nd - Planet Risk by ASD_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/demo_compo/planet_risk_by_andromeda_softwa.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/demo_compo/planet_risk_by_andromeda_softwa.avi|pouet:13032|dtv:id_file=3039&id_prod=12386&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/13032.jpg&width=512&height=404|youtube:i-4BZAuGwOg|cappedtv:asd-planet_risk&width=480&height=337&video=no
@@ -328,7 +352,9 @@ title:vIIt|author:noice|position:13|media:/vod/.oldies-goldies/compos/ASM04 Demo
 title:Fr-021: D (Stands For)|author:Farb-rausch|position:14|media:/vod/.oldies-goldies/compos/ASM04 Demo - 14th - Fr-021 by Farb-rausch_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/demo_compo/fr-021_-_d_(stands_for)_by_farb.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/demo_compo/fr-021_-_d_(stands_for)_by_farb.avi|pouet:13029|dtv:id_file=5277&id_prod=13619&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/13029_1.jpg&width=512&height=404|youtube:gN7UkNbUhYY
 title:Secret Government Thing|author:Nesnausk!|position:15|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/demo_compo/secret_government_thing_by_nesn.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/demo_compo/secret_government_thing_by_nesn.avi|pouet:13045|youtube:2NUhw8NYXAc
 
+
 :section Browser demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Browser demo competition limited entries to use 2004 version of browsers on a high-end PC.</p>
 
 title:Mooncheese|author:Shingebis|position:1|media:/vod/.oldies-goldies/compos/ASM04 Browser demo - 1st - Mooncheese by Shingebis_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/browser_demo/mooncheese_by_shingebis.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/browser_demo/mooncheese_by_shingebis.avi|pouet:13121|youtube:rb_k6n2Nxxs
 title:the Summer is HERE!|author:kellari & inapt|position:2|media:/vod/.oldies-goldies/compos/ASM04 Browser demo - 2nd - the Summer is HERE by kellari, inapt_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/browser_demo/the_summer_is_here!_by_kellari.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/browser_demo/the_summer_is_here!_by_kellari.avi|pouet:13039|youtube:VKkdRpaDqB4
@@ -337,7 +363,9 @@ title:Governmentro|author:MukaSmarts|position:4|media:/vod/.oldies-goldies/compo
 title:Party Island|author:Poro & Exca|position:5|media:/vod/.oldies-goldies/compos/ASM04 Browser demo - 5th - Party Island by Poro, Exca_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/browser_demo/party_island_by_poro_&_exca.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/browser_demo/party_island_by_poro_&_exca.avi|youtube:Z2gC8Qnox1A
 title:Kuutioprojekti|author:Plinc|position:6|media:/vod/.oldies-goldies/compos/ASM04 Browser demo - 6th - Kuutioprojekti by Plinc_h264_1856kbit.mp4|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/browser_demo/kuutioprojekti_by_plinc.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/browser_demo/kuutioprojekti_by_plinc.avi|pouet:14050|youtube:pTD0NdZIL-g
 
+
 :section Instrumental music
+:description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
 title:The final run|author:!Cube / Armada + SCS*TRC + Skalaria|position:1|webfile:instrumental_music/the_final_run_by_cube_armada_scs_trc_skalaria.mp3|sceneorg:/parties/2004/assembly04/music/instrumental/the_final_run_by__cube___armada_+_scs_trc_+_skalaria.ogg|youtube:IDo6JLEFC-o
 title:Groove Damage|author:Paavo "Tarantula" Härkönen|position:2|webfile:instrumental_music/groove_damage_by_paavo_tarantula_h_rk_nen.mp3|sceneorg:/parties/2004/assembly04/music/instrumental/groove_damage_by_paavo__tarantula__h_rk_nen.ogg|youtube:ScaFp8dfQ4E
@@ -394,7 +422,9 @@ title:Liquid Dimension|author:Spetsnaz|position:0|webfile:instrumental_music/liq
 title:Sleepless Spirit|author:AdZ8Qb|position:0|webfile:instrumental_music/sleepless_spirit_by_adz8qb.mp3|sceneorg:/parties/2004/assembly04/music/instrumental/sleepless_spirit_by_adz8qb.mp3|youtube:BoAq-J2srDQ
 title:Ihana taivas|author:arto|position:0|webfile:instrumental_music/ihana_taivas_by_arto.mp3|sceneorg:/parties/2004/assembly04/music/instrumental/ihana_taivas_by_arto.mp3|youtube:g0ie021gb3c
 
+
 :section Game development
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 title:B.A.L.L.O|author:Marelwish productio|position:1|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/gamedev/b.a.l.l.o_by_marelwish_producti.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/gamedev/b.a.l.l.o_by_marelwish_producti.avi|pouet:12993|youtube:fmc9zIoqSnQ
 title:TSS Demo|author:Aukiogames|position:2|sceneorgvideo:/parties/2004/assembly04/assemblytv/compos/gamedev/tss_demo_by_aukiogames2.avi|sceneorg:/parties/2004/assembly04/assemblytv/compos/gamedev/tss_demo_by_aukiogames2.avi|pouet:12998|youtube:nOYHnQ4DXSk

@@ -1,12 +1,15 @@
 :year 2007
 
 :section Mobile demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that you usually would carry with you.</p>
 
 title:Beertime X|author:Dekadence|position:1|sceneorgvideo:/parties/2007/assembly07/compo_videos/divx/mobile_demo/beer_x_by_decadence_nokia_n95_symbian.avi|sceneorg:/parties/2007/assembly07/mobile_demo/beertime_x_by_dekadence_fix.zip|pouet:31589|youtube:LTsPVOUkdb0
 title:mixtape memories|author:prostyle corp.|position:2|sceneorgvideo:/parties/2007/assembly07/mobile_demo/prostyle_corp-mixtape_memories_(final).avi|sceneorg:/parties/2007/assembly07/mobile_demo/prostyle_corp-mixtape_memories_(java_executable-final).zip|pouet:31566|youtube:_0czh2eT9NM
 title:Pink Velvet Fluffer|author:Immersion|position:3|sceneorgvideo:/parties/2007/assembly07/mobile_demo/pink_velvet_fluffer_by_immersion.mp4|sceneorg:/parties/2007/assembly07/mobile_demo/pink_velvet_fluffer_by_immersion.tgz|pouet:31614|youtube:OxzQbEus4kQ
 
+
 :section Oldskool graphics
+:description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1992.</p>
 
 title:Sweet Chili o Mine|author:Duce of Extend|position:1|sceneorg:/parties/2007/assembly07/oldskool/grfx/sweet_chili_o_mine_by_duce_of_extend.zip
 title:Flamboyant Flower Beetle|author:Random/Gfxile|position:2|sceneorg:/parties/2007/assembly07/oldskool/grfx/flamboyant_flower_beetle_by_randomgfxile.zip
@@ -17,7 +20,9 @@ title:My precious|author:naamioitukostaja|position:6|webfile:oldskool_graphics/m
 title:Dragon|author:Vassa|position:7|webfile:oldskool_graphics/dragon_by_vassa.png|sceneorg:/parties/2007/assembly07/oldskool/grfx/dragon_by_vassa.zip
 title:Eye Spy|author:DiamonDie/foobug^Numedia Cyclops|position:8|webfile:oldskool_graphics/eye_spy_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2007/assembly07/oldskool/grfx/eye_spy_by_diamondiefoobugnumedia_cyclops.zip
 
+
 :section Game development
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 title:Centripetality|author:Aroppuu, huamn, juhovh|position:1|media:/vod/2007/Compos/350_Centripetality_by_Aroppuu_huamn_juhovh_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/game/centripetality_by_aroppuu_huamn_juhovh_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/game/centripetality_by_aroppuu_huamn_juhovh.zip|pouet:31553|youtube:nrjW5APNZNg
 title:Zompie|author:Fingersoft|position:2|media:/vod/2007/Compos/360_Zompie_by_Fingersoft_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/game/zompie_by_fingersoft_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/game/zompie_by_fingersoft.zip|pouet:31565|youtube:DrqxvEnWUHM
@@ -39,13 +44,17 @@ title:Flaming Space Balls|author:Marko Kärkelä, Mikko Kärkelä, Pauli Valkeej
 title:Extreme Wheelie Biker|author:J&S Production|position:18|media:/vod/2007/Compos/353_Extreme_Wheelie_Biker_by_JampS_Production_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/game/extreme_wheelie_biker_by_jamps_production_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/game/extreme_wheelie_biker_by_js_production.zip|pouet:31556|youtube:eOLdTfX-R_o
 title:Wonders of the seven seas|author:Embed Creation|position:19|media:/vod/2007/Compos/359_Wonders_of_the_seven_seas_by_Embed_Creation_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/game/wonders_of_the_seven_seas_by_embed_creation_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/game/wonders_of_the_seven_seas_by_embed_creation.zip|pouet:31564|youtube:6mPv1dWIhrE
 
+
 :section 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2007 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Basic Facts About Design|author:Immersion|position:1|media:/vod/2007/Compos/445_Basic_Facts_About_Design_by_Immersion_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/in64/basic_facts_about_design_by_immersion.zip|pouet:31569|dtv:id_file=2638&id_prod=13032&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31569_1.png&width=512&height=404|youtube:S04fF4pxqSM
 title:En Kikkare|author:PuavoHard|position:2|media:/vod/2007/Compos/444_En_Kikkare_by_PuavoHard_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/in64/en_kikkare_by_puavohard.zip|pouet:31568|dtv:id_file=2641&id_prod=13033&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31568_1.jpg&width=512&height=404|youtube:jsppDR_Epdg
 title:GERM|author:Atomic Destruction|position:3|media:/vod/2007/Compos/446_GERM_by_Atomic_Destruction_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/in64/germ_by_atomic_destruction.zip|pouet:31567|dtv:id_file=2644&id_prod=13034&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31567_1.jpg&width=512&height=404|youtube:1HnJEnCNQK8
 
+
 :section Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 title:High Hopes|author:aspekt|position:1|media:/vod/2007/Compos/371_High_Hopes_by_aspekt_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/oldskool_demo/high_hopes_by_aspekt_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/oldskool/demo/high_hopes_by_aspekt.zip|pouet:31539|dtv:id_file=2647&id_prod=13035&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31539_1.png&width=512&height=404|youtube:KkbrClHgix0
 title:Impossiblator 3|author:PWP|position:2|media:/vod/2007/Compos/370_Impossiblator_3_by_PWP_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/oldskool_demo/impossiblator_3_by_pwp_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/oldskool/demo/impossiblator_3_by_pwp.zip|pouet:31537|dtv:id_file=2650&id_prod=13036&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31537_1.jpg&width=512&height=404|youtube:tI7fz4X_skI
@@ -53,7 +62,9 @@ title:TOM/JONES|author:Trilobit|position:3|media:/vod/2007/Compos/366_TOMJONES_b
 title:Out of Beer Error|author:Dekadence|position:4|media:/vod/2007/Compos/368_Out_of_Beer_Error_by_Dekadence_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/oldskool_demo/out_of_beer_error_by_dekadence_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/oldskool/demo/out_of_beer_error_by_dekadence.zip|pouet:31611|youtube:-3RMPbQJvew
 title:NO DIRECTION|author:Upstars|position:5|media:/vod/2007/Compos/369_NO_DIRECTION_by_Upstars_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/oldskool_demo/no_direction_by_upstars_h264_7168kbps.mov|sceneorg:/parties/2007/assembly07/oldskool/demo/no_direction_by_upstars.zip|pouet:31612|youtube:6PuQ_shqZOw
 
+
 :section Fast graphics
+:description <p>Competitors had 1.5 hours to create an image with theme "Natural extremes".</p>
 
 title:Tornado Surfers|author:Random/Gfxile|position:1|webfile:fast_graphics/tornado_surfers_by_random_gfxile.png|sceneorg:/parties/2007/assembly07/fast/grfx/tornado_surfers_by_randomgfxile.zip
 title:Luomu|author:Venni|position:2|webfile:fast_graphics/luomu_by_venni.png|sceneorg:/parties/2007/assembly07/fast/grfx/luomu_by_venni.zip
@@ -81,7 +92,9 @@ title:It's only a state of mind|author:Exca|position:0|webfile:fast_graphics/it_
 title:OMFG|author:Zerphed|position:0|webfile:fast_graphics/omfg_by_zerphed.png|sceneorg:/parties/2007/assembly07/fast/grfx/omfg_by_zerphed.png
 title:liian isot|author:nakitjamuusi|position:0|webfile:fast_graphics/liian_isot_by_nakitjamuusi.png|sceneorg:/parties/2007/assembly07/fast/grfx/liian_isot_by_nakitjamuusi.zip
 
+
 :section Fast music
+:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
 title:Hey Man, It's the Eighties|author:Little Bitchard|position:1|webfile:fast_music/hey_man_it_s_the_eighties_by_little_bitchard.mp3|sceneorg:/parties/2007/assembly07/fast/music/hey_man_its_the_eighties_by_little_bitchard.mp3|youtube:p5NgWTclp4Q
 title:koli-mela-Samulin melan kolina|author:ilmarque & pahamoka / wAMMA|position:2|webfile:fast_music/koli_mela_samulin_melan_kolina_by_ilmarque_pahamoka_wamma.mp3|sceneorg:/parties/2007/assembly07/fast/music/kolimelasamulin_melan_kolina_by_ilmarque__pahamoka__wamma_.mp3|youtube:9Xx5UjctAJg
@@ -97,7 +110,9 @@ title:Who Loves You|author:Castor / Immersion|position:11|webfile:fast_music/who
 title:Vesuri|author:Wolfboy|position:12|webfile:fast_music/vesuri_by_wolfboy.mp3|sceneorg:/parties/2007/assembly07/fast/music/vesuri_by_wolfboy.mp3|youtube:lmwpRQ16Zmk
 title:Zeven|author:Seqondez|position:13|webfile:fast_music/zeven_by_seqondez.mp3|sceneorg:/parties/2007/assembly07/fast/music/zeven_by_seqondez.mp3|youtube:ceempVyL7og
 
+
 :section Oldskool music
+:description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
 title:Decade of Dekadence|author:Britelite / Dekadence|position:1|webfile:oldskool_music/decade_of_dekadence_by_britelite_dekadence.mp3|sceneorg:/parties/2007/assembly07/oldskool/music/decade_of_dekadence_by_britelite__dekadence.zip|youtube:nliD-_kqH7I
 title:Glide|author:!Cube|position:2|webfile:oldskool_music/glide_by_cube.mp3|sceneorg:/parties/2007/assembly07/oldskool/music/glide_by_cube.zip|youtube:A0am7t6BlXU
@@ -114,7 +129,9 @@ title:Hot salsa|author:Castor|position:0|webfile:oldskool_music/hot_salsa_by_cas
 title:Say Hi to 1999|author:Eino Keskitalo|position:0|webfile:oldskool_music/say_hi_to_1999_by_eino_keskitalo.mp3|sceneorg:/parties/2007/assembly07/oldskool/music/say_hi_to_1999_by_eino_keskitalo.zip|youtube:IilEbdTDDYY
 title:W|author:Player One / Dekadence|position:0|webfile:oldskool_music/w_by_player_one_dekadence.mp3|sceneorg:/parties/2007/assembly07/oldskool/music/w_by_player_one__dekadence.zip|youtube:Mk8hbbsr3Ws
 
+
 :section Drawn themed graphics
+:description <p>Pictures were created by drawing them by hand and had to include one or more of the following elements: Admiration, 360º and Remix.</p>
 
 title:Mom, look what was under my bed! Can I keep it?|author:Kinnerean|position:1|webfile:drawn_themed_graphics/mom_look_what_was_under_my_bed_can_i_keep_it_by_kinnerean.png|sceneorg:/parties/2007/assembly07/grfx/drawn/mom_look_what_was_under_my_bed_can_i_keep_it_by_kinnerean.zip
 title:Don't take my precious, teh guage is legal|author:MacGywer|position:2|webfile:drawn_themed_graphics/don_t_take_my_precious_teh_guage_is_legal_by_macgywer.png|sceneorg:/parties/2007/assembly07/grfx/drawn/dont_take_my_precious_teh_guage_is_legal_by_macgywer.zip
@@ -140,7 +157,9 @@ title:Ahh, whatta heck...|author:stRana|position:0|webfile:drawn_themed_graphics
 title:360CowGrind|author:Timo Peramaa|position:0|webfile:drawn_themed_graphics/360cowgrind_by_timo_peramaa.jpeg|sceneorg:/parties/2007/assembly07/grfx/drawn/360cowgrind_by_timo_peramaa.zip
 title:Chuck Norris' roundhousekick exhibitions were always short|author:devil|position:0|webfile:drawn_themed_graphics/chuck_norris_roundhousekick_exhibitions_were_always_short_by_devil.png|sceneorg:/parties/2007/assembly07/grfx/drawn/chuck_norris_roundhousekick_exhibitions_were_always_short_by_devil.zip
 
+
 :section Freestyle music
+:description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
 title:War Against the Machines|author:Paavo "Tarantula" Härkönen|position:1|webfile:freestyle_music/war_against_the_machines_by_paavo_tarantula_h_rk_nen.mp3|sceneorg:/parties/2007/assembly07/music/freestyle/war_against_the_machines_by_paavo_tarantula_harkonen.zip|youtube:uycimsN8AgY
 title:Dreck für die Massen|author:Genetic Gemini|position:2|webfile:freestyle_music/dreck_f_r_die_massen_by_genetic_gemini.mp3|sceneorg:/parties/2007/assembly07/music/freestyle/dreck_fr_die_massen_by_genetic_gemini.zip|youtube:ALytckODoKA
@@ -174,7 +193,9 @@ title:CrossRoad|author:Nobody/WildLight|position:0|webfile:freestyle_music/cross
 title:Rose's Dream|author:ne7 / triad and Glittermouse|position:0|webfile:freestyle_music/rose_s_dream_by_ne7_triad_and_glittermouse.mp3|sceneorg:/parties/2007/assembly07/music/freestyle/roses_dream_by_ne7__triad_and_glittermouse.zip|youtube:kXZewR-tAN4
 title:Kuutamo|author:Joni Koskimaa|position:0|webfile:freestyle_music/kuutamo_by_joni_koskimaa.mp3|sceneorg:/parties/2007/assembly07/music/freestyle/kuutamo_by_joni_koskimaa.zip|youtube:F-Ep7EluiRE
 
+
 :section 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2007 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:Candystall|author:Pittsburgh Stallers vs Loonies|position:1|sceneorg:/parties/2007/assembly07/in4k/candystall_by_pittsburgh_stallers_vs_loonies.zip|pouet:31522|dtv:id_file=2772&id_prod=13077&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31522_1.jpg&width=512&height=404
 title:Stiletto|author:rgba|position:2|sceneorgvideo:/parties/2007/assembly07/in4k/stiletto_by_rgba.avi|sceneorg:/parties/2007/assembly07/in4k/stiletto_by_rgba.zip|pouet:31520|dtv:id_file=3109&id_prod=13136&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31520_1.png&width=512&height=404|youtube:_lGZlciXHBM
@@ -190,7 +211,9 @@ title:MAAKAASU|author:brainlez Coders!|position:11|sceneorg:/parties/2007/assemb
 title:Hörpöntti the Blazing Red Whale|author:Lasi Interactive (feat. Hipo)|position:0|sceneorg:/parties/2007/assembly07/in4k/horpontti_the_blazing_red_whale_by_lasi_interactive_feat_hipo.zip|pouet:31533
 title:We're Having Light Satellite Disorder|author:lucid|position:0|sceneorg:/parties/2007/assembly07/in4k/were_having_light_satellite_disorder_by_lucid.zip|pouet:31530
 
+
 :section Short film
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
 title:Realtime demo wannabe|author:maxon / fake.|position:1|webfile:short_film/realtime_demo_wannabe_by_maxon_fake.wmv|media:/vod/2007/Compos/422_Realtime_demo_wannabe_by_maxon__fake_h264_1856kbps.mp4|sceneorg:/parties/2007/assembly07/short_film/realtime_demo_wannabe_by_maxon___fake_1600x1200.wmv|pouet:31591|dtv:id_file=2656&id_prod=13038&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31591_1.jpg&width=512&height=404|youtube:9momVJ5WZ1Q|cappedtv:1205089766-1-0&width=640&height=480
 title:ToyZone 2|author:Random & McLad & Nitro|position:2|webfile:short_film/toyzone_2_by_random_mclad_nitro.avi|media:/vod/2007/Compos/417_ToyZone_2_by_Random_amp_McLad_amp_Nitro_h264_1856kbps.mp4|sceneorg:/parties/2007/assembly07/short_film/toy2one_by_random_mclad_and_nitro_xvid.avi|pouet:31613|dtv:id_file=2659&id_prod=13039&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31613_1.jpg&width=512&height=404|youtube:oVgO5ERjae0
@@ -206,7 +229,9 @@ title:Pyllyssä Santaa|author:Senseless Bricklayer Animations|position:0|webfile
 title:Pelaamisen sietämätön keveys|author:JokuRandom|position:0|webfile:short_film/pelaamisen_siet_m_t_n_keveys_by_jokurandom.mp4|media:/vod/2007/Compos/413_Pelaamisen_sietmtn_keveys_by_JokuRandom_h264_1856kbps.mp4|sceneorg:/parties/2007/assembly07/short_film/pelaamisen_sietmtn_keveys_by_jokurandom_h264_1856kbps.mp4|pouet:31600|youtube:Xp07EmzyluM
 title:Viimeinen matka?|author:Saya, Aini, yms.|position:0|webfile:short_film/viimeinen_matka_by_saya_aini_yms.mp4|media:/vod/2007/Compos/416_Viimeinen_matka_by_Saya_Aini_yms_h264_1856kbps.mp4|sceneorg:/parties/2007/assembly07/short_film/viimeinen_matka_by_saya_aini_yms_h264_1856kbps.mp4|pouet:31606|youtube:XgkKhzFCZdI
 
+
 :section Demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2007 PC computer.</p>
 
 title:LifeForce|author:Andromeda Software Development|position:1|media:/vod/2007/Compos/428_LifeForce_by_Andromeda_Software_Development_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/demo/lifeforce_by_andromeda_software_development_720p_60fps_h264_320k_aac.mov|sceneorg:/parties/2007/assembly07/demo/lifeforce_by_andromeda_software_development.zip|pouet:31571|dtv:id_file=2587&id_prod=13015&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31571_1.jpg&width=512&height=404|youtube:Em8_6b3U7_s|cappedtv:asd-lifeforce&width=640&height=360
 title:STS-06: Microdots|author:Synesthetics|position:2|media:/vod/2007/Compos/431_STS06_Microdots_by_Synesthetics_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/demo/sts06_microdots_by_synesthetics.mov|sceneorg:/parties/2007/assembly07/demo/sts06_microdots_by_synesthetics.zip|pouet:31579|dtv:id_file=2596&id_prod=13018&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31579_1.jpg&width=512&height=404|youtube:WXnv49KWSDY|cappedtv:1205089559-1-0&width=450&height=254
@@ -225,7 +250,9 @@ title:Sundown 07 Invite|author:Bobby Davro Snooker Experience|position:14|media:
 title:Sokuseki|author:XPLSV|position:15|media:/vod/2007/Compos/436_Sokuseki_by_XPLSV_h264_7168kbps.mov|sceneorgvideo:/parties/2007/assembly07/compo_videos/h264/demo/sokuseki_by_xplsv.mov|sceneorg:/parties/2007/assembly07/demo/sokuseki_by_xplsv.zip|pouet:31578|dtv:id_file=2635&id_prod=13031&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31578_1.jpg&width=512&height=404|youtube:i4jGLfpIodw
 title:these dreams fuel my anger|author:jumalauta|position:0|sceneorg:/parties/2007/assembly07/demo/these_dreams_fuel_my_anger_by_jumalauta.zip|pouet:31580
 
+
 :section Browser demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Browser demo competition limited platform to 2007 version of Firefox and Opera with standard plugins on a high-end PC.</p>
 
 title:ADHDTV|author:Evoflash & BombSquad|position:1|sceneorg:/parties/2007/assembly07/browser_demo/adhdtv_by_evoflash__bombsquad.zip|pouet:31541|dtv:id_file=5094&id_prod=13567&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/31541_1.jpg&width=512&height=404
 title:Continuum|author:Minority|position:2|sceneorg:/parties/2007/assembly07/browser_demo/continuum_by_minority.zip|pouet:31542
@@ -237,7 +264,9 @@ title:Pastel Penetration|author:Reykjavik Elk Pi|position:0|sceneorg:/parties/20
 title:100101100|author:ITM|position:0|sceneorg:/parties/2007/assembly07/browser_demo/100101100_by_itm.zip|pouet:31615
 title:Suhero|author:Ahtiala Productions|position:0|sceneorg:/parties/2007/assembly07/browser_demo/suhero_by_ahtiala_productions.zip|pouet:31617
 
+
 :section Instrumental music
+:description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
 title:Scaremongers Guild|author:Aikapallo|position:1|webfile:instrumental_music/scaremongers_guild_by_aikapallo.mp3|sceneorg:/parties/2007/assembly07/music/instrumental/scaremongers_guild_by_aikapallo.zip|youtube:xKbaRhoEmF8
 title:Rotterdam '87|author:Virtaava|position:2|webfile:instrumental_music/rotterdam_87_by_virtaava.mp3|sceneorg:/parties/2007/assembly07/music/instrumental/rotterdam_87_by_virtaava.zip|youtube:cG0QWSAxBMk
@@ -271,7 +300,9 @@ title:Exterminator|author:La Nausée|position:0|webfile:instrumental_music/exter
 title:Tracked system|author:Acxu|position:0|webfile:instrumental_music/tracked_system_by_acxu.mp3|sceneorg:/parties/2007/assembly07/music/instrumental/tracked_system_by_acxu.zip|youtube:xUHCmDIerws
 title:Twisted Mind|author:Zeroch|position:0|webfile:instrumental_music/twisted_mind_by_zeroch.mp3|sceneorg:/parties/2007/assembly07/music/instrumental/twisted_mind_by_zeroch.zip|youtube:y1pRgZ8pKgk
 
+
 :section Freestyle graphics
+:description <p>In Freestyle graphics competition images may be created with any desired method about anything.</p>
 
 title:J.C. Harassing a CS Undergrad|author:Migugi / fake.|position:1|webfile:freestyle_graphics/j_c_harassing_a_cs_undergrad_by_migugi_fake.jpeg|sceneorg:/parties/2007/assembly07/grfx/freestyle/jc_harassing_a_cs_undergrad_by_migugi__fake.zip
 title:Like a bull|author:maxon / fake.|position:2|webfile:freestyle_graphics/like_a_bull_by_maxon_fake.png|sceneorg:/parties/2007/assembly07/grfx/freestyle/like_a_bull_by_maxon__fake.zip
@@ -305,7 +336,9 @@ title:A Small Human|author:b. o. w.|position:0|webfile:freestyle_graphics/a_smal
 title:Concentrated Juggler|author:Joni Rainasto|position:0|webfile:freestyle_graphics/concentrated_juggler_by_joni_rainasto.jpeg|sceneorg:/parties/2007/assembly07/grfx/freestyle/concentrated_juggler_by_joni_rainasto.zip
 title:Auringonkukka|author:ankkis / sitruslapset|position:0|webfile:freestyle_graphics/auringonkukka_by_ankkis_sitruslapset.png|sceneorg:/parties/2007/assembly07/grfx/freestyle/auringonkukka_by_ankkis__sitruslapset.zip
 
+
 :section AssemblyTV
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 title:Visitor interview 3|author:AssemblyTV|media:/vod/2007/AssemblyTV/257_visitorinterview3_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/257|youtube:Oi0e3oqeu5A
 title:Assembly Update 1|author:AssemblyTV|media:/vod/2007/AssemblyTV/259_asmupdate1_h264_1856kbps.mp4|guid:http://elaine.assembly.org/programs/259|youtube:RoN2XP1lGfo

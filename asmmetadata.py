@@ -67,7 +67,7 @@ def parse_file(file_handle):
         position = int(data_dict.get('position', u'0'))
         if position != 0:
             data_dict['position'] = position
-        else:
+        elif 'position' in data_dict:
             del data_dict['position']
 
         result.entries[normalized_section].append(data_dict)

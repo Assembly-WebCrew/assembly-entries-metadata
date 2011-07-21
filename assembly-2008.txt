@@ -1,6 +1,7 @@
 :year 2008
 
 :section Extreme music
+:description <p>In Extreme music competition music is generated with programs or <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a> that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
 
 title:Spacecake|author:Gasman / H-Prg / AY Riders|position:1|sceneorg:/parties/2008/assembly08/extreme/music/spacecake_by_gasman__hprg__ay_riders.zip
 title:The Epic Tune|author:Noby|position:2|webfile:extreme_music/the_epic_tune_by_noby.mp3|sceneorg:/parties/2008/assembly08/extreme/music/the_epic_tune_by_noby.zip|youtube:tE46QJosxig
@@ -20,7 +21,9 @@ title:Motion|author:Orlando Boom|position:0|webfile:extreme_music/motion_by_orla
 title:filtterikorvat - filter ears|author:tArzAn|position:0|sceneorg:/parties/2008/assembly08/extreme/music/filtterikorvat__filter_ears_by_tarzan.zip
 title:Merimiehen Herkkusieni|author:SpeaK & AKX|position:0|sceneorg:/parties/2008/assembly08/extreme/music/merimiehen_herkkusieni_by_speak__akx_.zip
 
+
 :section Game development
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 pouet:51064|author:Lasi Interactive|media:/vod/2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|title:Dave the Ordinary Spaceman|youtube:nJF9vAMT4qw|thumbnail:http://i.ytimg.com/vi/nJF9vAMT4qw/0.jpg|position:1|dtv:id_file=4508&id_prod=13386&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51064_1.jpg&width=512&height=404
 title:Kiuasturvat feat. VastaIsku by SX cracked|author:tAAt|position:2|sceneorg:/parties/2008/assembly08/game/kiuasturvat_feat_vastaisku_by_sx_cracked_by_taat.zip|pouet:51060|dtv:id_file=4625&id_prod=13424&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51060_2.jpg&width=512&height=404
@@ -35,7 +38,9 @@ pouet:51067|author:Team Fragment|media:/vod/2008/Compos/719_Gamedev_London_demo_
 title:F-16 FIGHTER|author:TJ GAMES|position:11|sceneorg:/parties/2008/assembly08/game/f16_fighter_by_tj_games.zip|pouet:51069
 title:The Orbixa|author:Bluefox Games Entertainment|position:12|sceneorg:/parties/2008/assembly08/game/the_orbixa_by_bluefox_games_entertainment.zip|pouet:51068
 
+
 :section 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 1200 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes that gives enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 pouet:51125|author:fairlight|media:/vod/2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in64/panic_room_by_fairlight.zip|title:panic room|youtube:EtaYBqgwy9w|thumbnail:http://i.ytimg.com/vi/EtaYBqgwy9w/0.jpg|position:1|dtv:id_file=4606&id_prod=13420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51125_1.png&width=512&height=404|cappedtv:fairlight-panic_room&width=640&height=382
 pouet:51129|author:SQNY|media:/vod/2008/Compos/772_64k_Nebula_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in64/nebula_by_sqny.zip|title:Nebula|youtube:wJ0e6huphLk|thumbnail:http://i.ytimg.com/vi/wJ0e6huphLk/0.jpg|position:2|dtv:id_file=4605&id_prod=13419&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51129_1.jpg&width=512&height=404
@@ -45,14 +50,18 @@ pouet:51135|author:United Force|media:/vod/2008/Compos/771_64k_Crystal_tension_h
 pouet:51139|author:Alpha Design|media:/vod/2008/Compos/775_64k_Risotto_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in64/risotto_by_alpha_design.zip|title:Risotto|youtube:aV7AXq3-VGQ|position:6|thumbnail:http://i.ytimg.com/vi/aV7AXq3-VGQ/0.jpg
 pouet:51141|author:mrp|media:/vod/2008/Compos/770_64k_HypnotizeHasselnuss_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in64/hypnotizehasselnuss_by_mrp.zip|title:HypnotizeHasselnuss|youtube:HtoXzHSN8L8|position:7|thumbnail:http://i.ytimg.com/vi/HtoXzHSN8L8/0.jpg
 
+
 :section Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 pouet:51153|author:Byterapers|media:/vod/2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/oldschool/demo/renaissance_by_byterapers.zip|title:Renaissance|youtube:-DpNyt_6S7Y|thumbnail:http://i.ytimg.com/vi/-DpNyt_6S7Y/0.jpg|position:1|dtv:id_file=4635&id_prod=13428&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51153_1.gif&width=512&height=404
 pouet:51115|author:PWP|media:/vod/2008/Compos/742_Oldskool_The_next_level_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/oldschool/demo/the_next_level_by_pwp.zip|title:The Next Level|youtube:T_WGIkfS2Pc|thumbnail:http://i.ytimg.com/vi/T_WGIkfS2Pc/0.jpg|position:2|dtv:id_file=4632&id_prod=13427&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51115_1.png&width=512&height=404
 pouet:51161|author:Dekadence+Unique+RNO+Parallax|media:/vod/2008/Compos/743_Oldskool_Hardknee_Lotus_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/oldschool/demo/hardknee_lotus_by_dekadenceuniquernoparallax.lha|title:Hardknee Lotus|youtube:wZd3CCORnDg|thumbnail:http://i.ytimg.com/vi/wZd3CCORnDg/0.jpg|position:3|dtv:id_file=4630&id_prod=13426&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51161_1.png&width=512&height=404|cappedtv:rave_network_overscan_dekadenc-hardknee_lotus&width=640&height=320
 pouet:51145|author:Greippi/limbo|media:/vod/2008/Compos/745_Oldskool_Ex-flies_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/oldschool/demo/ex-flies_by_greippilimbo.zip|title:Ex-flies.exe|youtube:i3Gh1fajNYg|thumbnail:http://i.ytimg.com/vi/i3Gh1fajNYg/0.jpg|position:4|dtv:id_file=4628&id_prod=13425&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51145_1.png&width=512&height=404
 
+
 :section Fast graphics
+:description <p>Competitors had 1.5 hours to create an image with theme "Size matters not".</p>
 
 title:butterfly effect|author:korpi|position:1|webfile:fast_graphics/butterfly_effect_by_korpi.jpeg|sceneorg:/parties/2008/assembly08/fast/grfx/butterfly_effect_by_korpi.zip
 title:Ballbreaker|author:maxon/HBC|position:2|webfile:fast_graphics/ballbreaker_by_maxon_hbc.jpeg|sceneorg:/parties/2008/assembly08/fast/grfx/ballbreaker_by_maxonhbc.zip
@@ -84,6 +93,7 @@ title:Poro, olet ikuinen idolini (Sumuisten vuorten Jättiläiset)|author:shinma
 title:Hummani hei|author:Rakeinen / Tekotuotanto|position:0|webfile:fast_graphics/hummani_hei_by_rakeinen_tekotuotanto.png|sceneorg:/parties/2008/assembly08/fast/grfx/hummani_hei_by_rakeinen__tekotuotanto.zip
 
 :section Fast music
+:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
 title:Cosmic Dance of Shiva|author:Little Bitchard|position:1|webfile:fast_music/cosmic_dance_of_shiva_by_little_bitchard.mp3|sceneorg:/parties/2008/assembly08/fast/music/cosmic_dance_of_shiva_by_little_bitchard.mp3|youtube:2NTaaJXtfn8
 title:Batman Nahkanuija & Yön Timot|author:King Thrill / Tekotuotanto|position:2|webfile:fast_music/batman_nahkanuija_y_n_timot_by_king_thrill_tekotuotanto.mp3|sceneorg:/parties/2008/assembly08/fast/music/batman_nahkanuija__yon_timot_by_king_thrill__tekotuotanto.mp3|youtube:7-Rtg4nPPrc
@@ -99,7 +109,9 @@ title:paramparampam|author:Voidloop|position:11|webfile:fast_music/paramparampam
 title:Hide n Streak|author:Castor / Immersion|position:12|webfile:fast_music/hide_n_streak_by_castor_immersion.mp3|sceneorg:/parties/2008/assembly08/fast/music/hide_n_streak_by_castor__immersion.mp3|youtube:0tjfGlOpZqU
 title:fealter irs|author:tArzAn|position:13|webfile:fast_music/fealter_irs_by_tarzan.mp3|sceneorg:/parties/2008/assembly08/fast/music/fealter_irs_by_tarzan.ogg|youtube:azdM5pLshA0
 
+
 :section Graphics
+:description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
 title:Scene Accordion|author:Ray Noa|position:1|webfile:graphics/scene_accordion_by_ray_noa.jpeg|sceneorg:/parties/2008/assembly08/grfx/scene_accordion_by_ray_noa.zip
 title:Wildlife|author:BassBoost|position:2|webfile:graphics/wildlife_by_bassboost.png|sceneorg:/parties/2008/assembly08/grfx/wildlife_by_bassboost.zip
@@ -131,7 +143,9 @@ title:Siäniä|author:Zirona|position:0|webfile:graphics/si_ni_by_zirona.jpeg|sc
 title:Revenge of the Cracker|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:graphics/revenge_of_the_cracker_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2008/assembly08/grfx/revenge_of_the_cracker_by_diamondiefoobugnumedia_cyclops.zip
 title:Alien Suck My...|author:Timo Perämaa|position:0|webfile:graphics/alien_suck_my_by_timo_per_maa.jpeg|sceneorg:/parties/2008/assembly08/grfx/alien_suck_my_by_timo_peramaa.zip
 
+
 :section 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2008 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 pouet:51114|author:Portal Process & TBC|media:/vod/2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in4k/nucleophile_by_portal_process__tbc.zip|title:Nucleophile|youtube:ixnLwEQNlXI|thumbnail:http://i.ytimg.com/vi/ixnLwEQNlXI/0.jpg|position:1|dtv:id_file=4499&id_prod=13383&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51114_1.jpg&width=512&height=404|cappedtv:portal_process_tbc-nucleophile&width=640&height=480
 pouet:51137|author:Juippi & Trilkk|media:/vod/2008/Compos/733_4k_Stick_animation_engine_4000_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in4k/stick_animation_engine_4000_by_juippi__trilkk.tar.gz|title:Stick Animation Engine 4000|youtube:6ufUnApErS4|thumbnail:http://i.ytimg.com/vi/6ufUnApErS4/0.jpg|position:2|dtv:id_file=4559&id_prod=13403&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51137_1.png&width=512&height=404
@@ -148,7 +162,9 @@ title:The Island|author:Otto Seiskari|position:0|sceneorg:/parties/2008/assembly
 title:last minute lolbeat|author:Poksi Productions|position:0|sceneorg:/parties/2008/assembly08/in4k/last_minute_lolbeat_by_poksi_productions.zip
 title:Fountain of Marts - Vierupuori|author:XZM & tAAt|position:0|sceneorg:/parties/2008/assembly08/in4k/fountain_of_marts__vierupuori_by_xzm__taat.zip|pouet:51138
 
+
 :section Short film
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
 author:HBC|media:/vod/2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|sceneorg:/parties/2008/assembly08/short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|title:Field Trip|youtube:IwxVAvHv-5w|thumbnail:http://i.ytimg.com/vi/IwxVAvHv-5w/0.jpg|position:1|dtv:id_file=4535&id_prod=13395&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51144_1.png&width=512&height=404|cappedtv:bit_cheese-field_trip&width=832&height=468
 pouet:51155|author:Tekotuotanto|media:/vod/2008/Compos/761_Short_TimeReal_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/short/761_short_timereal_h264_1856kbit.mp4|title:TimeReal|youtube:YrtqcwdRDoQ|thumbnail:http://i.ytimg.com/vi/YrtqcwdRDoQ/0.jpg|position:2|dtv:id_file=4532&id_prod=13394&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51155_1.jpg&width=512&height=404
@@ -159,7 +175,9 @@ pouet:51159|author:Ptman, Opqdonut, Ribbe, Joku|media:/vod/2008/Compos/768_Short
 pouet:51160|author:Matti Vanhala & Henri Kerko|media:/vod/2008/Compos/758_Short_They_were_nameless_heroes_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/short/758_short_they_were_nameless_heroes_h264_1856kbit.mp4|title:They Were Nameless Heroes|youtube:X7HvqTCtrgA|thumbnail:http://i.ytimg.com/vi/X7HvqTCtrgA/0.jpg|position:7|dtv:id_file=4517&id_prod=13389&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51160_1.jpg&width=512&height=404
 pouet:51162|author:Region Factible|media:/vod/2008/Compos/767_Short_Tienen_asi_como_un_deje_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/short/767_short_tienen_asi_como_un_deje_h264_1856kbit.mp4|title:Tienen asi como un deje|youtube:e8E766pIOUY|position:8|thumbnail:http://i.ytimg.com/vi/e8E766pIOUY/0.jpg
 
+
 :section Real wild demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or event platforms that competitor has built himself.</p>
 
 pouet:51118|author:Evoflash|media:/vod/2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/99er_by_evoflash.zip|title:99er|youtube:wJIM2VPKT0w|thumbnail:http://i.ytimg.com/vi/wJIM2VPKT0w/0.jpg|position:1|dtv:id_file=4650&id_prod=13433&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51118_1.jpg&width=512&height=404
 pouet:51131|author:Hedelmae|media:/vod/2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/daydream_by_hedelmae.zip|title:Daydream|youtube:uZxcQ3R-Wuo|thumbnail:http://i.ytimg.com/vi/uZxcQ3R-Wuo/0.jpg|position:2|dtv:id_file=4646&id_prod=13432&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51131_1.jpg&width=512&height=404
@@ -169,7 +187,9 @@ pouet:51116|author:Immersion|media:/vod/2008/Compos/791_RealWild_Title_IX_h264_7
 pouet:51152|author:Komplex|media:/vod/2008/Compos/793_RealWild_Patent_pending_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/patent_pending_by_komplex.zip|title:Patent Pending|youtube:ukjoTw-_Oqc|thumbnail:http://i.ytimg.com/vi/ukjoTw-_Oqc/0.jpg|position:6|dtv:id_file=4638&id_prod=13429&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51152_1.jpg&width=512&height=404
 pouet:51127|author:Wide Load|media:/vod/2008/Compos/794_RealWild_Rabies_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/rabies_by_wide_load.zip|title:Rabies|youtube:oAoHFKmeabY|position:7|thumbnail:http://i.ytimg.com/vi/oAoHFKmeabY/0.jpg
 
+
 :section Music
+:description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
 
 title:My Grey Magic Box|author:Aikapallo|position:1|webfile:music/my_grey_magic_box_by_aikapallo.mp3|sceneorg:/parties/2008/assembly08/music/my_grey_magic_box_by_aikapallo.mp3|youtube:Ed6WS2M1SIM
 title:The Disturbingly Destructive Adventures of Agent S|author:GRiMM / Agent S|position:2|webfile:music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm_agent_s.mp3|sceneorg:/parties/2008/assembly08/music/the_disturbingly_destructive_adventures_of_agent_s_by_grimm__agent_s.mp3|youtube:VmAaWz4Z3K0
@@ -222,7 +242,9 @@ title:Superfine|author:Tomas "Royalpulse" Ukkonen|position:0|webfile:music/super
 title:Please Me|author:Tenor's Modest Paramour / Lo-Kiwi|position:0|webfile:music/please_me_by_tenor_s_modest_paramour_lo_kiwi.mp3|sceneorg:/parties/2008/assembly08/music/please_me_by_tenors_modest_paramour__lokiwi.mp3|youtube:cwgVsjhHty4
 title:False Hope|author:Brainstorm/Paranoids|position:0|webfile:music/false_hope_by_brainstorm_paranoids.mp3|sceneorg:/parties/2008/assembly08/music/false_hope_by_brainstormparanoids.mp3|youtube:_JBAELc9_Lo
 
+
 :section Extreme graphics
+:description <p>In Extreme graphics competition images are produced with small programs that are limited to 4 kilobytes in size. Average low resolution thumbnail image on these pages takes about the same amount of space as those programs are limited to.</p>
 
 title:Takkia|author:hbt/(b)|position:1|webfile:extreme_graphics/takkia_by_hbt_b.png|sceneorg:/parties/2008/assembly08/extreme/grfx/takkia_by_hbtb.zip
 title:PrRrkle!|author:Duce / Extend|position:2|webfile:extreme_graphics/prrrkle_by_duce_extend.png|sceneorg:/parties/2008/assembly08/extreme/grfx/prrrkle_by_duce__extend.zip
@@ -239,7 +261,9 @@ title:truelies|author:unseenfate/pen15|position:12|webfile:extreme_graphics/true
 title:Left above the clouds|author:DiamonDie/foobug^Numedia Cyclops|position:13|webfile:extreme_graphics/left_above_the_clouds_by_diamondie_foobug_numeotU/0.jpg|position:4|dtv:id_file=4708&id_prod=13455&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51136_1.jpg&width=512&height=404
 title:test|author:tArzAn|position:0|webfile:extreme_graphics/test_by_tarzan.png|sceneorg:/parties/2008/assembly08/extreme/grfx/test_by_tarzan.zip
 
+
 :section Demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2010 PC computer.</p>
 
 pouet:51140|author:Pyrotech|media:/vod/2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/within_epsilon_by_pyrotech.zip|title:Within Epsilon|youtube:4YvYnHvhI_E|thumbnail:http://i.ytimg.com/vi/4YvYnHvhI_E/0.jpg|position:1|dtv:id_file=4608&id_prod=13422&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51140_1.jpg&width=512&height=404
 pouet:51128|author:PlayPsyCo|media:/vod/2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/contre_jour_by_playpsyco.zip|title:Contre Jour|youtube:8Xxklx6Kifg|thumbnail:http://i.ytimg.com/vi/8Xxklx6Kifg/0.jpg|position:2|dtv:id_file=4607&id_prod=13421&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51128_1.jpg&width=512&height=404
@@ -250,7 +274,9 @@ pouet:51132|author:Adapt|media:/vod/2008/Compos/784_Demo_The_invisible_hold_h264
 title:Effects|author:Codex/Paranoids|position:0|sceneorg:/parties/2008/assembly08/demo/effects_by_codexparanoids.zip
 title:Kalvosinappi - Membrane Mustard by XZM stolen|author:tAAt|position:0|sceneorg:/parties/2008/assembly08/demo/kalvosinappi__membrane_mustard_by_xzm_stolen_by_taat.zip
 
+
 :section AssemblyTV
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 title:Compo studio: Fast Graphics compo |author:AssemblyTV|media:/vod/2008/AssemblyTV/631_compostudio_fast_gfx_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/631|youtube:EwbTrM9DNwY
 title:compo studio: 4k intro |author:AssemblyTV|media:/vod/2008/AssemblyTV/643_compostudio_4k_h264_1856kbit.mp4|guid:http://elaine.assembly.org/programs/643|youtube:suY_T8FD1_U
