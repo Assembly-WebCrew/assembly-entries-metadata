@@ -295,7 +295,8 @@ title:fuckhead|author:satori|position:0|webfile:short_film/fuckhead_by_satori.mp
 title:Apple Vendetta|author:Overnight Productions|position:0|webfile:short_film/apple_vendetta_by_overnight_productions.mpeg|sceneorg:/parties/2004/assembly04/short_film/apple_vendetta_by_overnightprods.mpg|pouet:26475|youtube:5rjWom4XNwY
 title:Sirkan metafyysinen tyyli|author:säästöpojat feat. lempeät kuninkaat|position:0|webfile:short_film/sirkan_metafyysinen_tyyli_by_s_st_pojat_feat_lempe_t_kuninkaat.avi|sceneorg:/parties/2004/assembly04/short_film/sirkka.avi|pouet:13026|youtube:AtpABWq1ujk
 
-:section Unofficial aNSI/ASCII
+:section Unofficial ANSI/ASCII
+:description <p>ANSI/ASCII graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
 title:East 1999|author:hseven|position:1|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/east_1999_by_hseven.zip
 title:kallo-otus|author:ansichrist|position:2|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/kallo-otus_by_ansichrist.zip

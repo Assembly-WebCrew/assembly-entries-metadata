@@ -119,6 +119,7 @@ title:purkamo.com featuring paleface|author:purkamo.com|position:9|sceneorg:/par
 title:Astraalikakka|author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00/flash/astraali.zip
 
 :section ANSI graphics
+:description <p>ANSI graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
 title:Clasm|author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip
 title:Who am I?|author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip
