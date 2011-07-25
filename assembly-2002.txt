@@ -1,6 +1,7 @@
 :year 2002
 
 :section Mobile demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that weighted under 250 grams.</p>
 
 title:Limbo|author:Byterapers & Doomsday|position:1|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 1st - Limbo by Byterapers, Doomsday_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/limbo_by_byterapers__doomsday-ppc-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/limbo_by_byterapers___doomsday--ppc.zip|pouet:7156|youtube:6wEbYuoQdQQ
 title:perkele plus|author:contraz + excess|position:2|media:/vod/.oldies-goldies/compos/ASM02 Mobile - 2nd - perkele plus by contraz, excess_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/mobiledemo/divx/perkele_plus_by_contraz_excess-siemens_sl45i-divx.avi|sceneorg:/parties/2002/assembly02/mobiledemo/perkele_plus_by_contraz__excess--siemens_sl45i.zip|pouet:7129|dtv:id_file=1889&id_prod=7960&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7129.gif&width=512&height=404|youtube:jKma04-Q3tw
@@ -20,6 +21,7 @@ title:Anynomous|author:Twinsoft|position:0|sceneorg:/parties/2002/assembly02/mob
 title:The Son of Grooveboy|author:Sca9 Entertainment|position:0|sceneorg:/parties/2002/assembly02/mobiledemo/the_son_of_grooveboy_by_sca9_entertainment--gba.zip|pouet:8649
 
 :section Oldskool graphics
+:description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
 title:The Last Battle|author:Phase1 & Mermaid|position:1|webfile:oldskool_graphics/the_last_battle_c64_by_phase1_mermaid.png|sceneorg:/parties/2002/assembly02/oldskool/grfx/lastbattlebymermaid.zip
 title:Theodore Bear|author:Heatbeat/CNCD|position:2|sceneorg:/parties/2002/assembly02/oldskool/grfx/theodore_bear_by_heatbeat_cncd.zip
@@ -34,6 +36,7 @@ title:Paradise shore|author:Bregade11|position:10|webfile:oldskool_graphics/para
 title:Hymyile|author:Saksan Perussanasto/Jumalauta|position:0
 
 :section Game development
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 title:Porrasturvat - Stair Dismount|author:Tarzan / tAAt|position:1|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 1st - Porrasturvat by Tarzan-tAAt_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/porrasturvat_by_taat.zip|pouet:7090|youtube:nNlTLJxZw78
 title:Mr. Pixel|author:Jens Bache-Wiig|position:2|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 2nd - Mr. Pixel by Jens Bache-Wiig_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/mrpixel.zip|pouet:7208|youtube:wv6Ps2YCyx8
@@ -41,6 +44,7 @@ title:Blockofighter|author:Miika Sell & Juha Kaarlas|position:3|media:/vod/.oldi
 title:Capture the Prize|author:CustardForBrains|position:4|media:/vod/.oldies-goldies/compos/ASM02 Gamedev - 4th - Capture the Prize by CustardForBrains_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/gamedev/capture_the_prize_by_custardforbrains.zip|pouet:8858|youtube:KrHOsHCoM6k
 
 :section Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
 title:Impossiblator 2|author:pwp|position:1|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 1st - Impossiblator 2 by pwp_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/impossiblator_2_by_pwp.zip|pouet:7121|youtube:melQL5ectvo
 title:My Kondom|author:Haujobb & Dekadence|position:2|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 2nd - My Kondom by Haujobb, Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/mycondom.zip|pouet:7188|youtube:mohgZZsGgss
@@ -50,6 +54,7 @@ title:Outsider|author:Spaceballs|position:5|media:/vod/.oldies-goldies/compos/AS
 title:Risperdal Dreams|author:Upstars|position:6|media:/vod/.oldies-goldies/compos/ASM02 Oldskool - 6th - Risperdal Dreams by Upstars_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/oldskool/demo/rispeldel.zip|pouet:9298|youtube:umpsRu2Hs-I
 
 :section Analog graphics
+:description <p>Analog Graphics competition included only pictures on paper made completely without machine produced components.</p>
 
 title:Snakes in oil|author:Partikle|position:1
 title:Blunt-smokin' AfroLinux|author:Pineapple|position:2|webfile:analog_graphics/blunt_smokin_afrolinux_by_pineapple.png|sceneorg:/parties/2002/assembly02/analog-grfx/pineapple-blunt_smokin_afrolinux.zip
@@ -63,6 +68,7 @@ title:Untitled|author:MCK|position:9|webfile:analog_graphics/untitled_by_mck.png
 title:Kafka's day off|author:Marq/Fit^Lieves!Tuore|position:10|webfile:analog_graphics/kafka_s_day_off_by_marq_fit_lieves_tuore.png|sceneorg:/parties/2002/assembly02/analog-grfx/marq-kafkas_day_off.zip
 
 :section Fast music
+:description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
 title:Jetkalenkka|author:Aikapallo|position:1|webfile:fast_music/jetkalenkka_by_aikapallo.mp3|sceneorg:/parties/2002/assembly02/fastmusic/jetkalenkka_by_aikapallo.zip|youtube:4v_q7gEx0fs
 title:Karjalan Haamu|author:Ari "DJArtz" Pulkkinen|position:2|webfile:fast_music/karjalan_haamu_by_ari_djartz_pulkkinen.mp3|sceneorg:/parties/2002/assembly02/fastmusic/karjalan_haamu_by_ari__djartz__pulkkinen.zip|youtube:NFzwgES3HBI
@@ -97,6 +103,7 @@ title:A Homage|author:Puti|position:0|webfile:fast_music/a_homage_by_puti.mp3|sc
 title:oh my dog|author:kiste / Team scene.ee|position:0|webfile:fast_music/oh_my_dog_by_kiste_team_scene_ee.mp3|sceneorg:/parties/2002/assembly02/fastmusic/oh_my_dog_by_kiste___team_scene_ee.zip|youtube:FDpNvSZRws8
 
 :section Oldskool music
+:description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
 title:Balls Of Steel|author:jammic|position:1|webfile:oldskool_music/balls_of_steel_c64_by_jammic.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/ballsofsteel.zip|youtube:WEiAFBVuzBU
 title:Would You?|author:Britelite / Dekadence|position:2|webfile:oldskool_music/would_you_c64_by_britelite_dekadence.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/wouldyou.zip|youtube:zdoSeZbLGB4
@@ -133,7 +140,9 @@ title:Fields of Mist|author:humppamies / piAstro|position:0|webfile:oldskool_mus
 title:Attack in no time|author:Ilem|position:0|webfile:oldskool_music/attack_in_no_time_pc_by_ilem.mp3|sceneorg:/parties/2002/assembly02/oldskool/music/attack_in_no_time_by_ilem.zip|youtube:pG1WT0WPXf4
 title:Primality|author:Gasman / Hooy-Program|position:0
 
+
 :section Flash demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Flash demo competition included demos created with <a href="http://en.wikipedia.org/wiki/Flash_mx">Flash MX</p> technology, that is currently known as Adobe Flash. Flash is quite standard component in desktop browsers used for animated graphics.</p>
 
 title:Super mushroom sisters|author:RNO|position:1|media:/vod/.oldies-goldies/compos/ASM02 Flash - 1st - Super mushroom sisters by RNO_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/flash/super_mushroom_sisters_by_rno.zip|pouet:7126|youtube:kwSefGbYAuE
 title:Kreivi Krapula|author:Rapture Seekers|position:2|media:/vod/.oldies-goldies/compos/ASM02 Flash - 2nd - Kreivi Krapula by Rapture Seekers_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/flash/kreivi_krapula_by_rapture_seekers.zip|youtube:XchKMU_akSU
@@ -157,6 +166,7 @@ title:dokumenttiprojekti: velluorava|author:DoC / FD|position:0|sceneorg:/partie
 title:Return of the Lamer|author:chosenone-|position:0|sceneorg:/parties/2002/assembly02/flash/return_of_the_lamer_by_chosenone-.zip
 
 :section Combined demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Combined demo competition limited platforms to 2002 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
 title:liquid... wen?|author:haujobb|position:1|sceneorg:/parties/2002/assembly02/demo/liquid____wen__by_haujobb.zip|pouet:7130|dtv:id_file=2992&id_prod=6254&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7130.gif&width=512&height=404|cappedtv:haujobb-liquid_wen&width=640&height=480
 title:Halla|author:Moppi Productions|position:2|media:/vod/.oldies-goldies/compos/ASM02 Demo - 2nd - Halla by Moppi Productions_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/demo/halla_by_moppi.zip|pouet:7132|dtv:id_file=1500&id_prod=4795&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7132.jpg&width=512&height=404|youtube:DsbEny9XBBQ
@@ -191,7 +201,9 @@ title:Wir sind raus|author:Anti Flash Konsortium|position:0|sceneorg:/parties/20
 title:Spring|author:Ananasmurska|position:0|sceneorg:/parties/2002/assembly02/demo/spring_by_ananasmurska_final.zip|pouet:8834
 title:My Dreams|author:Art mafia collective|position:0|sceneorg:/parties/2002/assembly02/demo/my_dreams_by_art_mafia_collective.zip
 
+
 :section Instrumental music
+:description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
 title:The Goblin Returns|author:Skaven / Future Crew|position:1|webfile:instrumental_music/the_goblin_returns_by_skaven_future_crew.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/the_goblin_returns_by_skaven___future_crew.zip|youtube:6Ah38jugfpw
 title:Conflict|author:Firestorm / Doomsday|position:2|webfile:instrumental_music/conflict_by_firestorm_doomsday.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/conflict_by_firestorm___doomsday_1.zip|youtube:-dgqIMDKUk8
@@ -319,6 +331,7 @@ title:Electric worm|author:sPiiKKi / Nalleperhe|position:0|webfile:instrumental_
 title:Avaruuspöpö|author:Ad Absurdum|position:0|webfile:instrumental_music/avaruusp_p_by_ad_absurdum.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/avaruusp_p__by_ad_absurdum.zip|youtube:9TaHOAgqUUY
 title:Flow|author:SounDemoN 1|position:0|webfile:instrumental_music/flow_by_soundemon_1.mp3|sceneorg:/parties/2002/assembly02/instrumentalmusic/flow_by_soundemon.zip|youtube:CO6pvapYgqg
 
+
 :section Forum Nokia 24h
 
 title:funky starfighter|author:portal project|position:1|sceneorg:/parties/2002/assembly02/forumnokia/funky_starfighter_by_portal_project_1.zip
@@ -330,7 +343,9 @@ title:crap|author:psikorp|position:0|sceneorg:/parties/2002/assembly02/forumnoki
 title:Max payne cracktro|author:White and black phantom fanclub|position:0|sceneorg:/parties/2002/assembly02/forumnokia/max_payne_cracktro_by_white_and_black_phantom_fanclub.zip
 title:Yksin|author:Jou|position:0|sceneorg:/parties/2002/assembly02/forumnokia/yksin_by_jou.zip
 
+
 :section Wild demo
+:description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
 title:The Way Out|author:Unreal Voodoo|position:1|webfile:wild_demo/the_way_out_by_unreal_voodoo.mpeg|sceneorg:/parties/2002/assembly02/wild/the_way_out_by_unreal_voodoo.mpg|pouet:7144|youtube:7f3brR0U6CQ
 title:The Fellow Chip|author:Amazement|position:2|webfile:wild_demo/the_fellow_chip_by_amazement.mpeg|sceneorg:/parties/2002/assembly02/wild/the_fellow_chip_by_amazement.mpg|pouet:10386|youtube:ATDSEFGxIAE
@@ -356,7 +371,9 @@ title:Tuning tarina - The Movie|author:Tero K|position:0|webfile:wild_demo/tunin
 title:Pertti the Motion Picture|author:Spurged Squash|position:0|webfile:wild_demo/pertti_the_motion_picture_by_spurged_squash.avi|sceneorg:/parties/2002/assembly02/wild/pertti_by_spurged_squash.avi|youtube:nHZ5bopkn6Q
 title:The End Of The World|author:Golem|position:0|webfile:wild_demo/the_end_of_the_world_by_golem.mpeg|sceneorg:/parties/2002/assembly02/wild/the_end_of_the_world_by_golem.mpg|youtube:O35nM1mzOcc
 
+
 :section Animation
+:description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
 title:Project Kerosene|author:Heikki Anttila & Milan Kolarovic|position:1|webfile:animation/project_kerosene_by_heikki_anttila_milan_kolarovic.avi|sceneorg:/parties/2002/assembly02/anim/project_kerosene_by_anttila_kolarovic.avi|pouet:8350|dtv:id_file=1499&id_prod=8350&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8350.jpg&width=512&height=404|youtube:6jrEP5xf3Tk
 title:Blue|author:Visualice and Melwyn of Haujobb|position:2|webfile:animation/blue_by_visualice_and_melwyn_of_haujobb.avi|sceneorg:/parties/2002/assembly02/anim/blue_by_melwyn.avi|pouet:7605|dtv:id_file=1836&id_prod=1521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7605.jpg&width=512&height=404|youtube:SV5sHpPtxp8
@@ -371,7 +388,9 @@ title:Aquarium|author:Entropia|position:0|webfile:animation/aquarium_by_entropia
 title:heikotus|author:nosfe/mfx|position:0|webfile:animation/heikotus_by_nosfe_mfx.mpeg|sceneorg:/parties/2002/assembly02/anim/heikotus_by_nosfe.mpg|pouet:7200|youtube:0baXmhuu87s
 title:Help!|author:Trance14 and Lapa|position:0|webfile:animation/help_by_trance14_and_lapa.mpeg|sceneorg:/parties/2002/assembly02/anim/help_by_trance14_and_lapa.mpg|pouet:20609|youtube:SMj1okSxx2o
 
+
 :section Combined 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on 2002 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:squish|author:AND|position:1|media:/vod/.oldies-goldies/compos/ASM02 64k - 1st - squish by AND_h264_1856kbit.mp4|sceneorg:/parties/2002/assembly02/in64/squish_by_and.zip|pouet:7135|youtube:GFn_JY0yIOc
 title:Future visions|author:Potion|position:2|media:/vod/.oldies-goldies/compos/ASM02 64k - 2nd - Future visions by Potion_h264_1856kbit.mp4|sceneorgvideo:/parties/2002/assembly02/in64/ass02.amiga.64k.potion.future.visions.vcd.mpeg|sceneorg:/parties/2002/assembly02/in64/future_visions_by_potion.lha|pouet:7210|youtube:loIHxyxwssw
@@ -395,7 +414,9 @@ title:Nokia Sucks|author:The Swedes|position:0|sceneorg:/parties/2002/assembly02
 title:unssi kertoo vitsin|author:jumalauta|position:0|sceneorg:/parties/2002/assembly02/in64/unssi_kertoo_vitsin_by_jumalauta.zip|pouet:6993
 title:vittu vs perkele|author:Odd|position:0|sceneorg:/parties/2002/assembly02/in64/vittu_vs_perkele_by_odd.zip|pouet:7186
 
+
 :section Combined 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2002 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:humus3|author:Exploder / PUSH Entertainment|position:1|sceneorg:/parties/2002/assembly02/in4k/humus3_by_exploder___push_entertainment.lzx|pouet:7133
 title:Sotakyrpä|author:Spaceballs & Ephidrena|position:2|sceneorg:/parties/2002/assembly02/in4k/sotakyrpa_by_spaceballs_ephidrena.lha|pouet:7123
@@ -411,7 +432,9 @@ title:c.hello|author:HeadcrasH|position:10|sceneorg:/parties/2002/assembly02/in4
 title:lametus|author:lenin_ra|position:11|sceneorg:/parties/2002/assembly02/in4k/lametus_by_lenin_ra.zip|pouet:20612
 title:Sifiela|author:Itchi / Lonely Coders|position:12|sceneorg:/parties/2002/assembly02/in4k/sifiela_by_itchi___lonely_coders.zip|pouet:20613
 
+
 :section Vocal music
+:description <p>In Vocal music competition entries could be any type of music from any genre created with any method and unlike in Instrumental music competition, they could also include human vocals.</p>
 
 title:Valley of the Past|author:Firestorm / Doomsday|position:1|webfile:vocal_music/valley_of_the_past_by_firestorm_doomsday.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/valley_of_the_past_by_firestorm___doomsday_1.zip|youtube:Fd6VoJUeHNI
 title:Rain Slows the Time|author:Bliss of Fairlight Music|position:2|webfile:vocal_music/rain_slows_the_time_by_bliss_of_fairlight_music.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/rain_slows_the_time_by_bliss_of_fairlight_music.zip|youtube:wBddsowZ10U
@@ -471,7 +494,9 @@ title:Psyko Manne|author:Da-|position:0|webfile:vocal_music/psyko_manne_by_da.mp
 title:Kasakkapartio|author:KPM|position:0|sceneorg:/parties/2002/assembly02/vocalmusic/kasakkapartio_by_kpm_1.zip-wasbadzip
 title:"World War II memoirs" theme (Asm'02 mix)|author:Milan Kolarovic (a.k.a. Acumen)|position:0|webfile:vocal_music/world_war_ii_memoirs_theme_asm_02_mix_by_milan_kolarovic_a_k_a_acumen.mp3|sceneorg:/parties/2002/assembly02/vocalmusic/_world_war_ii_memoirs__theme__asm_02_mix__by_milan_kolarovic__a_k_a__acumen_.zip|youtube:L0Kb1YVKt9E
 
+
 :section Raytraced graphics
+:description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
 title:Butterfly|author:Antti Lehtinen|position:1|webfile:raytraced_graphics/butterfly_by_antti_lehtinen.png|sceneorg:/parties/2002/assembly02/grtc/butterfly_by_antti_lehtinen.zip
 title:You've got mail|author:Oozie|position:2|webfile:raytraced_graphics/you_ve_got_mail_by_oozie.png|sceneorg:/parties/2002/assembly02/grtc/you_ve_got_mail_by_oozie.zip
@@ -511,7 +536,9 @@ title:Asetelma|author:jou!|position:0|webfile:raytraced_graphics/asetelma_by_jou
 title:Experiment|author:D'Walker|position:0|webfile:raytraced_graphics/experiment_by_d_walker.png|sceneorg:/parties/2002/assembly02/grtc/experiment_by_d_walker.zip
 title:fly|author:Merlin IIK|position:0|webfile:raytraced_graphics/fly_by_merlin_iik.png|sceneorg:/parties/2002/assembly02/grtc/fly_by_by_merlin_iik.zip
 
+
 :section Drawn graphics
+:description <p>Pictures were created by drawing them by hand.</p>
 
 title:Blood Donation|author:Calvin/Halo|position:1|webfile:drawn_graphics/blood_donation_by_calvin_halo.png|sceneorg:/parties/2002/assembly02/grfx/blood_donation_by_calvin_halo.zip
 title:Hitchhiker|author:maxon|position:2|webfile:drawn_graphics/hitchhiker_by_maxon.png|sceneorg:/parties/2002/assembly02/grfx/hitchhiker_by_maxon.zip
