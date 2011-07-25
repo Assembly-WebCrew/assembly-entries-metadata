@@ -64,7 +64,7 @@ title:Daydream believer|author:Debris|position:3|sceneorg:/parties/1998/assembly
 
 :section PC 4k intro
 
-title:Mesha|author:Picard / Rhyme|position:1|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|pouet:954
+title:Mesha|author:Picard / Rhyme|position:1|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|pouet:954|youtube:dGQEeArYDS8
 title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|pouet:6507
 title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:/parties/1998/assembly98/pc4kintr/fist_by_.zip|pouet:1106
 title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:/parties/1998/assembly98/pc4kintr/cubernoi.zip|pouet:3705
@@ -357,10 +357,10 @@ title:giger|author:recreation|position:6|sceneorg:/parties/1998/assembly98/pcdem
 title:übernational zonk|author:tpolm|position:7|sceneorg:/parties/1998/assembly98/pcdemo/bernatio.zip|pouet:3443
 title:Fusion|author:Bad Karma|position:8|sceneorg:/parties/1998/assembly98/pcdemo/fusion_b.zip|pouet:6605
 title:Älyvuoto|author:tAAt 1998|position:9|sceneorg:/parties/1998/assembly98/pcdemo/lyvuoto_.zip|pouet:792
-title:IDEALEAK|author:tAAt 1998|position:10|sceneorg:/parties/1998/assembly98/pcdemo/idealeak.zip|pouet:794
-title:Matrice|author:Fobia Design|position:11|sceneorg:/parties/1998/assembly98/pcdemo/matrice_.zip|pouet:2838
-title:Vortex|author:Mewlers|position:12|sceneorg:/parties/1998/assembly98/pcdemo/vortex_b.zip|pouet:2683
-title:Dream|author:ultrabright|position:13|sceneorg:/parties/1998/assembly98/pcdemo/dream_by.zip
+title:IDEALEAK|author:tAAt 1998|position:10|sceneorg:/parties/1998/assembly98/pcdemo/idealeak.zip|pouet:794|youtube:RIIOsjSnXOM
+title:Matrice|author:Fobia Design|position:11|sceneorg:/parties/1998/assembly98/pcdemo/matrice_.zip|pouet:2838|youtube:OWBO9R6niCE
+title:Vortex|author:Mewlers|position:12|sceneorg:/parties/1998/assembly98/pcdemo/vortex_b.zip|pouet:2683|youtube:JMM9QQD46fY
+title:Dream|author:ultrabright|position:13|sceneorg:/parties/1998/assembly98/pcdemo/dream_by.zip|youtube:HzFGtptSFg4
 title:2 pr. cent|author:pdg|position:14|sceneorg:/parties/1998/assembly98/pcdemo/2_pr_cen.zip|pouet:10345
 title:Summoner|author:Future Dimensions|position:15|sceneorg:/parties/1998/assembly98/pcdemo/summoner.zip
 title:i want to believe|author:primitive|position:16|sceneorg:/parties/1998/assembly98/pcdemo/i_want_t.zip|pouet:14923
@@ -372,15 +372,15 @@ title:Happy Summer|author:Mylly Std|position:0|sceneorg:/parties/1998/assembly98
 title:Mika|author:Destiny|position:0|sceneorg:/parties/1998/assembly98/pcdemo/mika_by_.zip
 title:Balldemo|author:PuavoHard|position:0|sceneorg:/parties/1998/assembly98/pcdemo/balldemo.zip|pouet:14924
 title:Nexxus|author:CUD|position:0|sceneorg:/parties/1998/assembly98/pcdemo/nexxus_b.zip
-title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|pouet:13231
+title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|pouet:13231|youtube:cXrtknvSMQ8
 title:Johnny weasel|author:Dawn 3|position:0|sceneorg:/parties/1998/assembly98/pcdemo/johnny_w.zip|pouet:2975
 
 :section PC 64k intro
 
-title:Oxygen|author:Coral|position:1|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|pouet:4326
-title:Technicolor|author:Moottori|position:2|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|pouet:4747
+title:Oxygen|author:Coral|position:1|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|pouet:4326|youtube:jx2MaknkHzg
+title:Technicolor|author:Moottori|position:2|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|pouet:4747|youtube:8i5t1c8yR-Y
 title:licht 3|author:haujobb|position:3|sceneorg:/parties/1998/assembly98/pc64kint/licht_3_.zip|pouet:1499
-title:chant|author:Bandwaggon|position:4|sceneorg:/parties/1998/assembly98/pc64kint/chant_by.zip|pouet:4056
+title:chant|author:Bandwaggon|position:4|sceneorg:/parties/1998/assembly98/pc64kint/chant_by.zip|pouet:4056|youtube:h0rN_pQtVjI
 title:42|author:Immortals|position:6|sceneorg:/parties/1998/assembly98/pc64kint/42_by_im.zip|pouet:51355
 title:Living OnLine|author:BOAR|position:7|sceneorg:/parties/1998/assembly98/pc64kint/living_o.zip
 title:HAPPYDANCE|author:SKR!|position:8|sceneorg:/parties/1998/assembly98/pc64kint/happydan.zip

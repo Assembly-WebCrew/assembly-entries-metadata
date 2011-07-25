@@ -38,7 +38,7 @@ title:Smoking|author:Calamity/Laxity|position:6
 
 :section PC 4K intro
 
-title:Pure Spirit|author:unknown|position:1|sceneorg:/parties/1996/assembly96/in4k/pure.zip|pouet:6538
+title:Pure Spirit|author:unknown|position:1|sceneorg:/parties/1996/assembly96/in4k/pure.zip|pouet:6538|youtube:uhT__6skzAM
 title:Countach|author:Dave/ByTeam|position:2|sceneorg:/parties/1996/assembly96/in4k/countach.zip|pouet:6706
 title:Mobilization|author:unknown|position:3|sceneorg:/parties/1996/assembly96/in4k/mobiliz.zip|pouet:6735
 title:Stroke|author:Ionic/AstroideA|position:4|sceneorg:/parties/1996/assembly96/in4k/ai_strok.zip|pouet:2262
@@ -51,20 +51,20 @@ title:Red Room|author:unknown|position:10|sceneorg:/parties/1996/assembly96/in4k
 
 :section PC demo
 
-title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:id_file=2381&id_prod=6448&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/312.jpg&width=512&height=404
-title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:id_file=2386&id_prod=10904&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/376.jpg&width=512&height=404
-title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:/parties/1996/assembly96/demo/vividexp.zip|pouet:2167|dtv:id_file=2915&id_prod=13103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2167_2.gif&width=512&height=404
-title:Super Television|author:Orange|position:4|sceneorg:/parties/1996/assembly96/demo/stv.zip|pouet:298|dtv:id_file=2412&id_prod=10103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/298.gif&width=512&height=404
+title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:id_file=2381&id_prod=6448&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/312.jpg&width=512&height=404|youtube:dIjOpzN5Qvk
+title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:id_file=2386&id_prod=10904&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/376.jpg&width=512&height=404|youtube:-Z7RN4PBHSM
+title:Vivid Experience|author:Doomsday Productions|position:3|sceneorg:/parties/1996/assembly96/demo/vividexp.zip|pouet:2167|dtv:id_file=2915&id_prod=13103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2167_2.gif&width=512&height=404|youtube:xz9dazxE3AQ
+title:Super Television|author:Orange|position:4|sceneorg:/parties/1996/assembly96/demo/stv.zip|pouet:298|dtv:id_file=2412&id_prod=10103&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/298.gif&width=512&height=404|youtube:a0TJy2Mh9d0
 title:Sperm|author:Five Coders|position:5|sceneorg:/parties/1996/assembly96/demo/sperm.zip|pouet:13323
 title:Daydream|author:Japotek|position:6|sceneorg:/parties/1996/assembly96/demo/daydream.zip|pouet:5041
-title:Stream|author:MFX|position:7|sceneorg:/parties/1996/assembly96/demo/mfx_strm.zip|pouet:1382
+title:Stream|author:MFX|position:7|sceneorg:/parties/1996/assembly96/demo/mfx_strm.zip|pouet:1382|youtube:od5rAHgLlJk
 title:Proton|author:Planet Artwork|position:8|sceneorg:/parties/1996/assembly96/demo/atw_prot.zip|pouet:2897
 title:Ages|author:Happo|position:9|sceneorg:/parties/1996/assembly96/demo/ages.zip|pouet:2934
 title:Encore 2|author:Tplom|position:10|sceneorg:/parties/1996/assembly96/demo/zencore.zip|pouet:354
-title:Nutz|author:Hyperopia|position:11|sceneorg:/parties/1996/assembly96/demo/nutz.zip|pouet:5050
-title:Sergei|author:Recreation|position:12|sceneorg:/parties/1996/assembly96/demo/rcnserge.zip|pouet:6759
+title:Nutz|author:Hyperopia|position:11|sceneorg:/parties/1996/assembly96/demo/nutz.zip|pouet:5050|youtube:OaxDFNMBlJE
+title:Sergei|author:Recreation|position:12|sceneorg:/parties/1996/assembly96/demo/rcnserge.zip|pouet:6759|youtube:L7HzWOh5X3s
 title:Anxious|author:Vandals|position:13|sceneorg:/parties/1996/assembly96/demo/anxious.zip|pouet:13324
-title:They will Pay|author:Borealis|position:14|sceneorg:/parties/1996/assembly96/demo/theywill.zip|pouet:13325
+title:They will Pay|author:Borealis|position:14|sceneorg:/parties/1996/assembly96/demo/theywill.zip|pouet:13325|youtube:iHeDBvua_9Q
 title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:/parties/1996/assembly96/demo/pure.zip|pouet:13326
 
 :section C64 demo
@@ -161,17 +161,17 @@ title:unknown|author:Speedo|position:15
 
 :section PC 64K intro
 
-title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404|cappedtv:eufrosyne-blind&width=800&height=600
+title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404|cappedtv:eufrosyne-blind&width=800&height=600|youtube:pCjNwIPKPpM
 title:Wego|author:Complex|position:2|sceneorg:/parties/1996/assembly96/in64/clx_wego.zip|pouet:78
 title:Nation Zero 2|author:Jamm|position:3|sceneorg:/parties/1996/assembly96/in64/nation2.zip|pouet:1367
 title:Palikka|author:Moottori|position:4|sceneorg:/parties/1996/assembly96/in64/palikka.zip|pouet:4744
-title:Neutral|author:Coral|position:5|sceneorg:/parties/1996/assembly96/in64/neutral.zip|pouet:13135
+title:Neutral|author:Coral|position:5|sceneorg:/parties/1996/assembly96/in64/neutral.zip|pouet:13135|youtube:qZ0RNHgzFvU
 title:Water|author:Spirit New Style|position:6|sceneorg:/parties/1996/assembly96/in64/water.zip|pouet:6753
-title:Station Crawford|author:Paragon|position:7|sceneorg:/parties/1996/assembly96/in64/crawford.zip|pouet:5051
+title:Station Crawford|author:Paragon|position:7|sceneorg:/parties/1996/assembly96/in64/crawford.zip|pouet:5051|youtube:eL1o-N7K9GQ
 title:Andalucia|author:Halcyon|position:8|sceneorg:/parties/1996/assembly96/in64/alucia.zip|pouet:1269
 title:'69|author:The Black Lotus|position:9|sceneorg:/parties/1996/assembly96/in64/tbl_69.zip|pouet:6754
 title:Pocsolya|author:ByTeam|position:10|sceneorg:/parties/1996/assembly96/in64/pocsolya.zip|pouet:5276
-title:Prelude|author:Amorphous|position:11|sceneorg:/parties/1996/assembly96/in64/prelude.zip|pouet:6755
+title:Prelude|author:Amorphous|position:11|sceneorg:/parties/1996/assembly96/in64/prelude.zip|pouet:6755|youtube:i88zx2uEfo8
 title:Pallo|author:unknown|position:12
 title:Power Rangers|author:Cool Productions|position:13|sceneorg:/parties/1996/assembly96/in64/ranger.zip|pouet:23065
 

@@ -56,15 +56,15 @@ title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zi
 
 :section PC demo
 
-title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404
+title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404|youtube:wEiBxHOGYps
 title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400
-title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955
+title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955|youtube:cNql2jdc2tY
 title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503
 title:Rebel Mind|author:Epical|position:5|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|pouet:6895
 title:Higher Desire|author:Miracle|position:6|sceneorg:/parties/1995/assembly95/demo/mcl_hd.zip|pouet:6773
-title:Television|author:Orange|position:7|sceneorg:/parties/1995/assembly95/demo/tv.zip|pouet:2175
+title:Television|author:Orange|position:7|sceneorg:/parties/1995/assembly95/demo/tv.zip|pouet:2175|youtube:qrgyxBO99Uo
 title:Optimal Torque|author:Dubius|position:8|sceneorg:/parties/1995/assembly95/demo/optimal.zip|pouet:3625
-title:Little Green Men|author:Kosmic|position:9|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|pouet:2753
+title:Little Green Men|author:Kosmic|position:9|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|pouet:2753|youtube:ZsZGYlRPS2o
 title:Figthing for something|author:JapoTek|position:10|sceneorg:/parties/1995/assembly95/demo/jfight.zip|pouet:5042
 title:Mystery|author:Masque|position:11|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|pouet:6909
 title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:/parties/1995/assembly95/demo/zation.zip|pouet:812
@@ -172,10 +172,10 @@ title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cn
 
 title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184
 title:Stickman's World|author:COMA|position:2|sceneorg:/parties/1995/assembly95/in64/stick.zip|pouet:1139
-title:Bill G Force|author:Complex|position:3|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|pouet:68
-title:Nation Zero|author:Jamm|position:4|sceneorg:/parties/1995/assembly95/in64/nation0.zip|pouet:1366
+title:Bill G Force|author:Complex|position:3|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|pouet:68|youtube:y6MkrAAYw28
+title:Nation Zero|author:Jamm|position:4|sceneorg:/parties/1995/assembly95/in64/nation0.zip|pouet:1366|youtube:qw_cmwpNT54
 title:Detour|author:Halcyon|position:5|sceneorg:/parties/1995/assembly95/in64/detour.zip|pouet:1270
-title:Believe|author:Valhalla|position:6|sceneorg:/parties/1995/assembly95/in64/believe.zip|pouet:1151
+title:Believe|author:Valhalla|position:6|sceneorg:/parties/1995/assembly95/in64/believe.zip|pouet:1151|youtube:NB1VEah4J7M
 title:Alchymia|author:Mist|position:7|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|pouet:2305
 title:Reality Impact|author:Halo|position:8|sceneorg:/parties/1995/assembly95/in64/realityi.zip|pouet:34231
 title:Camera|author:Symptom|position:9|sceneorg:/parties/1995/assembly95/in64/camera.zip|pouet:5092

@@ -54,7 +54,7 @@ title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/i
 title:eMOTION|author:NoxE|position:3
 title:Recurse|author:Snooky/Yodel|position:4|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|pouet:3015
 title:Nirvana|author:SounDemoN|position:5
-title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|pouet:14928
+title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|pouet:14928|youtube:7q5pxn4J1aA
 title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927
 title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926
 
@@ -155,27 +155,27 @@ title:Fairy|author:Avocado/Lumen|position:15
 :section PC demo
 
 title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
-title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86
+title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86|youtube:wtOZdSAahjI
 title:Mindtrap|author:Trauma|position:3|sceneorg:/parties/1997/assembly97/demo/mindtrap.zip|pouet:474
 title:Insects|author:Coma|position:4|sceneorg:/parties/1997/assembly97/demo/cominsct.zip|pouet:1138
-title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340
-title:Seven|author:Immortals|position:6|sceneorg:/parties/1997/assembly97/demo/seven.zip|pouet:12695
+title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340|youtube:gzGHCIzOQ2Q
+title:Seven|author:Immortals|position:6|sceneorg:/parties/1997/assembly97/demo/seven.zip|pouet:12695|youtube:nriocHcZncI
 title:Agent Orange|author:Orange|position:7|sceneorg:/parties/1997/assembly97/demo/agento.arj|pouet:2522
 title:I NEED a beer|author:TPOLM|position:8|sceneorg:/parties/1997/assembly97/demo/yie.zip|pouet:5040
 title:High Deeps|author:Core Image|position:9|pouet:14925
 title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:802
-title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|pouet:2543
+title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|pouet:2543|youtube:crWORBsrcSE
 title:Resurrection Now|author:Jamm|position:12|sceneorg:/parties/1997/assembly97/demo/resnow.zip|pouet:6732
 title:7G|author:Sense|position:13|sceneorg:/parties/1997/assembly97/demo/sns_7gfn.zip|pouet:1051
-title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936
-title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503
+title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936|youtube:-8aet9GKU_U
+title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503|youtube:3FI9h8UExi8
 
 :section PC 64k intro
 
-title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189
-title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610
-title:Dislocated|author:Bandwagon|position:3|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|pouet:5529
-title:13|author:MFX|position:4|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|pouet:2518
+title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189|youtube:ztmdLcT1TGA
+title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610|youtube:b9TueUzKp0o
+title:Dislocated|author:Bandwagon|position:3|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|pouet:5529|youtube:GXD2mh-0NrY
+title:13|author:MFX|position:4|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|pouet:2518|youtube:sRN_3Qoxw_Y
 title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|pouet:6513
 title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in64/black.arj|pouet:7993
 title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
