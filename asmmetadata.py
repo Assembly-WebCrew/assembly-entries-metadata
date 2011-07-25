@@ -15,7 +15,7 @@ def normalize_key(value):
 class EntryYear(object):
     year = None
     sections = []
-    entries = {}
+    entries = []
 
 
 def parse_file(file_handle):
@@ -42,13 +42,12 @@ def parse_file(file_handle):
                 assert year is not None
                 section_name = value
                 normalized_section = normalize_key(section_name)
-                assert not normalized_section in result.entries
+                assert not normalized_section in [section['key'] for section in result.sections]
                 section = {
                     'key': normalized_section,
                     'name': section_name,
                     }
                 result.sections.append(section)
-                result.entries[normalized_section] = []
             elif data_type == ":description":
                 # Descriptions can only be under section.
                 assert section is not None
@@ -70,7 +69,10 @@ def parse_file(file_handle):
         elif 'position' in data_dict:
             del data_dict['position']
 
-        result.entries[normalized_section].append(data_dict)
+        assert 'section' not in data_dict
+        data_dict['section'] = section
+
+        result.entries.append(data_dict)
 
     return result
 
