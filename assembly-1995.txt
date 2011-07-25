@@ -38,39 +38,39 @@ title:Animaali|author:Votka/Pullo|position:3
 
 :section PC 4K intro
 
-title:Animate|author:Schwartz|position:1|sceneorg:/parties/1995/assembly95/in4k/animate.zip|pouet:2859
-title:Heaven|author:Barti!/Nooon|position:2|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|pouet:1105
-title:Crashtest|author:J-P/Rebels|position:3|sceneorg:/parties/1995/assembly95/in4k/crshtest.zip|pouet:6765
+title:Animate|author:Schwartz|position:1|sceneorg:/parties/1995/assembly95/in4k/animate.zip|pouet:2859|youtube:Lij1WjjjNw8
+title:Heaven|author:Barti!/Nooon|position:2|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|pouet:1105|youtube:8ljsQBoLta4
+title:Crashtest|author:J-P/Rebels|position:3|sceneorg:/parties/1995/assembly95/in4k/crshtest.zip|pouet:6765|youtube:7hlsRtxDcB0
 title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:/parties/1995/assembly95/in4k/chrome.zip|pouet:15089
-title:Havoc|author:Vicious/Extreme|position:5|sceneorg:/parties/1995/assembly95/in4k/havoc.zip|pouet:6766
-title:Speed|author:Codex/Paranoids|position:6|sceneorg:/parties/1995/assembly95/in4k/speed.zip|pouet:6767
-title:Complexity|author:Blala/Byteam|position:7|sceneorg:/parties/1995/assembly95/in4k/clxfinal.zip|pouet:6768
-title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:/parties/1995/assembly95/in4k/dragon.zip|pouet:6769
+title:Havoc|author:Vicious/Extreme|position:5|sceneorg:/parties/1995/assembly95/in4k/havoc.zip|pouet:6766|youtube:6PqbML37q7Y
+title:Speed|author:Codex/Paranoids|position:6|sceneorg:/parties/1995/assembly95/in4k/speed.zip|pouet:6767|youtube:4ZgemMPJ_0U
+title:Complexity|author:Blala/Byteam|position:7|sceneorg:/parties/1995/assembly95/in4k/clxfinal.zip|pouet:6768|youtube:IynECFp0mus
+title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:/parties/1995/assembly95/in4k/dragon.zip|pouet:6769|youtube:sb6RRXDBoVo
 title:Bit|author:-|position:9|sceneorg:/parties/1995/assembly95/in4k/bit.zip|pouet:5467
-title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:/parties/1995/assembly95/in4k/loop01.zip|pouet:15502
+title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:/parties/1995/assembly95/in4k/loop01.zip|pouet:15502|youtube:7nAjoQ_yJQM
 title:Ahrum|author:-|position:11|sceneorg:/parties/1995/assembly95/in4k/ahrum.zip
-title:Only for few bytes|author:Lunatic|position:12|sceneorg:/parties/1995/assembly95/in4k/offbyte.zip
-title:Redrum|author:Galvados/Jamm|position:13|sceneorg:/parties/1995/assembly95/in4k/redrum.zip|pouet:1199
+title:Only for few bytes|author:Lunatic|position:12|sceneorg:/parties/1995/assembly95/in4k/offbyte.zip|youtube:ot52c62OSaQ
+title:Redrum|author:Galvados/Jamm|position:13|sceneorg:/parties/1995/assembly95/in4k/redrum.zip|pouet:1199|youtube:eX3qzEUuAMw
 title:Strictly 4kb|author:-|position:14|sceneorg:/parties/1995/assembly95/in4k/strictly.zip
 title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zip
 
 :section PC demo
 
 title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404|youtube:wEiBxHOGYps
-title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400
+title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400|youtube:sSsIiThWtco
 title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955|youtube:cNql2jdc2tY
-title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503
+title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503|youtube:X605kioZxfc
 title:Rebel Mind|author:Epical|position:5|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|pouet:6895
 title:Higher Desire|author:Miracle|position:6|sceneorg:/parties/1995/assembly95/demo/mcl_hd.zip|pouet:6773
 title:Television|author:Orange|position:7|sceneorg:/parties/1995/assembly95/demo/tv.zip|pouet:2175|youtube:qrgyxBO99Uo
 title:Optimal Torque|author:Dubius|position:8|sceneorg:/parties/1995/assembly95/demo/optimal.zip|pouet:3625
 title:Little Green Men|author:Kosmic|position:9|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|pouet:2753|youtube:ZsZGYlRPS2o
-title:Figthing for something|author:JapoTek|position:10|sceneorg:/parties/1995/assembly95/demo/jfight.zip|pouet:5042
-title:Mystery|author:Masque|position:11|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|pouet:6909
-title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:/parties/1995/assembly95/demo/zation.zip|pouet:812
-title:Overflow|author:Black Rain|position:13|sceneorg:/parties/1995/assembly95/demo/tbr_ovrf.zip|pouet:51319
-title:Fever|author:Deus ex Machina|position:14|sceneorg:/parties/1995/assembly95/demo/demfever.zip|pouet:33833
-title:Elegant|author:Simplicity|position:15|sceneorg:/parties/1995/assembly95/demo/elegance.zip|pouet:51320
+title:Figthing for something|author:JapoTek|position:10|sceneorg:/parties/1995/assembly95/demo/jfight.zip|pouet:5042|youtube:bTp5YiFsQds
+title:Mystery|author:Masque|position:11|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|pouet:6909|youtube:UQWYkktXk44
+title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:/parties/1995/assembly95/demo/zation.zip|pouet:812|youtube:hWH6R6Y8kr0
+title:Overflow|author:Black Rain|position:13|sceneorg:/parties/1995/assembly95/demo/tbr_ovrf.zip|pouet:51319|youtube:oE3Vve-0CL0
+title:Fever|author:Deus ex Machina|position:14|sceneorg:/parties/1995/assembly95/demo/demfever.zip|pouet:33833|youtube:ulUHYCzEqJE
+title:Elegant|author:Simplicity|position:15|sceneorg:/parties/1995/assembly95/demo/elegance.zip|pouet:51320|youtube:JQxfUuwT690
 
 :section C64 demo
 
@@ -170,20 +170,20 @@ title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cn
 
 :section PC 64K intro
 
-title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184
+title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184|youtube:4lB55Q92vB8
 title:Stickman's World|author:COMA|position:2|sceneorg:/parties/1995/assembly95/in64/stick.zip|pouet:1139
 title:Bill G Force|author:Complex|position:3|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|pouet:68|youtube:y6MkrAAYw28
 title:Nation Zero|author:Jamm|position:4|sceneorg:/parties/1995/assembly95/in64/nation0.zip|pouet:1366|youtube:qw_cmwpNT54
-title:Detour|author:Halcyon|position:5|sceneorg:/parties/1995/assembly95/in64/detour.zip|pouet:1270
+title:Detour|author:Halcyon|position:5|sceneorg:/parties/1995/assembly95/in64/detour.zip|pouet:1270|youtube:fSTQ1KIESBQ
 title:Believe|author:Valhalla|position:6|sceneorg:/parties/1995/assembly95/in64/believe.zip|pouet:1151|youtube:NB1VEah4J7M
-title:Alchymia|author:Mist|position:7|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|pouet:2305
+title:Alchymia|author:Mist|position:7|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|pouet:2305|youtube:FR1_oKk95BU
 title:Reality Impact|author:Halo|position:8|sceneorg:/parties/1995/assembly95/in64/realityi.zip|pouet:34231
-title:Camera|author:Symptom|position:9|sceneorg:/parties/1995/assembly95/in64/camera.zip|pouet:5092
-title:Pied|author:Abaddon|position:10|sceneorg:/parties/1995/assembly95/in64/pied.zip|pouet:17517
+title:Camera|author:Symptom|position:9|sceneorg:/parties/1995/assembly95/in64/camera.zip|pouet:5092|youtube:XiByJzzK57w
+title:Pied|author:Abaddon|position:10|sceneorg:/parties/1995/assembly95/in64/pied.zip|pouet:17517|youtube:Tgq-TZnnuB8
 title:Dream|author:Epsilon|position:11|sceneorg:/parties/1995/assembly95/in64/dream_ep.zip|pouet:6772
 title:Cocaholic|author:Hazard|position:12|sceneorg:/parties/1995/assembly95/in64/cocaholc.zip|pouet:6774
-title:Tam|author:Anarchy|position:13|sceneorg:/parties/1995/assembly95/in64/tam.zip|pouet:34232
-title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:/parties/1995/assembly95/in64/noclass.zip|pouet:34233
+title:Tam|author:Anarchy|position:13|sceneorg:/parties/1995/assembly95/in64/tam.zip|pouet:34232|youtube:AZTqTrCrNlw
+title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:/parties/1995/assembly95/in64/noclass.zip|pouet:34233|youtube:2m375wd91LA
 title:Byte me|author:@|position:15|sceneorg:/parties/1995/assembly95/in64/byteme.zip|pouet:6318
 
 :section Multichannel music
