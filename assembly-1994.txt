@@ -38,7 +38,7 @@ title:Un Eatable|author:TC|position:14|sceneorg:/parties/1994/assembly94/demo/un
 title:Visions of Light|author:Valhalla|position:15|sceneorg:/parties/1994/assembly94/demo/visionsl.zip|pouet:4852
 title:Fly|author:Anjovis|position:16|sceneorg:/parties/1994/assembly94/demo/fly.zip|pouet:8656
 title:Meltdown|author:SPA|position:17|pouet:3473|dtv:id_file=4198&id_prod=6855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3473.jpg&width=512&height=404
-title:FairlyTale|author:Styx|position:18|sceneorg:/parties/1994/assembly94/demo/fairy.zip|pouet:7222
+title:FairlyTale|author:Styx|position:18|sceneorg:/parties/1994/assembly94/demo/fairy.zip|pouet:7222|youtube:j3TEhD7xbWY
 title:Accident|author:Axidental|position:19|sceneorg:/parties/1994/assembly94/demo/accident.zip|pouet:8661
 title:Dawn|author:Tei|position:20|sceneorg:/parties/1994/assembly94/demo/dawn.zip|pouet:8660
 title:The Mo|author:Demons|position:21|sceneorg:/parties/1994/assembly94/demo/themo.zip|pouet:8663|youtube:mMgUEAuYeLw
@@ -67,7 +67,7 @@ title:Ischarah|author:Mr.Sex/Byterapers|position:3
 title:Stoned|author:Dust|position:1|sceneorg:/parties/1994/assembly94/in4k/stoned.zip|pouet:10851|youtube:oayvAoENh9c
 title:Spam4kb|author:Tobo|position:2|sceneorg:/parties/1994/assembly94/in4k/spam4kb.zip|pouet:19196|youtube:rohMGA7cteI
 title:Optimize|author:Feenix/Epical|position:3|sceneorg:/parties/1994/assembly94/in4k/optimize.zip|pouet:10853|youtube:ZAnSxLN3IdM
-title:Fractals|author:Schwarz|position:4|sceneorg:/parties/1994/assembly94/in4k/fractals.zip|pouet:7502
+title:Fractals|author:Schwarz|position:4|sceneorg:/parties/1994/assembly94/in4k/fractals.zip|pouet:7502|youtube:6lC5NIwwils
 title:Move|author:Chicken/SP!|position:5|sceneorg:/parties/1994/assembly94/in4k/move.zip|pouet:7040|youtube:Qv4IECd3nxw
 title:Fractal Dreams|author:Vizard/Mental Design|position:6|sceneorg:/parties/1994/assembly94/in4k/fractcha.zip|pouet:2587|youtube:xh6IU5zp7IQ
 title:'3940'|author:Fluz/Flatline Productions|position:7|sceneorg:/parties/1994/assembly94/in4k/3940.zip|youtube:lc6CzUIPqS0
