@@ -18,8 +18,8 @@ title:unknown|author:Darra / Damones|position:12
 :section PC intro
 
 title:Eclipse|author:EMF|position:1|sceneorg:/parties/1993/assembly93/100k/emf_ecl.zip|pouet:2589|youtube:DJL_J7YWpP8
-title:Debut|author:Darkzone|position:2|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|pouet:5055
-title:Tangle|author:Epical|position:3|sceneorg:/parties/1993/assembly93/100k/tangle.zip|pouet:4097
+title:Debut|author:Darkzone|position:2|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|pouet:5055|youtube:OG5Ou7fbgh4
+title:Tangle|author:Epical|position:3|sceneorg:/parties/1993/assembly93/100k/tangle.zip|pouet:4097|youtube:iKVAA9sULuY
 title:Locomotion|author:Onyx|position:4|sceneorg:/parties/1993/assembly93/100k/locom.zip|pouet:9406
 title:Motion|author:Avalanche|position:5|sceneorg:/parties/1993/assembly93/100k/motion.zip|pouet:5513|youtube:pHjO_Pig4Z0
 title:Plan-B|author:Sonic-PC|position:6|sceneorg:/parties/1993/assembly93/100k/planb.zip|pouet:8738|youtube:Uoa_h9iiRsI
@@ -28,7 +28,7 @@ title:Stardream|author:Surprise! prod.|position:8|sceneorg:/parties/1993/assembl
 title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:/parties/1993/assembly93/100k/j!p.zip|pouet:8737|youtube:xXARTnCrCuQ
 title:Fraust|author:RatCompany|position:10
 title:Preview|author:Irresistible Works|position:11|pouet:51327
-title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/urgent.zip|pouet:29652
+title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/urgent.zip|pouet:29652|youtube:oxhDVyR_xdg
 
 :section PC music multichannel
 
@@ -104,7 +104,7 @@ title:Saga|author:Dust|position:4|sceneorg:/parties/1993/assembly93/demo/sagadus
 title:Extermination|author:Extreme|position:5
 title:Fruits of Indolence|author:Virtual Visions|position:6
 title:Wasted time|author:Paranoids|position:7|sceneorg:/parties/1993/assembly93/demo/wasted.zip|youtube:i6bCH8cH34c
-title:Obsession|author:Black Rain|position:8|sceneorg:/parties/1993/assembly93/demo/obsess.zip|pouet:51323
+title:Obsession|author:Black Rain|position:8|sceneorg:/parties/1993/assembly93/demo/obsess.zip|pouet:51323|youtube:9QnF7DWqBo8
 title:Phenomenon|author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip
 
 :section PC music 4 channel
