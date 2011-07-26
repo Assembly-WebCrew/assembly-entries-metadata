@@ -49,14 +49,14 @@ title:Unnamed|author:Jer/Panic|position:8
 
 :section PC 4k intro
 
-title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702
-title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609
+title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702|youtube:eBKGKr2nfYU
+title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609|youtube:npxucKI6pm8
 title:eMOTION|author:NoxE|position:3
-title:Recurse|author:Snooky/Yodel|position:4|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|pouet:3015
+title:Recurse|author:Snooky/Yodel|position:4|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|pouet:3015|youtube:LsrMMx5pff0
 title:Nirvana|author:SounDemoN|position:5
 title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|pouet:14928|youtube:7q5pxn4J1aA
-title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927
-title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926
+title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927|youtube:ZwajZeylsPA
+title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926|youtube:-vIGVOo9RHQ
 
 :section PC win95 demo
 
@@ -161,7 +161,7 @@ title:Insects|author:Coma|position:4|sceneorg:/parties/1997/assembly97/demo/comi
 title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340|youtube:gzGHCIzOQ2Q
 title:Seven|author:Immortals|position:6|sceneorg:/parties/1997/assembly97/demo/seven.zip|pouet:12695|youtube:nriocHcZncI
 title:Agent Orange|author:Orange|position:7|sceneorg:/parties/1997/assembly97/demo/agento.arj|pouet:2522
-title:I NEED a beer|author:TPOLM|position:8|sceneorg:/parties/1997/assembly97/demo/yie.zip|pouet:5040
+title:I NEED a beer|author:TPOLM|position:8|sceneorg:/parties/1997/assembly97/demo/yie.zip|pouet:5040|youtube:St_DU2nLBHU
 title:High Deeps|author:Core Image|position:9|pouet:14925
 title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:802
 title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|pouet:2543|youtube:crWORBsrcSE
@@ -176,10 +176,10 @@ title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in
 title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610|youtube:b9TueUzKp0o
 title:Dislocated|author:Bandwagon|position:3|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|pouet:5529|youtube:GXD2mh-0NrY
 title:13|author:MFX|position:4|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|pouet:2518|youtube:sRN_3Qoxw_Y
-title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|pouet:6513
-title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in64/black.arj|pouet:7993
+title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|pouet:6513|youtube:ord-cS4Qc58
+title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in64/black.arj|pouet:7993|youtube:eXtT4wJQEes
 title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
-title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258
+title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258|youtube:7J2KzIS0Vl8
 
 :section Multichannel music
 

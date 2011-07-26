@@ -65,13 +65,13 @@ title:Daydream believer|author:Debris|position:3|sceneorg:/parties/1998/assembly
 :section PC 4k intro
 
 title:Mesha|author:Picard / Rhyme|position:1|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|pouet:954|youtube:dGQEeArYDS8
-title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|pouet:6507
-title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:/parties/1998/assembly98/pc4kintr/fist_by_.zip|pouet:1106
-title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:/parties/1998/assembly98/pc4kintr/cubernoi.zip|pouet:3705
-title:Kuningas|author:save / Exxtreme Entertainment|position:5|sceneorg:/parties/1998/assembly98/pc4kintr/kuningas.zip|pouet:6508
+title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|pouet:6507|youtube:7Z5IhCBSuRc
+title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:/parties/1998/assembly98/pc4kintr/fist_by_.zip|pouet:1106|youtube:iabXUPc7kbo
+title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:/parties/1998/assembly98/pc4kintr/cubernoi.zip|pouet:3705|youtube:ydAuy854wBw
+title:Kuningas|author:save / Exxtreme Entertainment|position:5|sceneorg:/parties/1998/assembly98/pc4kintr/kuningas.zip|pouet:6508|youtube:541kzgiTyTA
 title:Sunrise|author:Digimind|position:6|sceneorg:/parties/1998/assembly98/pc4kintr/sunrise_.zip|pouet:6509
 title:titanic|author:3G Design|position:7|sceneorg:/parties/1998/assembly98/pc4kintr/titanic_.zip|pouet:9348
-title:the box|author:ultrabright|position:8|sceneorg:/parties/1998/assembly98/pc4kintr/the_box_.zip|pouet:9350
+title:the box|author:ultrabright|position:8|sceneorg:/parties/1998/assembly98/pc4kintr/the_box_.zip|pouet:9350|youtube:qAFcphzbEhs
 
 :section C64 demo
 
@@ -349,7 +349,7 @@ title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_tr
 :section PC demo
 
 title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295|cappedtv:trauma-gateways&width=640&height=400
-title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147
+title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147|youtube:rR1rAHxuxEQ
 title:tour|author:pulse|position:3|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|pouet:1088|cappedtv:pulse_pygmy_projects_virtual_d-tour&width=640&height=480
 title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|pouet:308|dtv:id_file=2444&id_prod=9286&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/308.jpg&width=512&height=404
 title:Vague Space|author:cncd|position:5|sceneorg:/parties/1998/assembly98/pcdemo/vague_sp.zip|pouet:1273
@@ -370,7 +370,7 @@ title:romferd|author:da beep & phrenetic|position:0|sceneorg:/parties/1998/assem
 title:Decapitation|author:Execution|position:0|sceneorg:/parties/1998/assembly98/pcdemo/decapita.zip|pouet:25488
 title:Happy Summer|author:Mylly Std|position:0|sceneorg:/parties/1998/assembly98/pcdemo/happy_su.zip
 title:Mika|author:Destiny|position:0|sceneorg:/parties/1998/assembly98/pcdemo/mika_by_.zip
-title:Balldemo|author:PuavoHard|position:0|sceneorg:/parties/1998/assembly98/pcdemo/balldemo.zip|pouet:14924
+title:Balldemo|author:PuavoHard|position:0|sceneorg:/parties/1998/assembly98/pcdemo/balldemo.zip|pouet:14924|youtube:nBWhPOKeoIg
 title:Nexxus|author:CUD|position:0|sceneorg:/parties/1998/assembly98/pcdemo/nexxus_b.zip
 title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|pouet:13231|youtube:cXrtknvSMQ8
 title:Johnny weasel|author:Dawn 3|position:0|sceneorg:/parties/1998/assembly98/pcdemo/johnny_w.zip|pouet:2975
@@ -379,13 +379,13 @@ title:Johnny weasel|author:Dawn 3|position:0|sceneorg:/parties/1998/assembly98/p
 
 title:Oxygen|author:Coral|position:1|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|pouet:4326|youtube:jx2MaknkHzg
 title:Technicolor|author:Moottori|position:2|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|pouet:4747|youtube:8i5t1c8yR-Y
-title:licht 3|author:haujobb|position:3|sceneorg:/parties/1998/assembly98/pc64kint/licht_3_.zip|pouet:1499
+title:licht 3|author:haujobb|position:3|sceneorg:/parties/1998/assembly98/pc64kint/licht_3_.zip|pouet:1499|youtube:Dh73bW5d8Xo
 title:chant|author:Bandwaggon|position:4|sceneorg:/parties/1998/assembly98/pc64kint/chant_by.zip|pouet:4056|youtube:h0rN_pQtVjI
 title:42|author:Immortals|position:6|sceneorg:/parties/1998/assembly98/pc64kint/42_by_im.zip|pouet:51355
-title:Living OnLine|author:BOAR|position:7|sceneorg:/parties/1998/assembly98/pc64kint/living_o.zip
-title:HAPPYDANCE|author:SKR!|position:8|sceneorg:/parties/1998/assembly98/pc64kint/happydan.zip
+title:Living OnLine|author:BOAR|position:7|sceneorg:/parties/1998/assembly98/pc64kint/living_o.zip|youtube:CyK82hq1kaY
+title:HAPPYDANCE|author:SKR!|position:8|sceneorg:/parties/1998/assembly98/pc64kint/happydan.zip|youtube:-SwP3-sqM5w
 title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/pc64kint/system_c.zip
-title:Testing|author:P3G Design|position:0|sceneorg:/parties/1998/assembly98/pc64kint/testing_.zip
-title:Funtro|author:Universe|position:0|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip
+title:Testing|author:P3G Design|position:0|sceneorg:/parties/1998/assembly98/pc64kint/testing_.zip|youtube:mGDIwxyb0Ls
+title:Funtro|author:Universe|position:0|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip|youtube:muOP6emXyt8
 title:Lockdown|author:Reality Benders|position:0|sceneorg:/parties/1998/assembly98/pc64kint/375-lock.zip|pouet:6506
 title:transformers|author:eufrosyne|position:0|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip

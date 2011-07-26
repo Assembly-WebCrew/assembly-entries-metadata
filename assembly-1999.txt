@@ -78,18 +78,18 @@ title:Likwit Motha|author:Repe|position:15|webfile:tiny_music/likwit_motha_by_re
 
 :section PC 4k intro
 
-title:matriisi|author:mooze|position:1|sceneorg:/parties/1999/assembly99/in4k/matriisi.zip|pouet:4483
-title:Orinoco|author:Digimind|position:2|sceneorg:/parties/1999/assembly99/in4k/orinoco_.zip|pouet:6370
-title:Rasia|author:yobi|position:3|sceneorg:/parties/1999/assembly99/in4k/rasia_by.zip|pouet:6371
-title:Radiant|author:Juippi/Tempo & Dazed prod.|position:4|sceneorg:/parties/1999/assembly99/in4k/radiant_.zip|pouet:24900
-title:Fileid.diz|author:the Lost Spaceman of Refinition|position:5|sceneorg:/parties/1999/assembly99/in4k/fileiddi.zip|pouet:14251
+title:matriisi|author:mooze|position:1|sceneorg:/parties/1999/assembly99/in4k/matriisi.zip|pouet:4483|youtube:3Ak3-d-54mQ
+title:Orinoco|author:Digimind|position:2|sceneorg:/parties/1999/assembly99/in4k/orinoco_.zip|pouet:6370|youtube:DcuW86EfLlY
+title:Rasia|author:yobi|position:3|sceneorg:/parties/1999/assembly99/in4k/rasia_by.zip|pouet:6371|youtube:0uAv9fanaEQ
+title:Radiant|author:Juippi/Tempo & Dazed prod.|position:4|sceneorg:/parties/1999/assembly99/in4k/radiant_.zip|pouet:24900|youtube:ZD9VGem89ik
+title:Fileid.diz|author:the Lost Spaceman of Refinition|position:5|sceneorg:/parties/1999/assembly99/in4k/fileiddi.zip|pouet:14251|youtube:CAh-zJEE8QQ
 title:Pastel 4kb|author:vdg / Damage|position:6|sceneorg:/parties/1999/assembly99/in4k/pastel_4.zip|pouet:4060
-title:The Answer|author:hiteck|position:7|sceneorg:/parties/1999/assembly99/in4k/the_answ.zip|pouet:6372
-title:Nature|author:Itchi / THP|position:8|sceneorg:/parties/1999/assembly99/in4k/nature_b.zip|pouet:6373
+title:The Answer|author:hiteck|position:7|sceneorg:/parties/1999/assembly99/in4k/the_answ.zip|pouet:6372|youtube:86RcE7l2ENU
+title:Nature|author:Itchi / THP|position:8|sceneorg:/parties/1999/assembly99/in4k/nature_b.zip|pouet:6373|youtube:OsVNclNlLkY
 title:Wand of Wishing|author:SounDemoN|position:9|sceneorg:/parties/1999/assembly99/in4k/wand_of_.zip|pouet:14252
-title:Save World|author:Juce|position:10|sceneorg:/parties/1999/assembly99/in4k/save_wor.zip|pouet:14253
-title:Invalider|author:Dodge / Mystic Etanat|position:11|sceneorg:/parties/1999/assembly99/in4k/invalide.zip|pouet:14254
-title:Phygo|author:Viznut/pwp|position:12|sceneorg:/parties/1999/assembly99/in4k/phygo_by.zip|pouet:14255
+title:Save World|author:Juce|position:10|sceneorg:/parties/1999/assembly99/in4k/save_wor.zip|pouet:14253|youtube:r2TCl0QT8Cs
+title:Invalider|author:Dodge / Mystic Etanat|position:11|sceneorg:/parties/1999/assembly99/in4k/invalide.zip|pouet:14254|youtube:SVRfjou4WI8
+title:Phygo|author:Viznut/pwp|position:12|sceneorg:/parties/1999/assembly99/in4k/phygo_by.zip|pouet:14255|youtube:8eycQFpDE78
 
 :section PC non-accelerated demo
 
@@ -183,7 +183,7 @@ title:Error inside|author:fat chili team|position:7|media:/vod/.oldies-goldies/c
 
 :section PC 64k intro
 
-title:Viagra|author:Mewlers|position:1|sceneorg:/parties/1999/assembly99/in64/viagra_b.zip|pouet:293|dtv:id_file=4062&id_prod=11544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8754.jpg&width=512&height=404
+title:Viagra|author:Mewlers|position:1|sceneorg:/parties/1999/assembly99/in64/viagra_b.zip|pouet:293|dtv:id_file=4062&id_prod=11544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/8754.jpg&width=512&height=404|youtube:6OFcXoNB2sg
 title:Flekk|author:Nah-kolor|position:2|sceneorg:/parties/1999/assembly99/in64/flekk_by.zip|pouet:449
 title:3x3|author:Reality Benders|position:3|sceneorg:/parties/1999/assembly99/in64/3x3_by_r.zip|pouet:14250
 title:Puheaika|author:Dazed Productions|position:4|sceneorg:/parties/1999/assembly99/in64/puheaika.zip|youtube:y376EfNbaos
