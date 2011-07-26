@@ -55,11 +55,11 @@ title:Mind & Body|author:ABJ|position:15|webfile:mp3_music/mind_body_by_abj.mp3|
 :section Oldskool demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
-title:Riyadh|author:Bandwagon|position:1|media:/vod/.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:id_file=4195&id_prod=8913&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7662.jpg&width=512&height=404|youtube:_2nbbvCqehg
-title:Impossiblator|author:pwp|position:2|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7663
-title:Beertime 2|author:Dekadence|position:3|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:3476
-title:Big Time|author:CNCD|position:4|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:16221
-title:Orivesi|author:Extend|position:5|sceneorg:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:17958
+title:Riyadh|author:Bandwagon|position:1|media:/vod/.oldies-goldies/compos/ASM01 Oldskool - 1st - Riyadh by Bandwagon_h264_1856kbit.mp4|sceneorgvideo:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7662|dtv:id_file=4195&id_prod=8913&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7662.jpg&width=512&height=404|youtube:_2nbbvCqehg
+title:Impossiblator|author:pwp|position:2|sceneorgvideo:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:7663
+title:Beertime 2|author:Dekadence|position:3|sceneorgvideo:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:3476
+title:Big Time|author:CNCD|position:4|sceneorgvideo:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:16221
+title:Orivesi|author:Extend|position:5|sceneorgvideo:/parties/2001/assembly01/oldskool/oldskool_demo_compo-divx.avi|pouet:17958
 
 
 :section Fast music
