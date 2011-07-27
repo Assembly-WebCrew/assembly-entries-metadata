@@ -1,19 +1,24 @@
 :year 1992
 
 :section PC demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1992 PCs.</p>
 
 title:Unreal|author:Future Crew|position:1|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:id_file=4160&id_prod=11374&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1274.gif&width=512&height=404|youtube:InrGJ7C9B3s
 title:Crystal Dream|author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip
 title:Internal Damage|author:EMF|position:3|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:3Cf8WBw6I2Y
 title:unknown|author:Sonic PC|position:0
 
+
 :section C64 demo
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
 title:Gunnar 2|author:Dual Crew|position:1|pouet:41737
 title:Oh No More Dots|author:Beyond Force|position:2|pouet:15673
 title:Technophobia|author:The Sharks|position:3|pouet:18915
 
+
 :section Amiga demo
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 title:Sound Vision|author:Reflect|position:1|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:id_file=6412&id_prod=13927&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5458_1.png&width=512&height=404|youtube:OKF2cj8rIKg
 title:Delirium|author:Complex|position:2|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:id_file=4017&id_prod=12362&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5459.png&width=512&height=404|youtube:BgrYcWPJrWg
@@ -26,6 +31,7 @@ title:Mele|author:TET|position:0
 title:unknown|author:The Dark Demon|position:0|pouet:19002
 title:Trackmo|author:Xentrix|position:0
 
+
 :section Music
 
 title:Iridium|author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
@@ -37,7 +43,9 @@ title:Insomnia|author:Omar/Sonic|position:0
 title:Back To Music 2|author:Strobo/Stellar|position:0|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
 title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|youtube:PO3bS4B2hKQ
 
+
 :section Graphics
+:description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
 title:Naughty Nymphs In Nature|author:Iridon/Shining|position:1|webfile:graphics/naughty_nymphs_in_nature_by_iridon_shining.png|sceneorg:/parties/1992/assembly92/grfx/naughtynymphsinnature.zip
 title:Alternative Tequila|author:Dean/Cyberiad|position:2|webfile:graphics/alternative_tequila_by_dean_cyberiad.png|sceneorg:/parties/1992/assembly92/grfx/dean-alternativetequila.zip
@@ -57,7 +65,9 @@ title:Reptile|author:Z (??)|position:0|webfile:graphics/reptile_by_z.png|sceneor
 title:Seal|author:unknown|position:0|webfile:graphics/seal_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/seal.zip
 title:Werthers Skull|author:unknown|position:0|webfile:graphics/werthers_skull_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip
 
+
 :section Amiga intro
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga intro competition these programs are limited in size to 100 kilobytes. 100 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Repo Intro|author:Vectra|position:1|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|pouet:29217
 title:unknown|author:Wizzcat|position:2

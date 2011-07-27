@@ -1,6 +1,7 @@
 :year 1995
 
 :section C64 music
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 title:Martinism|author:Zardax/Origo Dreamline|position:1
 title:Kirta|author:Thor/Extend|position:2
@@ -9,7 +10,9 @@ title:Sys 4096|author:AMJ/Side B|position:4
 title:Compotune|author:Warlock/Panic|position:5
 title:Brainscanaloop|author:Barracuda/Extend|position:6
 
+
 :section 4 channel music
+:description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 title:Funkyeeh|author:Theseus/Anathema|position:1|webfile:4_channel_music/funkyeeh_by_theseus_anathema.mp3|sceneorg:/parties/1995/assembly95/m4ch/funkyeeh.zip|youtube:z1zG9xuRS-Q
 title:Illumination|author:Cube/Dee|position:2|webfile:4_channel_music/illumination_by_cube_dee.mp3|sceneorg:/parties/1995/assembly95/m4ch/illumina.zip|youtube:Pn99AjBKsK4
@@ -31,12 +34,15 @@ title:Groove Connexion|author:Mccoy/Scoopex|position:0|webfile:4_channel_music/g
 
 
 :section C64 graphics
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
 title:Dragon|author:Dr. Dick /Byterapers inc.|position:1
 title:Compopicture|author:Debris/Panic/Extacy|position:2
 title:Animaali|author:Votka/Pullo|position:3
 
-:section PC 4K intro
+
+:section PC 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1995 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:Animate|author:Schwartz|position:1|sceneorg:/parties/1995/assembly95/in4k/animate.zip|pouet:2859|youtube:Lij1WjjjNw8
 title:Heaven|author:Barti!/Nooon|position:2|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|pouet:1105|youtube:8ljsQBoLta4
@@ -55,6 +61,7 @@ title:Strictly 4kb|author:-|position:14|sceneorg:/parties/1995/assembly95/in4k/s
 title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zip
 
 :section PC demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1995 PCs.</p>
 
 title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404|youtube:wEiBxHOGYps
 title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400|youtube:sSsIiThWtco
@@ -72,7 +79,9 @@ title:Overflow|author:Black Rain|position:13|sceneorg:/parties/1995/assembly95/d
 title:Fever|author:Deus ex Machina|position:14|sceneorg:/parties/1995/assembly95/demo/demfever.zip|pouet:33833|youtube:ulUHYCzEqJE
 title:Elegant|author:Simplicity|position:15|sceneorg:/parties/1995/assembly95/demo/elegance.zip|pouet:51320|youtube:JQxfUuwT690
 
+
 :section C64 demo
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
 title:Extremes|author:Byterapers Inc.|position:1|pouet:1615
 title:Break Through II|author:Panic|position:2|pouet:7095
@@ -81,7 +90,9 @@ title:It's comming|author:Crest|position:4|pouet:11511
 title:Bizarre|author:Symptom C64 Section|position:5|pouet:18460
 title:Tribute to Albert Hofmann|author:Chaos C64 Division|position:6|pouet:18461
 
+
 :section Raytrace graphics
+:description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
 title:The Desktop|author:Diffusion|position:1
 title:Church Windows|author:Andy|position:2
@@ -99,7 +110,9 @@ title:World|author:-|position:13
 title:Grimreaper|author:Havenlock/DKS|position:14
 title:Kielo|author:Turo/Fascination|position:15
 
+
 :section Amiga demo
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 title:ZIF|author:Parallax|position:1|pouet:1149|dtv:id_file=4047&id_prod=12360&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1149_1.jpg&width=512&height=404
 title:Logic|author:Pygmy Projects|position:2|pouet:7823
@@ -115,7 +128,9 @@ title:High Anxiety|author:Abyss|position:11|pouet:3410
 title:unknown|author:Black Lotus|position:12
 title:Domination's Dentro|author:Domination|position:13
 
+
 :section Animation
+:description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
 title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:/parties/1995/assembly95/anim/flow.mpg|pouet:2567|youtube:jxJONwxAC5o
 title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|pouet:5357|youtube:znmzblccKFU
@@ -132,7 +147,9 @@ title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_s
 title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:/parties/1995/assembly95/anim/nih.mpg|pouet:28649|youtube:QN3XPK-FAso
 title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|pouet:28650|youtube:Zj6knjJwnB0
 
+
 :section Amiga 40k intro
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:FAD|author:Sonik|position:1|pouet:5096
 title:Hauki|author:Hirmu|position:2|pouet:18455
@@ -150,7 +167,9 @@ title:Sumu|author:Kinky|position:13|pouet:18458
 title:Mission Impossible|author:Amacon|position:14|pouet:13259
 title:Kintro|author:Diffusion|position:15|pouet:18459
 
+
 :section Graphics
+:description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
 title:Fiction|author:Visualize/Jamm|position:1|webfile:graphics/fiction_by_visualize_jamm.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
 title:Mystery|author:Artifec/Complex|position:2|webfile:graphics/mystery_by_artifec_complex.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
@@ -168,7 +187,9 @@ title:Nut Fish|author:Zeb/Orange|position:13|webfile:graphics/nut_fish_by_zeb_or
 title:Blend|author:Neutesten/Zirkonium|position:14|webfile:graphics/blend_by_neutesten_zirkonium.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
 title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cncd.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
 
-:section PC 64K intro
+
+:section PC 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1995 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184|youtube:4lB55Q92vB8
 title:Stickman's World|author:COMA|position:2|sceneorg:/parties/1995/assembly95/in64/stick.zip|pouet:1139
@@ -186,7 +207,9 @@ title:Tam|author:Anarchy|position:13|sceneorg:/parties/1995/assembly95/in64/tam.
 title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:/parties/1995/assembly95/in64/noclass.zip|pouet:34233|youtube:2m375wd91LA
 title:Byte me|author:@|position:15|sceneorg:/parties/1995/assembly95/in64/byteme.zip|pouet:6318
 
+
 :section Multichannel music
+:description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
 title:Catch that Goblin|author:Skaven|position:1|webfile:multichannel_music/catch_that_goblin_by_skaven.mp3|sceneorg:/parties/1995/assembly95/mmul/ctgoblin.zip|youtube:pX6TLrxYckw
 title:Guild of sounds|author:Rage|position:2|webfile:multichannel_music/guild_of_sounds_by_rage.mp3|sceneorg:/parties/1995/assembly95/mmul/guildofs.zip|youtube:coyjcpOc3Y0

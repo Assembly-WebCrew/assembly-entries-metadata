@@ -1,6 +1,7 @@
 :year 1996
 
 :section C64 music
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 title:Viidakko|author:TBB/Side B&Extend|position:1|webfile:c64_music/viidakko_by_tbb_side_b_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:txLxTswkKUo
 title:The Last Wader|author:Agemixer/Atlantis|position:2|webfile:c64_music/the_last_wader_by_agemixer_atlantis.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:mpOMXok6Qvc
@@ -13,7 +14,9 @@ title:Alka|author:Zardax/Origo Dreamline|position:8|webfile:c64_music/alka_by_za
 title:Maniac Fred|author:PVCF/Reflex|position:9|webfile:c64_music/maniac_fred_by_pvcf_reflex.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:D1yP1tH0bq0
 title:Sunfellow|author:Barracuda/Extend|position:10|webfile:c64_music/sunfellow_by_barracuda_extend.mp3|sceneorg:/parties/1996/assembly96/c64/grfx_music/c64asm96.zip|youtube:oBzMMPE9huE
 
-:section Amiga 64K intro
+
+:section Amiga 64k intro
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Pure|author:Sonik Clique|position:1|sceneorg:/parties/1996/assembly96/amiga/in64/s_pure.zip|pouet:2984
 title:So What?|author:Royal|position:2|sceneorg:/parties/1996/assembly96/amiga/in64/ryl_so.zip|pouet:15837
@@ -27,7 +30,9 @@ title:Übergirl|author:Subspace|position:9|sceneorg:/parties/1996/assembly96/ami
 title:Nona|author:Zenon|position:10|sceneorg:/parties/1996/assembly96/amiga/in64/nona.lha|pouet:11537
 title:Hit the fan|author:Sam&Roy|position:11|sceneorg:/parties/1996/assembly96/amiga/in64/sr_htf.zip|pouet:15844
 
+
 :section C64 graphics
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
 title:Herb's Shot|author:Electric/Extend|position:1
 title:Entwined|author:Mike/Byterapers|position:2
@@ -36,7 +41,9 @@ title:Dudette|author:Deetsay/Panic|position:4
 title:Cyborg|author:Jasso/Jassoteam|position:5
 title:Smoking|author:Calamity/Laxity|position:6
 
-:section PC 4K intro
+
+:section PC 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1996 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:Pure Spirit|author:unknown|position:1|sceneorg:/parties/1996/assembly96/in4k/pure.zip|pouet:6538|youtube:uhT__6skzAM
 title:Countach|author:Dave/ByTeam|position:2|sceneorg:/parties/1996/assembly96/in4k/countach.zip|pouet:6706|youtube:koOr4xiFfMg
@@ -49,7 +56,9 @@ title:Mystical|author:unknown|position:8|sceneorg:/parties/1996/assembly96/in4k/
 title:Balls|author:unknown|position:9|sceneorg:/parties/1996/assembly96/in4k/balls.zip|pouet:1735|youtube:vY78HQ3BMUE
 title:Red Room|author:unknown|position:10|sceneorg:/parties/1996/assembly96/in4k/redroom.zip|youtube:yOPvKXucuWc
 
+
 :section PC demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1996 PCs.</p>
 
 title:Machines of Madness|author:Dubius|position:1|sceneorg:/parties/1996/assembly96/demo/machines.zip|pouet:312|dtv:id_file=2381&id_prod=6448&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/312.jpg&width=512&height=404|youtube:dIjOpzN5Qvk
 title:Toasted|author:Cubic Team|position:2|sceneorg:/parties/1996/assembly96/demo/ctstoast.zip|pouet:376|dtv:id_file=2386&id_prod=10904&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/376.jpg&width=512&height=404|youtube:-Z7RN4PBHSM
@@ -67,7 +76,9 @@ title:Anxious|author:Vandals|position:13|sceneorg:/parties/1996/assembly96/demo/
 title:They will Pay|author:Borealis|position:14|sceneorg:/parties/1996/assembly96/demo/theywill.zip|pouet:13325|youtube:iHeDBvua_9Q
 title:Pure dignity in a bottle|author:Dignity|position:15|sceneorg:/parties/1996/assembly96/demo/pure.zip|pouet:13326|youtube:-RCSeki240A
 
+
 :section C64 demo
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
 title:Follow the sign 3|author:Byterapers|position:1|sceneorg:/parties/1996/assembly96/c64/demo/fts3.lha|pouet:1428|youtube:b7RZy7c4DEo
 title:Nothing but code|author:Beyond Force|position:2|sceneorg:/parties/1996/assembly96/c64/demo/nothbcod.lha|pouet:1734|youtube:jTNgU2QMvkE
@@ -75,7 +86,9 @@ title:Fruits|author:Panic|position:3|sceneorg:/parties/1996/assembly96/c64/demo/
 title:Stupidity 3|author:Wrath Designs|position:4|sceneorg:/parties/1996/assembly96/c64/demo/stupidi3.lha|pouet:1851|youtube:bHLFII7iBWc
 title:Drug sixtyfour|author:Reflex|position:5|sceneorg:/parties/1996/assembly96/c64/demo/drug64.lha|pouet:3162|youtube:FGuKZiUJ5AM
 
+
 :section Raytrace graphics
+:description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
 title:unknown|author:Sami-setä/Paskasoft Prods.|position:1
 title:unknown|author:Vaapukka/Mighty Muumies|position:2
@@ -93,7 +106,9 @@ title:unknown|author:Thain/Sensible|position:13
 title:unknown|author:Artifex/Complex|position:14
 title:unknown|author:Slayer&Gonzo/Stetson Design|position:15
 
+
 :section Wild
+:description <p>In Wild competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
 title:U.F.Orb|author:Outer Space|position:1
 title:Radio Silent|author:Princess Interactive|position:2
@@ -109,7 +124,9 @@ title:Stickman's world|author:unknown|position:11
 title:Pil|author:unknown|position:12
 title:Kukko|author:unknown|position:13
 
+
 :section Amiga demo
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 title:Sumea|author:Virtual Dreams|position:1|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|pouet:1154|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404
 title:Dim|author:Mellow Chips|position:2|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,/parties/1996/assembly96/amiga/demo/mc_dim2.lha,/parties/1996/assembly96/amiga/demo/mc_dim3.lha,/parties/1996/assembly96/amiga/demo/mc_dim4.lha|pouet:15846
@@ -123,7 +140,9 @@ title:Clichés|author:Artificial People|position:9|sceneorg:/parties/1996/assemb
 title:Bold|author:Banal Projects|position:10|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha,/parties/1996/assembly96/amiga/demo/bold2.lha|pouet:17653
 title:Gyrate|author:Wrath|position:11|sceneorg:/parties/1996/assembly96/amiga/demo/gyrate.lha|pouet:5915
 
+
 :section 4 channel music
+:description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 title:unknown|author:Major/Bombsquad|position:1
 title:unknown|author:Stargazer/Sonik Clique|position:2
@@ -141,7 +160,9 @@ title:unknown|author:Andy/CNCD|position:13
 title:unknown|author:Charlie|position:14
 title:unknown|author:Breeze/Capacala|position:15
 
+
 :section Graphics
+:description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
 title:Babylona|author:Made/Bomb Software|position:1|webfile:graphics/babylona_by_made_bomb_software.png|sceneorg:/parties/1996/assembly96/grfx/babylona.zip
 title:Voyeur|author:Visualize/Jamm|position:2|webfile:graphics/voyeur_by_visualize_jamm.png|sceneorg:/parties/1996/assembly96/grfx/voyeur.zip
@@ -159,7 +180,9 @@ title:Compo picture|author:Dreamer&Fame/Nah Kolor|position:13|webfile:graphics/c
 title:Compo picture|author:Eibon/Bombsquad|position:14|webfile:graphics/compo_picture_by_eibon_bombsquad.png|sceneorg:/parties/1996/assembly96/grfx/asm96gfx.zip
 title:unknown|author:Speedo|position:15
 
-:section PC 64K intro
+
+:section PC 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1996 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Blind|author:Eufrosyne|position:1|sceneorg:/parties/1996/assembly96/in64/frs_blnd.zip|pouet:556|dtv:id_file=1507&id_prod=12804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/blind03.png&width=512&height=404|cappedtv:eufrosyne-blind&width=800&height=600|youtube:pCjNwIPKPpM
 title:Wego|author:Complex|position:2|sceneorg:/parties/1996/assembly96/in64/clx_wego.zip|pouet:78
@@ -175,7 +198,9 @@ title:Prelude|author:Amorphous|position:11|sceneorg:/parties/1996/assembly96/in6
 title:Pallo|author:unknown|position:12
 title:Power Rangers|author:Cool Productions|position:13|sceneorg:/parties/1996/assembly96/in64/ranger.zip|pouet:23065|youtube:sER1tQFYAPM
 
+
 :section Animation
+:description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
 title:Amis 5000|author:Vaapukka|position:1|webfile:animation/amis_5000_by_vaapukka.mpeg|sceneorg:/parties/1996/assembly96/anim/amis5000.zip|pouet:6733|youtube:jbd0G3o9-to
 title:In and out|author:Timo Kinnunen|position:2
@@ -191,7 +216,9 @@ title:Dragon Eye|author:Cascada|position:11
 title:Assault|author:Remorse|position:12
 title:Meriheli|author:unknown|position:13
 
+
 :section Multichannel music
+:description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
 title:unknown|author:Crux/DCC|position:1
 title:unknown|author:Prototype|position:2

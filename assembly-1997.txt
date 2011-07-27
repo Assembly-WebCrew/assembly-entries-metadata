@@ -1,6 +1,7 @@
 :year 1997
 
 :section C64 music
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 title:Fugue in G-Minor|author:Trident/Active|position:1
 title:Oldskool|author:Cube!/Trauma+Palace|position:2
@@ -19,7 +20,9 @@ title:kestomono|author:tempest/abomination/panic|position:14
 title:Turga!|author:Barracuda/Extend|position:15
 title:Villean|author:AMJ|position:16
 
+
 :section Amiga 64k intro
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:911|author:Limbo|position:1|pouet:3678
 title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:id_file=4161&id_prod=12259&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3524.jpg&width=512&height=404
@@ -29,14 +32,18 @@ title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
 title:Memories of Fog|author:Radio|position:6
 title:Touche|author:Da Jormas|position:7
 
+
 :section Java demo
+:description <p><a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine</a> is an intermediate layer to run same programs on different machines and operating systems without the need to separately code and compile them for each target platform. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Java demo competition Java virtual machine was used as a platform to run demos and it posed limitations to using the hardware capabilities of demo machines.</p>
 
 title:Javademo Ankka|author:Five Coders|position:1|pouet:6569
 title:Super|author:Ghetto Broz|position:2|pouet:6572
 title:The levels of Insight|author:dk-scene|position:3
 title:Javamiga|author:dCS|position:4
 
+
 :section C64 graphics
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
 title:Scissors|author:Electric/Extend|position:1
 title:Leon|author:Tyrant/Resource/Therapy|position:2
@@ -47,7 +54,9 @@ title:Kazmazin|author:Ztri/Extend|position:6
 title:Superstar/tmp!|author:tempest/abomination/panic|position:7
 title:Unnamed|author:Jer/Panic|position:8
 
+
 :section PC 4k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1997 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702|youtube:eBKGKr2nfYU
 title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609|youtube:npxucKI6pm8
@@ -58,17 +67,23 @@ title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/as
 title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927|youtube:ZwajZeylsPA
 title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926|youtube:-vIGVOo9RHQ
 
-:section PC win95 demo
+
+:section PC Win95 demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>PC Win95 demo competition limited platform to computers running Windows 95 operating system..</p>
 
 title:My Love|author:JapoTek|position:1|pouet:11572
 
+
 :section C64 demo
+:description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
 title:Speedway|author:Panic|position:1|pouet:1691
 title:O-Tech People|author:Active|position:2|pouet:1672
 title:3D Highlights|author:Lepsi Developments|position:3|pouet:1685
 
+
 :section Raytrace graphics
+:description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
 title:Mars Bathfinder|author:Frank/Orange|position:1|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:Munhuone II|author:Peeri/Eclipse sf|position:2|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
@@ -86,7 +101,9 @@ title:Venus de Geller|author:recc/Radio|position:13|webfile:raytrace_graphics/ve
 title:Scene|author:Demonic/Reality Benders|position:14|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
 title:Portal|author:Envision Virtual Studios|position:15
 
+
 :section Wild demo
+:description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
 title:IP6 Itsenaisyyspaiva|author:United Nartists|position:1
 title:Stomping System|author:Pixel/Future Crew|position:2
@@ -97,7 +114,9 @@ title:Sininen Aamu|author:Mad Habit|position:6
 title:Hohtohetki|author:Retu/Vivid|position:7
 title:Coward|author:2nd Gen|position:8
 
+
 :section Amiga demo
+:description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:id_file=3878&id_prod=8437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/195.jpg&width=512&height=404
 title:Zoo|author:Puzzle|position:2|pouet:51429
@@ -105,7 +124,9 @@ title:Casting|author:Embassy|position:3|pouet:6675
 title:Zoom|author:Anadune|position:4|pouet:3811
 title:Timeout|author:C-lous/Haujobb/LED & Co|position:5
 
+
 :section Animation
+:description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
 title:Cutie Wars|author:FSpirit/Dream One|position:1
 title:ID5|author:Pekko/Enhance|position:2
@@ -116,7 +137,9 @@ title:The Quest|author:Vertex/fd|position:6
 title:F-14 in action|author:Irixian/n.o.F/X|position:7
 title:Vote for Me|author:aa/roy|position:8
 
+
 :section 4 channel music
+:description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 title:Omnipotent|author:Spay/Capacala|position:1
 title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip|youtube:0fi2e7UdQgA
@@ -134,7 +157,9 @@ title:Paranormal|author:Theseus|position:13
 title:Musiikki|author:BigLupu/Ural 13 Productions|position:14
 title:Joopa|author:DiONYS/Pillu|position:15
 
+
 :section Graphics
+:description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
 title:Vanishing Point|author:Rendall/AstroideA|position:1
 title:Sucker|author:Pixel/Future Crew|position:2
@@ -152,7 +177,9 @@ title:sIK bOJ|author:iSKA/VD-Flt|position:13
 title:Fighter and Troll|author:Kortal/Fairytale|position:14
 title:Fairy|author:Avocado/Lumen|position:15
 
+
 :section PC demo
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1997 PCs.</p>
 
 title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
 title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86|youtube:wtOZdSAahjI
@@ -170,7 +197,9 @@ title:7G|author:Sense|position:13|sceneorg:/parties/1997/assembly97/demo/sns_7gf
 title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936|youtube:-8aet9GKU_U
 title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503|youtube:3FI9h8UExi8
 
+
 :section PC 64k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1997 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189|youtube:ztmdLcT1TGA
 title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610|youtube:b9TueUzKp0o
@@ -181,7 +210,9 @@ title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in
 title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
 title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258|youtube:7J2KzIS0Vl8
 
+
 :section Multichannel music
+:description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
 title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip|youtube:7pftQ1r_Wzk
 title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip|youtube:QuJW1DM34-o

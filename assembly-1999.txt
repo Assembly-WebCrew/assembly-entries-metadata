@@ -26,7 +26,7 @@ title:G4|author:- Rock|position:8|sceneorg:/parties/1999/assembly99/amiga/in64/g
 
 
 :section Java demo
-:description :description <p><a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine</a> is an intermediate layer to run same programs on different machines and operating systems without the need to separately code and compile them for each target platform. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Java demo competition Java virtual machine was used as a platform to run demos and it posed limitations to using the hardware capabilities of demo machines.</p>
+:description <p><a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine</a> is an intermediate layer to run same programs on different machines and operating systems without the need to separately code and compile them for each target platform. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Java demo competition Java virtual machine was used as a platform to run demos and it posed limitations to using the hardware capabilities of demo machines.</p>
 
 title:I|author:Yodel|position:1|sceneorg:/parties/1999/assembly99/java/i_by_yod.zip|pouet:3016
 title:cyboman 2|author:komplex|position:2|sceneorg:/parties/1999/assembly99/java/cyboman_.zip|pouet:887
@@ -220,6 +220,7 @@ title:Puheaika|author:Dazed Productions|position:4|sceneorg:/parties/1999/assemb
 
 
 :section Graphics
+:description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
 title:My headphones are waterproof|author:Shar|position:1|webfile:graphics/my_headphones_are_waterproof_by_shar.jpeg|sceneorg:/parties/1999/assembly99/grfx/my_headp.zip
 title:Nippon Steel|author:Beam|position:2|webfile:graphics/nippon_steel_by_beam.jpeg|sceneorg:/parties/1999/assembly99/grfx/nippon_s.zip
