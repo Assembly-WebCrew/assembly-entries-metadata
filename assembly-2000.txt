@@ -78,7 +78,7 @@ title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assem
 
 
 :section Demo
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 2001 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
 title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|cappedtv:1208980142-1-0&width=512&height=384
 title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404
@@ -154,7 +154,7 @@ title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/r
 
 
 :section 4k intro
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2001 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 title:Humus|author:Exploder|position:1|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|pouet:3377|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404
 title:The Blue Man|author:NoID|position:2|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|pouet:7614
