@@ -112,8 +112,8 @@ def print_entry(year, entry):
                 description += u"<p>Not qualified to be shown on the big screen"
             description += u".</p>\n"
 
-        description += u"Title: %s<br />\n" % title
-        description += u"Author: %s\n" % author
+        description += u"Title: %s<br />\n" % cgi.escape(title)
+        description += u"Author: %s\n" % cgi.escape(author)
 
     if 'dtv' in entry:
         demoscenetv = entry['dtv']
