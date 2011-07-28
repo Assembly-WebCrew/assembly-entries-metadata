@@ -74,6 +74,15 @@ def print_section(year, section):
 
     print section_unicode.encode("utf-8")
 
+def get_ordinal_suffix(number):
+    suffixes = {1: 'st',
+               2: 'nd',
+               3: 'rd'}
+    suffix = suffixes.get(number % 10, 'th')
+    if number in [11, 12, 13]:
+        suffix = 'th'
+    return suffix
+
 def print_entry(year, entry):
     title = entry['title']
     author = entry['author']
@@ -93,16 +102,12 @@ def print_entry(year, entry):
 
     thumbnail = None
 
-    endings = {1: 'st',
-               2: 'nd',
-               3: 'rd'}
-
     description = u""
 
     position_str = None
 
     if position != 0:
-        position_str = str(position) + endings.get(position, 'th') + " place"
+        position_str = str(position) + get_ordinal_suffix(position) + " place"
 
     if not "AssemblyTV" in section_name and not "Winter" in section_name:
         if not "Seminars" in section_name:
