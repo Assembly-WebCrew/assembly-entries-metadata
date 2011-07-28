@@ -46,6 +46,7 @@ def parse_file(file_handle):
                 section = {
                     'key': normalized_section,
                     'name': section_name,
+                    'entries': [],
                     }
                 result.sections.append(section)
             elif data_type == ":description":
@@ -53,7 +54,9 @@ def parse_file(file_handle):
                 assert section is not None
                 # Only one description per section is allowed.
                 assert 'description' not in section
-                section['description'] = value
+                clean_value = value.strip()
+                if len(clean_value):
+                    section['description'] = clean_value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
@@ -77,6 +80,7 @@ def parse_file(file_handle):
         data_dict['section'] = section
 
         result.entries.append(data_dict)
+        section['entries'].append(data_dict)
 
     return result
 
