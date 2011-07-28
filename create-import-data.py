@@ -78,7 +78,7 @@ def print_entry(year, entry):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
-    if "AssemblyTV" in section_name or "Seminars" in section_name:
+    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name:
         name = title
     else:
         name = "%s by %s" % (title, author)
