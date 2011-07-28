@@ -61,19 +61,19 @@ title:Seeking|author:No Pants Productions|position:13|sceneorg:/parties/2000/ass
 :section Oldskool demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
-title:Oldskool Trippin|author:Haujobb|position:1|sceneorg:/parties/2000/assembly00/oldskool/demo/oldskool.zip|pouet:2114
+title:Oldskool Trippin|author:Haujobb|position:1|sceneorg:/parties/2000/assembly00/oldskool/demo/oldskool.zip|pouet:2114|youtube:QeTnu-KknE8
 title:Scenefabu Jurputus|author:HP-Productions|position:2|sceneorg:/parties/2000/assembly00/oldskool/demo/scenefab.zip|pouet:12775
-title:Sequences|author:The Digital Artists|position:3|sceneorg:/parties/2000/assembly00/oldskool/demo/sequence.zip|pouet:2973
-title:Goatology|author:Noice|position:4|sceneorg:/parties/2000/assembly00/oldskool/demo/goatolog.zip|pouet:3928
+title:Sequences|author:The Digital Artists|position:3|sceneorg:/parties/2000/assembly00/oldskool/demo/sequence.zip|pouet:2973|youtube:Rzv-iBqP8U4
+title:Goatology|author:Noice|position:4|sceneorg:/parties/2000/assembly00/oldskool/demo/goatolog.zip|pouet:3928|youtube:K08pDDREvCU
 title:Psyko Killer|author:Spaceballs|position:5|sceneorg:/parties/2000/assembly00/oldskool/demo/psyko_ki.zip|pouet:3801
 title:Oldskool|author:Contraz|position:6|sceneorg:/parties/2000/assembly00/oldskool/demo/197-olds.zip|pouet:13321
-title:No Panic|author:dekadence|position:7|sceneorg:/parties/2000/assembly00/oldskool/demo/no_panic.zip|pouet:3556
-title:Drystal Cream 2.5|author:HeadcrasH|position:8|sceneorg:/parties/2000/assembly00/oldskool/demo/drystal_.zip|pouet:416
+title:No Panic|author:dekadence|position:7|sceneorg:/parties/2000/assembly00/oldskool/demo/no_panic.zip|pouet:3556|youtube:gY0CrtzGz0o
+title:Drystal Cream 2.5|author:HeadcrasH|position:8|sceneorg:/parties/2000/assembly00/oldskool/demo/drystal_.zip|pouet:416|youtube:ZA0vBwhl_n4
 title:Oldskool Fools|author:Mandel Bros|position:9|sceneorg:/parties/2000/assembly00/oldskool/demo/201-olds.zip|pouet:8576
 title:The Friday Night Project|author:Armo|position:10|sceneorg:/parties/2000/assembly00/oldskool/demo/the_frid.zip
 title:Supremen|author:Byterapers, Inc.|position:11|sceneorg:/parties/2000/assembly00/oldskool/demo/supremn_.zip
-title:Our Speedway|author:Hujowa|position:12|sceneorg:/parties/2000/assembly00/oldskool/demo/our_spee.zip|pouet:22486
-title:Coira|author:Unique|position:13|sceneorg:/parties/2000/assembly00/oldskool/demo/coira_by.zip|pouet:13319
+title:Our Speedway|author:Hujowa|position:12|sceneorg:/parties/2000/assembly00/oldskool/demo/our_spee.zip|pouet:22486|youtube:tBCMHpGCHUE
+title:Coira|author:Unique|position:13|sceneorg:/parties/2000/assembly00/oldskool/demo/coira_by.zip|pouet:13319|youtube:T5Xul-gGhwk
 title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assembly00/oldskool/demo/new_cont.zip|pouet:13320
 
 
