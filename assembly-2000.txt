@@ -135,15 +135,15 @@ title:Astraalikakka|author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00
 :section ANSI graphics
 :description <p>ANSI graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
-title:Clasm|author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip
-title:Who am I?|author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip
-title:Lavalamp|author:Charon|position:3|sceneorg:/parties/2000/assembly00/ansi/lavalamp.zip
-title:Ninja|author:H7|position:4|sceneorg:/parties/2000/assembly00/ansi/ninja_by.zip
-title:punaiseksi muutuin|author:kokki|position:5|sceneorg:/parties/2000/assembly00/ansi/punaisek.zip
-title:Raperman|author:jraevaar|position:6|sceneorg:/parties/2000/assembly00/ansi/raperman.zip
-title:Devil in disguise|author:DiamonDie|position:7|sceneorg:/parties/2000/assembly00/ansi/devil_in.zip
-title:next generation|author:nultrix|position:8|sceneorg:/parties/2000/assembly00/ansi/next_gen.zip
-title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hate_by_.zip
+title:Clasm|author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip|webfile:
+title:Who am I?|author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip|webfile:ansi_graphics/clasm_by_argon.png
+title:Lavalamp|author:Charon|position:3|sceneorg:/parties/2000/assembly00/ansi/lavalamp.zip|webfile:ansi_graphics/lavalamp_by_charon.png
+title:Ninja|author:H7|position:4|sceneorg:/parties/2000/assembly00/ansi/ninja_by.zip|webfile:ansi_graphics/ninja_by_h7.png
+title:punaiseksi muutuin|author:kokki|position:5|sceneorg:/parties/2000/assembly00/ansi/punaisek.zip|webfile:ansi_graphics/punaiseksi_muutuin_by_kokki.png
+title:Raperman|author:jraevaar|position:6|sceneorg:/parties/2000/assembly00/ansi/raperman.zip|webfile:ansi_graphics/raperman_by_jraevaar.png
+title:Devil in disguise|author:DiamonDie|position:7|sceneorg:/parties/2000/assembly00/ansi/devil_in.zip|webfile:ansi_graphics/devil_in_disguise_by_diamondie.png
+title:next generation|author:nultrix|position:8|sceneorg:/parties/2000/assembly00/ansi/next_gen.zip|webfile:ansi_graphics/next_generation_by_nultrix.png
+title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hate_by_.zip|webfile:ansi_graphics/hate_by_outrider.png
 
 
 :section Playstation demo

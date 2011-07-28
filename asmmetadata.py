@@ -61,7 +61,11 @@ def parse_file(file_handle):
         assert year is not None
         assert section is not None
 
-        data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
+        try:
+            data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
+        except:
+            print line
+            raise
 
         position = int(data_dict.get('position', u'0'))
         if position != 0:

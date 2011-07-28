@@ -320,17 +320,17 @@ title:Sirkan metafyysinen tyyli|author:säästöpojat feat. lempeät kuninkaat|p
 :section Unofficial ANSI/ASCII
 :description <p>ANSI/ASCII graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
-title:East 1999|author:hseven|position:1|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/east_1999_by_hseven.zip
-title:kallo-otus|author:ansichrist|position:2|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/kallo-otus_by_ansichrist.zip
-title:Cyan highlights are ugly|author:webpige0n|position:3|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/cyan_highlights_are_ugly_by_webpige0n.zip
-title:Follow your heart|author:diamondie|position:4|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/follow_your_heart_by_diamondie.zip
-title:tukkail|author:random|position:5|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/tukkail_by_random.zip
-title:poison lips|author:kokki|position:6|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/poison_lips_by_kokki.zip
-title:Cubist Kungfu|author:ricky m|position:7|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/cubist_kungfu_by_ricky_m.zip
-title:pen15 logo|author:unseen fate of pen15|position:8|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/pen15_logo_by_unseen_fate_of_pen15.zip
-title:taiteilijan ahdinko|author:tribe|position:9|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/taiteilijan_ahdinko_by_tribe.zip
-title:dO yOU REMEMBER|author:yOP|position:10|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/do_you_remember_by_yop.zip
-title:Enjoy|author:fts|position:11|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/enjoy_by_fts.zip
+title:East 1999|author:hseven|position:1|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/east_1999_by_hseven.zip|webfile:unofficial_ansi_ascii/east_1999_by_hseven.png
+title:kallo-otus|author:ansichrist|position:2|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/kallo-otus_by_ansichrist.zip|webfile:unofficial_ansi_ascii/kallo_otus_by_ansichrist.png
+title:Cyan highlights are ugly|author:webpige0n|position:3|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/cyan_highlights_are_ugly_by_webpige0n.zip|webfile:unofficial_ansi_ascii/cyan_highlights_are_ugly_by_webpige0n.png
+title:Follow your heart|author:diamondie|position:4|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/follow_your_heart_by_diamondie.zip|webfile:unofficial_ansi_ascii/follow_your_heart_by_diamondie.png
+title:tukkail|author:random|position:5|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/tukkail_by_random.zip|webfile:unofficial_ansi_ascii/tukkail_by_random.png
+title:poison lips|author:kokki|position:6|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/poison_lips_by_kokki.zip|webfile:unofficial_ansi_ascii/poison_lips_by_kokki.png
+title:Cubist Kungfu|author:ricky m|position:7|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/cubist_kungfu_by_ricky_m.zip|webfile:unofficial_ansi_ascii/cubist_kungfu_by_ricky_m.png
+title:pen15 logo|author:unseen fate of pen15|position:8|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/pen15_logo_by_unseen_fate_of_pen15.zip|webfile:unofficial_ansi_ascii/pen15_logo_by_unseen_fate_of_pen15.png
+title:taiteilijan ahdinko|author:tribe|position:9|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/taiteilijan_ahdinko_by_tribe.zip|webfile:unofficial_ansi_ascii/taiteilijan_ahdinko_by_tribe.png
+title:dO yOU REMEMBER|author:yOP|position:10|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/do_you_remember_by_yop.zip|webfile:unofficial_ansi_ascii/do_you_remember_by_yop.png
+title:Enjoy|author:fts|position:11|sceneorg:/parties/2004/assembly04/unofficial_ansi_ascii/enjoy_by_fts.zip|webfile:unofficial_ansi_ascii/enjoy_by_fts.png
 
 
 :section Demo
