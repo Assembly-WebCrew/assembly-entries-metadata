@@ -57,6 +57,14 @@ def parse_file(file_handle):
                 clean_value = value.strip()
                 if len(clean_value):
                     section['description'] = clean_value
+            elif data_type == ":pms-category":
+                # Categories can only be under section.
+                assert section is not None
+                # Only one category per section is allowed.
+                assert 'pms-category' not in section
+                clean_value = value.strip()
+                if len(clean_value):
+                    section['pms-category'] = clean_value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
