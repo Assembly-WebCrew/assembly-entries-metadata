@@ -1,4 +1,5 @@
 import asmmetadata
+import os
 import os.path
 import subprocess
 import sys
@@ -36,6 +37,7 @@ for entry in entry_data.entries:
 
     subprocess.call(['wget', '-O', temporary_image, thumbnail_address])
     subprocess.call(['convert', temporary_image, '-resize', '%dx1000' % width, temporary_resized_image])
+    os.remove(temporary_image)
 
     if not os.path.exists(target_jpeg):
         subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_jpeg])
@@ -44,3 +46,5 @@ for entry in entry_data.entries:
     if not os.path.exists(target_png):
         subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_png])
         subprocess.call(['optipng', '-o7', target_png])
+
+    os.remove(temporary_resized_image)
