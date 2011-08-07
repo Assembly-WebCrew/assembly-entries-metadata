@@ -129,7 +129,7 @@ def print_entry(year, entry):
 
     if not "AssemblyTV" in section_name and not "Winter" in section_name:
         if not "Seminars" in section_name:
-            if entry['section']['ongoing'] is False:
+            if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
                     description += u"<p>%s" % position_str
                 else:
