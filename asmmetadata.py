@@ -65,6 +65,14 @@ def parse_file(file_handle):
                 clean_value = value.strip()
                 if len(clean_value):
                     section['pms-category'] = clean_value
+            elif data_type == ":ongoing":
+                clean_value = value.strip()
+                if clean_value.lower() == "true":
+                    section['ongoing'] = True
+            elif data_type == ":public":
+                clean_value = value.strip()
+                if clean_value.lower() == "false":
+                    section['public'] = False
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
@@ -92,3 +100,32 @@ def parse_file(file_handle):
 
     return result
 
+
+def print_metadata(outfile, year_entry_data):
+    outfile.write(":year %d\n" % year_entry_data.year)
+    for section in year_entry_data.sections:
+        outfile.write("\n:section %s\n" % section['name'])
+        if 'pms-category' in section:
+            outfile.write(":pms-category %s\n" % section['pms-category'])
+        if 'description' in section:
+            outfile.write(":description %s\n" % section['description'].encode("utf-8"))
+        if 'ongoing' in section:
+            ongoing_text = "false"
+            if section['ongoing'] is True:
+                ongoing_text = "true"
+            outfile.write(":ongoing %s\n" % ongoing_text)
+        if 'public' in section:
+            public_text = "true"
+            if section['public'] is False:
+                public_text = "false"
+            outfile.write(":public %s\n" % public_text)
+
+        outfile.write("\n")
+
+        for entry in section['entries']:
+            del entry['section']
+            parts = sorted(u"%s:%s" % (key, value) for key, value in entry.items())
+            outline = u"|".join(parts)
+            outfile.write("%s\n" % outline.encode("utf-8"))
+
+        outfile.write("\n")

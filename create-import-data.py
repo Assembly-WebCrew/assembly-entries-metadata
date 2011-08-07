@@ -1,12 +1,25 @@
 import asmmetadata
-from xml.sax.saxutils import escape
-from xml.sax.saxutils import quoteattr
 import base64
 import cgi
+import optparse
 import os.path
 import sys
+from xml.sax.saxutils import escape
+from xml.sax.saxutils import quoteattr
 
-fileroot = sys.argv[1]
+parser = optparse.OptionParser()
+parser.add_option("--no-empty", dest="noempty", action="store_true",
+                  help="Prevent empty sections from going to import data.")
+parser.add_option("-q", "--quiet",
+                  action="store_false", dest="verbose", default=True,
+                  help="don't print status messages to stdout")
+
+(options, args) = parser.parse_args()
+if len(args) != 1:
+    parser.error("Need to give file root.")
+fileroot = args[0]
+
+create_empty_sections = not options.noempty
 
 def display_asset(path, title, data):
     return """
@@ -48,12 +61,17 @@ def print_section(year, section):
     sectionpath = "%s/%s" % (year, normalized_section)
     additionalinfo = ''
     if 'description' in section:
+        description = section['description']
+        # XXX Check for next year.
+        # if section['ongoing'] is True:
+        #     pms_path = "asm11/compos/%s/vote/" % section['pms-category']
+        #     description += "<p>You can vote these entries at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
         additionalinfo = """
 <mediagalleryadditionalinfo
     description=%s
 >
 </mediagalleryadditionalinfo>
-""" % quoteattr(section['description'])
+""" % quoteattr(description)
 
     section_unicode = """
   <mediagallery path="%(sectionpath)s">
@@ -111,11 +129,19 @@ def print_entry(year, entry):
 
     if not "AssemblyTV" in section_name and not "Winter" in section_name:
         if not "Seminars" in section_name:
-            if position_str is not None:
-                description += u"<p>%s" % position_str
-            else:
-                description += u"<p>Not qualified to be shown on the big screen"
-            description += u".</p>\n"
+            if entry['section']['ongoing'] is False:
+                if position_str is not None:
+                    description += u"<p>%s" % position_str
+                else:
+                    description += u"<p>Not qualified to be shown on the big screen"
+                description += u".</p>\n"
+            # XXX Check for next year.
+            # else:
+            #     pms_path = "asm11/compos/%s/vote/" % entry['section']['pms-category']
+            #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
+
+        if 'techniques' in entry:
+            description += u"<p>Notes: %s</p>" % (entry['techniques'])
 
         description += u"Title: %s<br />\n" % cgi.escape(title)
         description += u"Author: %s\n" % cgi.escape(author)
@@ -135,6 +161,20 @@ def print_entry(year, entry):
     if 'dtv' in entry:
         demoscenetv = entry['dtv']
         locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
+
+    if 'image-file' in entry and 'webfile' not in entry:
+        image_file = entry['image-file']
+        if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
+            baseprefix, _ = image_file.split(".")
+            thumbnail, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/small/%s' % baseprefix))
+            viewfile, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/large/%s' % baseprefix))
+
+            normal_prefix = asmmetadata.normalize_key(baseprefix)
+            image_filename = normal_prefix + postfix
+            locations += "<location type='image'>%s|%s</location>" % (image_filename, escape(name))
+
+            extra_assets += display_asset(
+                "%d/%s/%s/%s" % (year, normalized_section, normalized_name, image_filename), name, viewfile)
 
     if 'webfile' in entry:
         webfile = entry['webfile']
@@ -156,6 +196,13 @@ def print_entry(year, entry):
     if 'pouet' in entry:
         pouet = entry['pouet']
         locations += "<location type='pouet'>%s</location>" % (pouet)
+
+    if 'download' in entry:
+        download = entry['download']
+        download_type = "Original"
+        if "game" in section_name.lower():
+            download_type = "Playable game"
+        locations += "<location type='download'>%s|%s</location>" % (escape(download), download_type)
 
     if 'sceneorg' in entry:
         sceneorg = entry['sceneorg']
@@ -220,9 +267,13 @@ def print_entry(year, entry):
 
 
 for section in entry_data.sections:
+    if section.get('public', True) is False:
+        continue
+    if len(section['entries']) == 0 and not create_empty_sections:
+        continue
     print_section(entry_data.year, section)
 
-    for entry in section['entries']:
+    for entry in sorted(section['entries'], lambda x, y: cmp(x.get('position', 999), y.get('position', 999))):
         print_entry(entry_data.year, entry)
 
 print """</import>"""
