@@ -177,7 +177,7 @@ pouet:51162|author:Region Factible|media:/vod/2008/Compos/767_Short_Tienen_asi_c
 
 
 :section Real wild demo
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or event platforms that competitor has built himself.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
 pouet:51118|author:Evoflash|media:/vod/2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/99er_by_evoflash.zip|title:99er|youtube:wJIM2VPKT0w|thumbnail:http://i.ytimg.com/vi/wJIM2VPKT0w/0.jpg|position:1|dtv:id_file=4650&id_prod=13433&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51118_1.jpg&width=512&height=404
 pouet:51131|author:Hedelmae|media:/vod/2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/daydream_by_hedelmae.zip|title:Daydream|youtube:uZxcQ3R-Wuo|thumbnail:http://i.ytimg.com/vi/uZxcQ3R-Wuo/0.jpg|position:2|dtv:id_file=4646&id_prod=13432&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51131_1.jpg&width=512&height=404

@@ -2,7 +2,8 @@
 
 :section Demo
 :pms-category demo
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a higpph-end 2011 PC computer.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2011 PC computer.</p>
+
 author:Vovoid|pms-id:asm11/demo/57|position:3|techniques:C++/opengl, Our own tool (VSXu) for animation|title:Luna : Reactivation|media:/vod/2011/Compos/1322_Demo_Luna__Reactivation_by_Vovoid_h264_7168kbit.mp4|youtube:ktkS7A5CZ8g
 author:KoomaDot|pms-id:asm11/demo/88|position:10|techniques:MMF2, FL Studio|title:LazyBeat|media:/vod/2011/Compos/1323_Demo_LazyBeat_by_KoomaDot_h264_7168kbit.mp4|youtube:CIK79Y8XSh8
 author:Rustbloom|pms-id:asm11/demo/256|position:5|techniques:kaulin|title:Grandma|media:/vod/2011/Compos/1324_Demo_Grandma_by_Rustbloom_h264_7168kbit.mp4|youtube:p_GE-_94Qlw
@@ -18,6 +19,7 @@ author:fairlight & alcatraz|pms-id:asm11/demo/280|position:2|techniques:Due to u
 :section 4k intro
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2011 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+
 author:PuavoHard|pms-id:asm11/4k_intro/42|position:6|techniques:Direct3D 9|title:Line Mania|media:/vod/2011/Compos/1291_4k_Line_Mania_by_PuavoHard_h264_7168kbit.mp4|youtube:vxgOyl6OznQ
 author:Peisik|pms-id:asm11/4k_intro/47|position:5|techniques:C++, OpenGL, GLSL|title:invaders|media:/vod/2011/Compos/1292_4k_invaders_by_Peisik_h264_7168kbit.mp4|youtube:cqy0rvm-wIo
 author:Blobtrox|pms-id:asm11/4k_intro/48|position:10|techniques:Cat and whiskers, pew pew (GLSL)|title:DayDream|media:/vod/2011/Compos/1293_4k_DayDream_by_Blobtrox_h264_7168kbit.mp4|youtube:AvSXg75p6Vw
@@ -34,6 +36,7 @@ author:Traction|pms-id:asm11/4k_intro/223|position:3|title:Cloudlight|media:/vod
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
+
 author:Randomheads|pms-id:asm11/short_film/24|position:7|techniques:Adobe Premiere, Audacity, After Effects & Paint Shop Pro|title:Muukalaisia Yössä|media:/vod/2011/Compos/1313_Shortfilm_Muukalaisia_Yss_by_Randomheads_h264_7168kbit.mp4|youtube:kvmmhJa8GZ8
 author:SirRandom|pms-id:asm11/short_film/25|position:3|techniques:Animated purely by hand. Made with Paint Shop Pro & Animation Shop. Compiled with sound in Adobe Premiere.|title:Why Is There No Animation Combo?|media:/vod/2011/Compos/1314_Shortfilm_Why_Is_There_No_Animation_Combo_by_SirRandom_h264_7168kbit.mp4|youtube:-as161YqKbs
 author:GoldRush -team: Daniel Palmi, Juri Jablokov, Ville Suotamo, Mikko Aaltonen, Sakari Niitymaa, Jyri Jernström|pms-id:asm11/short_film/36|position:5|techniques:3DsMax, Photoshop, Zbrush, Mudbox, AfterEffects, SoundBooth, MentalRay.|title:Gold Rush|media:/vod/2011/Compos/1315_Shortfilm_Gold_Rush_by_GoldRush_team_h264_7168kbit.mp4|youtube:fR7wosU8hBs
@@ -46,7 +49,8 @@ author:HBC|pms-id:asm11/short_film/275|position:6|techniques:Ubuntu, Blender, Cy
 
 :section Real wild demo
 :pms-category real_wild_demo
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or event platforms that competitor has built himself.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
+
 author:Evoflash|pms-id:asm11/real_wild_demo/71|position:2|techniques:2 Textures 1 Mesh|title:Cubes Of Babylon|media:/vod/2011/Compos/1305_RealWild_Cubes_Of_Babylon_by_Evoflash_h264_7168kbit.mp4|youtube:EzZS7RoJFEE
 author:A2058|pms-id:asm11/real_wild_demo/91|position:1|techniques:PIC and Rotatory leds!|title:Leds Party|media:/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|youtube:78LdQvBskK4
 author:Primitive|pms-id:asm11/real_wild_demo/182|position:5|techniques:Not slow, deep.|title:I want less|media:/vod/2011/Compos/1307_RealWild_I_want_less_by_Primitive_h264_7168kbit.mp4|youtube:U8UR5oYy5T4
@@ -58,6 +62,7 @@ author:Wide Load|pms-id:asm11/real_wild_demo/264|position:6|techniques:XNA, Blen
 :section Oldskool demo
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before August 10th 1995.</p>
+
 author:Dekadence|pms-id:asm11/oldskool_demo/18|position:1|title:Chaotic|media:/vod/2011/Compos/1284_Oldskool_Chaotic_by_Dekadence_h264_7168kbit.mp4|youtube:M6PfPjaafrA
 author:Fit|pms-id:asm11/oldskool_demo/176|position:3|techniques:C, asm, Arkos Tracker, Gimp|title:See Sharp|media:/vod/2011/Compos/1285_Oldskool_See_Sharp_by_Fit_h264_7168kbit.mp4|youtube:c4agerQ5ROc
 author:PWP|pms-id:asm11/oldskool_demo/184|position:2|title:Human Resistance|media:/vod/2011/Compos/1286_Oldskool_Human_Resistance_by_PWP_h264_7168kbit.mp4|youtube:Kl5cv4c4P4Q
@@ -67,6 +72,7 @@ author:Bilotrip|pms-id:asm11/oldskool_demo/263|position:4|techniques:64x60x4 vid
 :section Music
 :pms-category music
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
+
 author:Aikapallo|pms-id:asm11/music/27|position:1|techniques:Softwares, synths, kebab & beer|title:Tiananmen Ghost|video-file:music/000-27-tiananmen-ghost.mp3.avi|youtube:XY7FJVnpxl4
 author:Rewind (feat. Lady GT)|pms-id:asm11/music/33|position:5|techniques:Renoise, Cubase|title:Kakkonen on Kekkonen|video-file:music/000-33-kakkonen-on-kekkonen.mp3.avi|youtube:vYClCdo83ys
 author:Koneisto 11111011011|pms-id:asm11/music/34|position:2|techniques:320kbps, mp3|title:Demoluola|video-file:music/000-34-demoluola.mp3.avi|youtube:3EECKNZKueg
@@ -86,6 +92,7 @@ author:King Thrill / Tekotuotanto|pms-id:asm11/music/215|position:6|techniques:R
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
+
 author:Olli Etuaho|image-file:graphics/000-22-hide-in-the-blue.png|pms-id:asm11/graphics/22|position:12|techniques:Painted in PhotoShop and Alchemy|title:Hide in the Blue
 author:Partikle|image-file:graphics/000-38-sunrise.png|pms-id:asm11/graphics/38|position:10|techniques:Photoshop CS5|title:Sunrise
 author:MacGywer/npli|image-file:graphics/000-61-ou-hai.png|pms-id:asm11/graphics/61|position:5|techniques:Mainly Photoshop|title:Ou Hai
@@ -105,6 +112,7 @@ author:Mazor of Fairlight|image-file:graphics/000-261-drawing-attention.png|pms-
 :section Extreme music
 :pms-category extreme_music
 :description <p>In Extreme music competition music is generated with programs that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
+
 author:Rebb/TRSi^Paradise|pms-id:asm11/extreme_music/20|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some talent.  |title:Crackers Revenge (YM AHOI!)|video-file:extreme-music/000-20-crackers-revenge-ym-ahoi.mp3.avi|youtube:jRHGgXl0cUU
 author:Slimex|pms-id:asm11/extreme_music/37|position:8|techniques:Goattracker|title:Burn|video-file:extreme-music/000-37-burn.mp3.avi|youtube:9ov9Ul4Mh44
 author:r00t3d|pms-id:asm11/extreme_music/45|position:10|techniques:Impulse Tracker 2.14|title:Digital Beer|video-file:extreme-music/000-45-digital-beer.mp3.avi|youtube:8Bng9A5QA1k
@@ -125,6 +133,7 @@ author:jammic|pms-id:asm11/extreme_music/211|position:3|techniques:Sync|title:Wa
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with theme "Last minute".</p>
+
 author:Mig26|image-file:fast-graphics/000-186-the-end-of-time.png|pms-id:asm11/fast_graphics/186|position:19|techniques:GIMP + Blender|title:The End of Time
 author:JOmplet|image-file:fast-graphics/000-193-last-minute-of-freedom.png|pms-id:asm11/fast_graphics/193|position:6|techniques:MS Paint|title:Last minute of freedom
 author:john peeba|image-file:fast-graphics/000-213-bzm-express.png|pms-id:asm11/fast_graphics/213|position:2|techniques:Photoshop|title:bzm express
@@ -151,6 +160,7 @@ author:Random|image-file:fast-graphics/000-253-last-flight.png|pms-id:asm11/fast
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+
 author:vikbez|pms-id:asm11/fast_music/80|position:9|techniques:lulage|title:budubidu|video-file:fast-music/000-80-budubidu.mp3.avi|youtube:NviY5aP7NqY
 author:1nsane|pms-id:asm11/fast_music/104|position:3|title:VVC-Ankka|video-file:fast-music/000-104-vvc-ankka.mp3.avi|youtube:h6jWwyU5awI
 author:Puti|pms-id:asm11/fast_music/118|position:8|techniques:C++, instrument samples|title:Song of Joy|video-file:fast-music/000-118-song-of-joy.mp3.avi|youtube:_ILXPYajL_4
@@ -172,6 +182,7 @@ author:OLO/Radarski|pms-id:asm11/fast_music/149|position:16|techniques:Ableton +
 :section Game development
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+
 author:Ribbonya|download:http://media.assembly.org/gamedev/2011/AccessLumiaSupernovaBuildv1251.zip|pms-id:asm11/gamedev/2|position:9|title:Access Lumia|media:/vod/2011/Compos/gamedev/1251_GameDev_Access_Lumia_by_Ribbonya_h264_7168kbit.mp4|youtube:nePE5c55tZo
 author:Galactic Battlefront by Studfarm Studios|download:http://media.assembly.org/gamedev/2011/AssaultWingSetup.exe|pms-id:asm11/gamedev/3|position:6|title:Assault Wing|media:/vod/2011/Compos/gamedev/1252_GameDev_Assault_Wing_by_Galactic_Battlefront_by_Studfarm_Studios_h264_7168kbit.mp4|youtube:KGd0kt8W9pw
 author:The Tribe|download:http://media.assembly.org/gamedev/2011/ASM11_GameDev_Dungeon.zip|pms-id:asm11/gamedev/4|position:14|title:Dungeon|media:/vod/2011/Compos/gamedev/1253_GameDev_Dungeon_by_The_Tribe_h264_7168kbit.mp4|youtube:iMnQDybypY0
@@ -192,10 +203,12 @@ author:Meatgrinder|download:http://media.assembly.org/gamedev/2011/TypeHard-Rele
 
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+
 author:AssemblyTV|description:From Assembly 2003 compo winner to a global phenomenon.|guid:1267|media:/vod/2011/AssemblyTV/1267_rovio_interview_h264_1856kbit.mp4|title:Angry Birds interview|youtube:tqEjp3CAWm0
 
 
 :section Seminars
+
 author:Teemu Tapanila|title:Wonders of Kinect Windows SDK|media:/vod/2011/Seminars/1213_arttech_seminars_wonders_of_kinect_windows_sdk_h264_1856kbit.mp4|youtube:RPnLJZc668o
 author:Ramine Darabiha and Serdar Soganci|title:Angry Birds on the web|media:/vod/2011/Seminars/1312_arttech_seminars_angry_birds_on_the_web_h264_1856kbit.mp4|youtube:yzRzDqn6Wlg
 author:Pekka Ollula, Jarmo Puskala and Juha Salmijärvi|title:All aboard to the Dark side of the Moon

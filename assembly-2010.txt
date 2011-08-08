@@ -138,7 +138,7 @@ title:Trackmo 2|sceneorg:/parties/2010/assembly10/oldskool/demo/trackmo_2_by_fst
 
 
 :section Real wild demo
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or event platforms that competitor has built himself.</p>
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
 title:Spiral out|sceneorg:/parties/2010/assembly10/real_wild/spiral_out_by_evoflash.zip|author:evoflash|youtube:2a7gni15HSk|position:1|sceneorgvideo:/parties/2010/assembly10/vod/1133_realwild_spiral_out_by_evoflash_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/2a7gni15HSk/0.jpg
 title:Derelict|sceneorg:/parties/2010/assembly10/real_wild/derelict_by_hedelmae.zip|author:Hedelmae|youtube:NltalxRSKn8|position:2|sceneorgvideo:/parties/2010/assembly10/vod/1132_realwild_derelict_by_hedelmae_h264_7168kbit.mp4|type:external|thumbnail:http://i.ytimg.com/vi/NltalxRSKn8/0.jpg

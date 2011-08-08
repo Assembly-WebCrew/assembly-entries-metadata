@@ -131,17 +131,17 @@ def print_entry(year, entry):
         if not "Seminars" in section_name:
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
-                    description += u"<p>%s" % position_str
+                    description += u"%s" % position_str
                 else:
-                    description += u"<p>Not qualified to be shown on the big screen"
-                description += u".</p>\n"
+                    description += u"Not qualified to be shown on the big screen"
+                description += u".</p>\n<p>\n"
             # XXX Check for next year.
             # else:
             #     pms_path = "asm11/compos/%s/vote/" % entry['section']['pms-category']
             #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
 
         if 'techniques' in entry:
-            description += u"<p>Notes: %s</p>" % (entry['techniques'])
+            description += u"Notes: %s</p>\n<p>" % (entry['techniques'])
 
         description += u"Title: %s<br />\n" % cgi.escape(title)
         description += u"Author: %s\n" % cgi.escape(author)
