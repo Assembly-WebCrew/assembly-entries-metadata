@@ -1,367 +1,388 @@
 :year 2006
 
 :section Mobile demo
+:youtube-playlist E3B05D31C59D74D8
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that you usually would carry with you.</p>
 
-title:Pulque|author:Hedelmae|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|sceneorg:/parties/2006/assembly06/mobile_demo/pulque_by_hedelmae_1.zip|pouet:25771|dtv:id_file=1492&id_prod=12619&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25771_1.png&width=512&height=404|youtube:CvCrLGNF1Ac
-title:Who's Your Favourite Clown?|author:Shitfaced Clowns|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|sceneorg:/parties/2006/assembly06/mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|pouet:25797|youtube:TH0Sh1_l4Og
-title:Follow The Sign 4|author:Byterapers|position:3|sceneorg:/parties/2006/assembly06/mobile_demo/b-fts4-psp.zip|pouet:25842
-title:AiES|author:Exile Studios|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|sceneorg:/parties/2006/assembly06/mobile_demo/aies_by_exile_studios_2.zip|pouet:25799|dtv:id_file=1493&id_prod=12620&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/aies.jpg&width=512&height=404|youtube:cOW0GU7QCSI
-title:Caffeine|author:wbs|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|sceneorg:/parties/2006/assembly06/mobile_demo/caffeine_by_wbs_final.zip|pouet:25798|youtube:lWeyd9uXyKc
+author:Hedelmae|dtv:id_file=1492&id_prod=12619&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25771_1.png&width=512&height=404|position:1|pouet:25771|sceneorg:/parties/2006/assembly06/mobile_demo/pulque_by_hedelmae_1.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/pulque_by_hedelmae.avi|title:Pulque|youtube:CvCrLGNF1Ac
+author:Shitfaced Clowns|position:2|pouet:25797|sceneorg:/parties/2006/assembly06/mobile_demo/who_s_your_favourite_clown_by_shitfaced_clowns.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/who_s_your_favourite_clown__by_shitfaced_clowns.avi|title:Who's Your Favourite Clown?|youtube:TH0Sh1_l4Og
+author:Byterapers|position:3|pouet:25842|sceneorg:/parties/2006/assembly06/mobile_demo/b-fts4-psp.zip|title:Follow The Sign 4
+author:Exile Studios|dtv:id_file=1493&id_prod=12620&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/aies.jpg&width=512&height=404|position:4|pouet:25799|sceneorg:/parties/2006/assembly06/mobile_demo/aies_by_exile_studios_2.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/aies_by_exile_studios_2.avi|title:AiES|youtube:cOW0GU7QCSI
+author:wbs|position:5|pouet:25798|sceneorg:/parties/2006/assembly06/mobile_demo/caffeine_by_wbs_final.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/mobile_demo/caffeine_by_wbs.avi|title:Caffeine|youtube:lWeyd9uXyKc
+
 
 :section Oldskool graphics
 :description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1992.</p>
 
-title:Lord Rothschild|author:Partikle|position:1|webfile:oldskool_graphics/lord_rothschild_by_partikle.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/lord_rothschild_by_partikle.zip
-title:2nd Count|author:Oxidy/Fairlight|position:2|sceneorg:/parties/2006/assembly06/oldskool/grfx/2nd_count_by_oxidy_wrath_designs.zip
-title:Ansi Blondie|author:Reanimator / ICE|position:3|webfile:oldskool_graphics/ansi_blondie_by_ice.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/ansi_blondie_by_ice.zip
-title:Perstroikaraoke|author:Duce / Extend|position:4|sceneorg:/parties/2006/assembly06/oldskool/grfx/perstroikaraoke_by_duce_extend_1.zip
-title:Bluescreen of LOL|author:Roz / Fit * RNO * wAMMA|position:5|webfile:oldskool_graphics/bluescreen_of_lol_by_roz_fit_rno_wamma.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/bluescreen_of_lol_by_roz_fit_rno_wamma.zip
-title:Domo Arigato Mr.Robotto-san|author:EriPaha / WDC|position:6|webfile:oldskool_graphics/domo_arigato_mr_robotto_san_by_eripaha_wdc.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/domo_arigato_mr_robotto-san_by_eripaha_wdc_1.zip
-title:Pioneer|author:Random/Gfxile|position:7|sceneorg:/parties/2006/assembly06/oldskool/grfx/pioneer_by_random_gfxile.zip
-title:Justiina|author:Aso / WDC|position:8|webfile:oldskool_graphics/justiina_by_aso_wdc.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/justiina_by_aso_wdc.zip
-title:Bagpipe Dude|author:Arvis|position:9|webfile:oldskool_graphics/bagpipe_dude_by_arvis.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/bagpipe_dude_by_arvis.zip
-title:Give us a Lift to the Moon|author:Jumpseri|position:10|webfile:oldskool_graphics/give_us_a_lift_to_the_moon_by_jumpseri.png|sceneorg:/parties/2006/assembly06/oldskool/grfx/give_us_a_lift_to_the_moon_by_jumpseri_1.zip
+author:Partikle|position:1|sceneorg:/parties/2006/assembly06/oldskool/grfx/lord_rothschild_by_partikle.zip|title:Lord Rothschild|webfile:oldskool_graphics/lord_rothschild_by_partikle.png
+author:Oxidy/Fairlight|position:2|sceneorg:/parties/2006/assembly06/oldskool/grfx/2nd_count_by_oxidy_wrath_designs.zip|title:2nd Count
+author:Reanimator / ICE|position:3|sceneorg:/parties/2006/assembly06/oldskool/grfx/ansi_blondie_by_ice.zip|title:Ansi Blondie|webfile:oldskool_graphics/ansi_blondie_by_ice.png
+author:Duce / Extend|position:4|sceneorg:/parties/2006/assembly06/oldskool/grfx/perstroikaraoke_by_duce_extend_1.zip|title:Perstroikaraoke
+author:Roz / Fit * RNO * wAMMA|position:5|sceneorg:/parties/2006/assembly06/oldskool/grfx/bluescreen_of_lol_by_roz_fit_rno_wamma.zip|title:Bluescreen of LOL|webfile:oldskool_graphics/bluescreen_of_lol_by_roz_fit_rno_wamma.png
+author:EriPaha / WDC|position:6|sceneorg:/parties/2006/assembly06/oldskool/grfx/domo_arigato_mr_robotto-san_by_eripaha_wdc_1.zip|title:Domo Arigato Mr.Robotto-san|webfile:oldskool_graphics/domo_arigato_mr_robotto_san_by_eripaha_wdc.png
+author:Random/Gfxile|position:7|sceneorg:/parties/2006/assembly06/oldskool/grfx/pioneer_by_random_gfxile.zip|title:Pioneer
+author:Aso / WDC|position:8|sceneorg:/parties/2006/assembly06/oldskool/grfx/justiina_by_aso_wdc.zip|title:Justiina|webfile:oldskool_graphics/justiina_by_aso_wdc.png
+author:Arvis|position:9|sceneorg:/parties/2006/assembly06/oldskool/grfx/bagpipe_dude_by_arvis.zip|title:Bagpipe Dude|webfile:oldskool_graphics/bagpipe_dude_by_arvis.png
+author:Jumpseri|position:10|sceneorg:/parties/2006/assembly06/oldskool/grfx/give_us_a_lift_to_the_moon_by_jumpseri_1.zip|title:Give us a Lift to the Moon|webfile:oldskool_graphics/give_us_a_lift_to_the_moon_by_jumpseri.png
+
 
 :section Game development
+:youtube-playlist 6C084482C4F877BE
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-title:Frets on fire|author:Unreal Voodoo|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|sceneorg:/parties/2006/assembly06/game/fretsonfire-1.0.184-win32.zip|pouet:25819|youtube:KU-eIvL2Zcg
-title:Racing Pitch|author:tAAt 2006 & Skinflake|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|sceneorg:/parties/2006/assembly06/game/racingpitch100.zip|pouet:25772|youtube:oZR2tJOubtw
-title:TattooFrenzy|author:Fingersoft|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/game/tattoofrenzy11_ppc_by_fingersoft.zip|pouet:25699|youtube:iEOAnkjR7Rc
-title:Bloboats|author:Blobtrox|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/bloboats_by_blobtrox.avi|sceneorg:/parties/2006/assembly06/game/bloboats-1.0.0.zip|pouet:25820|youtube:12qpkIaoCgU
-title:Super Puzzle 9|author:Aroppuu|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/super_puzzle_9_by_aroppuu.avi|sceneorg:/parties/2006/assembly06/game/puzzle.zip|youtube:8EwzsKL8A7M
-title:Armageddon Armadillo Assault|author:Traction & Jumalauta|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|sceneorg:/parties/2006/assembly06/game/aaa10.exe|pouet:25692|youtube:AVO60poemg8
-title:Highway to Assembly|author:Archee|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/highway_to_assembly_archee.avi|sceneorg:/parties/2006/assembly06/game/highway.zip|pouet:25766|youtube:FdAPAwBa7BI
-title:UBV 2006|author:IHIHI|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|sceneorg:/parties/2006/assembly06/game/ubv2006_updated.zip|pouet:25843|youtube:-yRPjhu9cZw
-title:Absorb|author:Absorb development team|position:9|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/absorb_by_absorb_development_team.avi|sceneorg:/parties/2006/assembly06/game/absorb_update.zip|youtube:rLNaijRoivc
-title:Boom! Boom! Driller!|author:Ass Hat Designs|position:10|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|sceneorg:/parties/2006/assembly06/game/boomboomdriller102a.zip|pouet:26966|youtube:Es3s32Fm_y4
-title:Stariffic|author:XZM|position:11|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/starriffic_by_xzm.avi|sceneorg:/parties/2006/assembly06/game/stariffic-060803-0146.zip|youtube:3j4pn_ERoHo
-title:Antigravitaattori|author:Team Sauna|position:12|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/antigravitaattori_by_team_sauna.avi|sceneorg:/parties/2006/assembly06/game/antigravitaattori_update2.zip|youtube:7oxRCpP5ei4
-title:CellRace|author:nope.tv|position:13|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/cellrace_by_nope.tv.avi|sceneorg:/parties/2006/assembly06/game/cellrace-1.0.2.zip|youtube:ZwPfEkhiI74
-title:Spacetruck|author:Kutale Entertainment|position:14|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/spacetruck_by_kutale_entertainment.avi|sceneorg:/parties/2006/assembly06/game/spacetruck11.zip|youtube:5tkTEcVGQr8
+author:Unreal Voodoo|position:1|pouet:25819|sceneorg:/parties/2006/assembly06/game/fretsonfire-1.0.184-win32.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/frets_on_fire_by_unreal_voodoo.avi|title:Frets on fire|youtube:KU-eIvL2Zcg
+author:tAAt 2006 & Skinflake|position:2|pouet:25772|sceneorg:/parties/2006/assembly06/game/racingpitch100.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/racing_pitch_by_taat_2006_and_skinflake.avi|title:Racing Pitch|youtube:oZR2tJOubtw
+author:Fingersoft|position:3|pouet:25699|sceneorg:/parties/2006/assembly06/game/tattoofrenzy11_ppc_by_fingersoft.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/tattoofrenzy_by_fingersoft.avi|title:TattooFrenzy|youtube:iEOAnkjR7Rc
+author:Blobtrox|position:4|pouet:25820|sceneorg:/parties/2006/assembly06/game/bloboats-1.0.0.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/bloboats_by_blobtrox.avi|title:Bloboats|youtube:12qpkIaoCgU
+author:Aroppuu|position:5|sceneorg:/parties/2006/assembly06/game/puzzle.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/super_puzzle_9_by_aroppuu.avi|title:Super Puzzle 9|youtube:8EwzsKL8A7M
+author:Traction & Jumalauta|position:6|pouet:25692|sceneorg:/parties/2006/assembly06/game/aaa10.exe|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/armageddon_armadillo_assault_by_traction__jumalauta.avi|title:Armageddon Armadillo Assault|youtube:AVO60poemg8
+author:Archee|position:7|pouet:25766|sceneorg:/parties/2006/assembly06/game/highway.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/highway_to_assembly_archee.avi|title:Highway to Assembly|youtube:FdAPAwBa7BI
+author:IHIHI|position:8|pouet:25843|sceneorg:/parties/2006/assembly06/game/ubv2006_updated.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/uvb_2006_by_ihhi.avi|title:UBV 2006|youtube:-yRPjhu9cZw
+author:Absorb development team|position:9|sceneorg:/parties/2006/assembly06/game/absorb_update.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/absorb_by_absorb_development_team.avi|title:Absorb|youtube:rLNaijRoivc
+author:Ass Hat Designs|position:10|pouet:26966|sceneorg:/parties/2006/assembly06/game/boomboomdriller102a.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/boom_boom_driller_by_ass_hat_designs.avi|title:Boom! Boom! Driller!|youtube:Es3s32Fm_y4
+author:XZM|position:11|sceneorg:/parties/2006/assembly06/game/stariffic-060803-0146.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/starriffic_by_xzm.avi|title:Stariffic|youtube:3j4pn_ERoHo
+author:Team Sauna|position:12|sceneorg:/parties/2006/assembly06/game/antigravitaattori_update2.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/antigravitaattori_by_team_sauna.avi|title:Antigravitaattori|youtube:7oxRCpP5ei4
+author:nope.tv|position:13|sceneorg:/parties/2006/assembly06/game/cellrace-1.0.2.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/cellrace_by_nope.tv.avi|title:CellRace|youtube:ZwPfEkhiI74
+author:Kutale Entertainment|position:14|sceneorg:/parties/2006/assembly06/game/spacetruck11.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/game/spacetruck_by_kutale_entertainment.avi|title:Spacetruck|youtube:5tkTEcVGQr8
 
 
 :section 64k intro
+:youtube-playlist E53CB62E5CD65A98
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2006 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:dead ringer|author:fairlight|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in64/dead_ringer_by_fairlight.zip|pouet:25776|dtv:id_file=1478&id_prod=12627&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/dead_ringer.jpg&width=512&height=404|youtube:Nf5oQ8lQ8u0|cappedtv:flt-deadringer&width=450&height=337&video=no
-title:Chaos Theory|author:Conspiracy|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|sceneorg:/parties/2006/assembly06/in64/chaos_theory_by_conspiracy.zip|pouet:25774|dtv:id_file=1479&id_prod=12629&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25774_1.jpg&width=512&height=404|youtube:aY7Ev9hyq-M|cappedtv:conspiracy-chaos_theory&width=640&height=360
-title:Aesterozoa|author:Kewlers|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|sceneorg:/parties/2006/assembly06/in64/aesterozoa_by_kewlers.zip|pouet:25777|dtv:id_file=1480&id_prod=12621&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25777_1.jpg&width=512&height=404|youtube:UhMPFFaJ3I4|cappedtv:kewlers-aesterozoa&width=450&height=337&video=no
-title:FR-048: Precision|author:Farbrausch|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|sceneorg:/parties/2006/assembly06/in64/fr-048_precision_by_farbrausch.zip|pouet:25775|dtv:id_file=1481&id_prod=12630&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25775_1.jpg&width=512&height=404|youtube:czZb-jpTLzg
-title:Emo Defect|author:Fiture Crew|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|sceneorg:/parties/2006/assembly06/in64/emo_defect_by_fiture_crew.tar_gz|pouet:25794|youtube:JFoXjgvfX8Q
-title:Rather Mediocre Laser Trip Experience|author:aspekt|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|sceneorg:/parties/2006/assembly06/in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|pouet:25793|dtv:id_file=1482&id_prod=12625&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25793_1.jpg&width=512&height=404|youtube:T0WuqR-AIpQ
-title:Naked blonde chicks|author:Immersion|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|sceneorg:/parties/2006/assembly06/in64/naked_blonde_chicks_by_immersion.tgz|pouet:25795|dtv:id_file=1483&id_prod=12626&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25795_1.png&width=512&height=404|youtube:CTBfy1z33Fg
+author:fairlight|cappedtv:flt-deadringer&width=450&height=337&video=no|dtv:id_file=1478&id_prod=12627&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/dead_ringer.jpg&width=512&height=404|position:1|pouet:25776|sceneorg:/parties/2006/assembly06/in64/dead_ringer_by_fairlight.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/dead_ringer_by_fairlight.avi|title:dead ringer|youtube:Nf5oQ8lQ8u0
+author:Conspiracy|cappedtv:conspiracy-chaos_theory&width=640&height=360|dtv:id_file=1479&id_prod=12629&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25774_1.jpg&width=512&height=404|position:2|pouet:25774|sceneorg:/parties/2006/assembly06/in64/chaos_theory_by_conspiracy.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/chaos_theory_by_conspiracy.avi|title:Chaos Theory|youtube:aY7Ev9hyq-M
+author:Kewlers|cappedtv:kewlers-aesterozoa&width=450&height=337&video=no|dtv:id_file=1480&id_prod=12621&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25777_1.jpg&width=512&height=404|position:3|pouet:25777|sceneorg:/parties/2006/assembly06/in64/aesterozoa_by_kewlers.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/aesterozoa_by_kewlers.avi|title:Aesterozoa|youtube:UhMPFFaJ3I4
+author:Farbrausch|dtv:id_file=1481&id_prod=12630&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25775_1.jpg&width=512&height=404|position:4|pouet:25775|sceneorg:/parties/2006/assembly06/in64/fr-048_precision_by_farbrausch.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/fr-048__precision_by_farbrausch.avi|title:FR-048: Precision|youtube:czZb-jpTLzg
+author:Fiture Crew|position:5|pouet:25794|sceneorg:/parties/2006/assembly06/in64/emo_defect_by_fiture_crew.tar_gz|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/emo_defect_by_fiture_crew.avi|title:Emo Defect|youtube:JFoXjgvfX8Q
+author:aspekt|dtv:id_file=1482&id_prod=12625&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25793_1.jpg&width=512&height=404|position:6|pouet:25793|sceneorg:/parties/2006/assembly06/in64/rather_mediocre_laser_trip_experience_by_aspekt.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/rather_mediocre_laser_trip_experience_by_aspekt.avi|title:Rather Mediocre Laser Trip Experience|youtube:T0WuqR-AIpQ
+author:Immersion|dtv:id_file=1483&id_prod=12626&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25795_1.png&width=512&height=404|position:7|pouet:25795|sceneorg:/parties/2006/assembly06/in64/naked_blonde_chicks_by_immersion.tgz|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in64/naked_blonde_chicks_by_immersion.avi|title:Naked blonde chicks|youtube:CTBfy1z33Fg
 
 
 :section Oldskool demo
+:youtube-playlist 6D5985546B1ACDD8
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
-title:Fruitcake|author:RNO|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/fruitcake_by_rno.lha|pouet:25765|dtv:id_file=1494&id_prod=12616&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25765_1.png&width=512&height=404|youtube:SZtnRMQcTIw
-title:Progress Without Progress|author:PWP|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/progress_without_progress_by_pwp.zip|pouet:25764|dtv:id_file=1495&id_prod=12617&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25764_1.jpg&width=512&height=404|youtube:L2n5ihIGYIU
-title:Monkey Cowboys Extreme|author:Jumalauta|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|sceneorg:/parties/2006/assembly06/oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|pouet:25763|dtv:id_file=1496&id_prod=12618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25763_1.jpg&width=512&height=404|youtube:pYMQSGLB-c4
+author:RNO|dtv:id_file=1494&id_prod=12616&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25765_1.png&width=512&height=404|position:1|pouet:25765|sceneorg:/parties/2006/assembly06/oldskool/demo/fruitcake_by_rno.lha|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/fruitcake_by_rno.avi|title:Fruitcake|youtube:SZtnRMQcTIw
+author:PWP|dtv:id_file=1495&id_prod=12617&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25764_1.jpg&width=512&height=404|position:2|pouet:25764|sceneorg:/parties/2006/assembly06/oldskool/demo/progress_without_progress_by_pwp.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/progress_without_progress_by_pwp.avi|title:Progress Without Progress|youtube:L2n5ihIGYIU
+author:Jumalauta|dtv:id_file=1496&id_prod=12618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25763_1.jpg&width=512&height=404|position:3|pouet:25763|sceneorg:/parties/2006/assembly06/oldskool/demo/monkey_cowboys_extreme_by_jumalauta.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/oldskool_demo/monkey_cowboys_extreme_by_jumalauta.avi|title:Monkey Cowboys Extreme|youtube:pYMQSGLB-c4
+
 
 :section Fast graphics
 :description <p>Competitors had 1.5 hours to create an image with theme "On The Rocks".</p>
 
-title:Navigation Problems|author:John Peeba|position:1|webfile:fast_graphics/navigation_problems_by_john_peeba.png|sceneorg:/parties/2006/assembly06/fast/grfx/navigation_problems_by_john_peeba.zip
-title:Something missing|author:MacGywer|position:2|webfile:fast_graphics/something_missing_by_macgywer.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/something_missing_by_macgywer.zip
-title:Soon to be there|author:Random/Gfxile|position:3|webfile:fast_graphics/soon_to_be_there_by_random_gfxile.png|sceneorg:/parties/2006/assembly06/fast/grfx/soon_to_be_there_by_random_gfxile.zip
-title:Origin of Kebab|author:Oozie|position:4|webfile:fast_graphics/origin_of_kebab_by_oozie.png|sceneorg:/parties/2006/assembly06/fast/grfx/origin_of_kebab_by_oozie.zip
-title:Kiville meni tääkin taas...|author:McLad|position:5|webfile:fast_graphics/kiville_meni_t_kin_taas_by_mclad.png|sceneorg:/parties/2006/assembly06/fast/grfx/kiville_meni_t_kin_taas_by_mclad.zip
-title:King of the hill|author:maxon|position:6|webfile:fast_graphics/king_of_the_hill_by_maxon.png|sceneorg:/parties/2006/assembly06/fast/grfx/king_of_the_hill_by_maxon.zip
-title:Want some?|author:Delicio|position:7|webfile:fast_graphics/want_some_by_delicio.png|sceneorg:/parties/2006/assembly06/fast/grfx/want_some_by_delicio.zip
-title:Stornament|author:Malakai|position:8|webfile:fast_graphics/stornament_by_malakai.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/stornament_by_malakai.zip
-title:On the loks|author:osku/piste games|position:9|webfile:fast_graphics/on_the_loks_by_osku_piste_games.png|sceneorg:/parties/2006/assembly06/fast/grfx/on_the_loks_by_osku_piste_games.zip
-title:Whiskey on the rocks|author:Jabus|position:10|webfile:fast_graphics/whiskey_on_the_rocks_by_jabus.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/whiskey_on_the_rocks_by_jabus.zip
-title:Galatucxxx takes ice for his volcano drink|author:Zagupi|position:11|webfile:fast_graphics/galatucxxx_takes_ice_for_his_volcano_drink_by_zagupi.png|sceneorg:/parties/2006/assembly06/fast/grfx/galatucxxx_takes_ice_for_his_volcano_drink_by_zagupi.zip
-title:Rokuli lol|author:purplecow|position:12|webfile:fast_graphics/rokuli_lol_by_purplecow.png|sceneorg:/parties/2006/assembly06/fast/grfx/rokuli_lol_by_purplecow.zip
-title:Assembly On The Rocks|author:Osmic/Unknown Artists|position:0|webfile:fast_graphics/assembly_on_the_rocks_by_osmic_unknown_artists.png|sceneorg:/parties/2006/assembly06/fast/grfx/assembly_on_the_rocks_by_osmic_unknown_artists.zip
-title:Humans Aint Got Nothing On Us Pelicans|author:Irah|position:0|webfile:fast_graphics/humans_aint_got_nothing_on_us_pelicans_by_irah.png|sceneorg:/parties/2006/assembly06/fast/grfx/humans_aint_got_nothing_on_us_pelicans_by_irah.zip
-title:Something On The Rocks|author:Timo Perämaa|position:0|webfile:fast_graphics/something_on_the_rocks_by_timo_per_maa.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/something_on_the_rocks_by_timo_per_maa.zip
-title:The Grand Escape|author:Rayven|position:0|webfile:fast_graphics/the_grand_escape_by_rayven.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/the_grand_escape_by_rayven.zip
-title:mermaid|author:Havocplague|position:0|webfile:fast_graphics/mermaid_by_havocplague.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/mermaid_by_havocplague.zip
-title:Why WLAN Rocks|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:fast_graphics/why_wlan_rocks_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2006/assembly06/fast/grfx/why_wlan_rocks_by_diamondie_foobug_numedia_cyclops.zip
-title:Whiskie On The Rocks|author:Slurps Entertainment|position:0|webfile:fast_graphics/whiskie_on_the_rocks_by_slurps_entertainment.jpeg|sceneorg:/parties/2006/assembly06/fast/grfx/whiskie_on_the_rocks_by_slurps_entertainment.zip
+author:John Peeba|position:1|sceneorg:/parties/2006/assembly06/fast/grfx/navigation_problems_by_john_peeba.zip|title:Navigation Problems|webfile:fast_graphics/navigation_problems_by_john_peeba.png
+author:MacGywer|position:2|sceneorg:/parties/2006/assembly06/fast/grfx/something_missing_by_macgywer.zip|title:Something missing|webfile:fast_graphics/something_missing_by_macgywer.jpeg
+author:Random/Gfxile|position:3|sceneorg:/parties/2006/assembly06/fast/grfx/soon_to_be_there_by_random_gfxile.zip|title:Soon to be there|webfile:fast_graphics/soon_to_be_there_by_random_gfxile.png
+author:Oozie|position:4|sceneorg:/parties/2006/assembly06/fast/grfx/origin_of_kebab_by_oozie.zip|title:Origin of Kebab|webfile:fast_graphics/origin_of_kebab_by_oozie.png
+author:McLad|position:5|sceneorg:/parties/2006/assembly06/fast/grfx/kiville_meni_t_kin_taas_by_mclad.zip|title:Kiville meni tääkin taas...|webfile:fast_graphics/kiville_meni_t_kin_taas_by_mclad.png
+author:maxon|position:6|sceneorg:/parties/2006/assembly06/fast/grfx/king_of_the_hill_by_maxon.zip|title:King of the hill|webfile:fast_graphics/king_of_the_hill_by_maxon.png
+author:Delicio|position:7|sceneorg:/parties/2006/assembly06/fast/grfx/want_some_by_delicio.zip|title:Want some?|webfile:fast_graphics/want_some_by_delicio.png
+author:Malakai|position:8|sceneorg:/parties/2006/assembly06/fast/grfx/stornament_by_malakai.zip|title:Stornament|webfile:fast_graphics/stornament_by_malakai.jpeg
+author:osku/piste games|position:9|sceneorg:/parties/2006/assembly06/fast/grfx/on_the_loks_by_osku_piste_games.zip|title:On the loks|webfile:fast_graphics/on_the_loks_by_osku_piste_games.png
+author:Jabus|position:10|sceneorg:/parties/2006/assembly06/fast/grfx/whiskey_on_the_rocks_by_jabus.zip|title:Whiskey on the rocks|webfile:fast_graphics/whiskey_on_the_rocks_by_jabus.jpeg
+author:Zagupi|position:11|sceneorg:/parties/2006/assembly06/fast/grfx/galatucxxx_takes_ice_for_his_volcano_drink_by_zagupi.zip|title:Galatucxxx takes ice for his volcano drink|webfile:fast_graphics/galatucxxx_takes_ice_for_his_volcano_drink_by_zagupi.png
+author:purplecow|position:12|sceneorg:/parties/2006/assembly06/fast/grfx/rokuli_lol_by_purplecow.zip|title:Rokuli lol|webfile:fast_graphics/rokuli_lol_by_purplecow.png
+author:Osmic/Unknown Artists|sceneorg:/parties/2006/assembly06/fast/grfx/assembly_on_the_rocks_by_osmic_unknown_artists.zip|title:Assembly On The Rocks|webfile:fast_graphics/assembly_on_the_rocks_by_osmic_unknown_artists.png
+author:Irah|sceneorg:/parties/2006/assembly06/fast/grfx/humans_aint_got_nothing_on_us_pelicans_by_irah.zip|title:Humans Aint Got Nothing On Us Pelicans|webfile:fast_graphics/humans_aint_got_nothing_on_us_pelicans_by_irah.png
+author:Timo Perämaa|sceneorg:/parties/2006/assembly06/fast/grfx/something_on_the_rocks_by_timo_per_maa.zip|title:Something On The Rocks|webfile:fast_graphics/something_on_the_rocks_by_timo_per_maa.jpeg
+author:Rayven|sceneorg:/parties/2006/assembly06/fast/grfx/the_grand_escape_by_rayven.zip|title:The Grand Escape|webfile:fast_graphics/the_grand_escape_by_rayven.jpeg
+author:Havocplague|sceneorg:/parties/2006/assembly06/fast/grfx/mermaid_by_havocplague.zip|title:mermaid|webfile:fast_graphics/mermaid_by_havocplague.jpeg
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2006/assembly06/fast/grfx/why_wlan_rocks_by_diamondie_foobug_numedia_cyclops.zip|title:Why WLAN Rocks|webfile:fast_graphics/why_wlan_rocks_by_diamondie_foobug_numedia_cyclops.png
+author:Slurps Entertainment|sceneorg:/parties/2006/assembly06/fast/grfx/whiskie_on_the_rocks_by_slurps_entertainment.zip|title:Whiskie On The Rocks|webfile:fast_graphics/whiskie_on_the_rocks_by_slurps_entertainment.jpeg
 
 
 :section Fast music
+:youtube-playlist FF3AA6CD714B5A6B
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-title:Vincent|author:Aikapallo|position:1|webfile:fast_music/vincent_by_aikapallo.mp3|sceneorg:/parties/2006/assembly06/fast/music/vincent_by_aikapallo.zip|youtube:mojPjzjEWHc
-title:Eternal Jump|author:Latwis|position:2|webfile:fast_music/eternal_jump_by_latwis.mp3|sceneorg:/parties/2006/assembly06/fast/music/eternal_jump_by_latwis.zip|youtube:OjHLwqtFLak
-title:Impromptu on Strings|author:djh|position:3|webfile:fast_music/impromptu_on_strings_by_djh.mp3|sceneorg:/parties/2006/assembly06/fast/music/impromptu_on_strings_by_djh.zip|youtube:puhZgT72FqM
-title:Nyrkkisordiino - Fist Sordino|author:tArzAn/tAAt|position:4|webfile:fast_music/nyrkkisordiino_fist_sordino_by_tarzan_taat.mp3|sceneorg:/parties/2006/assembly06/fast/music/nyrkkisordiino_-_fist_sordino_by_tarzan_taat.zip|youtube:JR5f92R_iKE
-title:My Apple Tree|author:kerko|position:5|webfile:fast_music/my_apple_tree_by_kerko.mp3|sceneorg:/parties/2006/assembly06/fast/music/my_apple_tree_by_kerko.zip|youtube:zsaB8b5b3Zk
-title:Rainy Day|author:marzu|position:6|webfile:fast_music/rainy_day_by_marzu.mp3|sceneorg:/parties/2006/assembly06/fast/music/rainy_day_by_marzu.zip|youtube:z6zYI84AVvY
+author:Aikapallo|position:1|sceneorg:/parties/2006/assembly06/fast/music/vincent_by_aikapallo.zip|title:Vincent|webfile:fast_music/vincent_by_aikapallo.mp3|youtube:mojPjzjEWHc
+author:Latwis|position:2|sceneorg:/parties/2006/assembly06/fast/music/eternal_jump_by_latwis.zip|title:Eternal Jump|webfile:fast_music/eternal_jump_by_latwis.mp3|youtube:OjHLwqtFLak
+author:djh|position:3|sceneorg:/parties/2006/assembly06/fast/music/impromptu_on_strings_by_djh.zip|title:Impromptu on Strings|webfile:fast_music/impromptu_on_strings_by_djh.mp3|youtube:puhZgT72FqM
+author:tArzAn/tAAt|position:4|sceneorg:/parties/2006/assembly06/fast/music/nyrkkisordiino_-_fist_sordino_by_tarzan_taat.zip|title:Nyrkkisordiino - Fist Sordino|webfile:fast_music/nyrkkisordiino_fist_sordino_by_tarzan_taat.mp3|youtube:JR5f92R_iKE
+author:kerko|position:5|sceneorg:/parties/2006/assembly06/fast/music/my_apple_tree_by_kerko.zip|title:My Apple Tree|webfile:fast_music/my_apple_tree_by_kerko.mp3|youtube:zsaB8b5b3Zk
+author:marzu|position:6|sceneorg:/parties/2006/assembly06/fast/music/rainy_day_by_marzu.zip|title:Rainy Day|webfile:fast_music/rainy_day_by_marzu.mp3|youtube:z6zYI84AVvY
 
 
 :section Oldskool music
+:youtube-playlist 1CBA633290D801AA
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
-title:Valley of Spirits|author:Monk|position:1|webfile:oldskool_music/valley_of_spirits_by_monk.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/valley_of_spirits_by_monk.zip|youtube:7Vy_UEIW-Os
-title:Back To Basics|author:!Cube|position:2|webfile:oldskool_music/back_to_basics_by_cube.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/back_to_basics_by_cube.zip|youtube:htC1FWSVSRw
-title:My Monkey Got a Flu|author:jammic|position:3|webfile:oldskool_music/my_monkey_got_a_flu_by_jammic.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/my_monkey_got_a_flu_by_jammic.zip|youtube:3e8_lWTdVyc
-title:Summerhit of 2006|author:Britelite / Dekadence|position:4|webfile:oldskool_music/summerhit_of_2006_by_britelite_dekadence.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/summerhit_of_2006_by_britelite_dekadence.zip|youtube:1gCxA9bVOPU
-title:Dance Delirium|author:Inphernic|position:5|webfile:oldskool_music/dance_delirium_by_inphernic.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/dance_delirium_by_inphernic_2.zip|youtube:K4P5Qn2JM-g
-title:Mun Meloni|author:Player One / Dekadence|position:6|webfile:oldskool_music/mun_meloni_by_player_one_dekadence.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/mun_meloni_by_player_one_dekadence.zip|youtube:myzjE7MlVs4
-title:Once More|author:Reed / Fairlight|position:7|webfile:oldskool_music/once_more_by_reed_fairlight.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/once_more_by_reed_fairlight.zip|youtube:jY_qutx_M2c
-title:Fire Outside|author:Chaj / Dekadence|position:8|webfile:oldskool_music/fire_outside_by_chaj_dekadence.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/fire_outside_by_chaj_dekadence.zip|youtube:vJbOZ5a3sbI
-title:Equilibrium|author:DJ Joge of Brainstorm|position:9|webfile:oldskool_music/equilibrium_by_dj_joge_of_brainstorm.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/equilibrium_by_dj_joge_of_brainstorm.zip|youtube:pV9_W8fcuzo
-title:ONE FOR REED|author:Aleksi Eeben of Carillon International|position:10|webfile:oldskool_music/one_for_reed_by_aleksi_eeben_of_carillon_international.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/one_for_reed_by_aleksi_eeben_of_carillon_international_1.zip|youtube:UiUvTEs2C8I
-title:Näen leijasi|author:ilmarque|position:11|webfile:oldskool_music/n_en_leijasi_by_ilmarque.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/n_en_leijasi_by_ilmarque.zip|youtube:Xr5EH-NiEt4
-title:Amiga futureshock|author:Fabio Barzagli, "Fby"|position:12|webfile:oldskool_music/amiga_futureshock_by_fabio_barzagli_fby.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/amiga_futureshock_by_fabio_barzagli_fby.zip|youtube:B_H7yQXw2Iw
-title:Misty Luv|author:Roz / Fit * RNO * wAMMA|position:13|webfile:oldskool_music/misty_luv_by_roz_fit_rno_wamma.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/misty_luv_by_roz_fit_rno_wamma.zip|youtube:DMlE8C0Vkt4
-title:cerebral damage|author:signal|position:14|webfile:oldskool_music/cerebral_damage_by_signal.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/cerebral_damage_by_signal.zip|youtube:n-ePHCs0pYs
-title:The Korean War|author:Rondo / Axes Denied|position:0|webfile:oldskool_music/the_korean_war_by_rondo_axes_denied.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/the_korean_war_by_rondo_axes_denied.zip|youtube:j1gfAQgs7WY
-title:ST-01|author:Mr. Coolbeat & Copycrazy / Megahawks Inc.|position:0|webfile:oldskool_music/st_01_by_mr_coolbeat_copycrazy_megahawks_inc.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/st-01_by_mr_coolbeat_copycrazy_megahawks_inc.zip|youtube:U4YpKvoIUEU
-title:Power Crunch!|author:cTrix (from Australia)|position:0|webfile:oldskool_music/power_crunch_by_ctrix_from_australia.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/power_crunch_by_ctrix_from_australia.zip|youtube:C9bcXe4PLz8
-title:Kupliva, kirpsakka, rusinainen ja halpa hedelmaeviini|author:lemonade / Sitruslapset|position:0|webfile:oldskool_music/kupliva_kirpsakka_rusinainen_ja_halpa_hedelmaeviini_by_lemonade_sitruslapset.mp3|sceneorg:/parties/2006/assembly06/oldskool/music/kupliva_kirpsakka_rusinainen_ja_halpa_hedelmaeviini_by_lemonade_sitruslapset.zip|youtube:Kctu5xNVWfE
+author:Monk|position:1|sceneorg:/parties/2006/assembly06/oldskool/music/valley_of_spirits_by_monk.zip|title:Valley of Spirits|webfile:oldskool_music/valley_of_spirits_by_monk.mp3|youtube:7Vy_UEIW-Os
+author:!Cube|position:2|sceneorg:/parties/2006/assembly06/oldskool/music/back_to_basics_by_cube.zip|title:Back To Basics|webfile:oldskool_music/back_to_basics_by_cube.mp3|youtube:htC1FWSVSRw
+author:jammic|position:3|sceneorg:/parties/2006/assembly06/oldskool/music/my_monkey_got_a_flu_by_jammic.zip|title:My Monkey Got a Flu|webfile:oldskool_music/my_monkey_got_a_flu_by_jammic.mp3|youtube:3e8_lWTdVyc
+author:Britelite / Dekadence|position:4|sceneorg:/parties/2006/assembly06/oldskool/music/summerhit_of_2006_by_britelite_dekadence.zip|title:Summerhit of 2006|webfile:oldskool_music/summerhit_of_2006_by_britelite_dekadence.mp3|youtube:1gCxA9bVOPU
+author:Inphernic|position:5|sceneorg:/parties/2006/assembly06/oldskool/music/dance_delirium_by_inphernic_2.zip|title:Dance Delirium|webfile:oldskool_music/dance_delirium_by_inphernic.mp3|youtube:K4P5Qn2JM-g
+author:Player One / Dekadence|position:6|sceneorg:/parties/2006/assembly06/oldskool/music/mun_meloni_by_player_one_dekadence.zip|title:Mun Meloni|webfile:oldskool_music/mun_meloni_by_player_one_dekadence.mp3|youtube:myzjE7MlVs4
+author:Reed / Fairlight|position:7|sceneorg:/parties/2006/assembly06/oldskool/music/once_more_by_reed_fairlight.zip|title:Once More|webfile:oldskool_music/once_more_by_reed_fairlight.mp3|youtube:jY_qutx_M2c
+author:Chaj / Dekadence|position:8|sceneorg:/parties/2006/assembly06/oldskool/music/fire_outside_by_chaj_dekadence.zip|title:Fire Outside|webfile:oldskool_music/fire_outside_by_chaj_dekadence.mp3|youtube:vJbOZ5a3sbI
+author:DJ Joge of Brainstorm|position:9|sceneorg:/parties/2006/assembly06/oldskool/music/equilibrium_by_dj_joge_of_brainstorm.zip|title:Equilibrium|webfile:oldskool_music/equilibrium_by_dj_joge_of_brainstorm.mp3|youtube:pV9_W8fcuzo
+author:Aleksi Eeben of Carillon International|position:10|sceneorg:/parties/2006/assembly06/oldskool/music/one_for_reed_by_aleksi_eeben_of_carillon_international_1.zip|title:ONE FOR REED|webfile:oldskool_music/one_for_reed_by_aleksi_eeben_of_carillon_international.mp3|youtube:UiUvTEs2C8I
+author:ilmarque|position:11|sceneorg:/parties/2006/assembly06/oldskool/music/n_en_leijasi_by_ilmarque.zip|title:Näen leijasi|webfile:oldskool_music/n_en_leijasi_by_ilmarque.mp3|youtube:Xr5EH-NiEt4
+author:Fabio Barzagli, "Fby"|position:12|sceneorg:/parties/2006/assembly06/oldskool/music/amiga_futureshock_by_fabio_barzagli_fby.zip|title:Amiga futureshock|webfile:oldskool_music/amiga_futureshock_by_fabio_barzagli_fby.mp3|youtube:B_H7yQXw2Iw
+author:Roz / Fit * RNO * wAMMA|position:13|sceneorg:/parties/2006/assembly06/oldskool/music/misty_luv_by_roz_fit_rno_wamma.zip|title:Misty Luv|webfile:oldskool_music/misty_luv_by_roz_fit_rno_wamma.mp3|youtube:DMlE8C0Vkt4
+author:signal|position:14|sceneorg:/parties/2006/assembly06/oldskool/music/cerebral_damage_by_signal.zip|title:cerebral damage|webfile:oldskool_music/cerebral_damage_by_signal.mp3|youtube:n-ePHCs0pYs
+author:Rondo / Axes Denied|sceneorg:/parties/2006/assembly06/oldskool/music/the_korean_war_by_rondo_axes_denied.zip|title:The Korean War|webfile:oldskool_music/the_korean_war_by_rondo_axes_denied.mp3|youtube:j1gfAQgs7WY
+author:Mr. Coolbeat & Copycrazy / Megahawks Inc.|sceneorg:/parties/2006/assembly06/oldskool/music/st-01_by_mr_coolbeat_copycrazy_megahawks_inc.zip|title:ST-01|webfile:oldskool_music/st_01_by_mr_coolbeat_copycrazy_megahawks_inc.mp3|youtube:U4YpKvoIUEU
+author:cTrix (from Australia)|sceneorg:/parties/2006/assembly06/oldskool/music/power_crunch_by_ctrix_from_australia.zip|title:Power Crunch!|webfile:oldskool_music/power_crunch_by_ctrix_from_australia.mp3|youtube:C9bcXe4PLz8
+author:lemonade / Sitruslapset|sceneorg:/parties/2006/assembly06/oldskool/music/kupliva_kirpsakka_rusinainen_ja_halpa_hedelmaeviini_by_lemonade_sitruslapset.zip|title:Kupliva, kirpsakka, rusinainen ja halpa hedelmaeviini|webfile:oldskool_music/kupliva_kirpsakka_rusinainen_ja_halpa_hedelmaeviini_by_lemonade_sitruslapset.mp3|youtube:Kctu5xNVWfE
 
 
 :section Drawn themed graphics
 :description <p>Pictures were created by drawing them by hand and had to include one or more of the following elements: obsession, transparency, on the go / mobility.</p>
 
-title:Invisible Man Saves The World Again|author:Kinnerean / Pyrotech|position:1|webfile:drawn_themed_graphics/invisible_man_saves_the_world_again_by_kinnerean_pyrotech.png|sceneorg:/parties/2006/assembly06/grfx/drawn/invisible_man_saves_the_world_again_by_kinnerean_pyrotech_1.zip
-title:Zionism|author:Partikle|position:2|webfile:drawn_themed_graphics/zionism_by_partikle.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/zionism_by_partikle_2.zip
-title:elektrocute|author:Nikki|position:3|sceneorg:/parties/2006/assembly06/grfx/drawn/elektrocute_by_nikki.zip
-title:Hitchin' a Ride|author:John Peeba|position:4|webfile:drawn_themed_graphics/hitchin_a_ride_by_john_peeba.png|sceneorg:/parties/2006/assembly06/grfx/drawn/hitchin_a_ride_by_john_peeba.zip
-title:Damn, it's raining. Holiday's ruined|author:maxon|position:5|webfile:drawn_themed_graphics/damn_it_s_raining_holiday_s_ruined_by_maxon.png|sceneorg:/parties/2006/assembly06/grfx/drawn/damn_it_s_raining_holiday_s_ruined_by_maxon.zip
-title:Following the White Rabbit|author:flea|position:6|webfile:drawn_themed_graphics/following_the_white_rabbit_by_flea.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/following_the_white_rabbit_by_flea.zip
-title:Mun omenat!|author:McLad|position:7|webfile:drawn_themed_graphics/mun_omenat_by_mclad.png|sceneorg:/parties/2006/assembly06/grfx/drawn/mun_omenat_by_mclad_1.zip
-title:Chinese girl murder|author:SweetDevil|position:8|webfile:drawn_themed_graphics/chinese_girl_murder_by_sweetdevil.png|sceneorg:/parties/2006/assembly06/grfx/drawn/chinese_girl_murder_by_sweetdevil.zip
-title:Body Servant|author:Random/Gfxile|position:9|webfile:drawn_themed_graphics/body_servant_by_random_gfxile.png|sceneorg:/parties/2006/assembly06/grfx/drawn/body_servant_by_random_gfxile_1.zip
-title:The Beauty and the Beast|author:Tokai|position:10|webfile:drawn_themed_graphics/the_beauty_and_the_beast_by_tokai.png|sceneorg:/parties/2006/assembly06/grfx/drawn/the_beauty_and_the_beast_by_tokai.zip
-title:They Hunger|author:Paavo "Tarantula" Härkönen|position:11|webfile:drawn_themed_graphics/they_hunger_by_paavo_tarantula_h_rk_nen.png|sceneorg:/parties/2006/assembly06/grfx/drawn/they_hunger_by_paavo_tarantula_h_rk_nen.zip
-title:it´s a good day for corpse camping|author:venni-chan|position:12|webfile:drawn_themed_graphics/it_s_a_good_day_for_corpse_camping_by_venni_chan.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/it_s_a_good_day_for_corpse_camping_by_venni-chan.zip
-title:Guru Contest|author:Jabus|position:13|webfile:drawn_themed_graphics/guru_contest_by_jabus.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/guru_contest_by_jabus.zip
-title:markolla hätä|author:Elukka|position:0|webfile:drawn_themed_graphics/markolla_h_t_by_elukka.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/markolla_h_t_by_elukka.zip
-title:on tha move to Finland|author:Kallisti ^ Luna Lovegood Experience|position:0|webfile:drawn_themed_graphics/on_tha_move_to_finland_by_kallisti_luna_lovegood_experience.png|sceneorg:/parties/2006/assembly06/grfx/drawn/on_tha_move_to_finland_by_kallisti_luna_lovegood_experience.zip
-title:Obsession: BLACK|author:Timo Perämaa|position:0|webfile:drawn_themed_graphics/obsession_black_by_timo_per_maa.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/obsession_black_by_timo_per_maa.zip
-title:Vanishing Point|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:drawn_themed_graphics/vanishing_point_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2006/assembly06/grfx/drawn/vanishing_point_by_diamondie_foobug_numedia_cyclops.zip
-title:Dragonflys Meal|author:tturunen|position:0|webfile:drawn_themed_graphics/dragonflys_meal_by_tturunen.png|sceneorg:/parties/2006/assembly06/grfx/drawn/dragonflys_meal_by_tturunen.zip
-title:MuFuggen Mobility Limbo Challenge USA '06|author:Shnoog|position:0|webfile:drawn_themed_graphics/mufuggen_mobility_limbo_challenge_usa_06_by_shnoog.jpeg|sceneorg:/parties/2006/assembly06/grfx/drawn/mufuggen_mobility_limbo_challenge_usa_06_by_shnoog_2.zip
-title:Primal Overtake|author:Teuvo Tursas / RRR|position:0|webfile:drawn_themed_graphics/primal_overtake_by_teuvo_tursas_rrr.png|sceneorg:/parties/2006/assembly06/grfx/drawn/primal_overtake_by_teuvo_tursas_rrr_1.zip
+author:Kinnerean / Pyrotech|position:1|sceneorg:/parties/2006/assembly06/grfx/drawn/invisible_man_saves_the_world_again_by_kinnerean_pyrotech_1.zip|title:Invisible Man Saves The World Again|webfile:drawn_themed_graphics/invisible_man_saves_the_world_again_by_kinnerean_pyrotech.png
+author:Partikle|position:2|sceneorg:/parties/2006/assembly06/grfx/drawn/zionism_by_partikle_2.zip|title:Zionism|webfile:drawn_themed_graphics/zionism_by_partikle.jpeg
+author:Nikki|position:3|sceneorg:/parties/2006/assembly06/grfx/drawn/elektrocute_by_nikki.zip|title:elektrocute
+author:John Peeba|position:4|sceneorg:/parties/2006/assembly06/grfx/drawn/hitchin_a_ride_by_john_peeba.zip|title:Hitchin' a Ride|webfile:drawn_themed_graphics/hitchin_a_ride_by_john_peeba.png
+author:maxon|position:5|sceneorg:/parties/2006/assembly06/grfx/drawn/damn_it_s_raining_holiday_s_ruined_by_maxon.zip|title:Damn, it's raining. Holiday's ruined|webfile:drawn_themed_graphics/damn_it_s_raining_holiday_s_ruined_by_maxon.png
+author:flea|position:6|sceneorg:/parties/2006/assembly06/grfx/drawn/following_the_white_rabbit_by_flea.zip|title:Following the White Rabbit|webfile:drawn_themed_graphics/following_the_white_rabbit_by_flea.jpeg
+author:McLad|position:7|sceneorg:/parties/2006/assembly06/grfx/drawn/mun_omenat_by_mclad_1.zip|title:Mun omenat!|webfile:drawn_themed_graphics/mun_omenat_by_mclad.png
+author:SweetDevil|position:8|sceneorg:/parties/2006/assembly06/grfx/drawn/chinese_girl_murder_by_sweetdevil.zip|title:Chinese girl murder|webfile:drawn_themed_graphics/chinese_girl_murder_by_sweetdevil.png
+author:Random/Gfxile|position:9|sceneorg:/parties/2006/assembly06/grfx/drawn/body_servant_by_random_gfxile_1.zip|title:Body Servant|webfile:drawn_themed_graphics/body_servant_by_random_gfxile.png
+author:Tokai|position:10|sceneorg:/parties/2006/assembly06/grfx/drawn/the_beauty_and_the_beast_by_tokai.zip|title:The Beauty and the Beast|webfile:drawn_themed_graphics/the_beauty_and_the_beast_by_tokai.png
+author:Paavo "Tarantula" Härkönen|position:11|sceneorg:/parties/2006/assembly06/grfx/drawn/they_hunger_by_paavo_tarantula_h_rk_nen.zip|title:They Hunger|webfile:drawn_themed_graphics/they_hunger_by_paavo_tarantula_h_rk_nen.png
+author:venni-chan|position:12|sceneorg:/parties/2006/assembly06/grfx/drawn/it_s_a_good_day_for_corpse_camping_by_venni-chan.zip|title:it´s a good day for corpse camping|webfile:drawn_themed_graphics/it_s_a_good_day_for_corpse_camping_by_venni_chan.jpeg
+author:Jabus|position:13|sceneorg:/parties/2006/assembly06/grfx/drawn/guru_contest_by_jabus.zip|title:Guru Contest|webfile:drawn_themed_graphics/guru_contest_by_jabus.jpeg
+author:Elukka|sceneorg:/parties/2006/assembly06/grfx/drawn/markolla_h_t_by_elukka.zip|title:markolla hätä|webfile:drawn_themed_graphics/markolla_h_t_by_elukka.jpeg
+author:Kallisti ^ Luna Lovegood Experience|sceneorg:/parties/2006/assembly06/grfx/drawn/on_tha_move_to_finland_by_kallisti_luna_lovegood_experience.zip|title:on tha move to Finland|webfile:drawn_themed_graphics/on_tha_move_to_finland_by_kallisti_luna_lovegood_experience.png
+author:Timo Perämaa|sceneorg:/parties/2006/assembly06/grfx/drawn/obsession_black_by_timo_per_maa.zip|title:Obsession: BLACK|webfile:drawn_themed_graphics/obsession_black_by_timo_per_maa.jpeg
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2006/assembly06/grfx/drawn/vanishing_point_by_diamondie_foobug_numedia_cyclops.zip|title:Vanishing Point|webfile:drawn_themed_graphics/vanishing_point_by_diamondie_foobug_numedia_cyclops.png
+author:tturunen|sceneorg:/parties/2006/assembly06/grfx/drawn/dragonflys_meal_by_tturunen.zip|title:Dragonflys Meal|webfile:drawn_themed_graphics/dragonflys_meal_by_tturunen.png
+author:Shnoog|sceneorg:/parties/2006/assembly06/grfx/drawn/mufuggen_mobility_limbo_challenge_usa_06_by_shnoog_2.zip|title:MuFuggen Mobility Limbo Challenge USA '06|webfile:drawn_themed_graphics/mufuggen_mobility_limbo_challenge_usa_06_by_shnoog.jpeg
+author:Teuvo Tursas / RRR|sceneorg:/parties/2006/assembly06/grfx/drawn/primal_overtake_by_teuvo_tursas_rrr_1.zip|title:Primal Overtake|webfile:drawn_themed_graphics/primal_overtake_by_teuvo_tursas_rrr.png
 
 
 :section Instrumental music
+:youtube-playlist 604B957B77F0A0E8
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
-title:This Week I've Been Mostly Playing Guitar|author:Cairbre|position:1|webfile:instrumental_music/this_week_i_ve_been_mostly_playing_guitar_by_cairbre.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/this_week_i_ve_been_mostly_playing_guitar_by_cairbre.zip|youtube:zdTyb2d83m8
-title:Heavy Metal Ownager|author:Aikapallo|position:2|webfile:instrumental_music/heavy_metal_ownager_by_aikapallo.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/heavy_metal_ownager_by_aikapallo.zip|youtube:Iik8SrYiJBM
-title:Further Adventures of Agent Mustakallio|author:Little Bitchard|position:3|webfile:instrumental_music/further_adventures_of_agent_mustakallio_by_little_bitchard.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/further_adventures_of_agent_mustakallio_by_little_bitchard.zip|youtube:FomDXyBbLHA
-title:Uphold the Traditions|author:Roz / Fit * RNO * wAMMA|position:4|webfile:instrumental_music/uphold_the_traditions_by_roz_fit_rno_wamma.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/uphold_the_traditions_by_roz_fit_rno_wamma.zip|youtube:Ms9JuH-RF6A
-title:funk´d|author:Skaleksi|position:5|webfile:instrumental_music/funk_d_by_skaleksi.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/funk_d_by_skaleksi.zip|youtube:38EPvk-4dYA
-title:End Of Sanity|author:St Fungus|position:6|webfile:instrumental_music/end_of_sanity_by_st_fungus.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/end_of_sanity_by_st_fungus.zip|youtube:TcLJqiDalXw
-title:Duel|author:Coloneil|position:7|webfile:instrumental_music/duel_by_coloneil.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/duel_by_coloneil_1.zip|youtube:6_5fZCxMDsY
-title:Sade|author:Asiamies Lorkki|position:8|webfile:instrumental_music/sade_by_asiamies_lorkki.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/sade_by_asiamies_lorkki.zip|youtube:c2mYZ_bnzHc
-title:it came from zaragoza|author:quasian|position:9|webfile:instrumental_music/it_came_from_zaragoza_by_quasian.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/it_came_from_zaragoza_by_quasian.zip|youtube:xUc02F-hCsM
-title:Allan Silta|author:ilmarque|position:10|webfile:instrumental_music/allan_silta_by_ilmarque.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/allan_silta_by_ilmarque.zip|youtube:FoxlbkgFBUY
-title:Short One|author:SounDemoN|position:11|webfile:instrumental_music/short_one_by_soundemon.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/short_one_by_soundemon.zip|youtube:GaTXj22b9KQ
-title:Top Gunsmith|author:ferrara / phObos team & DJ Ransom|position:12|webfile:instrumental_music/top_gunsmith_by_ferrara_phobos_team_dj_ransom.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/top_gunsmith_by_ferrara_phobos_team_dj_ransom.zip|youtube:qDT8T1zcJDw
-title:Mean Streak|author:Future Crew|position:13|webfile:instrumental_music/mean_streak_by_future_crew.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/mean_streak_by_future_crew.zip|youtube:k3NFsUu2cE4
-title:Day Turns To Night|author:Meridian / Clockwork Music|position:14|webfile:instrumental_music/day_turns_to_night_by_meridian_clockwork_music.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/day_turns_to_night_by_meridian_clockwork_music.zip|youtube:vgMzE3EhjWw
-title:Assembly ovation|author:kalachnikov|position:15|webfile:instrumental_music/assembly_ovation_by_kalachnikov.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/assembly_ovation_by_kalachnikov.zip|youtube:yShnpq6BTmU
-title:Last Chance, Last Opportunity|author:kerko|position:0|webfile:instrumental_music/last_chance_last_opportunity_by_kerko.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/last_chance_last_opportunity_by_kerko_1.zip|youtube:5hsECLAHyAg
-title:Stream Overflow|author:Buzzer and Mice of Brainstorm|position:0|webfile:instrumental_music/stream_overflow_by_buzzer_and_mice_of_brainstorm.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/stream_overflow_by_buzzer_and_mice_of_brainstorm.zip|youtube:n7uFDYfp3-k
-title:In The 4th Dimension|author:Kim Valori|position:0|webfile:instrumental_music/in_the_4th_dimension_by_kim_valori.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/in_the_4th_dimension_by_kim_valori.zip|youtube:usrESYcIRM8
-title:Deep Green Ocean|author:Latwis|position:0|webfile:instrumental_music/deep_green_ocean_by_latwis.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/deep_green_ocean_by_latwis.zip|youtube:pBgccFr9LPw
-title:Elusive|author:north vibes|position:0|webfile:instrumental_music/elusive_by_north_vibes.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/elusive_by_north_vibes.zip|youtube:BGcu2WxZcEg
-title:Ranta Radio|author:Jo B1|position:0|webfile:instrumental_music/ranta_radio_by_jo_b1.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/ranta_radio_by_jo_b1.zip|youtube:WZdnWzI49ac
-title:Yesterday's Journey|author:Signal|position:0|webfile:instrumental_music/yesterday_s_journey_by_signal.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/yesterday_s_journey_by_signal.zip|youtube:oi5c3rO8R28
-title:El Dorado|author:Salomon|position:0|webfile:instrumental_music/el_dorado_by_salomon.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/el_dorado_by_salomon.zip|youtube:clowVe5MNuc
-title:Highlight|author:Rocktech|position:0|webfile:instrumental_music/highlight_by_rocktech.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/highlight_by_rocktech.zip|youtube:tYPe8QZ_MQs
-title:Urania|author:snh|position:0|webfile:instrumental_music/urania_by_snh.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/urania_by_snh.zip|youtube:Ti5zZyqoEZM
-title:Bloody morning|author:Zorglups|position:0|webfile:instrumental_music/bloody_morning_by_zorglups.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/bloody_morning_by_zorglups.zip|youtube:y8fjaL7ihY0
-title:wooden rocks|author:wu-king|position:0|webfile:instrumental_music/wooden_rocks_by_wu_king.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/wooden_rocks_by_wu-king.zip|youtube:6ZjNqmBUwqQ
-title:Guard|author:Shadikka|position:0|webfile:instrumental_music/guard_by_shadikka.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/guard_by_shadikka.zip|youtube:tfd9Mpf6maQ
-title:Ambient Adventure|author:marzu|position:0|webfile:instrumental_music/ambient_adventure_by_marzu.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/ambient_adventure_by_marzu.zip|youtube:dES9AlRq-Rs
-title:Tricot 6 Cute Little Pony Ride|author:Kallisti|position:0|webfile:instrumental_music/tricot_6_cute_little_pony_ride_by_kallisti.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/tricot_6_cute_little_pony_ride_by_kallisti.zip|youtube:hpztI-uBnCo
-title:Lord of The Flies|author:GNOL|position:0|webfile:instrumental_music/lord_of_the_flies_by_gnol.mp3|sceneorg:/parties/2006/assembly06/music/instrumental/lord_of_the_flies_by_gnol.zip|youtube:1wOFThGdPn0
+author:Cairbre|position:1|sceneorg:/parties/2006/assembly06/music/instrumental/this_week_i_ve_been_mostly_playing_guitar_by_cairbre.zip|title:This Week I've Been Mostly Playing Guitar|webfile:instrumental_music/this_week_i_ve_been_mostly_playing_guitar_by_cairbre.mp3|youtube:zdTyb2d83m8
+author:Aikapallo|position:2|sceneorg:/parties/2006/assembly06/music/instrumental/heavy_metal_ownager_by_aikapallo.zip|title:Heavy Metal Ownager|webfile:instrumental_music/heavy_metal_ownager_by_aikapallo.mp3|youtube:Iik8SrYiJBM
+author:Little Bitchard|position:3|sceneorg:/parties/2006/assembly06/music/instrumental/further_adventures_of_agent_mustakallio_by_little_bitchard.zip|title:Further Adventures of Agent Mustakallio|webfile:instrumental_music/further_adventures_of_agent_mustakallio_by_little_bitchard.mp3|youtube:FomDXyBbLHA
+author:Roz / Fit * RNO * wAMMA|position:4|sceneorg:/parties/2006/assembly06/music/instrumental/uphold_the_traditions_by_roz_fit_rno_wamma.zip|title:Uphold the Traditions|webfile:instrumental_music/uphold_the_traditions_by_roz_fit_rno_wamma.mp3|youtube:Ms9JuH-RF6A
+author:Skaleksi|position:5|sceneorg:/parties/2006/assembly06/music/instrumental/funk_d_by_skaleksi.zip|title:funk´d|webfile:instrumental_music/funk_d_by_skaleksi.mp3|youtube:38EPvk-4dYA
+author:St Fungus|position:6|sceneorg:/parties/2006/assembly06/music/instrumental/end_of_sanity_by_st_fungus.zip|title:End Of Sanity|webfile:instrumental_music/end_of_sanity_by_st_fungus.mp3|youtube:TcLJqiDalXw
+author:Coloneil|position:7|sceneorg:/parties/2006/assembly06/music/instrumental/duel_by_coloneil_1.zip|title:Duel|webfile:instrumental_music/duel_by_coloneil.mp3|youtube:6_5fZCxMDsY
+author:Asiamies Lorkki|position:8|sceneorg:/parties/2006/assembly06/music/instrumental/sade_by_asiamies_lorkki.zip|title:Sade|webfile:instrumental_music/sade_by_asiamies_lorkki.mp3|youtube:c2mYZ_bnzHc
+author:quasian|position:9|sceneorg:/parties/2006/assembly06/music/instrumental/it_came_from_zaragoza_by_quasian.zip|title:it came from zaragoza|webfile:instrumental_music/it_came_from_zaragoza_by_quasian.mp3|youtube:xUc02F-hCsM
+author:ilmarque|position:10|sceneorg:/parties/2006/assembly06/music/instrumental/allan_silta_by_ilmarque.zip|title:Allan Silta|webfile:instrumental_music/allan_silta_by_ilmarque.mp3|youtube:FoxlbkgFBUY
+author:SounDemoN|position:11|sceneorg:/parties/2006/assembly06/music/instrumental/short_one_by_soundemon.zip|title:Short One|webfile:instrumental_music/short_one_by_soundemon.mp3|youtube:GaTXj22b9KQ
+author:ferrara / phObos team & DJ Ransom|position:12|sceneorg:/parties/2006/assembly06/music/instrumental/top_gunsmith_by_ferrara_phobos_team_dj_ransom.zip|title:Top Gunsmith|webfile:instrumental_music/top_gunsmith_by_ferrara_phobos_team_dj_ransom.mp3|youtube:qDT8T1zcJDw
+author:Future Crew|position:13|sceneorg:/parties/2006/assembly06/music/instrumental/mean_streak_by_future_crew.zip|title:Mean Streak|webfile:instrumental_music/mean_streak_by_future_crew.mp3|youtube:k3NFsUu2cE4
+author:Meridian / Clockwork Music|position:14|sceneorg:/parties/2006/assembly06/music/instrumental/day_turns_to_night_by_meridian_clockwork_music.zip|title:Day Turns To Night|webfile:instrumental_music/day_turns_to_night_by_meridian_clockwork_music.mp3|youtube:vgMzE3EhjWw
+author:kalachnikov|position:15|sceneorg:/parties/2006/assembly06/music/instrumental/assembly_ovation_by_kalachnikov.zip|title:Assembly ovation|webfile:instrumental_music/assembly_ovation_by_kalachnikov.mp3|youtube:yShnpq6BTmU
+author:kerko|sceneorg:/parties/2006/assembly06/music/instrumental/last_chance_last_opportunity_by_kerko_1.zip|title:Last Chance, Last Opportunity|webfile:instrumental_music/last_chance_last_opportunity_by_kerko.mp3|youtube:5hsECLAHyAg
+author:Buzzer and Mice of Brainstorm|sceneorg:/parties/2006/assembly06/music/instrumental/stream_overflow_by_buzzer_and_mice_of_brainstorm.zip|title:Stream Overflow|webfile:instrumental_music/stream_overflow_by_buzzer_and_mice_of_brainstorm.mp3|youtube:n7uFDYfp3-k
+author:Kim Valori|sceneorg:/parties/2006/assembly06/music/instrumental/in_the_4th_dimension_by_kim_valori.zip|title:In The 4th Dimension|webfile:instrumental_music/in_the_4th_dimension_by_kim_valori.mp3|youtube:usrESYcIRM8
+author:Latwis|sceneorg:/parties/2006/assembly06/music/instrumental/deep_green_ocean_by_latwis.zip|title:Deep Green Ocean|webfile:instrumental_music/deep_green_ocean_by_latwis.mp3|youtube:pBgccFr9LPw
+author:north vibes|sceneorg:/parties/2006/assembly06/music/instrumental/elusive_by_north_vibes.zip|title:Elusive|webfile:instrumental_music/elusive_by_north_vibes.mp3|youtube:BGcu2WxZcEg
+author:Jo B1|sceneorg:/parties/2006/assembly06/music/instrumental/ranta_radio_by_jo_b1.zip|title:Ranta Radio|webfile:instrumental_music/ranta_radio_by_jo_b1.mp3|youtube:WZdnWzI49ac
+author:Signal|sceneorg:/parties/2006/assembly06/music/instrumental/yesterday_s_journey_by_signal.zip|title:Yesterday's Journey|webfile:instrumental_music/yesterday_s_journey_by_signal.mp3|youtube:oi5c3rO8R28
+author:Salomon|sceneorg:/parties/2006/assembly06/music/instrumental/el_dorado_by_salomon.zip|title:El Dorado|webfile:instrumental_music/el_dorado_by_salomon.mp3|youtube:clowVe5MNuc
+author:Rocktech|sceneorg:/parties/2006/assembly06/music/instrumental/highlight_by_rocktech.zip|title:Highlight|webfile:instrumental_music/highlight_by_rocktech.mp3|youtube:tYPe8QZ_MQs
+author:snh|sceneorg:/parties/2006/assembly06/music/instrumental/urania_by_snh.zip|title:Urania|webfile:instrumental_music/urania_by_snh.mp3|youtube:Ti5zZyqoEZM
+author:Zorglups|sceneorg:/parties/2006/assembly06/music/instrumental/bloody_morning_by_zorglups.zip|title:Bloody morning|webfile:instrumental_music/bloody_morning_by_zorglups.mp3|youtube:y8fjaL7ihY0
+author:wu-king|sceneorg:/parties/2006/assembly06/music/instrumental/wooden_rocks_by_wu-king.zip|title:wooden rocks|webfile:instrumental_music/wooden_rocks_by_wu_king.mp3|youtube:6ZjNqmBUwqQ
+author:Shadikka|sceneorg:/parties/2006/assembly06/music/instrumental/guard_by_shadikka.zip|title:Guard|webfile:instrumental_music/guard_by_shadikka.mp3|youtube:tfd9Mpf6maQ
+author:marzu|sceneorg:/parties/2006/assembly06/music/instrumental/ambient_adventure_by_marzu.zip|title:Ambient Adventure|webfile:instrumental_music/ambient_adventure_by_marzu.mp3|youtube:dES9AlRq-Rs
+author:Kallisti|sceneorg:/parties/2006/assembly06/music/instrumental/tricot_6_cute_little_pony_ride_by_kallisti.zip|title:Tricot 6 Cute Little Pony Ride|webfile:instrumental_music/tricot_6_cute_little_pony_ride_by_kallisti.mp3|youtube:hpztI-uBnCo
+author:GNOL|sceneorg:/parties/2006/assembly06/music/instrumental/lord_of_the_flies_by_gnol.zip|title:Lord of The Flies|webfile:instrumental_music/lord_of_the_flies_by_gnol.mp3|youtube:1wOFThGdPn0
+
 
 :section 4k intro
+:youtube-playlist EB51A1DA87B16EBF
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2006 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Glitterati|author:Fairlight|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|sceneorg:/parties/2006/assembly06/in4k/glitterati_by_fairlight.zip|pouet:25755|dtv:id_file=1474&id_prod=12622&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25755_1.png&width=512&height=404|youtube:RjEEMp_zJX8
-title:Andromedary|author:tAAt & XZM|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|sceneorg:/parties/2006/assembly06/in4k/andromedary_by_taat_xzm.zip|pouet:25756|dtv:id_file=1476&id_prod=12623&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25756_1.jpg&width=512&height=404|youtube:ycdkZh5W7Qg
-title:The Thing|author:Prophecy / Unknown Artistis|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|sceneorg:/parties/2006/assembly06/in4k/the_thing_by_prophecy_unknown_artistis.zip|pouet:25757|youtube:qs1nKwma9Zg
-title:Rhythm 2|author:Dreadful sight|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|sceneorg:/parties/2006/assembly06/in4k/rhythm_2_by_dreadful_sight.zip|pouet:25758|youtube:RiLEwvyNTZ4
-title:K'tr4kt|author:Northern Dragons|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|sceneorg:/parties/2006/assembly06/in4k/k_tr4kt_by_northern_dragons.zip|pouet:25761|dtv:id_file=1477&id_prod=12624&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/k_tr4kt.jpg&width=512&height=404|youtube:3799KtdlJTw
-title:Shroom|author:kiirala|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/shroom_by_kiirala.avi|sceneorg:/parties/2006/assembly06/in4k/shroom_by_kiirala.tar.gz|pouet:25759|youtube:kEDx_EwDFXE
-title:Last Man Swinging|author:Fingersoft|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|sceneorg:/parties/2006/assembly06/in4k/last_man_swinging_by_fingersoft.zip|pouet:25760|youtube:OtLWSd5Xl90
-title:DRM I - The First Element|author:Dragon Magic|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|sceneorg:/parties/2006/assembly06/in4k/drm_i_-_the_first_element_by_dragon_magic.zip|pouet:25762|youtube:fFXp6LDS4zk
+author:Fairlight|dtv:id_file=1474&id_prod=12622&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25755_1.png&width=512&height=404|position:1|pouet:25755|sceneorg:/parties/2006/assembly06/in4k/glitterati_by_fairlight.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/glitterati_by_fairlight.avi|title:Glitterati|youtube:RjEEMp_zJX8
+author:tAAt & XZM|dtv:id_file=1476&id_prod=12623&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25756_1.jpg&width=512&height=404|position:2|pouet:25756|sceneorg:/parties/2006/assembly06/in4k/andromedary_by_taat_xzm.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/andromedary_by_taat_xzm.avi|title:Andromedary|youtube:ycdkZh5W7Qg
+author:Prophecy / Unknown Artistis|position:3|pouet:25757|sceneorg:/parties/2006/assembly06/in4k/the_thing_by_prophecy_unknown_artistis.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/the_thing_by_prophecy_of_unknown_artistis.avi|title:The Thing|youtube:qs1nKwma9Zg
+author:Dreadful sight|position:4|pouet:25758|sceneorg:/parties/2006/assembly06/in4k/rhythm_2_by_dreadful_sight.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/rhythm_2_by_dreadful_sight.avi|title:Rhythm 2|youtube:RiLEwvyNTZ4
+author:Northern Dragons|dtv:id_file=1477&id_prod=12624&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/k_tr4kt.jpg&width=512&height=404|position:5|pouet:25761|sceneorg:/parties/2006/assembly06/in4k/k_tr4kt_by_northern_dragons.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/k'tr4kt_by_northern_dragons.avi|title:K'tr4kt|youtube:3799KtdlJTw
+author:kiirala|position:6|pouet:25759|sceneorg:/parties/2006/assembly06/in4k/shroom_by_kiirala.tar.gz|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/shroom_by_kiirala.avi|title:Shroom|youtube:kEDx_EwDFXE
+author:Fingersoft|position:7|pouet:25760|sceneorg:/parties/2006/assembly06/in4k/last_man_swinging_by_fingersoft.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/last_man_swinging_by_fingersoft.avi|title:Last Man Swinging|youtube:OtLWSd5Xl90
+author:Dragon Magic|position:8|pouet:25762|sceneorg:/parties/2006/assembly06/in4k/drm_i_-_the_first_element_by_dragon_magic.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/in4k/drm_i_-_the_first_element_by_dragon_magic.avi|title:DRM I - The First Element|youtube:fFXp6LDS4zk
 
 
 :section Short film
+:youtube-playlist DF5EF8DC1DEBAF74
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-title:Wild Food|author:Tekotuotanto|position:1|webfile:short_film/wild_food_by_tekotuotanto.avi|media:/vod/2006/compos/145_wild_food_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/wild_food_xvid_1856kbps.avi|pouet:27937|youtube:zfE-OddHiNQ
-title:What's up with adults|author:maxon|position:2|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|media:/vod/2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|pouet:25871|youtube:lWQl5StpmSw
-title:Lelulaatikon demohetki|author:Plaumau pluki pluki|position:3|webfile:short_film/lelulaatikon_demohetki_by_plaumau_pluki_pluki.avi|media:/vod/2006/compos/134_lelulaatikon_demohetki_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/lelulaatikon_demohetki_xvid_1856kbps.avi|youtube:soiy3NjUvxk
-title:Unknown Media|author:TimeScratchers|position:4|webfile:short_film/unknown_media_by_timescratchers.avi|media:/vod/2006/compos/153_unknown_media_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/unknown_media_xvid_1856kbps.avi|pouet:25818|youtube:uS3Zmvb535A
-title:X Rules|author:CyBrod|position:5|webfile:short_film/x_rules_by_cybrod.avi|media:/vod/2006/compos/139_x_rules_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/x_rules_xvid_1856kbps.avi|youtube:qx9CIPQ6Gko
-title:First Contact|author:Hazel / Future Vision|position:6|webfile:short_film/first_contact_by_hazel_future_vision.avi|media:/vod/2006/compos/194_first_contact_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/first_contact_xvid_1856kbps.avi|pouet:25773|youtube:unWcvowm8mc
-title:Tekopohjavesi - Artificial Bilge|author:tAAt|position:7|webfile:short_film/tekopohjavesi_artificial_bilge_by_taat.avi|media:/vod/2006/compos/198_tekopohjavesi_artificial_bilge_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/tekopohjavesi_artificial_bilge_xvid_1856kbps.avi|youtube:oB5bR7pu8sA
-title:Korch Fu|author:Innovators|position:8|webfile:short_film/korch_fu_by_innovators.avi|media:/vod/2006/compos/152_korch_fu_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/korch_fu_xvid_1856kbps.avi|pouet:25770|youtube:R7J7Er5R1OM
-title:Confront|author:HOViNET team|position:9|webfile:short_film/confront_by_hovinet_team.avi|media:/vod/2006/compos/148_confront_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/confront_xvid_1856kbps.avi|youtube:Y2tDO-CPIj0
-title:Sankari|author:Senseless Bricklayer Animations|position:10|webfile:short_film/sankari_by_senseless_bricklayer_animations.avi|media:/vod/2006/compos/216_sankari_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/sankari_xvid_1856kbps.avi|youtube:uaTIvnj7dEY
-title:AgonyTorment|author:Nosfe|position:0|webfile:short_film/agonytorment_by_nosfe.mp4|media:/vod/2006/compos/149_agonytorment_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/nosfe-agonytorment.mp4|pouet:25767|youtube:UNPcGxx2fCA
-title:drugs|author:Jumalauta|position:0|webfile:short_film/drugs_by_jumalauta.avi|media:/vod/2006/compos/150_drugs_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/drugs_xvid_1856kbps.avi|youtube:T5QQJfrzybg
-title:Abyss ja Pehu|author:Valot Pois|position:0
-title:bugi.cs|author:Kamikaze films|position:0
-title:Serious Sauna Trip|author:Sähköliike|position:0|webfile:short_film/serious_sauna_trip_by_s_hk_liike.avi|media:/vod/2006/compos/136_serious_sauna_trip_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/serious_sauna_trip_xvid_1856kbps.avi|youtube:WdLWLWRp34s
-title:Keybored|author:Jadajada|position:0|webfile:short_film/keybored_by_jadajada.avi|media:/vod/2006/compos/147_keybored_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/keybored_xvid_1856kbps.avi|youtube:G-FpZ2m5ZGY
+author:Tekotuotanto|media:/vod/2006/compos/145_wild_food_h264_1856kbps.mp4|position:1|pouet:27937|sceneorg:/parties/2006/assembly06/short_film/wild_food_xvid_1856kbps.avi|title:Wild Food|webfile:short_film/wild_food_by_tekotuotanto.avi|youtube:zfE-OddHiNQ
+author:maxon|media:/vod/2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|position:2|pouet:25871|sceneorg:/parties/2006/assembly06/short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|title:What's up with adults|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|youtube:lWQl5StpmSw
+author:Plaumau pluki pluki|media:/vod/2006/compos/134_lelulaatikon_demohetki_h264_1856kbps.mp4|position:3|sceneorg:/parties/2006/assembly06/short_film/lelulaatikon_demohetki_xvid_1856kbps.avi|title:Lelulaatikon demohetki|webfile:short_film/lelulaatikon_demohetki_by_plaumau_pluki_pluki.avi|youtube:soiy3NjUvxk
+author:TimeScratchers|media:/vod/2006/compos/153_unknown_media_h264_1856kbps.mp4|position:4|pouet:25818|sceneorg:/parties/2006/assembly06/short_film/unknown_media_xvid_1856kbps.avi|title:Unknown Media|webfile:short_film/unknown_media_by_timescratchers.avi|youtube:uS3Zmvb535A
+author:CyBrod|media:/vod/2006/compos/139_x_rules_h264_1856kbps.mp4|position:5|sceneorg:/parties/2006/assembly06/short_film/x_rules_xvid_1856kbps.avi|title:X Rules|webfile:short_film/x_rules_by_cybrod.avi|youtube:qx9CIPQ6Gko
+author:Hazel / Future Vision|media:/vod/2006/compos/194_first_contact_h264_1856kbps.mp4|position:6|pouet:25773|sceneorg:/parties/2006/assembly06/short_film/first_contact_xvid_1856kbps.avi|title:First Contact|webfile:short_film/first_contact_by_hazel_future_vision.avi|youtube:unWcvowm8mc
+author:tAAt|media:/vod/2006/compos/198_tekopohjavesi_artificial_bilge_h264_1856kbps.mp4|position:7|sceneorg:/parties/2006/assembly06/short_film/tekopohjavesi_artificial_bilge_xvid_1856kbps.avi|title:Tekopohjavesi - Artificial Bilge|webfile:short_film/tekopohjavesi_artificial_bilge_by_taat.avi|youtube:oB5bR7pu8sA
+author:Innovators|media:/vod/2006/compos/152_korch_fu_h264_1856kbps.mp4|position:8|pouet:25770|sceneorg:/parties/2006/assembly06/short_film/korch_fu_xvid_1856kbps.avi|title:Korch Fu|webfile:short_film/korch_fu_by_innovators.avi|youtube:R7J7Er5R1OM
+author:HOViNET team|media:/vod/2006/compos/148_confront_h264_1856kbps.mp4|position:9|sceneorg:/parties/2006/assembly06/short_film/confront_xvid_1856kbps.avi|title:Confront|webfile:short_film/confront_by_hovinet_team.avi|youtube:Y2tDO-CPIj0
+author:Senseless Bricklayer Animations|media:/vod/2006/compos/216_sankari_h264_1856kbps.mp4|position:10|sceneorg:/parties/2006/assembly06/short_film/sankari_xvid_1856kbps.avi|title:Sankari|webfile:short_film/sankari_by_senseless_bricklayer_animations.avi|youtube:uaTIvnj7dEY
+author:Nosfe|media:/vod/2006/compos/149_agonytorment_h264_1856kbps.mp4|pouet:25767|sceneorg:/parties/2006/assembly06/short_film/nosfe-agonytorment.mp4|title:AgonyTorment|webfile:short_film/agonytorment_by_nosfe.mp4|youtube:UNPcGxx2fCA
+author:Jumalauta|media:/vod/2006/compos/150_drugs_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/drugs_xvid_1856kbps.avi|title:drugs|webfile:short_film/drugs_by_jumalauta.avi|youtube:T5QQJfrzybg
+author:Valot Pois|title:Abyss ja Pehu
+author:Kamikaze films|title:bugi.cs
+author:Sähköliike|media:/vod/2006/compos/136_serious_sauna_trip_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/serious_sauna_trip_xvid_1856kbps.avi|title:Serious Sauna Trip|webfile:short_film/serious_sauna_trip_by_s_hk_liike.avi|youtube:WdLWLWRp34s
+author:Jadajada|media:/vod/2006/compos/147_keybored_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/keybored_xvid_1856kbps.avi|title:Keybored|webfile:short_film/keybored_by_jadajada.avi|youtube:G-FpZ2m5ZGY
 
 
 :section Demo
+:youtube-playlist 42317EE402EBA8F8
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2006 PC computer.</p>
 
-title:Starstruck|author:TBL|position:1|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/starstruck_by_tbl.avi|sceneorg:/parties/2006/assembly06/demo/tbl-starstruck-partyversion.zip|pouet:25778|dtv:id_file=1484&id_prod=12631&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25778_1.png&width=512&height=404|youtube:qVL-pG3mpd8|cappedtv:1214091572-1-0&width=640&height=394
-title:track one|author:fairlight|position:2|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/track_one_by_fairlight.avi|sceneorg:/parties/2006/assembly06/demo/track_one_by_fairlight.zip|pouet:25781|dtv:id_file=1485&id_prod=12611&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25781_1.jpg&width=512&height=404|youtube:dfKB1T5aA3k|cappedtv:fairlight-track_one&width=640&height=480
-title:1995|author:Kewlers & mfx|position:3|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|sceneorg:/parties/2006/assembly06/demo/1995_by_kewlers_mfx.zip|pouet:25783|dtv:id_file=1486&id_prod=12612&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25783_1.jpg&width=512&height=404|youtube:Zge49NcAvlg|cappedtv:1206906621-1-0&width=640&height=352
-title:BOMBMAN|author:Matt Current|position:4|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bombman_by_matt_current.avi|sceneorg:/parties/2006/assembly06/demo/bombman_by_matt_current.zip|pouet:25782|dtv:id_file=1487&id_prod=12613&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25782_1.jpg&width=512&height=404|youtube:orcEFuGo168
-title:2^5|author:Traction|position:5|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/2_5_by_traction.avi|sceneorg:/parties/2006/assembly06/demo/traction_25_final.zip|pouet:25779|dtv:id_file=1488&id_prod=12628&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25779_1.jpg&width=512&height=404|youtube:U0DXgk8Rbcc
-title:telos|author:portal process|position:6|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/telos_by_portal_process.avi|sceneorg:/parties/2006/assembly06/demo/telos_by_portal_process.zip|pouet:25780|dtv:id_file=1489&id_prod=12614&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25780_1.jpg&width=512&height=404|youtube:wWHeZQ-ZY0k
-title:Primate Theory|author:Unknown Artists|position:7|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|sceneorg:/parties/2006/assembly06/demo/primate_theory_by_unknown_artists.zip|pouet:25787|dtv:id_file=1490&id_prod=12615&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25787_1.jpg&width=512&height=404|youtube:mpYTkDoSRQQ
-title:Diskoalifight|author:wAMMA|position:8|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|sceneorg:/parties/2006/assembly06/demo/diskoalifight_by_wamma.zip|pouet:25789|youtube:_ZgklfksHmU
-title:Iterate|author:imbusy&xerxes|position:9|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|sceneorg:/parties/2006/assembly06/demo/iterate_by_imbusy_xerxes.zip|pouet:25796|dtv:id_file=1772&id_prod=12838&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25796_1.jpg&width=512&height=404|youtube:FCyxObGCfSM
-title:The barythymia|author:Division|position:10|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_barythymia_by_division.avi|sceneorg:/parties/2006/assembly06/demo/the_barythymia_by_division.zip|pouet:25788|youtube:I3dWU0gUIkI
-title:Bacardi Cola|author:Moonhazard|position:11|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|sceneorg:/parties/2006/assembly06/demo/bacardi_cola_by_moonhazard.zip|pouet:25790|youtube:LSbloNS4OGU
-title:Da Scene|author:Deagrace|position:12|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/da_scene_by_deagrace.avi|sceneorg:/parties/2006/assembly06/demo/da_scene_by_deagrace.zip|pouet:25785|youtube:qstqO1LQ7VA
-title:Formal Obsessions|author:Adapt|position:13|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|sceneorg:/parties/2006/assembly06/demo/formal_obsessions_by_adapt.zip|pouet:25786|youtube:qQVqrScJ4k4
-title:The Winter Party|author:IT-Forge|position:14|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|sceneorg:/parties/2006/assembly06/demo/the_winter_party_by_it-forge.zip|pouet:25784|youtube:upGwaQR2Drc
+author:TBL|cappedtv:1214091572-1-0&width=640&height=394|dtv:id_file=1484&id_prod=12631&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25778_1.png&width=512&height=404|position:1|pouet:25778|sceneorg:/parties/2006/assembly06/demo/tbl-starstruck-partyversion.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/starstruck_by_tbl.avi|title:Starstruck|youtube:qVL-pG3mpd8
+author:fairlight|cappedtv:fairlight-track_one&width=640&height=480|dtv:id_file=1485&id_prod=12611&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25781_1.jpg&width=512&height=404|position:2|pouet:25781|sceneorg:/parties/2006/assembly06/demo/track_one_by_fairlight.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/track_one_by_fairlight.avi|title:track one|youtube:dfKB1T5aA3k
+author:Kewlers & mfx|cappedtv:1206906621-1-0&width=640&height=352|dtv:id_file=1486&id_prod=12612&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25783_1.jpg&width=512&height=404|position:3|pouet:25783|sceneorg:/parties/2006/assembly06/demo/1995_by_kewlers_mfx.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/1995_by_kewlers___mfx.avi|title:1995|youtube:Zge49NcAvlg
+author:Matt Current|dtv:id_file=1487&id_prod=12613&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25782_1.jpg&width=512&height=404|position:4|pouet:25782|sceneorg:/parties/2006/assembly06/demo/bombman_by_matt_current.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bombman_by_matt_current.avi|title:BOMBMAN|youtube:orcEFuGo168
+author:Traction|dtv:id_file=1488&id_prod=12628&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25779_1.jpg&width=512&height=404|position:5|pouet:25779|sceneorg:/parties/2006/assembly06/demo/traction_25_final.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/2_5_by_traction.avi|title:2^5|youtube:U0DXgk8Rbcc
+author:portal process|dtv:id_file=1489&id_prod=12614&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25780_1.jpg&width=512&height=404|position:6|pouet:25780|sceneorg:/parties/2006/assembly06/demo/telos_by_portal_process.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/telos_by_portal_process.avi|title:telos|youtube:wWHeZQ-ZY0k
+author:Unknown Artists|dtv:id_file=1490&id_prod=12615&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25787_1.jpg&width=512&height=404|position:7|pouet:25787|sceneorg:/parties/2006/assembly06/demo/primate_theory_by_unknown_artists.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/primate_theory_by_unknown_artists.avi|title:Primate Theory|youtube:mpYTkDoSRQQ
+author:wAMMA|position:8|pouet:25789|sceneorg:/parties/2006/assembly06/demo/diskoalifight_by_wamma.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/diskoalifight_by_wamma.avi|title:Diskoalifight|youtube:_ZgklfksHmU
+author:imbusy&xerxes|dtv:id_file=1772&id_prod=12838&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25796_1.jpg&width=512&height=404|position:9|pouet:25796|sceneorg:/parties/2006/assembly06/demo/iterate_by_imbusy_xerxes.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/iterate_by_imbusy_xerxes.avi|title:Iterate|youtube:FCyxObGCfSM
+author:Division|position:10|pouet:25788|sceneorg:/parties/2006/assembly06/demo/the_barythymia_by_division.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_barythymia_by_division.avi|title:The barythymia|youtube:I3dWU0gUIkI
+author:Moonhazard|position:11|pouet:25790|sceneorg:/parties/2006/assembly06/demo/bacardi_cola_by_moonhazard.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/bacardi_cola_by_moonhazard.avi|title:Bacardi Cola|youtube:LSbloNS4OGU
+author:Deagrace|position:12|pouet:25785|sceneorg:/parties/2006/assembly06/demo/da_scene_by_deagrace.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/da_scene_by_deagrace.avi|title:Da Scene|youtube:qstqO1LQ7VA
+author:Adapt|position:13|pouet:25786|sceneorg:/parties/2006/assembly06/demo/formal_obsessions_by_adapt.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/formal_obsessions_by_adapt.avi|title:Formal Obsessions|youtube:qQVqrScJ4k4
+author:IT-Forge|position:14|pouet:25784|sceneorg:/parties/2006/assembly06/demo/the_winter_party_by_it-forge.zip|sceneorgvideo:/parties/2006/assembly06/compo_videos/dvavi/demo/the_winter_party_by_it-forge.avi|title:The Winter Party|youtube:upGwaQR2Drc
 
 
 :section Browser demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Browser demo competition limited entries to use 2006 version of browsers on a high-end PC.</p>
 
-title:Who Killed Travolta?|author:Evo Flash / Bombsquad|position:1|sceneorg:/parties/2006/assembly06/browser_demo/who_killed_travolta_by_evo_flash_bombsquad.zip|pouet:25802
-title:Tokyo-Bangkok-Tokyo|author:Pyrotech|position:2|sceneorg:/parties/2006/assembly06/browser_demo/tokyo-bangkok-tokyo_by_pyrotech.zip|pouet:25813|dtv:id_file=5435&id_prod=13649&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25813_1.jpg&width=512&height=404
-title:Even More Explosions in the Sky|author:jac|position:3|sceneorg:/parties/2006/assembly06/browser_demo/even_more_explosions_in_the_sky_by_jac_2.zip|pouet:25803
-title:Gallions Reach|author:Gasman|position:4|sceneorg:/parties/2006/assembly06/browser_demo/gallions_reach_by_gasman_1.zip|pouet:25800
-title:Seed Vessel|author:Lootikko|position:5|sceneorg:/parties/2006/assembly06/browser_demo/seed_vessel_by_lootikko.zip
-title:SqUaReThRuSteR|author:MiiKA & tEEMU BRoDUCTiONz|position:6|sceneorg:/parties/2006/assembly06/browser_demo/squarethruster_by_miika_teemu_broductionz.zip
-title:demo|author:Dreadful Sight|position:7|sceneorg:/parties/2006/assembly06/browser_demo/demo_by_dreadful_sight.zip
-title:Pyhä Saniainen|author:IKU|position:0|sceneorg:/parties/2006/assembly06/browser_demo/pyh_saniainen_by_iku.zip
-title:Neja Nova|author:p01, kenet|position:0|sceneorg:/parties/2006/assembly06/browser_demo/neja_nova_by_p01_kenet.zip
-title:Club Orkut|author:Sciuridae|position:0|sceneorg:/parties/2006/assembly06/browser_demo/club_orkut_by_sciuridae_1.zip
+author:Evo Flash / Bombsquad|position:1|pouet:25802|sceneorg:/parties/2006/assembly06/browser_demo/who_killed_travolta_by_evo_flash_bombsquad.zip|title:Who Killed Travolta?
+author:Pyrotech|dtv:id_file=5435&id_prod=13649&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/25813_1.jpg&width=512&height=404|position:2|pouet:25813|sceneorg:/parties/2006/assembly06/browser_demo/tokyo-bangkok-tokyo_by_pyrotech.zip|title:Tokyo-Bangkok-Tokyo
+author:jac|position:3|pouet:25803|sceneorg:/parties/2006/assembly06/browser_demo/even_more_explosions_in_the_sky_by_jac_2.zip|title:Even More Explosions in the Sky
+author:Gasman|position:4|pouet:25800|sceneorg:/parties/2006/assembly06/browser_demo/gallions_reach_by_gasman_1.zip|title:Gallions Reach
+author:Lootikko|position:5|sceneorg:/parties/2006/assembly06/browser_demo/seed_vessel_by_lootikko.zip|title:Seed Vessel
+author:MiiKA & tEEMU BRoDUCTiONz|position:6|sceneorg:/parties/2006/assembly06/browser_demo/squarethruster_by_miika_teemu_broductionz.zip|title:SqUaReThRuSteR
+author:Dreadful Sight|position:7|sceneorg:/parties/2006/assembly06/browser_demo/demo_by_dreadful_sight.zip|title:demo
+author:IKU|sceneorg:/parties/2006/assembly06/browser_demo/pyh_saniainen_by_iku.zip|title:Pyhä Saniainen
+author:p01, kenet|sceneorg:/parties/2006/assembly06/browser_demo/neja_nova_by_p01_kenet.zip|title:Neja Nova
+author:Sciuridae|sceneorg:/parties/2006/assembly06/browser_demo/club_orkut_by_sciuridae_1.zip|title:Club Orkut
+
 
 :section Freestyle music
+:youtube-playlist 2F6DF56167BB7ACC
 :description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
-title:Showdown at Sunset|author:Paavo "Tarantula" Härkönen|position:1|webfile:freestyle_music/showdown_at_sunset_by_paavo_tarantula_h_rk_nen.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/showdown_at_sunset_by_paavo_tarantula_h_rk_nen.zip|youtube:F5YG1CemGOA
-title:Choose Zero Polys and Shaders|author:Little Bitchard|position:2|webfile:freestyle_music/choose_zero_polys_and_shaders_by_little_bitchard.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/choose_zero_polys_and_shaders_by_little_bitchard.zip|youtube:X5MzcUqetqw
-title:Bang Bang, Mystery Man|author:Mary Jo feat. Cairbre|position:3|webfile:freestyle_music/bang_bang_mystery_man_by_mary_jo_feat_cairbre.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/bang_bang_mystery_man_by_mary_jo_feat_cairbre.zip|youtube:OBYl22g_tic
-title:Menace|author:_pk_|position:4|webfile:freestyle_music/menace_by_pk.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/menace_by_pk.zip|youtube:Tnf61BqfZvo
-title:Sarjamuhraajaja|author:Naapurit|position:5|webfile:freestyle_music/sarjamuhraajaja_by_naapurit.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/sarjamuhraajaja_by_naapurit.zip|youtube:rTPM6itznis
-title:ain't my way|author:quasian feat. susanna syrjä|position:6|webfile:freestyle_music/ain_t_my_way_by_quasian_feat_susanna_syrj.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/ain_t_my_way_by_quasian_feat_susanna_syrj.zip|youtube:g5oSATUFPAg
-title:Totta eikä unelmaa|author:djh|position:7|webfile:freestyle_music/totta_eik_unelmaa_by_djh.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/totta_eik_unelmaa_by_djh.zip|youtube:zQMM7aIGzfU
-title:Inches Away|author:Best of the Rest|position:8|webfile:freestyle_music/inches_away_by_best_of_the_rest.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/inches_away_by_best_of_the_rest.zip|youtube:ZOH3xL6cQxI
-title:Discombly|author:Roz / Fit * RNO * wAMMA|position:9|webfile:freestyle_music/discombly_by_roz_fit_rno_wamma.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/discombly_by_roz_fit_rno_wamma.zip|youtube:8bC7IP2uqRE
-title:When Time Stands Still|author:_pk_|position:10|webfile:freestyle_music/when_time_stands_still_by_pk.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/when_time_stands_still_by_pk.zip|youtube:tQXkpG685gg
-title:Avaruusvene|author:ilmarque|position:11|webfile:freestyle_music/avaruusvene_by_ilmarque.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/avaruusvene_by_ilmarque.zip|youtube:lzAouxtUOqk
-title:Je te parle d Amour|author:kalachnikov|position:12|webfile:freestyle_music/je_te_parle_d_amour_by_kalachnikov.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/je_te_parle_d_amour_by_kalachnikov.zip|youtube:BreAVNqz2eY
-title:Sometimes|author:Zorglups|position:13|webfile:freestyle_music/sometimes_by_zorglups.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/sometimes_by_zorglups.zip|youtube:32n_KeaDX4A
-title:Pitchfall|author:DJ Puppe|position:14|webfile:freestyle_music/pitchfall_by_dj_puppe.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/pitchfall_by_dj_puppe.zip|youtube:jItM623L2P4
-title:Mystery of Love|author:SweetDevil|position:15|webfile:freestyle_music/mystery_of_love_by_sweetdevil.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/mystery_of_love_by_sweetdevil.zip|youtube:aiYqh5IU7jg
-title:Say Again|author:SweetDevil Featuring SweetDevil brother|position:0|webfile:freestyle_music/say_again_by_sweetdevil_featuring_sweetdevil_brother.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/say_again_by_sweetdevil_featuring_sweetdevil_brother.zip|youtube:AV0EKbcuErA
-title:Robot Revolution|author:Meridian / Clockwork Music|position:0|webfile:freestyle_music/robot_revolution_by_meridian_clockwork_music.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/robot_revolution_by_meridian_clockwork_music.zip|youtube:AHgmbhWYKWQ
-title:Como el agua en su piel|author:Duo acustico de la cena|position:0|webfile:freestyle_music/como_el_agua_en_su_piel_by_duo_acustico_de_la_cena.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/como_el_agua_en_su_piel_by_duo_acustico_de_la_cena.zip|youtube:jyaHxD71g0Y
-title:Champagne|author:Monophonous Drone|position:0|webfile:freestyle_music/champagne_by_monophonous_drone.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/champagne_by_monophonous_drone.zip|youtube:zpjkVVPE62g
-title:Growing|author:Aisth|position:0|webfile:freestyle_music/growing_by_aisth.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/growing_by_aisth.zip|youtube:DNypzvwLBS0
-title:Future Reflections|author:Startoucher|position:0|webfile:freestyle_music/future_reflections_by_startoucher.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/future_reflections_by_startoucher.zip|youtube:6cLWDtb2NSg
-title:Kesäralli'06|author:HSC|position:0|webfile:freestyle_music/kes_ralli_06_by_hsc.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/kes_ralli_06_by_hsc.zip|youtube:U7PK_dOmE1Y
-title:Kunniavelka|author:St Fungus|position:0|webfile:freestyle_music/kunniavelka_by_st_fungus.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/kunniavelka_by_st_fungus.zip|youtube:URvG_FqIEBs
-title:B-Boy Stance|author:Full Flava|position:0|webfile:freestyle_music/b_boy_stance_by_full_flava.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/b-boy_stance_by_full_flava.zip|youtube:Il4TMjmYx7E
-title:Shish Tawook|author:marzu|position:0|webfile:freestyle_music/shish_tawook_by_marzu.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/shish_tawook_by_marzu.zip|youtube:Het2bQ_3s6E
-title:The Wizard and the Blues|author:Onomatopoetic Justice|position:0|webfile:freestyle_music/the_wizard_and_the_blues_by_onomatopoetic_justice.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/the_wizard_and_the_blues_by_onomatopoetic_justice.zip|youtube:Y6d3PmXc2FQ
-title:By your side|author:Sublevels|position:0|webfile:freestyle_music/by_your_side_by_sublevels.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/by_your_side_by_sublevels.zip|youtube:u70Zjhz2ehA
-title:your blood|author:wu-king|position:0|webfile:freestyle_music/your_blood_by_wu_king.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/your_blood_by_wu-king.zip|youtube:n_Bk3ARGGXU
-title:Klubiin|author:Rauta Jii|position:0|webfile:freestyle_music/klubiin_by_rauta_jii.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/klubiin_by_rauta_jii.zip|youtube:nq6PqY6cLWc
-title:Friends|author:tremayne featuring ilari|position:0|webfile:freestyle_music/friends_by_tremayne_featuring_ilari.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/friends_by_tremayne_featuring_ilari.zip|youtube:w9WPoEuo3rk
-title:I'm your dark angel queen B tonight (MkII)|author:Kallisti ^ Luna Lovegood Experience|position:0|webfile:freestyle_music/i_m_your_dark_angel_queen_b_tonight_mkii_by_kallisti_luna_lovegood_experience.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/i_m_your_dark_angel_queen_b_tonight_mkii_by_kallisti_luna_lovegood_experience.zip|youtube:4f8i1KkCLpw
-title:kesäloma kangasalla|author:b0rdL and mape|position:0|webfile:freestyle_music/kes_loma_kangasalla_by_b0rdl_and_mape.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/kes_loma_kangasalla_by_b0rdl_and_mape.zip|youtube:e6EsccEHdrk
-title:beatboxcore|author:Paradox|position:0|webfile:freestyle_music/beatboxcore_by_paradox.mp3|sceneorg:/parties/2006/assembly06/music/freestyle/beatboxcore_by_paradox.zip|youtube:s6iAi27Tx2o
+author:Paavo "Tarantula" Härkönen|position:1|sceneorg:/parties/2006/assembly06/music/freestyle/showdown_at_sunset_by_paavo_tarantula_h_rk_nen.zip|title:Showdown at Sunset|webfile:freestyle_music/showdown_at_sunset_by_paavo_tarantula_h_rk_nen.mp3|youtube:F5YG1CemGOA
+author:Little Bitchard|position:2|sceneorg:/parties/2006/assembly06/music/freestyle/choose_zero_polys_and_shaders_by_little_bitchard.zip|title:Choose Zero Polys and Shaders|webfile:freestyle_music/choose_zero_polys_and_shaders_by_little_bitchard.mp3|youtube:X5MzcUqetqw
+author:Mary Jo feat. Cairbre|position:3|sceneorg:/parties/2006/assembly06/music/freestyle/bang_bang_mystery_man_by_mary_jo_feat_cairbre.zip|title:Bang Bang, Mystery Man|webfile:freestyle_music/bang_bang_mystery_man_by_mary_jo_feat_cairbre.mp3|youtube:OBYl22g_tic
+author:_pk_|position:4|sceneorg:/parties/2006/assembly06/music/freestyle/menace_by_pk.zip|title:Menace|webfile:freestyle_music/menace_by_pk.mp3|youtube:Tnf61BqfZvo
+author:Naapurit|position:5|sceneorg:/parties/2006/assembly06/music/freestyle/sarjamuhraajaja_by_naapurit.zip|title:Sarjamuhraajaja|webfile:freestyle_music/sarjamuhraajaja_by_naapurit.mp3|youtube:rTPM6itznis
+author:quasian feat. susanna syrjä|position:6|sceneorg:/parties/2006/assembly06/music/freestyle/ain_t_my_way_by_quasian_feat_susanna_syrj.zip|title:ain't my way|webfile:freestyle_music/ain_t_my_way_by_quasian_feat_susanna_syrj.mp3|youtube:g5oSATUFPAg
+author:djh|position:7|sceneorg:/parties/2006/assembly06/music/freestyle/totta_eik_unelmaa_by_djh.zip|title:Totta eikä unelmaa|webfile:freestyle_music/totta_eik_unelmaa_by_djh.mp3|youtube:zQMM7aIGzfU
+author:Best of the Rest|position:8|sceneorg:/parties/2006/assembly06/music/freestyle/inches_away_by_best_of_the_rest.zip|title:Inches Away|webfile:freestyle_music/inches_away_by_best_of_the_rest.mp3|youtube:ZOH3xL6cQxI
+author:Roz / Fit * RNO * wAMMA|position:9|sceneorg:/parties/2006/assembly06/music/freestyle/discombly_by_roz_fit_rno_wamma.zip|title:Discombly|webfile:freestyle_music/discombly_by_roz_fit_rno_wamma.mp3|youtube:8bC7IP2uqRE
+author:_pk_|position:10|sceneorg:/parties/2006/assembly06/music/freestyle/when_time_stands_still_by_pk.zip|title:When Time Stands Still|webfile:freestyle_music/when_time_stands_still_by_pk.mp3|youtube:tQXkpG685gg
+author:ilmarque|position:11|sceneorg:/parties/2006/assembly06/music/freestyle/avaruusvene_by_ilmarque.zip|title:Avaruusvene|webfile:freestyle_music/avaruusvene_by_ilmarque.mp3|youtube:lzAouxtUOqk
+author:kalachnikov|position:12|sceneorg:/parties/2006/assembly06/music/freestyle/je_te_parle_d_amour_by_kalachnikov.zip|title:Je te parle d Amour|webfile:freestyle_music/je_te_parle_d_amour_by_kalachnikov.mp3|youtube:BreAVNqz2eY
+author:Zorglups|position:13|sceneorg:/parties/2006/assembly06/music/freestyle/sometimes_by_zorglups.zip|title:Sometimes|webfile:freestyle_music/sometimes_by_zorglups.mp3|youtube:32n_KeaDX4A
+author:DJ Puppe|position:14|sceneorg:/parties/2006/assembly06/music/freestyle/pitchfall_by_dj_puppe.zip|title:Pitchfall|webfile:freestyle_music/pitchfall_by_dj_puppe.mp3|youtube:jItM623L2P4
+author:SweetDevil|position:15|sceneorg:/parties/2006/assembly06/music/freestyle/mystery_of_love_by_sweetdevil.zip|title:Mystery of Love|webfile:freestyle_music/mystery_of_love_by_sweetdevil.mp3|youtube:aiYqh5IU7jg
+author:SweetDevil Featuring SweetDevil brother|sceneorg:/parties/2006/assembly06/music/freestyle/say_again_by_sweetdevil_featuring_sweetdevil_brother.zip|title:Say Again|webfile:freestyle_music/say_again_by_sweetdevil_featuring_sweetdevil_brother.mp3|youtube:AV0EKbcuErA
+author:Meridian / Clockwork Music|sceneorg:/parties/2006/assembly06/music/freestyle/robot_revolution_by_meridian_clockwork_music.zip|title:Robot Revolution|webfile:freestyle_music/robot_revolution_by_meridian_clockwork_music.mp3|youtube:AHgmbhWYKWQ
+author:Duo acustico de la cena|sceneorg:/parties/2006/assembly06/music/freestyle/como_el_agua_en_su_piel_by_duo_acustico_de_la_cena.zip|title:Como el agua en su piel|webfile:freestyle_music/como_el_agua_en_su_piel_by_duo_acustico_de_la_cena.mp3|youtube:jyaHxD71g0Y
+author:Monophonous Drone|sceneorg:/parties/2006/assembly06/music/freestyle/champagne_by_monophonous_drone.zip|title:Champagne|webfile:freestyle_music/champagne_by_monophonous_drone.mp3|youtube:zpjkVVPE62g
+author:Aisth|sceneorg:/parties/2006/assembly06/music/freestyle/growing_by_aisth.zip|title:Growing|webfile:freestyle_music/growing_by_aisth.mp3|youtube:DNypzvwLBS0
+author:Startoucher|sceneorg:/parties/2006/assembly06/music/freestyle/future_reflections_by_startoucher.zip|title:Future Reflections|webfile:freestyle_music/future_reflections_by_startoucher.mp3|youtube:6cLWDtb2NSg
+author:HSC|sceneorg:/parties/2006/assembly06/music/freestyle/kes_ralli_06_by_hsc.zip|title:Kesäralli'06|webfile:freestyle_music/kes_ralli_06_by_hsc.mp3|youtube:U7PK_dOmE1Y
+author:St Fungus|sceneorg:/parties/2006/assembly06/music/freestyle/kunniavelka_by_st_fungus.zip|title:Kunniavelka|webfile:freestyle_music/kunniavelka_by_st_fungus.mp3|youtube:URvG_FqIEBs
+author:Full Flava|sceneorg:/parties/2006/assembly06/music/freestyle/b-boy_stance_by_full_flava.zip|title:B-Boy Stance|webfile:freestyle_music/b_boy_stance_by_full_flava.mp3|youtube:Il4TMjmYx7E
+author:marzu|sceneorg:/parties/2006/assembly06/music/freestyle/shish_tawook_by_marzu.zip|title:Shish Tawook|webfile:freestyle_music/shish_tawook_by_marzu.mp3|youtube:Het2bQ_3s6E
+author:Onomatopoetic Justice|sceneorg:/parties/2006/assembly06/music/freestyle/the_wizard_and_the_blues_by_onomatopoetic_justice.zip|title:The Wizard and the Blues|webfile:freestyle_music/the_wizard_and_the_blues_by_onomatopoetic_justice.mp3|youtube:Y6d3PmXc2FQ
+author:Sublevels|sceneorg:/parties/2006/assembly06/music/freestyle/by_your_side_by_sublevels.zip|title:By your side|webfile:freestyle_music/by_your_side_by_sublevels.mp3|youtube:u70Zjhz2ehA
+author:wu-king|sceneorg:/parties/2006/assembly06/music/freestyle/your_blood_by_wu-king.zip|title:your blood|webfile:freestyle_music/your_blood_by_wu_king.mp3|youtube:n_Bk3ARGGXU
+author:Rauta Jii|sceneorg:/parties/2006/assembly06/music/freestyle/klubiin_by_rauta_jii.zip|title:Klubiin|webfile:freestyle_music/klubiin_by_rauta_jii.mp3|youtube:nq6PqY6cLWc
+author:tremayne featuring ilari|sceneorg:/parties/2006/assembly06/music/freestyle/friends_by_tremayne_featuring_ilari.zip|title:Friends|webfile:freestyle_music/friends_by_tremayne_featuring_ilari.mp3|youtube:w9WPoEuo3rk
+author:Kallisti ^ Luna Lovegood Experience|sceneorg:/parties/2006/assembly06/music/freestyle/i_m_your_dark_angel_queen_b_tonight_mkii_by_kallisti_luna_lovegood_experience.zip|title:I'm your dark angel queen B tonight (MkII)|webfile:freestyle_music/i_m_your_dark_angel_queen_b_tonight_mkii_by_kallisti_luna_lovegood_experience.mp3|youtube:4f8i1KkCLpw
+author:b0rdL and mape|sceneorg:/parties/2006/assembly06/music/freestyle/kes_loma_kangasalla_by_b0rdl_and_mape.zip|title:kesäloma kangasalla|webfile:freestyle_music/kes_loma_kangasalla_by_b0rdl_and_mape.mp3|youtube:e6EsccEHdrk
+author:Paradox|sceneorg:/parties/2006/assembly06/music/freestyle/beatboxcore_by_paradox.zip|title:beatboxcore|webfile:freestyle_music/beatboxcore_by_paradox.mp3|youtube:s6iAi27Tx2o
 
 
 :section Freestyle graphics
 :description <p>In Freestyle graphics competition images may be created with any desired method about anything.</p>
 
-title:A Parrot Stalking Its Prey|author:Migugi|position:1|webfile:freestyle_graphics/a_parrot_stalking_its_prey_by_migugi.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/a_parrot_stalking_its_prey_by_migugi.zip
-title:The New World|author:marzu|position:2|webfile:freestyle_graphics/the_new_world_by_marzu.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/the_new_world_by_marzu.zip
-title:Kesä-Eemeli|author:DoC / FobiaDesign & DCS|position:3|webfile:freestyle_graphics/kes_eemeli_by_doc_fobiadesign_dcs.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/kes_-eemeli_by_doc_fobiadesign_dcs_6.zip
-title:Stolen Heart Monster 2|author:Reko / Instant Ejakulation|position:4|webfile:freestyle_graphics/stolen_heart_monster_2_by_reko_instant_ejakulation.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/stolen_heart_monster_2_by_reko_instant_ejakulation.zip
-title:Last one standing|author:Miriam Kaartinen|position:5|webfile:freestyle_graphics/last_one_standing_by_miriam_kaartinen.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/talvitytt_by_miriam_kaartinen.zip
-title:Spacestation 2001|author:Serialthr|position:6|webfile:freestyle_graphics/spacestation_2001_by_serialthr.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/spacestation_2001_by_serialthr.zip
-title:I Heard you guys have really small stands|author:Random/Gfxile|position:7|webfile:freestyle_graphics/i_heard_you_guys_have_really_small_stands_by_random_gfxile.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/i_heard_you_guys_have_really_small_stands_by_random_gfxile_2.zip
-title:Oriental Vectors|author:Reanimator / iCE|position:8|webfile:freestyle_graphics/oriental_vectors_by_reanimator_ice.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/oriental_vectors_by_reanimator_ice.zip
-title:Brain surgery|author:st Rana|position:9|webfile:freestyle_graphics/brain_surgery_by_st_rana.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/brain_surgery_by_st_rana_2.zip
-title:Photoninalle|author:b. o. w.|position:10|webfile:freestyle_graphics/photoninalle_by_b_o_w.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/photoninalle_by_b_o_w.zip
-title:Future Reflections|author:Startoucher|position:11|webfile:freestyle_graphics/future_reflections_by_startoucher.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/future_reflections_by_startoucher.zip
-title:Everything´s Eventual|author:Venni-chan|position:12|webfile:freestyle_graphics/everything_s_eventual_by_venni_chan.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/everything_s_eventual_by_venni-chan.zip
-title:Mr. Tentacles Loose Change|author:kerko|position:13|webfile:freestyle_graphics/mr_tentacles_loose_change_by_kerko.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/mr_tentacles_loose_change_by_kerko_3.zip
-title:Reliable Source|author:zeroic|position:14|webfile:freestyle_graphics/reliable_source_by_zeroic.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/reliable_source_by_zeroic.zip
-title:Fallen Angel|author:Yazu|position:15|webfile:freestyle_graphics/fallen_angel_by_yazu.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/fallen_angel_by_yazu.zip
-title:From Water to Stone|author:Catana|position:16|webfile:freestyle_graphics/from_water_to_stone_by_catana.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/from_water_to_stone_by_catana_1.zip
-title:Caretaker|author:Malakai|position:17|webfile:freestyle_graphics/caretaker_by_malakai.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/caretaker_by_malakai.zip
-title:For the Blood|author:JmS|position:18|webfile:freestyle_graphics/for_the_blood_by_jms.png|sceneorg:/parties/2006/assembly06/grfx/drawn/for_the_blood_by_jms.zip
-title:My Muse|author:Midia|position:19|webfile:freestyle_graphics/my_muse_by_midia.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/my_muse_by_midia.zip
-title:Tikkake|author:DeCoder / lucid|position:20|webfile:freestyle_graphics/tikkake_by_decoder_lucid.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/tikkake_by_decoder_lucid.zip
-title:Just say NO !|author:tturunen|position:0|webfile:freestyle_graphics/just_say_no_by_tturunen.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/just_say_no_by_tturunen.zip
-title:Nightflies|author:rdnk|position:0|webfile:freestyle_graphics/nightflies_by_rdnk.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/nightflies_by_rdnk.zip
-title:Oldskool visitor|author:Timo Perämaa|position:0|webfile:freestyle_graphics/oldskool_visitor_by_timo_per_maa.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/oldskool_visitor_by_timo_per_maa.zip
-title:Dual-core|author:Arctic Tribe|position:0|webfile:freestyle_graphics/dual_core_by_arctic_tribe.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/dual-core_by_arctic_tribe.zip
-title:Dead Horse Demoscene|author:Teuvo Tursas / RRR|position:0|webfile:freestyle_graphics/dead_horse_demoscene_by_teuvo_tursas_rrr.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/dead_horse_demoscene_by_teuvo_tursas_rrr_1.zip
-title:iCitrus|author:DiamonDie / foobug^Numedia Cyclops|position:0|webfile:freestyle_graphics/icitrus_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/icitrus_by_diamondie_foobug_numedia_cyclops.zip
-title:Amphetamine Dreams|author:InterCoder|position:0|webfile:freestyle_graphics/amphetamine_dreams_by_intercoder.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/amphetamine_dreams_by_intercoder_2.zip
-title:Jargon|author:ankkalaps / Sitruslapset|position:0|webfile:freestyle_graphics/jargon_by_ankkalaps_sitruslapset.png|sceneorg:/parties/2006/assembly06/grfx/drawn/jargon_by_ankkalaps_sitruslapset_1.zip
-title:Hyperthermophile disease|author:NoThanks|position:0|webfile:freestyle_graphics/hyperthermophile_disease_by_nothanks.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/hyperthermophile_disease_by_nothanks.zip
-title:Kurpitsakiiras|author:lemonade / Sitruslapset|position:0|webfile:freestyle_graphics/kurpitsakiiras_by_lemonade_sitruslapset.png|sceneorg:/parties/2006/assembly06/grfx/freestyle/kurpitsakiiras_by_lemonade_sitruslapset.zip
-title:Alone|author:Max Dee|position:0|webfile:freestyle_graphics/alone_by_max_dee.jpeg|sceneorg:/parties/2006/assembly06/grfx/freestyle/alone_by_max_dee_1.zip
+author:Migugi|position:1|sceneorg:/parties/2006/assembly06/grfx/freestyle/a_parrot_stalking_its_prey_by_migugi.zip|title:A Parrot Stalking Its Prey|webfile:freestyle_graphics/a_parrot_stalking_its_prey_by_migugi.jpeg
+author:marzu|position:2|sceneorg:/parties/2006/assembly06/grfx/freestyle/the_new_world_by_marzu.zip|title:The New World|webfile:freestyle_graphics/the_new_world_by_marzu.png
+author:DoC / FobiaDesign & DCS|position:3|sceneorg:/parties/2006/assembly06/grfx/freestyle/kes_-eemeli_by_doc_fobiadesign_dcs_6.zip|title:Kesä-Eemeli|webfile:freestyle_graphics/kes_eemeli_by_doc_fobiadesign_dcs.png
+author:Reko / Instant Ejakulation|position:4|sceneorg:/parties/2006/assembly06/grfx/freestyle/stolen_heart_monster_2_by_reko_instant_ejakulation.zip|title:Stolen Heart Monster 2|webfile:freestyle_graphics/stolen_heart_monster_2_by_reko_instant_ejakulation.png
+author:Miriam Kaartinen|position:5|sceneorg:/parties/2006/assembly06/grfx/freestyle/talvitytt_by_miriam_kaartinen.zip|title:Last one standing|webfile:freestyle_graphics/last_one_standing_by_miriam_kaartinen.png
+author:Serialthr|position:6|sceneorg:/parties/2006/assembly06/grfx/freestyle/spacestation_2001_by_serialthr.zip|title:Spacestation 2001|webfile:freestyle_graphics/spacestation_2001_by_serialthr.png
+author:Random/Gfxile|position:7|sceneorg:/parties/2006/assembly06/grfx/freestyle/i_heard_you_guys_have_really_small_stands_by_random_gfxile_2.zip|title:I Heard you guys have really small stands|webfile:freestyle_graphics/i_heard_you_guys_have_really_small_stands_by_random_gfxile.png
+author:Reanimator / iCE|position:8|sceneorg:/parties/2006/assembly06/grfx/freestyle/oriental_vectors_by_reanimator_ice.zip|title:Oriental Vectors|webfile:freestyle_graphics/oriental_vectors_by_reanimator_ice.jpeg
+author:st Rana|position:9|sceneorg:/parties/2006/assembly06/grfx/freestyle/brain_surgery_by_st_rana_2.zip|title:Brain surgery|webfile:freestyle_graphics/brain_surgery_by_st_rana.png
+author:b. o. w.|position:10|sceneorg:/parties/2006/assembly06/grfx/freestyle/photoninalle_by_b_o_w.zip|title:Photoninalle|webfile:freestyle_graphics/photoninalle_by_b_o_w.png
+author:Startoucher|position:11|sceneorg:/parties/2006/assembly06/grfx/freestyle/future_reflections_by_startoucher.zip|title:Future Reflections|webfile:freestyle_graphics/future_reflections_by_startoucher.png
+author:Venni-chan|position:12|sceneorg:/parties/2006/assembly06/grfx/freestyle/everything_s_eventual_by_venni-chan.zip|title:Everything´s Eventual|webfile:freestyle_graphics/everything_s_eventual_by_venni_chan.jpeg
+author:kerko|position:13|sceneorg:/parties/2006/assembly06/grfx/freestyle/mr_tentacles_loose_change_by_kerko_3.zip|title:Mr. Tentacles Loose Change|webfile:freestyle_graphics/mr_tentacles_loose_change_by_kerko.jpeg
+author:zeroic|position:14|sceneorg:/parties/2006/assembly06/grfx/freestyle/reliable_source_by_zeroic.zip|title:Reliable Source|webfile:freestyle_graphics/reliable_source_by_zeroic.png
+author:Yazu|position:15|sceneorg:/parties/2006/assembly06/grfx/freestyle/fallen_angel_by_yazu.zip|title:Fallen Angel|webfile:freestyle_graphics/fallen_angel_by_yazu.png
+author:Catana|position:16|sceneorg:/parties/2006/assembly06/grfx/freestyle/from_water_to_stone_by_catana_1.zip|title:From Water to Stone|webfile:freestyle_graphics/from_water_to_stone_by_catana.png
+author:Malakai|position:17|sceneorg:/parties/2006/assembly06/grfx/freestyle/caretaker_by_malakai.zip|title:Caretaker|webfile:freestyle_graphics/caretaker_by_malakai.jpeg
+author:JmS|position:18|sceneorg:/parties/2006/assembly06/grfx/drawn/for_the_blood_by_jms.zip|title:For the Blood|webfile:freestyle_graphics/for_the_blood_by_jms.png
+author:Midia|position:19|sceneorg:/parties/2006/assembly06/grfx/freestyle/my_muse_by_midia.zip|title:My Muse|webfile:freestyle_graphics/my_muse_by_midia.jpeg
+author:DeCoder / lucid|position:20|sceneorg:/parties/2006/assembly06/grfx/freestyle/tikkake_by_decoder_lucid.zip|title:Tikkake|webfile:freestyle_graphics/tikkake_by_decoder_lucid.png
+author:tturunen|sceneorg:/parties/2006/assembly06/grfx/freestyle/just_say_no_by_tturunen.zip|title:Just say NO !|webfile:freestyle_graphics/just_say_no_by_tturunen.png
+author:rdnk|sceneorg:/parties/2006/assembly06/grfx/freestyle/nightflies_by_rdnk.zip|title:Nightflies|webfile:freestyle_graphics/nightflies_by_rdnk.jpeg
+author:Timo Perämaa|sceneorg:/parties/2006/assembly06/grfx/freestyle/oldskool_visitor_by_timo_per_maa.zip|title:Oldskool visitor|webfile:freestyle_graphics/oldskool_visitor_by_timo_per_maa.jpeg
+author:Arctic Tribe|sceneorg:/parties/2006/assembly06/grfx/freestyle/dual-core_by_arctic_tribe.zip|title:Dual-core|webfile:freestyle_graphics/dual_core_by_arctic_tribe.png
+author:Teuvo Tursas / RRR|sceneorg:/parties/2006/assembly06/grfx/freestyle/dead_horse_demoscene_by_teuvo_tursas_rrr_1.zip|title:Dead Horse Demoscene|webfile:freestyle_graphics/dead_horse_demoscene_by_teuvo_tursas_rrr.png
+author:DiamonDie / foobug^Numedia Cyclops|sceneorg:/parties/2006/assembly06/grfx/freestyle/icitrus_by_diamondie_foobug_numedia_cyclops.zip|title:iCitrus|webfile:freestyle_graphics/icitrus_by_diamondie_foobug_numedia_cyclops.png
+author:InterCoder|sceneorg:/parties/2006/assembly06/grfx/freestyle/amphetamine_dreams_by_intercoder_2.zip|title:Amphetamine Dreams|webfile:freestyle_graphics/amphetamine_dreams_by_intercoder.jpeg
+author:ankkalaps / Sitruslapset|sceneorg:/parties/2006/assembly06/grfx/drawn/jargon_by_ankkalaps_sitruslapset_1.zip|title:Jargon|webfile:freestyle_graphics/jargon_by_ankkalaps_sitruslapset.png
+author:NoThanks|sceneorg:/parties/2006/assembly06/grfx/freestyle/hyperthermophile_disease_by_nothanks.zip|title:Hyperthermophile disease|webfile:freestyle_graphics/hyperthermophile_disease_by_nothanks.jpeg
+author:lemonade / Sitruslapset|sceneorg:/parties/2006/assembly06/grfx/freestyle/kurpitsakiiras_by_lemonade_sitruslapset.zip|title:Kurpitsakiiras|webfile:freestyle_graphics/kurpitsakiiras_by_lemonade_sitruslapset.png
+author:Max Dee|sceneorg:/parties/2006/assembly06/grfx/freestyle/alone_by_max_dee_1.zip|title:Alone|webfile:freestyle_graphics/alone_by_max_dee.jpeg
+
 
 :section AssemblyTV
+:youtube-playlist C5A61F781A6BD80D
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
-title:Gaming: Age limits|author:AssemblyTV|media:/vod/2006/assemblytv/26_gaming_agelimits_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/26|youtube:r9rulF0_t9w
-title:Setok makes it work|author:AssemblyTV|media:/vod/2006/assemblytv/27_setok_auttaa_h264_896kbps.mp4|guid:|youtube:xU4hPLd_YUU
-title:Outsiders|author:AssemblyTV|media:/vod/2006/assemblytv/28_outsiders_at_pasila_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/28|youtube:CLXZoqeU3pA
-title:Gaming: DJ Orkidea interview|author:AssemblyTV|media:/vod/2006/assemblytv/39_gaming_dj_orkidea_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/39|youtube:_xBs1GFUbao
-title:Behind the scenes with Setok|author:AssemblyTV|media:/vod/2006/assemblytv/40_kulisseissa_kuhisee_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/40|youtube:XqLA0pYYU7Y
-title:Gaming: Level7 part 1|author:AssemblyTV|media:/vod/2006/assemblytv/46_gaming_level7_part1_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/46|youtube:wTd2myg1mKU
-title:Interviewing Alive|author:AssemblyTV|media:/vod/2006/assemblytv/52_alive_haastattelu_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/52|youtube:RdJzYN1UaNk
-title:Interview with Abyss|author:AssemblyTV|media:/vod/2006/assemblytv/54_abyss_haastattelu_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/54|youtube:HZaDT1s3Z8A
-title:Visitor interviews|author:AssemblyTV|media:/vod/2006/assemblytv/64_kavijahaastattelut_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/64|youtube:x0Lbf-V9N0w
-title:Gaming: Assembly GameLab|author:AssemblyTV|media:/vod/2006/assemblytv/101_gaming_gamelab_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/101|youtube:REg_J-qXIEs
-title:Gaming: World Gamemaster Tournament|author:AssemblyTV|media:/vod/2006/assemblytv/131_gaming_wgt_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/131|youtube:P7PSuNnrE8M
-title:Visitor gallup part 1|author:AssemblyTV|media:/vod/2006/assemblytv/107_gallup_part1_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/107|youtube:5LV6BTS3FvQ
-title:Art in Assembly|author:AssemblyTV|media:/vod/2006/assemblytv/116_art_in_assembly_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/116|youtube:SDEngHX-TuM
-title:Star Wreck -trivia|author:AssemblyTV|media:/vod/2006/assemblytv/163_star_wreck_trivia_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/163|youtube:PYjtZVBlemM
-title:Visitor interviews from Saturday|author:AssemblyTV|media:/vod/2006/assemblytv/164_visitor_interviews_saturday_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/164|youtube:EvwD5eONTKA
-title:Interview with Opera guys|author:AssemblyTV|media:/vod/2006/assemblytv/175_opera_interview_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/175|youtube:q2Tf7diK7Qc
-title:Walkabout with Setok and Matthew|author:AssemblyTV|media:/vod/2006/assemblytv/204_walkabout_with_setok_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/204|youtube:YlqMuICYj0g
-title:Tooth Brush Chain|author:AssemblyTV|media:/vod/2006/assemblytv/207_hammasharja_h264_896kbps.mp4|guid:http://elaine.assembly.org/programs/207|youtube:cxnwPTm5PQg
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/26|media:/vod/2006/assemblytv/26_gaming_agelimits_h264_896kbps.mp4|title:Gaming: Age limits|youtube:r9rulF0_t9w
+author:AssemblyTV|guid:|media:/vod/2006/assemblytv/27_setok_auttaa_h264_896kbps.mp4|title:Setok makes it work|youtube:xU4hPLd_YUU
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/28|media:/vod/2006/assemblytv/28_outsiders_at_pasila_h264_896kbps.mp4|title:Outsiders|youtube:CLXZoqeU3pA
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/39|media:/vod/2006/assemblytv/39_gaming_dj_orkidea_h264_896kbps.mp4|title:Gaming: DJ Orkidea interview|youtube:_xBs1GFUbao
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/40|media:/vod/2006/assemblytv/40_kulisseissa_kuhisee_h264_896kbps.mp4|title:Behind the scenes with Setok|youtube:XqLA0pYYU7Y
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/46|media:/vod/2006/assemblytv/46_gaming_level7_part1_h264_896kbps.mp4|title:Gaming: Level7 part 1|youtube:wTd2myg1mKU
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/52|media:/vod/2006/assemblytv/52_alive_haastattelu_h264_896kbps.mp4|title:Interviewing Alive|youtube:RdJzYN1UaNk
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/54|media:/vod/2006/assemblytv/54_abyss_haastattelu_h264_896kbps.mp4|title:Interview with Abyss|youtube:HZaDT1s3Z8A
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/64|media:/vod/2006/assemblytv/64_kavijahaastattelut_h264_896kbps.mp4|title:Visitor interviews|youtube:x0Lbf-V9N0w
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/101|media:/vod/2006/assemblytv/101_gaming_gamelab_h264_896kbps.mp4|title:Gaming: Assembly GameLab|youtube:REg_J-qXIEs
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/131|media:/vod/2006/assemblytv/131_gaming_wgt_h264_896kbps.mp4|title:Gaming: World Gamemaster Tournament|youtube:P7PSuNnrE8M
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/107|media:/vod/2006/assemblytv/107_gallup_part1_h264_896kbps.mp4|title:Visitor gallup part 1|youtube:5LV6BTS3FvQ
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/116|media:/vod/2006/assemblytv/116_art_in_assembly_h264_896kbps.mp4|title:Art in Assembly|youtube:SDEngHX-TuM
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/163|media:/vod/2006/assemblytv/163_star_wreck_trivia_h264_896kbps.mp4|title:Star Wreck -trivia|youtube:PYjtZVBlemM
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/164|media:/vod/2006/assemblytv/164_visitor_interviews_saturday_h264_896kbps.mp4|title:Visitor interviews from Saturday|youtube:EvwD5eONTKA
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/175|media:/vod/2006/assemblytv/175_opera_interview_h264_896kbps.mp4|title:Interview with Opera guys|youtube:q2Tf7diK7Qc
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/204|media:/vod/2006/assemblytv/204_walkabout_with_setok_h264_896kbps.mp4|title:Walkabout with Setok and Matthew|youtube:YlqMuICYj0g
+author:AssemblyTV|guid:http://elaine.assembly.org/programs/207|media:/vod/2006/assemblytv/207_hammasharja_h264_896kbps.mp4|title:Tooth Brush Chain|youtube:cxnwPTm5PQg
+
 
 :section Seminars
+:youtube-playlist 25264A4CA88EBAF8
 
-title:Keynote: Star Wreck - and more!|author:Samuli Torssonen, Timo Vuorensola, Atte Joutsen, Jarmo Puskala|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/130|youtube:VQhyXLjYv9w
-title:Linux 4k coding|author:Markku Reunanen|media:/vod/2006/seminars/59_seminar_linux_4k_coding_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/59|youtube:-UQSiRg8Ra0
-title:Mobility with MUPE - developer's point of view|author:Matti Nelimarkka|media:/vod/2006/seminars/62_seminar_mobility_with_mupe_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/62|youtube:ixzCubtmb60
-title:The Art of Pixels: from sprites to Photoshop|author:Tamas Polgar|media:/vod/2006/seminars/63_seminar_art_of_pixels_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/63|youtube:wTCJnbajL9U
-title:The Neglected Art of Fixed Point Arithmetic|author:Jetro Lauha|media:/vod/2006/seminars/65_seminar_neglected_art_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/65|youtube:jvrPw-nxFdk
-title:Cutting corners, not polygons|author:Eivind Liland, Erik Faye-Lund
-title:Games development using Microsoft XNA Studio|author:Aali Alikoski
-title:Direct3D 10 essentials|author:Niko Suni
-title:The New Procedure|author:Nick Rooke|media:/vod/2006/seminars/92_seminar_the_new_procedure_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/92|youtube:jddVjPaq4W8
-title:Mobile 3D hardware|author:Umesh Gowda
-title:"It ain't 1996 anymore" - entry into today's games industry|author:Matias Myllyrinne|media:/vod/2006/seminars/94_seminar_it_aint_1996_anymore_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/94|youtube:g0t70vnOp5Q
-title:History and Future of 3D audio|author:Peter Harrison|media:/vod/2006/seminars/95_history_and_future_of_3d_audio_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/95|youtube:5XTEPDgyE0U
-title:World of Viruses|author:Mikko Hyppönen|media:/vod/2006/seminars/97_seminar_world_of_viruses_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/97|youtube:sv1zs8THH1Y
-title:Standards and Opera|author:Charles McCathieNevile, Gorm Eriksen|media:/vod/2006/seminars/98_seminar_standards_and_opera_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/98|youtube:gsbyqIkU6i4
-title:Opera Mini: coping with J2ME fragmentation|author:Balder Mørk|media:/vod/2006/seminars/99_seminar_opera_mini_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/99|youtube:XqcJy4IU2rs
-title:The Naked PSP|author:TyRaNiD
-title:Getting a job in games|author:Jussi Laakkonen|media:/vod/2006/seminars/138_seminar_getting_a_job_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/138|youtube:GJOMhnutMKU
-title:Bringing your first game to market|author:Johan Sjöberg|media:/vod/2006/seminars/140_seminar_bringing_your_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/140|youtube:x3QbHKE3h5c
-title:Experiences from 10 years of game development|author:Tobias Sjögren|media:/vod/2006/seminars/141_seminar_experiences_from_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/141|youtube:f_-iawuLSDk
-title:Silent Grove Studios - a story of a start-up game developer|author:Henrik Öquist|media:/vod/2006/seminars/142_seminar_silent_grove_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/142|youtube:oPntn6OHCxY
-title:Snowflake Studios & Online development|author:Lasse Liljedahl|media:/vod/2006/seminars/143_seminar_snowflake_studios_h264_400kbps.mp4|guid:http://elaine.assembly.org/programs/143|youtube:sk8SgJ03-KY
-title:AMD|author:Joakim Stenberg
+author:Samuli Torssonen, Timo Vuorensola, Atte Joutsen, Jarmo Puskala|guid:http://elaine.assembly.org/programs/130|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|title:Keynote: Star Wreck - and more!|youtube:VQhyXLjYv9w
+author:Markku Reunanen|guid:http://elaine.assembly.org/programs/59|media:/vod/2006/seminars/59_seminar_linux_4k_coding_h264_400kbps.mp4|title:Linux 4k coding|youtube:-UQSiRg8Ra0
+author:Matti Nelimarkka|guid:http://elaine.assembly.org/programs/62|media:/vod/2006/seminars/62_seminar_mobility_with_mupe_h264_400kbps.mp4|title:Mobility with MUPE - developer's point of view|youtube:ixzCubtmb60
+author:Tamas Polgar|guid:http://elaine.assembly.org/programs/63|media:/vod/2006/seminars/63_seminar_art_of_pixels_h264_400kbps.mp4|title:The Art of Pixels: from sprites to Photoshop|youtube:wTCJnbajL9U
+author:Jetro Lauha|guid:http://elaine.assembly.org/programs/65|media:/vod/2006/seminars/65_seminar_neglected_art_h264_400kbps.mp4|title:The Neglected Art of Fixed Point Arithmetic|youtube:jvrPw-nxFdk
+author:Eivind Liland, Erik Faye-Lund|title:Cutting corners, not polygons
+author:Aali Alikoski|title:Games development using Microsoft XNA Studio
+author:Niko Suni|title:Direct3D 10 essentials
+author:Nick Rooke|guid:http://elaine.assembly.org/programs/92|media:/vod/2006/seminars/92_seminar_the_new_procedure_h264_400kbps.mp4|title:The New Procedure|youtube:jddVjPaq4W8
+author:Umesh Gowda|title:Mobile 3D hardware
+author:Matias Myllyrinne|guid:http://elaine.assembly.org/programs/94|media:/vod/2006/seminars/94_seminar_it_aint_1996_anymore_h264_400kbps.mp4|title:"It ain't 1996 anymore" - entry into today's games industry|youtube:g0t70vnOp5Q
+author:Peter Harrison|guid:http://elaine.assembly.org/programs/95|media:/vod/2006/seminars/95_history_and_future_of_3d_audio_h264_400kbps.mp4|title:History and Future of 3D audio|youtube:5XTEPDgyE0U
+author:Mikko Hyppönen|guid:http://elaine.assembly.org/programs/97|media:/vod/2006/seminars/97_seminar_world_of_viruses_h264_400kbps.mp4|title:World of Viruses|youtube:sv1zs8THH1Y
+author:Charles McCathieNevile, Gorm Eriksen|guid:http://elaine.assembly.org/programs/98|media:/vod/2006/seminars/98_seminar_standards_and_opera_h264_400kbps.mp4|title:Standards and Opera|youtube:gsbyqIkU6i4
+author:Balder Mørk|guid:http://elaine.assembly.org/programs/99|media:/vod/2006/seminars/99_seminar_opera_mini_h264_400kbps.mp4|title:Opera Mini: coping with J2ME fragmentation|youtube:XqcJy4IU2rs
+author:TyRaNiD|title:The Naked PSP
+author:Jussi Laakkonen|guid:http://elaine.assembly.org/programs/138|media:/vod/2006/seminars/138_seminar_getting_a_job_h264_400kbps.mp4|title:Getting a job in games|youtube:GJOMhnutMKU
+author:Johan Sjöberg|guid:http://elaine.assembly.org/programs/140|media:/vod/2006/seminars/140_seminar_bringing_your_h264_400kbps.mp4|title:Bringing your first game to market|youtube:x3QbHKE3h5c
+author:Tobias Sjögren|guid:http://elaine.assembly.org/programs/141|media:/vod/2006/seminars/141_seminar_experiences_from_h264_400kbps.mp4|title:Experiences from 10 years of game development|youtube:f_-iawuLSDk
+author:Henrik Öquist|guid:http://elaine.assembly.org/programs/142|media:/vod/2006/seminars/142_seminar_silent_grove_h264_400kbps.mp4|title:Silent Grove Studios - a story of a start-up game developer|youtube:oPntn6OHCxY
+author:Lasse Liljedahl|guid:http://elaine.assembly.org/programs/143|media:/vod/2006/seminars/143_seminar_snowflake_studios_h264_400kbps.mp4|title:Snowflake Studios & Online development|youtube:sk8SgJ03-KY
+author:Joakim Stenberg|title:AMD
+

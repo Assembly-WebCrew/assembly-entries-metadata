@@ -31,14 +31,15 @@ def create_playlist(entry_data, section):
     return None
 
 def update_youtube_playlists(yt_service, entry_data):
+    print "= %d =" % entry_data.year
     for section in entry_data.sections:
-        sys.stderr.write("[%s]\n" % section['name'].encode("utf-8"))
+        sys.stderr.write("[ %s ]\n" % section['name'].encode("utf-8"))
         if 'youtube-playlist' not in section:
             if not has_youtube_entries(section):
                 continue
             print "Creating playlist"
             section['youtube-playlist'] = create_playlist(entry_data, section)
-            time.sleep(10)
+            time.sleep(5)
 
         playlist_video_feed = yt_service.GetYouTubePlaylistVideoFeed(
             playlist_id=section['youtube-playlist'])
@@ -77,8 +78,8 @@ def update_youtube_playlists(yt_service, entry_data):
                 )
             if not isinstance(playlist_video_entry, gdata.youtube.YouTubePlaylistVideoEntry):
                 print "Failed to add."
-            time.sleep(5)
-        time.sleep(10)
+            time.sleep(1)
+        time.sleep(2)
 
 yt_service = gdata.youtube.service.YouTubeService()
 
