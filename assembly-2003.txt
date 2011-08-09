@@ -1,6 +1,7 @@
 :year 2003
 
 :section Mobile demo
+:youtube-playlist 6B97D4C35BDC71C5
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that weighted under 250 grams.</p>
 
 author:EhD|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 1st - Anal Party IV by EhD_h264_1856kbit.mp4|position:1|pouet:10525|sceneorg:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|sceneorgvideo:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|title:Anal Party IV|youtube:xTdBZffnqfs
@@ -39,6 +40,7 @@ author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2003/assembly03/oldsko
 
 
 :section Game development
+:youtube-playlist 2E36C30690DE0BDD
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 author:tAAt 2003|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 1st - Rekkaturvat_h264_1856kbit.mp4|position:1|pouet:10472|sceneorg:/parties/2003/assembly03/game/rekkaturvat_-_truck_dismount__win32__by_taat_2003.zip|title:Rekkaturvat - Truck Dismount|youtube:TLMnTvlrNMo
@@ -54,6 +56,7 @@ author:Whiptek|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 10th - Cspace_h
 
 
 :section Oldskool demo
+:youtube-playlist 56924E1078D2545C
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 author:PwP|cappedtv:pwp-robotic_liberation&width=640&height=512|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 1st - Robotic Liveration by PwP_h264_1856kbit.mp4|position:1|pouet:10626|sceneorg:/parties/2003/assembly03/oldskool/demo/pwp-liberation.zip|sceneorgvideo:/parties/2003/assembly03/oldskool/demo/pwp-liberation.mpeg|title:Robotic Liberation|youtube:UaOBbvbPW1s
@@ -91,6 +94,7 @@ author:SOB|sceneorg:/parties/2003/assembly03/fastgrfx/kuutio_nurmella_by_sob.zip
 
 
 :section Fast music
+:youtube-playlist F42ED948AEE3C38C
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
 author:Ari "artz" Pulkkinen|position:1|sceneorg:/parties/2003/assembly03/fastmusic/back_to_roots_by_ari__artz__pulkkinen.zip|title:Back to Roots|webfile:fast_music/back_to_roots_by_ari_artz_pulkkinen.mp3|youtube:U_TVxopaLBE
@@ -118,6 +122,7 @@ author:Dubious of TekMaTiK|sceneorg:/parties/2003/assembly03/fastmusic/jungle_ry
 
 
 :section Oldskool music
+:youtube-playlist 61ECFE69D0FF4E22
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
 author:Reed / Fairlight|position:1|sceneorg:/parties/2003/assembly03/oldskool/music/cyberdragon_by_reed___fairlight.zip|title:Cyberdragon|webfile:oldskool_music/cyberdragon_c64_by_reed_fairlight.mp3|youtube:H-PNxdXI_Sg
@@ -154,6 +159,7 @@ author:Kuraporo|sceneorg:/parties/2003/assembly03/oldskool/music/kolnikov_by_kur
 
 
 :section Combined demo
+:youtube-playlist C4611E52B1D32FCE
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Combined demo competition limited platforms to 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
 author:Doomsday|dtv:id_file=4442&id_prod=13364&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10540_2.jpg&width=512&height=404|position:1|pouet:10540|sceneorg:/parties/2003/assembly03/demo/legomania_by_doomsday.zip|title:Legomania
@@ -187,6 +193,7 @@ author:RRE|sceneorg:/parties/2003/assembly03/demo/m1nt-t34_by_rre_1.zip|title:m1
 
 
 :section Instrumental music
+:youtube-playlist ED2D648C96B4298D
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
 author:!Cube / Armada + SCS*TRC + Skalaria|position:1|sceneorg:/parties/2003/assembly03/instrumentalmusic/acula_class_by__cube___armada_+_scs_trc_+_skalaria.zip|title:Acula class|webfile:instrumental_music/acula_class_by_cube_armada_scs_trc_skalaria.mp3|youtube:V9GzhOcmSrQ
@@ -287,6 +294,7 @@ author:Oneup!|position:5|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08
 
 
 :section Wild demo
+:youtube-playlist 84E15BD10F1C310F
 :description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
 author:Otherside|dtv:id_file=3301&id_prod=4681&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10587.jpg&width=512&height=404|position:1|pouet:10587|sceneorg:/parties/2003/assembly03/wild/grand_theft_by_otherside.mpg|title:Grand Theft|webfile:wild_demo/grand_theft_by_otherside.mpeg|youtube:TPjfePUeeVk
@@ -312,6 +320,7 @@ author:pnmf!|pouet:20032|sceneorg:/parties/2003/assembly03/wild/milk_is_a_threat
 
 
 :section Animation
+:youtube-playlist 39F7C6D31FE6FBEB
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
 author:Dice Production|dtv:id_file=3034&id_prod=5799&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10590.jpg&width=512&height=404|position:1|pouet:10590|sceneorg:/parties/2003/assembly03/anim/kalja_on_loppu_by_dice_production.avi|title:Kalja on loppu|webfile:animation/kalja_on_loppu_by_dice_production.avi|youtube:mpFH0pAXEZA
@@ -363,6 +372,7 @@ author:tukka|sceneorg:/parties/2003/assembly03/browser_demo/leffa_by_tukka.zip|t
 
 
 :section Combined 4k intro
+:youtube-playlist 4961A2FF45613A2E
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 author:Fit & Bandwagon|media:/vod/.oldies-goldies/compos/ASM03 4k - 1st - Yellow Rose of Texas by Fit and Bandwagon_h264_1856kbit.mp4|position:1|pouet:10562|sceneorg:/parties/2003/assembly03/in4k/yellow_rose_of_texas_by_fit___bandwagon.tgz|title:Yellow Rose of Texas|youtube:2g4LSHEqR2E
@@ -384,6 +394,7 @@ author:iood <3 fizzie / numedia cyclops|sceneorg:/parties/2003/assembly03/in4k/k
 
 
 :section Vocal music
+:youtube-playlist 92300EA05B20FCA8
 :description <p>In Vocal music competition entries could be any type of music from any genre created with any method and unlike in Instrumental music competition, they could also include human vocals.</p>
 
 author:aisth|position:1|sceneorg:/parties/2003/assembly03/vocalmusic/pearls_by_aisth_1.zip|title:pearls|webfile:vocal_music/pearls_by_aisth.mp3|youtube:ZNcSPeTdLVA

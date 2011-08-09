@@ -34,6 +34,7 @@ def update_youtube_playlists(yt_service, entry_data):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
         sys.stderr.write("[ %s ]\n" % section['name'].encode("utf-8"))
+
         if 'youtube-playlist' not in section:
             if not has_youtube_entries(section):
                 continue
@@ -56,6 +57,10 @@ def update_youtube_playlists(yt_service, entry_data):
             query_params = urlparse.parse_qs(query)
             video_id, = query_params['v']
             youtube_entries.append(video_id)
+
+        if len(youtube_entries) >= 25:
+            print "MAX gdata API default entries (25) exceeded on playlist!"
+            continue
 
         section_entries_set = set(section_entries)
         youtube_entries_set = set(youtube_entries)
@@ -100,7 +105,7 @@ try:
 except KeyboardInterrupt, e:
     print "Interrupted"
 except:
-    print "Unknown exception happened"
+   print "EXCEPTION Unknown exception happened"
 
 fp = open(datafile, "wb")
 asmmetadata.print_metadata(fp, entry_data)
