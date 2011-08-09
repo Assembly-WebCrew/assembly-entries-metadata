@@ -3,226 +3,233 @@
 :section C64 music
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
-title:Martinism|author:Zardax/Origo Dreamline|position:1
-title:Kirta|author:Thor/Extend|position:2
-title:Compomusic|author:Dr.Voice/Panic|position:3
-title:Sys 4096|author:AMJ/Side B|position:4
-title:Compotune|author:Warlock/Panic|position:5
-title:Brainscanaloop|author:Barracuda/Extend|position:6
+author:Zardax/Origo Dreamline|position:1|title:Martinism
+author:Thor/Extend|position:2|title:Kirta
+author:Dr.Voice/Panic|position:3|title:Compomusic
+author:AMJ/Side B|position:4|title:Sys 4096
+author:Warlock/Panic|position:5|title:Compotune
+author:Barracuda/Extend|position:6|title:Brainscanaloop
 
 
 :section 4 channel music
+:youtube-playlist 031DF7679C2CF938
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
-title:Funkyeeh|author:Theseus/Anathema|position:1|webfile:4_channel_music/funkyeeh_by_theseus_anathema.mp3|sceneorg:/parties/1995/assembly95/m4ch/funkyeeh.zip|youtube:z1zG9xuRS-Q
-title:Illumination|author:Cube/Dee|position:2|webfile:4_channel_music/illumination_by_cube_dee.mp3|sceneorg:/parties/1995/assembly95/m4ch/illumina.zip|youtube:Pn99AjBKsK4
-title:Crayfish Party|author:Lizardking/Razor 1911|position:3|webfile:4_channel_music/crayfish_party_by_lizardking_razor_1911.mp3|sceneorg:/parties/1995/assembly95/m4ch/cray.zip|youtube:JfcW5Z2f9Wc
-title:Aroma of northwest|author:Breeze/Capacala|position:4|webfile:4_channel_music/aroma_of_northwest_by_breeze_capacala.mp3|sceneorg:/parties/1995/assembly95/m4ch/aromaonw.zip|youtube:ff6vj-_ES5g
-title:Topless|author:Oxide/Sonik|position:5|webfile:4_channel_music/topless_by_oxide_sonik.mp3|sceneorg:/parties/1995/assembly95/m4ch/topless.zip|youtube:b_hnT98O5J0
-title:Jormuan Lava|author:Ukulele/Banal Projects|position:6|webfile:4_channel_music/jormuan_lava_by_ukulele_banal_projects.mp3|sceneorg:/parties/1995/assembly95/m4ch/jormua.zip|youtube:C03mMyiobNc
-title:Rymdfunk|author:Radix/Limited Edition|position:7|webfile:4_channel_music/rymdfunk_by_radix_limited_edition.mp3|sceneorg:/parties/1995/assembly95/m4ch/rymdfunk.zip|youtube:yQTvQaXZ2i8
-title:Suuntaviivat|author:Dizzy/CNCD|position:8|webfile:4_channel_music/suuntaviivat_by_dizzy_cncd.mp3|sceneorg:/parties/1995/assembly95/m4ch/suunta.zip|youtube:27FcKrHjC5U
-title:Get it|author:Brem/Bomb Squad|position:9|webfile:4_channel_music/get_it_by_brem_bomb_squad.mp3|sceneorg:/parties/1995/assembly95/m4ch/getit.zip|youtube:gUYcIZvpDn8
-title:Pop Huora|author:Groo/CNCD|position:10
-title:Balthazar|author:Andy/Banal Projects|position:11|webfile:4_channel_music/balthazar_by_andy_banal_projects.mp3|sceneorg:/parties/1995/assembly95/m4ch/balthasa.zip|youtube:osh4gEfkoXk
-title:The Robot Kingdom|author:Boheme/Bomb Squad|position:12
-title:Holocaust|author:Sphinx/Fanatic|position:13|webfile:4_channel_music/holocaust_by_sphinx_fanatic.mp3|sceneorg:/parties/1995/assembly95/m4ch/holocaus.zip|youtube:cdeQhQS4nWM
-title:Chuynia|author:Yoga/United Artists|position:14|webfile:4_channel_music/chuynia_by_yoga_united_artists.mp3|sceneorg:/parties/1995/assembly95/m4ch/chujnia.zip|youtube:0a4ltY5Go_0
-title:Blowing House|author:Dj. Roberto|position:15|webfile:4_channel_music/blowing_house_by_dj_roberto.mp3|sceneorg:/parties/1995/assembly95/m4ch/houseblw.zip|youtube:qRPuBmN4Kl8
-
-title:Groove Connexion|author:Mccoy/Scoopex|position:0|webfile:4_channel_music/groove_connexion_by_mccoy_scoopex.mp3|sceneorg:/parties/1995/assembly95/m4ch/groovecn.zip|youtube:DWb0AossDuM
+author:Theseus/Anathema|position:1|sceneorg:/parties/1995/assembly95/m4ch/funkyeeh.zip|title:Funkyeeh|webfile:4_channel_music/funkyeeh_by_theseus_anathema.mp3|youtube:z1zG9xuRS-Q
+author:Cube/Dee|position:2|sceneorg:/parties/1995/assembly95/m4ch/illumina.zip|title:Illumination|webfile:4_channel_music/illumination_by_cube_dee.mp3|youtube:Pn99AjBKsK4
+author:Lizardking/Razor 1911|position:3|sceneorg:/parties/1995/assembly95/m4ch/cray.zip|title:Crayfish Party|webfile:4_channel_music/crayfish_party_by_lizardking_razor_1911.mp3|youtube:JfcW5Z2f9Wc
+author:Breeze/Capacala|position:4|sceneorg:/parties/1995/assembly95/m4ch/aromaonw.zip|title:Aroma of northwest|webfile:4_channel_music/aroma_of_northwest_by_breeze_capacala.mp3|youtube:ff6vj-_ES5g
+author:Oxide/Sonik|position:5|sceneorg:/parties/1995/assembly95/m4ch/topless.zip|title:Topless|webfile:4_channel_music/topless_by_oxide_sonik.mp3|youtube:b_hnT98O5J0
+author:Ukulele/Banal Projects|position:6|sceneorg:/parties/1995/assembly95/m4ch/jormua.zip|title:Jormuan Lava|webfile:4_channel_music/jormuan_lava_by_ukulele_banal_projects.mp3|youtube:C03mMyiobNc
+author:Radix/Limited Edition|position:7|sceneorg:/parties/1995/assembly95/m4ch/rymdfunk.zip|title:Rymdfunk|webfile:4_channel_music/rymdfunk_by_radix_limited_edition.mp3|youtube:yQTvQaXZ2i8
+author:Dizzy/CNCD|position:8|sceneorg:/parties/1995/assembly95/m4ch/suunta.zip|title:Suuntaviivat|webfile:4_channel_music/suuntaviivat_by_dizzy_cncd.mp3|youtube:27FcKrHjC5U
+author:Brem/Bomb Squad|position:9|sceneorg:/parties/1995/assembly95/m4ch/getit.zip|title:Get it|webfile:4_channel_music/get_it_by_brem_bomb_squad.mp3|youtube:gUYcIZvpDn8
+author:Groo/CNCD|position:10|title:Pop Huora
+author:Andy/Banal Projects|position:11|sceneorg:/parties/1995/assembly95/m4ch/balthasa.zip|title:Balthazar|webfile:4_channel_music/balthazar_by_andy_banal_projects.mp3|youtube:osh4gEfkoXk
+author:Boheme/Bomb Squad|position:12|title:The Robot Kingdom
+author:Sphinx/Fanatic|position:13|sceneorg:/parties/1995/assembly95/m4ch/holocaus.zip|title:Holocaust|webfile:4_channel_music/holocaust_by_sphinx_fanatic.mp3|youtube:cdeQhQS4nWM
+author:Yoga/United Artists|position:14|sceneorg:/parties/1995/assembly95/m4ch/chujnia.zip|title:Chuynia|webfile:4_channel_music/chuynia_by_yoga_united_artists.mp3|youtube:0a4ltY5Go_0
+author:Dj. Roberto|position:15|sceneorg:/parties/1995/assembly95/m4ch/houseblw.zip|title:Blowing House|webfile:4_channel_music/blowing_house_by_dj_roberto.mp3|youtube:qRPuBmN4Kl8
+author:Mccoy/Scoopex|sceneorg:/parties/1995/assembly95/m4ch/groovecn.zip|title:Groove Connexion|webfile:4_channel_music/groove_connexion_by_mccoy_scoopex.mp3|youtube:DWb0AossDuM
 
 
 :section C64 graphics
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
-title:Dragon|author:Dr. Dick /Byterapers inc.|position:1
-title:Compopicture|author:Debris/Panic/Extacy|position:2
-title:Animaali|author:Votka/Pullo|position:3
+author:Dr. Dick /Byterapers inc.|position:1|title:Dragon
+author:Debris/Panic/Extacy|position:2|title:Compopicture
+author:Votka/Pullo|position:3|title:Animaali
 
 
 :section PC 4k intro
+:youtube-playlist 7470F7A84233C22F
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1995 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Animate|author:Schwartz|position:1|sceneorg:/parties/1995/assembly95/in4k/animate.zip|pouet:2859|youtube:Lij1WjjjNw8
-title:Heaven|author:Barti!/Nooon|position:2|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|pouet:1105|youtube:8ljsQBoLta4
-title:Crashtest|author:J-P/Rebels|position:3|sceneorg:/parties/1995/assembly95/in4k/crshtest.zip|pouet:6765|youtube:7hlsRtxDcB0
-title:Chrome|author:TomCat/Abaddon|position:4|sceneorg:/parties/1995/assembly95/in4k/chrome.zip|pouet:15089
-title:Havoc|author:Vicious/Extreme|position:5|sceneorg:/parties/1995/assembly95/in4k/havoc.zip|pouet:6766|youtube:6PqbML37q7Y
-title:Speed|author:Codex/Paranoids|position:6|sceneorg:/parties/1995/assembly95/in4k/speed.zip|pouet:6767|youtube:4ZgemMPJ_0U
-title:Complexity|author:Blala/Byteam|position:7|sceneorg:/parties/1995/assembly95/in4k/clxfinal.zip|pouet:6768|youtube:IynECFp0mus
-title:Dragon|author:Tobias Glasmachers|position:8|sceneorg:/parties/1995/assembly95/in4k/dragon.zip|pouet:6769|youtube:sb6RRXDBoVo
-title:Bit|author:-|position:9|sceneorg:/parties/1995/assembly95/in4k/bit.zip|pouet:5467
-title:Loop01|author:Pascal/Cubic Team|position:10|sceneorg:/parties/1995/assembly95/in4k/loop01.zip|pouet:15502|youtube:7nAjoQ_yJQM
-title:Ahrum|author:-|position:11|sceneorg:/parties/1995/assembly95/in4k/ahrum.zip
-title:Only for few bytes|author:Lunatic|position:12|sceneorg:/parties/1995/assembly95/in4k/offbyte.zip|youtube:ot52c62OSaQ
-title:Redrum|author:Galvados/Jamm|position:13|sceneorg:/parties/1995/assembly95/in4k/redrum.zip|pouet:1199|youtube:eX3qzEUuAMw
-title:Strictly 4kb|author:-|position:14|sceneorg:/parties/1995/assembly95/in4k/strictly.zip
-title:Shine|author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zip
+author:Schwartz|position:1|pouet:2859|sceneorg:/parties/1995/assembly95/in4k/animate.zip|title:Animate|youtube:Lij1WjjjNw8
+author:Barti!/Nooon|position:2|pouet:1105|sceneorg:/parties/1995/assembly95/in4k/nooon_he.zip|title:Heaven|youtube:8ljsQBoLta4
+author:J-P/Rebels|position:3|pouet:6765|sceneorg:/parties/1995/assembly95/in4k/crshtest.zip|title:Crashtest|youtube:7hlsRtxDcB0
+author:TomCat/Abaddon|position:4|pouet:15089|sceneorg:/parties/1995/assembly95/in4k/chrome.zip|title:Chrome
+author:Vicious/Extreme|position:5|pouet:6766|sceneorg:/parties/1995/assembly95/in4k/havoc.zip|title:Havoc|youtube:6PqbML37q7Y
+author:Codex/Paranoids|position:6|pouet:6767|sceneorg:/parties/1995/assembly95/in4k/speed.zip|title:Speed|youtube:4ZgemMPJ_0U
+author:Blala/Byteam|position:7|pouet:6768|sceneorg:/parties/1995/assembly95/in4k/clxfinal.zip|title:Complexity|youtube:IynECFp0mus
+author:Tobias Glasmachers|position:8|pouet:6769|sceneorg:/parties/1995/assembly95/in4k/dragon.zip|title:Dragon|youtube:sb6RRXDBoVo
+author:-|position:9|pouet:5467|sceneorg:/parties/1995/assembly95/in4k/bit.zip|title:Bit
+author:Pascal/Cubic Team|position:10|pouet:15502|sceneorg:/parties/1995/assembly95/in4k/loop01.zip|title:Loop01|youtube:7nAjoQ_yJQM
+author:-|position:11|sceneorg:/parties/1995/assembly95/in4k/ahrum.zip|title:Ahrum
+author:Lunatic|position:12|sceneorg:/parties/1995/assembly95/in4k/offbyte.zip|title:Only for few bytes|youtube:ot52c62OSaQ
+author:Galvados/Jamm|position:13|pouet:1199|sceneorg:/parties/1995/assembly95/in4k/redrum.zip|title:Redrum|youtube:eX3qzEUuAMw
+author:-|position:14|sceneorg:/parties/1995/assembly95/in4k/strictly.zip|title:Strictly 4kb
+author:-|position:15|sceneorg:/parties/1995/assembly95/in4k/shine.zip|title:Shine
+
 
 :section PC demo
+:youtube-playlist 7CD44A9F0E4DA130
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1995 PCs.</p>
 
-title:Stars : Wonders of the world|author:Nooon|position:1|sceneorg:/parties/1995/assembly95/demo/stars.zip|pouet:301|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404|youtube:wEiBxHOGYps
-title:Psychic link|author:Juice|position:2|sceneorg:/parties/1995/assembly95/demo/juice11.zip|pouet:69|cappedtv:psychic_link-juice&width=640&height=400|youtube:sSsIiThWtco
-title:DX Project|author:RealTech|position:3|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|pouet:955|youtube:cNql2jdc2tY
-title:Zweilight Zone|author:Capacala|position:4|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|pouet:2503|youtube:X605kioZxfc
-title:Rebel Mind|author:Epical|position:5|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|pouet:6895|youtube:Tx56er39lGM
-title:Higher Desire|author:Miracle|position:6|sceneorg:/parties/1995/assembly95/demo/mcl_hd.zip|pouet:6773
-title:Television|author:Orange|position:7|sceneorg:/parties/1995/assembly95/demo/tv.zip|pouet:2175|youtube:qrgyxBO99Uo
-title:Optimal Torque|author:Dubius|position:8|sceneorg:/parties/1995/assembly95/demo/optimal.zip|pouet:3625
-title:Little Green Men|author:Kosmic|position:9|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|pouet:2753|youtube:ZsZGYlRPS2o
-title:Figthing for something|author:JapoTek|position:10|sceneorg:/parties/1995/assembly95/demo/jfight.zip|pouet:5042|youtube:bTp5YiFsQds
-title:Mystery|author:Masque|position:11|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|pouet:6909|youtube:UQWYkktXk44
-title:Syllabization|author:tArzAn tuotanto|position:12|sceneorg:/parties/1995/assembly95/demo/zation.zip|pouet:812|youtube:hWH6R6Y8kr0
-title:Overflow|author:Black Rain|position:13|sceneorg:/parties/1995/assembly95/demo/tbr_ovrf.zip|pouet:51319|youtube:oE3Vve-0CL0
-title:Fever|author:Deus ex Machina|position:14|sceneorg:/parties/1995/assembly95/demo/demfever.zip|pouet:33833|youtube:ulUHYCzEqJE
-title:Elegant|author:Simplicity|position:15|sceneorg:/parties/1995/assembly95/demo/elegance.zip|pouet:51320|youtube:JQxfUuwT690
+author:Nooon|dtv:id_file=2379&id_prod=9896&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/301.gif&width=512&height=404|position:1|pouet:301|sceneorg:/parties/1995/assembly95/demo/stars.zip|title:Stars : Wonders of the world|youtube:wEiBxHOGYps
+author:Juice|cappedtv:psychic_link-juice&width=640&height=400|position:2|pouet:69|sceneorg:/parties/1995/assembly95/demo/juice11.zip|title:Psychic link|youtube:sSsIiThWtco
+author:RealTech|position:3|pouet:955|sceneorg:/parties/1995/assembly95/demo/dxproj.zip|title:DX Project|youtube:cNql2jdc2tY
+author:Capacala|position:4|pouet:2503|sceneorg:/parties/1995/assembly95/demo/cc_2lite.zip|title:Zweilight Zone|youtube:X605kioZxfc
+author:Epical|position:5|pouet:6895|sceneorg:/parties/1995/assembly95/demo/rebelmnd.zip|title:Rebel Mind|youtube:Tx56er39lGM
+author:Miracle|position:6|pouet:6773|sceneorg:/parties/1995/assembly95/demo/mcl_hd.zip|title:Higher Desire
+author:Orange|position:7|pouet:2175|sceneorg:/parties/1995/assembly95/demo/tv.zip|title:Television|youtube:qrgyxBO99Uo
+author:Dubius|position:8|pouet:3625|sceneorg:/parties/1995/assembly95/demo/optimal.zip|title:Optimal Torque
+author:Kosmic|position:9|pouet:2753|sceneorg:/parties/1995/assembly95/demo/lgm_kosm.zip|title:Little Green Men|youtube:ZsZGYlRPS2o
+author:JapoTek|position:10|pouet:5042|sceneorg:/parties/1995/assembly95/demo/jfight.zip|title:Figthing for something|youtube:bTp5YiFsQds
+author:Masque|position:11|pouet:6909|sceneorg:/parties/1995/assembly95/demo/msqmyst.zip|title:Mystery|youtube:UQWYkktXk44
+author:tArzAn tuotanto|position:12|pouet:812|sceneorg:/parties/1995/assembly95/demo/zation.zip|title:Syllabization|youtube:hWH6R6Y8kr0
+author:Black Rain|position:13|pouet:51319|sceneorg:/parties/1995/assembly95/demo/tbr_ovrf.zip|title:Overflow|youtube:oE3Vve-0CL0
+author:Deus ex Machina|position:14|pouet:33833|sceneorg:/parties/1995/assembly95/demo/demfever.zip|title:Fever|youtube:ulUHYCzEqJE
+author:Simplicity|position:15|pouet:51320|sceneorg:/parties/1995/assembly95/demo/elegance.zip|title:Elegant|youtube:JQxfUuwT690
 
 
 :section C64 demo
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
-title:Extremes|author:Byterapers Inc.|position:1|pouet:1615
-title:Break Through II|author:Panic|position:2|pouet:7095
-title:7 Years|author:Beyond Force|position:3|pouet:1733
-title:It's comming|author:Crest|position:4|pouet:11511
-title:Bizarre|author:Symptom C64 Section|position:5|pouet:18460
-title:Tribute to Albert Hofmann|author:Chaos C64 Division|position:6|pouet:18461
+author:Byterapers Inc.|position:1|pouet:1615|title:Extremes
+author:Panic|position:2|pouet:7095|title:Break Through II
+author:Beyond Force|position:3|pouet:1733|title:7 Years
+author:Crest|position:4|pouet:11511|title:It's comming
+author:Symptom C64 Section|position:5|pouet:18460|title:Bizarre
+author:Chaos C64 Division|position:6|pouet:18461|title:Tribute to Albert Hofmann
 
 
 :section Raytrace graphics
 :description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
-title:The Desktop|author:Diffusion|position:1
-title:Church Windows|author:Andy|position:2
-title:Flower|author:Tapsah/Absolute Xtacy|position:3
-title:Da End|author:Dark Juha/Hirmu|position:4
-title:Sunset in Vectorcity|author:Toalnkor/Realtech|position:5
-title:Candle|author:Fish/Damane|position:6
-title:Jesu|author:Marek Gibney|position:7
-title:On|author:Spiff/Obsession Development|position:8
-title:Interface|author:Daemon/Dawn|position:9
-title:Planscape|author:Minx/Fascination|position:10
-title:Room of runes|author:Willysoft|position:11
-title:The Twilights|author:Serge|position:12
-title:World|author:-|position:13
-title:Grimreaper|author:Havenlock/DKS|position:14
-title:Kielo|author:Turo/Fascination|position:15
+author:Diffusion|position:1|title:The Desktop
+author:Andy|position:2|title:Church Windows
+author:Tapsah/Absolute Xtacy|position:3|title:Flower
+author:Dark Juha/Hirmu|position:4|title:Da End
+author:Toalnkor/Realtech|position:5|title:Sunset in Vectorcity
+author:Fish/Damane|position:6|title:Candle
+author:Marek Gibney|position:7|title:Jesu
+author:Spiff/Obsession Development|position:8|title:On
+author:Daemon/Dawn|position:9|title:Interface
+author:Minx/Fascination|position:10|title:Planscape
+author:Willysoft|position:11|title:Room of runes
+author:Serge|position:12|title:The Twilights
+author:-|position:13|title:World
+author:Havenlock/DKS|position:14|title:Grimreaper
+author:Turo/Fascination|position:15|title:Kielo
 
 
 :section Amiga demo
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:ZIF|author:Parallax|position:1|pouet:1149|dtv:id_file=4047&id_prod=12360&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1149_1.jpg&width=512&height=404
-title:Logic|author:Pygmy Projects|position:2|pouet:7823
-title:Miracles|author:Stellar|position:3|pouet:1389
-title:Fruit Kitchen|author:Silents|position:4|pouet:3648
-title:C42|author:Juliet and Case|position:5|pouet:7969|dtv:id_file=4044&id_prod=12859&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/c42.jpg&width=512&height=404
-title:Dive|author:Complex|position:6|pouet:23927
-title:Hate 2|author:Fanatic|position:7|pouet:12362
-title:Embryo|author:Balance|position:8|pouet:3988
-title:Wc goes to wc|author:Zymosis|position:9
-title:Thrilled|author:Embassy|position:10|pouet:3951
-title:High Anxiety|author:Abyss|position:11|pouet:3410
-title:unknown|author:Black Lotus|position:12
-title:Domination's Dentro|author:Domination|position:13
+author:Parallax|dtv:id_file=4047&id_prod=12360&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1149_1.jpg&width=512&height=404|position:1|pouet:1149|title:ZIF
+author:Pygmy Projects|position:2|pouet:7823|title:Logic
+author:Stellar|position:3|pouet:1389|title:Miracles
+author:Silents|position:4|pouet:3648|title:Fruit Kitchen
+author:Juliet and Case|dtv:id_file=4044&id_prod=12859&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/c42.jpg&width=512&height=404|position:5|pouet:7969|title:C42
+author:Complex|position:6|pouet:23927|title:Dive
+author:Fanatic|position:7|pouet:12362|title:Hate 2
+author:Balance|position:8|pouet:3988|title:Embryo
+author:Zymosis|position:9|title:Wc goes to wc
+author:Embassy|position:10|pouet:3951|title:Thrilled
+author:Abyss|position:11|pouet:3410|title:High Anxiety
+author:Black Lotus|position:12|title:unknown
+author:Domination|position:13|title:Domination's Dentro
 
 
 :section Animation
+:youtube-playlist A18B2E8CCE72F109
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
-title:Flow|author:Jaco|position:1|webfile:animation/flow_by_jaco.mpeg|sceneorg:/parties/1995/assembly95/anim/flow.mpg|pouet:2567|youtube:jxJONwxAC5o
-title:Pulp|author:RRRR & Bang|position:2|webfile:animation/pulp_by_rrrr_bang.avi|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|pouet:5357|youtube:znmzblccKFU
-title:Space 01|author:Cubic Team|position:3|webfile:animation/space_01_by_cubic_team.avi|sceneorg:/parties/1995/assembly95/anim/space01.avi|pouet:15502|youtube:ijsDZwG_9Us
-title:Chestmaster 2001|author:Slimy Devil|position:4|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|sceneorg:/parties/1995/assembly95/anim/chess.mpg|pouet:28640|youtube:CoU7soYhbOo
-title:Fastline in vector city|author:Toalnkor|position:5|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|sceneorg:/parties/1995/assembly95/anim/fline.mpg|pouet:28641|youtube:yS5Ru15OY60
-title:Space Mountain|author:Execom|position:6|webfile:animation/space_mountain_by_execom.mpeg|sceneorg:/parties/1995/assembly95/anim/ride.mpg|pouet:28642|youtube:h0p2ZzwAlgQ
-title:Dawn|author:Artifex|position:7|webfile:animation/dawn_by_artifex.mpeg|sceneorg:/parties/1995/assembly95/anim/dawn.mpg|pouet:28643|youtube:92hqcdw4ad8
-title:Bomb Ride|author:Vertex Twister|position:8|webfile:animation/bomb_ride_by_vertex_twister.mpeg|sceneorg:/parties/1995/assembly95/anim/bomb.mpg|pouet:28644|youtube:Q-_1s-hVhFA
-title:Insel|author:Marek Gibner|position:9|webfile:animation/insel_by_marek_gibner.mpeg|sceneorg:/parties/1995/assembly95/anim/insel.mpg|pouet:28645|youtube:l29tyPwGM00
-title:Cityscape|author:Zinx|position:10|webfile:animation/cityscape_by_zinx.mpeg|sceneorg:/parties/1995/assembly95/anim/cityscpe.mpg|pouet:28646|youtube:t41zVXV-elE
-title:The Choice|author:Jan-Erik Tervo|position:11|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|sceneorg:/parties/1995/assembly95/anim/choicecd.mpg|pouet:28647|youtube:xga1Z3XVjUw
-title:AAA-Animation|author:Shaq|position:12|webfile:animation/aaa_animation_by_shaq.mpeg|sceneorg:/parties/1995/assembly95/anim/aaa.mpg|pouet:28648|youtube:BZ-4dPNAwJE
-title:NIH|author:Frank|position:13|webfile:animation/nih_by_frank.mpeg|sceneorg:/parties/1995/assembly95/anim/nih.mpg|pouet:28649|youtube:QN3XPK-FAso
-title:Atlantis|author:Price and Tennessee|position:14|webfile:animation/atlantis_by_price_and_tennessee.mpeg|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|pouet:28650|youtube:Zj6knjJwnB0
+author:Jaco|position:1|pouet:2567|sceneorg:/parties/1995/assembly95/anim/flow.mpg|title:Flow|webfile:animation/flow_by_jaco.mpeg|youtube:jxJONwxAC5o
+author:RRRR & Bang|position:2|pouet:5357|sceneorg:/parties/1995/assembly95/anim/asm_pulp_divx.avi|title:Pulp|webfile:animation/pulp_by_rrrr_bang.avi|youtube:znmzblccKFU
+author:Cubic Team|position:3|pouet:15502|sceneorg:/parties/1995/assembly95/anim/space01.avi|title:Space 01|webfile:animation/space_01_by_cubic_team.avi|youtube:ijsDZwG_9Us
+author:Slimy Devil|position:4|pouet:28640|sceneorg:/parties/1995/assembly95/anim/chess.mpg|title:Chestmaster 2001|webfile:animation/chestmaster_2001_by_slimy_devil.mpeg|youtube:CoU7soYhbOo
+author:Toalnkor|position:5|pouet:28641|sceneorg:/parties/1995/assembly95/anim/fline.mpg|title:Fastline in vector city|webfile:animation/fastline_in_vector_city_by_toalnkor.mpeg|youtube:yS5Ru15OY60
+author:Execom|position:6|pouet:28642|sceneorg:/parties/1995/assembly95/anim/ride.mpg|title:Space Mountain|webfile:animation/space_mountain_by_execom.mpeg|youtube:h0p2ZzwAlgQ
+author:Artifex|position:7|pouet:28643|sceneorg:/parties/1995/assembly95/anim/dawn.mpg|title:Dawn|webfile:animation/dawn_by_artifex.mpeg|youtube:92hqcdw4ad8
+author:Vertex Twister|position:8|pouet:28644|sceneorg:/parties/1995/assembly95/anim/bomb.mpg|title:Bomb Ride|webfile:animation/bomb_ride_by_vertex_twister.mpeg|youtube:Q-_1s-hVhFA
+author:Marek Gibner|position:9|pouet:28645|sceneorg:/parties/1995/assembly95/anim/insel.mpg|title:Insel|webfile:animation/insel_by_marek_gibner.mpeg|youtube:l29tyPwGM00
+author:Zinx|position:10|pouet:28646|sceneorg:/parties/1995/assembly95/anim/cityscpe.mpg|title:Cityscape|webfile:animation/cityscape_by_zinx.mpeg|youtube:t41zVXV-elE
+author:Jan-Erik Tervo|position:11|pouet:28647|sceneorg:/parties/1995/assembly95/anim/choicecd.mpg|title:The Choice|webfile:animation/the_choice_by_jan_erik_tervo.mpeg|youtube:xga1Z3XVjUw
+author:Shaq|position:12|pouet:28648|sceneorg:/parties/1995/assembly95/anim/aaa.mpg|title:AAA-Animation|webfile:animation/aaa_animation_by_shaq.mpeg|youtube:BZ-4dPNAwJE
+author:Frank|position:13|pouet:28649|sceneorg:/parties/1995/assembly95/anim/nih.mpg|title:NIH|webfile:animation/nih_by_frank.mpeg|youtube:QN3XPK-FAso
+author:Price and Tennessee|position:14|pouet:28650|sceneorg:/parties/1995/assembly95/anim/atlantis.mpg|title:Atlantis|webfile:animation/atlantis_by_price_and_tennessee.mpeg|youtube:Zj6knjJwnB0
 
 
 :section Amiga 40k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:FAD|author:Sonik|position:1|pouet:5096
-title:Hauki|author:Hirmu|position:2|pouet:18455
-title:Blur|author:Sonik|position:3|pouet:4150
-title:Seasick|author:Banal Projects|position:4|pouet:16510
-title:Assembly 95 40k Intro|author:C-Lous|position:5|pouet:5689
-title:Sections|author:Extend|position:6|pouet:16511
-title:Oberon|author:Yodel|position:7|pouet:16512
-title:Cinderhatch|author:RRR|position:8|pouet:16513
-title:Ultimate Stress|author:Bomb Squad|position:9|pouet:16514
-title:Delirium|author:Heretic|position:10|pouet:16515
-title:Sauna!|author:Royal|position:11|pouet:16516
-title:Hope|author:Cirion|position:12|pouet:18457
-title:Sumu|author:Kinky|position:13|pouet:18458
-title:Mission Impossible|author:Amacon|position:14|pouet:13259
-title:Kintro|author:Diffusion|position:15|pouet:18459
+author:Sonik|position:1|pouet:5096|title:FAD
+author:Hirmu|position:2|pouet:18455|title:Hauki
+author:Sonik|position:3|pouet:4150|title:Blur
+author:Banal Projects|position:4|pouet:16510|title:Seasick
+author:C-Lous|position:5|pouet:5689|title:Assembly 95 40k Intro
+author:Extend|position:6|pouet:16511|title:Sections
+author:Yodel|position:7|pouet:16512|title:Oberon
+author:RRR|position:8|pouet:16513|title:Cinderhatch
+author:Bomb Squad|position:9|pouet:16514|title:Ultimate Stress
+author:Heretic|position:10|pouet:16515|title:Delirium
+author:Royal|position:11|pouet:16516|title:Sauna!
+author:Cirion|position:12|pouet:18457|title:Hope
+author:Kinky|position:13|pouet:18458|title:Sumu
+author:Amacon|position:14|pouet:13259|title:Mission Impossible
+author:Diffusion|position:15|pouet:18459|title:Kintro
 
 
 :section Graphics
 :description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
-title:Fiction|author:Visualize/Jamm|position:1|webfile:graphics/fiction_by_visualize_jamm.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Mystery|author:Artifec/Complex|position:2|webfile:graphics/mystery_by_artifec_complex.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Agony|author:Jogi/Mellow Chips|position:3|webfile:graphics/agony_by_jogi_mellow_chips.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Valkyria|author:Visigoth/Pure Resistance|position:4|webfile:graphics/valkyria_by_visigoth_pure_resistance.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Mustafa|author:Kube/CNCD|position:5|webfile:graphics/mustafa_by_kube_cncd.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Morphosis|author:Kal/Astroidea|position:6|webfile:graphics/morphosis_by_kal_astroidea.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:An axe|author:Yoga/United Artists|position:7|webfile:graphics/an_axe_by_yoga_united_artists.gif|sceneorg:/parties/1995/assembly95/grfx/an_axe.zip
-title:Phobic|author:IronMan|position:8|webfile:graphics/phobic_by_ironman.gif|sceneorg:/parties/1995/assembly95/grfx/phobic.zip
-title:Pain 2|author:Mazor/Paragon|position:9|webfile:graphics/pain_2_by_mazor_paragon.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Baby|author:Facet&Super Nao/Lemon.|position:10|webfile:graphics/baby_by_facet_super_nao_lemon.gif|sceneorg:/parties/1995/assembly95/grfx/baby.zip
-title:NO|author:Wolf/X-Trade|position:11|webfile:graphics/no_by_wolf_x_trade.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Grandma|author:Tyshdomolo/Abyss|position:12|webfile:graphics/grandma_by_tyshdomolo_abyss.gif|sceneorg:/parties/1995/assembly95/grfx/grandma.zip
-title:Nut Fish|author:Zeb/Orange|position:13|webfile:graphics/nut_fish_by_zeb_orange.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Blend|author:Neutesten/Zirkonium|position:14|webfile:graphics/blend_by_neutesten_zirkonium.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
-title:Wicked|author:Destop/CNCD|position:15|webfile:graphics/wicked_by_destop_cncd.png|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip
+author:Visualize/Jamm|position:1|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Fiction|webfile:graphics/fiction_by_visualize_jamm.png
+author:Artifec/Complex|position:2|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Mystery|webfile:graphics/mystery_by_artifec_complex.png
+author:Jogi/Mellow Chips|position:3|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Agony|webfile:graphics/agony_by_jogi_mellow_chips.png
+author:Visigoth/Pure Resistance|position:4|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Valkyria|webfile:graphics/valkyria_by_visigoth_pure_resistance.png
+author:Kube/CNCD|position:5|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Mustafa|webfile:graphics/mustafa_by_kube_cncd.png
+author:Kal/Astroidea|position:6|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Morphosis|webfile:graphics/morphosis_by_kal_astroidea.png
+author:Yoga/United Artists|position:7|sceneorg:/parties/1995/assembly95/grfx/an_axe.zip|title:An axe|webfile:graphics/an_axe_by_yoga_united_artists.gif
+author:IronMan|position:8|sceneorg:/parties/1995/assembly95/grfx/phobic.zip|title:Phobic|webfile:graphics/phobic_by_ironman.gif
+author:Mazor/Paragon|position:9|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Pain 2|webfile:graphics/pain_2_by_mazor_paragon.png
+author:Facet&Super Nao/Lemon.|position:10|sceneorg:/parties/1995/assembly95/grfx/baby.zip|title:Baby|webfile:graphics/baby_by_facet_super_nao_lemon.gif
+author:Wolf/X-Trade|position:11|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:NO|webfile:graphics/no_by_wolf_x_trade.png
+author:Tyshdomolo/Abyss|position:12|sceneorg:/parties/1995/assembly95/grfx/grandma.zip|title:Grandma|webfile:graphics/grandma_by_tyshdomolo_abyss.gif
+author:Zeb/Orange|position:13|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Nut Fish|webfile:graphics/nut_fish_by_zeb_orange.png
+author:Neutesten/Zirkonium|position:14|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Blend|webfile:graphics/blend_by_neutesten_zirkonium.png
+author:Destop/CNCD|position:15|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.zip|title:Wicked|webfile:graphics/wicked_by_destop_cncd.png
 
 
 :section PC 64k intro
+:youtube-playlist F0DD798CB5F6CFE1
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1995 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Drift|author:Wild Light|position:1|sceneorg:/parties/1995/assembly95/in64/drift.zip|pouet:2184|youtube:4lB55Q92vB8
-title:Stickman's World|author:COMA|position:2|sceneorg:/parties/1995/assembly95/in64/stick.zip|pouet:1139
-title:Bill G Force|author:Complex|position:3|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|pouet:68|youtube:y6MkrAAYw28
-title:Nation Zero|author:Jamm|position:4|sceneorg:/parties/1995/assembly95/in64/nation0.zip|pouet:1366|youtube:qw_cmwpNT54
-title:Detour|author:Halcyon|position:5|sceneorg:/parties/1995/assembly95/in64/detour.zip|pouet:1270|youtube:fSTQ1KIESBQ
-title:Believe|author:Valhalla|position:6|sceneorg:/parties/1995/assembly95/in64/believe.zip|pouet:1151|youtube:NB1VEah4J7M
-title:Alchymia|author:Mist|position:7|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|pouet:2305|youtube:FR1_oKk95BU
-title:Reality Impact|author:Halo|position:8|sceneorg:/parties/1995/assembly95/in64/realityi.zip|pouet:34231
-title:Camera|author:Symptom|position:9|sceneorg:/parties/1995/assembly95/in64/camera.zip|pouet:5092|youtube:XiByJzzK57w
-title:Pied|author:Abaddon|position:10|sceneorg:/parties/1995/assembly95/in64/pied.zip|pouet:17517|youtube:Tgq-TZnnuB8
-title:Dream|author:Epsilon|position:11|sceneorg:/parties/1995/assembly95/in64/dream_ep.zip|pouet:6772
-title:Cocaholic|author:Hazard|position:12|sceneorg:/parties/1995/assembly95/in64/cocaholc.zip|pouet:6774
-title:Tam|author:Anarchy|position:13|sceneorg:/parties/1995/assembly95/in64/tam.zip|pouet:34232|youtube:AZTqTrCrNlw
-title:No Class|author:Woodpeckers from Mars|position:14|sceneorg:/parties/1995/assembly95/in64/noclass.zip|pouet:34233|youtube:2m375wd91LA
-title:Byte me|author:@|position:15|sceneorg:/parties/1995/assembly95/in64/byteme.zip|pouet:6318
+author:Wild Light|position:1|pouet:2184|sceneorg:/parties/1995/assembly95/in64/drift.zip|title:Drift|youtube:4lB55Q92vB8
+author:COMA|position:2|pouet:1139|sceneorg:/parties/1995/assembly95/in64/stick.zip|title:Stickman's World
+author:Complex|position:3|pouet:68|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|title:Bill G Force|youtube:y6MkrAAYw28
+author:Jamm|position:4|pouet:1366|sceneorg:/parties/1995/assembly95/in64/nation0.zip|title:Nation Zero|youtube:qw_cmwpNT54
+author:Halcyon|position:5|pouet:1270|sceneorg:/parties/1995/assembly95/in64/detour.zip|title:Detour|youtube:fSTQ1KIESBQ
+author:Valhalla|position:6|pouet:1151|sceneorg:/parties/1995/assembly95/in64/believe.zip|title:Believe|youtube:NB1VEah4J7M
+author:Mist|position:7|pouet:2305|sceneorg:/parties/1995/assembly95/in64/alchymia.zip|title:Alchymia|youtube:FR1_oKk95BU
+author:Halo|position:8|pouet:34231|sceneorg:/parties/1995/assembly95/in64/realityi.zip|title:Reality Impact
+author:Symptom|position:9|pouet:5092|sceneorg:/parties/1995/assembly95/in64/camera.zip|title:Camera|youtube:XiByJzzK57w
+author:Abaddon|position:10|pouet:17517|sceneorg:/parties/1995/assembly95/in64/pied.zip|title:Pied|youtube:Tgq-TZnnuB8
+author:Epsilon|position:11|pouet:6772|sceneorg:/parties/1995/assembly95/in64/dream_ep.zip|title:Dream
+author:Hazard|position:12|pouet:6774|sceneorg:/parties/1995/assembly95/in64/cocaholc.zip|title:Cocaholic
+author:Anarchy|position:13|pouet:34232|sceneorg:/parties/1995/assembly95/in64/tam.zip|title:Tam|youtube:AZTqTrCrNlw
+author:Woodpeckers from Mars|position:14|pouet:34233|sceneorg:/parties/1995/assembly95/in64/noclass.zip|title:No Class|youtube:2m375wd91LA
+author:@|position:15|pouet:6318|sceneorg:/parties/1995/assembly95/in64/byteme.zip|title:Byte me
 
 
 :section Multichannel music
+:youtube-playlist 9F22E336A09C97AB
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
-title:Catch that Goblin|author:Skaven|position:1|webfile:multichannel_music/catch_that_goblin_by_skaven.mp3|sceneorg:/parties/1995/assembly95/mmul/ctgoblin.zip|youtube:pX6TLrxYckw
-title:Guild of sounds|author:Rage|position:2|webfile:multichannel_music/guild_of_sounds_by_rage.mp3|sceneorg:/parties/1995/assembly95/mmul/guildofs.zip|youtube:coyjcpOc3Y0
-title:World of unicorns|author:Lizardking|position:3|webfile:multichannel_music/world_of_unicorns_by_lizardking.mp3|sceneorg:/parties/1995/assembly95/mmul/world.zip|youtube:XQwXd7SXcpk
-title:Garage|author:Stargazer|position:4|webfile:multichannel_music/garage_by_stargazer.mp3|sceneorg:/parties/1995/assembly95/mmul/garage.zip|youtube:51vgOnwVVK4
-title:Can you feel it|author:Prism|position:5|webfile:multichannel_music/can_you_feel_it_by_prism.mp3|sceneorg:/parties/1995/assembly95/mmul/canyoufl.zip|youtube:xCgtC5DMI2s
-title:Breaking the sky|author:Beathawk|position:6|webfile:multichannel_music/breaking_the_sky_by_beathawk.mp3|sceneorg:/parties/1995/assembly95/mmul/breaksky.zip|youtube:x21pFDX5DO8
-title:Temple of sun|author:Yolk|position:7|webfile:multichannel_music/temple_of_sun_by_yolk.mp3|sceneorg:/parties/1995/assembly95/mmul/templsun.zip|youtube:HE4ePOUVkos
-title:Astraying Voyages|author:Purple Motion|position:8|webfile:multichannel_music/astraying_voyages_by_purple_motion.mp3|sceneorg:/parties/1995/assembly95/mmul/astray.zip|youtube:2EEMxXZhA1w
-title:Kaapu-Pete Matkustaa|author:Zake|position:9|webfile:multichannel_music/kaapu_pete_matkustaa_by_zake.mp3|sceneorg:/parties/1995/assembly95/mmul/1aa-pete.zip|youtube:DRGzEEJ22fk
-title:Music for the forest|author:Pauli Rämö|position:10|webfile:multichannel_music/music_for_the_forest_by_pauli_r_m.mp3|sceneorg:/parties/1995/assembly95/mmul/forests.zip|youtube:N-AAsB5p5Dw
-title:Spinning|author:Yzi|position:11|webfile:multichannel_music/spinning_by_yzi.mp3|sceneorg:/parties/1995/assembly95/mmul/spinning.zip|youtube:RQuKpOi5AJs
-title:Power Boogie|author:Turtle|position:12|webfile:multichannel_music/power_boogie_by_turtle.mp3|sceneorg:/parties/1995/assembly95/mmul/powerboo.zip|youtube:i34NMxty1ws
-title:So.if.fix.x.|author:RSE|position:13|webfile:multichannel_music/so_if_fix_x_by_rse.mp3|sceneorg:/parties/1995/assembly95/mmul/sifx.zip|youtube:xRt1qC9T3VE
-title:Sy-Stems|author:Pete|position:14|webfile:multichannel_music/sy_stems_by_pete.mp3|sceneorg:/parties/1995/assembly95/mmul/sy-stems.zip|youtube:EIpboR3fHFA
-title:Farewell to Lyrics|author:Edge|position:15|webfile:multichannel_music/farewell_to_lyrics_by_edge.mp3|sceneorg:/parties/1995/assembly95/mmul/farewell.zip|youtube:w9hukVrCBmE
+author:Skaven|position:1|sceneorg:/parties/1995/assembly95/mmul/ctgoblin.zip|title:Catch that Goblin|webfile:multichannel_music/catch_that_goblin_by_skaven.mp3|youtube:pX6TLrxYckw
+author:Rage|position:2|sceneorg:/parties/1995/assembly95/mmul/guildofs.zip|title:Guild of sounds|webfile:multichannel_music/guild_of_sounds_by_rage.mp3|youtube:coyjcpOc3Y0
+author:Lizardking|position:3|sceneorg:/parties/1995/assembly95/mmul/world.zip|title:World of unicorns|webfile:multichannel_music/world_of_unicorns_by_lizardking.mp3|youtube:XQwXd7SXcpk
+author:Stargazer|position:4|sceneorg:/parties/1995/assembly95/mmul/garage.zip|title:Garage|webfile:multichannel_music/garage_by_stargazer.mp3|youtube:51vgOnwVVK4
+author:Prism|position:5|sceneorg:/parties/1995/assembly95/mmul/canyoufl.zip|title:Can you feel it|webfile:multichannel_music/can_you_feel_it_by_prism.mp3|youtube:xCgtC5DMI2s
+author:Beathawk|position:6|sceneorg:/parties/1995/assembly95/mmul/breaksky.zip|title:Breaking the sky|webfile:multichannel_music/breaking_the_sky_by_beathawk.mp3|youtube:x21pFDX5DO8
+author:Yolk|position:7|sceneorg:/parties/1995/assembly95/mmul/templsun.zip|title:Temple of sun|webfile:multichannel_music/temple_of_sun_by_yolk.mp3|youtube:HE4ePOUVkos
+author:Purple Motion|position:8|sceneorg:/parties/1995/assembly95/mmul/astray.zip|title:Astraying Voyages|webfile:multichannel_music/astraying_voyages_by_purple_motion.mp3|youtube:2EEMxXZhA1w
+author:Zake|position:9|sceneorg:/parties/1995/assembly95/mmul/1aa-pete.zip|title:Kaapu-Pete Matkustaa|webfile:multichannel_music/kaapu_pete_matkustaa_by_zake.mp3|youtube:DRGzEEJ22fk
+author:Pauli Rämö|position:10|sceneorg:/parties/1995/assembly95/mmul/forests.zip|title:Music for the forest|webfile:multichannel_music/music_for_the_forest_by_pauli_r_m.mp3|youtube:N-AAsB5p5Dw
+author:Yzi|position:11|sceneorg:/parties/1995/assembly95/mmul/spinning.zip|title:Spinning|webfile:multichannel_music/spinning_by_yzi.mp3|youtube:RQuKpOi5AJs
+author:Turtle|position:12|sceneorg:/parties/1995/assembly95/mmul/powerboo.zip|title:Power Boogie|webfile:multichannel_music/power_boogie_by_turtle.mp3|youtube:i34NMxty1ws
+author:RSE|position:13|sceneorg:/parties/1995/assembly95/mmul/sifx.zip|title:So.if.fix.x.|webfile:multichannel_music/so_if_fix_x_by_rse.mp3|youtube:xRt1qC9T3VE
+author:Pete|position:14|sceneorg:/parties/1995/assembly95/mmul/sy-stems.zip|title:Sy-Stems|webfile:multichannel_music/sy_stems_by_pete.mp3|youtube:EIpboR3fHFA
+author:Edge|position:15|sceneorg:/parties/1995/assembly95/mmul/farewell.zip|title:Farewell to Lyrics|webfile:multichannel_music/farewell_to_lyrics_by_edge.mp3|youtube:w9hukVrCBmE
+

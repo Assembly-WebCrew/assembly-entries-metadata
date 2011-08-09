@@ -3,189 +3,192 @@
 :section C64 music
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
-title:Illogical|author:Genius/Palace|position:1
-title:Anne|author:Thor/Extended|position:2
-title:Unnamed|author:Agemixer/Astral|position:3
+author:Genius/Palace|position:1|title:Illogical
+author:Thor/Extended|position:2|title:Anne
+author:Agemixer/Astral|position:3|title:Unnamed
 
 
 :section 4 channel music
 :youtube-playlist 25A308D730E7CC87
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
-title:Compulsion to Obey|author:Lizardking/Razor1911|position:1|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip|youtube:hdZC659Vvdg
-title:Blue shoe Blues|author:Petrof/Absolute|position:2|webfile:4_channel_music/blue_shoe_blues_by_petrof_absolute.mp3|sceneorg:/parties/1994/assembly94/m4ch/bsblues.zip|youtube:BjWum2zLGew
-title:Tappajakotka & pupu|author:Yolk/Parallax|position:3|webfile:4_channel_music/tappajakotka_pupu_by_yolk_parallax.mp3|sceneorg:/parties/1994/assembly94/m4ch/tkpupu.zip|youtube:g9m8nw3KJX0
-title:Blue Progression|author:Buzzer/Zenon & Yzi/Fit|position:4|webfile:4_channel_music/blue_progression_by_buzzer_zenon_yzi_fit.mp3|sceneorg:/parties/1994/assembly94/m4ch/blueprog.zip|youtube:YyqVhm9Uv0o
-title:Alnite Groove|author:Dizzy/Cncd|position:5|webfile:4_channel_music/alnite_groove_by_dizzy_cncd.mp3|sceneorg:/parties/1994/assembly94/m4ch/allniteg.zip|youtube:5kI7xdwLs0Y
-title:Vote4me|author:Leinad/Avalanche|position:6|webfile:4_channel_music/vote4me_by_leinad_avalanche.mp3|sceneorg:/parties/1994/assembly94/m4ch/vote4me.zip|youtube:kuRMIF6ZJLA
-title:Thunderball|author:Dime/Decnite|position:7|webfile:4_channel_music/thunderball_by_dime_decnite.mp3|sceneorg:/parties/1994/assembly94/m4ch/thunderb.zip|youtube:SJ7DXSIU3MA
-title:Sensitivity|author:Light|position:8|webfile:4_channel_music/sensitivity_by_light.mp3|sceneorg:/parties/1994/assembly94/m4ch/sensivit.zip|youtube:fyGu1kqJhHA
-title:Berrycape.bu1|author:Nudcase/Balance|position:9|webfile:4_channel_music/berrycape_bu1_by_nudcase_balance.mp3|sceneorg:/parties/1994/assembly94/m4ch/berrycap.zip|youtube:tUx95UJQ84U
-title:Happypaskamies|author:Moby/Sanity|position:10
+author:Lizardking/Razor1911|position:1|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip|title:Compulsion to Obey|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|youtube:hdZC659Vvdg
+author:Petrof/Absolute|position:2|sceneorg:/parties/1994/assembly94/m4ch/bsblues.zip|title:Blue shoe Blues|webfile:4_channel_music/blue_shoe_blues_by_petrof_absolute.mp3|youtube:BjWum2zLGew
+author:Yolk/Parallax|position:3|sceneorg:/parties/1994/assembly94/m4ch/tkpupu.zip|title:Tappajakotka & pupu|webfile:4_channel_music/tappajakotka_pupu_by_yolk_parallax.mp3|youtube:g9m8nw3KJX0
+author:Buzzer/Zenon & Yzi/Fit|position:4|sceneorg:/parties/1994/assembly94/m4ch/blueprog.zip|title:Blue Progression|webfile:4_channel_music/blue_progression_by_buzzer_zenon_yzi_fit.mp3|youtube:YyqVhm9Uv0o
+author:Dizzy/Cncd|position:5|sceneorg:/parties/1994/assembly94/m4ch/allniteg.zip|title:Alnite Groove|webfile:4_channel_music/alnite_groove_by_dizzy_cncd.mp3|youtube:5kI7xdwLs0Y
+author:Leinad/Avalanche|position:6|sceneorg:/parties/1994/assembly94/m4ch/vote4me.zip|title:Vote4me|webfile:4_channel_music/vote4me_by_leinad_avalanche.mp3|youtube:kuRMIF6ZJLA
+author:Dime/Decnite|position:7|sceneorg:/parties/1994/assembly94/m4ch/thunderb.zip|title:Thunderball|webfile:4_channel_music/thunderball_by_dime_decnite.mp3|youtube:SJ7DXSIU3MA
+author:Light|position:8|sceneorg:/parties/1994/assembly94/m4ch/sensivit.zip|title:Sensitivity|webfile:4_channel_music/sensitivity_by_light.mp3|youtube:fyGu1kqJhHA
+author:Nudcase/Balance|position:9|sceneorg:/parties/1994/assembly94/m4ch/berrycap.zip|title:Berrycape.bu1|webfile:4_channel_music/berrycape_bu1_by_nudcase_balance.mp3|youtube:tUx95UJQ84U
+author:Moby/Sanity|position:10|title:Happypaskamies
 
 
 :section PC demo
 :youtube-playlist 693131C114C49D77
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1994 PCs.</p>
 
-title:Verses|author:Electro Motive Force|position:1|sceneorg:/parties/1994/assembly94/demo/verses.zip|pouet:67|dtv:id_file=2337&id_prod=11521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/67.jpg&width=512&height=404
-title:Holistic|author:Cascada VR-section|position:2|sceneorg:/parties/1994/assembly94/demo/holistic.zip|pouet:7982|youtube:UUsmkcwzxQo
-title:Heartquake|author:Iquana|position:3|sceneorg:/parties/1994/assembly94/demo/heartq.zip|pouet:364|dtv:id_file=2335&id_prod=4922&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/364.jpg&width=512&height=404|youtube:9KoUyFhddIs
-title:Warp|author:Legend Design|position:4|sceneorg:/parties/1994/assembly94/demo/ld-warpf.zip|pouet:3044|youtube:V-3q0AA5rPQ
-title:Images|author:Epical|position:5|sceneorg:/parties/1994/assembly94/demo/images.zip|pouet:5089
-title:The Real THING|author:Capacala|position:6|sceneorg:/parties/1994/assembly94/demo/realthng.zip|pouet:66|dtv:id_file=2340&id_prod=10694&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/66.jpg&width=512&height=404|youtube:T2hn80vw3YI
-title:Catch up|author:Grif|position:7|sceneorg:/parties/1994/assembly94/demo/catchupp.zip|pouet:1293|youtube:lZ8yo3ubO3E
-title:Silence|author:Hysteria|position:8|sceneorg:/parties/1994/assembly94/demo/silence.zip|pouet:1292|youtube:Yf00qkZfYWw
-title:Cosmic Brothers|author:Complex|position:9|sceneorg:/parties/1994/assembly94/demo/cosmic.zip|pouet:5333|youtube:pa53V9DhIn8
-title:2 cents|author:Mental Design|position:10|sceneorg:/parties/1994/assembly94/demo/2cents.zip|pouet:15544
-title:The Final Option|author:Phanton Design|position:11|sceneorg:/parties/1994/assembly94/demo/thefinop.zip|pouet:15545
-title:Tempesta|author:Soft One Productions|position:12|sceneorg:/parties/1994/assembly94/demo/tempesta.zip|pouet:15546|youtube:RSRNEP2BwSk
-title:Trekmo|author:Patrik Aalto|position:13|sceneorg:/parties/1994/assembly94/demo/trekmo.zip|pouet:15547
-title:Un Eatable|author:TC|position:14|sceneorg:/parties/1994/assembly94/demo/uneatble.zip|pouet:2526|youtube:K0KixJevRbk
-title:Visions of Light|author:Valhalla|position:15|sceneorg:/parties/1994/assembly94/demo/visionsl.zip|pouet:4852
-title:Fly|author:Anjovis|position:16|sceneorg:/parties/1994/assembly94/demo/fly.zip|pouet:8656
-title:Meltdown|author:SPA|position:17|pouet:3473|dtv:id_file=4198&id_prod=6855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3473.jpg&width=512&height=404
-title:FairlyTale|author:Styx|position:18|sceneorg:/parties/1994/assembly94/demo/fairy.zip|pouet:7222|youtube:j3TEhD7xbWY
-title:Accident|author:Axidental|position:19|sceneorg:/parties/1994/assembly94/demo/accident.zip|pouet:8661
-title:Dawn|author:Tei|position:20|sceneorg:/parties/1994/assembly94/demo/dawn.zip|pouet:8660
-title:The Mo|author:Demons|position:21|sceneorg:/parties/1994/assembly94/demo/themo.zip|pouet:8663|youtube:mMgUEAuYeLw
+author:Electro Motive Force|dtv:id_file=2337&id_prod=11521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/67.jpg&width=512&height=404|position:1|pouet:67|sceneorg:/parties/1994/assembly94/demo/verses.zip|title:Verses
+author:Cascada VR-section|position:2|pouet:7982|sceneorg:/parties/1994/assembly94/demo/holistic.zip|title:Holistic|youtube:UUsmkcwzxQo
+author:Iquana|dtv:id_file=2335&id_prod=4922&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/364.jpg&width=512&height=404|position:3|pouet:364|sceneorg:/parties/1994/assembly94/demo/heartq.zip|title:Heartquake|youtube:9KoUyFhddIs
+author:Legend Design|position:4|pouet:3044|sceneorg:/parties/1994/assembly94/demo/ld-warpf.zip|title:Warp|youtube:V-3q0AA5rPQ
+author:Epical|position:5|pouet:5089|sceneorg:/parties/1994/assembly94/demo/images.zip|title:Images
+author:Capacala|dtv:id_file=2340&id_prod=10694&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/66.jpg&width=512&height=404|position:6|pouet:66|sceneorg:/parties/1994/assembly94/demo/realthng.zip|title:The Real THING|youtube:T2hn80vw3YI
+author:Grif|position:7|pouet:1293|sceneorg:/parties/1994/assembly94/demo/catchupp.zip|title:Catch up|youtube:lZ8yo3ubO3E
+author:Hysteria|position:8|pouet:1292|sceneorg:/parties/1994/assembly94/demo/silence.zip|title:Silence|youtube:Yf00qkZfYWw
+author:Complex|position:9|pouet:5333|sceneorg:/parties/1994/assembly94/demo/cosmic.zip|title:Cosmic Brothers|youtube:pa53V9DhIn8
+author:Mental Design|position:10|pouet:15544|sceneorg:/parties/1994/assembly94/demo/2cents.zip|title:2 cents
+author:Phanton Design|position:11|pouet:15545|sceneorg:/parties/1994/assembly94/demo/thefinop.zip|title:The Final Option
+author:Soft One Productions|position:12|pouet:15546|sceneorg:/parties/1994/assembly94/demo/tempesta.zip|title:Tempesta|youtube:RSRNEP2BwSk
+author:Patrik Aalto|position:13|pouet:15547|sceneorg:/parties/1994/assembly94/demo/trekmo.zip|title:Trekmo
+author:TC|position:14|pouet:2526|sceneorg:/parties/1994/assembly94/demo/uneatble.zip|title:Un Eatable|youtube:K0KixJevRbk
+author:Valhalla|position:15|pouet:4852|sceneorg:/parties/1994/assembly94/demo/visionsl.zip|title:Visions of Light
+author:Anjovis|position:16|pouet:8656|sceneorg:/parties/1994/assembly94/demo/fly.zip|title:Fly
+author:SPA|dtv:id_file=4198&id_prod=6855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3473.jpg&width=512&height=404|position:17|pouet:3473|title:Meltdown
+author:Styx|position:18|pouet:7222|sceneorg:/parties/1994/assembly94/demo/fairy.zip|title:FairlyTale|youtube:j3TEhD7xbWY
+author:Axidental|position:19|pouet:8661|sceneorg:/parties/1994/assembly94/demo/accident.zip|title:Accident
+author:Tei|position:20|pouet:8660|sceneorg:/parties/1994/assembly94/demo/dawn.zip|title:Dawn
+author:Demons|position:21|pouet:8663|sceneorg:/parties/1994/assembly94/demo/themo.zip|title:The Mo|youtube:mMgUEAuYeLw
+
 
 :section 32 channel music
 :youtube-playlist 8D6CC2B7D65BFE57
 :description <p>In 32 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
-title:Walkaway|author:Stargazer/Sonic|position:1|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip|youtube:7cj8RRDaJy4
-title:Journey|author:Cube/Aggression|position:2|webfile:32_channel_music/journey_by_cube_aggression.mp3|sceneorg:/parties/1994/assembly94/mmul/journey.zip|youtube:S88tqzJ-RBg
-title:Claustrophobia|author:Lizardking/Triton|position:3|webfile:32_channel_music/claustrophobia_by_lizardking_triton.mp3|sceneorg:/parties/1994/assembly94/mmul/claustr2.zip|youtube:ooHRgkwFJxw
-title:When The Heavens Fall|author:Purple Motion/Fc|position:4|webfile:32_channel_music/when_the_heavens_fall_by_purple_motion_fc.mp3|sceneorg:/parties/1994/assembly94/mmul/when.zip|youtube:0Aml-E_OsmI
-title:Infinity|author:Khyron/Acid|position:5|webfile:32_channel_music/infinity_by_khyron_acid.mp3|sceneorg:/parties/1994/assembly94/mmul/infinity.zip|youtube:A5dlzV9uRuA
-title:Empty Mind|author:Edge/Unexpected|position:6|webfile:32_channel_music/empty_mind_by_edge_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/emptmind.zip|youtube:PFCNkhEbsho
-title:Lil'funk Machine|author:Vinyl/Mind Probe|position:7|webfile:32_channel_music/lil_funk_machine_by_vinyl_mind_probe.mp3|sceneorg:/parties/1994/assembly94/mmul/lilfunk.zip|youtube:K6mQYqEGIWU
-title:Artificial Inteligence|author:Prism/Unexpected|position:8|webfile:32_channel_music/artificial_inteligence_by_prism_unexpected.mp3|sceneorg:/parties/1994/assembly94/mmul/artfclin.zip|youtube:6gPTqKC5PgA
-title:Nobody Dreaming|author:Dune/Sonic PC|position:10|webfile:32_channel_music/nobody_dreaming_by_dune_sonic_pc.mp3|sceneorg:/parties/1994/assembly94/mmul/nobody.zip|youtube:75Tpdtwtg0U
-title:Lovesong|author:Channel5/Flp|position:11|webfile:32_channel_music/lovesong_by_channel5_flp.mp3|sceneorg:/parties/1994/assembly94/mmul/lovesong.zip|youtube:IrB4UP-gi78
+author:Stargazer/Sonic|position:1|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip|title:Walkaway|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|youtube:7cj8RRDaJy4
+author:Cube/Aggression|position:2|sceneorg:/parties/1994/assembly94/mmul/journey.zip|title:Journey|webfile:32_channel_music/journey_by_cube_aggression.mp3|youtube:S88tqzJ-RBg
+author:Lizardking/Triton|position:3|sceneorg:/parties/1994/assembly94/mmul/claustr2.zip|title:Claustrophobia|webfile:32_channel_music/claustrophobia_by_lizardking_triton.mp3|youtube:ooHRgkwFJxw
+author:Purple Motion/Fc|position:4|sceneorg:/parties/1994/assembly94/mmul/when.zip|title:When The Heavens Fall|webfile:32_channel_music/when_the_heavens_fall_by_purple_motion_fc.mp3|youtube:0Aml-E_OsmI
+author:Khyron/Acid|position:5|sceneorg:/parties/1994/assembly94/mmul/infinity.zip|title:Infinity|webfile:32_channel_music/infinity_by_khyron_acid.mp3|youtube:A5dlzV9uRuA
+author:Edge/Unexpected|position:6|sceneorg:/parties/1994/assembly94/mmul/emptmind.zip|title:Empty Mind|webfile:32_channel_music/empty_mind_by_edge_unexpected.mp3|youtube:PFCNkhEbsho
+author:Vinyl/Mind Probe|position:7|sceneorg:/parties/1994/assembly94/mmul/lilfunk.zip|title:Lil'funk Machine|webfile:32_channel_music/lil_funk_machine_by_vinyl_mind_probe.mp3|youtube:K6mQYqEGIWU
+author:Prism/Unexpected|position:8|sceneorg:/parties/1994/assembly94/mmul/artfclin.zip|title:Artificial Inteligence|webfile:32_channel_music/artificial_inteligence_by_prism_unexpected.mp3|youtube:6gPTqKC5PgA
+author:Dune/Sonic PC|position:10|sceneorg:/parties/1994/assembly94/mmul/nobody.zip|title:Nobody Dreaming|webfile:32_channel_music/nobody_dreaming_by_dune_sonic_pc.mp3|youtube:75Tpdtwtg0U
+author:Channel5/Flp|position:11|sceneorg:/parties/1994/assembly94/mmul/lovesong.zip|title:Lovesong|webfile:32_channel_music/lovesong_by_channel5_flp.mp3|youtube:IrB4UP-gi78
 
 
 :section C64 graphics
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
-title:Swislain|author:Electric/Extended|position:1
-title:Dragon|author:Mire/Panic|position:2
-title:Ischarah|author:Mr.Sex/Byterapers|position:3
+author:Electric/Extended|position:1|title:Swislain
+author:Mire/Panic|position:2|title:Dragon
+author:Mr.Sex/Byterapers|position:3|title:Ischarah
 
 
 :section PC 4k intro
 :youtube-playlist 581E5FB7350DAFE3
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1994 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-
-title:Stoned|author:Dust|position:1|sceneorg:/parties/1994/assembly94/in4k/stoned.zip|pouet:10851|youtube:oayvAoENh9c
-title:Spam4kb|author:Tobo|position:2|sceneorg:/parties/1994/assembly94/in4k/spam4kb.zip|pouet:19196|youtube:rohMGA7cteI
-title:Optimize|author:Feenix/Epical|position:3|sceneorg:/parties/1994/assembly94/in4k/optimize.zip|pouet:10853|youtube:ZAnSxLN3IdM
-title:Fractals|author:Schwarz|position:4|sceneorg:/parties/1994/assembly94/in4k/fractals.zip|pouet:7502|youtube:6lC5NIwwils
-title:Move|author:Chicken/SP!|position:5|sceneorg:/parties/1994/assembly94/in4k/move.zip|pouet:7040|youtube:Qv4IECd3nxw
-title:Fractal Dreams|author:Vizard/Mental Design|position:6|sceneorg:/parties/1994/assembly94/in4k/fractcha.zip|pouet:2587|youtube:xh6IU5zp7IQ
-title:'3940'|author:Fluz/Flatline Productions|position:7|sceneorg:/parties/1994/assembly94/in4k/3940.zip|youtube:lc6CzUIPqS0
-title:Virtuosys|author:Sb/Remal|position:8|sceneorg:/parties/1994/assembly94/in4k/virtuosy.zip|pouet:19197|youtube:tP9krH6ecSU
-title:JustdoIt|author:Megaduo/Grif|position:9|sceneorg:/parties/1994/assembly94/in4k/justdoit.zip|pouet:19195|youtube:MLmFY0vIQP4
-title:Happi Happi Joy Joy|author:P-nut/Darkzone|position:10|sceneorg:/parties/1994/assembly94/in4k/happijoy.zip|pouet:19198|youtube:8EIl5l-tUdo
-title:Plasmatic|author:Zden|position:11|sceneorg:/parties/1994/assembly94/in4k/plasmat.zip|pouet:24739|youtube:pJ65514-huY
+author:Dust|position:1|pouet:10851|sceneorg:/parties/1994/assembly94/in4k/stoned.zip|title:Stoned|youtube:oayvAoENh9c
+author:Tobo|position:2|pouet:19196|sceneorg:/parties/1994/assembly94/in4k/spam4kb.zip|title:Spam4kb|youtube:rohMGA7cteI
+author:Feenix/Epical|position:3|pouet:10853|sceneorg:/parties/1994/assembly94/in4k/optimize.zip|title:Optimize|youtube:ZAnSxLN3IdM
+author:Schwarz|position:4|pouet:7502|sceneorg:/parties/1994/assembly94/in4k/fractals.zip|title:Fractals|youtube:6lC5NIwwils
+author:Chicken/SP!|position:5|pouet:7040|sceneorg:/parties/1994/assembly94/in4k/move.zip|title:Move|youtube:Qv4IECd3nxw
+author:Vizard/Mental Design|position:6|pouet:2587|sceneorg:/parties/1994/assembly94/in4k/fractcha.zip|title:Fractal Dreams|youtube:xh6IU5zp7IQ
+author:Fluz/Flatline Productions|position:7|sceneorg:/parties/1994/assembly94/in4k/3940.zip|title:'3940'|youtube:lc6CzUIPqS0
+author:Sb/Remal|position:8|pouet:19197|sceneorg:/parties/1994/assembly94/in4k/virtuosy.zip|title:Virtuosys|youtube:tP9krH6ecSU
+author:Megaduo/Grif|position:9|pouet:19195|sceneorg:/parties/1994/assembly94/in4k/justdoit.zip|title:JustdoIt|youtube:MLmFY0vIQP4
+author:P-nut/Darkzone|position:10|pouet:19198|sceneorg:/parties/1994/assembly94/in4k/happijoy.zip|title:Happi Happi Joy Joy|youtube:8EIl5l-tUdo
+author:Zden|position:11|pouet:24739|sceneorg:/parties/1994/assembly94/in4k/plasmat.zip|title:Plasmatic|youtube:pJ65514-huY
 
 
 :section Amiga 40k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:G-force|author:Pygmy Projects|position:1|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|pouet:3419
-title:Falurecolor|author:Razor 1911|position:2|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|pouet:7358
-title:Darkroom|author:Stellar|position:3|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|pouet:3452|dtv:id_file=4061&id_prod=2637&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3452.jpg&width=512&height=404
-title:Kampela|author:Hirmu|position:4|sceneorg:/parties/1994/assembly94/amiga/in40/kampela.zip|pouet:19532
-title:40k Intro|author:Halo|position:5|sceneorg:/parties/1994/assembly94/amiga/in40/halo40k.zip|pouet:19533
-title:Sourcemetery|author:Razor 1911|position:6|sceneorg:/parties/1994/assembly94/amiga/in40/sourceme.zip|pouet:7359
-title:Wonderland|author:Oblivion|position:7|sceneorg:/parties/1994/assembly94/amiga/in40/wonderla.zip
-title:Full Frontal Nudity|author:Lego|position:8|sceneorg:/parties/1994/assembly94/amiga/in40/frontaln.zip|pouet:11361
-title:Meliopolis|author:Insane|position:9
-title:Sine|author:Complex|position:10
-title:40k Intro|author:Humane|position:11|pouet:24874
-title:Iltis|author:Pointless|position:12|sceneorg:/parties/1994/assembly94/amiga/in40/iltis.zip
-title:Artgore|author:Abyss|position:13|sceneorg:/parties/1994/assembly94/amiga/in40/artcore.zip|pouet:26245
-title:40k IntroII|author:Halo|position:14|sceneorg:/parties/1994/assembly94/amiga/in40/halo2.zip
-title:Ride|author:Oxygene|position:15|sceneorg:/parties/1994/assembly94/amiga/in40/ride.zip|pouet:10358
-title:Intro|author:Imperium|position:16
-title:Ei Saa Peittaa|author:Sardonyx|position:17|sceneorg:/parties/1994/assembly94/amiga/in40/eisaa.zip|pouet:31469
-title:Lousy Routines|author:Disknet|position:18
-title:Intro|author:Boom Design|position:19|sceneorg:/parties/1994/assembly94/amiga/in40/boom40k.zip|pouet:49306
-title:Kerppo|author:Insane|position:20
-title:Intro|author:Alien Adenoids|position:21
-title:Blizard of rakkks|author:Psionic|position:22|sceneorg:/parties/1994/assembly94/amiga/in40/psi.zip
-title:Nil|author:Evacue|position:23|sceneorg:/parties/1994/assembly94/amiga/in40/nil.zip
-title:Hotdog|author:Meka Design|position:24|sceneorg:/parties/1994/assembly94/amiga/in40/hotdog.zip
-title:Gurumeditation II|author:Eclipse|position:25|sceneorg:/parties/1994/assembly94/amiga/in40/gm2.zip|pouet:51149
-title:Crap!|author:Exhouse|position:26|sceneorg:/parties/1994/assembly94/amiga/in40/crap.zip|pouet:13338
+author:Pygmy Projects|position:1|pouet:3419|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|title:G-force
+author:Razor 1911|position:2|pouet:7358|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|title:Falurecolor
+author:Stellar|dtv:id_file=4061&id_prod=2637&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3452.jpg&width=512&height=404|position:3|pouet:3452|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|title:Darkroom
+author:Hirmu|position:4|pouet:19532|sceneorg:/parties/1994/assembly94/amiga/in40/kampela.zip|title:Kampela
+author:Halo|position:5|pouet:19533|sceneorg:/parties/1994/assembly94/amiga/in40/halo40k.zip|title:40k Intro
+author:Razor 1911|position:6|pouet:7359|sceneorg:/parties/1994/assembly94/amiga/in40/sourceme.zip|title:Sourcemetery
+author:Oblivion|position:7|sceneorg:/parties/1994/assembly94/amiga/in40/wonderla.zip|title:Wonderland
+author:Lego|position:8|pouet:11361|sceneorg:/parties/1994/assembly94/amiga/in40/frontaln.zip|title:Full Frontal Nudity
+author:Insane|position:9|title:Meliopolis
+author:Complex|position:10|title:Sine
+author:Humane|position:11|pouet:24874|title:40k Intro
+author:Pointless|position:12|sceneorg:/parties/1994/assembly94/amiga/in40/iltis.zip|title:Iltis
+author:Abyss|position:13|pouet:26245|sceneorg:/parties/1994/assembly94/amiga/in40/artcore.zip|title:Artgore
+author:Halo|position:14|sceneorg:/parties/1994/assembly94/amiga/in40/halo2.zip|title:40k IntroII
+author:Oxygene|position:15|pouet:10358|sceneorg:/parties/1994/assembly94/amiga/in40/ride.zip|title:Ride
+author:Imperium|position:16|title:Intro
+author:Sardonyx|position:17|pouet:31469|sceneorg:/parties/1994/assembly94/amiga/in40/eisaa.zip|title:Ei Saa Peittaa
+author:Disknet|position:18|title:Lousy Routines
+author:Boom Design|position:19|pouet:49306|sceneorg:/parties/1994/assembly94/amiga/in40/boom40k.zip|title:Intro
+author:Insane|position:20|title:Kerppo
+author:Alien Adenoids|position:21|title:Intro
+author:Psionic|position:22|sceneorg:/parties/1994/assembly94/amiga/in40/psi.zip|title:Blizard of rakkks
+author:Evacue|position:23|sceneorg:/parties/1994/assembly94/amiga/in40/nil.zip|title:Nil
+author:Meka Design|position:24|sceneorg:/parties/1994/assembly94/amiga/in40/hotdog.zip|title:Hotdog
+author:Eclipse|position:25|pouet:51149|sceneorg:/parties/1994/assembly94/amiga/in40/gm2.zip|title:Gurumeditation II
+author:Exhouse|position:26|pouet:13338|sceneorg:/parties/1994/assembly94/amiga/in40/crap.zip|title:Crap!
 
 
 :section C64 demo
+:youtube-playlist B247B6673FDB8C1A
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
-title:Att. of the Stubidos 3|author:Beyond Force|position:1|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1732|youtube:44SgIqUX3UQ
-title:World of Code II|author:Byterapers|position:2|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:1618|youtube:_njUT8xbAX8
-title:Best of Trinomic|author:Trinomic|position:3|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|pouet:44715
+author:Beyond Force|position:1|pouet:1732|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|title:Att. of the Stubidos 3|youtube:44SgIqUX3UQ
+author:Byterapers|position:2|pouet:1618|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|title:World of Code II|youtube:_njUT8xbAX8
+author:Trinomic|position:3|pouet:44715|sceneorg:/parties/1994/assembly94/c64/asm94c64.lha|title:Best of Trinomic
 
 
 :section Amiga demo
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:Mindflow|author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.zip
-title:Breath Taker|author:Vitual Dreams|position:2|sceneorg:/parties/1994/assembly94/amiga/demo/vdbt.zip|pouet:2568
-title:Drool This|author:Parallax|position:3|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|pouet:7971|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404
-title:Ilyad|author:Alcatraz|position:4|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|pouet:10359|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404
-title:Cccp|author:Juliet & Case|position:5|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|pouet:14991
-title:Maxium Overdrive II|author:Rage|position:6|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,/parties/1994/assembly94/amiga/demo/rage2.dms,/parties/1994/assembly94/amiga/demo/rage3.dms|pouet:9106
-title:Despair|author:Insane|position:7|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|pouet:17249
-title:Sup.l# $7fd1|author:Analogy|position:8|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|pouet:23217|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404
-title:Final Condom|author:Delon|position:9|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|pouet:7617|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404
-title:Ill Flower|author:unknown|position:10|sceneorg:/parties/1994/assembly94/amiga/demo/illflow.zip|pouet:12349
-title:Creme|author:Embassy|position:11|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|pouet:6681
-title:Hardday|author:Emt Design|position:12|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|pouet:17250
+author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.zip|title:Mindflow
+author:Vitual Dreams|position:2|pouet:2568|sceneorg:/parties/1994/assembly94/amiga/demo/vdbt.zip|title:Breath Taker
+author:Parallax|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404|position:3|pouet:7971|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|title:Drool This
+author:Alcatraz|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404|position:4|pouet:10359|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|title:Ilyad
+author:Juliet & Case|position:5|pouet:14991|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|title:Cccp
+author:Rage|position:6|pouet:9106|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,/parties/1994/assembly94/amiga/demo/rage2.dms,/parties/1994/assembly94/amiga/demo/rage3.dms|title:Maxium Overdrive II
+author:Insane|position:7|pouet:17249|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|title:Despair
+author:Analogy|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404|position:8|pouet:23217|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|title:Sup.l# $7fd1
+author:Delon|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404|position:9|pouet:7617|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|title:Final Condom
+author:unknown|position:10|pouet:12349|sceneorg:/parties/1994/assembly94/amiga/demo/illflow.zip|title:Ill Flower
+author:Embassy|position:11|pouet:6681|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|title:Creme
+author:Emt Design|position:12|pouet:17250|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|title:Hardday
 
 
 :section Graphics
 :description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
-title:Pain|author:Destop/Cyberiad & Carillon|position:1
-title:Wester Dog|author:RWO & Zinko / Polka Brothers|position:2|webfile:graphics/wester_dog_by_rwo_zinko_polka_brothers.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Chaos In Tokio|author:Hotshot/Complex|position:3
-title:Al Bundy|author:Tyshdomos/Abyss|position:4|webfile:graphics/al_bundy_by_tyshdomos_abyss.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Queen of the Doom|author:Jugi/Complex|position:5|webfile:graphics/queen_of_the_doom_by_jugi_complex.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Weed|author:Devilstar/Virtual Dreams|position:6
-title:A God Pipe of ...?|author:Pixie/Polka Bros|position:7|webfile:graphics/a_god_pipe_of_by_pixie_polka_bros.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Warehouse|author:Lance/Acression|position:8|webfile:graphics/warehouse_by_lance_acression.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Libera|author:Reward/Complex|position:9|webfile:graphics/libera_by_reward_complex.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Smeagol|author:Well/Paranoid|position:10|webfile:graphics/smeagol_by_well_paranoid.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Nightmare are beauty|author:LGM / Pygmy Projects|position:11
-title:Carwing god|author:Motion Lotion / Exceed Prod.|position:12|webfile:graphics/carwing_god_by_motion_lotion_exceed_prod.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Mot|author:Ocucto/Iquana|position:13|webfile:graphics/mot_by_ocucto_iquana.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:In Nether World|author:D-Design/Razor 1911|position:14
-title:Eye Ball|author:Deckard/Disaster|position:15|webfile:graphics/eye_ball_by_deckard_disaster.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Complexion|author:Wolf/Evarne|position:16
-title:Marble Face|author:Slaine/Ivory|position:17|webfile:graphics/marble_face_by_slaine_ivory.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Between the Eyes|author:Rodney/Aurora|position:18|webfile:graphics/between_the_eyes_by_rodney_aurora.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Alternatik|author:N.i.k/Sonic PeeCee|position:19
-title:Medusa|author:Gredo/Anathema|position:20
-title:Unfinished Tales|author:Marvel/Fc|position:21|webfile:graphics/unfinished_tales_by_marvel_fc.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
-title:Abadoned Emotions|author:Olv/Acression|position:22
-title:Cat Eyes|author:Madster/Tcb|position:23|webfile:graphics/cat_eyes_by_madster_tcb.png|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip
+author:Destop/Cyberiad & Carillon|position:1|title:Pain
+author:RWO & Zinko / Polka Brothers|position:2|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Wester Dog|webfile:graphics/wester_dog_by_rwo_zinko_polka_brothers.png
+author:Hotshot/Complex|position:3|title:Chaos In Tokio
+author:Tyshdomos/Abyss|position:4|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Al Bundy|webfile:graphics/al_bundy_by_tyshdomos_abyss.png
+author:Jugi/Complex|position:5|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Queen of the Doom|webfile:graphics/queen_of_the_doom_by_jugi_complex.png
+author:Devilstar/Virtual Dreams|position:6|title:Weed
+author:Pixie/Polka Bros|position:7|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:A God Pipe of ...?|webfile:graphics/a_god_pipe_of_by_pixie_polka_bros.png
+author:Lance/Acression|position:8|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Warehouse|webfile:graphics/warehouse_by_lance_acression.png
+author:Reward/Complex|position:9|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Libera|webfile:graphics/libera_by_reward_complex.png
+author:Well/Paranoid|position:10|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Smeagol|webfile:graphics/smeagol_by_well_paranoid.png
+author:LGM / Pygmy Projects|position:11|title:Nightmare are beauty
+author:Motion Lotion / Exceed Prod.|position:12|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Carwing god|webfile:graphics/carwing_god_by_motion_lotion_exceed_prod.png
+author:Ocucto/Iquana|position:13|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Mot|webfile:graphics/mot_by_ocucto_iquana.png
+author:D-Design/Razor 1911|position:14|title:In Nether World
+author:Deckard/Disaster|position:15|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Eye Ball|webfile:graphics/eye_ball_by_deckard_disaster.png
+author:Wolf/Evarne|position:16|title:Complexion
+author:Slaine/Ivory|position:17|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Marble Face|webfile:graphics/marble_face_by_slaine_ivory.png
+author:Rodney/Aurora|position:18|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Between the Eyes|webfile:graphics/between_the_eyes_by_rodney_aurora.png
+author:N.i.k/Sonic PeeCee|position:19|title:Alternatik
+author:Gredo/Anathema|position:20|title:Medusa
+author:Marvel/Fc|position:21|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Unfinished Tales|webfile:graphics/unfinished_tales_by_marvel_fc.png
+author:Olv/Acression|position:22|title:Abadoned Emotions
+author:Madster/Tcb|position:23|sceneorg:/parties/1994/assembly94/grfx/asm94gfx.zip|title:Cat Eyes|webfile:graphics/cat_eyes_by_madster_tcb.png
 
 
 :section PC 64k intro
+:youtube-playlist 1118A5899C3F6A12
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1994 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:AirFrame|author:Prime|position:1|sceneorg:/parties/1994/assembly94/in64/airframe.zip|pouet:107|youtube:YP6OBRhT-MY
-title:Space Jam|author:Fascination|position:2|sceneorg:/parties/1994/assembly94/in64/spacejam.zip|pouet:2533
-title:Fyvush|author:Jamm|position:3|sceneorg:/parties/1994/assembly94/in64/fyvush.zip|pouet:2546|youtube:yaNsT31hQQw
-title:Placebo|author:Complex|position:4|sceneorg:/parties/1994/assembly94/in64/placebo.zip|pouet:1275|youtube:zWuW3EEjzQk
-title:Psychic Flight|author:Spirit|position:5|sceneorg:/parties/1994/assembly94/in64/psychicf.zip|pouet:41739
-title:The Magic Circle|author:TET|position:6|sceneorg:/parties/1994/assembly94/in64/magic.zip|pouet:3869|youtube:x26jA8Zxnj8
-title:Bees & Honey|author:MindProbe|position:7|sceneorg:/parties/1994/assembly94/in64/beeshone.zip|pouet:2550|youtube:CMlvMz_kh34
-title:Passion|author:Doomsday Productions|position:8|sceneorg:/parties/1994/assembly94/in64/passion.zip|pouet:3962
-title:Dash|author:Paragon|position:9|sceneorg:/parties/1994/assembly94/in64/dash.zip|pouet:18290
-title:4Kings|author:Orange|position:10|sceneorg:/parties/1994/assembly94/in64/4kings.zip|pouet:13764|youtube:RN4kY0uKJls
+author:Prime|position:1|pouet:107|sceneorg:/parties/1994/assembly94/in64/airframe.zip|title:AirFrame|youtube:YP6OBRhT-MY
+author:Fascination|position:2|pouet:2533|sceneorg:/parties/1994/assembly94/in64/spacejam.zip|title:Space Jam
+author:Jamm|position:3|pouet:2546|sceneorg:/parties/1994/assembly94/in64/fyvush.zip|title:Fyvush|youtube:yaNsT31hQQw
+author:Complex|position:4|pouet:1275|sceneorg:/parties/1994/assembly94/in64/placebo.zip|title:Placebo|youtube:zWuW3EEjzQk
+author:Spirit|position:5|pouet:41739|sceneorg:/parties/1994/assembly94/in64/psychicf.zip|title:Psychic Flight
+author:TET|position:6|pouet:3869|sceneorg:/parties/1994/assembly94/in64/magic.zip|title:The Magic Circle|youtube:x26jA8Zxnj8
+author:MindProbe|position:7|pouet:2550|sceneorg:/parties/1994/assembly94/in64/beeshone.zip|title:Bees & Honey|youtube:CMlvMz_kh34
+author:Doomsday Productions|position:8|pouet:3962|sceneorg:/parties/1994/assembly94/in64/passion.zip|title:Passion
+author:Paragon|position:9|pouet:18290|sceneorg:/parties/1994/assembly94/in64/dash.zip|title:Dash
+author:Orange|position:10|pouet:13764|sceneorg:/parties/1994/assembly94/in64/4kings.zip|title:4Kings|youtube:RN4kY0uKJls
+

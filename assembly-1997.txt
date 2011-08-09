@@ -3,229 +3,235 @@
 :section C64 music
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
-title:Fugue in G-Minor|author:Trident/Active|position:1
-title:Oldskool|author:Cube!/Trauma+Palace|position:2
-title:Space Debris|author:Alien/WOW|position:3
-title:mos6581...125mk|author:deetsay/panic|position:4
-title:Pop chip|author:Icebeat|position:5
-title:Suerya|author:Zardax/Origo Dreamline|position:6
-title:uraputki|author:codehead/suolahappo|position:7
-title:compomusic.exe|author:Dr.Voice/Panic|position:8
-title:Azmagutah|author:Agemixer/Atlantis|position:9
-title:Meanwhile|author:TBB|position:10
-title:composti|author:Decibel/Abomination|position:11
-title:Music|author:Jer/Panic|position:12
-title:Diffractions|author:Thomas Danko|position:13
-title:kestomono|author:tempest/abomination/panic|position:14
-title:Turga!|author:Barracuda/Extend|position:15
-title:Villean|author:AMJ|position:16
+author:Trident/Active|position:1|title:Fugue in G-Minor
+author:Cube!/Trauma+Palace|position:2|title:Oldskool
+author:Alien/WOW|position:3|title:Space Debris
+author:deetsay/panic|position:4|title:mos6581...125mk
+author:Icebeat|position:5|title:Pop chip
+author:Zardax/Origo Dreamline|position:6|title:Suerya
+author:codehead/suolahappo|position:7|title:uraputki
+author:Dr.Voice/Panic|position:8|title:compomusic.exe
+author:Agemixer/Atlantis|position:9|title:Azmagutah
+author:TBB|position:10|title:Meanwhile
+author:Decibel/Abomination|position:11|title:composti
+author:Jer/Panic|position:12|title:Music
+author:Thomas Danko|position:13|title:Diffractions
+author:tempest/abomination/panic|position:14|title:kestomono
+author:Barracuda/Extend|position:15|title:Turga!
+author:AMJ|position:16|title:Villean
 
 
 :section Amiga 64k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:911|author:Limbo|position:1|pouet:3678
-title:Zero-G III|author:Scoopex|position:2|pouet:3524|dtv:id_file=4161&id_prod=12259&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3524.jpg&width=512&height=404
-title:FAT|author:Mystic|position:3|sceneorg:/parties/1997/assembly97/amiga/in64/mst-fat.lha|pouet:3935
-title:With Style|author:Haujobb|position:4|pouet:189
-title:The Prophecy|author:Nah Kolor|position:5|pouet:4896
-title:Memories of Fog|author:Radio|position:6
-title:Touche|author:Da Jormas|position:7
+author:Limbo|position:1|pouet:3678|title:911
+author:Scoopex|dtv:id_file=4161&id_prod=12259&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3524.jpg&width=512&height=404|position:2|pouet:3524|title:Zero-G III
+author:Mystic|position:3|pouet:3935|sceneorg:/parties/1997/assembly97/amiga/in64/mst-fat.lha|title:FAT
+author:Haujobb|position:4|pouet:189|title:With Style
+author:Nah Kolor|position:5|pouet:4896|title:The Prophecy
+author:Radio|position:6|title:Memories of Fog
+author:Da Jormas|position:7|title:Touche
 
 
 :section Java demo
 :description <p><a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine</a> is an intermediate layer to run same programs on different machines and operating systems without the need to separately code and compile them for each target platform. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Java demo competition Java virtual machine was used as a platform to run demos and it posed limitations to using the hardware capabilities of demo machines.</p>
 
-title:Javademo Ankka|author:Five Coders|position:1|pouet:6569
-title:Super|author:Ghetto Broz|position:2|pouet:6572
-title:The levels of Insight|author:dk-scene|position:3
-title:Javamiga|author:dCS|position:4
+author:Five Coders|position:1|pouet:6569|title:Javademo Ankka
+author:Ghetto Broz|position:2|pouet:6572|title:Super
+author:dk-scene|position:3|title:The levels of Insight
+author:dCS|position:4|title:Javamiga
 
 
 :section C64 graphics
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
-title:Scissors|author:Electric/Extend|position:1
-title:Leon|author:Tyrant/Resource/Therapy|position:2
-title:Astral Princess|author:DeBris/Panic|position:3
-title:Skweek|author:Agemixer/Atlantis|position:4
-title:Evil Glow|author:Mike/Byterapers Inc|position:5
-title:Kazmazin|author:Ztri/Extend|position:6
-title:Superstar/tmp!|author:tempest/abomination/panic|position:7
-title:Unnamed|author:Jer/Panic|position:8
+author:Electric/Extend|position:1|title:Scissors
+author:Tyrant/Resource/Therapy|position:2|title:Leon
+author:DeBris/Panic|position:3|title:Astral Princess
+author:Agemixer/Atlantis|position:4|title:Skweek
+author:Mike/Byterapers Inc|position:5|title:Evil Glow
+author:Ztri/Extend|position:6|title:Kazmazin
+author:tempest/abomination/panic|position:7|title:Superstar/tmp!
+author:Jer/Panic|position:8|title:Unnamed
 
 
 :section PC 4k intro
+:youtube-playlist 54977B240454B133
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1997 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Helium|author:Viznut/pWp|position:1|sceneorg:/parties/1997/assembly97/in4k/helium.zip|pouet:3702|youtube:eBKGKr2nfYU
-title:AXE|author:Cyber/Reflection|position:2|sceneorg:/parties/1997/assembly97/in4k/axe.zip|pouet:6609|youtube:npxucKI6pm8
-title:eMOTION|author:NoxE|position:3
-title:Recurse|author:Snooky/Yodel|position:4|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|pouet:3015|youtube:LsrMMx5pff0
-title:Nirvana|author:SounDemoN|position:5
-title:Retribute your Idols|author:Bandwagon|position:6|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|pouet:14928|youtube:7q5pxn4J1aA
-title:Cubes|author:NySTuL|position:7|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|pouet:14927|youtube:ZwajZeylsPA
-title:Nothing|author:Virtual Eagle|position:8|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|pouet:14926|youtube:-vIGVOo9RHQ
+author:Viznut/pWp|position:1|pouet:3702|sceneorg:/parties/1997/assembly97/in4k/helium.zip|title:Helium|youtube:eBKGKr2nfYU
+author:Cyber/Reflection|position:2|pouet:6609|sceneorg:/parties/1997/assembly97/in4k/axe.zip|title:AXE|youtube:npxucKI6pm8
+author:NoxE|position:3|title:eMOTION
+author:Snooky/Yodel|position:4|pouet:3015|sceneorg:/parties/1997/assembly97/in4k/ydl_recu.zip|title:Recurse|youtube:LsrMMx5pff0
+author:SounDemoN|position:5|title:Nirvana
+author:Bandwagon|position:6|pouet:14928|sceneorg:/parties/1997/assembly97/in4k/bw-retr.zip|title:Retribute your Idols|youtube:7q5pxn4J1aA
+author:NySTuL|position:7|pouet:14927|sceneorg:/parties/1997/assembly97/in4k/cubes.zip|title:Cubes|youtube:ZwajZeylsPA
+author:Virtual Eagle|position:8|pouet:14926|sceneorg:/parties/1997/assembly97/in4k/nothing.zip|title:Nothing|youtube:-vIGVOo9RHQ
 
 
 :section PC Win95 demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>PC Win95 demo competition limited platform to computers running Windows 95 operating system..</p>
 
-title:My Love|author:JapoTek|position:1|pouet:11572
+author:JapoTek|position:1|pouet:11572|title:My Love
 
 
 :section C64 demo
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
-title:Speedway|author:Panic|position:1|pouet:1691
-title:O-Tech People|author:Active|position:2|pouet:1672
-title:3D Highlights|author:Lepsi Developments|position:3|pouet:1685
+author:Panic|position:1|pouet:1691|title:Speedway
+author:Active|position:2|pouet:1672|title:O-Tech People
+author:Lepsi Developments|position:3|pouet:1685|title:3D Highlights
 
 
 :section Raytrace graphics
 :description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
-title:Mars Bathfinder|author:Frank/Orange|position:1|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Munhuone II|author:Peeri/Eclipse sf|position:2|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Elegance|author:Marvel/Future Crew|position:3|webfile:raytrace_graphics/elegance_by_marvel_future_crew.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Catching Rays|author:MeSoN/Nerve Axis :)|position:4|webfile:raytrace_graphics/catching_rays_by_meson_nerve_axis.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Projekti Ikuisuus Projekti|author:Scottie/Order|position:5|webfile:raytrace_graphics/projekti_ikuisuus_projekti_by_scottie_order.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Mechstorm|author:Borderline/Void|position:6|webfile:raytrace_graphics/mechstorm_by_borderline_void.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:A Fly|author:Yelly|position:7|webfile:raytrace_graphics/a_fly_by_yelly.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:AI|author:Nitric/Trioxide|position:8|webfile:raytrace_graphics/ai_by_nitric_trioxide.png|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Camera View|author:Sami-seta/Paskasoft Prod|position:9|webfile:raytrace_graphics/camera_view_by_sami_seta_paskasoft_prod.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Cyberbabe|author:Pekko/Enhance|position:10|webfile:raytrace_graphics/cyberbabe_by_pekko_enhance.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:At the Beach|author:Tudor/TBL|position:11
-title:Return of the Wader|author:b.A.m/m.A.d|position:12
-title:Venus de Geller|author:recc/Radio|position:13|webfile:raytrace_graphics/venus_de_geller_by_recc_radio.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Scene|author:Demonic/Reality Benders|position:14|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip
-title:Portal|author:Envision Virtual Studios|position:15
+author:Frank/Orange|position:1|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Mars Bathfinder|webfile:raytrace_graphics/mars_bathfinder_by_frank_orange.jpeg
+author:Peeri/Eclipse sf|position:2|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Munhuone II|webfile:raytrace_graphics/munhuone_ii_by_peeri_eclipse_sf.jpeg
+author:Marvel/Future Crew|position:3|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Elegance|webfile:raytrace_graphics/elegance_by_marvel_future_crew.jpeg
+author:MeSoN/Nerve Axis :)|position:4|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Catching Rays|webfile:raytrace_graphics/catching_rays_by_meson_nerve_axis.jpeg
+author:Scottie/Order|position:5|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Projekti Ikuisuus Projekti|webfile:raytrace_graphics/projekti_ikuisuus_projekti_by_scottie_order.jpeg
+author:Borderline/Void|position:6|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Mechstorm|webfile:raytrace_graphics/mechstorm_by_borderline_void.jpeg
+author:Yelly|position:7|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:A Fly|webfile:raytrace_graphics/a_fly_by_yelly.jpeg
+author:Nitric/Trioxide|position:8|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:AI|webfile:raytrace_graphics/ai_by_nitric_trioxide.png
+author:Sami-seta/Paskasoft Prod|position:9|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Camera View|webfile:raytrace_graphics/camera_view_by_sami_seta_paskasoft_prod.jpeg
+author:Pekko/Enhance|position:10|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Cyberbabe|webfile:raytrace_graphics/cyberbabe_by_pekko_enhance.jpeg
+author:Tudor/TBL|position:11|title:At the Beach
+author:b.A.m/m.A.d|position:12|title:Return of the Wader
+author:recc/Radio|position:13|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Venus de Geller|webfile:raytrace_graphics/venus_de_geller_by_recc_radio.jpeg
+author:Demonic/Reality Benders|position:14|sceneorg:/parties/1997/assembly97/grtc/asm97-trace.zip|title:Scene|webfile:raytrace_graphics/scene_by_demonic_reality_benders.jpeg
+author:Envision Virtual Studios|position:15|title:Portal
 
 
 :section Wild demo
 :description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
-title:IP6 Itsenaisyyspaiva|author:United Nartists|position:1
-title:Stomping System|author:Pixel/Future Crew|position:2
-title:Kikkikhugtipkalitter|author:Moottori|position:3
-title:Agent Banana|author:Banana Productions|position:4
-title:Tulevaisuuden Katu|author:Enhance|position:5
-title:Sininen Aamu|author:Mad Habit|position:6
-title:Hohtohetki|author:Retu/Vivid|position:7
-title:Coward|author:2nd Gen|position:8
+author:United Nartists|position:1|title:IP6 Itsenaisyyspaiva
+author:Pixel/Future Crew|position:2|title:Stomping System
+author:Moottori|position:3|title:Kikkikhugtipkalitter
+author:Banana Productions|position:4|title:Agent Banana
+author:Enhance|position:5|title:Tulevaisuuden Katu
+author:Mad Habit|position:6|title:Sininen Aamu
+author:Retu/Vivid|position:7|title:Hohtohetki
+author:2nd Gen|position:8|title:Coward
 
 
 :section Amiga demo
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:Pulse|author:Nerve Axis :)|position:1|pouet:195|dtv:id_file=3878&id_prod=8437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/195.jpg&width=512&height=404
-title:Zoo|author:Puzzle|position:2|pouet:51429
-title:Casting|author:Embassy|position:3|pouet:6675
-title:Zoom|author:Anadune|position:4|pouet:3811
-title:Timeout|author:C-lous/Haujobb/LED & Co|position:5
+author:Nerve Axis :)|dtv:id_file=3878&id_prod=8437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/195.jpg&width=512&height=404|position:1|pouet:195|title:Pulse
+author:Puzzle|position:2|pouet:51429|title:Zoo
+author:Embassy|position:3|pouet:6675|title:Casting
+author:Anadune|position:4|pouet:3811|title:Zoom
+author:C-lous/Haujobb/LED & Co|position:5|title:Timeout
 
 
 :section Animation
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
-title:Cutie Wars|author:FSpirit/Dream One|position:1
-title:ID5|author:Pekko/Enhance|position:2
-title:The moghty battle|author:Treebeard/Major/Costo Prj|position:3
-title:tesnobebbu|author:Babrbapapa/Paskasoft|position:4
-title:The Execution|author:Teddy|position:5
-title:The Quest|author:Vertex/fd|position:6
-title:F-14 in action|author:Irixian/n.o.F/X|position:7
-title:Vote for Me|author:aa/roy|position:8
+author:FSpirit/Dream One|position:1|title:Cutie Wars
+author:Pekko/Enhance|position:2|title:ID5
+author:Treebeard/Major/Costo Prj|position:3|title:The moghty battle
+author:Babrbapapa/Paskasoft|position:4|title:tesnobebbu
+author:Teddy|position:5|title:The Execution
+author:Vertex/fd|position:6|title:The Quest
+author:Irixian/n.o.F/X|position:7|title:F-14 in action
+author:aa/roy|position:8|title:Vote for Me
 
 
 :section 4 channel music
+:youtube-playlist E300BE183BADF6A2
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
-title:Omnipotent|author:Spay/Capacala|position:1
-title:Barcelona|author:Swallow/Doomsday|position:2|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip|youtube:0fi2e7UdQgA
-title:Odnalia B|author:pekka pou/da Jormas|position:3
-title:Three Minutes|author:Ganja/Nerve Axis :)|position:4
-title:Can U see the fuse?|author:Stargazer/Sonik Clique|position:5
-title:Evil Tupaque|author:Yolk/CNCD|position:6
-title:Crowd Pleaser|author:Deck/Scoopex|position:7
-title:Dimwit Kroove|author:Illusion/dCS&dsd|position:8|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|sceneorg:/parties/1997/assembly97/m4ch/il-dimwi.zip|youtube:O5zXuyRNmaw
-title:Tietokonekappale|author:Jammaster Jamaica/Rapukanta|position:9
-title:Zarina|author:Repe/Style^RRR|position:10
-title:Mohka Kontrolh|author:Mirko/Oxylon|position:11
-title:Sound for People|author:The Hooligan/Freezers|position:12
-title:Paranormal|author:Theseus|position:13
-title:Musiikki|author:BigLupu/Ural 13 Productions|position:14
-title:Joopa|author:DiONYS/Pillu|position:15
+author:Spay/Capacala|position:1|title:Omnipotent
+author:Swallow/Doomsday|position:2|sceneorg:/parties/1997/assembly97/m4ch/barcelon.zip|title:Barcelona|webfile:4_channel_music/barcelona_by_swallow_doomsday.mp3|youtube:0fi2e7UdQgA
+author:pekka pou/da Jormas|position:3|title:Odnalia B
+author:Ganja/Nerve Axis :)|position:4|title:Three Minutes
+author:Stargazer/Sonik Clique|position:5|title:Can U see the fuse?
+author:Yolk/CNCD|position:6|title:Evil Tupaque
+author:Deck/Scoopex|position:7|title:Crowd Pleaser
+author:Illusion/dCS&dsd|position:8|sceneorg:/parties/1997/assembly97/m4ch/il-dimwi.zip|title:Dimwit Kroove|webfile:4_channel_music/dimwit_kroove_by_illusion_dcs_dsd.mp3|youtube:O5zXuyRNmaw
+author:Jammaster Jamaica/Rapukanta|position:9|title:Tietokonekappale
+author:Repe/Style^RRR|position:10|title:Zarina
+author:Mirko/Oxylon|position:11|title:Mohka Kontrolh
+author:The Hooligan/Freezers|position:12|title:Sound for People
+author:Theseus|position:13|title:Paranormal
+author:BigLupu/Ural 13 Productions|position:14|title:Musiikki
+author:DiONYS/Pillu|position:15|title:Joopa
 
 
 :section Graphics
 :description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
-title:Vanishing Point|author:Rendall/AstroideA|position:1
-title:Sucker|author:Pixel/Future Crew|position:2
-title:Lovekind|author:kidlove/haujobb|position:3
-title:Killer Moses|author:Destop/CNCD|position:4
-title:Bouncy Ladies|author:Astro/CNCD/lemon/sonik|position:5
-title:Fingers|author:ellyn/exmortis|position:6
-title:Is your disk hard already?|author:Nixus/iCE|position:7
-title:Sweet Sweet Vibraphones|author:Duke/Paragon&Eufrosyne|position:8
-title:Indiana Sinki|author:Facet/Lemon/TBL|position:9
-title:AdamEva.iff|author:Juggler/Looker House|position:10
-title:Unreal|author:Unreal/Faculty|position:11
-title:Katsovat Merelle|author:Croaker/Halcyon tpolm hirmu|position:12
-title:sIK bOJ|author:iSKA/VD-Flt|position:13
-title:Fighter and Troll|author:Kortal/Fairytale|position:14
-title:Fairy|author:Avocado/Lumen|position:15
+author:Rendall/AstroideA|position:1|title:Vanishing Point
+author:Pixel/Future Crew|position:2|title:Sucker
+author:kidlove/haujobb|position:3|title:Lovekind
+author:Destop/CNCD|position:4|title:Killer Moses
+author:Astro/CNCD/lemon/sonik|position:5|title:Bouncy Ladies
+author:ellyn/exmortis|position:6|title:Fingers
+author:Nixus/iCE|position:7|title:Is your disk hard already?
+author:Duke/Paragon&Eufrosyne|position:8|title:Sweet Sweet Vibraphones
+author:Facet/Lemon/TBL|position:9|title:Indiana Sinki
+author:Juggler/Looker House|position:10|title:AdamEva.iff
+author:Unreal/Faculty|position:11|title:Unreal
+author:Croaker/Halcyon tpolm hirmu|position:12|title:Katsovat Merelle
+author:iSKA/VD-Flt|position:13|title:sIK bOJ
+author:Kortal/Fairytale|position:14|title:Fighter and Troll
+author:Avocado/Lumen|position:15|title:Fairy
 
 
 :section PC demo
+:youtube-playlist E0F1DFD7D7BCD96A
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1997 PCs.</p>
 
-title:Vivid Part2: Boost|author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip
-title:Secret life of Mr.Black|author:Orange|position:2|sceneorg:/parties/1997/assembly97/demo/markku.zip|pouet:86|youtube:wtOZdSAahjI
-title:Mindtrap|author:Trauma|position:3|sceneorg:/parties/1997/assembly97/demo/mindtrap.zip|pouet:474
-title:Insects|author:Coma|position:4|sceneorg:/parties/1997/assembly97/demo/cominsct.zip|pouet:1138
-title:Travelling|author:Cryonics|position:5|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|pouet:5340|youtube:gzGHCIzOQ2Q
-title:Seven|author:Immortals|position:6|sceneorg:/parties/1997/assembly97/demo/seven.zip|pouet:12695|youtube:nriocHcZncI
-title:Agent Orange|author:Orange|position:7|sceneorg:/parties/1997/assembly97/demo/agento.arj|pouet:2522
-title:I NEED a beer|author:TPOLM|position:8|sceneorg:/parties/1997/assembly97/demo/yie.zip|pouet:5040|youtube:St_DU2nLBHU
-title:High Deeps|author:Core Image|position:9|pouet:14925
-title:Vasomotorista Riniittiae|author:tArzAn tuotanto|position:10|pouet:802
-title:Alexandrei Pjotroviz|author:Recreation|position:11|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|pouet:2543|youtube:crWORBsrcSE
-title:Resurrection Now|author:Jamm|position:12|sceneorg:/parties/1997/assembly97/demo/resnow.zip|pouet:6732
-title:7G|author:Sense|position:13|sceneorg:/parties/1997/assembly97/demo/sns_7gfn.zip|pouet:1051
-title:Splendid|author:Excused|position:14|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|pouet:2936|youtube:-8aet9GKU_U
-title:Retro|author:Cubic|position:15|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|pouet:1503|youtube:3FI9h8UExi8
+author:Doomsday|position:1|sceneorg:/parties/1997/assembly97/demo/boostfin.zip|title:Vivid Part2: Boost
+author:Orange|position:2|pouet:86|sceneorg:/parties/1997/assembly97/demo/markku.zip|title:Secret life of Mr.Black|youtube:wtOZdSAahjI
+author:Trauma|position:3|pouet:474|sceneorg:/parties/1997/assembly97/demo/mindtrap.zip|title:Mindtrap
+author:Coma|position:4|pouet:1138|sceneorg:/parties/1997/assembly97/demo/cominsct.zip|title:Insects
+author:Cryonics|position:5|pouet:5340|sceneorg:/parties/1997/assembly97/demo/crs-trvl.zip|title:Travelling|youtube:gzGHCIzOQ2Q
+author:Immortals|position:6|pouet:12695|sceneorg:/parties/1997/assembly97/demo/seven.zip|title:Seven|youtube:nriocHcZncI
+author:Orange|position:7|pouet:2522|sceneorg:/parties/1997/assembly97/demo/agento.arj|title:Agent Orange
+author:TPOLM|position:8|pouet:5040|sceneorg:/parties/1997/assembly97/demo/yie.zip|title:I NEED a beer|youtube:St_DU2nLBHU
+author:Core Image|position:9|pouet:14925|title:High Deeps
+author:tArzAn tuotanto|position:10|pouet:802|title:Vasomotorista Riniittiae
+author:Recreation|position:11|pouet:2543|sceneorg:/parties/1997/assembly97/demo/alexandr.zip|title:Alexandrei Pjotroviz|youtube:crWORBsrcSE
+author:Jamm|position:12|pouet:6732|sceneorg:/parties/1997/assembly97/demo/resnow.zip|title:Resurrection Now
+author:Sense|position:13|pouet:1051|sceneorg:/parties/1997/assembly97/demo/sns_7gfn.zip|title:7G
+author:Excused|position:14|pouet:2936|sceneorg:/parties/1997/assembly97/demo/exc_spld.zip|title:Splendid|youtube:-8aet9GKU_U
+author:Cubic|position:15|pouet:1503|sceneorg:/parties/1997/assembly97/demo/ctsretro.zip|title:Retro|youtube:3FI9h8UExi8
 
 
 :section PC 64k intro
+:youtube-playlist 358DF9CA97C5F67E
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1997 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Mainstream|author:Moottori|position:1|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|pouet:2189|youtube:ztmdLcT1TGA
-title:Greble|author:Recreation|position:2|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|pouet:6610|youtube:b9TueUzKp0o
-title:Dislocated|author:Bandwagon|position:3|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|pouet:5529|youtube:GXD2mh-0NrY
-title:13|author:MFX|position:4|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|pouet:2518|youtube:sRN_3Qoxw_Y
-title:Just Like Antani|author:Bug2Fix|position:5|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|pouet:6513|youtube:ord-cS4Qc58
-title:Black Silk|author:Analogue|position:6|sceneorg:/parties/1997/assembly97/in64/black.arj|pouet:7993|youtube:eXtT4wJQEes
-title:Jest|author:MAF/Mainframe/xtd|position:7|sceneorg:/parties/1997/assembly97/in64/jest.zip|pouet:2188
-title:Noblesse|author:Amable|position:8|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|pouet:1258|youtube:7J2KzIS0Vl8
+author:Moottori|position:1|pouet:2189|sceneorg:/parties/1997/assembly97/in64/m_stream.zip|title:Mainstream|youtube:ztmdLcT1TGA
+author:Recreation|position:2|pouet:6610|sceneorg:/parties/1997/assembly97/in64/rcn-grbl.zip|title:Greble|youtube:b9TueUzKp0o
+author:Bandwagon|position:3|pouet:5529|sceneorg:/parties/1997/assembly97/in64/bw-disl.zip|title:Dislocated|youtube:GXD2mh-0NrY
+author:MFX|position:4|pouet:2518|sceneorg:/parties/1997/assembly97/in64/mfx_13.zip|title:13|youtube:sRN_3Qoxw_Y
+author:Bug2Fix|position:5|pouet:6513|sceneorg:/parties/1997/assembly97/in64/jlantani.zip|title:Just Like Antani|youtube:ord-cS4Qc58
+author:Analogue|position:6|pouet:7993|sceneorg:/parties/1997/assembly97/in64/black.arj|title:Black Silk|youtube:eXtT4wJQEes
+author:MAF/Mainframe/xtd|position:7|pouet:2188|sceneorg:/parties/1997/assembly97/in64/jest.zip|title:Jest
+author:Amable|position:8|pouet:1258|sceneorg:/parties/1997/assembly97/in64/amb_nobl.zip|title:Noblesse|youtube:7J2KzIS0Vl8
 
 
 :section Multichannel music
+:youtube-playlist DAE2D35A28DA3C37
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
-title:Human Evolution|author:Kaiowa/Sorrox|position:1|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip|youtube:7pftQ1r_Wzk
-title:Bliss|author:Ozone/Vault|position:2|webfile:multichannel_music/bliss_by_ozone_vault.mp3|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip|youtube:QuJW1DM34-o
-title:Behind the Kaikal|author:Muffler/Haujobb/dCS|position:3
-title:Asparagus|author:Avocado/Lumen|position:4
-title:Groove Train|author:Dj Flashlight|position:5
-title:Jazzembly|author:Rho/Reveal|position:6
-title:Monkey Business|author:Prism/EMF|position:7|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/monkybiz.zip|youtube:Nt2awV7ibFI
-title:It's a Duck Thing|author:Croaker/Halcyon tpoljm hirmu|position:8
-title:Always|author:Swallow & Illusion/dsd|position:9|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|sceneorg:/parties/1997/assembly97/mmul/is-alway.zip|youtube:Pyc-5i28en8
-title:Plug|author:Leach|position:10
-title:Open Skies|author:Edge/EMF|position:11|webfile:multichannel_music/open_skies_by_edge_emf.mp3|sceneorg:/parties/1997/assembly97/mmul/opensks.zip|youtube:SJAXuUV5KaE
-title:Big Bad Luck|author:Tremor/Trauma|position:12
-title:Hostile Hornet|author:Rage/Night55|position:13
-title:Liquid Brown|author:Cybernova/Beatless|position:14
-title:Subzapter|author:Sojagga|position:15
+author:Kaiowa/Sorrox|position:1|sceneorg:/parties/1997/assembly97/mmul/evolutio.zip|title:Human Evolution|webfile:multichannel_music/human_evolution_by_kaiowa_sorrox.mp3|youtube:7pftQ1r_Wzk
+author:Ozone/Vault|position:2|sceneorg:/parties/1997/assembly97/mmul/blissasm.zip|title:Bliss|webfile:multichannel_music/bliss_by_ozone_vault.mp3|youtube:QuJW1DM34-o
+author:Muffler/Haujobb/dCS|position:3|title:Behind the Kaikal
+author:Avocado/Lumen|position:4|title:Asparagus
+author:Dj Flashlight|position:5|title:Groove Train
+author:Rho/Reveal|position:6|title:Jazzembly
+author:Prism/EMF|position:7|sceneorg:/parties/1997/assembly97/mmul/monkybiz.zip|title:Monkey Business|webfile:multichannel_music/monkey_business_by_prism_emf.mp3|youtube:Nt2awV7ibFI
+author:Croaker/Halcyon tpoljm hirmu|position:8|title:It's a Duck Thing
+author:Swallow & Illusion/dsd|position:9|sceneorg:/parties/1997/assembly97/mmul/is-alway.zip|title:Always|webfile:multichannel_music/always_by_swallow_illusion_dsd.mp3|youtube:Pyc-5i28en8
+author:Leach|position:10|title:Plug
+author:Edge/EMF|position:11|sceneorg:/parties/1997/assembly97/mmul/opensks.zip|title:Open Skies|webfile:multichannel_music/open_skies_by_edge_emf.mp3|youtube:SJAXuUV5KaE
+author:Tremor/Trauma|position:12|title:Big Bad Luck
+author:Rage/Night55|position:13|title:Hostile Hornet
+author:Cybernova/Beatless|position:14|title:Liquid Brown
+author:Sojagga|position:15|title:Subzapter
+

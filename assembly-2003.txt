@@ -3,539 +3,541 @@
 :section Mobile demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that weighted under 250 grams.</p>
 
-title:Anal Party IV|author:EhD|position:1|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 1st - Anal Party IV by EhD_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|pouet:10525|youtube:xTdBZffnqfs
-title:Septima|author:Yodel|position:2|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 2nd - Septima by Yodel_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/septima_by_yodel-[p800]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/septima_by_yodel_1.zip|pouet:10574|youtube:MlGgC1Ggs-o
-title:Zion|author:Detour|position:3|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 3rd - Zion by Detour_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/zion_by_detour-[p800+3650]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/zion_by_detour.zip|pouet:10976|youtube:lXjaYdYFgw8
-title:love is a fix|author:cncd, komplex , orange|position:4|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 4th - Love is a fix by cncd,komplex,orange_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd_komplex_orange-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd__komplex___orange_1.zip|pouet:10597|youtube:VwspNDellyg
-title:Monochromatic 2|author:Noice|position:5|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 5th - Monochromatic 2 by Noice_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|pouet:10534|youtube:qbqdHzzAfn8
-title:Political Statement With a Well Hidden Message|author:MATT CURRENT|position:6|sceneorgvideo:/parties/2003/assembly03/mobile_demo/political_statement_by_matt_current-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/political_statement_with_a_well_hidden_message_by_matt_current.zip|pouet:10594|dtv:id_file=3970&id_prod=8196&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10594.jpg&width=512&height=404|youtube:NAVWjkwCkNM
-title:Evol.|author:Karillon+Komplex|position:7|sceneorgvideo:/parties/2003/assembly03/mobile_demo/evol._by_karillon+komplex-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/evol__by_karillon+komplex_1.zip|pouet:12231|youtube:_X30u2131LM
-title:eff8|author:portal project|position:8|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 8th - eff8 by portal project_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project-[s60]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project_2.zip|youtube:K8SjMRQky5E|cappedtv:portal_project_ephidrena-eff8&width=360&height=288
-title:Counting Clouds|author:Brainwave team|position:9|sceneorgvideo:/parties/2003/assembly03/mobile_demo/counting_clouds_by_brainwave_team-[gba]-xvid.avi|sceneorg:/parties/2003/assembly03/mobile_demo/counting_clouds_final.zip|pouet:10613|youtube:3V6jzotHRgM
-title:Calculus|author:HUONO|position:0|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Calculus by HUONO_h264_1856kbit.mp4|youtube:2QwfBivriiA
-title:Pekka Sairanhoitaja|author:Hauberk ja Kallekanin|position:0|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Pekka Sairaanhoitaja by Hauberg_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/mobile_demo/pekka_sairanhoitaja___ti-86__by_hauberk_ja__kallekanin.zip|youtube:57bPzQuBzuQ
-title:Terror HC 666|author:Jumalauta|position:0|sceneorg:/parties/2003/assembly03/mobile_demo/terror_hc_666_by_jumalauta.zip|pouet:10577
-title:Attack of the Teenage Mutant Ninja Tentacle Monster|author:WDC|position:0|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - Evil Tentacle_h264_1856kbit.mp4|youtube:F-i1EZjC5eU
-title:Burger pisness goes mobile|author:Pornolords|position:0|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Buger pisness goes mobile by Pornolords_h264_1856kbit.mp4|youtube:1_T2NKJA08k
+author:EhD|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 1st - Anal Party IV by EhD_h264_1856kbit.mp4|position:1|pouet:10525|sceneorg:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|sceneorgvideo:/parties/2003/assembly03/mobile_demo/anal_party_iv_by_ehd-[ti86]-xvid.avi|title:Anal Party IV|youtube:xTdBZffnqfs
+author:Yodel|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 2nd - Septima by Yodel_h264_1856kbit.mp4|position:2|pouet:10574|sceneorg:/parties/2003/assembly03/mobile_demo/septima_by_yodel_1.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/septima_by_yodel-[p800]-xvid.avi|title:Septima|youtube:MlGgC1Ggs-o
+author:Detour|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 3rd - Zion by Detour_h264_1856kbit.mp4|position:3|pouet:10976|sceneorg:/parties/2003/assembly03/mobile_demo/zion_by_detour.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/zion_by_detour-[p800+3650]-xvid.avi|title:Zion|youtube:lXjaYdYFgw8
+author:cncd, komplex , orange|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 4th - Love is a fix by cncd,komplex,orange_h264_1856kbit.mp4|position:4|pouet:10597|sceneorg:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd__komplex___orange_1.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/love_is_a_fix_by_cncd_komplex_orange-[s60]-xvid.avi|title:love is a fix|youtube:VwspNDellyg
+author:Noice|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 5th - Monochromatic 2 by Noice_h264_1856kbit.mp4|position:5|pouet:10534|sceneorg:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|sceneorgvideo:/parties/2003/assembly03/mobile_demo/monochromatic_by_noice-[ti83]-xvid.avi|title:Monochromatic 2|youtube:qbqdHzzAfn8
+author:MATT CURRENT|dtv:id_file=3970&id_prod=8196&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10594.jpg&width=512&height=404|position:6|pouet:10594|sceneorg:/parties/2003/assembly03/mobile_demo/political_statement_with_a_well_hidden_message_by_matt_current.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/political_statement_by_matt_current-[gba]-xvid.avi|title:Political Statement With a Well Hidden Message|youtube:NAVWjkwCkNM
+author:Karillon+Komplex|position:7|pouet:12231|sceneorg:/parties/2003/assembly03/mobile_demo/evol__by_karillon+komplex_1.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/evol._by_karillon+komplex-[gba]-xvid.avi|title:Evol.|youtube:_X30u2131LM
+author:portal project|cappedtv:portal_project_ephidrena-eff8&width=360&height=288|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - 8th - eff8 by portal project_h264_1856kbit.mp4|position:8|sceneorg:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project_2.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/eff8_by_portal_project-[s60]-xvid.avi|title:eff8|youtube:K8SjMRQky5E
+author:Brainwave team|position:9|pouet:10613|sceneorg:/parties/2003/assembly03/mobile_demo/counting_clouds_final.zip|sceneorgvideo:/parties/2003/assembly03/mobile_demo/counting_clouds_by_brainwave_team-[gba]-xvid.avi|title:Counting Clouds|youtube:3V6jzotHRgM
+author:HUONO|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Calculus by HUONO_h264_1856kbit.mp4|title:Calculus|youtube:2QwfBivriiA
+author:Hauberk ja Kallekanin|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Pekka Sairaanhoitaja by Hauberg_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/mobile_demo/pekka_sairanhoitaja___ti-86__by_hauberk_ja__kallekanin.zip|title:Pekka Sairanhoitaja|youtube:57bPzQuBzuQ
+author:Jumalauta|pouet:10577|sceneorg:/parties/2003/assembly03/mobile_demo/terror_hc_666_by_jumalauta.zip|title:Terror HC 666
+author:WDC|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - Evil Tentacle_h264_1856kbit.mp4|title:Attack of the Teenage Mutant Ninja Tentacle Monster|youtube:F-i1EZjC5eU
+author:Pornolords|media:/vod/.oldies-goldies/compos/ASM03 Mobiledemo - NA - Buger pisness goes mobile by Pornolords_h264_1856kbit.mp4|title:Burger pisness goes mobile|youtube:1_T2NKJA08k
 
 
 :section Oldskool graphics
 :description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1992.</p>
 
-title:Ruiskumies|author:asobu / wdc|position:1|sceneorg:/parties/2003/assembly03/oldskool/grfx/ruiskumies_by_asobu.zip
-title:2nd countess|author:Oxidy/Wrath Designs|position:2|webfile:oldskool_graphics/2nd_countess_c64_by_oxidy_wrath_designs.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/2nd_countess_by_oxidy_wrath_designs.zip
-title:Koryu|author:osku|position:3
-title:Cutie Cliché|author:Werp / WDC|position:4
-title:Yessagician|author:Dbug|position:5|webfile:oldskool_graphics/yessagician_oric_by_dbug.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/yessagician_by_dbug.zip
-title:Bubbling Panda|author:Britelite / Dekadence|position:6|webfile:oldskool_graphics/bubbling_panda_c64_by_britelite_dekadence.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/bubbling_panda_by_britelite___dekadence.zip
-title:Kosiomatka|author:kerma|position:7|sceneorg:/parties/2003/assembly03/oldskool/grfx/kosiomatka_by_kerma.zip
-title:Papillon|author:blackdroid / Wrath Designs|position:8
-title:Katarri-Helena|author:Venturus/Damage|position:9|webfile:oldskool_graphics/katarri_helena_c64_by_venturus_damage.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/katarri-helena_by_venturus_damage.zip
-title:Toijala|author:Duce/Extend|position:10|webfile:oldskool_graphics/toijala_c64_by_duce_extend.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/toijala_by_duce_extend_2.zip
-title:Yoshimi|author:Electric/Extend|position:11|webfile:oldskool_graphics/yoshimi_c64_by_electric_extend.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/yoshimi_by_electric_extend_2.zip
-title:Clouds|author:Joe/Wrath Designs|position:12|webfile:oldskool_graphics/clouds_c64_by_joe_wrath_designs.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/clouds_by_joe_wrath_designs.zip
-title:Foo-girl|author:Reko / Instant Ejakulation|position:0|webfile:oldskool_graphics/foo_girl_deluxe_paint_by_reko_instant_ejakulation.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/foo-girl_by_reko___instant_ejakulation.zip
-title:Bug64|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:oldskool_graphics/bug64_c64_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2003/assembly03/oldskool/grfx/bug64_by_diamondie_foobug_numedia_cyclops.zip
+author:asobu / wdc|position:1|sceneorg:/parties/2003/assembly03/oldskool/grfx/ruiskumies_by_asobu.zip|title:Ruiskumies
+author:Oxidy/Wrath Designs|position:2|sceneorg:/parties/2003/assembly03/oldskool/grfx/2nd_countess_by_oxidy_wrath_designs.zip|title:2nd countess|webfile:oldskool_graphics/2nd_countess_c64_by_oxidy_wrath_designs.png
+author:osku|position:3|title:Koryu
+author:Werp / WDC|position:4|title:Cutie Cliché
+author:Dbug|position:5|sceneorg:/parties/2003/assembly03/oldskool/grfx/yessagician_by_dbug.zip|title:Yessagician|webfile:oldskool_graphics/yessagician_oric_by_dbug.png
+author:Britelite / Dekadence|position:6|sceneorg:/parties/2003/assembly03/oldskool/grfx/bubbling_panda_by_britelite___dekadence.zip|title:Bubbling Panda|webfile:oldskool_graphics/bubbling_panda_c64_by_britelite_dekadence.png
+author:kerma|position:7|sceneorg:/parties/2003/assembly03/oldskool/grfx/kosiomatka_by_kerma.zip|title:Kosiomatka
+author:blackdroid / Wrath Designs|position:8|title:Papillon
+author:Venturus/Damage|position:9|sceneorg:/parties/2003/assembly03/oldskool/grfx/katarri-helena_by_venturus_damage.zip|title:Katarri-Helena|webfile:oldskool_graphics/katarri_helena_c64_by_venturus_damage.png
+author:Duce/Extend|position:10|sceneorg:/parties/2003/assembly03/oldskool/grfx/toijala_by_duce_extend_2.zip|title:Toijala|webfile:oldskool_graphics/toijala_c64_by_duce_extend.png
+author:Electric/Extend|position:11|sceneorg:/parties/2003/assembly03/oldskool/grfx/yoshimi_by_electric_extend_2.zip|title:Yoshimi|webfile:oldskool_graphics/yoshimi_c64_by_electric_extend.png
+author:Joe/Wrath Designs|position:12|sceneorg:/parties/2003/assembly03/oldskool/grfx/clouds_by_joe_wrath_designs.zip|title:Clouds|webfile:oldskool_graphics/clouds_c64_by_joe_wrath_designs.png
+author:Reko / Instant Ejakulation|sceneorg:/parties/2003/assembly03/oldskool/grfx/foo-girl_by_reko___instant_ejakulation.zip|title:Foo-girl|webfile:oldskool_graphics/foo_girl_deluxe_paint_by_reko_instant_ejakulation.png
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2003/assembly03/oldskool/grfx/bug64_by_diamondie_foobug_numedia_cyclops.zip|title:Bug64|webfile:oldskool_graphics/bug64_c64_by_diamondie_foobug_numedia_cyclops.png
 
 
 :section Game development
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-title:Rekkaturvat - Truck Dismount|author:tAAt 2003|position:1|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 1st - Rekkaturvat_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/rekkaturvat_-_truck_dismount__win32__by_taat_2003.zip|pouet:10472|youtube:TLMnTvlrNMo
-title:Pekka Kana 2|author:Piste Gamez / Janne Kivilahti|position:2|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 2nd - Pekka Kana_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/pekka_kana_2_by_piste_gamez___janne_kivilahti.zip|pouet:10523|youtube:v92_PSl9wuQ
-title:Netpuck|author:Lucid|position:3|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 3rd - Netpuck_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/netpuck_by_lucid.zip|pouet:10600|youtube:yMy-sldQ2jY
-title:Frontal Assault|author:XZM & tAAt|position:4|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 4th - Frontal Assault_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/frontal_assault__win32__by_xzm___taat.zip|pouet:10474|youtube:5trNrt6I6qU
-title:Äyskäröintipeli - The Bailer|author:Lasi Interactive|position:5|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 5th - The Bailer_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/_ysk_r_intipeli_-_the_bailer_by_lasi_interactive_1.tgz|youtube:OIn8-876VCo
-title:Space Adventure of Small Ship|author:Paulus Selin|position:6|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 6th - SAOSS_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/space_adventure_of_small_ship_by_paulus_selin.zip|youtube:Pl51cvThwFk
-title:Steel Slayers|author:Fingersoft|position:7|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 7th - Steel Slayers_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/steelslayers.zip|pouet:10528|youtube:jsn0Fo6mzDQ
-title:Raid over London|author:Dreamdust|position:8|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 8th - Raid over London_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/raid_over_london_by_dreamdust.zip|youtube:wIRIYiwWx7Y
-title:Shooting Star|author:2ndpoint|position:9|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 9th - Shooting Star_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/shooting_star.zip|youtube:xHUBIYY8rnc
-title:Cspace|author:Whiptek|position:10|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 10th - Cspace_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/game/cspace_by_whiptek.zip|youtube:_IIibNb1bcA
+author:tAAt 2003|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 1st - Rekkaturvat_h264_1856kbit.mp4|position:1|pouet:10472|sceneorg:/parties/2003/assembly03/game/rekkaturvat_-_truck_dismount__win32__by_taat_2003.zip|title:Rekkaturvat - Truck Dismount|youtube:TLMnTvlrNMo
+author:Piste Gamez / Janne Kivilahti|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 2nd - Pekka Kana_h264_1856kbit.mp4|position:2|pouet:10523|sceneorg:/parties/2003/assembly03/game/pekka_kana_2_by_piste_gamez___janne_kivilahti.zip|title:Pekka Kana 2|youtube:v92_PSl9wuQ
+author:Lucid|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 3rd - Netpuck_h264_1856kbit.mp4|position:3|pouet:10600|sceneorg:/parties/2003/assembly03/game/netpuck_by_lucid.zip|title:Netpuck|youtube:yMy-sldQ2jY
+author:XZM & tAAt|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 4th - Frontal Assault_h264_1856kbit.mp4|position:4|pouet:10474|sceneorg:/parties/2003/assembly03/game/frontal_assault__win32__by_xzm___taat.zip|title:Frontal Assault|youtube:5trNrt6I6qU
+author:Lasi Interactive|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 5th - The Bailer_h264_1856kbit.mp4|position:5|sceneorg:/parties/2003/assembly03/game/_ysk_r_intipeli_-_the_bailer_by_lasi_interactive_1.tgz|title:Äyskäröintipeli - The Bailer|youtube:OIn8-876VCo
+author:Paulus Selin|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 6th - SAOSS_h264_1856kbit.mp4|position:6|sceneorg:/parties/2003/assembly03/game/space_adventure_of_small_ship_by_paulus_selin.zip|title:Space Adventure of Small Ship|youtube:Pl51cvThwFk
+author:Fingersoft|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 7th - Steel Slayers_h264_1856kbit.mp4|position:7|pouet:10528|sceneorg:/parties/2003/assembly03/game/steelslayers.zip|title:Steel Slayers|youtube:jsn0Fo6mzDQ
+author:Dreamdust|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 8th - Raid over London_h264_1856kbit.mp4|position:8|sceneorg:/parties/2003/assembly03/game/raid_over_london_by_dreamdust.zip|title:Raid over London|youtube:wIRIYiwWx7Y
+author:2ndpoint|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 9th - Shooting Star_h264_1856kbit.mp4|position:9|sceneorg:/parties/2003/assembly03/game/shooting_star.zip|title:Shooting Star|youtube:xHUBIYY8rnc
+author:Whiptek|media:/vod/.oldies-goldies/compos/ASM03 Gamedev - 10th - Cspace_h264_1856kbit.mp4|position:10|sceneorg:/parties/2003/assembly03/game/cspace_by_whiptek.zip|title:Cspace|youtube:_IIibNb1bcA
 
 
 :section Oldskool demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
-title:Robotic Liberation|author:PwP|position:1|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 1st - Robotic Liveration by PwP_h264_1856kbit.mp4|sceneorgvideo:/parties/2003/assembly03/oldskool/demo/pwp-liberation.mpeg|sceneorg:/parties/2003/assembly03/oldskool/demo/pwp-liberation.zip|pouet:10626|youtube:UaOBbvbPW1s|cappedtv:pwp-robotic_liberation&width=640&height=512
-title:Victoria|author:Dekadence|position:2|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 2nd - Victoria by Dekadence_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/victoria_by_dekadence.zip|pouet:10524|youtube:_enMhGDv0PE
-title:Hätä|author:dA JoRMaS|position:3|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 3rd - Hätä by dA JoRMaS_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/h_t__by_da_jormas.zip|pouet:10527|dtv:id_file=4300&id_prod=13326&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10527_2.png&width=512&height=404|youtube:aROCFbMKwjg
-title:Alienate|author:Hooy-Program|position:4|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 4th - Alieante by Hooy-Program_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/alienate_by_hooy_program_final.zip|pouet:10531|youtube:Ee_mszc4kjA
-title:Homage|author:Wrath Designs|position:5|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 5th - Homage by Wrath Designs_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/oldskool/demo/homage_by_wrath_designs.zip|pouet:10575|youtube:HMjqodZ51jg
-title:ei suotta|author:ISO|position:0|sceneorg:/parties/2003/assembly03/oldskool/demo/ei_suotta_by_iso.zip
+author:PwP|cappedtv:pwp-robotic_liberation&width=640&height=512|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 1st - Robotic Liveration by PwP_h264_1856kbit.mp4|position:1|pouet:10626|sceneorg:/parties/2003/assembly03/oldskool/demo/pwp-liberation.zip|sceneorgvideo:/parties/2003/assembly03/oldskool/demo/pwp-liberation.mpeg|title:Robotic Liberation|youtube:UaOBbvbPW1s
+author:Dekadence|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 2nd - Victoria by Dekadence_h264_1856kbit.mp4|position:2|pouet:10524|sceneorg:/parties/2003/assembly03/oldskool/demo/victoria_by_dekadence.zip|title:Victoria|youtube:_enMhGDv0PE
+author:dA JoRMaS|dtv:id_file=4300&id_prod=13326&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10527_2.png&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 3rd - Hätä by dA JoRMaS_h264_1856kbit.mp4|position:3|pouet:10527|sceneorg:/parties/2003/assembly03/oldskool/demo/h_t__by_da_jormas.zip|title:Hätä|youtube:aROCFbMKwjg
+author:Hooy-Program|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 4th - Alieante by Hooy-Program_h264_1856kbit.mp4|position:4|pouet:10531|sceneorg:/parties/2003/assembly03/oldskool/demo/alienate_by_hooy_program_final.zip|title:Alienate|youtube:Ee_mszc4kjA
+author:Wrath Designs|media:/vod/.oldies-goldies/compos/ASM03 Oldskool - 5th - Homage by Wrath Designs_h264_1856kbit.mp4|position:5|pouet:10575|sceneorg:/parties/2003/assembly03/oldskool/demo/homage_by_wrath_designs.zip|title:Homage|youtube:HMjqodZ51jg
+author:ISO|sceneorg:/parties/2003/assembly03/oldskool/demo/ei_suotta_by_iso.zip|title:ei suotta
 
 
 :section Fast graphics
 :description <p>Competitors had 1.5 hours to create an image with a predefined theme.</p>
 
-title:magic ice cube of the caribbean|author:marzu|position:1|webfile:fast_graphics/magic_ice_cube_of_the_caribbean_by_marzu.png|sceneorg:/parties/2003/assembly03/fastgrfx/magic_ice_cube_of_the_caribbean_by_marzu.zip
-title:kylpyamme saevaeyttaeae!|author:john peeba|position:2|webfile:fast_graphics/kylpyamme_saevaeyttaeae_by_john_peeba.png|sceneorg:/parties/2003/assembly03/fastgrfx/kylpyamme_saevaeyttaeae__by_john_peeba.zip
-title:I f*cking hate laptops and mice|author:Partikle|position:3|webfile:fast_graphics/i_f_cking_hate_laptops_and_mice_by_partikle.png|sceneorg:/parties/2003/assembly03/fastgrfx/i_f_cking_hate_laptops_and_mice_by_partikle.zip
-title:Kalan pää|author:kebabkeisari / tAAt|position:4|webfile:fast_graphics/kalan_p_by_kebabkeisari_taat.png|sceneorg:/parties/2003/assembly03/fastgrfx/kalan_p___by_kebabkeisari___taat.zip
-title:Daffodil|author:Electric/Extend|position:5|webfile:fast_graphics/daffodil_by_electric_extend.png|sceneorg:/parties/2003/assembly03/fastgrfx/daffodil_by_electric_extend.zip
-title:Too hot a summer|author:Oozie|position:6|webfile:fast_graphics/too_hot_a_summer_by_oozie.png|sceneorg:/parties/2003/assembly03/fastgrfx/too_hot_a_summer_by_oozie.zip
-title:I like beer|author:paltsi|position:7|sceneorg:/parties/2003/assembly03/fastgrfx/i_like_beer_by_paltsi_4.zip
-title:Wazzaaaapp|author:devil|position:8|webfile:fast_graphics/wazzaaaapp_by_devil.png|sceneorg:/parties/2003/assembly03/fastgrfx/wazzaaaapp_by_devil.zip
-title:Serve chilled|author:ebr/unique|position:0|webfile:fast_graphics/serve_chilled_by_ebr_unique.png|sceneorg:/parties/2003/assembly03/fastgrfx/serve_chilled_by_ebr_unique.zip
-title:Cool Summer|author:Sanna Puustinen|position:0|webfile:fast_graphics/cool_summer_by_sanna_puustinen.png|sceneorg:/parties/2003/assembly03/fastgrfx/cool_summer_by_sanna_puustinen.zip
-title:Rantakuutio|author:Seven|position:0|webfile:fast_graphics/rantakuutio_by_seven.png|sceneorg:/parties/2003/assembly03/fastgrfx/rantakuutio_by_seven.zip
-title:FandomCubes|author:Trekky|position:0|webfile:fast_graphics/fandomcubes_by_trekky.jpeg|sceneorg:/parties/2003/assembly03/fastgrfx/fandomcubes_by_trekky.zip
-title:upottamaton|author:Flegeton|position:0|webfile:fast_graphics/upottamaton_by_flegeton.png|sceneorg:/parties/2003/assembly03/fastgrfx/upottamaton_by_flegeton.zip
-title:Arskat ja kuutio|author:Lukiz|position:0|webfile:fast_graphics/arskat_ja_kuutio_by_lukiz.png|sceneorg:/parties/2003/assembly03/fastgrfx/arskat_ja_kuutio_by_lukiz.zip
-title:Ninja Cube|author:osku|position:0|webfile:fast_graphics/ninja_cube_by_osku.png|sceneorg:/parties/2003/assembly03/fastgrfx/ninja_cube_by_osku.zip
-title:Icy Daisy|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:fast_graphics/icy_daisy_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2003/assembly03/fastgrfx/icy_daisy_by_diamondie_foobug_numedia_cyclops.zip
-title:Desert Ice - Erämaan jää|author:tArzAn/tAAt|position:0|webfile:fast_graphics/desert_ice_er_maan_j_by_tarzan_taat.png|sceneorg:/parties/2003/assembly03/fastgrfx/desert_ice_-_er_maan_j___by_tarzan_taat.zip
-title:Beach|author:Ryttyla.com|position:0|webfile:fast_graphics/beach_by_ryttyla_com.png|sceneorg:/parties/2003/assembly03/fastgrfx/beach_by_ryttyla_com.zip
-title:pixu|author:apostrophe|position:0|webfile:fast_graphics/pixu_by_apostrophe.jpeg|sceneorg:/parties/2003/assembly03/fastgrfx/pixu_by_apostrophe.zip
-title:Nam|author:Efe / THP|position:0|webfile:fast_graphics/nam_by_efe_thp.jpeg|sceneorg:/parties/2003/assembly03/fastgrfx/nam_by_efe___thp.zip
-title:Kuutio nurmella|author:SOB|position:0|webfile:fast_graphics/kuutio_nurmella_by_sob.jpeg|sceneorg:/parties/2003/assembly03/fastgrfx/kuutio_nurmella_by_sob.zip
+author:marzu|position:1|sceneorg:/parties/2003/assembly03/fastgrfx/magic_ice_cube_of_the_caribbean_by_marzu.zip|title:magic ice cube of the caribbean|webfile:fast_graphics/magic_ice_cube_of_the_caribbean_by_marzu.png
+author:john peeba|position:2|sceneorg:/parties/2003/assembly03/fastgrfx/kylpyamme_saevaeyttaeae__by_john_peeba.zip|title:kylpyamme saevaeyttaeae!|webfile:fast_graphics/kylpyamme_saevaeyttaeae_by_john_peeba.png
+author:Partikle|position:3|sceneorg:/parties/2003/assembly03/fastgrfx/i_f_cking_hate_laptops_and_mice_by_partikle.zip|title:I f*cking hate laptops and mice|webfile:fast_graphics/i_f_cking_hate_laptops_and_mice_by_partikle.png
+author:kebabkeisari / tAAt|position:4|sceneorg:/parties/2003/assembly03/fastgrfx/kalan_p___by_kebabkeisari___taat.zip|title:Kalan pää|webfile:fast_graphics/kalan_p_by_kebabkeisari_taat.png
+author:Electric/Extend|position:5|sceneorg:/parties/2003/assembly03/fastgrfx/daffodil_by_electric_extend.zip|title:Daffodil|webfile:fast_graphics/daffodil_by_electric_extend.png
+author:Oozie|position:6|sceneorg:/parties/2003/assembly03/fastgrfx/too_hot_a_summer_by_oozie.zip|title:Too hot a summer|webfile:fast_graphics/too_hot_a_summer_by_oozie.png
+author:paltsi|position:7|sceneorg:/parties/2003/assembly03/fastgrfx/i_like_beer_by_paltsi_4.zip|title:I like beer
+author:devil|position:8|sceneorg:/parties/2003/assembly03/fastgrfx/wazzaaaapp_by_devil.zip|title:Wazzaaaapp|webfile:fast_graphics/wazzaaaapp_by_devil.png
+author:ebr/unique|sceneorg:/parties/2003/assembly03/fastgrfx/serve_chilled_by_ebr_unique.zip|title:Serve chilled|webfile:fast_graphics/serve_chilled_by_ebr_unique.png
+author:Sanna Puustinen|sceneorg:/parties/2003/assembly03/fastgrfx/cool_summer_by_sanna_puustinen.zip|title:Cool Summer|webfile:fast_graphics/cool_summer_by_sanna_puustinen.png
+author:Seven|sceneorg:/parties/2003/assembly03/fastgrfx/rantakuutio_by_seven.zip|title:Rantakuutio|webfile:fast_graphics/rantakuutio_by_seven.png
+author:Trekky|sceneorg:/parties/2003/assembly03/fastgrfx/fandomcubes_by_trekky.zip|title:FandomCubes|webfile:fast_graphics/fandomcubes_by_trekky.jpeg
+author:Flegeton|sceneorg:/parties/2003/assembly03/fastgrfx/upottamaton_by_flegeton.zip|title:upottamaton|webfile:fast_graphics/upottamaton_by_flegeton.png
+author:Lukiz|sceneorg:/parties/2003/assembly03/fastgrfx/arskat_ja_kuutio_by_lukiz.zip|title:Arskat ja kuutio|webfile:fast_graphics/arskat_ja_kuutio_by_lukiz.png
+author:osku|sceneorg:/parties/2003/assembly03/fastgrfx/ninja_cube_by_osku.zip|title:Ninja Cube|webfile:fast_graphics/ninja_cube_by_osku.png
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2003/assembly03/fastgrfx/icy_daisy_by_diamondie_foobug_numedia_cyclops.zip|title:Icy Daisy|webfile:fast_graphics/icy_daisy_by_diamondie_foobug_numedia_cyclops.png
+author:tArzAn/tAAt|sceneorg:/parties/2003/assembly03/fastgrfx/desert_ice_-_er_maan_j___by_tarzan_taat.zip|title:Desert Ice - Erämaan jää|webfile:fast_graphics/desert_ice_er_maan_j_by_tarzan_taat.png
+author:Ryttyla.com|sceneorg:/parties/2003/assembly03/fastgrfx/beach_by_ryttyla_com.zip|title:Beach|webfile:fast_graphics/beach_by_ryttyla_com.png
+author:apostrophe|sceneorg:/parties/2003/assembly03/fastgrfx/pixu_by_apostrophe.zip|title:pixu|webfile:fast_graphics/pixu_by_apostrophe.jpeg
+author:Efe / THP|sceneorg:/parties/2003/assembly03/fastgrfx/nam_by_efe___thp.zip|title:Nam|webfile:fast_graphics/nam_by_efe_thp.jpeg
+author:SOB|sceneorg:/parties/2003/assembly03/fastgrfx/kuutio_nurmella_by_sob.zip|title:Kuutio nurmella|webfile:fast_graphics/kuutio_nurmella_by_sob.jpeg
 
 
 :section Fast music
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
-title:Back to Roots|author:Ari "artz" Pulkkinen|position:1|webfile:fast_music/back_to_roots_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2003/assembly03/fastmusic/back_to_roots_by_ari__artz__pulkkinen.zip|youtube:U_TVxopaLBE
-title:Parempi kuin Pekka|author:Aikapallo|position:2|webfile:fast_music/parempi_kuin_pekka_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/fastmusic/parempi_kuin_pekka_by_aikapallo.zip|youtube:Ixnq431ZAi8
-title:kebab'n'bass|author:gremino|position:3|webfile:fast_music/kebab_n_bass_by_gremino.mp3|sceneorg:/parties/2003/assembly03/fastmusic/kebab_n_bass_by_gremino.zip|youtube:YUxb95z9UDs
-title:455emblytango|author:tArzAn/tAAt|position:4|webfile:fast_music/455emblytango_by_tarzan_taat.mp3|sceneorg:/parties/2003/assembly03/fastmusic/455emblytango_by_tarzan_taat.zip|youtube:xRW9KC_lAy0
-title:linnut|author:crud|position:5|webfile:fast_music/linnut_by_crud.mp3|sceneorg:/parties/2003/assembly03/fastmusic/linnut_by_crud.zip|youtube:xKASU41Cz5o
-title:break me up!|author:rimbi6000|position:6|webfile:fast_music/break_me_up_by_rimbi6000.mp3|sceneorg:/parties/2003/assembly03/fastmusic/break_me_up__by_rimbi6000.zip|youtube:PSNGnIarymk
-title:Wrong Judgment|author:Ilem|position:7|webfile:fast_music/wrong_judgment_by_ilem.mp3|sceneorg:/parties/2003/assembly03/fastmusic/wrong_judgment_by_ilem.zip|youtube:za_ZJpQxl1A
-title:Deep Sleep|author:BuG / Kuunsyke|position:8|webfile:fast_music/deep_sleep_by_bug_kuunsyke.mp3|sceneorg:/parties/2003/assembly03/fastmusic/deep_sleep_by_bug___kuunsyke.zip|youtube:F3KJP6f13dc
-title:kesken jäänyt|author:moh|position:9|webfile:fast_music/kesken_j_nyt_by_moh.mp3|sceneorg:/parties/2003/assembly03/fastmusic/kesken_j__nyt_by_moh.zip|youtube:yHYCBynP2iM
-title:A Sample of Water|author:Cairbre|position:10|webfile:fast_music/a_sample_of_water_by_cairbre.mp3|sceneorg:/parties/2003/assembly03/fastmusic/a_sample_of_water_by_cairbre.zip|youtube:q4QSmPSqiXI
-title:Refreshments|author:->LUKE<- / Amazement^Numedia Cyclops|position:0|webfile:fast_music/refreshments_by_luke_amazement_numedia_cyclops.mp3|sceneorg:/parties/2003/assembly03/fastmusic/refreshments_by_-_luke_-___amazement_numedia_cyclops.zip|youtube:vJBQSgXpnpc
-title:Fun Planet|author:Coloneil & B1|position:0|webfile:fast_music/fun_planet_by_coloneil_b1.mp3|sceneorg:/parties/2003/assembly03/fastmusic/fun_planet_by_coloneil___b1.zip|youtube:IA1-Y2185MU
-title:Active Speaker System|author:Nutcase / Mandel Bros.|position:0|webfile:fast_music/active_speaker_system_by_nutcase_mandel_bros.mp3|sceneorg:/parties/2003/assembly03/fastmusic/active_speaker_system_by_nutcase___mandel_bros_.zip|youtube:qvyyAixlmOo
-title:Hmmburger|author:Kheldysh|position:0|webfile:fast_music/hmmburger_by_kheldysh.mp3|sceneorg:/parties/2003/assembly03/fastmusic/hmmburger_by_kheldysh.zip|youtube:iU2Eof8TrSI
-title:Dallas Reskue|author:Phaser|position:0|webfile:fast_music/dallas_reskue_by_phaser.mp3|sceneorg:/parties/2003/assembly03/fastmusic/dallas_reskue_by_phaser.zip|youtube:RXjsyD11QsE
-title:kanervanpoimijat|author:ilmarque|position:0|webfile:fast_music/kanervanpoimijat_by_ilmarque.mp3|sceneorg:/parties/2003/assembly03/fastmusic/kanervanpoimijat_by_ilmarque.zip|youtube:HZ0Iw0aMfCg
-title:Worse than worse|author:vfgdfg|position:0|webfile:fast_music/worse_than_worse_by_vfgdfg.mp3|sceneorg:/parties/2003/assembly03/fastmusic/worse_than_worse_by_vfgdfg.zip|youtube:m5Rm5d2eJ1k
-title:happy hippo|author:Prophecy|position:0|webfile:fast_music/happy_hippo_by_prophecy.mp3|sceneorg:/parties/2003/assembly03/fastmusic/happy_hippo_by_prophecy.zip|youtube:UaXGHuI8wyY
-title:Kärpäinen ja hämähäkki|author:Terminus / scene.ee|position:0|webfile:fast_music/k_rp_inen_ja_h_m_h_kki_by_terminus_scene_ee.mp3|sceneorg:/parties/2003/assembly03/fastmusic/k_rp_inen_ja_h_m_h_kki_by_terminus___scene_ee.zip|youtube:F-IpQyGSlBQ
-title:meteliae raehinaemaasta|author:pahamoka / naemok|position:0|webfile:fast_music/meteliae_raehinaemaasta_by_pahamoka_naemok.mp3|sceneorg:/parties/2003/assembly03/fastmusic/meteliae_raehinaemaasta_by_pahamoka___naemok.zip|youtube:L9y2cP1id4M
-title:mood 1|author:Saboteur|position:0|webfile:fast_music/mood_1_by_saboteur.mp3|sceneorg:/parties/2003/assembly03/fastmusic/mood_1_by_saboteur.zip|youtube:-cupbTPTcTY
-title:Jungle Rythms|author:Dubious of TekMaTiK|position:0|webfile:fast_music/jungle_rythms_by_dubious_of_tekmatik.mp3|sceneorg:/parties/2003/assembly03/fastmusic/jungle_rythms_by_dubious_of_tekmatik.zip|youtube:v_jHG60hzkM
+author:Ari "artz" Pulkkinen|position:1|sceneorg:/parties/2003/assembly03/fastmusic/back_to_roots_by_ari__artz__pulkkinen.zip|title:Back to Roots|webfile:fast_music/back_to_roots_by_ari_artz_pulkkinen.mp3|youtube:U_TVxopaLBE
+author:Aikapallo|position:2|sceneorg:/parties/2003/assembly03/fastmusic/parempi_kuin_pekka_by_aikapallo.zip|title:Parempi kuin Pekka|webfile:fast_music/parempi_kuin_pekka_by_aikapallo.mp3|youtube:Ixnq431ZAi8
+author:gremino|position:3|sceneorg:/parties/2003/assembly03/fastmusic/kebab_n_bass_by_gremino.zip|title:kebab'n'bass|webfile:fast_music/kebab_n_bass_by_gremino.mp3|youtube:YUxb95z9UDs
+author:tArzAn/tAAt|position:4|sceneorg:/parties/2003/assembly03/fastmusic/455emblytango_by_tarzan_taat.zip|title:455emblytango|webfile:fast_music/455emblytango_by_tarzan_taat.mp3|youtube:xRW9KC_lAy0
+author:crud|position:5|sceneorg:/parties/2003/assembly03/fastmusic/linnut_by_crud.zip|title:linnut|webfile:fast_music/linnut_by_crud.mp3|youtube:xKASU41Cz5o
+author:rimbi6000|position:6|sceneorg:/parties/2003/assembly03/fastmusic/break_me_up__by_rimbi6000.zip|title:break me up!|webfile:fast_music/break_me_up_by_rimbi6000.mp3|youtube:PSNGnIarymk
+author:Ilem|position:7|sceneorg:/parties/2003/assembly03/fastmusic/wrong_judgment_by_ilem.zip|title:Wrong Judgment|webfile:fast_music/wrong_judgment_by_ilem.mp3|youtube:za_ZJpQxl1A
+author:BuG / Kuunsyke|position:8|sceneorg:/parties/2003/assembly03/fastmusic/deep_sleep_by_bug___kuunsyke.zip|title:Deep Sleep|webfile:fast_music/deep_sleep_by_bug_kuunsyke.mp3|youtube:F3KJP6f13dc
+author:moh|position:9|sceneorg:/parties/2003/assembly03/fastmusic/kesken_j__nyt_by_moh.zip|title:kesken jäänyt|webfile:fast_music/kesken_j_nyt_by_moh.mp3|youtube:yHYCBynP2iM
+author:Cairbre|position:10|sceneorg:/parties/2003/assembly03/fastmusic/a_sample_of_water_by_cairbre.zip|title:A Sample of Water|webfile:fast_music/a_sample_of_water_by_cairbre.mp3|youtube:q4QSmPSqiXI
+author:->LUKE<- / Amazement^Numedia Cyclops|sceneorg:/parties/2003/assembly03/fastmusic/refreshments_by_-_luke_-___amazement_numedia_cyclops.zip|title:Refreshments|webfile:fast_music/refreshments_by_luke_amazement_numedia_cyclops.mp3|youtube:vJBQSgXpnpc
+author:Coloneil & B1|sceneorg:/parties/2003/assembly03/fastmusic/fun_planet_by_coloneil___b1.zip|title:Fun Planet|webfile:fast_music/fun_planet_by_coloneil_b1.mp3|youtube:IA1-Y2185MU
+author:Nutcase / Mandel Bros.|sceneorg:/parties/2003/assembly03/fastmusic/active_speaker_system_by_nutcase___mandel_bros_.zip|title:Active Speaker System|webfile:fast_music/active_speaker_system_by_nutcase_mandel_bros.mp3|youtube:qvyyAixlmOo
+author:Kheldysh|sceneorg:/parties/2003/assembly03/fastmusic/hmmburger_by_kheldysh.zip|title:Hmmburger|webfile:fast_music/hmmburger_by_kheldysh.mp3|youtube:iU2Eof8TrSI
+author:Phaser|sceneorg:/parties/2003/assembly03/fastmusic/dallas_reskue_by_phaser.zip|title:Dallas Reskue|webfile:fast_music/dallas_reskue_by_phaser.mp3|youtube:RXjsyD11QsE
+author:ilmarque|sceneorg:/parties/2003/assembly03/fastmusic/kanervanpoimijat_by_ilmarque.zip|title:kanervanpoimijat|webfile:fast_music/kanervanpoimijat_by_ilmarque.mp3|youtube:HZ0Iw0aMfCg
+author:vfgdfg|sceneorg:/parties/2003/assembly03/fastmusic/worse_than_worse_by_vfgdfg.zip|title:Worse than worse|webfile:fast_music/worse_than_worse_by_vfgdfg.mp3|youtube:m5Rm5d2eJ1k
+author:Prophecy|sceneorg:/parties/2003/assembly03/fastmusic/happy_hippo_by_prophecy.zip|title:happy hippo|webfile:fast_music/happy_hippo_by_prophecy.mp3|youtube:UaXGHuI8wyY
+author:Terminus / scene.ee|sceneorg:/parties/2003/assembly03/fastmusic/k_rp_inen_ja_h_m_h_kki_by_terminus___scene_ee.zip|title:Kärpäinen ja hämähäkki|webfile:fast_music/k_rp_inen_ja_h_m_h_kki_by_terminus_scene_ee.mp3|youtube:F-IpQyGSlBQ
+author:pahamoka / naemok|sceneorg:/parties/2003/assembly03/fastmusic/meteliae_raehinaemaasta_by_pahamoka___naemok.zip|title:meteliae raehinaemaasta|webfile:fast_music/meteliae_raehinaemaasta_by_pahamoka_naemok.mp3|youtube:L9y2cP1id4M
+author:Saboteur|sceneorg:/parties/2003/assembly03/fastmusic/mood_1_by_saboteur.zip|title:mood 1|webfile:fast_music/mood_1_by_saboteur.mp3|youtube:-cupbTPTcTY
+author:Dubious of TekMaTiK|sceneorg:/parties/2003/assembly03/fastmusic/jungle_rythms_by_dubious_of_tekmatik.zip|title:Jungle Rythms|webfile:fast_music/jungle_rythms_by_dubious_of_tekmatik.mp3|youtube:v_jHG60hzkM
 
 
 :section Oldskool music
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
-title:Cyberdragon|author:Reed / Fairlight|position:1|webfile:oldskool_music/cyberdragon_c64_by_reed_fairlight.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/cyberdragon_by_reed___fairlight.zip|youtube:H-PNxdXI_Sg
-title:1, 2, 3, C-64|author:Little Bitchard|position:2|webfile:oldskool_music/1_2_3_c_64_xm_by_little_bitchard.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/1__2__3__c-64_by_little_bitchard.zip|youtube:cka32xIeBf0
-title:Sister of The Last Ninja|author:Ferrara / phObos team|position:3|webfile:oldskool_music/sister_of_the_last_ninja_c64_by_ferrara_phobos_team.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/sister_of_the_last_ninja_by_ferrara___phobos_team.zip|youtube:tXVBspiuSSw
-title:Popstar|author:Britelite / Dekadence|position:4|webfile:oldskool_music/popstar_c64_by_britelite_dekadence.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/popstar_by_britelite___dekadence.zip|youtube:JmedwLCvMLs
-title:You can do it but Not like We do it!|author:Dubmood .Feat Zabutom|position:5|webfile:oldskool_music/you_can_do_it_but_not_like_we_do_it_xm_by_dubmood_feat_zabutom.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/you_can_do_it_but_not_like_we_do_it__by_dubmood__feat_zabutom.zip|youtube:d4bi2yKhKwY
-title:Amstrad Memories|author:Thor/Quadra|position:6|webfile:oldskool_music/amstrad_memories_xm_by_thor_quadra.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/amstrad_memories_by_thor_quadra.zip|youtube:qnKUsAYfuzQ
-title:Eskon Kosto|author:Signal|position:7|webfile:oldskool_music/eskon_kosto_s3m_by_signal.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/eskon_kosto_by_signal.zip|youtube:2frgVTkff0U
-title:Mystic Method|author:jammic|position:8|webfile:oldskool_music/mystic_method_c64_by_jammic.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/mystic_method_by_jammic.zip|youtube:_P9NKHnmYmI
-title:Tokyo Nightwatch|author:Gasman / Hooy-Program|position:9|sceneorg:/parties/2003/assembly03/oldskool/music/tokyo_nightwatch_by_gasman___hooy-program.zip
-title:Ancient Song|author:SounDemoN / Dekadence|position:10|webfile:oldskool_music/ancient_song_c64_by_soundemon_dekadence.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/ancient_song_by_soundemon___dekadence.zip|youtube:duBQki1btFk
-title:Antti Returns to Lintuvaara|author:Ville Nurmi of www.c64hq.com|position:11|sceneorg:/parties/2003/assembly03/oldskool/music/antti_returns_to_lintuvaara_by_ville_nurmi_of_www_c64hq_com_1.zip
-title:Homage|author:Ed/Wrath Designs|position:12
-title:Helikopter|author:Jankha|position:13|webfile:oldskool_music/helikopter_c64_by_jankha.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/helikopter_by_jankha.zip|youtube:j2tiiZgPTEQ
-title:Sakkeus tule ulos seinästä|author:säästöpojat|position:14|webfile:oldskool_music/sakkeus_tule_ulos_sein_st_xm_by_s_st_pojat.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/sakkeus_tule_ulos_sein_st__by_s__st_pojat.zip|youtube:LUMK-KBT3S0
-title:Nykyinen Virta|author:Teel / Matt Current ^ Faktory|position:15|webfile:oldskool_music/nykyinen_virta_c64_by_teel_matt_current_faktory.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/nykyinen_virta_by_teel___matt_current___faktory.zip|youtube:3C5SyLBXtOo
-title:Kotkamaa Beats|author:Jean Nine|position:0|webfile:oldskool_music/kotkamaa_beats_s3m_by_jean_nine.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/kotkamaa_beats_by_jean_nine.zip|youtube:lu8xBn7YY1A
-title:We Are Back|author:rm / dekadence|position:0|webfile:oldskool_music/we_are_back_s3m_by_rm_dekadence.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/we_are_back_by_rm___dekadence.zip|youtube:VEoknk5YM9E
-title:fukk tekknology, fukk robotz|author:sauli / jumalauta|position:0|webfile:oldskool_music/fukk_tekknology_fukk_robotz_gb_by_sauli_jumalauta.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/fukk_tekknology__fukk_robotz_by_sauli___jumalauta_1.zip|youtube:HVFnwhbV1gw
-title:Prophecies|author:Prophecy|position:0|webfile:oldskool_music/prophecies_s3m_by_prophecy.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/prophecies_by_prophecy.zip|youtube:wVEOvpSCnqU
-title:The English And The Dutch Go A.Wiggling|author:Ernesto Aeroflot|position:0|webfile:oldskool_music/the_english_and_the_dutch_go_a_wiggling_xm_by_ernesto_aeroflot.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/the_english_and_the_dutch_go_a_wiggling_by_ernesto_aeroflot.zip|youtube:dcB2rdwKl-k
-title:Geheimbund|author:ilmarque|position:0|webfile:oldskool_music/geheimbund_s3m_by_ilmarque.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/geheimbund_by_ilmarque.zip|youtube:eBpgSTknvqs
-title:Material X|author:Coloneil|position:0|webfile:oldskool_music/material_x_s3m_by_coloneil.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/material_x_by_coloneil.zip|youtube:oiVIPnWhhcA
-title:Ace of spades|author:Nutcase / Mandel Bros.|position:0|webfile:oldskool_music/ace_of_spades_mod_by_nutcase_mandel_bros.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/ace_of_spades_by_nutcase___mandel_bros__1.zip|youtube:9WKTwPpYeSw
-title:Call of Serrana|author:HEXAGON / Gender8|position:0|webfile:oldskool_music/call_of_serrana_s3m_by_hexagon_gender8.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/call_of_serrana_by_hexagon___gender8.zip|youtube:yI64hzS4ejI
-title:Consider It Done|author:Rondo of Axes Denied|position:0|webfile:oldskool_music/consider_it_done_s3m_by_rondo_of_axes_denied.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/consider_it_done_by_rondo_of_axes_denied.zip|youtube:Crbh5wY0528
-title:oldskewl chillin'|author:->LUKE<- / Amazement^Numedia Cyclops|position:0|webfile:oldskool_music/oldskewl_chillin_s3m_by_luke_amazement_numedia_cyclops.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/oldskewl_chillin__by_-_luke_-___amazement_numedia_cyclops.zip|youtube:-0zszdN8uj0
-title:peppisjumppa|author:raina & mc mocc|position:0|webfile:oldskool_music/peppisjumppa_xm_by_raina_mc_mocc.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/peppisjumppa_by_raina___mc_mocco_1.zip|youtube:zmUXXXiXt7Y
-title:Juoppas Viinaa Mies|author:Aikapallo|position:0|webfile:oldskool_music/juoppas_viinaa_mies_s3m_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/juoppas_viinaa_mies_by_aikapallo.zip|youtube:qz3Mdav0D1w
-title:Sieni Crusade|author:Ari "artz" Pulkkinen|position:0|webfile:oldskool_music/sieni_crusade_s3m_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/sieni_crusade_by_ari__artz__pulkkinen.zip|youtube:h7jnP5DTY_0
-title:balloon|author:markus|position:0|webfile:oldskool_music/balloon_mod_by_markus.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/balloon_by_markus.zip|youtube:HI1BPDJ9nUQ
-title:Kolnikov|author:Kuraporo|position:0|webfile:oldskool_music/kolnikov_xm_by_kuraporo.mp3|sceneorg:/parties/2003/assembly03/oldskool/music/kolnikov_by_kuraporo.zip|youtube:fWKPP1OJyJQ
+author:Reed / Fairlight|position:1|sceneorg:/parties/2003/assembly03/oldskool/music/cyberdragon_by_reed___fairlight.zip|title:Cyberdragon|webfile:oldskool_music/cyberdragon_c64_by_reed_fairlight.mp3|youtube:H-PNxdXI_Sg
+author:Little Bitchard|position:2|sceneorg:/parties/2003/assembly03/oldskool/music/1__2__3__c-64_by_little_bitchard.zip|title:1, 2, 3, C-64|webfile:oldskool_music/1_2_3_c_64_xm_by_little_bitchard.mp3|youtube:cka32xIeBf0
+author:Ferrara / phObos team|position:3|sceneorg:/parties/2003/assembly03/oldskool/music/sister_of_the_last_ninja_by_ferrara___phobos_team.zip|title:Sister of The Last Ninja|webfile:oldskool_music/sister_of_the_last_ninja_c64_by_ferrara_phobos_team.mp3|youtube:tXVBspiuSSw
+author:Britelite / Dekadence|position:4|sceneorg:/parties/2003/assembly03/oldskool/music/popstar_by_britelite___dekadence.zip|title:Popstar|webfile:oldskool_music/popstar_c64_by_britelite_dekadence.mp3|youtube:JmedwLCvMLs
+author:Dubmood .Feat Zabutom|position:5|sceneorg:/parties/2003/assembly03/oldskool/music/you_can_do_it_but_not_like_we_do_it__by_dubmood__feat_zabutom.zip|title:You can do it but Not like We do it!|webfile:oldskool_music/you_can_do_it_but_not_like_we_do_it_xm_by_dubmood_feat_zabutom.mp3|youtube:d4bi2yKhKwY
+author:Thor/Quadra|position:6|sceneorg:/parties/2003/assembly03/oldskool/music/amstrad_memories_by_thor_quadra.zip|title:Amstrad Memories|webfile:oldskool_music/amstrad_memories_xm_by_thor_quadra.mp3|youtube:qnKUsAYfuzQ
+author:Signal|position:7|sceneorg:/parties/2003/assembly03/oldskool/music/eskon_kosto_by_signal.zip|title:Eskon Kosto|webfile:oldskool_music/eskon_kosto_s3m_by_signal.mp3|youtube:2frgVTkff0U
+author:jammic|position:8|sceneorg:/parties/2003/assembly03/oldskool/music/mystic_method_by_jammic.zip|title:Mystic Method|webfile:oldskool_music/mystic_method_c64_by_jammic.mp3|youtube:_P9NKHnmYmI
+author:Gasman / Hooy-Program|position:9|sceneorg:/parties/2003/assembly03/oldskool/music/tokyo_nightwatch_by_gasman___hooy-program.zip|title:Tokyo Nightwatch
+author:SounDemoN / Dekadence|position:10|sceneorg:/parties/2003/assembly03/oldskool/music/ancient_song_by_soundemon___dekadence.zip|title:Ancient Song|webfile:oldskool_music/ancient_song_c64_by_soundemon_dekadence.mp3|youtube:duBQki1btFk
+author:Ville Nurmi of www.c64hq.com|position:11|sceneorg:/parties/2003/assembly03/oldskool/music/antti_returns_to_lintuvaara_by_ville_nurmi_of_www_c64hq_com_1.zip|title:Antti Returns to Lintuvaara
+author:Ed/Wrath Designs|position:12|title:Homage
+author:Jankha|position:13|sceneorg:/parties/2003/assembly03/oldskool/music/helikopter_by_jankha.zip|title:Helikopter|webfile:oldskool_music/helikopter_c64_by_jankha.mp3|youtube:j2tiiZgPTEQ
+author:säästöpojat|position:14|sceneorg:/parties/2003/assembly03/oldskool/music/sakkeus_tule_ulos_sein_st__by_s__st_pojat.zip|title:Sakkeus tule ulos seinästä|webfile:oldskool_music/sakkeus_tule_ulos_sein_st_xm_by_s_st_pojat.mp3|youtube:LUMK-KBT3S0
+author:Teel / Matt Current ^ Faktory|position:15|sceneorg:/parties/2003/assembly03/oldskool/music/nykyinen_virta_by_teel___matt_current___faktory.zip|title:Nykyinen Virta|webfile:oldskool_music/nykyinen_virta_c64_by_teel_matt_current_faktory.mp3|youtube:3C5SyLBXtOo
+author:Jean Nine|sceneorg:/parties/2003/assembly03/oldskool/music/kotkamaa_beats_by_jean_nine.zip|title:Kotkamaa Beats|webfile:oldskool_music/kotkamaa_beats_s3m_by_jean_nine.mp3|youtube:lu8xBn7YY1A
+author:rm / dekadence|sceneorg:/parties/2003/assembly03/oldskool/music/we_are_back_by_rm___dekadence.zip|title:We Are Back|webfile:oldskool_music/we_are_back_s3m_by_rm_dekadence.mp3|youtube:VEoknk5YM9E
+author:sauli / jumalauta|sceneorg:/parties/2003/assembly03/oldskool/music/fukk_tekknology__fukk_robotz_by_sauli___jumalauta_1.zip|title:fukk tekknology, fukk robotz|webfile:oldskool_music/fukk_tekknology_fukk_robotz_gb_by_sauli_jumalauta.mp3|youtube:HVFnwhbV1gw
+author:Prophecy|sceneorg:/parties/2003/assembly03/oldskool/music/prophecies_by_prophecy.zip|title:Prophecies|webfile:oldskool_music/prophecies_s3m_by_prophecy.mp3|youtube:wVEOvpSCnqU
+author:Ernesto Aeroflot|sceneorg:/parties/2003/assembly03/oldskool/music/the_english_and_the_dutch_go_a_wiggling_by_ernesto_aeroflot.zip|title:The English And The Dutch Go A.Wiggling|webfile:oldskool_music/the_english_and_the_dutch_go_a_wiggling_xm_by_ernesto_aeroflot.mp3|youtube:dcB2rdwKl-k
+author:ilmarque|sceneorg:/parties/2003/assembly03/oldskool/music/geheimbund_by_ilmarque.zip|title:Geheimbund|webfile:oldskool_music/geheimbund_s3m_by_ilmarque.mp3|youtube:eBpgSTknvqs
+author:Coloneil|sceneorg:/parties/2003/assembly03/oldskool/music/material_x_by_coloneil.zip|title:Material X|webfile:oldskool_music/material_x_s3m_by_coloneil.mp3|youtube:oiVIPnWhhcA
+author:Nutcase / Mandel Bros.|sceneorg:/parties/2003/assembly03/oldskool/music/ace_of_spades_by_nutcase___mandel_bros__1.zip|title:Ace of spades|webfile:oldskool_music/ace_of_spades_mod_by_nutcase_mandel_bros.mp3|youtube:9WKTwPpYeSw
+author:HEXAGON / Gender8|sceneorg:/parties/2003/assembly03/oldskool/music/call_of_serrana_by_hexagon___gender8.zip|title:Call of Serrana|webfile:oldskool_music/call_of_serrana_s3m_by_hexagon_gender8.mp3|youtube:yI64hzS4ejI
+author:Rondo of Axes Denied|sceneorg:/parties/2003/assembly03/oldskool/music/consider_it_done_by_rondo_of_axes_denied.zip|title:Consider It Done|webfile:oldskool_music/consider_it_done_s3m_by_rondo_of_axes_denied.mp3|youtube:Crbh5wY0528
+author:->LUKE<- / Amazement^Numedia Cyclops|sceneorg:/parties/2003/assembly03/oldskool/music/oldskewl_chillin__by_-_luke_-___amazement_numedia_cyclops.zip|title:oldskewl chillin'|webfile:oldskool_music/oldskewl_chillin_s3m_by_luke_amazement_numedia_cyclops.mp3|youtube:-0zszdN8uj0
+author:raina & mc mocc|sceneorg:/parties/2003/assembly03/oldskool/music/peppisjumppa_by_raina___mc_mocco_1.zip|title:peppisjumppa|webfile:oldskool_music/peppisjumppa_xm_by_raina_mc_mocc.mp3|youtube:zmUXXXiXt7Y
+author:Aikapallo|sceneorg:/parties/2003/assembly03/oldskool/music/juoppas_viinaa_mies_by_aikapallo.zip|title:Juoppas Viinaa Mies|webfile:oldskool_music/juoppas_viinaa_mies_s3m_by_aikapallo.mp3|youtube:qz3Mdav0D1w
+author:Ari "artz" Pulkkinen|sceneorg:/parties/2003/assembly03/oldskool/music/sieni_crusade_by_ari__artz__pulkkinen.zip|title:Sieni Crusade|webfile:oldskool_music/sieni_crusade_s3m_by_ari_artz_pulkkinen.mp3|youtube:h7jnP5DTY_0
+author:markus|sceneorg:/parties/2003/assembly03/oldskool/music/balloon_by_markus.zip|title:balloon|webfile:oldskool_music/balloon_mod_by_markus.mp3|youtube:HI1BPDJ9nUQ
+author:Kuraporo|sceneorg:/parties/2003/assembly03/oldskool/music/kolnikov_by_kuraporo.zip|title:Kolnikov|webfile:oldskool_music/kolnikov_xm_by_kuraporo.mp3|youtube:fWKPP1OJyJQ
 
 
 :section Combined demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Combined demo competition limited platforms to 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
-title:Legomania|author:Doomsday|position:1|sceneorg:/parties/2003/assembly03/demo/legomania_by_doomsday.zip|pouet:10540|dtv:id_file=4442&id_prod=13364&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10540_2.jpg&width=512&height=404
-title:ix|author:moppi productions|position:2|sceneorgvideo:/parties/2003/assembly03/demo/moppi-ix-hifi.avi|sceneorg:/parties/2003/assembly03/demo/ix_by_moppi_productions_1.zip|pouet:10538|dtv:id_file=3035&id_prod=9&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10538.jpg&width=512&height=404|youtube:mSYxg5h1yac|cappedtv:moppi_productions-ix&width=640&height=480
-title:Doomsday|author:Complex|position:3|sceneorg:/parties/2003/assembly03/demo/doomsday_by_complex-xbox_iso_image.zip|pouet:10586|dtv:id_file=3838&id_prod=3170&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10586.jpg&width=512&height=404|cappedtv:complex-doomsday&width=320&height=240
-title:Dreamchild|author:Andromeda Software Development|position:4|sceneorg:/parties/2003/assembly03/demo/dreamchild_by_andromeda_software_development.zip|pouet:10530|dtv:id_file=3043&id_prod=3240&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10530.jpg&width=512&height=404|cappedtv:asd-dream_child&width=640&height=480
-title:Mental|author:PUSH Entertainment|position:5|sceneorgvideo:/parties/2003/assembly03/demo/push-mental.avi|sceneorg:/parties/2003/assembly03/demo/mental_by_push_entertainment.lzx|pouet:10571|youtube:TAze4rfcrcA|cappedtv:1208452368-1-0&width=352&height=160
-title:A Significant Deformation Near The Cranium|author:Kewlers|position:6|sceneorg:/parties/2003/assembly03/demo/a_significant_deformation_near_the_cranium_by_kewlers.zip|pouet:10544|dtv:id_file=3036&id_prod=10&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10544.jpg&width=512&height=404|cappedtv:1207004592-1-0&width=634&height=362
-title:PITT|author:David Hasselhoff Fan Club|position:7|sceneorg:/parties/2003/assembly03/demo/pitt_by_david_hasselhoff_fan_club.zip|pouet:10579
-title:A Study in Lines and Textures|author:Traction|position:8|sceneorg:/parties/2003/assembly03/demo/a_study_in_lines_and_textures_by_traction.zip|pouet:10551|dtv:id_file=3037&id_prod=420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10551.jpg&width=512&height=404
-title:Predator|author:mfx|position:9|sceneorg:/parties/2003/assembly03/demo/predator_by_mfx.zip|pouet:10560
-title:3000|author:RocketScience|position:10|sceneorg:/parties/2003/assembly03/demo/3000_by_rocketscience_2.zip|pouet:10591
-title:feed your machine|author:faktory|position:11|sceneorg:/parties/2003/assembly03/demo/feed_your_machine_by_faktory_1.zip|pouet:10539
-title:fr-031: Faded Memories|author:Visualice, Chaos, Vic|position:12|sceneorg:/parties/2003/assembly03/demo/fr-031__faded_memories_by_visualice__chaos__vic.zip|pouet:10542|dtv:id_file=3004&id_prod=13119&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10542_2.jpg&width=512&height=404
-title:digital dynamix|author:fairlight|position:13|sceneorg:/parties/2003/assembly03/demo/digitial_dynamix_by_fairlight.zip|pouet:10548
-title:we owe a cock to aesculapius|author:amc|position:14|sceneorg:/parties/2003/assembly03/demo/we_owe_a_cock_to_aesculapius_by_amc.zip|pouet:14262
-title:abstrakt|author:Syn[Rj] and Silents|position:0|sceneorg:/parties/2003/assembly03/demo/abstrakt_by_syn_rj__and_silents.zip|pouet:10543
-title:Art Nouveau|author:Bohemiq|position:0|sceneorg:/parties/2003/assembly03/demo/art_nouveau_by_bohemiq.zip|pouet:10581
-title:We are going to kill you|author:Moonhazard+friends|position:0|sceneorg:/parties/2003/assembly03/demo/we_are_going_to_kill_you_by_moonhazard+friends.zip|pouet:10677
-title:Emässika - Alkali Pig|author:tAAt|position:0|sceneorg:/parties/2003/assembly03/demo/em_ssika_-_alkali_pig_by_taat_1.zip|pouet:10532
-title:Artwork Network|author:Korso Karate plus plus|position:0|sceneorg:/parties/2003/assembly03/demo/artwork_network_by_korso_karate_plus_plus.zip|pouet:10535
-title:Warped reality|author:PKS|position:0|sceneorg:/parties/2003/assembly03/demo/warped_reality_by_pks.zip
-title:therapydottwo|author:Marshals|position:0|sceneorg:/parties/2003/assembly03/demo/therapydottwo_by_marshals.zip|pouet:10568
-title:The Gnosis Cult|author:Group|position:0|sceneorg:/parties/2003/assembly03/demo/the_gnosis_cult_by_group.zip
-title:Is this totalizator?|author:Lasi Interactive|position:0|sceneorg:/parties/2003/assembly03/demo/is_this_totalizator__by_lasi_interactive.tgz
-title:periferia|author:massive unlimited|position:0|sceneorg:/parties/2003/assembly03/demo/periferia_by_massive_unlimited.zip
-title:Heart to Yebis|author:umi_tanuki|position:0|sceneorg:/parties/2003/assembly03/demo/heart_to_yebis_by_umi_tanuki.zip
-title:Tears of Pain|author:Bad Karma|position:0|sceneorg:/parties/2003/assembly03/demo/tears_of_pain_by_bad_karma_1.zip|pouet:10596
-title:Guage Rulz|author:tukka|position:0|sceneorg:/parties/2003/assembly03/demo/guage_rulz_by_tukka.zip|pouet:10529
-title:m1nt-t34|author:RRE|position:0|sceneorg:/parties/2003/assembly03/demo/m1nt-t34_by_rre_1.zip
+author:Doomsday|dtv:id_file=4442&id_prod=13364&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10540_2.jpg&width=512&height=404|position:1|pouet:10540|sceneorg:/parties/2003/assembly03/demo/legomania_by_doomsday.zip|title:Legomania
+author:moppi productions|cappedtv:moppi_productions-ix&width=640&height=480|dtv:id_file=3035&id_prod=9&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10538.jpg&width=512&height=404|position:2|pouet:10538|sceneorg:/parties/2003/assembly03/demo/ix_by_moppi_productions_1.zip|sceneorgvideo:/parties/2003/assembly03/demo/moppi-ix-hifi.avi|title:ix|youtube:mSYxg5h1yac
+author:Complex|cappedtv:complex-doomsday&width=320&height=240|dtv:id_file=3838&id_prod=3170&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10586.jpg&width=512&height=404|position:3|pouet:10586|sceneorg:/parties/2003/assembly03/demo/doomsday_by_complex-xbox_iso_image.zip|title:Doomsday
+author:Andromeda Software Development|cappedtv:asd-dream_child&width=640&height=480|dtv:id_file=3043&id_prod=3240&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10530.jpg&width=512&height=404|position:4|pouet:10530|sceneorg:/parties/2003/assembly03/demo/dreamchild_by_andromeda_software_development.zip|title:Dreamchild
+author:PUSH Entertainment|cappedtv:1208452368-1-0&width=352&height=160|position:5|pouet:10571|sceneorg:/parties/2003/assembly03/demo/mental_by_push_entertainment.lzx|sceneorgvideo:/parties/2003/assembly03/demo/push-mental.avi|title:Mental|youtube:TAze4rfcrcA
+author:Kewlers|cappedtv:1207004592-1-0&width=634&height=362|dtv:id_file=3036&id_prod=10&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10544.jpg&width=512&height=404|position:6|pouet:10544|sceneorg:/parties/2003/assembly03/demo/a_significant_deformation_near_the_cranium_by_kewlers.zip|title:A Significant Deformation Near The Cranium
+author:David Hasselhoff Fan Club|position:7|pouet:10579|sceneorg:/parties/2003/assembly03/demo/pitt_by_david_hasselhoff_fan_club.zip|title:PITT
+author:Traction|dtv:id_file=3037&id_prod=420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10551.jpg&width=512&height=404|position:8|pouet:10551|sceneorg:/parties/2003/assembly03/demo/a_study_in_lines_and_textures_by_traction.zip|title:A Study in Lines and Textures
+author:mfx|position:9|pouet:10560|sceneorg:/parties/2003/assembly03/demo/predator_by_mfx.zip|title:Predator
+author:RocketScience|position:10|pouet:10591|sceneorg:/parties/2003/assembly03/demo/3000_by_rocketscience_2.zip|title:3000
+author:faktory|position:11|pouet:10539|sceneorg:/parties/2003/assembly03/demo/feed_your_machine_by_faktory_1.zip|title:feed your machine
+author:Visualice, Chaos, Vic|dtv:id_file=3004&id_prod=13119&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10542_2.jpg&width=512&height=404|position:12|pouet:10542|sceneorg:/parties/2003/assembly03/demo/fr-031__faded_memories_by_visualice__chaos__vic.zip|title:fr-031: Faded Memories
+author:fairlight|position:13|pouet:10548|sceneorg:/parties/2003/assembly03/demo/digitial_dynamix_by_fairlight.zip|title:digital dynamix
+author:amc|position:14|pouet:14262|sceneorg:/parties/2003/assembly03/demo/we_owe_a_cock_to_aesculapius_by_amc.zip|title:we owe a cock to aesculapius
+author:Syn[Rj] and Silents|pouet:10543|sceneorg:/parties/2003/assembly03/demo/abstrakt_by_syn_rj__and_silents.zip|title:abstrakt
+author:Bohemiq|pouet:10581|sceneorg:/parties/2003/assembly03/demo/art_nouveau_by_bohemiq.zip|title:Art Nouveau
+author:Moonhazard+friends|pouet:10677|sceneorg:/parties/2003/assembly03/demo/we_are_going_to_kill_you_by_moonhazard+friends.zip|title:We are going to kill you
+author:tAAt|pouet:10532|sceneorg:/parties/2003/assembly03/demo/em_ssika_-_alkali_pig_by_taat_1.zip|title:Emässika - Alkali Pig
+author:Korso Karate plus plus|pouet:10535|sceneorg:/parties/2003/assembly03/demo/artwork_network_by_korso_karate_plus_plus.zip|title:Artwork Network
+author:PKS|sceneorg:/parties/2003/assembly03/demo/warped_reality_by_pks.zip|title:Warped reality
+author:Marshals|pouet:10568|sceneorg:/parties/2003/assembly03/demo/therapydottwo_by_marshals.zip|title:therapydottwo
+author:Group|sceneorg:/parties/2003/assembly03/demo/the_gnosis_cult_by_group.zip|title:The Gnosis Cult
+author:Lasi Interactive|sceneorg:/parties/2003/assembly03/demo/is_this_totalizator__by_lasi_interactive.tgz|title:Is this totalizator?
+author:massive unlimited|sceneorg:/parties/2003/assembly03/demo/periferia_by_massive_unlimited.zip|title:periferia
+author:umi_tanuki|sceneorg:/parties/2003/assembly03/demo/heart_to_yebis_by_umi_tanuki.zip|title:Heart to Yebis
+author:Bad Karma|pouet:10596|sceneorg:/parties/2003/assembly03/demo/tears_of_pain_by_bad_karma_1.zip|title:Tears of Pain
+author:tukka|pouet:10529|sceneorg:/parties/2003/assembly03/demo/guage_rulz_by_tukka.zip|title:Guage Rulz
+author:RRE|sceneorg:/parties/2003/assembly03/demo/m1nt-t34_by_rre_1.zip|title:m1nt-t34
+
 
 :section Instrumental music
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
-title:Acula class|author:!Cube / Armada + SCS*TRC + Skalaria|position:1|webfile:instrumental_music/acula_class_by_cube_armada_scs_trc_skalaria.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/acula_class_by__cube___armada_+_scs_trc_+_skalaria.zip|youtube:V9GzhOcmSrQ
-title:mist of deceit|author:quasian|position:2|webfile:instrumental_music/mist_of_deceit_by_quasian.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/mist_of_deceit_by_quasian.zip|youtube:5MEFHfYxKi4
-title:Awaken|author:_pk_|position:3|webfile:instrumental_music/awaken_by_pk.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/awaken_by__pk_.zip|youtube:T5HqQw_QXOY
-title:Betrayal|author:Firestorm / Doomsday|position:4|webfile:instrumental_music/betrayal_by_firestorm_doomsday.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/betrayal_by_firestorm___doomsday_1.zip|youtube:VTm5lP0hVt4
-title:Iz Wah, Waz Wah, Fuzz Wah!|author:Exactly Precise|position:5|webfile:instrumental_music/iz_wah_waz_wah_fuzz_wah_by_exactly_precise.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/iz_wah__waz_wah__fuzz_wah__by_exactly_precise.zip|youtube:5HaLd5bYjfA
-title:Plenty of fresh air and exercise|author:Crud / 10tons|position:6|webfile:instrumental_music/plenty_of_fresh_air_and_exercise_by_crud_10tons.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/plenty_of_fresh_air_and_exercise_by_crud___10tons.zip|youtube:T9-xhM0ioIA
-title:That Pseudo-Funk Jam|author:Little Bitchard|position:7|webfile:instrumental_music/that_pseudo_funk_jam_by_little_bitchard.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/that_pseudo-funk_jam_by_little_bitchard.zip|youtube:Jh1yuzijWpc
-title:Residue of Desire (feat. Timo Toivonen)|author:Milan Kolarovic (a.k.a. Acumen)|position:8|webfile:instrumental_music/residue_of_desire_feat_timo_toivonen_by_milan_kolarovic_a_k_a_acumen.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/residue_of_desire__feat__timo_toivonen__by_milan_kolarovic__a_k_a__acumen.zip|youtube:KGkxUyZrVyY
-title:Morning By The Sea|author:Jo B1|position:9|webfile:instrumental_music/morning_by_the_sea_by_jo_b1.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/morning_by_the_sea_by_jo_b1.zip|youtube:PcccKBlpIzs
-title:Critical Damage|author:damage|position:10|webfile:instrumental_music/critical_damage_by_damage.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/critical_damage_by_damage.zip|youtube:Gi7FNMasBEA
-title:Fading to Shade|author:NDi|position:11|webfile:instrumental_music/fading_to_shade_by_ndi.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/fading_to_shade_by_ndi_1.zip|youtube:qfOkZMob1QA
-title:Darkening Ocean|author:Havock|position:12|webfile:instrumental_music/darkening_ocean_by_havock.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/darkening_ocean_by_havock.zip|youtube:ReFCBm2IHek
-title:Reprise|author:Heatbeat/CNCD|position:13|webfile:instrumental_music/reprise_by_heatbeat_cncd.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/reprise_by_heatbeat_cncd.zip|youtube:78VxnelCVXU
-title:Travelogue|author:Darth Vader / Group|position:14|webfile:instrumental_music/travelogue_by_darth_vader_group.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/travelogue_by_darth_vader___group.zip|youtube:kL5qipl4xb0
-title:Jenin - Audio Exposition|author:Mr. Clock / Group|position:15|webfile:instrumental_music/jenin_audio_exposition_by_mr_clock_group.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/jenin_-_audio_exposition_by_mr__clock___group.zip|youtube:PtEyWkljkw0
-title:lilt|author:aienn|position:0|webfile:instrumental_music/lilt_by_aienn.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/lilt_by_aienn.zip|youtube:ctsrROt7Dpo
-title:Children of Blues|author:oizo|position:0|webfile:instrumental_music/children_of_blues_by_oizo.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/children_of_blues_by_oizo.zip|youtube:uBW-BP3-CL8
-title:bring it back|author:quobe|position:0|webfile:instrumental_music/bring_it_back_by_quobe.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/bring_it_back_by_quobe.zip|youtube:URkABQlBf2Y
-title:Last summer days|author:Squeek|position:0|webfile:instrumental_music/last_summer_days_by_squeek.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/last_summer_days_by_squeek.zip|youtube:PDSj0bbqk8U
-title:with haste|author:al coda|position:0|webfile:instrumental_music/with_haste_by_al_coda.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/with_haste_by_al_coda.zip|youtube:JUxikEUstLs
-title:Dragon|author:Saboteur|position:0|webfile:instrumental_music/dragon_by_saboteur.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/dragon_by_saboteur.zip|youtube:l9Pq37qAqZA
-title:Chernobyl Underground|author:4T Thieves / Kahvi Collective|position:0|webfile:instrumental_music/chernobyl_underground_by_4t_thieves_kahvi_collective.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/chernobyl_underground_by_4t_thieves___kahvi_collective.zip|youtube:wJh5HfGOVE8
-title:Historias de un cuarto oscuro|author:Duo acustico de la cena|position:0|webfile:instrumental_music/historias_de_un_cuarto_oscuro_by_duo_acustico_de_la_cena.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/historias_de_un_cuarto_oscuro_by_duo_acustico_de_la_cena.zip|youtube:JJ8bPlqaa7c
-title:Burned Homes|author:Coloneil|position:0|webfile:instrumental_music/burned_homes_by_coloneil.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/burned_homes_by_coloneil.zip|youtube:D4MYIV9qr_s
-title:Nature's Lullaby|author:Prophecy|position:0|webfile:instrumental_music/nature_s_lullaby_by_prophecy.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/nature_s_lullaby_by_prophecy.zip|youtube:roYQaaQ_ToA
-title:Music 4 AM|author:zild|position:0|webfile:instrumental_music/music_4_am_by_zild.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/music_4_am_by_zild.zip|youtube:V6bYnORDdLE
-title:Rise From Your Gutter|author:Iku|position:0|webfile:instrumental_music/rise_from_your_gutter_by_iku.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/rise_from_your_gutter_by_iku.zip|youtube:Fkk_CNBuT3U
-title:Ragnarok|author:Inphernic|position:0|webfile:instrumental_music/ragnarok_by_inphernic.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/ragnarok_by_inphernic.zip|youtube:kGFOijsp5Bk
-title:Ladybird|author:Terminus / scene.ee|position:0|webfile:instrumental_music/ladybird_by_terminus_scene_ee.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/ladybird_by_terminus___scene_ee_1.zip|youtube:uHo5E6awDis
-title:Eli Fiilis la Mera|author:Soiva Johannes|position:0|webfile:instrumental_music/eli_fiilis_la_mera_by_soiva_johannes.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/eli_fiilis_la_mera_by_soiva_johannes.zip|youtube:uL8dcL5NnrM
-title:Beginning to Believe|author:->LUKE<- / Amazement^Numedia Cyclops|position:0|webfile:instrumental_music/beginning_to_believe_by_luke_amazement_numedia_cyclops.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/beginning_to_believe_by_-_luke_-___amazement_numedia_cyclops.zip|youtube:NQHx4x9RlhA
-title:Blitzkrieg|author:Ari "artz" Pulkkinen|position:0|webfile:instrumental_music/blitzkrieg_by_ari_artz_pulkkinen.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/blitzkrieg_by_ari__artz__pulkkinen.zip|youtube:JUGDv5i_q8s
-title:Alkemistry|author:Teel|position:0|webfile:instrumental_music/alkemistry_by_teel.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/alkemistry_by_teel.zip|youtube:Fqd-qKktUgQ
-title:Monkey and Bananas|author:KamikazeJoint|position:0|webfile:instrumental_music/monkey_and_bananas_by_kamikazejoint.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/monkey_and_bananas_by_kamikazejoint.zip|youtube:9i8GJVl3M04
-title:With Riitta (At The Movies)|author:Jugi Kaartinen|position:0|webfile:instrumental_music/with_riitta_at_the_movies_by_jugi_kaartinen.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/with_riitta__at_the_movies__by_jugi_kaartinen.zip|youtube:M__x3SzcQE8
-title:Raindance (Airplay)|author:Mark Vera|position:0|webfile:instrumental_music/raindance_airplay_by_mark_vera.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/raindance__airplay__by_mark_vera.zip|youtube:TYvHtNQaYZQ
-title:Keystroke Song|author:Nightbeat|position:0|webfile:instrumental_music/keystroke_song_by_nightbeat.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/keystroke_song_by_nightbeat.zip|youtube:pTRQwhMGowQ
-title:Frugality|author:Thor/Quadra|position:0
-title:Ode To Zimmer|author:Signal|position:0|webfile:instrumental_music/ode_to_zimmer_by_signal.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/ode_to_zimmer_by_signal.zip|youtube:aS8jMd-JlvU
-title:Life saving dub|author:Gimle / Kaita|position:0|webfile:instrumental_music/life_saving_dub_by_gimle_kaita.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/life_saving_dub_by_gimle___kaita.zip|youtube:qNym1iVGlHk
-title:Estoy Bombero Tranquilo|author:Phaser|position:0|webfile:instrumental_music/estoy_bombero_tranquilo_by_phaser.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/estoy_bombero_tranquilo_by_phaser.zip|youtube:Dpls1UjhsPw
-title:Electric Beards and Fake Guitars|author:KiWi|position:0|webfile:instrumental_music/electric_beards_and_fake_guitars_by_kiwi.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/electric_beards_and_fake_guitars__by_kiwi.zip|youtube:H0jVySzSPig
-title:Cappuccino Stylistics (Any Which Way You Play It)|author:Firelight Crew|position:0|webfile:instrumental_music/cappuccino_stylistics_any_which_way_you_play_it_by_firelight_crew.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/cappuccino_stylistics__any_which_way_you_play_it__by_firelight_crew.zip|youtube:uPIRuaFkLRA
-title:Sunrise|author:Planeshifter|position:0|webfile:instrumental_music/sunrise_by_planeshifter.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/sunrise_by_planeshifter.zip|youtube:mOC94dtj6_s
-title:Sweet Darkness|author:Lazy Bastard|position:0|webfile:instrumental_music/sweet_darkness_by_lazy_bastard.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/sweet_darkness_by_lazy_bastard.zip|youtube:h73q4RGrvz4
-title:Kalastajapappa|author:Vfgdfg|position:0|webfile:instrumental_music/kalastajapappa_by_vfgdfg.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/kalastajapappa_by_vfgdfg.zip|youtube:ZCN_PUaTGL4
-title:Eclipse|author:Buhis|position:0|webfile:instrumental_music/eclipse_by_buhis.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse_by_buhis_1.zip|youtube:Azcj80uZVt8
-title:Air Play|author:Tsokleg|position:0
-title:Painful News|author:HEXAGON / Gender8|position:0|webfile:instrumental_music/painful_news_by_hexagon_gender8.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/painful_news_by_hexagon___gender8.zip|youtube:s2Y_Zr9psZo
-title:Machine Oil|author:Sueño|position:0|webfile:instrumental_music/machine_oil_by_sue_o.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/machine_oil_by_sue_o.zip|youtube:49qrkZndAvQ
-title:Nautakone|author:Aikapallo|position:0|webfile:instrumental_music/nautakone_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/nautakone_by_aikapallo_1.zip|youtube:LvOt-bCaNbI
-title:It Grew From The Dust|author:Jean Nine|position:0|webfile:instrumental_music/it_grew_from_the_dust_by_jean_nine.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/it_grew_from_the_dust_by_jean_nine.zip|youtube:UdpsXt13s5c
-title:Eclipse (asm03 edit)|author:Buhis|position:0|webfile:instrumental_music/eclipse_asm03_edit_by_buhis.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse__asm03_edit__by_buhis.zip|youtube:YrS9SOxT7Vw
-title:50mikrog|author:bad loop|position:0|webfile:instrumental_music/50mikrog_by_bad_loop.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/50mikrog_by_bad_loop.zip|youtube:NnWJPz02a5Y
-title:Happy Music Club|author:Puti|position:0|webfile:instrumental_music/happy_music_club_by_puti.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/happy_music_club_by_puti.zip|youtube:tZYGg0cEiqM
-title:The Way To You Inside Me|author:Reverie / Faktory|position:0|webfile:instrumental_music/the_way_to_you_inside_me_by_reverie_faktory.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/the_way_to_you_inside_me_by_reverie___faktory.zip|youtube:3w3YNeRW58I
-title:Majakka Rauman kupeessa|author:ilmarque|position:0|webfile:instrumental_music/majakka_rauman_kupeessa_by_ilmarque.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/majakka_rauman_kupeessa_by_ilmarque.zip|youtube:1sUlQfONYSc
-title:Crescent Moon [Assembly Edit]|author:Trance Dynasty|position:0|webfile:instrumental_music/crescent_moon_assembly_edit_by_trance_dynasty.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/crescent_moon__assembly_edit__by_trance_dynasty.zip|youtube:42zAr1bEN80
-title:boozembly hills cop theme|author:sauli / jumalauta|position:0|webfile:instrumental_music/boozembly_hills_cop_theme_by_sauli_jumalauta.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/boozembly_hills_cop_theme_by_sauli___jumalauta.zip|youtube:zCg2aSdCet8
-title:Mental Zeppelin|author:Kuraporo|position:0|webfile:instrumental_music/mental_zeppelin_by_kuraporo.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/mental_zeppelin_by_kuraporo.zip|youtube:dPWGdi0-Xpo
-title:Simplicity|author:Monoband|position:0|webfile:instrumental_music/simplicity_by_monoband.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/simplicity_by_monoband.zip|youtube:XME_z_-g080
-title:Waltz no. 1 in G Major|author:kiste / scene.ee|position:0|webfile:instrumental_music/waltz_no_1_in_g_major_by_kiste_scene_ee.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/waltz_no__1_in_g_major_by_kiste___scene_ee.zip|youtube:wF4Hvyu_VrM
-title:Tone|author:T-Rex|position:0|webfile:instrumental_music/tone_by_t_rex.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/tone_by_t-rex.zip|youtube:209boHRC-rw
-title:Love Beyond Life|author:The P|position:0|webfile:instrumental_music/love_beyond_life_by_the_p.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/love_beyond_life_by_the_p.zip|youtube:BXI9M982M_0
-title:Space Madness|author:rdj|position:0|webfile:instrumental_music/space_madness_by_rdj.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/space_madness_by_rdj.zip|youtube:5bQ2oKMo9jI
-title:Avarassa|author:Asiamies Lorkki|position:0|webfile:instrumental_music/avarassa_by_asiamies_lorkki.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/avarassa_by_asiamies_lorkki.zip|youtube:heTHMc3IvSg
-title:Plastics [dark funk mix]|author:Sam Alphonse|position:0|webfile:instrumental_music/plastics_dark_funk_mix_by_sam_alphonse.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/plastics__dark_funk_mix__by_sam_alphonse.zip|youtube:0onjrB4sSBI
-title:Circustime|author:grazh|position:0|webfile:instrumental_music/circustime_by_grazh.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/circustime_by_grazh.zip|youtube:3Y1ULKOUCNI
-title:II-HC|author:Juippi|position:0|webfile:instrumental_music/ii_hc_by_juippi.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/ii-hc_by_juippi.zip|youtube:yTMW8F0pXYc
-title:Calm|author:Kari Siivonen|position:0|webfile:instrumental_music/calm_by_kari_siivonen.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/calm_by_kari_siivonen.zip|youtube:ccO1ABZ0A00
-title:Garden of Solitude|author:Cairbre|position:0|webfile:instrumental_music/garden_of_solitude_by_cairbre.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/garden_of_solitude_by_cairbre.zip|youtube:fzTLVgPdrI4
-title:My Yarrs|author:Tspoon|position:0|webfile:instrumental_music/my_yarrs_by_tspoon.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/my_yarrs_by_tspoon.zip|youtube:CjJnz3oEnos
-title:Light in the forest|author:tArzAn|position:0|webfile:instrumental_music/light_in_the_forest_by_tarzan.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/light_in_the_forest_by_tarzan.zip|youtube:ivNWytRW0Gw
-title:Electronica (short edit)|author:Nyruffsig of TFQ|position:0|webfile:instrumental_music/electronica_short_edit_by_nyruffsig_of_tfq.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/electronica__short_edit__by_nyruffsig_of_tfq.zip|youtube:wW_5CXuD6CY
-title:Han drog en jätte gjedde|author:TrAFo|position:0|webfile:instrumental_music/han_drog_en_j_tte_gjedde_by_trafo.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/han_drog_en_j_tte_gjedde_by_trafo.zip|youtube:ZSYkBQYs8SU
-title:Lassie palaa kotiin|author:Ilem|position:0|webfile:instrumental_music/lassie_palaa_kotiin_by_ilem.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/lassie_palaa_kotiin_by_ilem.zip|youtube:pzCQ2Yf3bco
-title:Kuljen tietä sun|author:Dugeroow|position:0|webfile:instrumental_music/kuljen_tiet_sun_by_dugeroow.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/kuljen_tiet__sun_by_dugeroow.zip|youtube:phwF1PlogQ8
-title:neito peppis|author:raina / CoolPHat|position:0|webfile:instrumental_music/neito_peppis_by_raina_coolphat.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/neito_peppis_by_raina___coolphat_2.zip|youtube:XdG8QJZY6TY
-title:Mindess Trance|author:ZaTTu|position:0|webfile:instrumental_music/mindess_trance_by_zattu.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/mindess_trance_by_zattu.zip|youtube:FSdUGi-9nkk
-title:Have Fun|author:Drazil|position:0|webfile:instrumental_music/have_fun_by_drazil.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/have_fun_by_drazil.zip|youtube:2eMjDbdkoPM
-title:Red Mate|author:Apomakros|position:0|webfile:instrumental_music/red_mate_by_apomakros.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/red_mate_by_apomakros.zip|youtube:71VZ4CwFUiA
-title:Sanity|author:Petri Kuronen & Anssi Rautio|position:0|webfile:instrumental_music/sanity_by_petri_kuronen_anssi_rautio.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/sanity_by_petri_kuronen___anssi_rautio.zip|youtube:X7oGXHT3fyU
-title:Tahdo en laulaa|author:shadez|position:0|webfile:instrumental_music/tahdo_en_laulaa_by_shadez.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/tahdo_en_laulaa_by_shadez.zip|youtube:nTLrqd5Tk8M
-title:Tankkaus|author:KimmoKe / A-MEN|position:0|webfile:instrumental_music/tankkaus_by_kimmoke_a_men.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/tankkaus_by_kimmoke___a-men.zip|youtube:FnotS9tRCKE
-title:Millennium prize|author:Nutcase / Mandel Bros.|position:0|webfile:instrumental_music/millennium_prize_by_nutcase_mandel_bros.mp3|sceneorg:/parties/2003/assembly03/instrumentalmusic/millennium_prize_by_nutcase___mandel_bros.zip|youtube:Yzec8uiccq8
+author:!Cube / Armada + SCS*TRC + Skalaria|position:1|sceneorg:/parties/2003/assembly03/instrumentalmusic/acula_class_by__cube___armada_+_scs_trc_+_skalaria.zip|title:Acula class|webfile:instrumental_music/acula_class_by_cube_armada_scs_trc_skalaria.mp3|youtube:V9GzhOcmSrQ
+author:quasian|position:2|sceneorg:/parties/2003/assembly03/instrumentalmusic/mist_of_deceit_by_quasian.zip|title:mist of deceit|webfile:instrumental_music/mist_of_deceit_by_quasian.mp3|youtube:5MEFHfYxKi4
+author:_pk_|position:3|sceneorg:/parties/2003/assembly03/instrumentalmusic/awaken_by__pk_.zip|title:Awaken|webfile:instrumental_music/awaken_by_pk.mp3|youtube:T5HqQw_QXOY
+author:Firestorm / Doomsday|position:4|sceneorg:/parties/2003/assembly03/instrumentalmusic/betrayal_by_firestorm___doomsday_1.zip|title:Betrayal|webfile:instrumental_music/betrayal_by_firestorm_doomsday.mp3|youtube:VTm5lP0hVt4
+author:Exactly Precise|position:5|sceneorg:/parties/2003/assembly03/instrumentalmusic/iz_wah__waz_wah__fuzz_wah__by_exactly_precise.zip|title:Iz Wah, Waz Wah, Fuzz Wah!|webfile:instrumental_music/iz_wah_waz_wah_fuzz_wah_by_exactly_precise.mp3|youtube:5HaLd5bYjfA
+author:Crud / 10tons|position:6|sceneorg:/parties/2003/assembly03/instrumentalmusic/plenty_of_fresh_air_and_exercise_by_crud___10tons.zip|title:Plenty of fresh air and exercise|webfile:instrumental_music/plenty_of_fresh_air_and_exercise_by_crud_10tons.mp3|youtube:T9-xhM0ioIA
+author:Little Bitchard|position:7|sceneorg:/parties/2003/assembly03/instrumentalmusic/that_pseudo-funk_jam_by_little_bitchard.zip|title:That Pseudo-Funk Jam|webfile:instrumental_music/that_pseudo_funk_jam_by_little_bitchard.mp3|youtube:Jh1yuzijWpc
+author:Milan Kolarovic (a.k.a. Acumen)|position:8|sceneorg:/parties/2003/assembly03/instrumentalmusic/residue_of_desire__feat__timo_toivonen__by_milan_kolarovic__a_k_a__acumen.zip|title:Residue of Desire (feat. Timo Toivonen)|webfile:instrumental_music/residue_of_desire_feat_timo_toivonen_by_milan_kolarovic_a_k_a_acumen.mp3|youtube:KGkxUyZrVyY
+author:Jo B1|position:9|sceneorg:/parties/2003/assembly03/instrumentalmusic/morning_by_the_sea_by_jo_b1.zip|title:Morning By The Sea|webfile:instrumental_music/morning_by_the_sea_by_jo_b1.mp3|youtube:PcccKBlpIzs
+author:damage|position:10|sceneorg:/parties/2003/assembly03/instrumentalmusic/critical_damage_by_damage.zip|title:Critical Damage|webfile:instrumental_music/critical_damage_by_damage.mp3|youtube:Gi7FNMasBEA
+author:NDi|position:11|sceneorg:/parties/2003/assembly03/instrumentalmusic/fading_to_shade_by_ndi_1.zip|title:Fading to Shade|webfile:instrumental_music/fading_to_shade_by_ndi.mp3|youtube:qfOkZMob1QA
+author:Havock|position:12|sceneorg:/parties/2003/assembly03/instrumentalmusic/darkening_ocean_by_havock.zip|title:Darkening Ocean|webfile:instrumental_music/darkening_ocean_by_havock.mp3|youtube:ReFCBm2IHek
+author:Heatbeat/CNCD|position:13|sceneorg:/parties/2003/assembly03/instrumentalmusic/reprise_by_heatbeat_cncd.zip|title:Reprise|webfile:instrumental_music/reprise_by_heatbeat_cncd.mp3|youtube:78VxnelCVXU
+author:Darth Vader / Group|position:14|sceneorg:/parties/2003/assembly03/instrumentalmusic/travelogue_by_darth_vader___group.zip|title:Travelogue|webfile:instrumental_music/travelogue_by_darth_vader_group.mp3|youtube:kL5qipl4xb0
+author:Mr. Clock / Group|position:15|sceneorg:/parties/2003/assembly03/instrumentalmusic/jenin_-_audio_exposition_by_mr__clock___group.zip|title:Jenin - Audio Exposition|webfile:instrumental_music/jenin_audio_exposition_by_mr_clock_group.mp3|youtube:PtEyWkljkw0
+author:aienn|sceneorg:/parties/2003/assembly03/instrumentalmusic/lilt_by_aienn.zip|title:lilt|webfile:instrumental_music/lilt_by_aienn.mp3|youtube:ctsrROt7Dpo
+author:oizo|sceneorg:/parties/2003/assembly03/instrumentalmusic/children_of_blues_by_oizo.zip|title:Children of Blues|webfile:instrumental_music/children_of_blues_by_oizo.mp3|youtube:uBW-BP3-CL8
+author:quobe|sceneorg:/parties/2003/assembly03/instrumentalmusic/bring_it_back_by_quobe.zip|title:bring it back|webfile:instrumental_music/bring_it_back_by_quobe.mp3|youtube:URkABQlBf2Y
+author:Squeek|sceneorg:/parties/2003/assembly03/instrumentalmusic/last_summer_days_by_squeek.zip|title:Last summer days|webfile:instrumental_music/last_summer_days_by_squeek.mp3|youtube:PDSj0bbqk8U
+author:al coda|sceneorg:/parties/2003/assembly03/instrumentalmusic/with_haste_by_al_coda.zip|title:with haste|webfile:instrumental_music/with_haste_by_al_coda.mp3|youtube:JUxikEUstLs
+author:Saboteur|sceneorg:/parties/2003/assembly03/instrumentalmusic/dragon_by_saboteur.zip|title:Dragon|webfile:instrumental_music/dragon_by_saboteur.mp3|youtube:l9Pq37qAqZA
+author:4T Thieves / Kahvi Collective|sceneorg:/parties/2003/assembly03/instrumentalmusic/chernobyl_underground_by_4t_thieves___kahvi_collective.zip|title:Chernobyl Underground|webfile:instrumental_music/chernobyl_underground_by_4t_thieves_kahvi_collective.mp3|youtube:wJh5HfGOVE8
+author:Duo acustico de la cena|sceneorg:/parties/2003/assembly03/instrumentalmusic/historias_de_un_cuarto_oscuro_by_duo_acustico_de_la_cena.zip|title:Historias de un cuarto oscuro|webfile:instrumental_music/historias_de_un_cuarto_oscuro_by_duo_acustico_de_la_cena.mp3|youtube:JJ8bPlqaa7c
+author:Coloneil|sceneorg:/parties/2003/assembly03/instrumentalmusic/burned_homes_by_coloneil.zip|title:Burned Homes|webfile:instrumental_music/burned_homes_by_coloneil.mp3|youtube:D4MYIV9qr_s
+author:Prophecy|sceneorg:/parties/2003/assembly03/instrumentalmusic/nature_s_lullaby_by_prophecy.zip|title:Nature's Lullaby|webfile:instrumental_music/nature_s_lullaby_by_prophecy.mp3|youtube:roYQaaQ_ToA
+author:zild|sceneorg:/parties/2003/assembly03/instrumentalmusic/music_4_am_by_zild.zip|title:Music 4 AM|webfile:instrumental_music/music_4_am_by_zild.mp3|youtube:V6bYnORDdLE
+author:Iku|sceneorg:/parties/2003/assembly03/instrumentalmusic/rise_from_your_gutter_by_iku.zip|title:Rise From Your Gutter|webfile:instrumental_music/rise_from_your_gutter_by_iku.mp3|youtube:Fkk_CNBuT3U
+author:Inphernic|sceneorg:/parties/2003/assembly03/instrumentalmusic/ragnarok_by_inphernic.zip|title:Ragnarok|webfile:instrumental_music/ragnarok_by_inphernic.mp3|youtube:kGFOijsp5Bk
+author:Terminus / scene.ee|sceneorg:/parties/2003/assembly03/instrumentalmusic/ladybird_by_terminus___scene_ee_1.zip|title:Ladybird|webfile:instrumental_music/ladybird_by_terminus_scene_ee.mp3|youtube:uHo5E6awDis
+author:Soiva Johannes|sceneorg:/parties/2003/assembly03/instrumentalmusic/eli_fiilis_la_mera_by_soiva_johannes.zip|title:Eli Fiilis la Mera|webfile:instrumental_music/eli_fiilis_la_mera_by_soiva_johannes.mp3|youtube:uL8dcL5NnrM
+author:->LUKE<- / Amazement^Numedia Cyclops|sceneorg:/parties/2003/assembly03/instrumentalmusic/beginning_to_believe_by_-_luke_-___amazement_numedia_cyclops.zip|title:Beginning to Believe|webfile:instrumental_music/beginning_to_believe_by_luke_amazement_numedia_cyclops.mp3|youtube:NQHx4x9RlhA
+author:Ari "artz" Pulkkinen|sceneorg:/parties/2003/assembly03/instrumentalmusic/blitzkrieg_by_ari__artz__pulkkinen.zip|title:Blitzkrieg|webfile:instrumental_music/blitzkrieg_by_ari_artz_pulkkinen.mp3|youtube:JUGDv5i_q8s
+author:Teel|sceneorg:/parties/2003/assembly03/instrumentalmusic/alkemistry_by_teel.zip|title:Alkemistry|webfile:instrumental_music/alkemistry_by_teel.mp3|youtube:Fqd-qKktUgQ
+author:KamikazeJoint|sceneorg:/parties/2003/assembly03/instrumentalmusic/monkey_and_bananas_by_kamikazejoint.zip|title:Monkey and Bananas|webfile:instrumental_music/monkey_and_bananas_by_kamikazejoint.mp3|youtube:9i8GJVl3M04
+author:Jugi Kaartinen|sceneorg:/parties/2003/assembly03/instrumentalmusic/with_riitta__at_the_movies__by_jugi_kaartinen.zip|title:With Riitta (At The Movies)|webfile:instrumental_music/with_riitta_at_the_movies_by_jugi_kaartinen.mp3|youtube:M__x3SzcQE8
+author:Mark Vera|sceneorg:/parties/2003/assembly03/instrumentalmusic/raindance__airplay__by_mark_vera.zip|title:Raindance (Airplay)|webfile:instrumental_music/raindance_airplay_by_mark_vera.mp3|youtube:TYvHtNQaYZQ
+author:Nightbeat|sceneorg:/parties/2003/assembly03/instrumentalmusic/keystroke_song_by_nightbeat.zip|title:Keystroke Song|webfile:instrumental_music/keystroke_song_by_nightbeat.mp3|youtube:pTRQwhMGowQ
+author:Thor/Quadra|title:Frugality
+author:Signal|sceneorg:/parties/2003/assembly03/instrumentalmusic/ode_to_zimmer_by_signal.zip|title:Ode To Zimmer|webfile:instrumental_music/ode_to_zimmer_by_signal.mp3|youtube:aS8jMd-JlvU
+author:Gimle / Kaita|sceneorg:/parties/2003/assembly03/instrumentalmusic/life_saving_dub_by_gimle___kaita.zip|title:Life saving dub|webfile:instrumental_music/life_saving_dub_by_gimle_kaita.mp3|youtube:qNym1iVGlHk
+author:Phaser|sceneorg:/parties/2003/assembly03/instrumentalmusic/estoy_bombero_tranquilo_by_phaser.zip|title:Estoy Bombero Tranquilo|webfile:instrumental_music/estoy_bombero_tranquilo_by_phaser.mp3|youtube:Dpls1UjhsPw
+author:KiWi|sceneorg:/parties/2003/assembly03/instrumentalmusic/electric_beards_and_fake_guitars__by_kiwi.zip|title:Electric Beards and Fake Guitars|webfile:instrumental_music/electric_beards_and_fake_guitars_by_kiwi.mp3|youtube:H0jVySzSPig
+author:Firelight Crew|sceneorg:/parties/2003/assembly03/instrumentalmusic/cappuccino_stylistics__any_which_way_you_play_it__by_firelight_crew.zip|title:Cappuccino Stylistics (Any Which Way You Play It)|webfile:instrumental_music/cappuccino_stylistics_any_which_way_you_play_it_by_firelight_crew.mp3|youtube:uPIRuaFkLRA
+author:Planeshifter|sceneorg:/parties/2003/assembly03/instrumentalmusic/sunrise_by_planeshifter.zip|title:Sunrise|webfile:instrumental_music/sunrise_by_planeshifter.mp3|youtube:mOC94dtj6_s
+author:Lazy Bastard|sceneorg:/parties/2003/assembly03/instrumentalmusic/sweet_darkness_by_lazy_bastard.zip|title:Sweet Darkness|webfile:instrumental_music/sweet_darkness_by_lazy_bastard.mp3|youtube:h73q4RGrvz4
+author:Vfgdfg|sceneorg:/parties/2003/assembly03/instrumentalmusic/kalastajapappa_by_vfgdfg.zip|title:Kalastajapappa|webfile:instrumental_music/kalastajapappa_by_vfgdfg.mp3|youtube:ZCN_PUaTGL4
+author:Buhis|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse_by_buhis_1.zip|title:Eclipse|webfile:instrumental_music/eclipse_by_buhis.mp3|youtube:Azcj80uZVt8
+author:Tsokleg|title:Air Play
+author:HEXAGON / Gender8|sceneorg:/parties/2003/assembly03/instrumentalmusic/painful_news_by_hexagon___gender8.zip|title:Painful News|webfile:instrumental_music/painful_news_by_hexagon_gender8.mp3|youtube:s2Y_Zr9psZo
+author:Sueño|sceneorg:/parties/2003/assembly03/instrumentalmusic/machine_oil_by_sue_o.zip|title:Machine Oil|webfile:instrumental_music/machine_oil_by_sue_o.mp3|youtube:49qrkZndAvQ
+author:Aikapallo|sceneorg:/parties/2003/assembly03/instrumentalmusic/nautakone_by_aikapallo_1.zip|title:Nautakone|webfile:instrumental_music/nautakone_by_aikapallo.mp3|youtube:LvOt-bCaNbI
+author:Jean Nine|sceneorg:/parties/2003/assembly03/instrumentalmusic/it_grew_from_the_dust_by_jean_nine.zip|title:It Grew From The Dust|webfile:instrumental_music/it_grew_from_the_dust_by_jean_nine.mp3|youtube:UdpsXt13s5c
+author:Buhis|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse__asm03_edit__by_buhis.zip|title:Eclipse (asm03 edit)|webfile:instrumental_music/eclipse_asm03_edit_by_buhis.mp3|youtube:YrS9SOxT7Vw
+author:bad loop|sceneorg:/parties/2003/assembly03/instrumentalmusic/50mikrog_by_bad_loop.zip|title:50mikrog|webfile:instrumental_music/50mikrog_by_bad_loop.mp3|youtube:NnWJPz02a5Y
+author:Puti|sceneorg:/parties/2003/assembly03/instrumentalmusic/happy_music_club_by_puti.zip|title:Happy Music Club|webfile:instrumental_music/happy_music_club_by_puti.mp3|youtube:tZYGg0cEiqM
+author:Reverie / Faktory|sceneorg:/parties/2003/assembly03/instrumentalmusic/the_way_to_you_inside_me_by_reverie___faktory.zip|title:The Way To You Inside Me|webfile:instrumental_music/the_way_to_you_inside_me_by_reverie_faktory.mp3|youtube:3w3YNeRW58I
+author:ilmarque|sceneorg:/parties/2003/assembly03/instrumentalmusic/majakka_rauman_kupeessa_by_ilmarque.zip|title:Majakka Rauman kupeessa|webfile:instrumental_music/majakka_rauman_kupeessa_by_ilmarque.mp3|youtube:1sUlQfONYSc
+author:Trance Dynasty|sceneorg:/parties/2003/assembly03/instrumentalmusic/crescent_moon__assembly_edit__by_trance_dynasty.zip|title:Crescent Moon [Assembly Edit]|webfile:instrumental_music/crescent_moon_assembly_edit_by_trance_dynasty.mp3|youtube:42zAr1bEN80
+author:sauli / jumalauta|sceneorg:/parties/2003/assembly03/instrumentalmusic/boozembly_hills_cop_theme_by_sauli___jumalauta.zip|title:boozembly hills cop theme|webfile:instrumental_music/boozembly_hills_cop_theme_by_sauli_jumalauta.mp3|youtube:zCg2aSdCet8
+author:Kuraporo|sceneorg:/parties/2003/assembly03/instrumentalmusic/mental_zeppelin_by_kuraporo.zip|title:Mental Zeppelin|webfile:instrumental_music/mental_zeppelin_by_kuraporo.mp3|youtube:dPWGdi0-Xpo
+author:Monoband|sceneorg:/parties/2003/assembly03/instrumentalmusic/simplicity_by_monoband.zip|title:Simplicity|webfile:instrumental_music/simplicity_by_monoband.mp3|youtube:XME_z_-g080
+author:kiste / scene.ee|sceneorg:/parties/2003/assembly03/instrumentalmusic/waltz_no__1_in_g_major_by_kiste___scene_ee.zip|title:Waltz no. 1 in G Major|webfile:instrumental_music/waltz_no_1_in_g_major_by_kiste_scene_ee.mp3|youtube:wF4Hvyu_VrM
+author:T-Rex|sceneorg:/parties/2003/assembly03/instrumentalmusic/tone_by_t-rex.zip|title:Tone|webfile:instrumental_music/tone_by_t_rex.mp3|youtube:209boHRC-rw
+author:The P|sceneorg:/parties/2003/assembly03/instrumentalmusic/love_beyond_life_by_the_p.zip|title:Love Beyond Life|webfile:instrumental_music/love_beyond_life_by_the_p.mp3|youtube:BXI9M982M_0
+author:rdj|sceneorg:/parties/2003/assembly03/instrumentalmusic/space_madness_by_rdj.zip|title:Space Madness|webfile:instrumental_music/space_madness_by_rdj.mp3|youtube:5bQ2oKMo9jI
+author:Asiamies Lorkki|sceneorg:/parties/2003/assembly03/instrumentalmusic/avarassa_by_asiamies_lorkki.zip|title:Avarassa|webfile:instrumental_music/avarassa_by_asiamies_lorkki.mp3|youtube:heTHMc3IvSg
+author:Sam Alphonse|sceneorg:/parties/2003/assembly03/instrumentalmusic/plastics__dark_funk_mix__by_sam_alphonse.zip|title:Plastics [dark funk mix]|webfile:instrumental_music/plastics_dark_funk_mix_by_sam_alphonse.mp3|youtube:0onjrB4sSBI
+author:grazh|sceneorg:/parties/2003/assembly03/instrumentalmusic/circustime_by_grazh.zip|title:Circustime|webfile:instrumental_music/circustime_by_grazh.mp3|youtube:3Y1ULKOUCNI
+author:Juippi|sceneorg:/parties/2003/assembly03/instrumentalmusic/ii-hc_by_juippi.zip|title:II-HC|webfile:instrumental_music/ii_hc_by_juippi.mp3|youtube:yTMW8F0pXYc
+author:Kari Siivonen|sceneorg:/parties/2003/assembly03/instrumentalmusic/calm_by_kari_siivonen.zip|title:Calm|webfile:instrumental_music/calm_by_kari_siivonen.mp3|youtube:ccO1ABZ0A00
+author:Cairbre|sceneorg:/parties/2003/assembly03/instrumentalmusic/garden_of_solitude_by_cairbre.zip|title:Garden of Solitude|webfile:instrumental_music/garden_of_solitude_by_cairbre.mp3|youtube:fzTLVgPdrI4
+author:Tspoon|sceneorg:/parties/2003/assembly03/instrumentalmusic/my_yarrs_by_tspoon.zip|title:My Yarrs|webfile:instrumental_music/my_yarrs_by_tspoon.mp3|youtube:CjJnz3oEnos
+author:tArzAn|sceneorg:/parties/2003/assembly03/instrumentalmusic/light_in_the_forest_by_tarzan.zip|title:Light in the forest|webfile:instrumental_music/light_in_the_forest_by_tarzan.mp3|youtube:ivNWytRW0Gw
+author:Nyruffsig of TFQ|sceneorg:/parties/2003/assembly03/instrumentalmusic/electronica__short_edit__by_nyruffsig_of_tfq.zip|title:Electronica (short edit)|webfile:instrumental_music/electronica_short_edit_by_nyruffsig_of_tfq.mp3|youtube:wW_5CXuD6CY
+author:TrAFo|sceneorg:/parties/2003/assembly03/instrumentalmusic/han_drog_en_j_tte_gjedde_by_trafo.zip|title:Han drog en jätte gjedde|webfile:instrumental_music/han_drog_en_j_tte_gjedde_by_trafo.mp3|youtube:ZSYkBQYs8SU
+author:Ilem|sceneorg:/parties/2003/assembly03/instrumentalmusic/lassie_palaa_kotiin_by_ilem.zip|title:Lassie palaa kotiin|webfile:instrumental_music/lassie_palaa_kotiin_by_ilem.mp3|youtube:pzCQ2Yf3bco
+author:Dugeroow|sceneorg:/parties/2003/assembly03/instrumentalmusic/kuljen_tiet__sun_by_dugeroow.zip|title:Kuljen tietä sun|webfile:instrumental_music/kuljen_tiet_sun_by_dugeroow.mp3|youtube:phwF1PlogQ8
+author:raina / CoolPHat|sceneorg:/parties/2003/assembly03/instrumentalmusic/neito_peppis_by_raina___coolphat_2.zip|title:neito peppis|webfile:instrumental_music/neito_peppis_by_raina_coolphat.mp3|youtube:XdG8QJZY6TY
+author:ZaTTu|sceneorg:/parties/2003/assembly03/instrumentalmusic/mindess_trance_by_zattu.zip|title:Mindess Trance|webfile:instrumental_music/mindess_trance_by_zattu.mp3|youtube:FSdUGi-9nkk
+author:Drazil|sceneorg:/parties/2003/assembly03/instrumentalmusic/have_fun_by_drazil.zip|title:Have Fun|webfile:instrumental_music/have_fun_by_drazil.mp3|youtube:2eMjDbdkoPM
+author:Apomakros|sceneorg:/parties/2003/assembly03/instrumentalmusic/red_mate_by_apomakros.zip|title:Red Mate|webfile:instrumental_music/red_mate_by_apomakros.mp3|youtube:71VZ4CwFUiA
+author:Petri Kuronen & Anssi Rautio|sceneorg:/parties/2003/assembly03/instrumentalmusic/sanity_by_petri_kuronen___anssi_rautio.zip|title:Sanity|webfile:instrumental_music/sanity_by_petri_kuronen_anssi_rautio.mp3|youtube:X7oGXHT3fyU
+author:shadez|sceneorg:/parties/2003/assembly03/instrumentalmusic/tahdo_en_laulaa_by_shadez.zip|title:Tahdo en laulaa|webfile:instrumental_music/tahdo_en_laulaa_by_shadez.mp3|youtube:nTLrqd5Tk8M
+author:KimmoKe / A-MEN|sceneorg:/parties/2003/assembly03/instrumentalmusic/tankkaus_by_kimmoke___a-men.zip|title:Tankkaus|webfile:instrumental_music/tankkaus_by_kimmoke_a_men.mp3|youtube:FnotS9tRCKE
+author:Nutcase / Mandel Bros.|sceneorg:/parties/2003/assembly03/instrumentalmusic/millennium_prize_by_nutcase___mandel_bros.zip|title:Millennium prize|webfile:instrumental_music/millennium_prize_by_nutcase_mandel_bros.mp3|youtube:Yzec8uiccq8
 
 
 :section Mobile game development
 :description <p>In Mobile game development competition entries were playable games on mobile devices that were published before Assembly started and also included a short gameplay video that was shown during the event.</p>
 
-title:King of the Cabbage World|author:Rapture Seekers|position:1|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg
-title:Icosa Battle Realm|author:Dream One|position:2|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg
-title:Morus|author:Jyrki Alakuijala, Jarkko Oikarinen, Henrik Rönnholm|position:3|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg
-title:Deadly Sins|author:ChairmanAndBoard|position:4|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg
-title:Space Squad|author:Oneup!|position:5|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg
+author:Rapture Seekers|position:1|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg|title:King of the Cabbage World
+author:Dream One|position:2|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg|title:Icosa Battle Realm
+author:Jyrki Alakuijala, Jarkko Oikarinen, Henrik Rönnholm|position:3|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg|title:Morus
+author:ChairmanAndBoard|position:4|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg|title:Deadly Sins
+author:Oneup!|position:5|sceneorg:/parties/2003/assembly03/assemblytv/2003-08-08_2315_mobile_gamedev.mpg|title:Space Squad
 
 
 :section Wild demo
 :description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
-title:Grand Theft|author:Otherside|position:1|webfile:wild_demo/grand_theft_by_otherside.mpeg|sceneorg:/parties/2003/assembly03/wild/grand_theft_by_otherside.mpg|pouet:10587|dtv:id_file=3301&id_prod=4681&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10587.jpg&width=512&height=404|youtube:TPjfePUeeVk
-title:Röhkö ja Pöhkö - Ansa 2|author:jadajada|position:2|webfile:wild_demo/r_hk_ja_p_hk_ansa_2_by_jadajada.avi|sceneorg:/parties/2003/assembly03/wild/r_hk__ja_p_hk__-_ansa_2_by_jadajada.avi|pouet:20924|dtv:id_file=3333&id_prod=12373&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/r_hk__ja_p_hk__-_ansa_2_by_.jpg&width=512&height=404|youtube:M_tvTokZceU
-title:LCD megademo|author:hedelmae|position:3|webfile:wild_demo/lcd_megademo_by_hedelmae.avi|sceneorg:/parties/2003/assembly03/wild/lcd_megademo_by_hedelmae.avi|pouet:10533|youtube:c3flT2agwb4
-title:Cut & Paste - Hei me dissataan!|author:uBBu|position:4|webfile:wild_demo/cut_paste_hei_me_dissataan_by_ubbu.avi|sceneorg:/parties/2003/assembly03/wild/cut___paste_-_hei_me_dissataan__by_ubbu.avi|pouet:10611|dtv:id_file=3351&id_prod=2526&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10611.jpg&width=512&height=404|youtube:Nmh6pJ6WEus
-title:Kanava X|author:Tekotuotanto|position:5|webfile:wild_demo/kanava_x_by_tekotuotanto.avi|sceneorg:/parties/2003/assembly03/wild/kanava_x_by_tekotuotanto.avi|pouet:26477|youtube:4FwuomI_U1s
-title:newborn|author:Fragile|position:6|webfile:wild_demo/newborn_by_fragile.avi|sceneorg:/parties/2003/assembly03/wild/newborn_by_fragile.avi|pouet:10592|youtube:YdU1tN-f3g0
-title:Betrayal at Böle|author:Tresaria Group|position:7|webfile:wild_demo/betrayal_at_b_le_by_tresaria_group.mpeg|sceneorg:/parties/2003/assembly03/wild/betrayal_at_b_le_by_tresaria_group.mpg|youtube:15TYIKvKXdw
-title:The Trip|author:Low Budget Movies|position:8|webfile:wild_demo/the_trip_by_low_budget_movies.mpeg|sceneorg:/parties/2003/assembly03/wild/the_trip_by_low_budget_movies.mpg|youtube:i5xpwKmxRNU
-title:Todellisuus on vinossa|author:Numedia Cyclops|position:9|webfile:wild_demo/todellisuus_on_vinossa_by_numedia_cyclops.avi|sceneorg:/parties/2003/assembly03/wild/todellisuus_on_vinossa_by_numedia_cyclops.avi|pouet:10573|youtube:C5MYH6t5Y3A
-title:Mitä sä paukutat henXeleitäs?|author:Unajadesign|position:10|webfile:wild_demo/mit_s_paukutat_henxeleit_s_by_unajadesign.mpeg|sceneorg:/parties/2003/assembly03/wild/mit__s__paukutat_henxeleit_s__by_unajadesign.mpg|youtube:F3QnP9gH1mE
-title:Ihmeneloset|author:Ihmeneloset|position:11|webfile:wild_demo/ihmeneloset_by_ihmeneloset.mpeg|sceneorg:/parties/2003/assembly03/wild/ihmeneloset_by_ihmeneloset.mpg|youtube:VegtEOSBkeg
-title:Pako - trailer|author:Team Full Fiasko|position:12|webfile:wild_demo/pako_trailer_by_team_full_fiasko.avi|sceneorg:/parties/2003/assembly03/wild/pako_-_trailer_by_team_full_fiasko.avi|youtube:fMMWQu8YuVg
-title:Incredible Hurk!|author:Group.|position:13|webfile:wild_demo/incredible_hurk_by_group.avi|sceneorg:/parties/2003/assembly03/wild/incredible_hurk__by_group_.avi|youtube:RN-2itYfAf0
-title:shut up|author:kiivi films|position:14|webfile:wild_demo/shut_up_by_kiivi_films.avi|sceneorg:/parties/2003/assembly03/wild/shut_up_by_kiivi_films.avi|youtube:g_cGsLKqLp0
-title:Metrokuski|author:JSP Productions|position:0|webfile:wild_demo/metrokuski_by_jsp_productions.mpeg|sceneorg:/parties/2003/assembly03/wild/metrokuski_by_jsp_productions.mpg|youtube:ghTIP0tUhEo
-title:The Raid - Puhdistus|author:Masasoft|position:0|webfile:wild_demo/the_raid_puhdistus_by_masasoft.avi|sceneorg:/parties/2003/assembly03/wild/the_raid_-_puhdistus_by_masasoft.avi|youtube:62oZOykVa-U
-title:Monkey Hunters|author:Rutasaari Productions|position:0|webfile:wild_demo/monkey_hunters_by_rutasaari_productions.avi|sceneorg:/parties/2003/assembly03/wild/monkey_hunters_by_rutasaari_productions.avi|youtube:rLHgwXBACz0
-title:Firefighters|author:Ryttyla.com|position:0|webfile:wild_demo/firefighters_by_ryttyla_com.avi|sceneorg:/parties/2003/assembly03/wild/firefighters_by_ryttyla.com.avi|youtube:qEPN46S0M34
-title:ARCADIA|author:Northern Dragons|position:0|webfile:wild_demo/arcadia_by_northern_dragons.avi|sceneorg:/parties/2003/assembly03/wild/arcadia_by_northern_dragons.avi|pouet:10557|youtube:bsw1m0-SqEE
-title:milk is a threat to mankind|author:pnmf!|position:0|webfile:wild_demo/milk_is_a_threat_to_mankind_by_pnmf.avi|sceneorg:/parties/2003/assembly03/wild/milk_is_a_threat_to_mankind_by_pnmf_.avi|pouet:20032|youtube:nnhXcsCrMtI
+author:Otherside|dtv:id_file=3301&id_prod=4681&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10587.jpg&width=512&height=404|position:1|pouet:10587|sceneorg:/parties/2003/assembly03/wild/grand_theft_by_otherside.mpg|title:Grand Theft|webfile:wild_demo/grand_theft_by_otherside.mpeg|youtube:TPjfePUeeVk
+author:jadajada|dtv:id_file=3333&id_prod=12373&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/r_hk__ja_p_hk__-_ansa_2_by_.jpg&width=512&height=404|position:2|pouet:20924|sceneorg:/parties/2003/assembly03/wild/r_hk__ja_p_hk__-_ansa_2_by_jadajada.avi|title:Röhkö ja Pöhkö - Ansa 2|webfile:wild_demo/r_hk_ja_p_hk_ansa_2_by_jadajada.avi|youtube:M_tvTokZceU
+author:hedelmae|position:3|pouet:10533|sceneorg:/parties/2003/assembly03/wild/lcd_megademo_by_hedelmae.avi|title:LCD megademo|webfile:wild_demo/lcd_megademo_by_hedelmae.avi|youtube:c3flT2agwb4
+author:uBBu|dtv:id_file=3351&id_prod=2526&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10611.jpg&width=512&height=404|position:4|pouet:10611|sceneorg:/parties/2003/assembly03/wild/cut___paste_-_hei_me_dissataan__by_ubbu.avi|title:Cut & Paste - Hei me dissataan!|webfile:wild_demo/cut_paste_hei_me_dissataan_by_ubbu.avi|youtube:Nmh6pJ6WEus
+author:Tekotuotanto|position:5|pouet:26477|sceneorg:/parties/2003/assembly03/wild/kanava_x_by_tekotuotanto.avi|title:Kanava X|webfile:wild_demo/kanava_x_by_tekotuotanto.avi|youtube:4FwuomI_U1s
+author:Fragile|position:6|pouet:10592|sceneorg:/parties/2003/assembly03/wild/newborn_by_fragile.avi|title:newborn|webfile:wild_demo/newborn_by_fragile.avi|youtube:YdU1tN-f3g0
+author:Tresaria Group|position:7|sceneorg:/parties/2003/assembly03/wild/betrayal_at_b_le_by_tresaria_group.mpg|title:Betrayal at Böle|webfile:wild_demo/betrayal_at_b_le_by_tresaria_group.mpeg|youtube:15TYIKvKXdw
+author:Low Budget Movies|position:8|sceneorg:/parties/2003/assembly03/wild/the_trip_by_low_budget_movies.mpg|title:The Trip|webfile:wild_demo/the_trip_by_low_budget_movies.mpeg|youtube:i5xpwKmxRNU
+author:Numedia Cyclops|position:9|pouet:10573|sceneorg:/parties/2003/assembly03/wild/todellisuus_on_vinossa_by_numedia_cyclops.avi|title:Todellisuus on vinossa|webfile:wild_demo/todellisuus_on_vinossa_by_numedia_cyclops.avi|youtube:C5MYH6t5Y3A
+author:Unajadesign|position:10|sceneorg:/parties/2003/assembly03/wild/mit__s__paukutat_henxeleit_s__by_unajadesign.mpg|title:Mitä sä paukutat henXeleitäs?|webfile:wild_demo/mit_s_paukutat_henxeleit_s_by_unajadesign.mpeg|youtube:F3QnP9gH1mE
+author:Ihmeneloset|position:11|sceneorg:/parties/2003/assembly03/wild/ihmeneloset_by_ihmeneloset.mpg|title:Ihmeneloset|webfile:wild_demo/ihmeneloset_by_ihmeneloset.mpeg|youtube:VegtEOSBkeg
+author:Team Full Fiasko|position:12|sceneorg:/parties/2003/assembly03/wild/pako_-_trailer_by_team_full_fiasko.avi|title:Pako - trailer|webfile:wild_demo/pako_trailer_by_team_full_fiasko.avi|youtube:fMMWQu8YuVg
+author:Group.|position:13|sceneorg:/parties/2003/assembly03/wild/incredible_hurk__by_group_.avi|title:Incredible Hurk!|webfile:wild_demo/incredible_hurk_by_group.avi|youtube:RN-2itYfAf0
+author:kiivi films|position:14|sceneorg:/parties/2003/assembly03/wild/shut_up_by_kiivi_films.avi|title:shut up|webfile:wild_demo/shut_up_by_kiivi_films.avi|youtube:g_cGsLKqLp0
+author:JSP Productions|sceneorg:/parties/2003/assembly03/wild/metrokuski_by_jsp_productions.mpg|title:Metrokuski|webfile:wild_demo/metrokuski_by_jsp_productions.mpeg|youtube:ghTIP0tUhEo
+author:Masasoft|sceneorg:/parties/2003/assembly03/wild/the_raid_-_puhdistus_by_masasoft.avi|title:The Raid - Puhdistus|webfile:wild_demo/the_raid_puhdistus_by_masasoft.avi|youtube:62oZOykVa-U
+author:Rutasaari Productions|sceneorg:/parties/2003/assembly03/wild/monkey_hunters_by_rutasaari_productions.avi|title:Monkey Hunters|webfile:wild_demo/monkey_hunters_by_rutasaari_productions.avi|youtube:rLHgwXBACz0
+author:Ryttyla.com|sceneorg:/parties/2003/assembly03/wild/firefighters_by_ryttyla.com.avi|title:Firefighters|webfile:wild_demo/firefighters_by_ryttyla_com.avi|youtube:qEPN46S0M34
+author:Northern Dragons|pouet:10557|sceneorg:/parties/2003/assembly03/wild/arcadia_by_northern_dragons.avi|title:ARCADIA|webfile:wild_demo/arcadia_by_northern_dragons.avi|youtube:bsw1m0-SqEE
+author:pnmf!|pouet:20032|sceneorg:/parties/2003/assembly03/wild/milk_is_a_threat_to_mankind_by_pnmf_.avi|title:milk is a threat to mankind|webfile:wild_demo/milk_is_a_threat_to_mankind_by_pnmf.avi|youtube:nnhXcsCrMtI
 
 
 :section Animation
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
-title:Kalja on loppu|author:Dice Production|position:1|webfile:animation/kalja_on_loppu_by_dice_production.avi|sceneorg:/parties/2003/assembly03/anim/kalja_on_loppu_by_dice_production.avi|pouet:10590|dtv:id_file=3034&id_prod=5799&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10590.jpg&width=512&height=404|youtube:mpFH0pAXEZA
-title:Sword of 'Nur|author:Toni Hollming|position:2|webfile:animation/sword_of_nur_by_toni_hollming.avi|sceneorg:/parties/2003/assembly03/anim/sword_of__nur_by_toni_hollming.avi|pouet:10589|dtv:id_file=3343&id_prod=10191&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10589.jpg&width=512&height=404|youtube:NeXJuSeWDfk
-title:POST WAR MILLENIUM|author:DLC|position:3|webfile:animation/post_war_millenium_by_dlc.avi|sceneorg:/parties/2003/assembly03/anim/post_war_millenium_by_dlc.avi|pouet:10588|youtube:0-Ro275VxRc
-title:Energy of The Atom|author:Jyri Tuulos|position:4|webfile:animation/energy_of_the_atom_by_jyri_tuulos.avi|sceneorg:/parties/2003/assembly03/anim/energy_of_the_atom_by_jyri_tuulos.avi|pouet:10593|dtv:id_file=1892&id_prod=3544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10593.jpg&width=512&height=404|youtube:kx0ORzNzqfs
-title:The Day That Earth Exploder|author:MAD Crew|position:5|webfile:animation/the_day_that_earth_exploder_by_mad_crew.avi|sceneorg:/parties/2003/assembly03/anim/the_day_that_earth_exploder_by_mad_crew.avi|pouet:28636|youtube:QJiRNKtQvp8
-title:SpaceCat|author:Toni Hirvikorpi|position:0|webfile:animation/spacecat_by_toni_hirvikorpi.avi|sceneorg:/parties/2003/assembly03/anim/spacecat_by_toni_hirvikorpi.avi|pouet:28637|youtube:WXSlv4RUjJg
-title:Stuck?!|author:[sysop@bisby]|position:0|webfile:animation/stuck_by_sysop_bisby.avi|sceneorg:/parties/2003/assembly03/anim/stuck___by__sysop_bisby_.avi|pouet:28638|youtube:ec6y_u2VGio
-title:Raytracer's Dream|author:Murphy / SDK|position:0|webfile:animation/raytracer_s_dream_by_murphy_sdk.avi|sceneorg:/parties/2003/assembly03/anim/raytracer_s_dream_b__murphy___sdk.avi|pouet:28639|youtube:we_WsiIGV6w
+author:Dice Production|dtv:id_file=3034&id_prod=5799&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10590.jpg&width=512&height=404|position:1|pouet:10590|sceneorg:/parties/2003/assembly03/anim/kalja_on_loppu_by_dice_production.avi|title:Kalja on loppu|webfile:animation/kalja_on_loppu_by_dice_production.avi|youtube:mpFH0pAXEZA
+author:Toni Hollming|dtv:id_file=3343&id_prod=10191&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10589.jpg&width=512&height=404|position:2|pouet:10589|sceneorg:/parties/2003/assembly03/anim/sword_of__nur_by_toni_hollming.avi|title:Sword of 'Nur|webfile:animation/sword_of_nur_by_toni_hollming.avi|youtube:NeXJuSeWDfk
+author:DLC|position:3|pouet:10588|sceneorg:/parties/2003/assembly03/anim/post_war_millenium_by_dlc.avi|title:POST WAR MILLENIUM|webfile:animation/post_war_millenium_by_dlc.avi|youtube:0-Ro275VxRc
+author:Jyri Tuulos|dtv:id_file=1892&id_prod=3544&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10593.jpg&width=512&height=404|position:4|pouet:10593|sceneorg:/parties/2003/assembly03/anim/energy_of_the_atom_by_jyri_tuulos.avi|title:Energy of The Atom|webfile:animation/energy_of_the_atom_by_jyri_tuulos.avi|youtube:kx0ORzNzqfs
+author:MAD Crew|position:5|pouet:28636|sceneorg:/parties/2003/assembly03/anim/the_day_that_earth_exploder_by_mad_crew.avi|title:The Day That Earth Exploder|webfile:animation/the_day_that_earth_exploder_by_mad_crew.avi|youtube:QJiRNKtQvp8
+author:Toni Hirvikorpi|pouet:28637|sceneorg:/parties/2003/assembly03/anim/spacecat_by_toni_hirvikorpi.avi|title:SpaceCat|webfile:animation/spacecat_by_toni_hirvikorpi.avi|youtube:WXSlv4RUjJg
+author:[sysop@bisby]|pouet:28638|sceneorg:/parties/2003/assembly03/anim/stuck___by__sysop_bisby_.avi|title:Stuck?!|webfile:animation/stuck_by_sysop_bisby.avi|youtube:ec6y_u2VGio
+author:Murphy / SDK|pouet:28639|sceneorg:/parties/2003/assembly03/anim/raytracer_s_dream_b__murphy___sdk.avi|title:Raytracer's Dream|webfile:animation/raytracer_s_dream_by_murphy_sdk.avi|youtube:we_WsiIGV6w
 
 
 :section Combined 64k intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Zoom3|author:AND + Cybermag|position:1|sceneorg:/parties/2003/assembly03/in64/zoom3_by_and_+_cybermag.zip|pouet:10545|dtv:id_file=2995&id_prod=12285&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10545.jpg&width=512&height=404
-title:SVENSKARNA ÄR HÄR! (järn&stål&auw)|author:cryonics|position:2|sceneorg:/parties/2003/assembly03/in64/svenskarna__r_h_r___j_rn_st_l_auw__by_cryonics.zip|pouet:10547
-title:Leeko|author:Fit|position:3|sceneorg:/parties/2003/assembly03/in64/leeko_win.zip|pouet:10576
-title:Skid Wrinkles - Jarrurypyt|author:tAAt 2003|position:4|sceneorg:/parties/2003/assembly03/in64/skid_wrinkles_-_jarrurypyt_by_taat_2003_1.zip|pouet:10556
-title:Oddjobb|author:Kewlers|position:5|sceneorg:/parties/2003/assembly03/in64/oddjobb_by_kewlers.zip|pouet:10541
-title:My Paper Pony|author:Hipo / Lonely Coders|position:6|sceneorg:/parties/2003/assembly03/in64/my_paper_pony_by_hipo___lonely_coders.tgz
-title:Transqlation|author:Moonhazard|position:7|sceneorg:/parties/2003/assembly03/in64/transqlation_by_moonhazard.zip|pouet:10549
-title:raskasmetallia|author:aikarele|position:8|sceneorg:/parties/2003/assembly03/in64/raskasmetallia_by_aikarele.zip|pouet:10585
-title:Kolme Missifitti|author:Deus ex Machina + Cryonics|position:9|sceneorg:/parties/2003/assembly03/in64/kolme_missifitti_by_deus_ex_machina_+_cryonics.zip|pouet:10550
-title:ruoste|author:proMille deZign|position:10|sceneorg:/parties/2003/assembly03/in64/ruoste_by_promille_dezign.zip|pouet:10553
-title:vaara|author:Aspekt|position:11|sceneorg:/parties/2003/assembly03/in64/vaara_by_aspekt_2.zip|pouet:10595
-title:kwark|author:fingersoft|position:12|sceneorg:/parties/2003/assembly03/in64/kwark_by_fingersoft.zip|pouet:10552
-title:Koirankoppi ilmiö|author:Kuake|position:0|sceneorg:/parties/2003/assembly03/in64/koirankoppi_ilmi__by_kuake.zip|pouet:10609
-title:sabi|author:exilis|position:0|sceneorg:/parties/2003/assembly03/in64/sabi_by_exilis.zip
-title:Simplism|author:Xtatic ft. guest stars|position:0|sceneorg:/parties/2003/assembly03/in64/simplism_by_xtatic_ft__guest_stars.zip|pouet:10555
-title:Trace of Chaos 2|author:Sphere Replikants|position:0|sceneorg:/parties/2003/assembly03/in64/trace_of_chaos_2_by_sphere_replikants.zip|pouet:10554
-title:Tuure Korhonen|author:Efe / THP|position:0|sceneorg:/parties/2003/assembly03/in64/tuure_korhonen_by_efe___thp_1.zip
+author:AND + Cybermag|dtv:id_file=2995&id_prod=12285&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10545.jpg&width=512&height=404|position:1|pouet:10545|sceneorg:/parties/2003/assembly03/in64/zoom3_by_and_+_cybermag.zip|title:Zoom3
+author:cryonics|position:2|pouet:10547|sceneorg:/parties/2003/assembly03/in64/svenskarna__r_h_r___j_rn_st_l_auw__by_cryonics.zip|title:SVENSKARNA ÄR HÄR! (järn&stål&auw)
+author:Fit|position:3|pouet:10576|sceneorg:/parties/2003/assembly03/in64/leeko_win.zip|title:Leeko
+author:tAAt 2003|position:4|pouet:10556|sceneorg:/parties/2003/assembly03/in64/skid_wrinkles_-_jarrurypyt_by_taat_2003_1.zip|title:Skid Wrinkles - Jarrurypyt
+author:Kewlers|position:5|pouet:10541|sceneorg:/parties/2003/assembly03/in64/oddjobb_by_kewlers.zip|title:Oddjobb
+author:Hipo / Lonely Coders|position:6|sceneorg:/parties/2003/assembly03/in64/my_paper_pony_by_hipo___lonely_coders.tgz|title:My Paper Pony
+author:Moonhazard|position:7|pouet:10549|sceneorg:/parties/2003/assembly03/in64/transqlation_by_moonhazard.zip|title:Transqlation
+author:aikarele|position:8|pouet:10585|sceneorg:/parties/2003/assembly03/in64/raskasmetallia_by_aikarele.zip|title:raskasmetallia
+author:Deus ex Machina + Cryonics|position:9|pouet:10550|sceneorg:/parties/2003/assembly03/in64/kolme_missifitti_by_deus_ex_machina_+_cryonics.zip|title:Kolme Missifitti
+author:proMille deZign|position:10|pouet:10553|sceneorg:/parties/2003/assembly03/in64/ruoste_by_promille_dezign.zip|title:ruoste
+author:Aspekt|position:11|pouet:10595|sceneorg:/parties/2003/assembly03/in64/vaara_by_aspekt_2.zip|title:vaara
+author:fingersoft|position:12|pouet:10552|sceneorg:/parties/2003/assembly03/in64/kwark_by_fingersoft.zip|title:kwark
+author:Kuake|pouet:10609|sceneorg:/parties/2003/assembly03/in64/koirankoppi_ilmi__by_kuake.zip|title:Koirankoppi ilmiö
+author:exilis|sceneorg:/parties/2003/assembly03/in64/sabi_by_exilis.zip|title:sabi
+author:Xtatic ft. guest stars|pouet:10555|sceneorg:/parties/2003/assembly03/in64/simplism_by_xtatic_ft__guest_stars.zip|title:Simplism
+author:Sphere Replikants|pouet:10554|sceneorg:/parties/2003/assembly03/in64/trace_of_chaos_2_by_sphere_replikants.zip|title:Trace of Chaos 2
+author:Efe / THP|sceneorg:/parties/2003/assembly03/in64/tuure_korhonen_by_efe___thp_1.zip|title:Tuure Korhonen
 
 
 :section Browser demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Browser demo competition limited entries to use 2003 version of browsers on a high-end PC.</p>
 
-title:super fantastic gaydisco all night long|author:DAMONES & RNO|position:1|sceneorg:/parties/2003/assembly03/browser_demo/super_fantastic_gaydisco_all_night_long_by_damones___rno.zip|pouet:10582
-title:Linear Motion 2|author:kellari|position:2|sceneorg:/parties/2003/assembly03/browser_demo/linear_motion_2_by_kellari_1.zip|pouet:10602
-title:w0rd!|author:natural born chillaZ|position:3|sceneorg:/parties/2003/assembly03/browser_demo/w0rd__by_natural_born_chillaz.zip|pouet:10604
-title:Fragile|author:Pyrotech|position:4|sceneorg:/parties/2003/assembly03/browser_demo/fragile_by_pyrotech.zip|pouet:13528
-title:bOOm|author:Exca & Poro|position:5|sceneorg:/parties/2003/assembly03/browser_demo/boom_by_exca___poro_2.zip
-title:Jazz duck factory|author:Citec|position:6|sceneorg:/parties/2003/assembly03/browser_demo/jazz_duck_factory_by_citec_1.zip
-title:Flash Reality|author:The Scampers|position:7|sceneorg:/parties/2003/assembly03/browser_demo/flash_reality_by_the_scampers_by_the_scampers.zip|pouet:25494
-title:NecroLurk|author:wdom & K-statik|position:8|sceneorg:/parties/2003/assembly03/browser_demo/necrolurk_by_wdom___k-statik.zip
-title:Web Distortion|author:Northern Dragons|position:9|sceneorg:/parties/2003/assembly03/browser_demo/web_distortion_by_northern_dragons_1.zip|pouet:10606
-title:Diip|author:Inapt|position:10|sceneorg:/parties/2003/assembly03/browser_demo/diip_by_inapt.zip|pouet:10605
-title:leffa|author:tukka|position:0|sceneorg:/parties/2003/assembly03/browser_demo/leffa_by_tukka.zip
+author:DAMONES & RNO|position:1|pouet:10582|sceneorg:/parties/2003/assembly03/browser_demo/super_fantastic_gaydisco_all_night_long_by_damones___rno.zip|title:super fantastic gaydisco all night long
+author:kellari|position:2|pouet:10602|sceneorg:/parties/2003/assembly03/browser_demo/linear_motion_2_by_kellari_1.zip|title:Linear Motion 2
+author:natural born chillaZ|position:3|pouet:10604|sceneorg:/parties/2003/assembly03/browser_demo/w0rd__by_natural_born_chillaz.zip|title:w0rd!
+author:Pyrotech|position:4|pouet:13528|sceneorg:/parties/2003/assembly03/browser_demo/fragile_by_pyrotech.zip|title:Fragile
+author:Exca & Poro|position:5|sceneorg:/parties/2003/assembly03/browser_demo/boom_by_exca___poro_2.zip|title:bOOm
+author:Citec|position:6|sceneorg:/parties/2003/assembly03/browser_demo/jazz_duck_factory_by_citec_1.zip|title:Jazz duck factory
+author:The Scampers|position:7|pouet:25494|sceneorg:/parties/2003/assembly03/browser_demo/flash_reality_by_the_scampers_by_the_scampers.zip|title:Flash Reality
+author:wdom & K-statik|position:8|sceneorg:/parties/2003/assembly03/browser_demo/necrolurk_by_wdom___k-statik.zip|title:NecroLurk
+author:Northern Dragons|position:9|pouet:10606|sceneorg:/parties/2003/assembly03/browser_demo/web_distortion_by_northern_dragons_1.zip|title:Web Distortion
+author:Inapt|position:10|pouet:10605|sceneorg:/parties/2003/assembly03/browser_demo/diip_by_inapt.zip|title:Diip
+author:tukka|sceneorg:/parties/2003/assembly03/browser_demo/leffa_by_tukka.zip|title:leffa
 
 
 :section Combined 4k intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Yellow Rose of Texas|author:Fit & Bandwagon|position:1|media:/vod/.oldies-goldies/compos/ASM03 4k - 1st - Yellow Rose of Texas by Fit and Bandwagon_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/yellow_rose_of_texas_by_fit___bandwagon.tgz|pouet:10562|youtube:2g4LSHEqR2E
-title:Humus 4|author:Exploder / PUSH Entertainment|position:2|media:/vod/.oldies-goldies/compos/ASM03 4k - 2nd - Humus 4 by Explore PUSH Entertainment_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/humus_4_by_exploder___push_entertainment.lzx|pouet:10565|youtube:doIyjP8QbxM
-title:Topsy Turvy|author:headcrash|position:3|media:/vod/.oldies-goldies/compos/ASM03 4k - 3th - Topsy Turvy by headcrash_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/topsy_turvy_by_headcrash.tgz|pouet:10570|youtube:iQBXWUcKHxE
-title:AcidIce|author:AND|position:4|media:/vod/.oldies-goldies/compos/ASM03 4k - 4th - AcidIce by AND_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/acidice_by_and.zip|pouet:10559|youtube:KbdcdTJ-z3E
-title:Fistpig|author:Spaceballs and Ephidrena|position:5|media:/vod/.oldies-goldies/compos/ASM03 4k - 5th - Fistpig by Spaceballs_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/fistpig_by_spaceballs_and_ephidrena.zip|pouet:10566|youtube:luFVLDZnkUE
-title:Another Soul Lost|author:Preacher|position:6|media:/vod/.oldies-goldies/compos/ASM03 4k - 6th - Another Soul Lost by Preacher_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/another_soul_lost_by_preacher.zip|pouet:10561|youtube:E0g7GyqAJyI
-title:after taking x amount of various psychoactive substances, the world seemed..|author:Unique|position:7|media:/vod/.oldies-goldies/compos/ASM03 4k - 7th - After taking x amount... by Unique_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/after_taking_x_amount_of_various_psychoactive_substances__the_world_seemed_somehow_different_by_unique.zip|youtube:I5tqrt0q4N4
-title:DJ|author:tonic|position:8|media:/vod/.oldies-goldies/compos/ASM03 4k - 8th - DJ by tonic_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/d_j_by_tonic.zip|pouet:10563|youtube:ttRoqqctl80
-title:99 Beers|author:Siffo|position:9|media:/vod/.oldies-goldies/compos/ASM03 4k - 9th - 99 Beers by Siffo_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/99_beers_by_siffo.zip|pouet:10564|youtube:wQGvwJ7c7tY
-title:SpaceWorm|author:BuG / Kuunsyke|position:10|media:/vod/.oldies-goldies/compos/ASM03 4k - 10th - Spaceworm by BuG Kuunsyke_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/spaceworm_by_bug___kuunsyke.zip|pouet:10567|youtube:j8x150InAbA
-title:Ust Nap|author:Juippi & Trilkk & Warma|position:11|media:/vod/.oldies-goldies/compos/ASM03 4k - 11th - Ust Nap by Juippi,Trilkk,Warma_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/ust_nap_by_juippi__trilkk___warma__final_.tgz|pouet:10572|youtube:MOaFdM_8TPU
-title:Eight months|author:Moonhazard|position:12|media:/vod/.oldies-goldies/compos/ASM03 4k - 12th - Eight months by Moonhazard_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/eight_months_by_moonhazard.zip|pouet:10558|youtube:dRjvhtNH7l0
-title:Wandering Star|author:hiteck|position:13|media:/vod/.oldies-goldies/compos/ASM03 4k - 13th - Wandering Star by hiteck_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/wandering_star_by_hiteck.tgz|pouet:12251|youtube:5aSiYDjUqMI
-title:Etherium|author:Northern Dragons|position:14|media:/vod/.oldies-goldies/compos/ASM03 4k - 14th - Etherium by Northern Dragons_h264_1856kbit.mp4|sceneorg:/parties/2003/assembly03/in4k/etherium_by_northern_dragons_3.zip|pouet:10569|youtube:0xLLS5CZZ_o
-title:noname|author:bca / karva|position:0|sceneorg:/parties/2003/assembly03/in4k/noname_by_bca___karva.zip
-title:Kikatustarhan esikoulu ja liehu|author:iood <3 fizzie / numedia cyclops|position:0|sceneorg:/parties/2003/assembly03/in4k/kikatustarhan_esikoulu_ja_liehu_by_iood__3_fizzie___numedia_cyclops.tgz
+author:Fit & Bandwagon|media:/vod/.oldies-goldies/compos/ASM03 4k - 1st - Yellow Rose of Texas by Fit and Bandwagon_h264_1856kbit.mp4|position:1|pouet:10562|sceneorg:/parties/2003/assembly03/in4k/yellow_rose_of_texas_by_fit___bandwagon.tgz|title:Yellow Rose of Texas|youtube:2g4LSHEqR2E
+author:Exploder / PUSH Entertainment|media:/vod/.oldies-goldies/compos/ASM03 4k - 2nd - Humus 4 by Explore PUSH Entertainment_h264_1856kbit.mp4|position:2|pouet:10565|sceneorg:/parties/2003/assembly03/in4k/humus_4_by_exploder___push_entertainment.lzx|title:Humus 4|youtube:doIyjP8QbxM
+author:headcrash|media:/vod/.oldies-goldies/compos/ASM03 4k - 3th - Topsy Turvy by headcrash_h264_1856kbit.mp4|position:3|pouet:10570|sceneorg:/parties/2003/assembly03/in4k/topsy_turvy_by_headcrash.tgz|title:Topsy Turvy|youtube:iQBXWUcKHxE
+author:AND|media:/vod/.oldies-goldies/compos/ASM03 4k - 4th - AcidIce by AND_h264_1856kbit.mp4|position:4|pouet:10559|sceneorg:/parties/2003/assembly03/in4k/acidice_by_and.zip|title:AcidIce|youtube:KbdcdTJ-z3E
+author:Spaceballs and Ephidrena|media:/vod/.oldies-goldies/compos/ASM03 4k - 5th - Fistpig by Spaceballs_h264_1856kbit.mp4|position:5|pouet:10566|sceneorg:/parties/2003/assembly03/in4k/fistpig_by_spaceballs_and_ephidrena.zip|title:Fistpig|youtube:luFVLDZnkUE
+author:Preacher|media:/vod/.oldies-goldies/compos/ASM03 4k - 6th - Another Soul Lost by Preacher_h264_1856kbit.mp4|position:6|pouet:10561|sceneorg:/parties/2003/assembly03/in4k/another_soul_lost_by_preacher.zip|title:Another Soul Lost|youtube:E0g7GyqAJyI
+author:Unique|media:/vod/.oldies-goldies/compos/ASM03 4k - 7th - After taking x amount... by Unique_h264_1856kbit.mp4|position:7|sceneorg:/parties/2003/assembly03/in4k/after_taking_x_amount_of_various_psychoactive_substances__the_world_seemed_somehow_different_by_unique.zip|title:after taking x amount of various psychoactive substances, the world seemed..|youtube:I5tqrt0q4N4
+author:tonic|media:/vod/.oldies-goldies/compos/ASM03 4k - 8th - DJ by tonic_h264_1856kbit.mp4|position:8|pouet:10563|sceneorg:/parties/2003/assembly03/in4k/d_j_by_tonic.zip|title:DJ|youtube:ttRoqqctl80
+author:Siffo|media:/vod/.oldies-goldies/compos/ASM03 4k - 9th - 99 Beers by Siffo_h264_1856kbit.mp4|position:9|pouet:10564|sceneorg:/parties/2003/assembly03/in4k/99_beers_by_siffo.zip|title:99 Beers|youtube:wQGvwJ7c7tY
+author:BuG / Kuunsyke|media:/vod/.oldies-goldies/compos/ASM03 4k - 10th - Spaceworm by BuG Kuunsyke_h264_1856kbit.mp4|position:10|pouet:10567|sceneorg:/parties/2003/assembly03/in4k/spaceworm_by_bug___kuunsyke.zip|title:SpaceWorm|youtube:j8x150InAbA
+author:Juippi & Trilkk & Warma|media:/vod/.oldies-goldies/compos/ASM03 4k - 11th - Ust Nap by Juippi,Trilkk,Warma_h264_1856kbit.mp4|position:11|pouet:10572|sceneorg:/parties/2003/assembly03/in4k/ust_nap_by_juippi__trilkk___warma__final_.tgz|title:Ust Nap|youtube:MOaFdM_8TPU
+author:Moonhazard|media:/vod/.oldies-goldies/compos/ASM03 4k - 12th - Eight months by Moonhazard_h264_1856kbit.mp4|position:12|pouet:10558|sceneorg:/parties/2003/assembly03/in4k/eight_months_by_moonhazard.zip|title:Eight months|youtube:dRjvhtNH7l0
+author:hiteck|media:/vod/.oldies-goldies/compos/ASM03 4k - 13th - Wandering Star by hiteck_h264_1856kbit.mp4|position:13|pouet:12251|sceneorg:/parties/2003/assembly03/in4k/wandering_star_by_hiteck.tgz|title:Wandering Star|youtube:5aSiYDjUqMI
+author:Northern Dragons|media:/vod/.oldies-goldies/compos/ASM03 4k - 14th - Etherium by Northern Dragons_h264_1856kbit.mp4|position:14|pouet:10569|sceneorg:/parties/2003/assembly03/in4k/etherium_by_northern_dragons_3.zip|title:Etherium|youtube:0xLLS5CZZ_o
+author:bca / karva|sceneorg:/parties/2003/assembly03/in4k/noname_by_bca___karva.zip|title:noname
+author:iood <3 fizzie / numedia cyclops|sceneorg:/parties/2003/assembly03/in4k/kikatustarhan_esikoulu_ja_liehu_by_iood__3_fizzie___numedia_cyclops.tgz|title:Kikatustarhan esikoulu ja liehu
 
 
 :section Vocal music
 :description <p>In Vocal music competition entries could be any type of music from any genre created with any method and unlike in Instrumental music competition, they could also include human vocals.</p>
 
-title:pearls|author:aisth|position:1|webfile:vocal_music/pearls_by_aisth.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/pearls_by_aisth_1.zip|youtube:ZNcSPeTdLVA
-title:Never Had A Gun In My Hand|author:Pete and Mike|position:2|webfile:vocal_music/never_had_a_gun_in_my_hand_by_pete_and_mike.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/never_had_a_gun_in_my_hand_by_pete_and_mike_2.zip|youtube:uVP9Cy2LWnc
-title:Groove It|author:Exactly Precise|position:3|webfile:vocal_music/groove_it_by_exactly_precise.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/groove_it_by_exactly_precise.zip|youtube:Ob2DJX6uH7Y
-title:Liekit|author:Aikapallo|position:4|webfile:vocal_music/liekit_by_aikapallo.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/liekit_by_aikapallo.zip|youtube:ngK-4jGuTRk
-title:Tommi on Homo|author:Juho ja Hurrikaani|position:5|webfile:vocal_music/tommi_on_homo_by_juho_ja_hurrikaani.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/tommi_on_homo_by_juho_ja_hurrikaani.zip|youtube:fQbY-Voe02E
-title:Tsjing Tsjing|author:TrAFo|position:6|webfile:vocal_music/tsjing_tsjing_by_trafo.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/tsjing_tsjing_by_trafo.zip|youtube:2L0agytC8cQ
-title:Cyborg from hell|author:Dr.OOb of Goto Port 139|position:7|webfile:vocal_music/cyborg_from_hell_by_dr_oob_of_goto_port_139.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/cyborg_from_hell_by_dr_oob_of_goto_port_139.zip|youtube:zydq8rUTJ94
-title:The Way of Peril|author:Firestorm / Doomsday|position:8|webfile:vocal_music/the_way_of_peril_by_firestorm_doomsday.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/the_way_of_peril_by_firestorm___doomsday_1.zip|youtube:xRw4MxzQ7_A
-title:Me With Beans On Side|author:Poème|position:9|webfile:vocal_music/me_with_beans_on_side_by_po_me.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/me_with_beans_on_side_by_po_me.zip|youtube:R-a56A9j4Hw
-title:the dreaming|author:the ninth path (feat. ript, floopyb, steve of disasterarea)|position:10|webfile:vocal_music/the_dreaming_by_the_ninth_path_feat_ript_floopyb_steve_of_disasterarea.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/the_dreaming_by_the_ninth_path__feat__ript__floopyb__steve_of_disasterarea_.zip|youtube:vCuhJXiBw3M
-title:Valo tihkuu kaiken läpi|author:paavoharju|position:0|webfile:vocal_music/valo_tihkuu_kaiken_l_pi_by_paavoharju.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/valo_tihkuu_kaiken_l_pi_by_paavoharju.zip|youtube:XIEVcuxwl6Y
-title:Ich Habe|author:Vilunen / Kaytanhousuja|position:0|webfile:vocal_music/ich_habe_by_vilunen_kaytanhousuja.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/ich_habe_by_vilunen___kaytanhousuja.zip|youtube:iZ_yLnqT47Q
-title:Waves of Forever|author:Bream Ed|position:0|webfile:vocal_music/waves_of_forever_by_bream_ed.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/waves_of_forever_by_bream_ed.zip|youtube:K-o3zN4cj0A
-title:Pleasure and Pain|author:Ilkka Engström|position:0|webfile:vocal_music/pleasure_and_pain_by_ilkka_engstr_m.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/pleasure_and_pain_by_ilkka_engstr_m.zip|youtube:3YZfxeKb_Ug
-title:Come Home to Me|author:Anna-Stiina|position:0|webfile:vocal_music/come_home_to_me_by_anna_stiina.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/come_home_to_me_by_anna-stiina.zip|youtube:61Kt8kvFCZM
-title:Reason|author:Leperchaun|position:0|webfile:vocal_music/reason_by_leperchaun.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/reason_by_leperchaun.zip|youtube:dbg8O4HUWKQ
-title:soon|author:aienn|position:0|webfile:vocal_music/soon_by_aienn.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/soon_by_aienn.zip|youtube:rntFEvnqEjA
-title:Otteita moraalittoman neidin päiväkirjasta|author:Claudius|position:0|webfile:vocal_music/otteita_moraalittoman_neidin_p_iv_kirjasta_by_claudius.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/otteita_moraalittoman_neidin_p_iv_kirjasta_by_claudius.zip|youtube:ZkRIl7r-k0U
-title:And They Said Love Is In The Words|author:Jean Nine|position:0|webfile:vocal_music/and_they_said_love_is_in_the_words_by_jean_nine.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/and_they_said_love_is_in_the_words_by_jean_nine.zip|youtube:nEl2OPGLb4g
-title:Jake Furlong|author:The Agnostic Pie vs. Darth Vader of Group.|position:0|webfile:vocal_music/jake_furlong_by_the_agnostic_pie_vs_darth_vader_of_group.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/jake_furlong_by_the_agnostic_pie_vs___darth_vader_of_group_.zip|youtube:REkoHneAL0k
-title:The Dolphin|author:dixan+karmasutra|position:0|webfile:vocal_music/the_dolphin_by_dixan_karmasutra.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/the_dolphin_by_dixan+karmasutra.zip|youtube:1z-kPo4Vcx8
-title:Dead Emotion|author:Genocide|position:0|webfile:vocal_music/dead_emotion_by_genocide.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/dead_emotion_by_genocide.zip|youtube:ImBn694LD-s
-title:Climb the highest mountain|author:Ilari Pitkänen|position:0|webfile:vocal_music/climb_the_highest_mountain_by_ilari_pitk_nen.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/climb_the_highest_mountain_by_ilari_pitk_nen.zip|youtube:P1pho_275A0
-title:Pimps Utan Gränser|author:Fyllecell .Feat Adde K & SeroTonin|position:0|webfile:vocal_music/pimps_utan_gr_nser_by_fyllecell_feat_adde_k_serotonin.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/pimps_utan_gr_nser_by_fyllecell__feat_adde_k___serotonin.zip|youtube:Qpww3HsUh-s
-title:Love Parade 03 [assembly remix]|author:Red Trax|position:0|webfile:vocal_music/love_parade_03_assembly_remix_by_red_trax.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/love_parade_03__assembly_remix__by_red_trax.zip|youtube:cbHQCOatO8c
-title:Elämän realiteetit|author:Tapani ja Hurjastelijat|position:0|webfile:vocal_music/el_m_n_realiteetit_by_tapani_ja_hurjastelijat.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/el_m_n_realiteetit_by_tapani_ja_hurjastelijat.zip|youtube:0hspXuS8zAM
-title:Sivarin Valssi|author:Ernesto Aeroflot|position:0|webfile:vocal_music/sivarin_valssi_by_ernesto_aeroflot.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/sivarin_valssi_by_ernesto_aeroflot.zip|youtube:ukLejmgg8mU
-title:Nekromantik|author:Laxical of The Silents and Danish Gold|position:0|webfile:vocal_music/nekromantik_by_laxical_of_the_silents_and_danish_gold.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/nekromantik_by_laxical_of_the_silents_and_danish_gold.zip|youtube:WKA_R145IRE
-title:In My Car|author:Reverie / Faktory|position:0|webfile:vocal_music/in_my_car_by_reverie_faktory.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/in_my_car_by_reverie___faktory.zip|youtube:bUd3BYdoaIQ
-title:Ensimmäinen Kosketus|author:The Womb|position:0|webfile:vocal_music/ensimm_inen_kosketus_by_the_womb.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/ensimm_inen_kosketus_by_the_womb.zip|youtube:r8SIeq22gP4
-title:Flow|author:Jose Sileoni & stam|position:0|webfile:vocal_music/flow_by_jose_sileoni_stam.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/flow_by_jose_sileoni___stam.zip|youtube:yZ0ghmZ4wEk
-title:Kesä Sykkii by CCTF|author:CCTF|position:0|webfile:vocal_music/kes_sykkii_by_cctf_by_cctf.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/kes__sykkii_by_cctf_by_cctf.zip|youtube:XmVZ1Ut4w1o
-title:Kelaa sitä Ime sitä|author:MjN|position:0|webfile:vocal_music/kelaa_sit_ime_sit_by_mjn.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/kelaa_sit__ime_sit__by_mjn.zip|youtube:Mxjs_18YWRo
-title:Rammsheilljgehrzen|author:uuden maan lauluja|position:0|webfile:vocal_music/rammsheilljgehrzen_by_uuden_maan_lauluja.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/rammsheilljgehrzen_by_uuden_maan_lauluja.zip|youtube:RigWNVYYnUk
-title:Heart of Gold|author:Joni Koskimaa|position:0|webfile:vocal_music/heart_of_gold_by_joni_koskimaa.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/heart_of_gold_by_joni_koskimaa.zip|youtube:0-Nz4AB11Rc
-title:Voit löytää|author:Dugeroow|position:0|webfile:vocal_music/voit_l_yt_by_dugeroow.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/voit_l_yt___by_dugeroow.zip|youtube:ZRQVWbWPZsU
-title:Rainbow Racer|author:J.Airaksinen & M.Rochowski|position:0|webfile:vocal_music/rainbow_racer_by_j_airaksinen_m_rochowski.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/rainbow_racer_by_j_airaksinen___m_rochowski.zip|youtube:YZHd1NKV7Qk
-title:Scenemies|author:DJartz vs. Louhisetä|position:0|webfile:vocal_music/scenemies_by_djartz_vs_louhiset.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/scenemies_by_djartz_vs__louhiset_.zip|youtube:5XHySLqzFHc
-title:Forest of Serenity|author:Prophecy|position:0|webfile:vocal_music/forest_of_serenity_by_prophecy.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/forest_of_serenity_by_prophecy.zip|youtube:SscGIkqlblw
-title:Ninja's Theme|author:Intergalactic Ninja|position:0|webfile:vocal_music/ninja_s_theme_by_intergalactic_ninja.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/ninja_s_theme_by_intergalactic_ninja.zip|youtube:OWT8TSiBKYg
-title:raunistulan hippobileet|author:ISO|position:0|webfile:vocal_music/raunistulan_hippobileet_by_iso.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/raunistulan_hippobileet_by_iso.zip|youtube:tcsxSz_mHus
-title:Tepon Klinikka|author:Coloneil feat JpMies & Teni|position:0|webfile:vocal_music/tepon_klinikka_by_coloneil_feat_jpmies_teni.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/tepon_klinikka_by_coloneil_feat_jpmies___teni.zip|youtube:G4S2zSjvx6E
-title:Dj TuoreusTakuu feat. Luomukurkku|author:Paimionmafia|position:0|webfile:vocal_music/dj_tuoreustakuu_feat_luomukurkku_by_paimionmafia.mp3|sceneorg:/parties/2003/assembly03/vocalmusic/dj_tuoreustakuu_feat__luomukurkku_by_paimionmafia_1.zip|youtube:bFZYy2A32UQ
+author:aisth|position:1|sceneorg:/parties/2003/assembly03/vocalmusic/pearls_by_aisth_1.zip|title:pearls|webfile:vocal_music/pearls_by_aisth.mp3|youtube:ZNcSPeTdLVA
+author:Pete and Mike|position:2|sceneorg:/parties/2003/assembly03/vocalmusic/never_had_a_gun_in_my_hand_by_pete_and_mike_2.zip|title:Never Had A Gun In My Hand|webfile:vocal_music/never_had_a_gun_in_my_hand_by_pete_and_mike.mp3|youtube:uVP9Cy2LWnc
+author:Exactly Precise|position:3|sceneorg:/parties/2003/assembly03/vocalmusic/groove_it_by_exactly_precise.zip|title:Groove It|webfile:vocal_music/groove_it_by_exactly_precise.mp3|youtube:Ob2DJX6uH7Y
+author:Aikapallo|position:4|sceneorg:/parties/2003/assembly03/vocalmusic/liekit_by_aikapallo.zip|title:Liekit|webfile:vocal_music/liekit_by_aikapallo.mp3|youtube:ngK-4jGuTRk
+author:Juho ja Hurrikaani|position:5|sceneorg:/parties/2003/assembly03/vocalmusic/tommi_on_homo_by_juho_ja_hurrikaani.zip|title:Tommi on Homo|webfile:vocal_music/tommi_on_homo_by_juho_ja_hurrikaani.mp3|youtube:fQbY-Voe02E
+author:TrAFo|position:6|sceneorg:/parties/2003/assembly03/vocalmusic/tsjing_tsjing_by_trafo.zip|title:Tsjing Tsjing|webfile:vocal_music/tsjing_tsjing_by_trafo.mp3|youtube:2L0agytC8cQ
+author:Dr.OOb of Goto Port 139|position:7|sceneorg:/parties/2003/assembly03/vocalmusic/cyborg_from_hell_by_dr_oob_of_goto_port_139.zip|title:Cyborg from hell|webfile:vocal_music/cyborg_from_hell_by_dr_oob_of_goto_port_139.mp3|youtube:zydq8rUTJ94
+author:Firestorm / Doomsday|position:8|sceneorg:/parties/2003/assembly03/vocalmusic/the_way_of_peril_by_firestorm___doomsday_1.zip|title:The Way of Peril|webfile:vocal_music/the_way_of_peril_by_firestorm_doomsday.mp3|youtube:xRw4MxzQ7_A
+author:Poème|position:9|sceneorg:/parties/2003/assembly03/vocalmusic/me_with_beans_on_side_by_po_me.zip|title:Me With Beans On Side|webfile:vocal_music/me_with_beans_on_side_by_po_me.mp3|youtube:R-a56A9j4Hw
+author:the ninth path (feat. ript, floopyb, steve of disasterarea)|position:10|sceneorg:/parties/2003/assembly03/vocalmusic/the_dreaming_by_the_ninth_path__feat__ript__floopyb__steve_of_disasterarea_.zip|title:the dreaming|webfile:vocal_music/the_dreaming_by_the_ninth_path_feat_ript_floopyb_steve_of_disasterarea.mp3|youtube:vCuhJXiBw3M
+author:paavoharju|sceneorg:/parties/2003/assembly03/vocalmusic/valo_tihkuu_kaiken_l_pi_by_paavoharju.zip|title:Valo tihkuu kaiken läpi|webfile:vocal_music/valo_tihkuu_kaiken_l_pi_by_paavoharju.mp3|youtube:XIEVcuxwl6Y
+author:Vilunen / Kaytanhousuja|sceneorg:/parties/2003/assembly03/vocalmusic/ich_habe_by_vilunen___kaytanhousuja.zip|title:Ich Habe|webfile:vocal_music/ich_habe_by_vilunen_kaytanhousuja.mp3|youtube:iZ_yLnqT47Q
+author:Bream Ed|sceneorg:/parties/2003/assembly03/vocalmusic/waves_of_forever_by_bream_ed.zip|title:Waves of Forever|webfile:vocal_music/waves_of_forever_by_bream_ed.mp3|youtube:K-o3zN4cj0A
+author:Ilkka Engström|sceneorg:/parties/2003/assembly03/vocalmusic/pleasure_and_pain_by_ilkka_engstr_m.zip|title:Pleasure and Pain|webfile:vocal_music/pleasure_and_pain_by_ilkka_engstr_m.mp3|youtube:3YZfxeKb_Ug
+author:Anna-Stiina|sceneorg:/parties/2003/assembly03/vocalmusic/come_home_to_me_by_anna-stiina.zip|title:Come Home to Me|webfile:vocal_music/come_home_to_me_by_anna_stiina.mp3|youtube:61Kt8kvFCZM
+author:Leperchaun|sceneorg:/parties/2003/assembly03/vocalmusic/reason_by_leperchaun.zip|title:Reason|webfile:vocal_music/reason_by_leperchaun.mp3|youtube:dbg8O4HUWKQ
+author:aienn|sceneorg:/parties/2003/assembly03/vocalmusic/soon_by_aienn.zip|title:soon|webfile:vocal_music/soon_by_aienn.mp3|youtube:rntFEvnqEjA
+author:Claudius|sceneorg:/parties/2003/assembly03/vocalmusic/otteita_moraalittoman_neidin_p_iv_kirjasta_by_claudius.zip|title:Otteita moraalittoman neidin päiväkirjasta|webfile:vocal_music/otteita_moraalittoman_neidin_p_iv_kirjasta_by_claudius.mp3|youtube:ZkRIl7r-k0U
+author:Jean Nine|sceneorg:/parties/2003/assembly03/vocalmusic/and_they_said_love_is_in_the_words_by_jean_nine.zip|title:And They Said Love Is In The Words|webfile:vocal_music/and_they_said_love_is_in_the_words_by_jean_nine.mp3|youtube:nEl2OPGLb4g
+author:The Agnostic Pie vs. Darth Vader of Group.|sceneorg:/parties/2003/assembly03/vocalmusic/jake_furlong_by_the_agnostic_pie_vs___darth_vader_of_group_.zip|title:Jake Furlong|webfile:vocal_music/jake_furlong_by_the_agnostic_pie_vs_darth_vader_of_group.mp3|youtube:REkoHneAL0k
+author:dixan+karmasutra|sceneorg:/parties/2003/assembly03/vocalmusic/the_dolphin_by_dixan+karmasutra.zip|title:The Dolphin|webfile:vocal_music/the_dolphin_by_dixan_karmasutra.mp3|youtube:1z-kPo4Vcx8
+author:Genocide|sceneorg:/parties/2003/assembly03/vocalmusic/dead_emotion_by_genocide.zip|title:Dead Emotion|webfile:vocal_music/dead_emotion_by_genocide.mp3|youtube:ImBn694LD-s
+author:Ilari Pitkänen|sceneorg:/parties/2003/assembly03/vocalmusic/climb_the_highest_mountain_by_ilari_pitk_nen.zip|title:Climb the highest mountain|webfile:vocal_music/climb_the_highest_mountain_by_ilari_pitk_nen.mp3|youtube:P1pho_275A0
+author:Fyllecell .Feat Adde K & SeroTonin|sceneorg:/parties/2003/assembly03/vocalmusic/pimps_utan_gr_nser_by_fyllecell__feat_adde_k___serotonin.zip|title:Pimps Utan Gränser|webfile:vocal_music/pimps_utan_gr_nser_by_fyllecell_feat_adde_k_serotonin.mp3|youtube:Qpww3HsUh-s
+author:Red Trax|sceneorg:/parties/2003/assembly03/vocalmusic/love_parade_03__assembly_remix__by_red_trax.zip|title:Love Parade 03 [assembly remix]|webfile:vocal_music/love_parade_03_assembly_remix_by_red_trax.mp3|youtube:cbHQCOatO8c
+author:Tapani ja Hurjastelijat|sceneorg:/parties/2003/assembly03/vocalmusic/el_m_n_realiteetit_by_tapani_ja_hurjastelijat.zip|title:Elämän realiteetit|webfile:vocal_music/el_m_n_realiteetit_by_tapani_ja_hurjastelijat.mp3|youtube:0hspXuS8zAM
+author:Ernesto Aeroflot|sceneorg:/parties/2003/assembly03/vocalmusic/sivarin_valssi_by_ernesto_aeroflot.zip|title:Sivarin Valssi|webfile:vocal_music/sivarin_valssi_by_ernesto_aeroflot.mp3|youtube:ukLejmgg8mU
+author:Laxical of The Silents and Danish Gold|sceneorg:/parties/2003/assembly03/vocalmusic/nekromantik_by_laxical_of_the_silents_and_danish_gold.zip|title:Nekromantik|webfile:vocal_music/nekromantik_by_laxical_of_the_silents_and_danish_gold.mp3|youtube:WKA_R145IRE
+author:Reverie / Faktory|sceneorg:/parties/2003/assembly03/vocalmusic/in_my_car_by_reverie___faktory.zip|title:In My Car|webfile:vocal_music/in_my_car_by_reverie_faktory.mp3|youtube:bUd3BYdoaIQ
+author:The Womb|sceneorg:/parties/2003/assembly03/vocalmusic/ensimm_inen_kosketus_by_the_womb.zip|title:Ensimmäinen Kosketus|webfile:vocal_music/ensimm_inen_kosketus_by_the_womb.mp3|youtube:r8SIeq22gP4
+author:Jose Sileoni & stam|sceneorg:/parties/2003/assembly03/vocalmusic/flow_by_jose_sileoni___stam.zip|title:Flow|webfile:vocal_music/flow_by_jose_sileoni_stam.mp3|youtube:yZ0ghmZ4wEk
+author:CCTF|sceneorg:/parties/2003/assembly03/vocalmusic/kes__sykkii_by_cctf_by_cctf.zip|title:Kesä Sykkii by CCTF|webfile:vocal_music/kes_sykkii_by_cctf_by_cctf.mp3|youtube:XmVZ1Ut4w1o
+author:MjN|sceneorg:/parties/2003/assembly03/vocalmusic/kelaa_sit__ime_sit__by_mjn.zip|title:Kelaa sitä Ime sitä|webfile:vocal_music/kelaa_sit_ime_sit_by_mjn.mp3|youtube:Mxjs_18YWRo
+author:uuden maan lauluja|sceneorg:/parties/2003/assembly03/vocalmusic/rammsheilljgehrzen_by_uuden_maan_lauluja.zip|title:Rammsheilljgehrzen|webfile:vocal_music/rammsheilljgehrzen_by_uuden_maan_lauluja.mp3|youtube:RigWNVYYnUk
+author:Joni Koskimaa|sceneorg:/parties/2003/assembly03/vocalmusic/heart_of_gold_by_joni_koskimaa.zip|title:Heart of Gold|webfile:vocal_music/heart_of_gold_by_joni_koskimaa.mp3|youtube:0-Nz4AB11Rc
+author:Dugeroow|sceneorg:/parties/2003/assembly03/vocalmusic/voit_l_yt___by_dugeroow.zip|title:Voit löytää|webfile:vocal_music/voit_l_yt_by_dugeroow.mp3|youtube:ZRQVWbWPZsU
+author:J.Airaksinen & M.Rochowski|sceneorg:/parties/2003/assembly03/vocalmusic/rainbow_racer_by_j_airaksinen___m_rochowski.zip|title:Rainbow Racer|webfile:vocal_music/rainbow_racer_by_j_airaksinen_m_rochowski.mp3|youtube:YZHd1NKV7Qk
+author:DJartz vs. Louhisetä|sceneorg:/parties/2003/assembly03/vocalmusic/scenemies_by_djartz_vs__louhiset_.zip|title:Scenemies|webfile:vocal_music/scenemies_by_djartz_vs_louhiset.mp3|youtube:5XHySLqzFHc
+author:Prophecy|sceneorg:/parties/2003/assembly03/vocalmusic/forest_of_serenity_by_prophecy.zip|title:Forest of Serenity|webfile:vocal_music/forest_of_serenity_by_prophecy.mp3|youtube:SscGIkqlblw
+author:Intergalactic Ninja|sceneorg:/parties/2003/assembly03/vocalmusic/ninja_s_theme_by_intergalactic_ninja.zip|title:Ninja's Theme|webfile:vocal_music/ninja_s_theme_by_intergalactic_ninja.mp3|youtube:OWT8TSiBKYg
+author:ISO|sceneorg:/parties/2003/assembly03/vocalmusic/raunistulan_hippobileet_by_iso.zip|title:raunistulan hippobileet|webfile:vocal_music/raunistulan_hippobileet_by_iso.mp3|youtube:tcsxSz_mHus
+author:Coloneil feat JpMies & Teni|sceneorg:/parties/2003/assembly03/vocalmusic/tepon_klinikka_by_coloneil_feat_jpmies___teni.zip|title:Tepon Klinikka|webfile:vocal_music/tepon_klinikka_by_coloneil_feat_jpmies_teni.mp3|youtube:G4S2zSjvx6E
+author:Paimionmafia|sceneorg:/parties/2003/assembly03/vocalmusic/dj_tuoreustakuu_feat__luomukurkku_by_paimionmafia_1.zip|title:Dj TuoreusTakuu feat. Luomukurkku|webfile:vocal_music/dj_tuoreustakuu_feat_luomukurkku_by_paimionmafia.mp3|youtube:bFZYy2A32UQ
 
 
 :section Freestyle graphics
 :description <p>In Freestyle graphics competition images could be created with any desired method about anything.</p>
 
-title:My City|author:Visualice|position:1|webfile:freestyle_graphics/my_city_photoshop_tablet_digi_photo_by_visualice.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/my_city_by_visualice.zip
-title:Mental Inferno|author:Nek|position:2|webfile:freestyle_graphics/mental_inferno_drawing_photoshop_by_nek.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/mental_inferno_by_nek.zip
-title:1-800-xxx|author:Marvel / Future Crew|position:3|webfile:freestyle_graphics/1_800_xxx_photoshop_digi_photo_by_marvel_future_crew.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/1-800-xxx_by_marvel___future_crew.zip
-title:A young girl with a detached hand|author:DeCoder // lucid|position:4|webfile:freestyle_graphics/a_young_girl_with_a_detached_hand_3d_photoshop_by_decoder_lucid.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/a_young_girl_with_a_detached_hand_by_decoder____lucid.zip
-title:Surgeon's Picnic Mistake|author:Oozie|position:5|webfile:freestyle_graphics/surgeon_s_picnic_mistake_3d_digi_photo_photoshop_by_oozie.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/surgeon_s_picnic_mistake_by_oozie.zip
-title:Sentinel|author:Erikthon|position:6|webfile:freestyle_graphics/sentinel_drawing_photoshop_by_erikthon.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/sentinel_by_erikthon.zip
-title:Decommissioned II|author:spikey|position:7|webfile:freestyle_graphics/decommissioned_ii_digi_photo_3d_photoshop_by_spikey.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/decommissioned_ii_by_spikey.zip
-title:Carpathian|author:Dream Data|position:8|webfile:freestyle_graphics/carpathian_3d_photoshop_by_dream_data.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/carpathian_dream_by_data.zip
-title:It was the coolest thing they had ever seen|author:marzu|position:9|webfile:freestyle_graphics/it_was_the_coolest_thing_they_had_ever_seen_3d_photoshop_by_marzu.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/it_was_the_coolest_thing_they_had_ever_seen_by_marzu.zip
-title:Idiots|author:Electric/Extend|position:10|webfile:freestyle_graphics/idiots_magic_ink_markers_photoshop_by_electric_extend.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/idiots_by_electric_extend_2.zip
-title:Flybutter|author:paltsi|position:11|webfile:freestyle_graphics/flybutter_3d_photoshop_by_paltsi.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/flybutter_by_paltsi.zip
-title:Kukka|author:Skyfox|position:12|webfile:freestyle_graphics/kukka_3d_photoshop_by_skyfox.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/kukka_by_skyfox.zip
-title:Mermaid|author:Antti Lehtinen|position:13|webfile:freestyle_graphics/mermaid_3d_photoshop_by_antti_lehtinen.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/mermaid_by_antti_lehtinen.zip
-title:Romutarha|author:Maketsu / Pear Factory|position:14|webfile:freestyle_graphics/romutarha_crayon_by_maketsu_pear_factory.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/romutarha_by_maketsu___pear_factory.zip
-title:Fishy|author:Lik.sys / Goto10|position:15|webfile:freestyle_graphics/fishy_3d_deep_paint_by_lik_sys_goto10.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/fishy_by_lik_sys___goto10_1.zip
-title:Pain|author:Ember|position:16|webfile:freestyle_graphics/pain_3d_photoshop_by_ember.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/pain_by_ember.zip
-title:Good living, bad liver|author:murk of sONiK clique|position:17|webfile:freestyle_graphics/good_living_bad_liver_digi_photo_illustrator_photoshop_by_murk_of_sonik_clique.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/good_living__bad_liver_by_murk_of_sonik_clique.zip
-title:Strebske Pleso|author:Frank / Orange|position:18|webfile:freestyle_graphics/strebske_pleso_digi_photo_3d_photoshop_by_frank_orange.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/strebske_pleso_by_frank___orange.zip
-title:Shaolin Lady|author:Ace/Marshals|position:19|webfile:freestyle_graphics/shaolin_lady_3d_digi_photo_dig_generated_hair_by_ace_marshals.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/shaolin_lady_by_ace_marshals.zip
-title:Sakkeuksen Peräkamari|author:Sakkeus & zibo|position:20|webfile:freestyle_graphics/sakkeuksen_per_kamari_digi_photo_drawing_photoshop_paintshop_by_sakkeus_zibo.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/sakkeuksen_per_kamari_by_sakkeus___zibo.zip
-title:payback time|author:mad axel|position:21|webfile:freestyle_graphics/payback_time_3d_by_mad_axel.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/payback_time_by_mad_axel.zip
-title:Cruising|author:maxon|position:22|webfile:freestyle_graphics/cruising_digi_photo_photoshop_by_maxon.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/cruising_by_maxon.zip
-title:Kaskelot Tango|author:Duce/Extend|position:23|webfile:freestyle_graphics/kaskelot_tango_drawing_photoshop_by_duce_extend.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/kaskelot_tango_by_duce_extend_1.zip
-title:kikakika|author:kataja|position:24|webfile:freestyle_graphics/kikakika_polaroids_photoshop_by_kataja.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/kikakika_by_kataja.zip
-title:Flying back home|author:scpl|position:25|webfile:freestyle_graphics/flying_back_home_drawing_photoshop_by_scpl.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/flying_back_home_by_scpl.zip
-title:Reunalla|author:McLad / Grin|position:0|webfile:freestyle_graphics/reunalla_by_mclad_grin.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/reunalla_by_mclad___grin.zip
-title:Slovenia|author:B. o. W.|position:0|webfile:freestyle_graphics/slovenia_by_b_o_w.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/slovenia_by_b__o__w_.zip
-title:The Adventures of Poxmom|author:Reko / Instant Ejakulation|position:0|webfile:freestyle_graphics/the_adventures_of_poxmom_by_reko_instant_ejakulation.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_adventures_of_poxmom_by_reko___instant_ejakulation_1.zip
-title:Jag skulle|author:Marq/Fit|position:0|webfile:freestyle_graphics/jag_skulle_by_marq_fit.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/jag_skulle_by_marq_fit.zip
-title:Leia And Angelique: Silverdreams|author:Delilah|position:0|webfile:freestyle_graphics/leia_and_angelique_silverdreams_by_delilah.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/leia_and_angelique__silverdreams_by_delilah_1.zip
-title:newborn|author:Lauri Eloranta|position:0|webfile:freestyle_graphics/newborn_by_lauri_eloranta.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/newborn_by_lauri_eloranta.zip
-title:Depression|author:SerialTHKiLL|position:0|webfile:freestyle_graphics/depression_by_serialthkill.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/depression_by_serialthkill.zip
-title:Found On Road, Dead|author:Apaksi / Lasi|position:0|webfile:freestyle_graphics/found_on_road_dead_by_apaksi_lasi.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/found_on_road__dead_by_apaksi___lasi.zip
-title:Spider|author:Kingi|position:0|webfile:freestyle_graphics/spider_by_kingi.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/spider_by_kingi.zip
-title:Say Cheese!|author:Charon|position:0|webfile:freestyle_graphics/say_cheese_by_charon.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/say_cheese__by_charon.zip
-title:Studio|author:Akahito / Lasi|position:0|webfile:freestyle_graphics/studio_by_akahito_lasi.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/studio_by_akahito___lasi_1.zip
-title:Mushroom chick|author:Partikle|position:0|webfile:freestyle_graphics/mushroom_chick_by_partikle.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/mushroom_chick_by_partikle.zip
-title:Framework|author:Nutcase / Mandel Bros.|position:0|webfile:freestyle_graphics/framework_by_nutcase_mandel_bros.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/framework_by_nutcase___mandel_bros_.zip
-title:Page of History|author:Risto Ihalainen|position:0|webfile:freestyle_graphics/page_of_history_by_risto_ihalainen.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/page_of_history_by_risto_ihalainen.zip
-title:Toy Train|author:Nappe1|position:0|webfile:freestyle_graphics/toy_train_by_nappe1.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/toy_train_by_nappe1.zip
-title:Introduction to Pain|author:Smoky|position:0|webfile:freestyle_graphics/introduction_to_pain_by_smoky.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/introduction_to_pain_by_smoky.zip
-title:Sin&Shame|author:Kuraporo|position:0|webfile:freestyle_graphics/sin_shame_by_kuraporo.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/sin_shame_by_kuraporo.zip
-title:Selfportrait|author:devil|position:0|webfile:freestyle_graphics/selfportrait_by_devil.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/selfportrait_by_devil.zip
-title:The day after|author:geel & kaa0s|position:0|webfile:freestyle_graphics/the_day_after_by_geel_kaa0s.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_day_after_by_geel___kaa0s_1.zip
-title:Magic Cancer|author:ruman jaetkaen kaksi kertaa rumempi identtinen kaksonen / jumalauta|position:0|webfile:freestyle_graphics/magic_cancer_by_ruman_jaetkaen_kaksi_kertaa_rumempi_identtinen_kaksonen_jumalauta.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/magic_cancer_by_ruman_jaetkaen_kaksi_kertaa_rumempi_identtinen_kaksonen___jumalauta.zip
-title:Embryce|author:Fargolator|position:0|webfile:freestyle_graphics/embryce_by_fargolator.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/embryce_by_fargolator.zip
-title:fear|author:maalari|position:0|webfile:freestyle_graphics/fear_by_maalari.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/fear_by_maalari.zip
-title:The Icon of 20th Century|author:K-Statik/Outkazt|position:0|webfile:freestyle_graphics/the_icon_of_20th_century_by_k_statik_outkazt.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_icon_of_20th_century_by_k-statik_outkazt_3.zip
-title:Earth: Year 3065|author:Dr.OOb of Goto Port 139|position:0|webfile:freestyle_graphics/earth_year_3065_by_dr_oob_of_goto_port_139.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/earth__year_3065_by_dr_oob_of_goto_port_139.zip
-title:Kivikehä|author:Ninive|position:0|sceneorg:/parties/2003/assembly03/grfx/freestyle/kivikeh__by_ninive.zip
-title:Walkway|author:maraz|position:0|webfile:freestyle_graphics/walkway_by_maraz.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/walkway_by_maraz.zip
-title:Blow Job|author:Outrider|position:0|webfile:freestyle_graphics/blow_job_by_outrider.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/blow_job_by_outrider.zip
-title:The Feeling|author:Tuomas Nylund|position:0|webfile:freestyle_graphics/the_feeling_by_tuomas_nylund.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_feeling_by_tuomas_nylund.zip
-title:ronsu|author:ruuvari|position:0|webfile:freestyle_graphics/ronsu_by_ruuvari.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/ronsu_by_ruuvari.zip
-title:Paccanen|author:Tomaattikeitto|position:0|webfile:freestyle_graphics/paccanen_by_tomaattikeitto.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/paccanen_by_tomaattikeitto.zip
-title:Bushido|author:panso|position:0|webfile:freestyle_graphics/bushido_by_panso.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/bushido_by_panso.zip
-title:we are all prisoners|author:nosfe|position:0|webfile:freestyle_graphics/we_are_all_prisoners_by_nosfe.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/we_are_all_prisoners_by_nosfe.zip
-title:Fairytale|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:freestyle_graphics/fairytale_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/fairytale_by_diamondie_foobug_numedia_cyclops.zip
-title:Goatse|author:KimmoKe / A-MEN|position:0|webfile:freestyle_graphics/goatse_by_kimmoke_a_men.jpeg|sceneorg:/parties/2003/assembly03/grfx/freestyle/goatse_by_kimmoke___a-men.zip
-title:Keep It Cool, Wizard!|author:jounihat|position:0|webfile:freestyle_graphics/keep_it_cool_wizard_by_jounihat.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/keep_it_cool__wizard__by_jounihat_2.zip
-title:Life is a Hallway|author:fishermans end|position:0|webfile:freestyle_graphics/life_is_a_hallway_by_fishermans_end.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/life_is_a_hallway_by_fishermans_end.zip
-title:Supertruck|author:Sauna/Ryttyla.com|position:0|webfile:freestyle_graphics/supertruck_by_sauna_ryttyla_com.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/supertruck_by_sauna_ryttyla_com.zip
-title:Dolphins' dream|author:Pege|position:0|webfile:freestyle_graphics/dolphins_dream_by_pege.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/dolphins__dream_by_pege.zip
-title:Heads Of State|author:Systematik Dream Korp|position:0|webfile:freestyle_graphics/heads_of_state_by_systematik_dream_korp.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/heads_of_state_by_systematik_dream_korp.zip
-title:Master of turntables|author:Juho / jadajada|position:0|webfile:freestyle_graphics/master_of_turntables_by_juho_jadajada.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/master_of_turntables_by_juho___jadajada.zip
-title:Park|author:Pyykola|position:0|webfile:freestyle_graphics/park_by_pyykola.png|sceneorg:/parties/2003/assembly03/grfx/freestyle/park_by_pyykola.zip
+author:Visualice|position:1|sceneorg:/parties/2003/assembly03/grfx/freestyle/my_city_by_visualice.zip|title:My City|webfile:freestyle_graphics/my_city_photoshop_tablet_digi_photo_by_visualice.png
+author:Nek|position:2|sceneorg:/parties/2003/assembly03/grfx/freestyle/mental_inferno_by_nek.zip|title:Mental Inferno|webfile:freestyle_graphics/mental_inferno_drawing_photoshop_by_nek.png
+author:Marvel / Future Crew|position:3|sceneorg:/parties/2003/assembly03/grfx/freestyle/1-800-xxx_by_marvel___future_crew.zip|title:1-800-xxx|webfile:freestyle_graphics/1_800_xxx_photoshop_digi_photo_by_marvel_future_crew.png
+author:DeCoder // lucid|position:4|sceneorg:/parties/2003/assembly03/grfx/freestyle/a_young_girl_with_a_detached_hand_by_decoder____lucid.zip|title:A young girl with a detached hand|webfile:freestyle_graphics/a_young_girl_with_a_detached_hand_3d_photoshop_by_decoder_lucid.png
+author:Oozie|position:5|sceneorg:/parties/2003/assembly03/grfx/freestyle/surgeon_s_picnic_mistake_by_oozie.zip|title:Surgeon's Picnic Mistake|webfile:freestyle_graphics/surgeon_s_picnic_mistake_3d_digi_photo_photoshop_by_oozie.png
+author:Erikthon|position:6|sceneorg:/parties/2003/assembly03/grfx/freestyle/sentinel_by_erikthon.zip|title:Sentinel|webfile:freestyle_graphics/sentinel_drawing_photoshop_by_erikthon.png
+author:spikey|position:7|sceneorg:/parties/2003/assembly03/grfx/freestyle/decommissioned_ii_by_spikey.zip|title:Decommissioned II|webfile:freestyle_graphics/decommissioned_ii_digi_photo_3d_photoshop_by_spikey.png
+author:Dream Data|position:8|sceneorg:/parties/2003/assembly03/grfx/freestyle/carpathian_dream_by_data.zip|title:Carpathian|webfile:freestyle_graphics/carpathian_3d_photoshop_by_dream_data.png
+author:marzu|position:9|sceneorg:/parties/2003/assembly03/grfx/freestyle/it_was_the_coolest_thing_they_had_ever_seen_by_marzu.zip|title:It was the coolest thing they had ever seen|webfile:freestyle_graphics/it_was_the_coolest_thing_they_had_ever_seen_3d_photoshop_by_marzu.png
+author:Electric/Extend|position:10|sceneorg:/parties/2003/assembly03/grfx/freestyle/idiots_by_electric_extend_2.zip|title:Idiots|webfile:freestyle_graphics/idiots_magic_ink_markers_photoshop_by_electric_extend.png
+author:paltsi|position:11|sceneorg:/parties/2003/assembly03/grfx/freestyle/flybutter_by_paltsi.zip|title:Flybutter|webfile:freestyle_graphics/flybutter_3d_photoshop_by_paltsi.png
+author:Skyfox|position:12|sceneorg:/parties/2003/assembly03/grfx/freestyle/kukka_by_skyfox.zip|title:Kukka|webfile:freestyle_graphics/kukka_3d_photoshop_by_skyfox.png
+author:Antti Lehtinen|position:13|sceneorg:/parties/2003/assembly03/grfx/freestyle/mermaid_by_antti_lehtinen.zip|title:Mermaid|webfile:freestyle_graphics/mermaid_3d_photoshop_by_antti_lehtinen.png
+author:Maketsu / Pear Factory|position:14|sceneorg:/parties/2003/assembly03/grfx/freestyle/romutarha_by_maketsu___pear_factory.zip|title:Romutarha|webfile:freestyle_graphics/romutarha_crayon_by_maketsu_pear_factory.png
+author:Lik.sys / Goto10|position:15|sceneorg:/parties/2003/assembly03/grfx/freestyle/fishy_by_lik_sys___goto10_1.zip|title:Fishy|webfile:freestyle_graphics/fishy_3d_deep_paint_by_lik_sys_goto10.png
+author:Ember|position:16|sceneorg:/parties/2003/assembly03/grfx/freestyle/pain_by_ember.zip|title:Pain|webfile:freestyle_graphics/pain_3d_photoshop_by_ember.png
+author:murk of sONiK clique|position:17|sceneorg:/parties/2003/assembly03/grfx/freestyle/good_living__bad_liver_by_murk_of_sonik_clique.zip|title:Good living, bad liver|webfile:freestyle_graphics/good_living_bad_liver_digi_photo_illustrator_photoshop_by_murk_of_sonik_clique.png
+author:Frank / Orange|position:18|sceneorg:/parties/2003/assembly03/grfx/freestyle/strebske_pleso_by_frank___orange.zip|title:Strebske Pleso|webfile:freestyle_graphics/strebske_pleso_digi_photo_3d_photoshop_by_frank_orange.png
+author:Ace/Marshals|position:19|sceneorg:/parties/2003/assembly03/grfx/freestyle/shaolin_lady_by_ace_marshals.zip|title:Shaolin Lady|webfile:freestyle_graphics/shaolin_lady_3d_digi_photo_dig_generated_hair_by_ace_marshals.png
+author:Sakkeus & zibo|position:20|sceneorg:/parties/2003/assembly03/grfx/freestyle/sakkeuksen_per_kamari_by_sakkeus___zibo.zip|title:Sakkeuksen Peräkamari|webfile:freestyle_graphics/sakkeuksen_per_kamari_digi_photo_drawing_photoshop_paintshop_by_sakkeus_zibo.png
+author:mad axel|position:21|sceneorg:/parties/2003/assembly03/grfx/freestyle/payback_time_by_mad_axel.zip|title:payback time|webfile:freestyle_graphics/payback_time_3d_by_mad_axel.png
+author:maxon|position:22|sceneorg:/parties/2003/assembly03/grfx/freestyle/cruising_by_maxon.zip|title:Cruising|webfile:freestyle_graphics/cruising_digi_photo_photoshop_by_maxon.png
+author:Duce/Extend|position:23|sceneorg:/parties/2003/assembly03/grfx/freestyle/kaskelot_tango_by_duce_extend_1.zip|title:Kaskelot Tango|webfile:freestyle_graphics/kaskelot_tango_drawing_photoshop_by_duce_extend.png
+author:kataja|position:24|sceneorg:/parties/2003/assembly03/grfx/freestyle/kikakika_by_kataja.zip|title:kikakika|webfile:freestyle_graphics/kikakika_polaroids_photoshop_by_kataja.png
+author:scpl|position:25|sceneorg:/parties/2003/assembly03/grfx/freestyle/flying_back_home_by_scpl.zip|title:Flying back home|webfile:freestyle_graphics/flying_back_home_drawing_photoshop_by_scpl.png
+author:McLad / Grin|sceneorg:/parties/2003/assembly03/grfx/freestyle/reunalla_by_mclad___grin.zip|title:Reunalla|webfile:freestyle_graphics/reunalla_by_mclad_grin.png
+author:B. o. W.|sceneorg:/parties/2003/assembly03/grfx/freestyle/slovenia_by_b__o__w_.zip|title:Slovenia|webfile:freestyle_graphics/slovenia_by_b_o_w.png
+author:Reko / Instant Ejakulation|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_adventures_of_poxmom_by_reko___instant_ejakulation_1.zip|title:The Adventures of Poxmom|webfile:freestyle_graphics/the_adventures_of_poxmom_by_reko_instant_ejakulation.png
+author:Marq/Fit|sceneorg:/parties/2003/assembly03/grfx/freestyle/jag_skulle_by_marq_fit.zip|title:Jag skulle|webfile:freestyle_graphics/jag_skulle_by_marq_fit.png
+author:Delilah|sceneorg:/parties/2003/assembly03/grfx/freestyle/leia_and_angelique__silverdreams_by_delilah_1.zip|title:Leia And Angelique: Silverdreams|webfile:freestyle_graphics/leia_and_angelique_silverdreams_by_delilah.png
+author:Lauri Eloranta|sceneorg:/parties/2003/assembly03/grfx/freestyle/newborn_by_lauri_eloranta.zip|title:newborn|webfile:freestyle_graphics/newborn_by_lauri_eloranta.png
+author:SerialTHKiLL|sceneorg:/parties/2003/assembly03/grfx/freestyle/depression_by_serialthkill.zip|title:Depression|webfile:freestyle_graphics/depression_by_serialthkill.png
+author:Apaksi / Lasi|sceneorg:/parties/2003/assembly03/grfx/freestyle/found_on_road__dead_by_apaksi___lasi.zip|title:Found On Road, Dead|webfile:freestyle_graphics/found_on_road_dead_by_apaksi_lasi.png
+author:Kingi|sceneorg:/parties/2003/assembly03/grfx/freestyle/spider_by_kingi.zip|title:Spider|webfile:freestyle_graphics/spider_by_kingi.png
+author:Charon|sceneorg:/parties/2003/assembly03/grfx/freestyle/say_cheese__by_charon.zip|title:Say Cheese!|webfile:freestyle_graphics/say_cheese_by_charon.png
+author:Akahito / Lasi|sceneorg:/parties/2003/assembly03/grfx/freestyle/studio_by_akahito___lasi_1.zip|title:Studio|webfile:freestyle_graphics/studio_by_akahito_lasi.png
+author:Partikle|sceneorg:/parties/2003/assembly03/grfx/freestyle/mushroom_chick_by_partikle.zip|title:Mushroom chick|webfile:freestyle_graphics/mushroom_chick_by_partikle.png
+author:Nutcase / Mandel Bros.|sceneorg:/parties/2003/assembly03/grfx/freestyle/framework_by_nutcase___mandel_bros_.zip|title:Framework|webfile:freestyle_graphics/framework_by_nutcase_mandel_bros.png
+author:Risto Ihalainen|sceneorg:/parties/2003/assembly03/grfx/freestyle/page_of_history_by_risto_ihalainen.zip|title:Page of History|webfile:freestyle_graphics/page_of_history_by_risto_ihalainen.png
+author:Nappe1|sceneorg:/parties/2003/assembly03/grfx/freestyle/toy_train_by_nappe1.zip|title:Toy Train|webfile:freestyle_graphics/toy_train_by_nappe1.png
+author:Smoky|sceneorg:/parties/2003/assembly03/grfx/freestyle/introduction_to_pain_by_smoky.zip|title:Introduction to Pain|webfile:freestyle_graphics/introduction_to_pain_by_smoky.png
+author:Kuraporo|sceneorg:/parties/2003/assembly03/grfx/freestyle/sin_shame_by_kuraporo.zip|title:Sin&Shame|webfile:freestyle_graphics/sin_shame_by_kuraporo.png
+author:devil|sceneorg:/parties/2003/assembly03/grfx/freestyle/selfportrait_by_devil.zip|title:Selfportrait|webfile:freestyle_graphics/selfportrait_by_devil.png
+author:geel & kaa0s|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_day_after_by_geel___kaa0s_1.zip|title:The day after|webfile:freestyle_graphics/the_day_after_by_geel_kaa0s.png
+author:ruman jaetkaen kaksi kertaa rumempi identtinen kaksonen / jumalauta|sceneorg:/parties/2003/assembly03/grfx/freestyle/magic_cancer_by_ruman_jaetkaen_kaksi_kertaa_rumempi_identtinen_kaksonen___jumalauta.zip|title:Magic Cancer|webfile:freestyle_graphics/magic_cancer_by_ruman_jaetkaen_kaksi_kertaa_rumempi_identtinen_kaksonen_jumalauta.png
+author:Fargolator|sceneorg:/parties/2003/assembly03/grfx/freestyle/embryce_by_fargolator.zip|title:Embryce|webfile:freestyle_graphics/embryce_by_fargolator.png
+author:maalari|sceneorg:/parties/2003/assembly03/grfx/freestyle/fear_by_maalari.zip|title:fear|webfile:freestyle_graphics/fear_by_maalari.png
+author:K-Statik/Outkazt|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_icon_of_20th_century_by_k-statik_outkazt_3.zip|title:The Icon of 20th Century|webfile:freestyle_graphics/the_icon_of_20th_century_by_k_statik_outkazt.png
+author:Dr.OOb of Goto Port 139|sceneorg:/parties/2003/assembly03/grfx/freestyle/earth__year_3065_by_dr_oob_of_goto_port_139.zip|title:Earth: Year 3065|webfile:freestyle_graphics/earth_year_3065_by_dr_oob_of_goto_port_139.png
+author:Ninive|sceneorg:/parties/2003/assembly03/grfx/freestyle/kivikeh__by_ninive.zip|title:Kivikehä
+author:maraz|sceneorg:/parties/2003/assembly03/grfx/freestyle/walkway_by_maraz.zip|title:Walkway|webfile:freestyle_graphics/walkway_by_maraz.png
+author:Outrider|sceneorg:/parties/2003/assembly03/grfx/freestyle/blow_job_by_outrider.zip|title:Blow Job|webfile:freestyle_graphics/blow_job_by_outrider.png
+author:Tuomas Nylund|sceneorg:/parties/2003/assembly03/grfx/freestyle/the_feeling_by_tuomas_nylund.zip|title:The Feeling|webfile:freestyle_graphics/the_feeling_by_tuomas_nylund.png
+author:ruuvari|sceneorg:/parties/2003/assembly03/grfx/freestyle/ronsu_by_ruuvari.zip|title:ronsu|webfile:freestyle_graphics/ronsu_by_ruuvari.png
+author:Tomaattikeitto|sceneorg:/parties/2003/assembly03/grfx/freestyle/paccanen_by_tomaattikeitto.zip|title:Paccanen|webfile:freestyle_graphics/paccanen_by_tomaattikeitto.png
+author:panso|sceneorg:/parties/2003/assembly03/grfx/freestyle/bushido_by_panso.zip|title:Bushido|webfile:freestyle_graphics/bushido_by_panso.png
+author:nosfe|sceneorg:/parties/2003/assembly03/grfx/freestyle/we_are_all_prisoners_by_nosfe.zip|title:we are all prisoners|webfile:freestyle_graphics/we_are_all_prisoners_by_nosfe.png
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2003/assembly03/grfx/freestyle/fairytale_by_diamondie_foobug_numedia_cyclops.zip|title:Fairytale|webfile:freestyle_graphics/fairytale_by_diamondie_foobug_numedia_cyclops.png
+author:KimmoKe / A-MEN|sceneorg:/parties/2003/assembly03/grfx/freestyle/goatse_by_kimmoke___a-men.zip|title:Goatse|webfile:freestyle_graphics/goatse_by_kimmoke_a_men.jpeg
+author:jounihat|sceneorg:/parties/2003/assembly03/grfx/freestyle/keep_it_cool__wizard__by_jounihat_2.zip|title:Keep It Cool, Wizard!|webfile:freestyle_graphics/keep_it_cool_wizard_by_jounihat.png
+author:fishermans end|sceneorg:/parties/2003/assembly03/grfx/freestyle/life_is_a_hallway_by_fishermans_end.zip|title:Life is a Hallway|webfile:freestyle_graphics/life_is_a_hallway_by_fishermans_end.png
+author:Sauna/Ryttyla.com|sceneorg:/parties/2003/assembly03/grfx/freestyle/supertruck_by_sauna_ryttyla_com.zip|title:Supertruck|webfile:freestyle_graphics/supertruck_by_sauna_ryttyla_com.png
+author:Pege|sceneorg:/parties/2003/assembly03/grfx/freestyle/dolphins__dream_by_pege.zip|title:Dolphins' dream|webfile:freestyle_graphics/dolphins_dream_by_pege.png
+author:Systematik Dream Korp|sceneorg:/parties/2003/assembly03/grfx/freestyle/heads_of_state_by_systematik_dream_korp.zip|title:Heads Of State|webfile:freestyle_graphics/heads_of_state_by_systematik_dream_korp.png
+author:Juho / jadajada|sceneorg:/parties/2003/assembly03/grfx/freestyle/master_of_turntables_by_juho___jadajada.zip|title:Master of turntables|webfile:freestyle_graphics/master_of_turntables_by_juho_jadajada.png
+author:Pyykola|sceneorg:/parties/2003/assembly03/grfx/freestyle/park_by_pyykola.zip|title:Park|webfile:freestyle_graphics/park_by_pyykola.png
 
 
 :section Drawn graphics
 :description <p>Pictures were created by drawing them by hand.</p>
 
-title:Parallel Twirl|author:Mazor / Scoopex|position:1|webfile:drawn_graphics/parallel_twirl_by_mazor_scoopex.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/parallel_twirl_by_mazor___scoopex.zip
-title:Female Melon Display Extraordinaire|author:DoC / FobiaDesign&DCS|position:2|webfile:drawn_graphics/female_melon_display_extraordinaire_by_doc_fobiadesign_dcs.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/female_melon_display_extraordinaire_by_doc___fobiadesign_dcs.zip
-title:Iso hali|author:toukka|position:3|webfile:drawn_graphics/iso_hali_by_toukka.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/iso_hali_by_toukka.zip
-title:Find the Little Green Men|author:Scottie|position:4|webfile:drawn_graphics/find_the_little_green_men_by_scottie.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/find_the_little_green_men_by_scottie.zip
-title:HOBO|author:Electric/Extend|position:5|webfile:drawn_graphics/hobo_by_electric_extend.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/hobo_by_electric_extend_2.zip
-title:Chick with Tac-2|author:Reko / Instant Ejakulation|position:6|webfile:drawn_graphics/chick_with_tac_2_by_reko_instant_ejakulation.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/chick_with_tac-2_by_reko___instant_ejakulation.zip
-title:Kengaen Sovitus|author:john peeba|position:7|webfile:drawn_graphics/kengaen_sovitus_by_john_peeba.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/kengaen_sovitus_by_john_peeba.zip
-title:Genesis|author:Joil|position:8|webfile:drawn_graphics/genesis_by_joil.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/genesis_by_joil_1.zip
-title:Shipwreck survivor|author:phase1 of Creators|position:9|webfile:drawn_graphics/shipwreck_survivor_by_phase1_of_creators.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/shipwreck_survivor_by_phase1_of_creators.zip
-title:lihapiirakka|author:progress / 10tons|position:10|webfile:drawn_graphics/lihapiirakka_by_progress_10tons.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/lihapiirakka_by_progress___10tons.zip
-title:OCEAN DREAMS|author:Reload|position:11|webfile:drawn_graphics/ocean_dreams_by_reload.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ocean_dreams_by_reload_1.zip
-title:One Drink in One Realm|author:Visualice|position:12|webfile:drawn_graphics/one_drink_in_one_realm_by_visualice.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/one_drink_in_one_realm_by_visualice.zip
-title:Eagle|author:McK / Ananasmurska|position:13|webfile:drawn_graphics/eagle_by_mck_ananasmurska.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/eagle_by_mck___ananasmurska_.zip
-title:Crowned with thorns|author:Partikle|position:14|webfile:drawn_graphics/crowned_with_thorns_by_partikle.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/crowned_with_thorns_by_partikle.zip
-title:Bloody wanker (left-handed)|author:paltsi|position:15|webfile:drawn_graphics/bloody_wanker_left_handed_by_paltsi.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/bloody_wanker__left-handed__by_paltsi_1.zip
-title:Happy Trails Hans|author:Oozie|position:16|webfile:drawn_graphics/happy_trails_hans_by_oozie.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/happy_trails_hans_by_oozie.zip
-title:Deadlock|author:Random|position:17|webfile:drawn_graphics/deadlock_by_random.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/deadlock_by_random.zip
-title:Chicks On The Rocks|author:maxon|position:18|webfile:drawn_graphics/chicks_on_the_rocks_by_maxon.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/chicks_on_the_rocks_by_maxon.zip
-title:Time to Choose|author:Rhasa|position:19|webfile:drawn_graphics/time_to_choose_by_rhasa.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/time_to_choose_by_rhasa.zip
-title:Ryppyvoide|author:Flegeton|position:20|webfile:drawn_graphics/ryppyvoide_by_flegeton.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ryppyvoide_by_flegeton.zip
-title:Salvage|author:Aln / Fairlight|position:0|webfile:drawn_graphics/salvage_by_aln_fairlight.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/salvage_by_aln___fairlight.zip
-title:Dance with me, die with me|author:Sh'ar|position:0|webfile:drawn_graphics/dance_with_me_die_with_me_by_sh_ar.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/dance_with_me__die_with_me_by_sh_ar.zip
-title:Cupida|author:Calvin / Halo|position:0|webfile:drawn_graphics/cupida_by_calvin_halo.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/cupida_by_calvin___halo_1.zip
-title:Nauris|author:Aropupu|position:0|webfile:drawn_graphics/nauris_by_aropupu.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/nauris_by_aropupu.zip
-title:Fear Of The Dark|author:Kingi|position:0|webfile:drawn_graphics/fear_of_the_dark_by_kingi.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/fear_of_the_dark_by_kingi.zip
-title:Ukkonen|author:Kaikk|position:0|webfile:drawn_graphics/ukkonen_by_kaikk.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ukkonen_by_kaikki.zip
-title:Digital dreams|author:devil|position:0|webfile:drawn_graphics/digital_dreams_by_devil.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/digital_dreams_by_devil.zip
-title:Sotamies|author:Maketsu / Pear Factory|position:0|webfile:drawn_graphics/sotamies_by_maketsu_pear_factory.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/sotamies_by_maketsu___pear_factory.zip
-title:Aleksi diggaa maidosta.|author:Seven|position:0|webfile:drawn_graphics/aleksi_diggaa_maidosta_by_seven.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/aleksi_diggaa_maidosta__by_seven.zip
-title:Demons in my coffee|author:Simo Nuojua|position:0|webfile:drawn_graphics/demons_in_my_coffee_by_simo_nuojua.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/demons_in_my_coffee_by_simo_nuojua.zip
-title:Final Judgement|author:Trilkk|position:0|webfile:drawn_graphics/final_judgement_by_trilkk.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/final_judgement_by_trilkk.zip
-title:Transgression|author:DiamonDie/foobug^Numedia Cyclops|position:0|webfile:drawn_graphics/transgression_by_diamondie_foobug_numedia_cyclops.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/transgression_by_diamondie_foobug_numedia_cyclops.zip
-title:Oldskooler knows it better|author:->LUKE<-|position:0|webfile:drawn_graphics/oldskooler_knows_it_better_by_luke.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/oldskooler_knows_it_better_by_-_luke_-.zip
-title:Vibas|author:Teemu Jäppinen / CEOD|position:0|webfile:drawn_graphics/vibas_by_teemu_j_ppinen_ceod.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/vibas_by_teemu_j_ppinen_ceod.zip
-title:Kuoleman portit|author:Sakamies / Naemok|position:0|webfile:drawn_graphics/kuoleman_portit_by_sakamies_naemok.png|sceneorg:/parties/2003/assembly03/grfx/handdrawn/kuoleman_portit_by_sakamies___naemok.zip
+author:Mazor / Scoopex|position:1|sceneorg:/parties/2003/assembly03/grfx/handdrawn/parallel_twirl_by_mazor___scoopex.zip|title:Parallel Twirl|webfile:drawn_graphics/parallel_twirl_by_mazor_scoopex.png
+author:DoC / FobiaDesign&DCS|position:2|sceneorg:/parties/2003/assembly03/grfx/handdrawn/female_melon_display_extraordinaire_by_doc___fobiadesign_dcs.zip|title:Female Melon Display Extraordinaire|webfile:drawn_graphics/female_melon_display_extraordinaire_by_doc_fobiadesign_dcs.png
+author:toukka|position:3|sceneorg:/parties/2003/assembly03/grfx/handdrawn/iso_hali_by_toukka.zip|title:Iso hali|webfile:drawn_graphics/iso_hali_by_toukka.png
+author:Scottie|position:4|sceneorg:/parties/2003/assembly03/grfx/handdrawn/find_the_little_green_men_by_scottie.zip|title:Find the Little Green Men|webfile:drawn_graphics/find_the_little_green_men_by_scottie.png
+author:Electric/Extend|position:5|sceneorg:/parties/2003/assembly03/grfx/handdrawn/hobo_by_electric_extend_2.zip|title:HOBO|webfile:drawn_graphics/hobo_by_electric_extend.png
+author:Reko / Instant Ejakulation|position:6|sceneorg:/parties/2003/assembly03/grfx/handdrawn/chick_with_tac-2_by_reko___instant_ejakulation.zip|title:Chick with Tac-2|webfile:drawn_graphics/chick_with_tac_2_by_reko_instant_ejakulation.png
+author:john peeba|position:7|sceneorg:/parties/2003/assembly03/grfx/handdrawn/kengaen_sovitus_by_john_peeba.zip|title:Kengaen Sovitus|webfile:drawn_graphics/kengaen_sovitus_by_john_peeba.png
+author:Joil|position:8|sceneorg:/parties/2003/assembly03/grfx/handdrawn/genesis_by_joil_1.zip|title:Genesis|webfile:drawn_graphics/genesis_by_joil.png
+author:phase1 of Creators|position:9|sceneorg:/parties/2003/assembly03/grfx/handdrawn/shipwreck_survivor_by_phase1_of_creators.zip|title:Shipwreck survivor|webfile:drawn_graphics/shipwreck_survivor_by_phase1_of_creators.png
+author:progress / 10tons|position:10|sceneorg:/parties/2003/assembly03/grfx/handdrawn/lihapiirakka_by_progress___10tons.zip|title:lihapiirakka|webfile:drawn_graphics/lihapiirakka_by_progress_10tons.png
+author:Reload|position:11|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ocean_dreams_by_reload_1.zip|title:OCEAN DREAMS|webfile:drawn_graphics/ocean_dreams_by_reload.png
+author:Visualice|position:12|sceneorg:/parties/2003/assembly03/grfx/handdrawn/one_drink_in_one_realm_by_visualice.zip|title:One Drink in One Realm|webfile:drawn_graphics/one_drink_in_one_realm_by_visualice.png
+author:McK / Ananasmurska|position:13|sceneorg:/parties/2003/assembly03/grfx/handdrawn/eagle_by_mck___ananasmurska_.zip|title:Eagle|webfile:drawn_graphics/eagle_by_mck_ananasmurska.png
+author:Partikle|position:14|sceneorg:/parties/2003/assembly03/grfx/handdrawn/crowned_with_thorns_by_partikle.zip|title:Crowned with thorns|webfile:drawn_graphics/crowned_with_thorns_by_partikle.png
+author:paltsi|position:15|sceneorg:/parties/2003/assembly03/grfx/handdrawn/bloody_wanker__left-handed__by_paltsi_1.zip|title:Bloody wanker (left-handed)|webfile:drawn_graphics/bloody_wanker_left_handed_by_paltsi.png
+author:Oozie|position:16|sceneorg:/parties/2003/assembly03/grfx/handdrawn/happy_trails_hans_by_oozie.zip|title:Happy Trails Hans|webfile:drawn_graphics/happy_trails_hans_by_oozie.png
+author:Random|position:17|sceneorg:/parties/2003/assembly03/grfx/handdrawn/deadlock_by_random.zip|title:Deadlock|webfile:drawn_graphics/deadlock_by_random.png
+author:maxon|position:18|sceneorg:/parties/2003/assembly03/grfx/handdrawn/chicks_on_the_rocks_by_maxon.zip|title:Chicks On The Rocks|webfile:drawn_graphics/chicks_on_the_rocks_by_maxon.png
+author:Rhasa|position:19|sceneorg:/parties/2003/assembly03/grfx/handdrawn/time_to_choose_by_rhasa.zip|title:Time to Choose|webfile:drawn_graphics/time_to_choose_by_rhasa.png
+author:Flegeton|position:20|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ryppyvoide_by_flegeton.zip|title:Ryppyvoide|webfile:drawn_graphics/ryppyvoide_by_flegeton.png
+author:Aln / Fairlight|sceneorg:/parties/2003/assembly03/grfx/handdrawn/salvage_by_aln___fairlight.zip|title:Salvage|webfile:drawn_graphics/salvage_by_aln_fairlight.png
+author:Sh'ar|sceneorg:/parties/2003/assembly03/grfx/handdrawn/dance_with_me__die_with_me_by_sh_ar.zip|title:Dance with me, die with me|webfile:drawn_graphics/dance_with_me_die_with_me_by_sh_ar.png
+author:Calvin / Halo|sceneorg:/parties/2003/assembly03/grfx/handdrawn/cupida_by_calvin___halo_1.zip|title:Cupida|webfile:drawn_graphics/cupida_by_calvin_halo.png
+author:Aropupu|sceneorg:/parties/2003/assembly03/grfx/handdrawn/nauris_by_aropupu.zip|title:Nauris|webfile:drawn_graphics/nauris_by_aropupu.png
+author:Kingi|sceneorg:/parties/2003/assembly03/grfx/handdrawn/fear_of_the_dark_by_kingi.zip|title:Fear Of The Dark|webfile:drawn_graphics/fear_of_the_dark_by_kingi.png
+author:Kaikk|sceneorg:/parties/2003/assembly03/grfx/handdrawn/ukkonen_by_kaikki.zip|title:Ukkonen|webfile:drawn_graphics/ukkonen_by_kaikk.png
+author:devil|sceneorg:/parties/2003/assembly03/grfx/handdrawn/digital_dreams_by_devil.zip|title:Digital dreams|webfile:drawn_graphics/digital_dreams_by_devil.png
+author:Maketsu / Pear Factory|sceneorg:/parties/2003/assembly03/grfx/handdrawn/sotamies_by_maketsu___pear_factory.zip|title:Sotamies|webfile:drawn_graphics/sotamies_by_maketsu_pear_factory.png
+author:Seven|sceneorg:/parties/2003/assembly03/grfx/handdrawn/aleksi_diggaa_maidosta__by_seven.zip|title:Aleksi diggaa maidosta.|webfile:drawn_graphics/aleksi_diggaa_maidosta_by_seven.png
+author:Simo Nuojua|sceneorg:/parties/2003/assembly03/grfx/handdrawn/demons_in_my_coffee_by_simo_nuojua.zip|title:Demons in my coffee|webfile:drawn_graphics/demons_in_my_coffee_by_simo_nuojua.png
+author:Trilkk|sceneorg:/parties/2003/assembly03/grfx/handdrawn/final_judgement_by_trilkk.zip|title:Final Judgement|webfile:drawn_graphics/final_judgement_by_trilkk.png
+author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2003/assembly03/grfx/handdrawn/transgression_by_diamondie_foobug_numedia_cyclops.zip|title:Transgression|webfile:drawn_graphics/transgression_by_diamondie_foobug_numedia_cyclops.png
+author:->LUKE<-|sceneorg:/parties/2003/assembly03/grfx/handdrawn/oldskooler_knows_it_better_by_-_luke_-.zip|title:Oldskooler knows it better|webfile:drawn_graphics/oldskooler_knows_it_better_by_luke.png
+author:Teemu Jäppinen / CEOD|sceneorg:/parties/2003/assembly03/grfx/handdrawn/vibas_by_teemu_j_ppinen_ceod.zip|title:Vibas|webfile:drawn_graphics/vibas_by_teemu_j_ppinen_ceod.png
+author:Sakamies / Naemok|sceneorg:/parties/2003/assembly03/grfx/handdrawn/kuoleman_portit_by_sakamies___naemok.zip|title:Kuoleman portit|webfile:drawn_graphics/kuoleman_portit_by_sakamies_naemok.png
+

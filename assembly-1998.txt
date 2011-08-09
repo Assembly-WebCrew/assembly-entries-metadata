@@ -3,417 +3,425 @@
 :section C64 music
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
-title:tribute2sinatra|author:tbb|position:1|sceneorg:/parties/1998/assembly98/c64music/tribute2.zip
-title:Jamaican sixtyfour|author:Venturus & Abaddon|position:2|sceneorg:/parties/1998/assembly98/c64music/jamaican.zip
-title:needledrop|author:amj|position:3|sceneorg:/parties/1998/assembly98/c64music/needledr.zip
-title:Cappucino|author:Deetsay/Panic!|position:4|sceneorg:/parties/1998/assembly98/c64music/cappucin.zip
-title:Säröviisu|author:Jazoo^Vandals & Tempest^Damage|position:5|sceneorg:/parties/1998/assembly98/c64music/srviisu_.zip
-title:Dexter|author:JER|position:6|sceneorg:/parties/1998/assembly98/c64music/dexter_b.zip
-title:4give|author:barracuda|position:7|sceneorg:/parties/1998/assembly98/c64music/4give_by.zip
-title:jazz crackers|author:alive in hell|position:8|sceneorg:/parties/1998/assembly98/c64music/jazz_cra.zip
-title:jokela 3|author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/assembly98/c64music/jokela_3.zip
+author:tbb|position:1|sceneorg:/parties/1998/assembly98/c64music/tribute2.zip|title:tribute2sinatra
+author:Venturus & Abaddon|position:2|sceneorg:/parties/1998/assembly98/c64music/jamaican.zip|title:Jamaican sixtyfour
+author:amj|position:3|sceneorg:/parties/1998/assembly98/c64music/needledr.zip|title:needledrop
+author:Deetsay/Panic!|position:4|sceneorg:/parties/1998/assembly98/c64music/cappucin.zip|title:Cappucino
+author:Jazoo^Vandals & Tempest^Damage|position:5|sceneorg:/parties/1998/assembly98/c64music/srviisu_.zip|title:Säröviisu
+author:JER|position:6|sceneorg:/parties/1998/assembly98/c64music/dexter_b.zip|title:Dexter
+author:barracuda|position:7|sceneorg:/parties/1998/assembly98/c64music/4give_by.zip|title:4give
+author:alive in hell|position:8|sceneorg:/parties/1998/assembly98/c64music/jazz_cra.zip|title:jazz crackers
+author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/assembly98/c64music/jokela_3.zip|title:jokela 3
 
 
 :section Amiga 64k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:edit0.5|author:haujobb|position:1|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|pouet:1035
-title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|pouet:3518|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404
-title:red-eye|author:sonik clique|position:3|sceneorg:/parties/1998/assembly98/amiga64k/redeye_b.zip|pouet:7501
-title:Elektrik Baby|author:Raato^Pou^Ves / dA JoRMaS!|position:4|sceneorg:/parties/1998/assembly98/amiga64k/elektrik.zip|pouet:11975
-title:popgun|author:paragon|position:5|sceneorg:/parties/1998/assembly98/amiga64k/popgun_b.zip|pouet:51586
-title:Effu|author:Scoopex|position:6|sceneorg:/parties/1998/assembly98/amiga64k/effu_by_.zip|pouet:5865
-title:dcsintro|author:Dcs|position:7|sceneorg:/parties/1998/assembly98/amiga64k/dcsintro.zip
-title:damones assembly 98|author:damones|position:8|sceneorg:/parties/1998/assembly98/amiga64k/damones_.zip
-title:Seamless|author:Extend|position:0|sceneorg:/parties/1998/assembly98/amiga64k/seamless.zip
+author:haujobb|position:1|pouet:1035|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|title:edit0.5
+author:Scoopex|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404|pouet:3518|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|title:System Crime
+author:sonik clique|position:3|pouet:7501|sceneorg:/parties/1998/assembly98/amiga64k/redeye_b.zip|title:red-eye
+author:Raato^Pou^Ves / dA JoRMaS!|position:4|pouet:11975|sceneorg:/parties/1998/assembly98/amiga64k/elektrik.zip|title:Elektrik Baby
+author:paragon|position:5|pouet:51586|sceneorg:/parties/1998/assembly98/amiga64k/popgun_b.zip|title:popgun
+author:Scoopex|position:6|pouet:5865|sceneorg:/parties/1998/assembly98/amiga64k/effu_by_.zip|title:Effu
+author:Dcs|position:7|sceneorg:/parties/1998/assembly98/amiga64k/dcsintro.zip|title:dcsintro
+author:damones|position:8|sceneorg:/parties/1998/assembly98/amiga64k/damones_.zip|title:damones assembly 98
+author:Extend|sceneorg:/parties/1998/assembly98/amiga64k/seamless.zip|title:Seamless
 
 
 :section Java demo
 :description <p><a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine</a> is an intermediate layer to run same programs on different machines and operating systems without the need to separately code and compile them for each target platform. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Java demo competition Java virtual machine was used as a platform to run demos and it posed limitations to using the hardware capabilities of demo machines.</p>
 
-title:GODOG|author:Complex|position:1|sceneorg:/parties/1998/assembly98/javademo/godog_by.zip|pouet:888
-title:Loop.2|author:Digital Nerds|position:2|sceneorg:/parties/1998/assembly98/javademo/loop2_by.zip|pouet:1408
-title:Lava|author:Yodel|position:3|sceneorg:/parties/1998/assembly98/javademo/lava_by_.zip|pouet:3014
-title:golden kypersumppi|author:tAAt 1998|position:4|sceneorg:/parties/1998/assembly98/javademo/golden_k.zip|pouet:793
-title:IT CAN'T BIDONE|author:Ram Jam|position:5|sceneorg:/parties/1998/assembly98/javademo/it_cant_.zip
-title:Space Odyssey|author:NySTuL|position:6|sceneorg:/parties/1998/assembly98/javademo/space_od.zip
-title:Return of the Mack|author:H-Town/Silents|position:7|sceneorg:/parties/1998/assembly98/javademo/return_o.zip
-title:Lee|author:Sail|position:8|sceneorg:/parties/1998/assembly98/javademo/lee_by_s.zip
+author:Complex|position:1|pouet:888|sceneorg:/parties/1998/assembly98/javademo/godog_by.zip|title:GODOG
+author:Digital Nerds|position:2|pouet:1408|sceneorg:/parties/1998/assembly98/javademo/loop2_by.zip|title:Loop.2
+author:Yodel|position:3|pouet:3014|sceneorg:/parties/1998/assembly98/javademo/lava_by_.zip|title:Lava
+author:tAAt 1998|position:4|pouet:793|sceneorg:/parties/1998/assembly98/javademo/golden_k.zip|title:golden kypersumppi
+author:Ram Jam|position:5|sceneorg:/parties/1998/assembly98/javademo/it_cant_.zip|title:IT CAN'T BIDONE
+author:NySTuL|position:6|sceneorg:/parties/1998/assembly98/javademo/space_od.zip|title:Space Odyssey
+author:H-Town/Silents|position:7|sceneorg:/parties/1998/assembly98/javademo/return_o.zip|title:Return of the Mack
+author:Sail|position:8|sceneorg:/parties/1998/assembly98/javademo/lee_by_s.zip|title:Lee
 
 
 :section Wild demo
+:youtube-playlist 2D85454292721980
 :description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
-title:Get Real|author:Assembly NetCrew|position:1|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|sceneorg:/parties/1998/assembly98/wilddemo/get_real.zip|pouet:23298|youtube:b9pJ8RzZuss
-title:Paha posteljooni|author:Insane Bastards productions|position:2|sceneorg:/parties/1998/assembly98/wilddemo/paha_pos.zip
-title:Tuikea Torsti|author:CBU - ryhmä|position:3|sceneorg:/parties/1998/assembly98/wilddemo/tuikea_t.zip
-title:Special FX|author:Pixel/Future Crew|position:4|sceneorg:/parties/1998/assembly98/wilddemo/special_.zip
-title:Ankara Kosto 2|author:Moottori / Kosto Productions|position:5|sceneorg:/parties/1998/assembly98/wilddemo/ankara_k.zip
-title:Heavy Chase|author:Keijo Atam Salama|position:6|sceneorg:/parties/1998/assembly98/wilddemo/heavy_ch.zip
-title:Echoes Of The Dawn -video|author:Advanced Illusion Team|position:7|sceneorg:/parties/1998/assembly98/wilddemo/echoes_o.zip
-title:Nightmare|author:Incredible Team|position:8|sceneorg:/parties/1998/assembly98/wilddemo/nightmar.zip
-title:Natural|author:Crystal Bizarre|position:0|sceneorg:/parties/1998/assembly98/wilddemo/natural_.zip
-title:Tin Machine|author:Execution|position:0|sceneorg:/parties/1998/assembly98/wilddemo/tin_mach.zip
-title:Cursed Forest 3|author:Gib Crew|position:0|sceneorg:/parties/1998/assembly98/wilddemo/cursed_f.zip
-title:Plutonium98|author:Plutonium98 org.|position:0|sceneorg:/parties/1998/assembly98/wilddemo/plutoniu.zip
-title:Titanic|author:Bejrutt / Ste83|position:0|sceneorg:/parties/1998/assembly98/wilddemo/titanic_.zip
-title:Supakilla|author:Din ja Mage|position:0|sceneorg:/parties/1998/assembly98/wilddemo/supakill.zip
-title:Bleam|author:Lionhead|position:0|sceneorg:/parties/1998/assembly98/wilddemo/bleam_by.zip
-title:Real Demo|author:Hämäläiset|position:0|sceneorg:/parties/1998/assembly98/wilddemo/real_dem.zip
-title:hjk|author:jkj|position:0|sceneorg:/parties/1998/assembly98/wilddemo/hjk_by_j.zip
-title:Mister M|author:Spaketti Produkts|position:0|sceneorg:/parties/1998/assembly98/wilddemo/mister_m.zip
+author:Assembly NetCrew|position:1|pouet:23298|sceneorg:/parties/1998/assembly98/wilddemo/get_real.zip|title:Get Real|webfile:wild_demo/get_real_by_assembly_netcrew.mpeg|youtube:b9pJ8RzZuss
+author:Insane Bastards productions|position:2|sceneorg:/parties/1998/assembly98/wilddemo/paha_pos.zip|title:Paha posteljooni
+author:CBU - ryhmä|position:3|sceneorg:/parties/1998/assembly98/wilddemo/tuikea_t.zip|title:Tuikea Torsti
+author:Pixel/Future Crew|position:4|sceneorg:/parties/1998/assembly98/wilddemo/special_.zip|title:Special FX
+author:Moottori / Kosto Productions|position:5|sceneorg:/parties/1998/assembly98/wilddemo/ankara_k.zip|title:Ankara Kosto 2
+author:Keijo Atam Salama|position:6|sceneorg:/parties/1998/assembly98/wilddemo/heavy_ch.zip|title:Heavy Chase
+author:Advanced Illusion Team|position:7|sceneorg:/parties/1998/assembly98/wilddemo/echoes_o.zip|title:Echoes Of The Dawn -video
+author:Incredible Team|position:8|sceneorg:/parties/1998/assembly98/wilddemo/nightmar.zip|title:Nightmare
+author:Crystal Bizarre|sceneorg:/parties/1998/assembly98/wilddemo/natural_.zip|title:Natural
+author:Execution|sceneorg:/parties/1998/assembly98/wilddemo/tin_mach.zip|title:Tin Machine
+author:Gib Crew|sceneorg:/parties/1998/assembly98/wilddemo/cursed_f.zip|title:Cursed Forest 3
+author:Plutonium98 org.|sceneorg:/parties/1998/assembly98/wilddemo/plutoniu.zip|title:Plutonium98
+author:Bejrutt / Ste83|sceneorg:/parties/1998/assembly98/wilddemo/titanic_.zip|title:Titanic
+author:Din ja Mage|sceneorg:/parties/1998/assembly98/wilddemo/supakill.zip|title:Supakilla
+author:Lionhead|sceneorg:/parties/1998/assembly98/wilddemo/bleam_by.zip|title:Bleam
+author:Hämäläiset|sceneorg:/parties/1998/assembly98/wilddemo/real_dem.zip|title:Real Demo
+author:jkj|sceneorg:/parties/1998/assembly98/wilddemo/hjk_by_j.zip|title:hjk
+author:Spaketti Produkts|sceneorg:/parties/1998/assembly98/wilddemo/mister_m.zip|title:Mister M
 
 
 :section C64 graphics
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 graphics competition included pictures created with that computer.</p>
 
-title:Alley|author:Mike|position:1|sceneorg:/parties/1998/assembly98/c64graph/alley_by.zip
-title:kahviuni 13|author:electric|position:2|sceneorg:/parties/1998/assembly98/c64graph/kahviuni.zip
-title:Daydream believer|author:Debris|position:3|sceneorg:/parties/1998/assembly98/c64graph/daydream.zip
+author:Mike|position:1|sceneorg:/parties/1998/assembly98/c64graph/alley_by.zip|title:Alley
+author:electric|position:2|sceneorg:/parties/1998/assembly98/c64graph/kahviuni.zip|title:kahviuni 13
+author:Debris|position:3|sceneorg:/parties/1998/assembly98/c64graph/daydream.zip|title:Daydream believer
 
 
 :section PC 4k intro
+:youtube-playlist 931A518B838D6898
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1998 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Mesha|author:Picard / Rhyme|position:1|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|pouet:954|youtube:dGQEeArYDS8
-title:Mojo|author:Kone of Exxtreme Entertainment|position:2|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|pouet:6507|youtube:7Z5IhCBSuRc
-title:F.I.S.T.|author:Neckfreak / Bandwaggon|position:3|sceneorg:/parties/1998/assembly98/pc4kintr/fist_by_.zip|pouet:1106|youtube:iabXUPc7kbo
-title:Cubernoid's voyage|author:viznut/pwp.ocsa|position:4|sceneorg:/parties/1998/assembly98/pc4kintr/cubernoi.zip|pouet:3705|youtube:ydAuy854wBw
-title:Kuningas|author:save / Exxtreme Entertainment|position:5|sceneorg:/parties/1998/assembly98/pc4kintr/kuningas.zip|pouet:6508|youtube:541kzgiTyTA
-title:Sunrise|author:Digimind|position:6|sceneorg:/parties/1998/assembly98/pc4kintr/sunrise_.zip|pouet:6509
-title:titanic|author:3G Design|position:7|sceneorg:/parties/1998/assembly98/pc4kintr/titanic_.zip|pouet:9348|youtube:Ii0CtzV6ML0
-title:the box|author:ultrabright|position:8|sceneorg:/parties/1998/assembly98/pc4kintr/the_box_.zip|pouet:9350|youtube:qAFcphzbEhs
+author:Picard / Rhyme|position:1|pouet:954|sceneorg:/parties/1998/assembly98/pc4kintr/mesha_by.zip|title:Mesha|youtube:dGQEeArYDS8
+author:Kone of Exxtreme Entertainment|position:2|pouet:6507|sceneorg:/parties/1998/assembly98/pc4kintr/mojo_by_.zip|title:Mojo|youtube:7Z5IhCBSuRc
+author:Neckfreak / Bandwaggon|position:3|pouet:1106|sceneorg:/parties/1998/assembly98/pc4kintr/fist_by_.zip|title:F.I.S.T.|youtube:iabXUPc7kbo
+author:viznut/pwp.ocsa|position:4|pouet:3705|sceneorg:/parties/1998/assembly98/pc4kintr/cubernoi.zip|title:Cubernoid's voyage|youtube:ydAuy854wBw
+author:save / Exxtreme Entertainment|position:5|pouet:6508|sceneorg:/parties/1998/assembly98/pc4kintr/kuningas.zip|title:Kuningas|youtube:541kzgiTyTA
+author:Digimind|position:6|pouet:6509|sceneorg:/parties/1998/assembly98/pc4kintr/sunrise_.zip|title:Sunrise
+author:3G Design|position:7|pouet:9348|sceneorg:/parties/1998/assembly98/pc4kintr/titanic_.zip|title:titanic|youtube:Ii0CtzV6ML0
+author:ultrabright|position:8|pouet:9350|sceneorg:/parties/1998/assembly98/pc4kintr/the_box_.zip|title:the box|youtube:qAFcphzbEhs
 
 
 :section C64 demo
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
-title:Speedway 2|author:Panic|position:1|pouet:1692
-title:Perse|author:geFiLUS|position:2|pouet:24248
-title:kumivanilja|author:yleisradio|position:3|pouet:24247
+author:Panic|position:1|pouet:1692|title:Speedway 2
+author:geFiLUS|position:2|pouet:24248|title:Perse
+author:yleisradio|position:3|pouet:24247|title:kumivanilja
 
 
 :section Raytrace graphics
 :description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
-title:hms victory|author:frank|position:1|webfile:raytrace_graphics/hms_victory_by_frank.png|sceneorg:/parties/1998/assembly98/raytrace/hms_vict.zip
-title:Raytraced car|author:Maxwell|position:2|webfile:raytrace_graphics/raytraced_car_by_maxwell.png|sceneorg:/parties/1998/assembly98/raytrace/raytrace.zip
-title:Dualism|author:Marvel / Future Crew|position:3|webfile:raytrace_graphics/dualism_by_marvel_future_crew.jpeg|sceneorg:/parties/1998/assembly98/raytrace/dualism_.zip
-title:fieras|author:voomie|position:4|webfile:raytrace_graphics/fieras_by_voomie.jpeg|sceneorg:/parties/1998/assembly98/raytrace/fieras_b.zip
-title:Perinteisen Miehen Kohtalo|author:nullgod|position:5|webfile:raytrace_graphics/perinteisen_miehen_kohtalo_by_nullgod.jpeg|sceneorg:/parties/1998/assembly98/raytrace/perintei.zip
-title:Bugs & Books|author:Scythe|position:6|sceneorg:/parties/1998/assembly98/raytrace/bugs__bo.zip
-title:Between battles|author:Tudor/TBL|position:7|webfile:raytrace_graphics/between_battles_by_tudor_tbl.jpeg|sceneorg:/parties/1998/assembly98/raytrace/between_.zip
-title:Chrysallis|author:mindseye/rebels|position:8|webfile:raytrace_graphics/chrysallis_by_mindseye_rebels.jpeg|sceneorg:/parties/1998/assembly98/raytrace/chrysall.zip
-title:Kristus|author:Ivy|position:9|webfile:raytrace_graphics/kristus_by_ivy.png|sceneorg:/parties/1998/assembly98/raytrace/kristus_.zip
-title:Armageddon|author:Jone/Moottori|position:10|webfile:raytrace_graphics/armageddon_by_jone_moottori.jpeg|sceneorg:/parties/1998/assembly98/raytrace/armagedd.zip
-title:Any key|author:Tapsah|position:11|webfile:raytrace_graphics/any_key_by_tapsah.jpeg|sceneorg:/parties/1998/assembly98/raytrace/any_key_.zip
-title:Evening|author:tynkkenekker|position:12|webfile:raytrace_graphics/evening_by_tynkkenekker.png|sceneorg:/parties/1998/assembly98/raytrace/evening_.zip
-title:Indeep|author:Jcole/Milk^Vista|position:13|webfile:raytrace_graphics/indeep_by_jcole_milk_vista.png|sceneorg:/parties/1998/assembly98/raytrace/indeep_b.zip
-title:The Room|author:Ops|position:0|webfile:raytrace_graphics/the_room_by_ops.jpeg|sceneorg:/parties/1998/assembly98/raytrace/the_room.zip
-title:unknown|author:Zulu|position:0|sceneorg:/parties/1998/assembly98/raytrace/_by_zulu.zip
-title:Sofa|author:Shine|position:0|webfile:raytrace_graphics/sofa_by_shine.png|sceneorg:/parties/1998/assembly98/raytrace/sofa_by_.zip
-title:Emma The ChuChuTrain|author:Duffy|position:0|webfile:raytrace_graphics/emma_the_chuchutrain_by_duffy.jpeg|sceneorg:/parties/1998/assembly98/raytrace/emma_the.zip
-title:Atlantis|author:Neutron / Unique PC|position:0|webfile:raytrace_graphics/atlantis_by_neutron_unique_pc.png|sceneorg:/parties/1998/assembly98/raytrace/atlantis.zip
-title:Martian Canyon|author:jarno|position:0|sceneorg:/parties/1998/assembly98/raytrace/martian_.zip
-title:Pool Corner|author:Xz17|position:0|webfile:raytrace_graphics/pool_corner_by_xz17.png|sceneorg:/parties/1998/assembly98/raytrace/pool_cor.zip
-title:Vypers|author:Hoax|position:0|webfile:raytrace_graphics/vypers_by_hoax.png|sceneorg:/parties/1998/assembly98/raytrace/vypers_b.zip
-title:Visions|author:Devotion|position:0|webfile:raytrace_graphics/visions_by_devotion.jpeg|sceneorg:/parties/1998/assembly98/raytrace/visions_.zip
-title:Banana|author:fos|position:0|webfile:raytrace_graphics/banana_by_fos.png|sceneorg:/parties/1998/assembly98/raytrace/banana_b.zip
-title:Beyond killa|author:Mage The MAn|position:0|webfile:raytrace_graphics/beyond_killa_by_mage_the_man.png|sceneorg:/parties/1998/assembly98/raytrace/beyond_k.zip
-title:Alien|author:RedHed|position:0|webfile:raytrace_graphics/alien_by_redhed.png|sceneorg:/parties/1998/assembly98/raytrace/alien_by.zip
-title:Lauantai-illan huumeet|author:astro / a-men|position:0|webfile:raytrace_graphics/lauantai_illan_huumeet_by_astro_a_men.png|sceneorg:/parties/1998/assembly98/raytrace/lauantai.zip
-title:the Mölli ja the hirviö.|author:nich.|position:0|webfile:raytrace_graphics/the_mlli_ja_the_hirvi_by_nich.jpeg|sceneorg:/parties/1998/assembly98/raytrace/the_mlli.zip
-title:dual eclipse|author:recc|position:0|sceneorg:/parties/1998/assembly98/raytrace/dual_ecl.zip
-title:The Lagun|author:Garo|position:0|sceneorg:/parties/1998/assembly98/raytrace/the_lagu.zip
-title:Wet Wet Wet|author:yksilö/tAAt|position:0|webfile:raytrace_graphics/wet_wet_wet_by_yksil_taat.png|sceneorg:/parties/1998/assembly98/raytrace/wet_wet_.zip
-title:Spikey|author:Nitric|position:0|webfile:raytrace_graphics/spikey_by_nitric.jpeg|sceneorg:/parties/1998/assembly98/raytrace/spikey_b.zip
-title:Goa vibez|author:scottie|position:0|webfile:raytrace_graphics/goa_vibez_by_scottie.jpeg|sceneorg:/parties/1998/assembly98/raytrace/goa_vibe.zip
-title:Isle|author:tonic|position:0|webfile:raytrace_graphics/isle_by_tonic.png|sceneorg:/parties/1998/assembly98/raytrace/isle_by_.zip
-title:FutureSlug|author:Sparrow|position:0|sceneorg:/parties/1998/assembly98/raytrace/futuresl.zip
-title:tuomion tossu|author:Tatü|position:0|webfile:raytrace_graphics/tuomion_tossu_by_tat.jpeg|sceneorg:/parties/1998/assembly98/raytrace/tuomion_.zip
-title:Jonui, Windkeeper|author:HaH|position:0|sceneorg:/parties/1998/assembly98/raytrace/jonui_wi.zip
+author:frank|position:1|sceneorg:/parties/1998/assembly98/raytrace/hms_vict.zip|title:hms victory|webfile:raytrace_graphics/hms_victory_by_frank.png
+author:Maxwell|position:2|sceneorg:/parties/1998/assembly98/raytrace/raytrace.zip|title:Raytraced car|webfile:raytrace_graphics/raytraced_car_by_maxwell.png
+author:Marvel / Future Crew|position:3|sceneorg:/parties/1998/assembly98/raytrace/dualism_.zip|title:Dualism|webfile:raytrace_graphics/dualism_by_marvel_future_crew.jpeg
+author:voomie|position:4|sceneorg:/parties/1998/assembly98/raytrace/fieras_b.zip|title:fieras|webfile:raytrace_graphics/fieras_by_voomie.jpeg
+author:nullgod|position:5|sceneorg:/parties/1998/assembly98/raytrace/perintei.zip|title:Perinteisen Miehen Kohtalo|webfile:raytrace_graphics/perinteisen_miehen_kohtalo_by_nullgod.jpeg
+author:Scythe|position:6|sceneorg:/parties/1998/assembly98/raytrace/bugs__bo.zip|title:Bugs & Books
+author:Tudor/TBL|position:7|sceneorg:/parties/1998/assembly98/raytrace/between_.zip|title:Between battles|webfile:raytrace_graphics/between_battles_by_tudor_tbl.jpeg
+author:mindseye/rebels|position:8|sceneorg:/parties/1998/assembly98/raytrace/chrysall.zip|title:Chrysallis|webfile:raytrace_graphics/chrysallis_by_mindseye_rebels.jpeg
+author:Ivy|position:9|sceneorg:/parties/1998/assembly98/raytrace/kristus_.zip|title:Kristus|webfile:raytrace_graphics/kristus_by_ivy.png
+author:Jone/Moottori|position:10|sceneorg:/parties/1998/assembly98/raytrace/armagedd.zip|title:Armageddon|webfile:raytrace_graphics/armageddon_by_jone_moottori.jpeg
+author:Tapsah|position:11|sceneorg:/parties/1998/assembly98/raytrace/any_key_.zip|title:Any key|webfile:raytrace_graphics/any_key_by_tapsah.jpeg
+author:tynkkenekker|position:12|sceneorg:/parties/1998/assembly98/raytrace/evening_.zip|title:Evening|webfile:raytrace_graphics/evening_by_tynkkenekker.png
+author:Jcole/Milk^Vista|position:13|sceneorg:/parties/1998/assembly98/raytrace/indeep_b.zip|title:Indeep|webfile:raytrace_graphics/indeep_by_jcole_milk_vista.png
+author:Ops|sceneorg:/parties/1998/assembly98/raytrace/the_room.zip|title:The Room|webfile:raytrace_graphics/the_room_by_ops.jpeg
+author:Zulu|sceneorg:/parties/1998/assembly98/raytrace/_by_zulu.zip|title:unknown
+author:Shine|sceneorg:/parties/1998/assembly98/raytrace/sofa_by_.zip|title:Sofa|webfile:raytrace_graphics/sofa_by_shine.png
+author:Duffy|sceneorg:/parties/1998/assembly98/raytrace/emma_the.zip|title:Emma The ChuChuTrain|webfile:raytrace_graphics/emma_the_chuchutrain_by_duffy.jpeg
+author:Neutron / Unique PC|sceneorg:/parties/1998/assembly98/raytrace/atlantis.zip|title:Atlantis|webfile:raytrace_graphics/atlantis_by_neutron_unique_pc.png
+author:jarno|sceneorg:/parties/1998/assembly98/raytrace/martian_.zip|title:Martian Canyon
+author:Xz17|sceneorg:/parties/1998/assembly98/raytrace/pool_cor.zip|title:Pool Corner|webfile:raytrace_graphics/pool_corner_by_xz17.png
+author:Hoax|sceneorg:/parties/1998/assembly98/raytrace/vypers_b.zip|title:Vypers|webfile:raytrace_graphics/vypers_by_hoax.png
+author:Devotion|sceneorg:/parties/1998/assembly98/raytrace/visions_.zip|title:Visions|webfile:raytrace_graphics/visions_by_devotion.jpeg
+author:fos|sceneorg:/parties/1998/assembly98/raytrace/banana_b.zip|title:Banana|webfile:raytrace_graphics/banana_by_fos.png
+author:Mage The MAn|sceneorg:/parties/1998/assembly98/raytrace/beyond_k.zip|title:Beyond killa|webfile:raytrace_graphics/beyond_killa_by_mage_the_man.png
+author:RedHed|sceneorg:/parties/1998/assembly98/raytrace/alien_by.zip|title:Alien|webfile:raytrace_graphics/alien_by_redhed.png
+author:astro / a-men|sceneorg:/parties/1998/assembly98/raytrace/lauantai.zip|title:Lauantai-illan huumeet|webfile:raytrace_graphics/lauantai_illan_huumeet_by_astro_a_men.png
+author:nich.|sceneorg:/parties/1998/assembly98/raytrace/the_mlli.zip|title:the Mölli ja the hirviö.|webfile:raytrace_graphics/the_mlli_ja_the_hirvi_by_nich.jpeg
+author:recc|sceneorg:/parties/1998/assembly98/raytrace/dual_ecl.zip|title:dual eclipse
+author:Garo|sceneorg:/parties/1998/assembly98/raytrace/the_lagu.zip|title:The Lagun
+author:yksilö/tAAt|sceneorg:/parties/1998/assembly98/raytrace/wet_wet_.zip|title:Wet Wet Wet|webfile:raytrace_graphics/wet_wet_wet_by_yksil_taat.png
+author:Nitric|sceneorg:/parties/1998/assembly98/raytrace/spikey_b.zip|title:Spikey|webfile:raytrace_graphics/spikey_by_nitric.jpeg
+author:scottie|sceneorg:/parties/1998/assembly98/raytrace/goa_vibe.zip|title:Goa vibez|webfile:raytrace_graphics/goa_vibez_by_scottie.jpeg
+author:tonic|sceneorg:/parties/1998/assembly98/raytrace/isle_by_.zip|title:Isle|webfile:raytrace_graphics/isle_by_tonic.png
+author:Sparrow|sceneorg:/parties/1998/assembly98/raytrace/futuresl.zip|title:FutureSlug
+author:Tatü|sceneorg:/parties/1998/assembly98/raytrace/tuomion_.zip|title:tuomion tossu|webfile:raytrace_graphics/tuomion_tossu_by_tat.jpeg
+author:HaH|sceneorg:/parties/1998/assembly98/raytrace/jonui_wi.zip|title:Jonui, Windkeeper
 
 
 :section Windows demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1998 PCs.</p>
 
-title:Bleam (win version)|author:Lionhead|position:1|sceneorg:/parties/1998/assembly98/windowsd/bleam_wi.zip|pouet:2555
-title:This is how we party|author:m.A.d Software|position:2|sceneorg:/parties/1998/assembly98/windowsd/this_is_.zip|pouet:8057
-title:Demonic|author:Refinition & Dimercis|position:3|sceneorg:/parties/1998/assembly98/windowsd/demonic_.zip|pouet:25490
-title:ANONYMOUS|author:Cheat The Machine|position:4|sceneorg:/parties/1998/assembly98/windowsd/anonymou.zip|pouet:25239
+author:Lionhead|position:1|pouet:2555|sceneorg:/parties/1998/assembly98/windowsd/bleam_wi.zip|title:Bleam (win version)
+author:m.A.d Software|position:2|pouet:8057|sceneorg:/parties/1998/assembly98/windowsd/this_is_.zip|title:This is how we party
+author:Refinition & Dimercis|position:3|pouet:25490|sceneorg:/parties/1998/assembly98/windowsd/demonic_.zip|title:Demonic
+author:Cheat The Machine|position:4|pouet:25239|sceneorg:/parties/1998/assembly98/windowsd/anonymou.zip|title:ANONYMOUS
 
 
 :section Amiga demo
+:youtube-playlist 0BA1633374D5AEEE
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:RELIC|author:Nerve Axis|position:1|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|pouet:194|dtv:id_file=2441&id_prod=8796&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/194.jpg&width=512&height=404
-title:dELTA|author:Embassy|position:2|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|pouet:3736
-title:Synthesis|author:Network|position:3|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|pouet:3517|youtube:KP33rtR51xM
-title:Aromecolor|author:Cirion|position:4|sceneorg:/parties/1998/assembly98/amigadem/aromecol.zip|pouet:4711
-title:Omnirush|author:Mystic|position:5|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|pouet:3042|dtv:id_file=3849&id_prod=7572&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3042.jpg&width=512&height=404
-title:Boogienights|author:sPEDES|position:6|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|pouet:12670
-title:High Sport Grammar|author:T.C.W|position:0|sceneorg:/parties/1998/assembly98/amigadem/high_spo.zip
+author:Nerve Axis|dtv:id_file=2441&id_prod=8796&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/194.jpg&width=512&height=404|position:1|pouet:194|sceneorg:/parties/1998/assembly98/amigadem/relic_by.zip|title:RELIC
+author:Embassy|position:2|pouet:3736|sceneorg:/parties/1998/assembly98/amigadem/delta_by.zip|title:dELTA
+author:Network|position:3|pouet:3517|sceneorg:/parties/1998/assembly98/amigadem/synthesi.zip|sceneorgvideo:/parties/1998/assembly98/amigadem/ntw-synthesis.mp4|title:Synthesis|youtube:KP33rtR51xM
+author:Cirion|position:4|pouet:4711|sceneorg:/parties/1998/assembly98/amigadem/aromecol.zip|title:Aromecolor
+author:Mystic|dtv:id_file=3849&id_prod=7572&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3042.jpg&width=512&height=404|position:5|pouet:3042|sceneorg:/parties/1998/assembly98/amigadem/omnirush.zip|title:Omnirush
+author:sPEDES|position:6|pouet:12670|sceneorg:/parties/1998/assembly98/amigadem/boogieni.zip|title:Boogienights
+author:T.C.W|sceneorg:/parties/1998/assembly98/amigadem/high_spo.zip|title:High Sport Grammar
 
 
 :section Animation
+:youtube-playlist 6242611D386A6459
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
-title:Barry the Orange|author:Dream One|position:1|webfile:animation/barry_the_orange_by_dream_one.avi|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|pouet:6445|dtv:id_file=3360&id_prod=1215&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/6445.jpg&width=512&height=404|youtube:mKfLEs_27UU
-title:Misu & Kisu|author:Illuusiovisio|position:2|webfile:animation/misu_kisu_by_illuusiovisio.avi|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|pouet:28283|youtube:CLOqywkx-Sw
-title:MARS|author:jarno|position:3|webfile:animation/mars_by_jarno.avi|sceneorg:/parties/1998/assembly98/animatio/mars_by_.zip|pouet:28284|youtube:07Pkdi-YohQ
-title:Spice|author:Major & Treebeard|position:4|webfile:animation/spice_by_major_treebeard.avi|sceneorg:/parties/1998/assembly98/animatio/spice_by.zip|pouet:28285|youtube:A8YAO3p6cG8
-title:Kvak|author:Fragment|position:5|webfile:animation/kvak_by_fragment.avi|sceneorg:/parties/1998/assembly98/animatio/kvak_by_.zip|pouet:7732|youtube:M8dFxjlJHTc
-title:Pirates ahoy|author:Frank/Orange|position:6|webfile:animation/pirates_ahoy_by_frank_orange.avi|sceneorg:/parties/1998/assembly98/animatio/pirates_.zip|pouet:28286|youtube:6BJLPnkuhdc
-title:Soil|author:Saffron / TBL|position:7|webfile:animation/soil_by_saffron_tbl.avi|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|pouet:3022|dtv:id_file=3362&id_prod=9608&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3022.jpg&width=512&height=404|youtube:yl-DDzo60Go
-title:DARN|author:Vincent Vega|position:8|webfile:animation/darn_by_vincent_vega.avi|sceneorg:/parties/1998/assembly98/animatio/darn_by_.zip|pouet:28287|youtube:vOnvtH2sWSM
-title:Lauantai-illan huumeet|author:astro / a-men|position:9|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|sceneorg:/parties/1998/assembly98/animatio/lauantai.zip|pouet:28288|youtube:o9yHCs7bVSs
-title:Tappelia|author:Mage The Man|position:10|webfile:animation/tappelia_by_mage_the_man.avi|sceneorg:/parties/1998/assembly98/animatio/tappelia.zip|pouet:28289|youtube:dgbAskIguog
-title:WannaRat|author:Tridea|position:11|webfile:animation/wannarat_by_tridea.avi|sceneorg:/parties/1998/assembly98/animatio/wannarat.zip|pouet:28290|youtube:RHslsmESW48
-title:Invasion on Antigone 7|author:marzu|position:12|webfile:animation/invasion_on_antigone_7_by_marzu.avi|sceneorg:/parties/1998/assembly98/animatio/invasion.zip|pouet:28291|youtube:_ecMa4pgWTg
-title:Dustoff|author:Earwax|position:13|webfile:animation/dustoff_by_earwax.avi|sceneorg:/parties/1998/assembly98/animatio/dustoff_.zip|pouet:28293|youtube:8Qe4G4bVr4g
-title:1024 kbyte|author:Hype / Zoro|position:14|webfile:animation/1024_kbyte_by_hype_zoro.avi|sceneorg:/parties/1998/assembly98/animatio/1024_kby.zip|pouet:28294|youtube:GTomiJTUvFM
-title:Foggyday|author:Raynet|position:15|webfile:animation/foggyday_by_raynet.avi|sceneorg:/parties/1998/assembly98/animatio/foggyday.zip|pouet:28295|youtube:X2fBmEfkC4Y
+author:Dream One|dtv:id_file=3360&id_prod=1215&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/6445.jpg&width=512&height=404|position:1|pouet:6445|sceneorg:/parties/1998/assembly98/animatio/barry_th.zip|title:Barry the Orange|webfile:animation/barry_the_orange_by_dream_one.avi|youtube:mKfLEs_27UU
+author:Illuusiovisio|position:2|pouet:28283|sceneorg:/parties/1998/assembly98/animatio/misu__ki.zip|title:Misu & Kisu|webfile:animation/misu_kisu_by_illuusiovisio.avi|youtube:CLOqywkx-Sw
+author:jarno|position:3|pouet:28284|sceneorg:/parties/1998/assembly98/animatio/mars_by_.zip|title:MARS|webfile:animation/mars_by_jarno.avi|youtube:07Pkdi-YohQ
+author:Major & Treebeard|position:4|pouet:28285|sceneorg:/parties/1998/assembly98/animatio/spice_by.zip|title:Spice|webfile:animation/spice_by_major_treebeard.avi|youtube:A8YAO3p6cG8
+author:Fragment|position:5|pouet:7732|sceneorg:/parties/1998/assembly98/animatio/kvak_by_.zip|title:Kvak|webfile:animation/kvak_by_fragment.avi|youtube:M8dFxjlJHTc
+author:Frank/Orange|position:6|pouet:28286|sceneorg:/parties/1998/assembly98/animatio/pirates_.zip|title:Pirates ahoy|webfile:animation/pirates_ahoy_by_frank_orange.avi|youtube:6BJLPnkuhdc
+author:Saffron / TBL|dtv:id_file=3362&id_prod=9608&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3022.jpg&width=512&height=404|position:7|pouet:3022|sceneorg:/parties/1998/assembly98/animatio/soil_by_.zip|title:Soil|webfile:animation/soil_by_saffron_tbl.avi|youtube:yl-DDzo60Go
+author:Vincent Vega|position:8|pouet:28287|sceneorg:/parties/1998/assembly98/animatio/darn_by_.zip|title:DARN|webfile:animation/darn_by_vincent_vega.avi|youtube:vOnvtH2sWSM
+author:astro / a-men|position:9|pouet:28288|sceneorg:/parties/1998/assembly98/animatio/lauantai.zip|title:Lauantai-illan huumeet|webfile:animation/lauantai_illan_huumeet_by_astro_a_men.avi|youtube:o9yHCs7bVSs
+author:Mage The Man|position:10|pouet:28289|sceneorg:/parties/1998/assembly98/animatio/tappelia.zip|title:Tappelia|webfile:animation/tappelia_by_mage_the_man.avi|youtube:dgbAskIguog
+author:Tridea|position:11|pouet:28290|sceneorg:/parties/1998/assembly98/animatio/wannarat.zip|title:WannaRat|webfile:animation/wannarat_by_tridea.avi|youtube:RHslsmESW48
+author:marzu|position:12|pouet:28291|sceneorg:/parties/1998/assembly98/animatio/invasion.zip|title:Invasion on Antigone 7|webfile:animation/invasion_on_antigone_7_by_marzu.avi|youtube:_ecMa4pgWTg
+author:Earwax|position:13|pouet:28293|sceneorg:/parties/1998/assembly98/animatio/dustoff_.zip|title:Dustoff|webfile:animation/dustoff_by_earwax.avi|youtube:8Qe4G4bVr4g
+author:Hype / Zoro|position:14|pouet:28294|sceneorg:/parties/1998/assembly98/animatio/1024_kby.zip|title:1024 kbyte|webfile:animation/1024_kbyte_by_hype_zoro.avi|youtube:GTomiJTUvFM
+author:Raynet|position:15|pouet:28295|sceneorg:/parties/1998/assembly98/animatio/foggyday.zip|title:Foggyday|webfile:animation/foggyday_by_raynet.avi|youtube:X2fBmEfkC4Y
 
 
 :section Music
+:youtube-playlist B5A2D3E3C8173FF0
 
-title:Schotsman in a skirt|author:!cube/Trauma|position:1|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|sceneorg:/parties/1998/assembly98/music/schotsma.zip|youtube:iqpYFH3eBqA
-title:System 51|author:Quasian|position:2|webfile:music/system_51_by_quasian.mp3|sceneorg:/parties/1998/assembly98/music/system_5.zip|youtube:g-oYGM7FcL0
-title:The mystical power of Hizbollah|author:Gspot|position:3|webfile:music/the_mystical_power_of_hizbollah_by_gspot.mp3|sceneorg:/parties/1998/assembly98/music/the_myst.zip|youtube:5clQ8FuU57I
-title:Invasion Of Mutant Killer Bunnies!|author:KiWi|position:4|webfile:music/invasion_of_mutant_killer_bunnies_by_kiwi.mp3|sceneorg:/parties/1998/assembly98/music/invasion.zip|youtube:0C6m_BOivHo
-title:xeq-complex|author:ceniq/milk|position:5|webfile:music/xeq_complex_by_ceniq_milk.mp3|sceneorg:/parties/1998/assembly98/music/xeqcompl.zip|youtube:msyn5IBjORo
-title:sway|author:sojagga|position:6|webfile:music/sway_by_sojagga.mp3|sceneorg:/parties/1998/assembly98/music/sway_by_.zip|youtube:mVvP3ehLlm8
-title:Kaikal pop|author:Muffler|position:7|webfile:music/kaikal_pop_by_muffler.mp3|sceneorg:/parties/1998/assembly98/music/kaikal_p.zip|youtube:ZQ9MQtU7EaI
-title:jazzy vibesz|author:Prob.|position:8|webfile:music/jazzy_vibesz_by_prob.mp3|sceneorg:/parties/1998/assembly98/music/jazzy_vi.zip|youtube:p3eDURtirE0
-title:Unexpected surprise|author:Prism|position:9|webfile:music/unexpected_surprise_by_prism.mp3|sceneorg:/parties/1998/assembly98/music/unexpect.zip|youtube:470JUrjyJXQ
-title:cherry jam|author:reed|position:10|webfile:music/cherry_jam_by_reed.mp3|sceneorg:/parties/1998/assembly98/music/cherry_j.zip|youtube:U5eLWuTFbUI
-title:My mushrooms|author:Deck|position:11|webfile:music/my_mushrooms_by_deck.mp3|sceneorg:/parties/1998/assembly98/music/my_mushr.zip|youtube:WJAYTwzPg1s
-title:Kalkutta|author:Firestorm / Morel Arts|position:12|webfile:music/kalkutta_by_firestorm_morel_arts.mp3|sceneorg:/parties/1998/assembly98/music/kalkutta.zip|youtube:UtE5k4Eu7YM
-title:Hello kontrol|author:Mirko|position:13|webfile:music/hello_kontrol_by_mirko.mp3|sceneorg:/parties/1998/assembly98/music/hello_ko.zip|youtube:HCBsLC15ewo
-title:Funky Animal|author:Goldcrest|position:14|webfile:music/funky_animal_by_goldcrest.mp3|sceneorg:/parties/1998/assembly98/music/funky_an.zip|youtube:J5AbqaVUUQI
-title:Delfoi Blue|author:ikhyon|position:15|webfile:music/delfoi_blue_by_ikhyon.mp3|sceneorg:/parties/1998/assembly98/music/delfoi_b.zip|youtube:dunMQtsvMBc
-title:Moods (Opus I)|author:DiXan|position:0|sceneorg:/parties/1998/assembly98/music/moods_op.zip
-title:All your secrets|author:Leach|position:0|webfile:music/all_your_secrets_by_leach.mp3|sceneorg:/parties/1998/assembly98/music/all_your.zip|youtube:rQcImC0cMcU
-title:Moonflower|author:Zage|position:0|webfile:music/moonflower_by_zage.mp3|sceneorg:/parties/1998/assembly98/music/moonflow.zip|youtube:BsD1yd0MfXI
-title:psychedelia|author:treme|position:0|webfile:music/psychedelia_by_treme.mp3|sceneorg:/parties/1998/assembly98/music/psychede.zip|youtube:krc_x7Wp9X8
-title:Goodbye Past|author:L-Wizard|position:0|webfile:music/goodbye_past_by_l_wizard.mp3|sceneorg:/parties/1998/assembly98/music/goodbye_.zip|youtube:OKB6uyyoo3Y
-title:Take Your Vet Off|author:Turkka|position:0|webfile:music/take_your_vet_off_by_turkka.mp3|sceneorg:/parties/1998/assembly98/music/take_you.zip|youtube:NqGw4Pf5I7Q
-title:kioma nivada|author:Jcole/Milk^Vista|position:0|webfile:music/kioma_nivada_by_jcole_milk_vista.mp3|sceneorg:/parties/1998/assembly98/music/kioma_ni.zip|youtube:Ia7xWN-F49E
-title:juuri näin.|author:Sape / Cheddar|position:0|webfile:music/juuri_nin_by_sape_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/juuri_ni.zip|youtube:Yy_K8CtAYd8
-title:little adventure|author:loonie|position:0|webfile:music/little_adventure_by_loonie.mp3|sceneorg:/parties/1998/assembly98/music/little_a.zip|youtube:XZZw2KWoC_A
-title:Secrets|author:Impulse|position:0|webfile:music/secrets_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/secrets_.zip|youtube:jozIVVyl6xw
-title:kvaak|author:jobe|position:0|webfile:music/kvaak_by_jobe.mp3|sceneorg:/parties/1998/assembly98/music/kvaak_by.zip|youtube:uH4nWF_lvOg
-title:Control us|author:Frodo/Cheddar|position:0|webfile:music/control_us_by_frodo_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/control_.zip|youtube:sO3D8WzslSc
-title:the Formula of Mulatius|author:Phaser|position:0|webfile:music/the_formula_of_mulatius_by_phaser.mp3|sceneorg:/parties/1998/assembly98/music/the_form.zip|youtube:X57_chHiNdo
-title:Fight for Freedom|author:Impulse|position:0|webfile:music/fight_for_freedom_by_impulse.mp3|sceneorg:/parties/1998/assembly98/music/fight_fo.zip|youtube:YRSWC6Qap1U
-title:Pakkeli|author:ARto|position:0|webfile:music/pakkeli_by_arto.mp3|sceneorg:/parties/1998/assembly98/music/pakkeli_.zip|youtube:r4GdA-eGJqQ
-title:Music|author:Shake|position:0|webfile:music/music_by_shake.mp3|sceneorg:/parties/1998/assembly98/music/music_by.zip|youtube:oDrDEJTxym8
-title:Pool of Kurnutus|author:Renegadez|position:0|webfile:music/pool_of_kurnutus_by_renegadez.mp3|sceneorg:/parties/1998/assembly98/music/pool_of_.zip|youtube:ZMZ0YC4Rg8M
-title:dominican republic|author:strala|position:0|webfile:music/dominican_republic_by_strala.mp3|sceneorg:/parties/1998/assembly98/music/dominica.zip|youtube:YVf695iBOyQ
-title:Paska HardCore Biisi|author:Harry|position:0|webfile:music/paska_hardcore_biisi_by_harry.mp3|sceneorg:/parties/1998/assembly98/music/paska_ha.zip|youtube:r2ImdqClGpo
-title:Ahaa..|author:Fenris D / Proton Group|position:0|sceneorg:/parties/1998/assembly98/music/ahaa_by_.zip
-title:panache|author:spud|position:0|webfile:music/panache_by_spud.mp3|sceneorg:/parties/1998/assembly98/music/panache_.zip|youtube:jibpngiIP7Y
-title:Heavenly|author:Sprinkle / Aalto|position:0|webfile:music/heavenly_by_sprinkle_aalto.mp3|sceneorg:/parties/1998/assembly98/music/heavenly.zip|youtube:3utzJwEOSc4
-title:Hungary|author:Midnight|position:0|webfile:music/hungary_by_midnight.mp3|sceneorg:/parties/1998/assembly98/music/hungary_.zip|youtube:1TnCkAFqI1U
-title:HARD ASS|author:nOOKIE|position:0|webfile:music/hard_ass_by_nookie.mp3|sceneorg:/parties/1998/assembly98/music/hard_ass.zip|youtube:uFw2OQRA0CA
-title:Far Away|author:Rage|position:0|webfile:music/far_away_by_rage.mp3|sceneorg:/parties/1998/assembly98/music/far_away.zip|youtube:C5b5PnpLgcs
-title:noname1|author:discreet|position:0|sceneorg:/parties/1998/assembly98/music/noname1_.zip
-title:Fool for a Day|author:Crux|position:0|webfile:music/fool_for_a_day_by_crux.mp3|sceneorg:/parties/1998/assembly98/music/fool_for.zip|youtube:4WKoAufKExY
-title:noname2|author:discreet|position:0|webfile:music/noname2_by_discreet.mp3|sceneorg:/parties/1998/assembly98/music/noname2_.zip|youtube:qaF6VRY3HCQ
-title:Luminescent Green|author:Scinet|position:0|sceneorg:/parties/1998/assembly98/music/luminesc.zip
-title:paint drops|author:Nitro|position:0|webfile:music/paint_drops_by_nitro.mp3|sceneorg:/parties/1998/assembly98/music/paint_dr.zip|youtube:2Qg3Dwc8Vkc
-title:Strings|author:Zovirax|position:0|webfile:music/strings_by_zovirax.mp3|sceneorg:/parties/1998/assembly98/music/strings_.zip|youtube:l3sE0OtvMLE
-title:Kedon kukkaset|author:Tremor|position:0|webfile:music/kedon_kukkaset_by_tremor.mp3|sceneorg:/parties/1998/assembly98/music/kedon_ku.zip|youtube:lJ1ExQCBR1w
-title:Syltty kontrol|author:Jama|position:0|webfile:music/syltty_kontrol_by_jama.mp3|sceneorg:/parties/1998/assembly98/music/syltty_k.zip|youtube:itBCM2E2CjM
-title:nemo kontrol|author:kimble|position:0|webfile:music/nemo_kontrol_by_kimble.mp3|sceneorg:/parties/1998/assembly98/music/nemo_kon.zip|youtube:OEPdKnWc1fI
-title:Boom!|author:Artsi/Lux|position:0|webfile:music/boom_by_artsi_lux.mp3|sceneorg:/parties/1998/assembly98/music/boom_by_.zip|youtube:yMx-2B1YBlg
-title:Crazee World|author:MtC|position:0|webfile:music/crazee_world_by_mtc.mp3|sceneorg:/parties/1998/assembly98/music/crazee_w.zip|youtube:2xNNsGHQig0
-title:Come and get me|author:kuu|position:0|webfile:music/come_and_get_me_by_kuu.mp3|sceneorg:/parties/1998/assembly98/music/come_and.zip|youtube:cqNXzvW01Io
-title:U R Krushed.|author:Repe|position:0|webfile:music/u_r_krushed_by_repe.mp3|sceneorg:/parties/1998/assembly98/music/u_r_krus.zip|youtube:gO58ezG7fDc
-title:Bream|author:Limbo Duck|position:0|webfile:music/bream_by_limbo_duck.mp3|sceneorg:/parties/1998/assembly98/music/bream_by.zip|youtube:vIY1aJFwTSc
-title:Digital|author:Substance|position:0|webfile:music/digital_by_substance.mp3|sceneorg:/parties/1998/assembly98/music/digital_.zip|youtube:ZsrI5bSPNr0
-title:Kuthno el Salvam|author:tonic|position:0|webfile:music/kuthno_el_salvam_by_tonic.mp3|sceneorg:/parties/1998/assembly98/music/kuthno_e.zip|youtube:sljTBdzdzXQ
-title:Arcane Denial|author:Manfex|position:0|webfile:music/arcane_denial_by_manfex.mp3|sceneorg:/parties/1998/assembly98/music/arcane_d.zip|youtube:aKXfqM4PT-s
-title:attending eart|author:xhale|position:0|webfile:music/attending_eart_by_xhale.mp3|sceneorg:/parties/1998/assembly98/music/attendin.zip|youtube:fVdUNPi82m0
-title:The tears, the Asm'98|author:Vable|position:0|webfile:music/the_tears_the_asm_98_by_vable.mp3|sceneorg:/parties/1998/assembly98/music/the_tear.zip|youtube:bMAqy8oMsx0
-title:Haucee koko lunta talossa|author:JM Jamaica|position:0|sceneorg:/parties/1998/assembly98/music/haucee_k.zip
-title:urlg|author:Aapo|position:0|webfile:music/urlg_by_aapo.mp3|sceneorg:/parties/1998/assembly98/music/urlg_by_.zip|youtube:YGfHVvRn6Q4
-title:mass control|author:yli.|position:0|webfile:music/mass_control_by_yli.mp3|sceneorg:/parties/1998/assembly98/music/mass_con.zip|youtube:Fa-m6i-m9No
-title:I Wish...|author:BlueShadow|position:0|webfile:music/i_wish_by_blueshadow.mp3|sceneorg:/parties/1998/assembly98/music/i_wish_b.zip|youtube:8L1ELMipRsg
-title:Wild West Express|author:BasB|position:0|webfile:music/wild_west_express_by_basb.mp3|sceneorg:/parties/1998/assembly98/music/wild_wes.zip|youtube:Z45yoBdRG7U
-title:Surreal|author:shS|position:0|webfile:music/surreal_by_shs.mp3|sceneorg:/parties/1998/assembly98/music/surreal_.zip|youtube:eEyQFZu73jA
-title:cogten|author:Kyllönen|position:0|webfile:music/cogten_by_kyllnen.mp3|sceneorg:/parties/1998/assembly98/music/cogten_b.zip|youtube:xGIwjw4OI-Y
-title:Harmageddon|author:lawb|position:0|webfile:music/harmageddon_by_lawb.mp3|sceneorg:/parties/1998/assembly98/music/harmaged.zip|youtube:xB2lIeTZ62Q
-title:Brain Pain|author:kalma|position:0|webfile:music/brain_pain_by_kalma.mp3|sceneorg:/parties/1998/assembly98/music/brain_pa.zip|youtube:GHZ8lHNMAe8
-title:When Aliens Land...|author:MusicMan|position:0|webfile:music/when_aliens_land_by_musicman.mp3|sceneorg:/parties/1998/assembly98/music/when_ali.zip|youtube:-to9DLEqldg
-title:No Way Out|author:jPx|position:0|webfile:music/no_way_out_by_jpx.mp3|sceneorg:/parties/1998/assembly98/music/no_way_o.zip|youtube:Qc-2bDtmT2g
-title:Ill|author:Rondo|position:0|webfile:music/ill_by_rondo.mp3|sceneorg:/parties/1998/assembly98/music/ill_by_r.zip|youtube:E3jScQ-OvtA
-title:Mr.X and the Groovedrug|author:Vastator (Mr.V) and Silver (Mr.S)|position:0|webfile:music/mr_x_and_the_groovedrug_by_vastator_mr_v_and_silver_mr_s.mp3|sceneorg:/parties/1998/assembly98/music/mrx_and_.zip|youtube:RFzhO7gUucY
-title:Dominotar|author:Debris|position:0|webfile:music/dominotar_by_debris.mp3|sceneorg:/parties/1998/assembly98/music/dominota.zip|youtube:pjv77riJYjc
-title:Badsector in my mind|author:JER|position:0|webfile:music/badsector_in_my_mind_by_jer.mp3|sceneorg:/parties/1998/assembly98/music/badsecto.zip|youtube:M27h2zXDXGY
-title:Falling Asleep|author:white|position:0|webfile:music/falling_asleep_by_white.mp3|sceneorg:/parties/1998/assembly98/music/falling_.zip|youtube:P9UmbrZgnsE
-title:Overdose|author:Milcom|position:0|webfile:music/overdose_by_milcom.mp3|sceneorg:/parties/1998/assembly98/music/overdose.zip|youtube:vmW6v1ZXZWc
-title:finno-ugrian beat|author:adam|position:0|webfile:music/finno_ugrian_beat_by_adam.mp3|sceneorg:/parties/1998/assembly98/music/finnougr.zip|youtube:JEqgeVKjLTc
-title:ned weep|author:crazer|position:0|webfile:music/ned_weep_by_crazer.mp3|sceneorg:/parties/1998/assembly98/music/ned_weep.zip|youtube:fClqh0SrVVQ
-title:ortto.xm|author:inu|position:0|webfile:music/ortto_xm_by_inu.mp3|sceneorg:/parties/1998/assembly98/music/orttoxm_.zip|youtube:j7vQZfTKfKI
-title:Fuck me smoothly|author:hyPno|position:0|webfile:music/fuck_me_smoothly_by_hypno.mp3|sceneorg:/parties/1998/assembly98/music/fuck_me_.zip|youtube:aX-TexJCdCg
-title:Ebeneezer|author:Coralli|position:0|webfile:music/ebeneezer_by_coralli.mp3|sceneorg:/parties/1998/assembly98/music/ebeneeze.zip|youtube:-nMt2lz3Dgo
-title:Unelmia (dremas)|author:dna|position:0|webfile:music/unelmia_dremas_by_dna.mp3|sceneorg:/parties/1998/assembly98/music/unelmia_.zip|youtube:9tTWwGAvsBA
-title:Echoes Of The Dawn|author:Shamus|position:0|webfile:music/echoes_of_the_dawn_by_shamus.mp3|sceneorg:/parties/1998/assembly98/music/echoes_o.zip|youtube:BX5xssukCM4
-title:Invernia (Winterland)|author:Antik|position:0|webfile:music/invernia_winterland_by_antik.mp3|sceneorg:/parties/1998/assembly98/music/invernia.zip|youtube:lka_X-ndMfc
-title:Autumnal Winds|author:spook|position:0|webfile:music/autumnal_winds_by_spook.mp3|sceneorg:/parties/1998/assembly98/music/autumnal.zip|youtube:Nr6QkG8Ials
-title:Cryogenic Chamber|author:Humdrum|position:0|webfile:music/cryogenic_chamber_by_humdrum.mp3|sceneorg:/parties/1998/assembly98/music/cryogeni.zip|youtube:3yOWeL8usWs
-title:Samba Brazilia|author:Solar Crisis|position:0|webfile:music/samba_brazilia_by_solar_crisis.mp3|sceneorg:/parties/1998/assembly98/music/samba_br.zip|youtube:OALkHjoQzhI
-title:Lifestyle|author:WT|position:0|webfile:music/lifestyle_by_wt.mp3|sceneorg:/parties/1998/assembly98/music/lifestyl.zip|youtube:6cMHy9BAWcI
-title:Egoterroristi|author:Linearic/Vandals|position:0|webfile:music/egoterroristi_by_linearic_vandals.mp3|sceneorg:/parties/1998/assembly98/music/egoterro.zip|youtube:zJ3IAbQnFS4
-title:Poutapilvi|author:Juho/AP|position:0|webfile:music/poutapilvi_by_juho_ap.mp3|sceneorg:/parties/1998/assembly98/music/poutapil.zip|youtube:B4U8StREELM
-title:15Feet away|author:Dany|position:0|sceneorg:/parties/1998/assembly98/music/15feet_a.zip
-title:like loiske|author:mig27|position:0|webfile:music/like_loiske_by_mig27.mp3|sceneorg:/parties/1998/assembly98/music/like_loi.zip|youtube:Q9LQZqd8S7s
-title:Inside Defeat|author:Extrian|position:0|webfile:music/inside_defeat_by_extrian.mp3|sceneorg:/parties/1998/assembly98/music/inside_d.zip|youtube:NO6apReEDLc
-title:Helena Takalo-project|author:Shade|position:0|webfile:music/helena_takalo_project_by_shade.mp3|sceneorg:/parties/1998/assembly98/music/helena_t.zip|youtube:k-LwMmRaYJ4
-title:1 1/2 birds|author:teemuki|position:0|webfile:music/1_1_2_birds_by_teemuki.mp3|sceneorg:/parties/1998/assembly98/music/1_12_bir.zip|youtube:6gKnvgOUk94
-title:i was on my way to kitchen, as i tripped on my dog (everyday life)|author:codehead/suolahappo.|position:0|webfile:music/i_was_on_my_way_to_kitchen_as_i_tripped_on_my_dog_everyday_life_by_codehead_s.mp3|sceneorg:/parties/1998/assembly98/music/i_was_on.zip|youtube:6c-XeEvpeMc
-title:Bahama Beach|author:Tompa do Pompa|position:0|webfile:music/bahama_beach_by_tompa_do_pompa.mp3|sceneorg:/parties/1998/assembly98/music/bahama_b.zip|youtube:0sJTFLMpw7M
-title:Disindegrate|author:Tripod|position:0|webfile:music/disindegrate_by_tripod.mp3|sceneorg:/parties/1998/assembly98/music/disindeg.zip|youtube:NJNRVWajS8k
-title:hypnotic liquid|author:x.fader|position:0|webfile:music/hypnotic_liquid_by_x_fader.mp3|sceneorg:/parties/1998/assembly98/music/hypnotic.zip|youtube:LPEKLhRIHJ4
-title:Anyway i want|author:The hooligan|position:0|webfile:music/anyway_i_want_by_the_hooligan.mp3|sceneorg:/parties/1998/assembly98/music/anyway_i.zip|youtube:6BKVFQhHkEA
-title:Vimonen Valssi|author:Makkonen|position:0|webfile:music/vimonen_valssi_by_makkonen.mp3|sceneorg:/parties/1998/assembly98/music/vimonen_.zip|youtube:lyje_u9pRkw
-title:Crystal Tears|author:Psychedelic|position:0|webfile:music/crystal_tears_by_psychedelic.mp3|sceneorg:/parties/1998/assembly98/music/crystal_.zip|youtube:2LbKMYX2nzA
-title:Polka dots and moonbeams|author:md|position:0|webfile:music/polka_dots_and_moonbeams_by_md.mp3|sceneorg:/parties/1998/assembly98/music/polka_do.zip|youtube:r8J5wEJI-tM
-title:Oddis Slajos|author:Cryptic|position:0|sceneorg:/parties/1998/assembly98/music/oddis_sl.zip
-title:Knock 'em Cold|author:Olli Tuhkanen|position:0|webfile:music/knock_em_cold_by_olli_tuhkanen.mp3|sceneorg:/parties/1998/assembly98/music/knock_em.zip|youtube:6V8MNZj09fI
-title:Mortal Sheep|author:lammatti|position:0|webfile:music/mortal_sheep_by_lammatti.mp3|sceneorg:/parties/1998/assembly98/music/mortal_s.zip|youtube:Kskp6WaHw8M
-title:Experience|author:Elwood|position:0|webfile:music/experience_by_elwood.mp3|sceneorg:/parties/1998/assembly98/music/experien.zip|youtube:PytGpBPnOvM
-title:The Green Water Fall|author:Emppu|position:0|webfile:music/the_green_water_fall_by_emppu.mp3|sceneorg:/parties/1998/assembly98/music/the_gree.zip|youtube:Uch2aMq8ejM
-title:Singapore|author:Kameli|position:0|webfile:music/singapore_by_kameli.mp3|sceneorg:/parties/1998/assembly98/music/singapor.zip|youtube:FT7p_l-XhQQ
-title:Elves in the night|author:DoC & Yoni|position:0|webfile:music/elves_in_the_night_by_doc_yoni.mp3|sceneorg:/parties/1998/assembly98/music/elves_in.zip|youtube:E0PTameYCr8
-title:BrakeBite|author:Maxx|position:0|webfile:music/brakebite_by_maxx.mp3|sceneorg:/parties/1998/assembly98/music/brakebit.zip|youtube:8qyehpQaISQ
-title:Voodoo Squirrel|author:Calf|position:0|webfile:music/voodoo_squirrel_by_calf.mp3|sceneorg:/parties/1998/assembly98/music/voodoo_s.zip|youtube:aHHNoe2t-f4
-title:Summer Song|author:spiikki|position:0|webfile:music/summer_song_by_spiikki.mp3|sceneorg:/parties/1998/assembly98/music/summer_s.zip|youtube:ujyPMcSx6qE
-title:Scotchman in a skirt|author:Cube|position:0|webfile:music/scotchman_in_a_skirt_by_cube.mp3|sceneorg:/parties/1998/assembly98/music/scotchma.zip|youtube:2oBXDYOU5v4
-title:Escape|author:Domino|position:0|webfile:music/escape_by_domino.mp3|sceneorg:/parties/1998/assembly98/music/escape_b.zip|youtube:fkXpCUXWkJs
-title:Karkkikepponen|author:Lark|position:0|webfile:music/karkkikepponen_by_lark.mp3|sceneorg:/parties/1998/assembly98/music/karkkike.zip|youtube:kGvX2fCTG2A
-title:flatline|author:endotone|position:0|webfile:music/flatline_by_endotone.mp3|sceneorg:/parties/1998/assembly98/music/flatline.zip|youtube:lIIWpwzgESs
-title:Poppanova|author:Spiderman|position:0|webfile:music/poppanova_by_spiderman.mp3|sceneorg:/parties/1998/assembly98/music/poppanov.zip|youtube:N3wyGasFveo
-title:Cryptonized|author:Yoshid|position:0|webfile:music/cryptonized_by_yoshid.mp3|sceneorg:/parties/1998/assembly98/music/cryptoni.zip|youtube:H1ikXJMzc3s
-title:Alpha|author:Chris/Styrox|position:0|webfile:music/alpha_by_chris_styrox.mp3|sceneorg:/parties/1998/assembly98/music/alpha_by.zip|youtube:EGBonjbMIis
-title:Transdimensional|author:Icarus|position:0|webfile:music/transdimensional_by_icarus.mp3|sceneorg:/parties/1998/assembly98/music/transdim.zip|youtube:vlq9Pix03P4
-title:Bubble|author:Foze/Cheddar|position:0|webfile:music/bubble_by_foze_cheddar.mp3|sceneorg:/parties/1998/assembly98/music/bubble_b.zip|youtube:krA5RInE_lM
-title:Humppa1|author:Mordicus|position:0|webfile:music/humppa1_by_mordicus.mp3|sceneorg:/parties/1998/assembly98/music/humppa1_.zip|youtube:AwZJswphNgo
-title:anaali|author:Shivan|position:0|webfile:music/anaali_by_shivan.mp3|sceneorg:/parties/1998/assembly98/music/anaali_b.zip|youtube:LhRYiEbcRR4
-title:Where are you|author:Apps|position:0|webfile:music/where_are_you_by_apps.mp3|sceneorg:/parties/1998/assembly98/music/where_ar.zip|youtube:879djZ372vA
-title:Sea Of Hues|author:Liam the lemming|position:0|webfile:music/sea_of_hues_by_liam_the_lemming.mp3|sceneorg:/parties/1998/assembly98/music/sea_of_h.zip|youtube:uoNi5wD9ip8
-title:one|author:Obeliq|position:0|webfile:music/one_by_obeliq.mp3|sceneorg:/parties/1998/assembly98/music/one_by_o.zip|youtube:A6Ss95bLdN4
-title:Tides of Time|author:Mystical/purple+sol/trauma|position:0|webfile:music/tides_of_time_by_mystical_purple_sol_trauma.mp3|sceneorg:/parties/1998/assembly98/music/tides_of.zip|youtube:naKnG7VkoUY
-title:silent scream|author:Garfield|position:0|webfile:music/silent_scream_by_garfield.mp3|sceneorg:/parties/1998/assembly98/music/silent_s.zip|youtube:OVxH8cu5JDc
-title:Funkkipunkki|author:Petri Järvisalo|position:0|webfile:music/funkkipunkki_by_petri_jrvisalo.mp3|sceneorg:/parties/1998/assembly98/music/funkkipu.zip|youtube:7yQOmq1Rm1c
-title:wake your mind|author:whk|position:0|webfile:music/wake_your_mind_by_whk.mp3|sceneorg:/parties/1998/assembly98/music/wake_you.zip|youtube:Pu-ofxmbfjE
-title:Skyline|author:ruff|position:0|webfile:music/skyline_by_ruff.mp3|sceneorg:/parties/1998/assembly98/music/skyline_.zip|youtube:xizEq-4IYzE
-title:Machine Drome|author:Willow|position:0|webfile:music/machine_drome_by_willow.mp3|sceneorg:/parties/1998/assembly98/music/machine_.zip|youtube:-C9KD9IEH-M
-title:Dagha|author:Elohim|position:0|webfile:music/dagha_by_elohim.mp3|sceneorg:/parties/1998/assembly98/music/dagha_by.zip|youtube:0YuMKbLehLo
-title:Empty Planet|author:LUK|position:0|webfile:music/empty_planet_by_luk.mp3|sceneorg:/parties/1998/assembly98/music/empty_pl.zip|youtube:1A-R-ZygNHk
-title:The Beginning|author:Nobody/WildLight|position:0|webfile:music/the_beginning_by_nobody_wildlight.mp3|sceneorg:/parties/1998/assembly98/music/the_begi.zip|youtube:lIuwymB0LqU
-title:Garden|author:Ren|position:0|webfile:music/garden_by_ren.mp3|sceneorg:/parties/1998/assembly98/music/garden_b.zip|youtube:uUY3HR2q3uA
-title:Voteholic|author:Juke|position:0|webfile:music/voteholic_by_juke.mp3|sceneorg:/parties/1998/assembly98/music/voteholi.zip|youtube:kS6Ic1VRQOY
-title:Roland|author:Organic / Bad Karma|position:0|webfile:music/roland_by_organic_bad_karma.mp3|sceneorg:/parties/1998/assembly98/music/roland_b.zip|youtube:oGS8t6zBCXo
-title:Bat's Groove|author:Drizzt|position:0|webfile:music/bat_s_groove_by_drizzt.mp3|sceneorg:/parties/1998/assembly98/music/bats_gro.zip|youtube:dofctp-NRgM
-title:Some|author:JanneZ|position:0|webfile:music/some_by_jannez.mp3|sceneorg:/parties/1998/assembly98/music/some_by_.zip|youtube:aKqAri9kImY
-title:yellow tea|author:orbiter|position:0|webfile:music/yellow_tea_by_orbiter.mp3|sceneorg:/parties/1998/assembly98/music/yellow_t.zip|youtube:iITDlAUJtw8
-title:Fucked up|author:Nagash|position:0|webfile:music/fucked_up_by_nagash.mp3|sceneorg:/parties/1998/assembly98/music/fucked_u.zip|youtube:SeQWlvgNoxo
-title:Julkunen|author:Putkimies|position:0|sceneorg:/parties/1998/assembly98/music/julkunen.zip
-title:summer v2|author:marq|position:0|webfile:music/summer_v2_by_marq.mp3|sceneorg:/parties/1998/assembly98/music/summer_v.zip|youtube:Iv1EOV0Ic4Y
-title:Asm98: Space Odyssey|author:Ore-Gano|position:0|sceneorg:/parties/1998/assembly98/music/asm98_sp.zip
-title:aerobicworkout'79|author:aurini|position:0|webfile:music/aerobicworkout_79_by_aurini.mp3|sceneorg:/parties/1998/assembly98/music/aerobicw.zip|youtube:8dmesOPVP_I
-title:Behind the sun|author:xlr8r|position:0|webfile:music/behind_the_sun_by_xlr8r.mp3|sceneorg:/parties/1998/assembly98/music/behind_t.zip|youtube:LpA2ZmdwfW4
-title:The Dream|author:Razoredge|position:0|webfile:music/the_dream_by_razoredge.mp3|sceneorg:/parties/1998/assembly98/music/the_drea.zip|youtube:MvQ9hG_rPkg
+author:!cube/Trauma|position:1|sceneorg:/parties/1998/assembly98/music/schotsma.zip|title:Schotsman in a skirt|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|youtube:iqpYFH3eBqA
+author:Quasian|position:2|sceneorg:/parties/1998/assembly98/music/system_5.zip|title:System 51|webfile:music/system_51_by_quasian.mp3|youtube:g-oYGM7FcL0
+author:Gspot|position:3|sceneorg:/parties/1998/assembly98/music/the_myst.zip|title:The mystical power of Hizbollah|webfile:music/the_mystical_power_of_hizbollah_by_gspot.mp3|youtube:5clQ8FuU57I
+author:KiWi|position:4|sceneorg:/parties/1998/assembly98/music/invasion.zip|title:Invasion Of Mutant Killer Bunnies!|webfile:music/invasion_of_mutant_killer_bunnies_by_kiwi.mp3|youtube:0C6m_BOivHo
+author:ceniq/milk|position:5|sceneorg:/parties/1998/assembly98/music/xeqcompl.zip|title:xeq-complex|webfile:music/xeq_complex_by_ceniq_milk.mp3|youtube:msyn5IBjORo
+author:sojagga|position:6|sceneorg:/parties/1998/assembly98/music/sway_by_.zip|title:sway|webfile:music/sway_by_sojagga.mp3|youtube:mVvP3ehLlm8
+author:Muffler|position:7|sceneorg:/parties/1998/assembly98/music/kaikal_p.zip|title:Kaikal pop|webfile:music/kaikal_pop_by_muffler.mp3|youtube:ZQ9MQtU7EaI
+author:Prob.|position:8|sceneorg:/parties/1998/assembly98/music/jazzy_vi.zip|title:jazzy vibesz|webfile:music/jazzy_vibesz_by_prob.mp3|youtube:p3eDURtirE0
+author:Prism|position:9|sceneorg:/parties/1998/assembly98/music/unexpect.zip|title:Unexpected surprise|webfile:music/unexpected_surprise_by_prism.mp3|youtube:470JUrjyJXQ
+author:reed|position:10|sceneorg:/parties/1998/assembly98/music/cherry_j.zip|title:cherry jam|webfile:music/cherry_jam_by_reed.mp3|youtube:U5eLWuTFbUI
+author:Deck|position:11|sceneorg:/parties/1998/assembly98/music/my_mushr.zip|title:My mushrooms|webfile:music/my_mushrooms_by_deck.mp3|youtube:WJAYTwzPg1s
+author:Firestorm / Morel Arts|position:12|sceneorg:/parties/1998/assembly98/music/kalkutta.zip|title:Kalkutta|webfile:music/kalkutta_by_firestorm_morel_arts.mp3|youtube:UtE5k4Eu7YM
+author:Mirko|position:13|sceneorg:/parties/1998/assembly98/music/hello_ko.zip|title:Hello kontrol|webfile:music/hello_kontrol_by_mirko.mp3|youtube:HCBsLC15ewo
+author:Goldcrest|position:14|sceneorg:/parties/1998/assembly98/music/funky_an.zip|title:Funky Animal|webfile:music/funky_animal_by_goldcrest.mp3|youtube:J5AbqaVUUQI
+author:ikhyon|position:15|sceneorg:/parties/1998/assembly98/music/delfoi_b.zip|title:Delfoi Blue|webfile:music/delfoi_blue_by_ikhyon.mp3|youtube:dunMQtsvMBc
+author:DiXan|sceneorg:/parties/1998/assembly98/music/moods_op.zip|title:Moods (Opus I)
+author:Leach|sceneorg:/parties/1998/assembly98/music/all_your.zip|title:All your secrets|webfile:music/all_your_secrets_by_leach.mp3|youtube:rQcImC0cMcU
+author:Zage|sceneorg:/parties/1998/assembly98/music/moonflow.zip|title:Moonflower|webfile:music/moonflower_by_zage.mp3|youtube:BsD1yd0MfXI
+author:treme|sceneorg:/parties/1998/assembly98/music/psychede.zip|title:psychedelia|webfile:music/psychedelia_by_treme.mp3|youtube:krc_x7Wp9X8
+author:L-Wizard|sceneorg:/parties/1998/assembly98/music/goodbye_.zip|title:Goodbye Past|webfile:music/goodbye_past_by_l_wizard.mp3|youtube:OKB6uyyoo3Y
+author:Turkka|sceneorg:/parties/1998/assembly98/music/take_you.zip|title:Take Your Vet Off|webfile:music/take_your_vet_off_by_turkka.mp3|youtube:NqGw4Pf5I7Q
+author:Jcole/Milk^Vista|sceneorg:/parties/1998/assembly98/music/kioma_ni.zip|title:kioma nivada|webfile:music/kioma_nivada_by_jcole_milk_vista.mp3|youtube:Ia7xWN-F49E
+author:Sape / Cheddar|sceneorg:/parties/1998/assembly98/music/juuri_ni.zip|title:juuri näin.|webfile:music/juuri_nin_by_sape_cheddar.mp3|youtube:Yy_K8CtAYd8
+author:loonie|sceneorg:/parties/1998/assembly98/music/little_a.zip|title:little adventure|webfile:music/little_adventure_by_loonie.mp3|youtube:XZZw2KWoC_A
+author:Impulse|sceneorg:/parties/1998/assembly98/music/secrets_.zip|title:Secrets|webfile:music/secrets_by_impulse.mp3|youtube:jozIVVyl6xw
+author:jobe|sceneorg:/parties/1998/assembly98/music/kvaak_by.zip|title:kvaak|webfile:music/kvaak_by_jobe.mp3|youtube:uH4nWF_lvOg
+author:Frodo/Cheddar|sceneorg:/parties/1998/assembly98/music/control_.zip|title:Control us|webfile:music/control_us_by_frodo_cheddar.mp3|youtube:sO3D8WzslSc
+author:Phaser|sceneorg:/parties/1998/assembly98/music/the_form.zip|title:the Formula of Mulatius|webfile:music/the_formula_of_mulatius_by_phaser.mp3|youtube:X57_chHiNdo
+author:Impulse|sceneorg:/parties/1998/assembly98/music/fight_fo.zip|title:Fight for Freedom|webfile:music/fight_for_freedom_by_impulse.mp3|youtube:YRSWC6Qap1U
+author:ARto|sceneorg:/parties/1998/assembly98/music/pakkeli_.zip|title:Pakkeli|webfile:music/pakkeli_by_arto.mp3|youtube:r4GdA-eGJqQ
+author:Shake|sceneorg:/parties/1998/assembly98/music/music_by.zip|title:Music|webfile:music/music_by_shake.mp3|youtube:oDrDEJTxym8
+author:Renegadez|sceneorg:/parties/1998/assembly98/music/pool_of_.zip|title:Pool of Kurnutus|webfile:music/pool_of_kurnutus_by_renegadez.mp3|youtube:ZMZ0YC4Rg8M
+author:strala|sceneorg:/parties/1998/assembly98/music/dominica.zip|title:dominican republic|webfile:music/dominican_republic_by_strala.mp3|youtube:YVf695iBOyQ
+author:Harry|sceneorg:/parties/1998/assembly98/music/paska_ha.zip|title:Paska HardCore Biisi|webfile:music/paska_hardcore_biisi_by_harry.mp3|youtube:r2ImdqClGpo
+author:Fenris D / Proton Group|sceneorg:/parties/1998/assembly98/music/ahaa_by_.zip|title:Ahaa..
+author:spud|sceneorg:/parties/1998/assembly98/music/panache_.zip|title:panache|webfile:music/panache_by_spud.mp3|youtube:jibpngiIP7Y
+author:Sprinkle / Aalto|sceneorg:/parties/1998/assembly98/music/heavenly.zip|title:Heavenly|webfile:music/heavenly_by_sprinkle_aalto.mp3|youtube:3utzJwEOSc4
+author:Midnight|sceneorg:/parties/1998/assembly98/music/hungary_.zip|title:Hungary|webfile:music/hungary_by_midnight.mp3|youtube:1TnCkAFqI1U
+author:nOOKIE|sceneorg:/parties/1998/assembly98/music/hard_ass.zip|title:HARD ASS|webfile:music/hard_ass_by_nookie.mp3|youtube:uFw2OQRA0CA
+author:Rage|sceneorg:/parties/1998/assembly98/music/far_away.zip|title:Far Away|webfile:music/far_away_by_rage.mp3|youtube:C5b5PnpLgcs
+author:discreet|sceneorg:/parties/1998/assembly98/music/noname1_.zip|title:noname1
+author:Crux|sceneorg:/parties/1998/assembly98/music/fool_for.zip|title:Fool for a Day|webfile:music/fool_for_a_day_by_crux.mp3|youtube:4WKoAufKExY
+author:discreet|sceneorg:/parties/1998/assembly98/music/noname2_.zip|title:noname2|webfile:music/noname2_by_discreet.mp3|youtube:qaF6VRY3HCQ
+author:Scinet|sceneorg:/parties/1998/assembly98/music/luminesc.zip|title:Luminescent Green
+author:Nitro|sceneorg:/parties/1998/assembly98/music/paint_dr.zip|title:paint drops|webfile:music/paint_drops_by_nitro.mp3|youtube:2Qg3Dwc8Vkc
+author:Zovirax|sceneorg:/parties/1998/assembly98/music/strings_.zip|title:Strings|webfile:music/strings_by_zovirax.mp3|youtube:l3sE0OtvMLE
+author:Tremor|sceneorg:/parties/1998/assembly98/music/kedon_ku.zip|title:Kedon kukkaset|webfile:music/kedon_kukkaset_by_tremor.mp3|youtube:lJ1ExQCBR1w
+author:Jama|sceneorg:/parties/1998/assembly98/music/syltty_k.zip|title:Syltty kontrol|webfile:music/syltty_kontrol_by_jama.mp3|youtube:itBCM2E2CjM
+author:kimble|sceneorg:/parties/1998/assembly98/music/nemo_kon.zip|title:nemo kontrol|webfile:music/nemo_kontrol_by_kimble.mp3|youtube:OEPdKnWc1fI
+author:Artsi/Lux|sceneorg:/parties/1998/assembly98/music/boom_by_.zip|title:Boom!|webfile:music/boom_by_artsi_lux.mp3|youtube:yMx-2B1YBlg
+author:MtC|sceneorg:/parties/1998/assembly98/music/crazee_w.zip|title:Crazee World|webfile:music/crazee_world_by_mtc.mp3|youtube:2xNNsGHQig0
+author:kuu|sceneorg:/parties/1998/assembly98/music/come_and.zip|title:Come and get me|webfile:music/come_and_get_me_by_kuu.mp3|youtube:cqNXzvW01Io
+author:Repe|sceneorg:/parties/1998/assembly98/music/u_r_krus.zip|title:U R Krushed.|webfile:music/u_r_krushed_by_repe.mp3|youtube:gO58ezG7fDc
+author:Limbo Duck|sceneorg:/parties/1998/assembly98/music/bream_by.zip|title:Bream|webfile:music/bream_by_limbo_duck.mp3|youtube:vIY1aJFwTSc
+author:Substance|sceneorg:/parties/1998/assembly98/music/digital_.zip|title:Digital|webfile:music/digital_by_substance.mp3|youtube:ZsrI5bSPNr0
+author:tonic|sceneorg:/parties/1998/assembly98/music/kuthno_e.zip|title:Kuthno el Salvam|webfile:music/kuthno_el_salvam_by_tonic.mp3|youtube:sljTBdzdzXQ
+author:Manfex|sceneorg:/parties/1998/assembly98/music/arcane_d.zip|title:Arcane Denial|webfile:music/arcane_denial_by_manfex.mp3|youtube:aKXfqM4PT-s
+author:xhale|sceneorg:/parties/1998/assembly98/music/attendin.zip|title:attending eart|webfile:music/attending_eart_by_xhale.mp3|youtube:fVdUNPi82m0
+author:Vable|sceneorg:/parties/1998/assembly98/music/the_tear.zip|title:The tears, the Asm'98|webfile:music/the_tears_the_asm_98_by_vable.mp3|youtube:bMAqy8oMsx0
+author:JM Jamaica|sceneorg:/parties/1998/assembly98/music/haucee_k.zip|title:Haucee koko lunta talossa
+author:Aapo|sceneorg:/parties/1998/assembly98/music/urlg_by_.zip|title:urlg|webfile:music/urlg_by_aapo.mp3|youtube:YGfHVvRn6Q4
+author:yli.|sceneorg:/parties/1998/assembly98/music/mass_con.zip|title:mass control|webfile:music/mass_control_by_yli.mp3|youtube:Fa-m6i-m9No
+author:BlueShadow|sceneorg:/parties/1998/assembly98/music/i_wish_b.zip|title:I Wish...|webfile:music/i_wish_by_blueshadow.mp3|youtube:8L1ELMipRsg
+author:BasB|sceneorg:/parties/1998/assembly98/music/wild_wes.zip|title:Wild West Express|webfile:music/wild_west_express_by_basb.mp3|youtube:Z45yoBdRG7U
+author:shS|sceneorg:/parties/1998/assembly98/music/surreal_.zip|title:Surreal|webfile:music/surreal_by_shs.mp3|youtube:eEyQFZu73jA
+author:Kyllönen|sceneorg:/parties/1998/assembly98/music/cogten_b.zip|title:cogten|webfile:music/cogten_by_kyllnen.mp3|youtube:xGIwjw4OI-Y
+author:lawb|sceneorg:/parties/1998/assembly98/music/harmaged.zip|title:Harmageddon|webfile:music/harmageddon_by_lawb.mp3|youtube:xB2lIeTZ62Q
+author:kalma|sceneorg:/parties/1998/assembly98/music/brain_pa.zip|title:Brain Pain|webfile:music/brain_pain_by_kalma.mp3|youtube:GHZ8lHNMAe8
+author:MusicMan|sceneorg:/parties/1998/assembly98/music/when_ali.zip|title:When Aliens Land...|webfile:music/when_aliens_land_by_musicman.mp3|youtube:-to9DLEqldg
+author:jPx|sceneorg:/parties/1998/assembly98/music/no_way_o.zip|title:No Way Out|webfile:music/no_way_out_by_jpx.mp3|youtube:Qc-2bDtmT2g
+author:Rondo|sceneorg:/parties/1998/assembly98/music/ill_by_r.zip|title:Ill|webfile:music/ill_by_rondo.mp3|youtube:E3jScQ-OvtA
+author:Vastator (Mr.V) and Silver (Mr.S)|sceneorg:/parties/1998/assembly98/music/mrx_and_.zip|title:Mr.X and the Groovedrug|webfile:music/mr_x_and_the_groovedrug_by_vastator_mr_v_and_silver_mr_s.mp3|youtube:RFzhO7gUucY
+author:Debris|sceneorg:/parties/1998/assembly98/music/dominota.zip|title:Dominotar|webfile:music/dominotar_by_debris.mp3|youtube:pjv77riJYjc
+author:JER|sceneorg:/parties/1998/assembly98/music/badsecto.zip|title:Badsector in my mind|webfile:music/badsector_in_my_mind_by_jer.mp3|youtube:M27h2zXDXGY
+author:white|sceneorg:/parties/1998/assembly98/music/falling_.zip|title:Falling Asleep|webfile:music/falling_asleep_by_white.mp3|youtube:P9UmbrZgnsE
+author:Milcom|sceneorg:/parties/1998/assembly98/music/overdose.zip|title:Overdose|webfile:music/overdose_by_milcom.mp3|youtube:vmW6v1ZXZWc
+author:adam|sceneorg:/parties/1998/assembly98/music/finnougr.zip|title:finno-ugrian beat|webfile:music/finno_ugrian_beat_by_adam.mp3|youtube:JEqgeVKjLTc
+author:crazer|sceneorg:/parties/1998/assembly98/music/ned_weep.zip|title:ned weep|webfile:music/ned_weep_by_crazer.mp3|youtube:fClqh0SrVVQ
+author:inu|sceneorg:/parties/1998/assembly98/music/orttoxm_.zip|title:ortto.xm|webfile:music/ortto_xm_by_inu.mp3|youtube:j7vQZfTKfKI
+author:hyPno|sceneorg:/parties/1998/assembly98/music/fuck_me_.zip|title:Fuck me smoothly|webfile:music/fuck_me_smoothly_by_hypno.mp3|youtube:aX-TexJCdCg
+author:Coralli|sceneorg:/parties/1998/assembly98/music/ebeneeze.zip|title:Ebeneezer|webfile:music/ebeneezer_by_coralli.mp3|youtube:-nMt2lz3Dgo
+author:dna|sceneorg:/parties/1998/assembly98/music/unelmia_.zip|title:Unelmia (dremas)|webfile:music/unelmia_dremas_by_dna.mp3|youtube:9tTWwGAvsBA
+author:Shamus|sceneorg:/parties/1998/assembly98/music/echoes_o.zip|title:Echoes Of The Dawn|webfile:music/echoes_of_the_dawn_by_shamus.mp3|youtube:BX5xssukCM4
+author:Antik|sceneorg:/parties/1998/assembly98/music/invernia.zip|title:Invernia (Winterland)|webfile:music/invernia_winterland_by_antik.mp3|youtube:lka_X-ndMfc
+author:spook|sceneorg:/parties/1998/assembly98/music/autumnal.zip|title:Autumnal Winds|webfile:music/autumnal_winds_by_spook.mp3|youtube:Nr6QkG8Ials
+author:Humdrum|sceneorg:/parties/1998/assembly98/music/cryogeni.zip|title:Cryogenic Chamber|webfile:music/cryogenic_chamber_by_humdrum.mp3|youtube:3yOWeL8usWs
+author:Solar Crisis|sceneorg:/parties/1998/assembly98/music/samba_br.zip|title:Samba Brazilia|webfile:music/samba_brazilia_by_solar_crisis.mp3|youtube:OALkHjoQzhI
+author:WT|sceneorg:/parties/1998/assembly98/music/lifestyl.zip|title:Lifestyle|webfile:music/lifestyle_by_wt.mp3|youtube:6cMHy9BAWcI
+author:Linearic/Vandals|sceneorg:/parties/1998/assembly98/music/egoterro.zip|title:Egoterroristi|webfile:music/egoterroristi_by_linearic_vandals.mp3|youtube:zJ3IAbQnFS4
+author:Juho/AP|sceneorg:/parties/1998/assembly98/music/poutapil.zip|title:Poutapilvi|webfile:music/poutapilvi_by_juho_ap.mp3|youtube:B4U8StREELM
+author:Dany|sceneorg:/parties/1998/assembly98/music/15feet_a.zip|title:15Feet away
+author:mig27|sceneorg:/parties/1998/assembly98/music/like_loi.zip|title:like loiske|webfile:music/like_loiske_by_mig27.mp3|youtube:Q9LQZqd8S7s
+author:Extrian|sceneorg:/parties/1998/assembly98/music/inside_d.zip|title:Inside Defeat|webfile:music/inside_defeat_by_extrian.mp3|youtube:NO6apReEDLc
+author:Shade|sceneorg:/parties/1998/assembly98/music/helena_t.zip|title:Helena Takalo-project|webfile:music/helena_takalo_project_by_shade.mp3|youtube:k-LwMmRaYJ4
+author:teemuki|sceneorg:/parties/1998/assembly98/music/1_12_bir.zip|title:1 1/2 birds|webfile:music/1_1_2_birds_by_teemuki.mp3|youtube:6gKnvgOUk94
+author:codehead/suolahappo.|sceneorg:/parties/1998/assembly98/music/i_was_on.zip|title:i was on my way to kitchen, as i tripped on my dog (everyday life)|webfile:music/i_was_on_my_way_to_kitchen_as_i_tripped_on_my_dog_everyday_life_by_codehead_s.mp3|youtube:6c-XeEvpeMc
+author:Tompa do Pompa|sceneorg:/parties/1998/assembly98/music/bahama_b.zip|title:Bahama Beach|webfile:music/bahama_beach_by_tompa_do_pompa.mp3|youtube:0sJTFLMpw7M
+author:Tripod|sceneorg:/parties/1998/assembly98/music/disindeg.zip|title:Disindegrate|webfile:music/disindegrate_by_tripod.mp3|youtube:NJNRVWajS8k
+author:x.fader|sceneorg:/parties/1998/assembly98/music/hypnotic.zip|title:hypnotic liquid|webfile:music/hypnotic_liquid_by_x_fader.mp3|youtube:LPEKLhRIHJ4
+author:The hooligan|sceneorg:/parties/1998/assembly98/music/anyway_i.zip|title:Anyway i want|webfile:music/anyway_i_want_by_the_hooligan.mp3|youtube:6BKVFQhHkEA
+author:Makkonen|sceneorg:/parties/1998/assembly98/music/vimonen_.zip|title:Vimonen Valssi|webfile:music/vimonen_valssi_by_makkonen.mp3|youtube:lyje_u9pRkw
+author:Psychedelic|sceneorg:/parties/1998/assembly98/music/crystal_.zip|title:Crystal Tears|webfile:music/crystal_tears_by_psychedelic.mp3|youtube:2LbKMYX2nzA
+author:md|sceneorg:/parties/1998/assembly98/music/polka_do.zip|title:Polka dots and moonbeams|webfile:music/polka_dots_and_moonbeams_by_md.mp3|youtube:r8J5wEJI-tM
+author:Cryptic|sceneorg:/parties/1998/assembly98/music/oddis_sl.zip|title:Oddis Slajos
+author:Olli Tuhkanen|sceneorg:/parties/1998/assembly98/music/knock_em.zip|title:Knock 'em Cold|webfile:music/knock_em_cold_by_olli_tuhkanen.mp3|youtube:6V8MNZj09fI
+author:lammatti|sceneorg:/parties/1998/assembly98/music/mortal_s.zip|title:Mortal Sheep|webfile:music/mortal_sheep_by_lammatti.mp3|youtube:Kskp6WaHw8M
+author:Elwood|sceneorg:/parties/1998/assembly98/music/experien.zip|title:Experience|webfile:music/experience_by_elwood.mp3|youtube:PytGpBPnOvM
+author:Emppu|sceneorg:/parties/1998/assembly98/music/the_gree.zip|title:The Green Water Fall|webfile:music/the_green_water_fall_by_emppu.mp3|youtube:Uch2aMq8ejM
+author:Kameli|sceneorg:/parties/1998/assembly98/music/singapor.zip|title:Singapore|webfile:music/singapore_by_kameli.mp3|youtube:FT7p_l-XhQQ
+author:DoC & Yoni|sceneorg:/parties/1998/assembly98/music/elves_in.zip|title:Elves in the night|webfile:music/elves_in_the_night_by_doc_yoni.mp3|youtube:E0PTameYCr8
+author:Maxx|sceneorg:/parties/1998/assembly98/music/brakebit.zip|title:BrakeBite|webfile:music/brakebite_by_maxx.mp3|youtube:8qyehpQaISQ
+author:Calf|sceneorg:/parties/1998/assembly98/music/voodoo_s.zip|title:Voodoo Squirrel|webfile:music/voodoo_squirrel_by_calf.mp3|youtube:aHHNoe2t-f4
+author:spiikki|sceneorg:/parties/1998/assembly98/music/summer_s.zip|title:Summer Song|webfile:music/summer_song_by_spiikki.mp3|youtube:ujyPMcSx6qE
+author:Cube|sceneorg:/parties/1998/assembly98/music/scotchma.zip|title:Scotchman in a skirt|webfile:music/scotchman_in_a_skirt_by_cube.mp3|youtube:2oBXDYOU5v4
+author:Domino|sceneorg:/parties/1998/assembly98/music/escape_b.zip|title:Escape|webfile:music/escape_by_domino.mp3|youtube:fkXpCUXWkJs
+author:Lark|sceneorg:/parties/1998/assembly98/music/karkkike.zip|title:Karkkikepponen|webfile:music/karkkikepponen_by_lark.mp3|youtube:kGvX2fCTG2A
+author:endotone|sceneorg:/parties/1998/assembly98/music/flatline.zip|title:flatline|webfile:music/flatline_by_endotone.mp3|youtube:lIIWpwzgESs
+author:Spiderman|sceneorg:/parties/1998/assembly98/music/poppanov.zip|title:Poppanova|webfile:music/poppanova_by_spiderman.mp3|youtube:N3wyGasFveo
+author:Yoshid|sceneorg:/parties/1998/assembly98/music/cryptoni.zip|title:Cryptonized|webfile:music/cryptonized_by_yoshid.mp3|youtube:H1ikXJMzc3s
+author:Chris/Styrox|sceneorg:/parties/1998/assembly98/music/alpha_by.zip|title:Alpha|webfile:music/alpha_by_chris_styrox.mp3|youtube:EGBonjbMIis
+author:Icarus|sceneorg:/parties/1998/assembly98/music/transdim.zip|title:Transdimensional|webfile:music/transdimensional_by_icarus.mp3|youtube:vlq9Pix03P4
+author:Foze/Cheddar|sceneorg:/parties/1998/assembly98/music/bubble_b.zip|title:Bubble|webfile:music/bubble_by_foze_cheddar.mp3|youtube:krA5RInE_lM
+author:Mordicus|sceneorg:/parties/1998/assembly98/music/humppa1_.zip|title:Humppa1|webfile:music/humppa1_by_mordicus.mp3|youtube:AwZJswphNgo
+author:Shivan|sceneorg:/parties/1998/assembly98/music/anaali_b.zip|title:anaali|webfile:music/anaali_by_shivan.mp3|youtube:LhRYiEbcRR4
+author:Apps|sceneorg:/parties/1998/assembly98/music/where_ar.zip|title:Where are you|webfile:music/where_are_you_by_apps.mp3|youtube:879djZ372vA
+author:Liam the lemming|sceneorg:/parties/1998/assembly98/music/sea_of_h.zip|title:Sea Of Hues|webfile:music/sea_of_hues_by_liam_the_lemming.mp3|youtube:uoNi5wD9ip8
+author:Obeliq|sceneorg:/parties/1998/assembly98/music/one_by_o.zip|title:one|webfile:music/one_by_obeliq.mp3|youtube:A6Ss95bLdN4
+author:Mystical/purple+sol/trauma|sceneorg:/parties/1998/assembly98/music/tides_of.zip|title:Tides of Time|webfile:music/tides_of_time_by_mystical_purple_sol_trauma.mp3|youtube:naKnG7VkoUY
+author:Garfield|sceneorg:/parties/1998/assembly98/music/silent_s.zip|title:silent scream|webfile:music/silent_scream_by_garfield.mp3|youtube:OVxH8cu5JDc
+author:Petri Järvisalo|sceneorg:/parties/1998/assembly98/music/funkkipu.zip|title:Funkkipunkki|webfile:music/funkkipunkki_by_petri_jrvisalo.mp3|youtube:7yQOmq1Rm1c
+author:whk|sceneorg:/parties/1998/assembly98/music/wake_you.zip|title:wake your mind|webfile:music/wake_your_mind_by_whk.mp3|youtube:Pu-ofxmbfjE
+author:ruff|sceneorg:/parties/1998/assembly98/music/skyline_.zip|title:Skyline|webfile:music/skyline_by_ruff.mp3|youtube:xizEq-4IYzE
+author:Willow|sceneorg:/parties/1998/assembly98/music/machine_.zip|title:Machine Drome|webfile:music/machine_drome_by_willow.mp3|youtube:-C9KD9IEH-M
+author:Elohim|sceneorg:/parties/1998/assembly98/music/dagha_by.zip|title:Dagha|webfile:music/dagha_by_elohim.mp3|youtube:0YuMKbLehLo
+author:LUK|sceneorg:/parties/1998/assembly98/music/empty_pl.zip|title:Empty Planet|webfile:music/empty_planet_by_luk.mp3|youtube:1A-R-ZygNHk
+author:Nobody/WildLight|sceneorg:/parties/1998/assembly98/music/the_begi.zip|title:The Beginning|webfile:music/the_beginning_by_nobody_wildlight.mp3|youtube:lIuwymB0LqU
+author:Ren|sceneorg:/parties/1998/assembly98/music/garden_b.zip|title:Garden|webfile:music/garden_by_ren.mp3|youtube:uUY3HR2q3uA
+author:Juke|sceneorg:/parties/1998/assembly98/music/voteholi.zip|title:Voteholic|webfile:music/voteholic_by_juke.mp3|youtube:kS6Ic1VRQOY
+author:Organic / Bad Karma|sceneorg:/parties/1998/assembly98/music/roland_b.zip|title:Roland|webfile:music/roland_by_organic_bad_karma.mp3|youtube:oGS8t6zBCXo
+author:Drizzt|sceneorg:/parties/1998/assembly98/music/bats_gro.zip|title:Bat's Groove|webfile:music/bat_s_groove_by_drizzt.mp3|youtube:dofctp-NRgM
+author:JanneZ|sceneorg:/parties/1998/assembly98/music/some_by_.zip|title:Some|webfile:music/some_by_jannez.mp3|youtube:aKqAri9kImY
+author:orbiter|sceneorg:/parties/1998/assembly98/music/yellow_t.zip|title:yellow tea|webfile:music/yellow_tea_by_orbiter.mp3|youtube:iITDlAUJtw8
+author:Nagash|sceneorg:/parties/1998/assembly98/music/fucked_u.zip|title:Fucked up|webfile:music/fucked_up_by_nagash.mp3|youtube:SeQWlvgNoxo
+author:Putkimies|sceneorg:/parties/1998/assembly98/music/julkunen.zip|title:Julkunen
+author:marq|sceneorg:/parties/1998/assembly98/music/summer_v.zip|title:summer v2|webfile:music/summer_v2_by_marq.mp3|youtube:Iv1EOV0Ic4Y
+author:Ore-Gano|sceneorg:/parties/1998/assembly98/music/asm98_sp.zip|title:Asm98: Space Odyssey
+author:aurini|sceneorg:/parties/1998/assembly98/music/aerobicw.zip|title:aerobicworkout'79|webfile:music/aerobicworkout_79_by_aurini.mp3|youtube:8dmesOPVP_I
+author:xlr8r|sceneorg:/parties/1998/assembly98/music/behind_t.zip|title:Behind the sun|webfile:music/behind_the_sun_by_xlr8r.mp3|youtube:LpA2ZmdwfW4
+author:Razoredge|sceneorg:/parties/1998/assembly98/music/the_drea.zip|title:The Dream|webfile:music/the_dream_by_razoredge.mp3|youtube:MvQ9hG_rPkg
 
 
 :section Graphics
 :description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
-title:Scared|author:Pixel/Future Crew|position:1|webfile:graphics/scared_by_pixel_future_crew.png|sceneorg:/parties/1998/assembly98/graphics/scared_b.zip
-title:Unique|author:Kidlove/Scoopex|position:2|webfile:graphics/unique_by_kidlove_scoopex.png|sceneorg:/parties/1998/assembly98/graphics/unique_b.zip
-title:juoksee kuin sepeteus|author:Avocado|position:3|webfile:graphics/juoksee_kuin_sepeteus_by_avocado.png|sceneorg:/parties/1998/assembly98/graphics/juoksee_.zip
-title:Anette|author:Ward / Astroidea|position:4|webfile:graphics/anette_by_ward_astroidea.png|sceneorg:/parties/1998/assembly98/graphics/anette_b.zip
-title:Myriapod|author:Mike|position:5|webfile:graphics/myriapod_by_mike.png|sceneorg:/parties/1998/assembly98/graphics/myriapod.zip
-title:Class|author:Visualize/pulse|position:6|webfile:graphics/class_by_visualize_pulse.png|sceneorg:/parties/1998/assembly98/graphics/class_by.zip
-title:Cosmic Girl|author:Citadel|position:7|webfile:graphics/cosmic_girl_by_citadel.png|sceneorg:/parties/1998/assembly98/graphics/cosmic_g.zip
-title:1980|author:Sh'ar|position:8|sceneorg:/parties/1998/assembly98/graphics/1980_by_.zip
-title:Passion|author:ZooM|position:9|webfile:graphics/passion_by_zoom.png|sceneorg:/parties/1998/assembly98/graphics/passion_.zip
-title:Surprise|author:YoGa|position:10|webfile:graphics/surprise_by_yoga.png|sceneorg:/parties/1998/assembly98/graphics/surprise.zip
-title:mindtrap|author:iRoN MAZE|position:0|webfile:graphics/mindtrap_by_iron_maze.png|sceneorg:/parties/1998/assembly98/graphics/mindtrap.zip
-title:Bioreality|author:Kal / Astroidea|position:12|webfile:graphics/bioreality_by_kal_astroidea.png|sceneorg:/parties/1998/assembly98/graphics/bioreali.zip
-title:Decision|author:BitScout|position:0|webfile:graphics/decision_by_bitscout.png|sceneorg:/parties/1998/assembly98/graphics/decision.zip
-title:kekkula|author:random|position:0|webfile:graphics/kekkula_by_random.png|sceneorg:/parties/1998/assembly98/graphics/kekkula_.zip
-title:Animalia|author:DaMarkus+B/dcs|position:0|sceneorg:/parties/1998/assembly98/graphics/animalia.zip
-title:Deadline|author:Kingi|position:0|webfile:graphics/deadline_by_kingi.png|sceneorg:/parties/1998/assembly98/graphics/deadline.zip
-title:Myth|author:Nitric|position:0|webfile:graphics/myth_by_nitric.png|sceneorg:/parties/1998/assembly98/graphics/myth_by_.zip
-title:SheNerd|author:-I- Marlboro|position:0|webfile:graphics/shenerd_by_i_marlboro.png|sceneorg:/parties/1998/assembly98/graphics/shenerd_.zip
-title:Unicorn|author:Particle|position:0|webfile:graphics/unicorn_by_particle.png|sceneorg:/parties/1998/assembly98/graphics/unicorn_.zip
-title:Lava Mob|author:seCtor / Cheddar|position:0|webfile:graphics/lava_mob_by_sector_cheddar.png|sceneorg:/parties/1998/assembly98/graphics/lava_mob.zip
-title:SinäMinä|author:TapZ|position:0|webfile:graphics/sinmin_by_tapz.png|sceneorg:/parties/1998/assembly98/graphics/sinmin_b.zip
-title:bad trip|author:kOkki|position:0|webfile:graphics/bad_trip_by_kokki.png|sceneorg:/parties/1998/assembly98/graphics/bad_trip.zip
-title:misfit|author:Harlequin|position:0|webfile:graphics/misfit_by_harlequin.png|sceneorg:/parties/1998/assembly98/graphics/misfit_b.zip
-title:Impressionismi|author:Purplecow|position:0|webfile:graphics/impressionismi_by_purplecow.png|sceneorg:/parties/1998/assembly98/graphics/impressi.zip
-title:Live your life to the MMX!|author:Devotion|position:0|webfile:graphics/live_your_life_to_the_mmx_by_devotion.png|sceneorg:/parties/1998/assembly98/graphics/live_you.zip
-title:Walk the dog|author:Demon Design|position:0|webfile:graphics/walk_the_dog_by_demon_design.png|sceneorg:/parties/1998/assembly98/graphics/walk_the.zip
-title:There are always 2 sides|author:josher|position:0|webfile:graphics/there_are_always_2_sides_by_josher.png|sceneorg:/parties/1998/assembly98/graphics/there_ar.zip
-title:Dopette|author:Thor|position:0|sceneorg:/parties/1998/assembly98/graphics/dopette_.zip
-title:Bill's Wet Dream|author:Ravage|position:0|webfile:graphics/bill_s_wet_dream_by_ravage.png|sceneorg:/parties/1998/assembly98/graphics/bills_we.zip
-title:magic h|author:croaker|position:0|webfile:graphics/magic_h_by_croaker.png|sceneorg:/parties/1998/assembly98/graphics/magic_h_.zip
-title:Kreivita|author:lenta|position:0|webfile:graphics/kreivita_by_lenta.png|sceneorg:/parties/1998/assembly98/graphics/kreivita.zip
-title:Toxic Beatu Queen|author:KiWi|position:0|webfile:graphics/toxic_beatu_queen_by_kiwi.png|sceneorg:/parties/1998/assembly98/graphics/toxic_be.zip
-title:Hey ... Nice Eyes!|author:Euphoria|position:0|sceneorg:/parties/1998/assembly98/graphics/hey__nic.zip
-title:Centaur|author:Razorback|position:0|sceneorg:/parties/1998/assembly98/graphics/centaur_.zip
-title:Cyber Bitch|author:Art|position:0|webfile:graphics/cyber_bitch_by_art.png|sceneorg:/parties/1998/assembly98/graphics/cyber_bi.zip
-title:Tank Girl And ME|author:Duffy|position:0|webfile:graphics/tank_girl_and_me_by_duffy.png|sceneorg:/parties/1998/assembly98/graphics/tank_gir.zip
-title:Young World|author:Greenpix / universe & ex|position:0|webfile:graphics/young_world_by_greenpix_universe_ex.gif|sceneorg:/parties/1998/assembly98/graphics/young_wo.zip
-title:solid aspects|author:treme|position:0|webfile:graphics/solid_aspects_by_treme.png|sceneorg:/parties/1998/assembly98/graphics/solid_as.zip
+author:Pixel/Future Crew|position:1|sceneorg:/parties/1998/assembly98/graphics/scared_b.zip|title:Scared|webfile:graphics/scared_by_pixel_future_crew.png
+author:Kidlove/Scoopex|position:2|sceneorg:/parties/1998/assembly98/graphics/unique_b.zip|title:Unique|webfile:graphics/unique_by_kidlove_scoopex.png
+author:Avocado|position:3|sceneorg:/parties/1998/assembly98/graphics/juoksee_.zip|title:juoksee kuin sepeteus|webfile:graphics/juoksee_kuin_sepeteus_by_avocado.png
+author:Ward / Astroidea|position:4|sceneorg:/parties/1998/assembly98/graphics/anette_b.zip|title:Anette|webfile:graphics/anette_by_ward_astroidea.png
+author:Mike|position:5|sceneorg:/parties/1998/assembly98/graphics/myriapod.zip|title:Myriapod|webfile:graphics/myriapod_by_mike.png
+author:Visualize/pulse|position:6|sceneorg:/parties/1998/assembly98/graphics/class_by.zip|title:Class|webfile:graphics/class_by_visualize_pulse.png
+author:Citadel|position:7|sceneorg:/parties/1998/assembly98/graphics/cosmic_g.zip|title:Cosmic Girl|webfile:graphics/cosmic_girl_by_citadel.png
+author:Sh'ar|position:8|sceneorg:/parties/1998/assembly98/graphics/1980_by_.zip|title:1980
+author:ZooM|position:9|sceneorg:/parties/1998/assembly98/graphics/passion_.zip|title:Passion|webfile:graphics/passion_by_zoom.png
+author:YoGa|position:10|sceneorg:/parties/1998/assembly98/graphics/surprise.zip|title:Surprise|webfile:graphics/surprise_by_yoga.png
+author:iRoN MAZE|sceneorg:/parties/1998/assembly98/graphics/mindtrap.zip|title:mindtrap|webfile:graphics/mindtrap_by_iron_maze.png
+author:Kal / Astroidea|position:12|sceneorg:/parties/1998/assembly98/graphics/bioreali.zip|title:Bioreality|webfile:graphics/bioreality_by_kal_astroidea.png
+author:BitScout|sceneorg:/parties/1998/assembly98/graphics/decision.zip|title:Decision|webfile:graphics/decision_by_bitscout.png
+author:random|sceneorg:/parties/1998/assembly98/graphics/kekkula_.zip|title:kekkula|webfile:graphics/kekkula_by_random.png
+author:DaMarkus+B/dcs|sceneorg:/parties/1998/assembly98/graphics/animalia.zip|title:Animalia
+author:Kingi|sceneorg:/parties/1998/assembly98/graphics/deadline.zip|title:Deadline|webfile:graphics/deadline_by_kingi.png
+author:Nitric|sceneorg:/parties/1998/assembly98/graphics/myth_by_.zip|title:Myth|webfile:graphics/myth_by_nitric.png
+author:-I- Marlboro|sceneorg:/parties/1998/assembly98/graphics/shenerd_.zip|title:SheNerd|webfile:graphics/shenerd_by_i_marlboro.png
+author:Particle|sceneorg:/parties/1998/assembly98/graphics/unicorn_.zip|title:Unicorn|webfile:graphics/unicorn_by_particle.png
+author:seCtor / Cheddar|sceneorg:/parties/1998/assembly98/graphics/lava_mob.zip|title:Lava Mob|webfile:graphics/lava_mob_by_sector_cheddar.png
+author:TapZ|sceneorg:/parties/1998/assembly98/graphics/sinmin_b.zip|title:SinäMinä|webfile:graphics/sinmin_by_tapz.png
+author:kOkki|sceneorg:/parties/1998/assembly98/graphics/bad_trip.zip|title:bad trip|webfile:graphics/bad_trip_by_kokki.png
+author:Harlequin|sceneorg:/parties/1998/assembly98/graphics/misfit_b.zip|title:misfit|webfile:graphics/misfit_by_harlequin.png
+author:Purplecow|sceneorg:/parties/1998/assembly98/graphics/impressi.zip|title:Impressionismi|webfile:graphics/impressionismi_by_purplecow.png
+author:Devotion|sceneorg:/parties/1998/assembly98/graphics/live_you.zip|title:Live your life to the MMX!|webfile:graphics/live_your_life_to_the_mmx_by_devotion.png
+author:Demon Design|sceneorg:/parties/1998/assembly98/graphics/walk_the.zip|title:Walk the dog|webfile:graphics/walk_the_dog_by_demon_design.png
+author:josher|sceneorg:/parties/1998/assembly98/graphics/there_ar.zip|title:There are always 2 sides|webfile:graphics/there_are_always_2_sides_by_josher.png
+author:Thor|sceneorg:/parties/1998/assembly98/graphics/dopette_.zip|title:Dopette
+author:Ravage|sceneorg:/parties/1998/assembly98/graphics/bills_we.zip|title:Bill's Wet Dream|webfile:graphics/bill_s_wet_dream_by_ravage.png
+author:croaker|sceneorg:/parties/1998/assembly98/graphics/magic_h_.zip|title:magic h|webfile:graphics/magic_h_by_croaker.png
+author:lenta|sceneorg:/parties/1998/assembly98/graphics/kreivita.zip|title:Kreivita|webfile:graphics/kreivita_by_lenta.png
+author:KiWi|sceneorg:/parties/1998/assembly98/graphics/toxic_be.zip|title:Toxic Beatu Queen|webfile:graphics/toxic_beatu_queen_by_kiwi.png
+author:Euphoria|sceneorg:/parties/1998/assembly98/graphics/hey__nic.zip|title:Hey ... Nice Eyes!
+author:Razorback|sceneorg:/parties/1998/assembly98/graphics/centaur_.zip|title:Centaur
+author:Art|sceneorg:/parties/1998/assembly98/graphics/cyber_bi.zip|title:Cyber Bitch|webfile:graphics/cyber_bitch_by_art.png
+author:Duffy|sceneorg:/parties/1998/assembly98/graphics/tank_gir.zip|title:Tank Girl And ME|webfile:graphics/tank_girl_and_me_by_duffy.png
+author:Greenpix / universe & ex|sceneorg:/parties/1998/assembly98/graphics/young_wo.zip|title:Young World|webfile:graphics/young_world_by_greenpix_universe_ex.gif
+author:treme|sceneorg:/parties/1998/assembly98/graphics/solid_as.zip|title:solid aspects|webfile:graphics/solid_aspects_by_treme.png
 
 
 :section PC demo
+:youtube-playlist 1847FC6866A7E6B2
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1998 PCs.</p>
 
-title:Gateways|author:Trauma|position:1|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|pouet:295|cappedtv:trauma-gateways&width=640&height=400
-title:hannu & kerttu 2000|author:m0ppi productions|position:2|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|pouet:1147|youtube:rR1rAHxuxEQ
-title:tour|author:pulse|position:3|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|pouet:1088|cappedtv:pulse_pygmy_projects_virtual_d-tour&width=640&height=480
-title:Sexadelic|author:Byterapers inc.|position:4|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|pouet:308|dtv:id_file=2444&id_prod=9286&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/308.jpg&width=512&height=404
-title:Vague Space|author:cncd|position:5|sceneorg:/parties/1998/assembly98/pcdemo/vague_sp.zip|pouet:1273
-title:giger|author:recreation|position:6|sceneorg:/parties/1998/assembly98/pcdemo/giger_by.zip|pouet:7402
-title:übernational zonk|author:tpolm|position:7|sceneorg:/parties/1998/assembly98/pcdemo/bernatio.zip|pouet:3443
-title:Fusion|author:Bad Karma|position:8|sceneorg:/parties/1998/assembly98/pcdemo/fusion_b.zip|pouet:6605
-title:Älyvuoto|author:tAAt 1998|position:9|sceneorg:/parties/1998/assembly98/pcdemo/lyvuoto_.zip|pouet:792
-title:IDEALEAK|author:tAAt 1998|position:10|sceneorg:/parties/1998/assembly98/pcdemo/idealeak.zip|pouet:794|youtube:RIIOsjSnXOM
-title:Matrice|author:Fobia Design|position:11|sceneorg:/parties/1998/assembly98/pcdemo/matrice_.zip|pouet:2838|youtube:OWBO9R6niCE
-title:Vortex|author:Mewlers|position:12|sceneorg:/parties/1998/assembly98/pcdemo/vortex_b.zip|pouet:2683|youtube:JMM9QQD46fY
-title:Dream|author:ultrabright|position:13|sceneorg:/parties/1998/assembly98/pcdemo/dream_by.zip|youtube:HzFGtptSFg4
-title:2 pr. cent|author:pdg|position:14|sceneorg:/parties/1998/assembly98/pcdemo/2_pr_cen.zip|pouet:10345
-title:Summoner|author:Future Dimensions|position:15|sceneorg:/parties/1998/assembly98/pcdemo/summoner.zip
-title:i want to believe|author:primitive|position:16|sceneorg:/parties/1998/assembly98/pcdemo/i_want_t.zip|pouet:14923
-title:flow out|author:tdop|position:17|sceneorg:/parties/1998/assembly98/pcdemo/flow_out.zip
-title:Total Plasmahdus|author:THP|position:0|sceneorg:/parties/1998/assembly98/pcdemo/total_pl.zip
-title:romferd|author:da beep & phrenetic|position:0|sceneorg:/parties/1998/assembly98/pcdemo/romferd_.zip
-title:Decapitation|author:Execution|position:0|sceneorg:/parties/1998/assembly98/pcdemo/decapita.zip|pouet:25488
-title:Happy Summer|author:Mylly Std|position:0|sceneorg:/parties/1998/assembly98/pcdemo/happy_su.zip
-title:Mika|author:Destiny|position:0|sceneorg:/parties/1998/assembly98/pcdemo/mika_by_.zip
-title:Balldemo|author:PuavoHard|position:0|sceneorg:/parties/1998/assembly98/pcdemo/balldemo.zip|pouet:14924|youtube:nBWhPOKeoIg
-title:Nexxus|author:CUD|position:0|sceneorg:/parties/1998/assembly98/pcdemo/nexxus_b.zip
-title:10110 - Elämää pienempi remix|author:Acid Rain|position:0|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|pouet:13231|youtube:cXrtknvSMQ8
-title:Johnny weasel|author:Dawn 3|position:0|sceneorg:/parties/1998/assembly98/pcdemo/johnny_w.zip|pouet:2975
+author:Trauma|cappedtv:trauma-gateways&width=640&height=400|position:1|pouet:295|sceneorg:/parties/1998/assembly98/pcdemo/gateways.zip|title:Gateways
+author:m0ppi productions|position:2|pouet:1147|sceneorg:/parties/1998/assembly98/pcdemo/hannu__k.zip|title:hannu & kerttu 2000|youtube:rR1rAHxuxEQ
+author:pulse|cappedtv:pulse_pygmy_projects_virtual_d-tour&width=640&height=480|position:3|pouet:1088|sceneorg:/parties/1998/assembly98/pcdemo/tour_by_.zip|title:tour
+author:Byterapers inc.|dtv:id_file=2444&id_prod=9286&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/308.jpg&width=512&height=404|position:4|pouet:308|sceneorg:/parties/1998/assembly98/pcdemo/sexadeli.zip|title:Sexadelic
+author:cncd|position:5|pouet:1273|sceneorg:/parties/1998/assembly98/pcdemo/vague_sp.zip|title:Vague Space
+author:recreation|position:6|pouet:7402|sceneorg:/parties/1998/assembly98/pcdemo/giger_by.zip|title:giger
+author:tpolm|position:7|pouet:3443|sceneorg:/parties/1998/assembly98/pcdemo/bernatio.zip|title:übernational zonk
+author:Bad Karma|position:8|pouet:6605|sceneorg:/parties/1998/assembly98/pcdemo/fusion_b.zip|title:Fusion
+author:tAAt 1998|position:9|pouet:792|sceneorg:/parties/1998/assembly98/pcdemo/lyvuoto_.zip|title:Älyvuoto
+author:tAAt 1998|position:10|pouet:794|sceneorg:/parties/1998/assembly98/pcdemo/idealeak.zip|title:IDEALEAK|youtube:RIIOsjSnXOM
+author:Fobia Design|position:11|pouet:2838|sceneorg:/parties/1998/assembly98/pcdemo/matrice_.zip|title:Matrice|youtube:OWBO9R6niCE
+author:Mewlers|position:12|pouet:2683|sceneorg:/parties/1998/assembly98/pcdemo/vortex_b.zip|title:Vortex|youtube:JMM9QQD46fY
+author:ultrabright|position:13|sceneorg:/parties/1998/assembly98/pcdemo/dream_by.zip|title:Dream|youtube:HzFGtptSFg4
+author:pdg|position:14|pouet:10345|sceneorg:/parties/1998/assembly98/pcdemo/2_pr_cen.zip|title:2 pr. cent
+author:Future Dimensions|position:15|sceneorg:/parties/1998/assembly98/pcdemo/summoner.zip|title:Summoner
+author:primitive|position:16|pouet:14923|sceneorg:/parties/1998/assembly98/pcdemo/i_want_t.zip|title:i want to believe
+author:tdop|position:17|sceneorg:/parties/1998/assembly98/pcdemo/flow_out.zip|title:flow out
+author:THP|sceneorg:/parties/1998/assembly98/pcdemo/total_pl.zip|title:Total Plasmahdus
+author:da beep & phrenetic|sceneorg:/parties/1998/assembly98/pcdemo/romferd_.zip|title:romferd
+author:Execution|pouet:25488|sceneorg:/parties/1998/assembly98/pcdemo/decapita.zip|title:Decapitation
+author:Mylly Std|sceneorg:/parties/1998/assembly98/pcdemo/happy_su.zip|title:Happy Summer
+author:Destiny|sceneorg:/parties/1998/assembly98/pcdemo/mika_by_.zip|title:Mika
+author:PuavoHard|pouet:14924|sceneorg:/parties/1998/assembly98/pcdemo/balldemo.zip|title:Balldemo|youtube:nBWhPOKeoIg
+author:CUD|sceneorg:/parties/1998/assembly98/pcdemo/nexxus_b.zip|title:Nexxus
+author:Acid Rain|pouet:13231|sceneorg:/parties/1998/assembly98/pcdemo/10110__e.zip|title:10110 - Elämää pienempi remix|youtube:cXrtknvSMQ8
+author:Dawn 3|pouet:2975|sceneorg:/parties/1998/assembly98/pcdemo/johnny_w.zip|title:Johnny weasel
 
 
 :section PC 64k intro
+:youtube-playlist 8CCBA4F0C30C0D13
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1998 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Oxygen|author:Coral|position:1|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|pouet:4326|youtube:jx2MaknkHzg
-title:Technicolor|author:Moottori|position:2|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|pouet:4747|youtube:8i5t1c8yR-Y
-title:licht 3|author:haujobb|position:3|sceneorg:/parties/1998/assembly98/pc64kint/licht_3_.zip|pouet:1499|youtube:Dh73bW5d8Xo
-title:chant|author:Bandwaggon|position:4|sceneorg:/parties/1998/assembly98/pc64kint/chant_by.zip|pouet:4056|youtube:h0rN_pQtVjI
-title:42|author:Immortals|position:6|sceneorg:/parties/1998/assembly98/pc64kint/42_by_im.zip|pouet:51355
-title:Living OnLine|author:BOAR|position:7|sceneorg:/parties/1998/assembly98/pc64kint/living_o.zip|youtube:CyK82hq1kaY
-title:HAPPYDANCE|author:SKR!|position:8|sceneorg:/parties/1998/assembly98/pc64kint/happydan.zip|youtube:-SwP3-sqM5w
-title:System Crime|author:Scoopex|position:0|sceneorg:/parties/1998/assembly98/pc64kint/system_c.zip
-title:Testing|author:P3G Design|position:0|sceneorg:/parties/1998/assembly98/pc64kint/testing_.zip|youtube:mGDIwxyb0Ls
-title:Funtro|author:Universe|position:0|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip|youtube:muOP6emXyt8
-title:Lockdown|author:Reality Benders|position:0|sceneorg:/parties/1998/assembly98/pc64kint/375-lock.zip|pouet:6506
-title:transformers|author:eufrosyne|position:0|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip
+author:Coral|position:1|pouet:4326|sceneorg:/parties/1998/assembly98/pc64kint/oxygen_b.zip|title:Oxygen|youtube:jx2MaknkHzg
+author:Moottori|position:2|pouet:4747|sceneorg:/parties/1998/assembly98/pc64kint/technico.zip|title:Technicolor|youtube:8i5t1c8yR-Y
+author:haujobb|position:3|pouet:1499|sceneorg:/parties/1998/assembly98/pc64kint/licht_3_.zip|title:licht 3|youtube:Dh73bW5d8Xo
+author:Bandwaggon|position:4|pouet:4056|sceneorg:/parties/1998/assembly98/pc64kint/chant_by.zip|title:chant|youtube:h0rN_pQtVjI
+author:Immortals|position:6|pouet:51355|sceneorg:/parties/1998/assembly98/pc64kint/42_by_im.zip|title:42
+author:BOAR|position:7|sceneorg:/parties/1998/assembly98/pc64kint/living_o.zip|title:Living OnLine|youtube:CyK82hq1kaY
+author:SKR!|position:8|sceneorg:/parties/1998/assembly98/pc64kint/happydan.zip|title:HAPPYDANCE|youtube:-SwP3-sqM5w
+author:Scoopex|sceneorg:/parties/1998/assembly98/pc64kint/system_c.zip|title:System Crime
+author:P3G Design|sceneorg:/parties/1998/assembly98/pc64kint/testing_.zip|title:Testing|youtube:mGDIwxyb0Ls
+author:Universe|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip|title:Funtro|youtube:muOP6emXyt8
+author:Reality Benders|pouet:6506|sceneorg:/parties/1998/assembly98/pc64kint/375-lock.zip|title:Lockdown
+author:eufrosyne|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip|title:transformers
+

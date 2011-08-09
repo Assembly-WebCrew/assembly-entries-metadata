@@ -3,280 +3,288 @@
 :section Oldskool graphics
 :description <p>In Oldskool graphics competition images had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
-title:Assassin|author:Mazor/Scoopex|position:1|webfile:oldskool_graphics/assassin_by_mazor_scoopex.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/assassin.zip
-title:Absintti|author:Electric/Extend|position:2|sceneorg:/parties/2000/assembly00/oldskool/grfx/absintti.zip
-title:Jarno haluaa pallon|author:progress|position:3|webfile:oldskool_graphics/jarno_haluaa_pallon_by_progress.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/jarno_ha.zip
-title:Dready|author:Partikle|position:4|webfile:oldskool_graphics/dready_by_partikle.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/dready_b.zip
-title:Im Bek|author:ion|position:5|webfile:oldskool_graphics/im_bek_by_ion.png|sceneorg:/parties/2000/assembly00/oldskool/grfx/im_bek_b.zip
-title:Wild West|author:Bg|position:6|webfile:oldskool_graphics/wild_west_by_bg.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/wild_wes.zip
-title:dream|author:lum|position:7|webfile:oldskool_graphics/dream_by_lum.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/dream_by.zip
-title:dolphins|author:kure+alan|position:8|webfile:oldskool_graphics/dolphins_by_kure_alan.png|sceneorg:/parties/2000/assembly00/oldskool/grfx/dolphins.zip
-title:Hiroshima Babe|author:Oxide|position:9|webfile:oldskool_graphics/hiroshima_babe_by_oxide.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/hiroshim.zip
-title:Saatana saapuu Moskovaan|author:jraevaar|position:10|webfile:oldskool_graphics/saatana_saapuu_moskovaan_by_jraevaar.png|sceneorg:/parties/2000/assembly00/oldskool/grfx/saatana_.zip
-title:Listi|author:Random|position:11|webfile:oldskool_graphics/listi_by_random.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/listi_by.zip
-title:jiffy|author:monitori / mankeli|position:12|webfile:oldskool_graphics/jiffy_by_monitori_mankeli.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/jiffy_by.zip
-title:When Sky Is Blue|author:Nico / Byterapers, Inc|position:13|webfile:oldskool_graphics/when_sky_is_blue_by_nico_byterapers_inc.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/when_sky.zip
-title:Too heavy head|author:Larga/PuavoHard|position:14|webfile:oldskool_graphics/too_heavy_head_by_larga_puavohard.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/too_heav.zip
-title:AntiHeroes|author:marzu|position:15|webfile:oldskool_graphics/antiheroes_by_marzu.gif|sceneorg:/parties/2000/assembly00/oldskool/grfx/antihero.zip
+author:Mazor/Scoopex|position:1|sceneorg:/parties/2000/assembly00/oldskool/grfx/assassin.zip|title:Assassin|webfile:oldskool_graphics/assassin_by_mazor_scoopex.gif
+author:Electric/Extend|position:2|sceneorg:/parties/2000/assembly00/oldskool/grfx/absintti.zip|title:Absintti
+author:progress|position:3|sceneorg:/parties/2000/assembly00/oldskool/grfx/jarno_ha.zip|title:Jarno haluaa pallon|webfile:oldskool_graphics/jarno_haluaa_pallon_by_progress.gif
+author:Partikle|position:4|sceneorg:/parties/2000/assembly00/oldskool/grfx/dready_b.zip|title:Dready|webfile:oldskool_graphics/dready_by_partikle.gif
+author:ion|position:5|sceneorg:/parties/2000/assembly00/oldskool/grfx/im_bek_b.zip|title:Im Bek|webfile:oldskool_graphics/im_bek_by_ion.png
+author:Bg|position:6|sceneorg:/parties/2000/assembly00/oldskool/grfx/wild_wes.zip|title:Wild West|webfile:oldskool_graphics/wild_west_by_bg.gif
+author:lum|position:7|sceneorg:/parties/2000/assembly00/oldskool/grfx/dream_by.zip|title:dream|webfile:oldskool_graphics/dream_by_lum.gif
+author:kure+alan|position:8|sceneorg:/parties/2000/assembly00/oldskool/grfx/dolphins.zip|title:dolphins|webfile:oldskool_graphics/dolphins_by_kure_alan.png
+author:Oxide|position:9|sceneorg:/parties/2000/assembly00/oldskool/grfx/hiroshim.zip|title:Hiroshima Babe|webfile:oldskool_graphics/hiroshima_babe_by_oxide.gif
+author:jraevaar|position:10|sceneorg:/parties/2000/assembly00/oldskool/grfx/saatana_.zip|title:Saatana saapuu Moskovaan|webfile:oldskool_graphics/saatana_saapuu_moskovaan_by_jraevaar.png
+author:Random|position:11|sceneorg:/parties/2000/assembly00/oldskool/grfx/listi_by.zip|title:Listi|webfile:oldskool_graphics/listi_by_random.gif
+author:monitori / mankeli|position:12|sceneorg:/parties/2000/assembly00/oldskool/grfx/jiffy_by.zip|title:jiffy|webfile:oldskool_graphics/jiffy_by_monitori_mankeli.gif
+author:Nico / Byterapers, Inc|position:13|sceneorg:/parties/2000/assembly00/oldskool/grfx/when_sky.zip|title:When Sky Is Blue|webfile:oldskool_graphics/when_sky_is_blue_by_nico_byterapers_inc.gif
+author:Larga/PuavoHard|position:14|sceneorg:/parties/2000/assembly00/oldskool/grfx/too_heav.zip|title:Too heavy head|webfile:oldskool_graphics/too_heavy_head_by_larga_puavohard.gif
+author:marzu|position:15|sceneorg:/parties/2000/assembly00/oldskool/grfx/antihero.zip|title:AntiHeroes|webfile:oldskool_graphics/antiheroes_by_marzu.gif
 
 
 :section MP3 music
+:youtube-playlist 37912AB15554A6BF
 :description <p>In <a href="http://en.wikipedia.org/wiki/MP3">MP3</a> music competition entries could be any type of music from any genre created with any method.</p>
 
-title:High Up A Mountain|author:Lowland / Astropolis|position:1|webfile:mp3_music/high_up_a_mountain_by_lowland_astropolis.mp3|sceneorg:/parties/2000/assembly00/mp3/high_up_.zip|youtube:97iVzIrRltQ
-title:2000: an aural odyssey|author:Firestorm|position:2|webfile:mp3_music/2000_an_aural_odyssey_by_firestorm.mp3|sceneorg:/parties/2000/assembly00/mp3/2000_an_.zip|youtube:1PStgL_oJZI
-title:On it|author:jugi|position:3|webfile:mp3_music/on_it_by_jugi.mp3|sceneorg:/parties/2000/assembly00/mp3/on_it_by.zip|youtube:2qAi_L9ruag
-title:Mopo Karkailee|author:tonic|position:4|webfile:mp3_music/mopo_karkailee_by_tonic.mp3|sceneorg:/parties/2000/assembly00/mp3/mopo_kar.zip|youtube:Rk9RC0qlyBE
-title:Zimmah Queue|author:Trauma Child Genesis|position:5|webfile:mp3_music/zimmah_queue_by_trauma_child_genesis.mp3|sceneorg:/parties/2000/assembly00/mp3/zimmah_q.zip|youtube:XINBq7oHWRs
-title:Motion Blur|author:Huezo|position:6|webfile:mp3_music/motion_blur_by_huezo.mp3|sceneorg:/parties/2000/assembly00/mp3/motion_b.zip|youtube:odq13QaVoqs
-title:pilvet|author:gspot|position:7|webfile:mp3_music/pilvet_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mp3/pilvet_b.zip|youtube:G0QRMNFYSM4
-title:Airwalk|author:Ganja / Nerve Axis|position:8|webfile:mp3_music/airwalk_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mp3/airwalk_.zip|youtube:r99oU8t_oic
-title:i will go|author:virgill / haujobb|position:9|webfile:mp3_music/i_will_go_by_virgill_haujobb.mp3|sceneorg:/parties/2000/assembly00/mp3/i_will_g.zip|youtube:MCecF063sbQ
-title:Finpotentit - Kesälerssi|author:CPlanet|position:10|webfile:mp3_music/finpotentit_kes_lerssi_by_cplanet.mp3|sceneorg:/parties/2000/assembly00/mp3/finpoten.zip|youtube:ZnCg3PvdV50
-title:Adagio for Freedom|author:Acumen|position:11|webfile:mp3_music/adagio_for_freedom_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mp3/adagio_f.zip|youtube:ftgRR3u7UcE
-title:Kaljaa ainiaan|author:Vilunen|position:12|webfile:mp3_music/kaljaa_ainiaan_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mp3/kaljaa_a.zip|youtube:mw-A0f9f4Jc
-title:Lame Station|author:Janne Kosonen & Petri Malinen (submit : ABJ.(Ville Malinen))|position:13|webfile:mp3_music/lame_station_by_janne_kosonen_petri_malinen_submit_abj_ville_malinen.mp3|sceneorg:/parties/2000/assembly00/mp3/lame_sta.zip|youtube:gVdK221oHMk
-title:Just Use Your Imagination|author:Turkka|position:14|webfile:mp3_music/just_use_your_imagination_by_turkka.mp3|sceneorg:/parties/2000/assembly00/mp3/just_use.zip|youtube:rbLFt08Zg20
-title:Scorts|author:Spacey|position:15|webfile:mp3_music/scorts_by_spacey.mp3|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|youtube:4mbvNHw-UtY
+author:Lowland / Astropolis|position:1|sceneorg:/parties/2000/assembly00/mp3/high_up_.zip|title:High Up A Mountain|webfile:mp3_music/high_up_a_mountain_by_lowland_astropolis.mp3|youtube:97iVzIrRltQ
+author:Firestorm|position:2|sceneorg:/parties/2000/assembly00/mp3/2000_an_.zip|title:2000: an aural odyssey|webfile:mp3_music/2000_an_aural_odyssey_by_firestorm.mp3|youtube:1PStgL_oJZI
+author:jugi|position:3|sceneorg:/parties/2000/assembly00/mp3/on_it_by.zip|title:On it|webfile:mp3_music/on_it_by_jugi.mp3|youtube:2qAi_L9ruag
+author:tonic|position:4|sceneorg:/parties/2000/assembly00/mp3/mopo_kar.zip|title:Mopo Karkailee|webfile:mp3_music/mopo_karkailee_by_tonic.mp3|youtube:Rk9RC0qlyBE
+author:Trauma Child Genesis|position:5|sceneorg:/parties/2000/assembly00/mp3/zimmah_q.zip|title:Zimmah Queue|webfile:mp3_music/zimmah_queue_by_trauma_child_genesis.mp3|youtube:XINBq7oHWRs
+author:Huezo|position:6|sceneorg:/parties/2000/assembly00/mp3/motion_b.zip|title:Motion Blur|webfile:mp3_music/motion_blur_by_huezo.mp3|youtube:odq13QaVoqs
+author:gspot|position:7|sceneorg:/parties/2000/assembly00/mp3/pilvet_b.zip|title:pilvet|webfile:mp3_music/pilvet_by_gspot.mp3|youtube:G0QRMNFYSM4
+author:Ganja / Nerve Axis|position:8|sceneorg:/parties/2000/assembly00/mp3/airwalk_.zip|title:Airwalk|webfile:mp3_music/airwalk_by_ganja_nerve_axis.mp3|youtube:r99oU8t_oic
+author:virgill / haujobb|position:9|sceneorg:/parties/2000/assembly00/mp3/i_will_g.zip|title:i will go|webfile:mp3_music/i_will_go_by_virgill_haujobb.mp3|youtube:MCecF063sbQ
+author:CPlanet|position:10|sceneorg:/parties/2000/assembly00/mp3/finpoten.zip|title:Finpotentit - Kesälerssi|webfile:mp3_music/finpotentit_kes_lerssi_by_cplanet.mp3|youtube:ZnCg3PvdV50
+author:Acumen|position:11|sceneorg:/parties/2000/assembly00/mp3/adagio_f.zip|title:Adagio for Freedom|webfile:mp3_music/adagio_for_freedom_by_acumen.mp3|youtube:ftgRR3u7UcE
+author:Vilunen|position:12|sceneorg:/parties/2000/assembly00/mp3/kaljaa_a.zip|title:Kaljaa ainiaan|webfile:mp3_music/kaljaa_ainiaan_by_vilunen.mp3|youtube:mw-A0f9f4Jc
+author:Janne Kosonen & Petri Malinen (submit : ABJ.(Ville Malinen))|position:13|sceneorg:/parties/2000/assembly00/mp3/lame_sta.zip|title:Lame Station|webfile:mp3_music/lame_station_by_janne_kosonen_petri_malinen_submit_abj_ville_malinen.mp3|youtube:gVdK221oHMk
+author:Turkka|position:14|sceneorg:/parties/2000/assembly00/mp3/just_use.zip|title:Just Use Your Imagination|webfile:mp3_music/just_use_your_imagination_by_turkka.mp3|youtube:rbLFt08Zg20
+author:Spacey|position:15|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|title:Scorts|webfile:mp3_music/scorts_by_spacey.mp3|youtube:4mbvNHw-UtY
 
 
 :section 64k intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Dead Flowers|author:haujobb|position:1|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|pouet:135|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|cappedtv:haujobb-dead_flowers&width=640&height=368
-title:Incision|author:Exploder|position:2|sceneorg:/parties/2000/assembly00/in64/incision.zip|pouet:3590
-title:Who needs raytrace anyway?|author:foobug|position:3|sceneorg:/parties/2000/assembly00/in64/who_need.zip|pouet:503
-title:mixed bag|author:jmagic/komplex|position:4|sceneorg:/parties/2000/assembly00/in64/mixed_ba.zip|pouet:252
-title:FREKTAALI|author:Armada/Trauma, Grin, tAAt|position:5|sceneorg:/parties/2000/assembly00/in64/frektaal.zip|pouet:550
-title:Attraction|author:TMB/OUTBREAK|position:6|sceneorg:/parties/2000/assembly00/in64/attracti.zip|pouet:4332
-title:level twentyfive|author:array|position:7|sceneorg:/parties/2000/assembly00/in64/level_tw.zip|pouet:160
-title:Electricity|author:Appendix|position:8|sceneorg:/parties/2000/assembly00/in64/electric.zip|pouet:3456|dtv:id_file=4063&id_prod=3459&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3456.jpg&width=512&height=404
-title:kirahvi|author:addiction + unique|position:9|sceneorg:/parties/2000/assembly00/in64/kirahvi_.zip|pouet:3653
-title:Heartbeat|author:Static|position:10|sceneorg:/parties/2000/assembly00/in64/heartbea.zip|pouet:460
-title:Rays|author:Whelpz|position:11|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|pouet:3994
-title:Presence|author:.sPOOn.|position:12|sceneorg:/parties/2000/assembly00/in64/presence.zip|pouet:3619
-title:Seeking|author:No Pants Productions|position:13|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|pouet:204
+author:haujobb|cappedtv:haujobb-dead_flowers&width=640&height=368|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|position:1|pouet:135|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|title:Dead Flowers
+author:Exploder|position:2|pouet:3590|sceneorg:/parties/2000/assembly00/in64/incision.zip|title:Incision
+author:foobug|position:3|pouet:503|sceneorg:/parties/2000/assembly00/in64/who_need.zip|title:Who needs raytrace anyway?
+author:jmagic/komplex|position:4|pouet:252|sceneorg:/parties/2000/assembly00/in64/mixed_ba.zip|title:mixed bag
+author:Armada/Trauma, Grin, tAAt|position:5|pouet:550|sceneorg:/parties/2000/assembly00/in64/frektaal.zip|title:FREKTAALI
+author:TMB/OUTBREAK|position:6|pouet:4332|sceneorg:/parties/2000/assembly00/in64/attracti.zip|title:Attraction
+author:array|position:7|pouet:160|sceneorg:/parties/2000/assembly00/in64/level_tw.zip|title:level twentyfive
+author:Appendix|dtv:id_file=4063&id_prod=3459&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3456.jpg&width=512&height=404|position:8|pouet:3456|sceneorg:/parties/2000/assembly00/in64/electric.zip|title:Electricity
+author:addiction + unique|position:9|pouet:3653|sceneorg:/parties/2000/assembly00/in64/kirahvi_.zip|title:kirahvi
+author:Static|position:10|pouet:460|sceneorg:/parties/2000/assembly00/in64/heartbea.zip|title:Heartbeat
+author:Whelpz|position:11|pouet:3994|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|title:Rays
+author:.sPOOn.|position:12|pouet:3619|sceneorg:/parties/2000/assembly00/in64/presence.zip|title:Presence
+author:No Pants Productions|position:13|pouet:204|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|title:Seeking
 
 
 :section Oldskool demo
+:youtube-playlist F39BD87007FBD1F5
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
-title:Oldskool Trippin|author:Haujobb|position:1|sceneorg:/parties/2000/assembly00/oldskool/demo/oldskool.zip|pouet:2114|youtube:QeTnu-KknE8
-title:Scenefabu Jurputus|author:HP-Productions|position:2|sceneorg:/parties/2000/assembly00/oldskool/demo/scenefab.zip|pouet:12775
-title:Sequences|author:The Digital Artists|position:3|sceneorg:/parties/2000/assembly00/oldskool/demo/sequence.zip|pouet:2973|youtube:Rzv-iBqP8U4
-title:Goatology|author:Noice|position:4|sceneorg:/parties/2000/assembly00/oldskool/demo/goatolog.zip|pouet:3928|youtube:K08pDDREvCU
-title:Psyko Killer|author:Spaceballs|position:5|sceneorg:/parties/2000/assembly00/oldskool/demo/psyko_ki.zip|pouet:3801
-title:Oldskool|author:Contraz|position:6|sceneorg:/parties/2000/assembly00/oldskool/demo/197-olds.zip|pouet:13321
-title:No Panic|author:dekadence|position:7|sceneorg:/parties/2000/assembly00/oldskool/demo/no_panic.zip|pouet:3556|youtube:gY0CrtzGz0o
-title:Drystal Cream 2.5|author:HeadcrasH|position:8|sceneorg:/parties/2000/assembly00/oldskool/demo/drystal_.zip|pouet:416|youtube:ZA0vBwhl_n4
-title:Oldskool Fools|author:Mandel Bros|position:9|sceneorg:/parties/2000/assembly00/oldskool/demo/201-olds.zip|pouet:8576
-title:The Friday Night Project|author:Armo|position:10|sceneorg:/parties/2000/assembly00/oldskool/demo/the_frid.zip
-title:Supremen|author:Byterapers, Inc.|position:11|sceneorg:/parties/2000/assembly00/oldskool/demo/supremn_.zip
-title:Our Speedway|author:Hujowa|position:12|sceneorg:/parties/2000/assembly00/oldskool/demo/our_spee.zip|pouet:22486|youtube:tBCMHpGCHUE
-title:Coira|author:Unique|position:13|sceneorg:/parties/2000/assembly00/oldskool/demo/coira_by.zip|pouet:13319|youtube:T5Xul-gGhwk
-title:New Control|author:Depth & Mystic|position:14|sceneorg:/parties/2000/assembly00/oldskool/demo/new_cont.zip|pouet:13320
+author:Haujobb|position:1|pouet:2114|sceneorg:/parties/2000/assembly00/oldskool/demo/oldskool.zip|title:Oldskool Trippin|youtube:QeTnu-KknE8
+author:HP-Productions|position:2|pouet:12775|sceneorg:/parties/2000/assembly00/oldskool/demo/scenefab.zip|title:Scenefabu Jurputus
+author:The Digital Artists|position:3|pouet:2973|sceneorg:/parties/2000/assembly00/oldskool/demo/sequence.zip|title:Sequences|youtube:Rzv-iBqP8U4
+author:Noice|position:4|pouet:3928|sceneorg:/parties/2000/assembly00/oldskool/demo/goatolog.zip|title:Goatology|youtube:K08pDDREvCU
+author:Spaceballs|position:5|pouet:3801|sceneorg:/parties/2000/assembly00/oldskool/demo/psyko_ki.zip|title:Psyko Killer
+author:Contraz|position:6|pouet:13321|sceneorg:/parties/2000/assembly00/oldskool/demo/197-olds.zip|title:Oldskool
+author:dekadence|position:7|pouet:3556|sceneorg:/parties/2000/assembly00/oldskool/demo/no_panic.zip|title:No Panic|youtube:gY0CrtzGz0o
+author:HeadcrasH|position:8|pouet:416|sceneorg:/parties/2000/assembly00/oldskool/demo/drystal_.zip|title:Drystal Cream 2.5|youtube:ZA0vBwhl_n4
+author:Mandel Bros|position:9|pouet:8576|sceneorg:/parties/2000/assembly00/oldskool/demo/201-olds.zip|title:Oldskool Fools
+author:Armo|position:10|sceneorg:/parties/2000/assembly00/oldskool/demo/the_frid.zip|title:The Friday Night Project
+author:Byterapers, Inc.|position:11|sceneorg:/parties/2000/assembly00/oldskool/demo/supremn_.zip|title:Supremen
+author:Hujowa|position:12|pouet:22486|sceneorg:/parties/2000/assembly00/oldskool/demo/our_spee.zip|title:Our Speedway|youtube:tBCMHpGCHUE
+author:Unique|position:13|pouet:13319|sceneorg:/parties/2000/assembly00/oldskool/demo/coira_by.zip|title:Coira|youtube:T5Xul-gGhwk
+author:Depth & Mystic|position:14|pouet:13320|sceneorg:/parties/2000/assembly00/oldskool/demo/new_cont.zip|title:New Control
 
 
 :section Demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
-title:Spot|author:Exceed|position:1|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|pouet:120|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|cappedtv:1208980142-1-0&width=512&height=384
-title:Art|author:Haujobb|position:2|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|pouet:125|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404
-title:lapsus|author:maturefurk|position:3|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|pouet:130|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404
-title:Lotto|author:Doomsday|position:4|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|pouet:481
-title:the nonstop ibiza experience|author:Orange|position:5|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|pouet:129|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404
-title:en haluaisi olla|author:damage|position:6|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|pouet:588|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404
-title:Stuff I whacked together when I was bored.|author:Sol/Trauma|position:7|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|pouet:473
-title:HAUgyJOBB|author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip
-title:Enlight The Surreal|author:Noice|position:9|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|pouet:124|dtv:id_file=4025&id_prod=3559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/124.jpg&width=512&height=404
-title:Reaching|author:Unique|position:10|sceneorg:/parties/2000/assembly00/demo/reaching.zip|pouet:592
-title:live evil|author:Mandula|position:11|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|pouet:297|dtv:id_file=1903&id_prod=6278&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/297.jpg&width=512&height=404
-title:RETURN|author:A-Men PC|position:12|sceneorg:/parties/2000/assembly00/demo/return_b.zip|pouet:6314
-title:Metatag|author:MadWizards|position:13|sceneorg:/parties/2000/assembly00/demo/metatag_.zip|pouet:2299
-title:ahonen does asm|author:the tough guys|position:14|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|pouet:2801|dtv:id_file=3850&id_prod=5618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2801.jpg&width=512&height=404
-title:Explicit Supremacy|author:Apocalypse Design|position:15|sceneorg:/parties/2000/assembly00/demo/explicit.zip|pouet:1541
+author:Exceed|cappedtv:1208980142-1-0&width=512&height=384|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|position:1|pouet:120|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|title:Spot
+author:Haujobb|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404|position:2|pouet:125|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|title:Art
+author:maturefurk|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404|position:3|pouet:130|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|title:lapsus
+author:Doomsday|position:4|pouet:481|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|title:Lotto
+author:Orange|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404|position:5|pouet:129|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|title:the nonstop ibiza experience
+author:damage|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404|position:6|pouet:588|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|title:en haluaisi olla
+author:Sol/Trauma|position:7|pouet:473|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|title:Stuff I whacked together when I was bored.
+author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip|title:HAUgyJOBB
+author:Noice|dtv:id_file=4025&id_prod=3559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/124.jpg&width=512&height=404|position:9|pouet:124|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|title:Enlight The Surreal
+author:Unique|position:10|pouet:592|sceneorg:/parties/2000/assembly00/demo/reaching.zip|title:Reaching
+author:Mandula|dtv:id_file=1903&id_prod=6278&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/297.jpg&width=512&height=404|position:11|pouet:297|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|title:live evil
+author:A-Men PC|position:12|pouet:6314|sceneorg:/parties/2000/assembly00/demo/return_b.zip|title:RETURN
+author:MadWizards|position:13|pouet:2299|sceneorg:/parties/2000/assembly00/demo/metatag_.zip|title:Metatag
+author:the tough guys|dtv:id_file=3850&id_prod=5618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2801.jpg&width=512&height=404|position:14|pouet:2801|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|title:ahonen does asm
+author:Apocalypse Design|position:15|pouet:1541|sceneorg:/parties/2000/assembly00/demo/explicit.zip|title:Explicit Supremacy
 
 
 :section Oldskool music
+:youtube-playlist 1DFAFCD69318BE46
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
-title:Acid Jazzed Evening|author:tempest/damage|position:1|webfile:oldskool_music/acid_jazzed_evening_by_tempest_damage.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/acid_jaz.zip|youtube:tXzLIrgHAxw
-title:A Strange Night In the Hen House|author:kiwi|position:2|webfile:oldskool_music/a_strange_night_in_the_hen_house_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/a_strang.zip|youtube:RiFDFS3q9_s
-title:Dash It|author:Agemixer / Scallop|position:3|sceneorg:/parties/2000/assembly00/oldskool/music/dash_it_.zip
-title:Angel project|author:!Cube|position:4|sceneorg:/parties/2000/assembly00/oldskool/music/angel_pr.zip
-title:sunchild|author:britelite|position:5|sceneorg:/parties/2000/assembly00/oldskool/music/sunchild.zip
-title:Taivalkoski Beats|author:Jean Nine|position:6|webfile:oldskool_music/taivalkoski_beats_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/taivalko.zip|youtube:NFpsCzJ0U8I
-title:Alma Caribe|author:dixan|position:7|webfile:oldskool_music/alma_caribe_by_dixan.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/alma_car.zip|youtube:p1vuv9lGHgo
-title:Miniswing|author:Marvel|position:8|webfile:oldskool_music/miniswing_by_marvel.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/miniswin.zip|youtube:sogeu8Re9g8
-title:vanha koulutalo|author:juzdie|position:9|webfile:oldskool_music/vanha_koulutalo_by_juzdie.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/vanha_ko.zip|youtube:1uaG23h0ucw
-title:hold that thought|author:deetsay / panic|position:10|sceneorg:/parties/2000/assembly00/oldskool/music/hold_tha.zip
-title:An Intro Tune|author:Ganja / Nerve Axis|position:11|webfile:oldskool_music/an_intro_tune_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/an_intro.zip|youtube:tlnvdang8XA
-title:The Great Hole|author:Huezo|position:12|webfile:oldskool_music/the_great_hole_by_huezo.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/the_grea.zip|youtube:24JrfGrYcY8
-title:Afterburner|author:Leopold|position:13|webfile:oldskool_music/afterburner_by_leopold.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/afterbur.zip|youtube:6_sz0g1eXLg
-title:hassans lounge|author:vae|position:14|webfile:oldskool_music/hassans_lounge_by_vae.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/hassans_.zip|youtube:kQz4-dKsWPQ
-title:Antarctica|author:deck / scoopex|position:15|webfile:oldskool_music/antarctica_by_deck_scoopex.mp3|sceneorg:/parties/2000/assembly00/oldskool/music/antarcti.zip|youtube:gxuxs75JAhk
+author:tempest/damage|position:1|sceneorg:/parties/2000/assembly00/oldskool/music/acid_jaz.zip|title:Acid Jazzed Evening|webfile:oldskool_music/acid_jazzed_evening_by_tempest_damage.mp3|youtube:tXzLIrgHAxw
+author:kiwi|position:2|sceneorg:/parties/2000/assembly00/oldskool/music/a_strang.zip|title:A Strange Night In the Hen House|webfile:oldskool_music/a_strange_night_in_the_hen_house_by_kiwi.mp3|youtube:RiFDFS3q9_s
+author:Agemixer / Scallop|position:3|sceneorg:/parties/2000/assembly00/oldskool/music/dash_it_.zip|title:Dash It
+author:!Cube|position:4|sceneorg:/parties/2000/assembly00/oldskool/music/angel_pr.zip|title:Angel project
+author:britelite|position:5|sceneorg:/parties/2000/assembly00/oldskool/music/sunchild.zip|title:sunchild
+author:Jean Nine|position:6|sceneorg:/parties/2000/assembly00/oldskool/music/taivalko.zip|title:Taivalkoski Beats|webfile:oldskool_music/taivalkoski_beats_by_jean_nine.mp3|youtube:NFpsCzJ0U8I
+author:dixan|position:7|sceneorg:/parties/2000/assembly00/oldskool/music/alma_car.zip|title:Alma Caribe|webfile:oldskool_music/alma_caribe_by_dixan.mp3|youtube:p1vuv9lGHgo
+author:Marvel|position:8|sceneorg:/parties/2000/assembly00/oldskool/music/miniswin.zip|title:Miniswing|webfile:oldskool_music/miniswing_by_marvel.mp3|youtube:sogeu8Re9g8
+author:juzdie|position:9|sceneorg:/parties/2000/assembly00/oldskool/music/vanha_ko.zip|title:vanha koulutalo|webfile:oldskool_music/vanha_koulutalo_by_juzdie.mp3|youtube:1uaG23h0ucw
+author:deetsay / panic|position:10|sceneorg:/parties/2000/assembly00/oldskool/music/hold_tha.zip|title:hold that thought
+author:Ganja / Nerve Axis|position:11|sceneorg:/parties/2000/assembly00/oldskool/music/an_intro.zip|title:An Intro Tune|webfile:oldskool_music/an_intro_tune_by_ganja_nerve_axis.mp3|youtube:tlnvdang8XA
+author:Huezo|position:12|sceneorg:/parties/2000/assembly00/oldskool/music/the_grea.zip|title:The Great Hole|webfile:oldskool_music/the_great_hole_by_huezo.mp3|youtube:24JrfGrYcY8
+author:Leopold|position:13|sceneorg:/parties/2000/assembly00/oldskool/music/afterbur.zip|title:Afterburner|webfile:oldskool_music/afterburner_by_leopold.mp3|youtube:6_sz0g1eXLg
+author:vae|position:14|sceneorg:/parties/2000/assembly00/oldskool/music/hassans_.zip|title:hassans lounge|webfile:oldskool_music/hassans_lounge_by_vae.mp3|youtube:kQz4-dKsWPQ
+author:deck / scoopex|position:15|sceneorg:/parties/2000/assembly00/oldskool/music/antarcti.zip|title:Antarctica|webfile:oldskool_music/antarctica_by_deck_scoopex.mp3|youtube:gxuxs75JAhk
 
 
 :section Flash
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Flash demo competition included demos created with <a href="http://en.wikipedia.org/wiki/Adobe_Flash">Flash</p> technology, that is currently known as Adobe Flash. Flash is quite standard component in desktop browsers used for animated graphics.</p>
 
-title:Party People|author:Alpha Design|position:1|sceneorg:/parties/2000/assembly00/flash/party_pe.zip|pouet:27734
-title:vesileimat alkkareissa|author:tAAt|position:2|sceneorg:/parties/2000/assembly00/flash/vesileim.zip
-title:pro|author:jackal|position:3|sceneorg:/parties/2000/assembly00/flash/pro_by_j.zip
-title:No Way|author:Tunneli.com|position:4|sceneorg:/parties/2000/assembly00/flash/no_way_b.zip
-title:Operation Kala-Kalle -First Adventure|author:Aropupu|position:5|sceneorg:/parties/2000/assembly00/flash/operatio.zip
-title:pingpong|author:kure+aava|position:6|sceneorg:/parties/2000/assembly00/flash/pingpong.zip
-title:The Nerd|author:ChosenOne|position:7|sceneorg:/parties/2000/assembly00/flash/the_nerd.zip
-title:Jumalanako mahtavaa?|author:p.orkkana|position:8|sceneorg:/parties/2000/assembly00/flash/jumalana.zip
-title:purkamo.com featuring paleface|author:purkamo.com|position:9|sceneorg:/parties/2000/assembly00/flash/purkamoc.zip
-title:Astraalikakka|author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00/flash/astraali.zip
+author:Alpha Design|position:1|pouet:27734|sceneorg:/parties/2000/assembly00/flash/party_pe.zip|title:Party People
+author:tAAt|position:2|sceneorg:/parties/2000/assembly00/flash/vesileim.zip|title:vesileimat alkkareissa
+author:jackal|position:3|sceneorg:/parties/2000/assembly00/flash/pro_by_j.zip|title:pro
+author:Tunneli.com|position:4|sceneorg:/parties/2000/assembly00/flash/no_way_b.zip|title:No Way
+author:Aropupu|position:5|sceneorg:/parties/2000/assembly00/flash/operatio.zip|title:Operation Kala-Kalle -First Adventure
+author:kure+aava|position:6|sceneorg:/parties/2000/assembly00/flash/pingpong.zip|title:pingpong
+author:ChosenOne|position:7|sceneorg:/parties/2000/assembly00/flash/the_nerd.zip|title:The Nerd
+author:p.orkkana|position:8|sceneorg:/parties/2000/assembly00/flash/jumalana.zip|title:Jumalanako mahtavaa?
+author:purkamo.com|position:9|sceneorg:/parties/2000/assembly00/flash/purkamoc.zip|title:purkamo.com featuring paleface
+author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00/flash/astraali.zip|title:Astraalikakka
 
 
 :section ANSI graphics
 :description <p>ANSI graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
-title:Clasm|author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip|webfile:
-title:Who am I?|author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip|webfile:ansi_graphics/clasm_by_argon.png
-title:Lavalamp|author:Charon|position:3|sceneorg:/parties/2000/assembly00/ansi/lavalamp.zip|webfile:ansi_graphics/lavalamp_by_charon.png
-title:Ninja|author:H7|position:4|sceneorg:/parties/2000/assembly00/ansi/ninja_by.zip|webfile:ansi_graphics/ninja_by_h7.png
-title:punaiseksi muutuin|author:kokki|position:5|sceneorg:/parties/2000/assembly00/ansi/punaisek.zip|webfile:ansi_graphics/punaiseksi_muutuin_by_kokki.png
-title:Raperman|author:jraevaar|position:6|sceneorg:/parties/2000/assembly00/ansi/raperman.zip|webfile:ansi_graphics/raperman_by_jraevaar.png
-title:Devil in disguise|author:DiamonDie|position:7|sceneorg:/parties/2000/assembly00/ansi/devil_in.zip|webfile:ansi_graphics/devil_in_disguise_by_diamondie.png
-title:next generation|author:nultrix|position:8|sceneorg:/parties/2000/assembly00/ansi/next_gen.zip|webfile:ansi_graphics/next_generation_by_nultrix.png
-title:Hate|author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hate_by_.zip|webfile:ansi_graphics/hate_by_outrider.png
+author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip|title:Clasm|webfile:
+author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip|title:Who am I?|webfile:ansi_graphics/clasm_by_argon.png
+author:Charon|position:3|sceneorg:/parties/2000/assembly00/ansi/lavalamp.zip|title:Lavalamp|webfile:ansi_graphics/lavalamp_by_charon.png
+author:H7|position:4|sceneorg:/parties/2000/assembly00/ansi/ninja_by.zip|title:Ninja|webfile:ansi_graphics/ninja_by_h7.png
+author:kokki|position:5|sceneorg:/parties/2000/assembly00/ansi/punaisek.zip|title:punaiseksi muutuin|webfile:ansi_graphics/punaiseksi_muutuin_by_kokki.png
+author:jraevaar|position:6|sceneorg:/parties/2000/assembly00/ansi/raperman.zip|title:Raperman|webfile:ansi_graphics/raperman_by_jraevaar.png
+author:DiamonDie|position:7|sceneorg:/parties/2000/assembly00/ansi/devil_in.zip|title:Devil in disguise|webfile:ansi_graphics/devil_in_disguise_by_diamondie.png
+author:nultrix|position:8|sceneorg:/parties/2000/assembly00/ansi/next_gen.zip|title:next generation|webfile:ansi_graphics/next_generation_by_nultrix.png
+author:Outrider|position:9|sceneorg:/parties/2000/assembly00/ansi/hate_by_.zip|title:Hate|webfile:ansi_graphics/hate_by_outrider.png
 
 
 :section Playstation demo
+:youtube-playlist 0E0E6AA017D9C54D
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Playstation demo competition limited platform to <a href="http://en.wikipedia.org/wiki/PlayStation_(console)">Playstation 1</a> console.</p>
 
-title:Iaquo|author:Yodel|position:1|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|pouet:2432|youtube:-0QHPO2m-og
-title:Rankkuri|author:haujobb|position:2|sceneorg:/parties/2000/assembly00/psx/rankkuri.zip|pouet:2433
+author:Yodel|position:1|pouet:2432|sceneorg:/parties/2000/assembly00/psx/iaquo_by.zip|sceneorgvideo:/parties/2000/assembly00/psx/iaquobyyodel.mpeg|title:Iaquo|youtube:-0QHPO2m-og
+author:haujobb|position:2|pouet:2433|sceneorg:/parties/2000/assembly00/psx/rankkuri.zip|title:Rankkuri
 
 
 :section 4k intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-title:Humus|author:Exploder|position:1|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|pouet:3377|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404
-title:The Blue Man|author:NoID|position:2|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|pouet:7614
-title:Mercury|author:Digimind|position:3|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|pouet:12222
-title:Penseys|author:Moottori|position:4|sceneorg:/parties/2000/assembly00/in4k/penseys_.zip|pouet:14256
-title:Doublert|author:Itchi / THP|position:5|sceneorg:/parties/2000/assembly00/in4k/doublert.zip|pouet:14258
-title:Efecticus Complicus|author:BuG|position:6|sceneorg:/parties/2000/assembly00/in4k/efecticu.zip|pouet:14259
-title:Tubular Vectors|author:hiteck|position:7|sceneorg:/parties/2000/assembly00/in4k/tubular_.zip|pouet:12221
-title:pacman4k|author:NEXTEMPIRE|position:8|sceneorg:/parties/2000/assembly00/in4k/pacman4k.zip|pouet:488
-title:Petium|author:Dairos|position:9|sceneorg:/parties/2000/assembly00/in4k/petium_b.zip|pouet:13333
-title:200 bytes of party beers|author:suckho of byterapers, inc|position:10|sceneorg:/parties/2000/assembly00/in4k/200_byte.zip|pouet:2493
-title:4K2|author:HeadcrasH|position:11|sceneorg:/parties/2000/assembly00/in4k/4k2_by_h.zip|pouet:14260
-title:oliphaunt|author:kilobite|position:12|sceneorg:/parties/2000/assembly00/in4k/oliphaun.zip|pouet:14261
+author:Exploder|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404|position:1|pouet:3377|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|title:Humus
+author:NoID|position:2|pouet:7614|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|title:The Blue Man
+author:Digimind|position:3|pouet:12222|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|title:Mercury
+author:Moottori|position:4|pouet:14256|sceneorg:/parties/2000/assembly00/in4k/penseys_.zip|title:Penseys
+author:Itchi / THP|position:5|pouet:14258|sceneorg:/parties/2000/assembly00/in4k/doublert.zip|title:Doublert
+author:BuG|position:6|pouet:14259|sceneorg:/parties/2000/assembly00/in4k/efecticu.zip|title:Efecticus Complicus
+author:hiteck|position:7|pouet:12221|sceneorg:/parties/2000/assembly00/in4k/tubular_.zip|title:Tubular Vectors
+author:NEXTEMPIRE|position:8|pouet:488|sceneorg:/parties/2000/assembly00/in4k/pacman4k.zip|title:pacman4k
+author:Dairos|position:9|pouet:13333|sceneorg:/parties/2000/assembly00/in4k/petium_b.zip|title:Petium
+author:suckho of byterapers, inc|position:10|pouet:2493|sceneorg:/parties/2000/assembly00/in4k/200_byte.zip|title:200 bytes of party beers
+author:HeadcrasH|position:11|pouet:14260|sceneorg:/parties/2000/assembly00/in4k/4k2_by_h.zip|title:4K2
+author:kilobite|position:12|pouet:14261|sceneorg:/parties/2000/assembly00/in4k/oliphaun.zip|title:oliphaunt
 
 
 :section Animation
+:youtube-playlist 08D52C4ACD74DECD
 :description <p>Competitors created animations where majority of the animation was generated by computer.</p>
 
-title:Leonardos briefcase|author:mass|position:1|webfile:animation/leonardos_briefcase_by_mass.mpeg|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|pouet:2625|dtv:id_file=3328&id_prod=6159&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2625.jpg&width=512&height=404|youtube:342z0EvSM-c
-title:Mummo|author:Miika|position:2|webfile:animation/mummo_by_miika.mpeg|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|pouet:28612|youtube:vqLplqijSwk
-title:The Three Smiths|author:djh & nich|position:3|webfile:animation/the_three_smiths_by_djh_nich.mpeg|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|pouet:28613|youtube:QpeDGlGiXQE
-title:Payback|author:Nybe|position:4|webfile:animation/payback_by_nybe.mpeg|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|pouet:28614|youtube:67l2VW8r8XA
-title:Gates of Hell|author:Vortex|position:5|webfile:animation/gates_of_hell_by_vortex.mpeg|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|pouet:28615|youtube:vU1j_N-OTE8
-title:Cubinson Rosoe|author:Katastrophik|position:6|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|pouet:28616|youtube:mnRi6NXTQig
-title:Creepy Horror|author:Data2|position:7|webfile:animation/creepy_horror_by_data2.mpeg|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|pouet:28617|youtube:xl8QIh2Rh4M
-title:escape|author:nOte|position:8|webfile:animation/escape_by_note.mpeg|sceneorg:/parties/2000/assembly00/anim/escape.mpg|pouet:28618|youtube:5rUoj3DeHYY
-title:spidergate sg-69|author:propulsion|position:9|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|pouet:28619|youtube:Ns_gdoyTSHA
-title:Abnormal Termination|author:Bega|position:10|webfile:animation/abnormal_termination_by_bega.mpeg|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|pouet:28620|youtube:B1m4ZIFMxKw
-title:the Hive|author:CEOD|position:11|webfile:animation/the_hive_by_ceod.mpeg|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|pouet:28621|youtube:XrG0nniMQ-M
+author:mass|dtv:id_file=3328&id_prod=6159&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2625.jpg&width=512&height=404|position:1|pouet:2625|sceneorg:/parties/2000/assembly00/anim/leonardo.mpg|title:Leonardos briefcase|webfile:animation/leonardos_briefcase_by_mass.mpeg|youtube:342z0EvSM-c
+author:Miika|position:2|pouet:28612|sceneorg:/parties/2000/assembly00/anim/mummo.mpg|title:Mummo|webfile:animation/mummo_by_miika.mpeg|youtube:vqLplqijSwk
+author:djh & nich|position:3|pouet:28613|sceneorg:/parties/2000/assembly00/anim/the_thre.zip|title:The Three Smiths|webfile:animation/the_three_smiths_by_djh_nich.mpeg|youtube:QpeDGlGiXQE
+author:Nybe|position:4|pouet:28614|sceneorg:/parties/2000/assembly00/anim/cowproductions-payback.mpg|title:Payback|webfile:animation/payback_by_nybe.mpeg|youtube:67l2VW8r8XA
+author:Vortex|position:5|pouet:28615|sceneorg:/parties/2000/assembly00/anim/gatesoh.mpg|title:Gates of Hell|webfile:animation/gates_of_hell_by_vortex.mpeg|youtube:vU1j_N-OTE8
+author:Katastrophik|position:6|pouet:28616|sceneorg:/parties/2000/assembly00/anim/cubinson.mpg|title:Cubinson Rosoe|webfile:animation/cubinson_rosoe_by_katastrophik.mpeg|youtube:mnRi6NXTQig
+author:Data2|position:7|pouet:28617|sceneorg:/parties/2000/assembly00/anim/creepy.mpg|title:Creepy Horror|webfile:animation/creepy_horror_by_data2.mpeg|youtube:xl8QIh2Rh4M
+author:nOte|position:8|pouet:28618|sceneorg:/parties/2000/assembly00/anim/escape.mpg|title:escape|webfile:animation/escape_by_note.mpeg|youtube:5rUoj3DeHYY
+author:propulsion|position:9|pouet:28619|sceneorg:/parties/2000/assembly00/anim/spiderga.zip|title:spidergate sg-69|webfile:animation/spidergate_sg_69_by_propulsion.mpeg|youtube:Ns_gdoyTSHA
+author:Bega|position:10|pouet:28620|sceneorg:/parties/2000/assembly00/anim/abnormal.mpg|title:Abnormal Termination|webfile:animation/abnormal_termination_by_bega.mpeg|youtube:B1m4ZIFMxKw
+author:CEOD|position:11|pouet:28621|sceneorg:/parties/2000/assembly00/anim/h1v3.mpg|title:the Hive|webfile:animation/the_hive_by_ceod.mpeg|youtube:XrG0nniMQ-M
 
 
 :section Pixel graphics
 :description <p>Pictures were created by drawing them by hand.</p>
 
-title:Origin|author:Neurodruid|position:1|webfile:pixel_graphics/origin_by_neurodruid.png|sceneorg:/parties/2000/assembly00/grfx/origin_b.zip
-title:Kam tu Papa|author:Marvel|position:2|webfile:pixel_graphics/kam_tu_papa_by_marvel.png|sceneorg:/parties/2000/assembly00/grfx/kam_tu_p.zip
-title:Cybobird|author:Lance|position:3|webfile:pixel_graphics/cybobird_by_lance.png|sceneorg:/parties/2000/assembly00/grfx/cybobird.zip
-title:Angie|author:Visualice|position:4|webfile:pixel_graphics/angie_by_visualice.png|sceneorg:/parties/2000/assembly00/grfx/angie_by.zip
-title:Heavenly|author:Infernal|position:5|webfile:pixel_graphics/heavenly_by_infernal.png|sceneorg:/parties/2000/assembly00/grfx/heavenly.zip
-title:runaway|author:KTHULU|position:6|webfile:pixel_graphics/runaway_by_kthulu.png|sceneorg:/parties/2000/assembly00/grfx/runaway_.zip
-title:Babylon system|author:Partikle|position:7|webfile:pixel_graphics/babylon_system_by_partikle.png|sceneorg:/parties/2000/assembly00/grfx/babylon_.zip
-title:point of view|author:Saffron|position:8|webfile:pixel_graphics/point_of_view_by_saffron.png|sceneorg:/parties/2000/assembly00/grfx/point_of.zip
-title:Lazarus|author:Morbid/Draconus|position:9|webfile:pixel_graphics/lazarus_by_morbid_draconus.png|sceneorg:/parties/2000/assembly00/grfx/lazarus_.zip
-title:Peregrinate|author:lum|position:10|webfile:pixel_graphics/peregrinate_by_lum.jpeg|sceneorg:/parties/2000/assembly00/grfx/peregrin.zip
-title:pirulliset bailut|author:derpiipo|position:11|webfile:pixel_graphics/pirulliset_bailut_by_derpiipo.png|sceneorg:/parties/2000/assembly00/grfx/pirullis.zip
-title:nexus|author:mdub futile-X|position:12|webfile:pixel_graphics/nexus_by_mdub_futile_x.png|sceneorg:/parties/2000/assembly00/grfx/nexus_by.zip
-title:heaven|author:mush/delirium|position:13|webfile:pixel_graphics/heaven_by_mush_delirium.png|sceneorg:/parties/2000/assembly00/grfx/heaven_b.zip
-title:Angels|author:Klaivu|position:14|webfile:pixel_graphics/angels_by_klaivu.png|sceneorg:/parties/2000/assembly00/grfx/angels_b.zip
-title:off guard|author:Shar|position:15|webfile:pixel_graphics/off_guard_by_shar.png|sceneorg:/parties/2000/assembly00/grfx/off_guar.zip
-title:Fairy tale|author:Bg|position:16|webfile:pixel_graphics/fairy_tale_by_bg.png|sceneorg:/parties/2000/assembly00/grfx/fairy_ta.zip
-title:Renew the King inside you|author:Oozie|position:17|webfile:pixel_graphics/renew_the_king_inside_you_by_oozie.png|sceneorg:/parties/2000/assembly00/grfx/renew_th.zip
-title:Never Ending Story|author:kig|position:18|webfile:pixel_graphics/never_ending_story_by_kig.png|sceneorg:/parties/2000/assembly00/grfx/never_en.zip
-title:Alpha Draconis|author:T&T|position:19|sceneorg:/parties/2000/assembly00/grfx/alpha_dr.zip
-title:LittleOne|author:Octobylev|position:20|webfile:pixel_graphics/littleone_by_octobylev.png|sceneorg:/parties/2000/assembly00/grfx/littleon.zip
-title:Reaching for humility|author:prst|position:21|webfile:pixel_graphics/reaching_for_humility_by_prst.png|sceneorg:/parties/2000/assembly00/grfx/reaching.zip
-title:GitSh|author:Nightwind|position:22|webfile:pixel_graphics/gitsh_by_nightwind.png|sceneorg:/parties/2000/assembly00/grfx/gitsh_by.zip
-title:Sinking|author:Oxide|position:23|webfile:pixel_graphics/sinking_by_oxide.png|sceneorg:/parties/2000/assembly00/grfx/sinking_.zip
-title:Liberation|author:Borderline|position:24|webfile:pixel_graphics/liberation_by_borderline.png|sceneorg:/parties/2000/assembly00/grfx/liberati.zip
-title:ei kiva|author:kokki|position:25|webfile:pixel_graphics/ei_kiva_by_kokki.png|sceneorg:/parties/2000/assembly00/grfx/ei_kiva_.zip
+author:Neurodruid|position:1|sceneorg:/parties/2000/assembly00/grfx/origin_b.zip|title:Origin|webfile:pixel_graphics/origin_by_neurodruid.png
+author:Marvel|position:2|sceneorg:/parties/2000/assembly00/grfx/kam_tu_p.zip|title:Kam tu Papa|webfile:pixel_graphics/kam_tu_papa_by_marvel.png
+author:Lance|position:3|sceneorg:/parties/2000/assembly00/grfx/cybobird.zip|title:Cybobird|webfile:pixel_graphics/cybobird_by_lance.png
+author:Visualice|position:4|sceneorg:/parties/2000/assembly00/grfx/angie_by.zip|title:Angie|webfile:pixel_graphics/angie_by_visualice.png
+author:Infernal|position:5|sceneorg:/parties/2000/assembly00/grfx/heavenly.zip|title:Heavenly|webfile:pixel_graphics/heavenly_by_infernal.png
+author:KTHULU|position:6|sceneorg:/parties/2000/assembly00/grfx/runaway_.zip|title:runaway|webfile:pixel_graphics/runaway_by_kthulu.png
+author:Partikle|position:7|sceneorg:/parties/2000/assembly00/grfx/babylon_.zip|title:Babylon system|webfile:pixel_graphics/babylon_system_by_partikle.png
+author:Saffron|position:8|sceneorg:/parties/2000/assembly00/grfx/point_of.zip|title:point of view|webfile:pixel_graphics/point_of_view_by_saffron.png
+author:Morbid/Draconus|position:9|sceneorg:/parties/2000/assembly00/grfx/lazarus_.zip|title:Lazarus|webfile:pixel_graphics/lazarus_by_morbid_draconus.png
+author:lum|position:10|sceneorg:/parties/2000/assembly00/grfx/peregrin.zip|title:Peregrinate|webfile:pixel_graphics/peregrinate_by_lum.jpeg
+author:derpiipo|position:11|sceneorg:/parties/2000/assembly00/grfx/pirullis.zip|title:pirulliset bailut|webfile:pixel_graphics/pirulliset_bailut_by_derpiipo.png
+author:mdub futile-X|position:12|sceneorg:/parties/2000/assembly00/grfx/nexus_by.zip|title:nexus|webfile:pixel_graphics/nexus_by_mdub_futile_x.png
+author:mush/delirium|position:13|sceneorg:/parties/2000/assembly00/grfx/heaven_b.zip|title:heaven|webfile:pixel_graphics/heaven_by_mush_delirium.png
+author:Klaivu|position:14|sceneorg:/parties/2000/assembly00/grfx/angels_b.zip|title:Angels|webfile:pixel_graphics/angels_by_klaivu.png
+author:Shar|position:15|sceneorg:/parties/2000/assembly00/grfx/off_guar.zip|title:off guard|webfile:pixel_graphics/off_guard_by_shar.png
+author:Bg|position:16|sceneorg:/parties/2000/assembly00/grfx/fairy_ta.zip|title:Fairy tale|webfile:pixel_graphics/fairy_tale_by_bg.png
+author:Oozie|position:17|sceneorg:/parties/2000/assembly00/grfx/renew_th.zip|title:Renew the King inside you|webfile:pixel_graphics/renew_the_king_inside_you_by_oozie.png
+author:kig|position:18|sceneorg:/parties/2000/assembly00/grfx/never_en.zip|title:Never Ending Story|webfile:pixel_graphics/never_ending_story_by_kig.png
+author:T&T|position:19|sceneorg:/parties/2000/assembly00/grfx/alpha_dr.zip|title:Alpha Draconis
+author:Octobylev|position:20|sceneorg:/parties/2000/assembly00/grfx/littleon.zip|title:LittleOne|webfile:pixel_graphics/littleone_by_octobylev.png
+author:prst|position:21|sceneorg:/parties/2000/assembly00/grfx/reaching.zip|title:Reaching for humility|webfile:pixel_graphics/reaching_for_humility_by_prst.png
+author:Nightwind|position:22|sceneorg:/parties/2000/assembly00/grfx/gitsh_by.zip|title:GitSh|webfile:pixel_graphics/gitsh_by_nightwind.png
+author:Oxide|position:23|sceneorg:/parties/2000/assembly00/grfx/sinking_.zip|title:Sinking|webfile:pixel_graphics/sinking_by_oxide.png
+author:Borderline|position:24|sceneorg:/parties/2000/assembly00/grfx/liberati.zip|title:Liberation|webfile:pixel_graphics/liberation_by_borderline.png
+author:kokki|position:25|sceneorg:/parties/2000/assembly00/grfx/ei_kiva_.zip|title:ei kiva|webfile:pixel_graphics/ei_kiva_by_kokki.png
 
 
 :section Wild demo
+:youtube-playlist 6B6CEFC43B481874
 :description <p>In Wild demo competition videos could be produced with any method desired. The idea Wild demo competition was to give a competition where videos and demos that would not fit other categories could participate.</p>
 
-title:LeGorso|author:tAAt|position:1|webfile:wild_demo/legorso_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|pouet:2626|dtv:id_file=3345&id_prod=6140&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2626.jpg&width=512&height=404|youtube:kmPHdqoowAk
-title:What Is a Woman|author:Nyhjä Group|position:2
-title:Vihred uhka|author:Insane Bastards|position:3
-title:Bitman & Lowping|author:Lantrix|position:4|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|pouet:28611|youtube:btj7QqDMSnU
-title:Assembler (k)|author:Funky Bong|position:5|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|youtube:eDpKsovdq8k
-title:The Game|author:Joorus & Julle|position:6|webfile:wild_demo/the_game_by_joorus_julle.mpeg|sceneorg:/parties/2000/assembly00/wild/the_game.zip|pouet:28610|youtube:_Kgi47REmf8
-title:Ratsia II - the Soldiers of Asm2k|author:tAAt|position:7|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|youtube:e_-8xbn_5Z4
-title:Shebaxan - Teaser Trailer|author:Jussi Castellanos|position:8
-title:Diaplo - Uhka syvdltd|author:Episent|position:9|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|pouet:20920|youtube:HwvVDQdvjPs
-title:Everything Falls (trailer!)|author:Tontza / Ice CD ISDN|position:10
-title:Vesikauhu|author:Bandwagon|position:11|webfile:wild_demo/vesikauhu_by_bandwagon.avi|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|pouet:9895|dtv:id_file=4120&id_prod=11534&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/9895.jpg&width=512&height=404|youtube:a2SASU3gGrc
-title:T.I.T.|author:Onnelliset Multimedianuoret|position:12|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|pouet:6315|youtube:rjQjbMYKrr0
-title:Perfect Day|author:BHC|position:13
-title:Ei Sormia Sinne, Pliis!|author:ENTR0P1C!Production|position:14
-title:The Meeting|author:Teophania|position:15
-title:Timelapse|author:BorderLine|position:16
+author:tAAt|dtv:id_file=3345&id_prod=6140&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2626.jpg&width=512&height=404|position:1|pouet:2626|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|title:LeGorso|webfile:wild_demo/legorso_by_taat.mpeg|youtube:kmPHdqoowAk
+author:Nyhjä Group|position:2|title:What Is a Woman
+author:Insane Bastards|position:3|title:Vihred uhka
+author:Lantrix|position:4|pouet:28611|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|title:Bitman & Lowping|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|youtube:btj7QqDMSnU
+author:Funky Bong|position:5|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|title:Assembler (k)|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|youtube:eDpKsovdq8k
+author:Joorus & Julle|position:6|pouet:28610|sceneorg:/parties/2000/assembly00/wild/the_game.zip|title:The Game|webfile:wild_demo/the_game_by_joorus_julle.mpeg|youtube:_Kgi47REmf8
+author:tAAt|position:7|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|title:Ratsia II - the Soldiers of Asm2k|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|youtube:e_-8xbn_5Z4
+author:Jussi Castellanos|position:8|title:Shebaxan - Teaser Trailer
+author:Episent|position:9|pouet:20920|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|title:Diaplo - Uhka syvdltd|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|youtube:HwvVDQdvjPs
+author:Tontza / Ice CD ISDN|position:10|title:Everything Falls (trailer!)
+author:Bandwagon|dtv:id_file=4120&id_prod=11534&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/9895.jpg&width=512&height=404|position:11|pouet:9895|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|title:Vesikauhu|webfile:wild_demo/vesikauhu_by_bandwagon.avi|youtube:a2SASU3gGrc
+author:Onnelliset Multimedianuoret|position:12|pouet:6315|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|title:T.I.T.|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|youtube:rjQjbMYKrr0
+author:BHC|position:13|title:Perfect Day
+author:ENTR0P1C!Production|position:14|title:Ei Sormia Sinne, Pliis!
+author:Teophania|position:15|title:The Meeting
+author:BorderLine|position:16|title:Timelapse
 
 
 :section Raytrace graphics
 :description <p><a href="http://en.wikipedia.org/wiki/Ray_tracing_(graphics)">Ray tracing</a> is a method to create 3D computer graphics. In Raytraced graphics competition picture was completely created by ray tracing and no further modification by hand of the resulting image was allowed.</p>
 
-title:Opus Dei|author:Olmirad|position:1|webfile:raytrace_graphics/opus_dei_by_olmirad.png|sceneorg:/parties/2000/assembly00/grtc/opus_dei.zip
-title:ANTipathy|author:DeCoder & Altiplano|position:2|webfile:raytrace_graphics/antipathy_by_decoder_altiplano.png|sceneorg:/parties/2000/assembly00/grtc/antipath.zip
-title:Silent Honor|author:marzu|position:3|webfile:raytrace_graphics/silent_honor_by_marzu.png|sceneorg:/parties/2000/assembly00/grtc/silent_h.zip
-title:New Orleansin crack-huora|author:Marvel|position:4|webfile:raytrace_graphics/new_orleansin_crack_huora_by_marvel.png|sceneorg:/parties/2000/assembly00/grtc/new_orle.zip
-title:HMS Belfast|author:Data2|position:5|webfile:raytrace_graphics/hms_belfast_by_data2.png|sceneorg:/parties/2000/assembly00/grtc/hms_belf.zip
-title:The Prisoner|author:Ugli|position:6|webfile:raytrace_graphics/the_prisoner_by_ugli.png|sceneorg:/parties/2000/assembly00/grtc/the_pris.zip
-title:flag|author:Nitro|position:7|webfile:raytrace_graphics/flag_by_nitro.png|sceneorg:/parties/2000/assembly00/grtc/flag_by_.zip
-title:LegoAssembly|author:Statik|position:8|webfile:raytrace_graphics/legoassembly_by_statik.png|sceneorg:/parties/2000/assembly00/grtc/legoasse.zip
-title:Howl|author:Hoax|position:9|webfile:raytrace_graphics/howl_by_hoax.png|sceneorg:/parties/2000/assembly00/grtc/howl_by_.zip
-title:divine light|author:KOWBOY|position:10|webfile:raytrace_graphics/divine_light_by_kowboy.png|sceneorg:/parties/2000/assembly00/grtc/divine_l.zip
-title:Sunday|author:Xz17|position:11|webfile:raytrace_graphics/sunday_by_xz17.png|sceneorg:/parties/2000/assembly00/grtc/sunday_b.zip
-title:Vessa|author:Nybe|position:12|webfile:raytrace_graphics/vessa_by_nybe.png|sceneorg:/parties/2000/assembly00/grtc/vessa_by.zip
-title:Planetfall|author:uncle-x|position:13|webfile:raytrace_graphics/planetfall_by_uncle_x.png|sceneorg:/parties/2000/assembly00/grtc/planetfa.zip
-title:Black Magic Woman|author:Legba|position:14|webfile:raytrace_graphics/black_magic_woman_by_legba.png|sceneorg:/parties/2000/assembly00/grtc/black__m.zip
-title:Loghouse|author:isw|position:15|webfile:raytrace_graphics/loghouse_by_isw.png|sceneorg:/parties/2000/assembly00/grtc/loghouse.zip
-title:Deliverance|author:spikey|position:16|webfile:raytrace_graphics/deliverance_by_spikey.png|sceneorg:/parties/2000/assembly00/grtc/delivera.zip
-title:Zepoid|author:Kjue|position:17|webfile:raytrace_graphics/zepoid_by_kjue.png|sceneorg:/parties/2000/assembly00/grtc/zepoid_b.zip
-title:God ate my Banana|author:Oozie|position:18|webfile:raytrace_graphics/god_ate_my_banana_by_oozie.png|sceneorg:/parties/2000/assembly00/grtc/god_ate_.zip
-title:Baari|author:Huezo|position:19|webfile:raytrace_graphics/baari_by_huezo.png|sceneorg:/parties/2000/assembly00/grtc/baari_by.zip
-title:Wizards Room|author:Ember|position:20|webfile:raytrace_graphics/wizards_room_by_ember.png|sceneorg:/parties/2000/assembly00/grtc/wizards_.zip
+author:Olmirad|position:1|sceneorg:/parties/2000/assembly00/grtc/opus_dei.zip|title:Opus Dei|webfile:raytrace_graphics/opus_dei_by_olmirad.png
+author:DeCoder & Altiplano|position:2|sceneorg:/parties/2000/assembly00/grtc/antipath.zip|title:ANTipathy|webfile:raytrace_graphics/antipathy_by_decoder_altiplano.png
+author:marzu|position:3|sceneorg:/parties/2000/assembly00/grtc/silent_h.zip|title:Silent Honor|webfile:raytrace_graphics/silent_honor_by_marzu.png
+author:Marvel|position:4|sceneorg:/parties/2000/assembly00/grtc/new_orle.zip|title:New Orleansin crack-huora|webfile:raytrace_graphics/new_orleansin_crack_huora_by_marvel.png
+author:Data2|position:5|sceneorg:/parties/2000/assembly00/grtc/hms_belf.zip|title:HMS Belfast|webfile:raytrace_graphics/hms_belfast_by_data2.png
+author:Ugli|position:6|sceneorg:/parties/2000/assembly00/grtc/the_pris.zip|title:The Prisoner|webfile:raytrace_graphics/the_prisoner_by_ugli.png
+author:Nitro|position:7|sceneorg:/parties/2000/assembly00/grtc/flag_by_.zip|title:flag|webfile:raytrace_graphics/flag_by_nitro.png
+author:Statik|position:8|sceneorg:/parties/2000/assembly00/grtc/legoasse.zip|title:LegoAssembly|webfile:raytrace_graphics/legoassembly_by_statik.png
+author:Hoax|position:9|sceneorg:/parties/2000/assembly00/grtc/howl_by_.zip|title:Howl|webfile:raytrace_graphics/howl_by_hoax.png
+author:KOWBOY|position:10|sceneorg:/parties/2000/assembly00/grtc/divine_l.zip|title:divine light|webfile:raytrace_graphics/divine_light_by_kowboy.png
+author:Xz17|position:11|sceneorg:/parties/2000/assembly00/grtc/sunday_b.zip|title:Sunday|webfile:raytrace_graphics/sunday_by_xz17.png
+author:Nybe|position:12|sceneorg:/parties/2000/assembly00/grtc/vessa_by.zip|title:Vessa|webfile:raytrace_graphics/vessa_by_nybe.png
+author:uncle-x|position:13|sceneorg:/parties/2000/assembly00/grtc/planetfa.zip|title:Planetfall|webfile:raytrace_graphics/planetfall_by_uncle_x.png
+author:Legba|position:14|sceneorg:/parties/2000/assembly00/grtc/black__m.zip|title:Black Magic Woman|webfile:raytrace_graphics/black_magic_woman_by_legba.png
+author:isw|position:15|sceneorg:/parties/2000/assembly00/grtc/loghouse.zip|title:Loghouse|webfile:raytrace_graphics/loghouse_by_isw.png
+author:spikey|position:16|sceneorg:/parties/2000/assembly00/grtc/delivera.zip|title:Deliverance|webfile:raytrace_graphics/deliverance_by_spikey.png
+author:Kjue|position:17|sceneorg:/parties/2000/assembly00/grtc/zepoid_b.zip|title:Zepoid|webfile:raytrace_graphics/zepoid_by_kjue.png
+author:Oozie|position:18|sceneorg:/parties/2000/assembly00/grtc/god_ate_.zip|title:God ate my Banana|webfile:raytrace_graphics/god_ate_my_banana_by_oozie.png
+author:Huezo|position:19|sceneorg:/parties/2000/assembly00/grtc/baari_by.zip|title:Baari|webfile:raytrace_graphics/baari_by_huezo.png
+author:Ember|position:20|sceneorg:/parties/2000/assembly00/grtc/wizards_.zip|title:Wizards Room|webfile:raytrace_graphics/wizards_room_by_ember.png
 
 
 :section Multichannel music
+:youtube-playlist 5806ADB61AC2A36A
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
-title:Papa funk goes larp|author:Vilunen|position:1|webfile:multichannel_music/papa_funk_goes_larp_by_vilunen.mp3|sceneorg:/parties/2000/assembly00/mmul/papa_fun.zip|youtube:QAs5l0Ev8Uo
-title:Dreams n fantasies|author:PK|position:2|webfile:multichannel_music/dreams_n_fantasies_by_pk.mp3|sceneorg:/parties/2000/assembly00/mmul/dreams_n.zip|youtube:5hbq5WfsZ4o
-title:napol by dawn|author:gspot|position:3|webfile:multichannel_music/napol_by_dawn_by_gspot.mp3|sceneorg:/parties/2000/assembly00/mmul/napol_by.zip|youtube:wCKClOs3chg
-title:Track no stomach too|author:Nitro|position:4|webfile:multichannel_music/track_no_stomach_too_by_nitro.mp3|sceneorg:/parties/2000/assembly00/mmul/track_no.zip|youtube:0V4QXs6U4vA
-title:hedelmdsalaattia|author:g-crest & maza|position:5|webfile:multichannel_music/hedelmdsalaattia_by_g_crest_maza.mp3|sceneorg:/parties/2000/assembly00/mmul/hedelmsa.zip|youtube:ruyvuch6eeY
-title:turquoise|author:reed|position:6|webfile:multichannel_music/turquoise_by_reed.mp3|sceneorg:/parties/2000/assembly00/mmul/turquois.zip|youtube:nKRUsz3DzE4
-title:Landmark of Lullabies|author:Acumen|position:7|webfile:multichannel_music/landmark_of_lullabies_by_acumen.mp3|sceneorg:/parties/2000/assembly00/mmul/landmark.zip|youtube:ecK2hXaPurY
-title:Essence of Life|author:Prophecy|position:8|webfile:multichannel_music/essence_of_life_by_prophecy.mp3|sceneorg:/parties/2000/assembly00/mmul/essence_.zip|youtube:wH8xfwBuAxU
-title:Late Night Session|author:Ganja / Nerve Axis|position:9|webfile:multichannel_music/late_night_session_by_ganja_nerve_axis.mp3|sceneorg:/parties/2000/assembly00/mmul/late_nig.zip|youtube:u7SCzET3N1Q
-title:Sdhkvjeesus|author:lawb|position:10|webfile:multichannel_music/sdhkvjeesus_by_lawb.mp3|sceneorg:/parties/2000/assembly00/mmul/shkjeesu.zip|youtube:WZBtzsWAfYw
-title:The Day Big Ugly Bill Ate My Electric Guitar|author:kiwi|position:11|webfile:multichannel_music/the_day_big_ugly_bill_ate_my_electric_guitar_by_kiwi.mp3|sceneorg:/parties/2000/assembly00/mmul/the_day_.zip|youtube:7RkCl7aehx0
-title:Lemonapplet Beautiful|author:Jean Nine|position:12|webfile:multichannel_music/lemonapplet_beautiful_by_jean_nine.mp3|sceneorg:/parties/2000/assembly00/mmul/lemonapp.zip|youtube:RiH4EynNs94
-title:On the winds|author:Breeze|position:13|webfile:multichannel_music/on_the_winds_by_breeze.mp3|sceneorg:/parties/2000/assembly00/mmul/on_the_w.zip|youtube:9NJwP66M07c
-title:computerese|author:smirk/damage|position:14|webfile:multichannel_music/computerese_by_smirk_damage.mp3|sceneorg:/parties/2000/assembly00/mmul/computer.zip|youtube:jMSqKrQ1qUw
-title:freq.ency|author:wayout/gzar, chemical reaction, nivea|position:15|webfile:multichannel_music/freq_ency_by_wayout_gzar_chemical_reaction_nivea.mp3|sceneorg:/parties/2000/assembly00/mmul/freqency.zip|youtube:kcMnzIxbP4M
+author:Vilunen|position:1|sceneorg:/parties/2000/assembly00/mmul/papa_fun.zip|title:Papa funk goes larp|webfile:multichannel_music/papa_funk_goes_larp_by_vilunen.mp3|youtube:QAs5l0Ev8Uo
+author:PK|position:2|sceneorg:/parties/2000/assembly00/mmul/dreams_n.zip|title:Dreams n fantasies|webfile:multichannel_music/dreams_n_fantasies_by_pk.mp3|youtube:5hbq5WfsZ4o
+author:gspot|position:3|sceneorg:/parties/2000/assembly00/mmul/napol_by.zip|title:napol by dawn|webfile:multichannel_music/napol_by_dawn_by_gspot.mp3|youtube:wCKClOs3chg
+author:Nitro|position:4|sceneorg:/parties/2000/assembly00/mmul/track_no.zip|title:Track no stomach too|webfile:multichannel_music/track_no_stomach_too_by_nitro.mp3|youtube:0V4QXs6U4vA
+author:g-crest & maza|position:5|sceneorg:/parties/2000/assembly00/mmul/hedelmsa.zip|title:hedelmdsalaattia|webfile:multichannel_music/hedelmdsalaattia_by_g_crest_maza.mp3|youtube:ruyvuch6eeY
+author:reed|position:6|sceneorg:/parties/2000/assembly00/mmul/turquois.zip|title:turquoise|webfile:multichannel_music/turquoise_by_reed.mp3|youtube:nKRUsz3DzE4
+author:Acumen|position:7|sceneorg:/parties/2000/assembly00/mmul/landmark.zip|title:Landmark of Lullabies|webfile:multichannel_music/landmark_of_lullabies_by_acumen.mp3|youtube:ecK2hXaPurY
+author:Prophecy|position:8|sceneorg:/parties/2000/assembly00/mmul/essence_.zip|title:Essence of Life|webfile:multichannel_music/essence_of_life_by_prophecy.mp3|youtube:wH8xfwBuAxU
+author:Ganja / Nerve Axis|position:9|sceneorg:/parties/2000/assembly00/mmul/late_nig.zip|title:Late Night Session|webfile:multichannel_music/late_night_session_by_ganja_nerve_axis.mp3|youtube:u7SCzET3N1Q
+author:lawb|position:10|sceneorg:/parties/2000/assembly00/mmul/shkjeesu.zip|title:Sdhkvjeesus|webfile:multichannel_music/sdhkvjeesus_by_lawb.mp3|youtube:WZBtzsWAfYw
+author:kiwi|position:11|sceneorg:/parties/2000/assembly00/mmul/the_day_.zip|title:The Day Big Ugly Bill Ate My Electric Guitar|webfile:multichannel_music/the_day_big_ugly_bill_ate_my_electric_guitar_by_kiwi.mp3|youtube:7RkCl7aehx0
+author:Jean Nine|position:12|sceneorg:/parties/2000/assembly00/mmul/lemonapp.zip|title:Lemonapplet Beautiful|webfile:multichannel_music/lemonapplet_beautiful_by_jean_nine.mp3|youtube:RiH4EynNs94
+author:Breeze|position:13|sceneorg:/parties/2000/assembly00/mmul/on_the_w.zip|title:On the winds|webfile:multichannel_music/on_the_winds_by_breeze.mp3|youtube:9NJwP66M07c
+author:smirk/damage|position:14|sceneorg:/parties/2000/assembly00/mmul/computer.zip|title:computerese|webfile:multichannel_music/computerese_by_smirk_damage.mp3|youtube:jMSqKrQ1qUw
+author:wayout/gzar, chemical reaction, nivea|position:15|sceneorg:/parties/2000/assembly00/mmul/freqency.zip|title:freq.ency|webfile:multichannel_music/freq_ency_by_wayout_gzar_chemical_reaction_nivea.mp3|youtube:kcMnzIxbP4M
+
