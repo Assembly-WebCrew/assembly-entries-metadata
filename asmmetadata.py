@@ -57,6 +57,11 @@ def parse_file(file_handle):
                 clean_value = value.strip()
                 if len(clean_value):
                     section['description'] = clean_value
+            elif data_type == ":youtube-playlist":
+                assert section is not None
+                assert 'youtube-playlist' not in section
+                clean_value = value.strip()
+                section['youtube-playlist'] = clean_value
             elif data_type == ":pms-category":
                 # Categories can only be under section.
                 assert section is not None
@@ -105,6 +110,8 @@ def print_metadata(outfile, year_entry_data):
     outfile.write(":year %d\n" % year_entry_data.year)
     for section in year_entry_data.sections:
         outfile.write("\n:section %s\n" % section['name'])
+        if 'youtube-playlist' in section:
+            outfile.write(":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
         if 'pms-category' in section:
             outfile.write(":pms-category %s\n" % section['pms-category'])
         if 'description' in section:
