@@ -9,6 +9,7 @@ title:Unnamed|author:Agemixer/Astral|position:3
 
 
 :section 4 channel music
+:youtube-playlist 25A308D730E7CC87
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 title:Compulsion to Obey|author:Lizardking/Razor1911|position:1|webfile:4_channel_music/compulsion_to_obey_by_lizardking_razor1911.mp3|sceneorg:/parties/1994/assembly94/m4ch/comp2obe.zip|youtube:hdZC659Vvdg
@@ -24,6 +25,7 @@ title:Happypaskamies|author:Moby/Sanity|position:10
 
 
 :section PC demo
+:youtube-playlist 693131C114C49D77
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1994 PCs.</p>
 
 title:Verses|author:Electro Motive Force|position:1|sceneorg:/parties/1994/assembly94/demo/verses.zip|pouet:67|dtv:id_file=2337&id_prod=11521&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/67.jpg&width=512&height=404
@@ -49,6 +51,7 @@ title:Dawn|author:Tei|position:20|sceneorg:/parties/1994/assembly94/demo/dawn.zi
 title:The Mo|author:Demons|position:21|sceneorg:/parties/1994/assembly94/demo/themo.zip|pouet:8663|youtube:mMgUEAuYeLw
 
 :section 32 channel music
+:youtube-playlist 8D6CC2B7D65BFE57
 :description <p>In 32 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
 title:Walkaway|author:Stargazer/Sonic|position:1|webfile:32_channel_music/walkaway_by_stargazer_sonic.mp3|sceneorg:/parties/1994/assembly94/mmul/walkaway.zip|youtube:7cj8RRDaJy4
@@ -72,6 +75,7 @@ title:Ischarah|author:Mr.Sex/Byterapers|position:3
 
 
 :section PC 4k intro
+:youtube-playlist 581E5FB7350DAFE3
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 4k intro competition these programs are limited in size to maximum 4096 bytes on 1994 PCs. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 

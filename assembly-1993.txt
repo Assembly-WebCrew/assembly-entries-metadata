@@ -2,131 +2,138 @@
 
 :section Amiga music
 
-title:unknown|author:Dizzy / Carillon & Cyberiad|position:1
-title:unknown|author:Groo / C & C|position:2
-title:unknown|author:Captain / Frantic|position:2
-title:unknown|author:Prime Premium / C & C|position:4
-title:unknown|author:Strobo / Stellar|position:5
-title:unknown|author:Uncle Sam / C & C|position:6
-title:unknown|author:Syndrome / Sonic|position:7
-title:unknown|author:Delorean / Complex|position:8
-title:unknown|author:Dean / C & C|position:9
-title:unknown|author:Galaxy / Elysion|position:10
-title:unknown|author:Nutcase / Balance|position:11
-title:unknown|author:Darra / Damones|position:12
+author:Dizzy / Carillon & Cyberiad|position:1|title:unknown
+author:Groo / C & C|position:2|title:unknown
+author:Captain / Frantic|position:2|title:unknown
+author:Prime Premium / C & C|position:4|title:unknown
+author:Strobo / Stellar|position:5|title:unknown
+author:Uncle Sam / C & C|position:6|title:unknown
+author:Syndrome / Sonic|position:7|title:unknown
+author:Delorean / Complex|position:8|title:unknown
+author:Dean / C & C|position:9|title:unknown
+author:Galaxy / Elysion|position:10|title:unknown
+author:Nutcase / Balance|position:11|title:unknown
+author:Darra / Damones|position:12|title:unknown
+
 
 :section PC intro
+:youtube-playlist 239E181DDB5CAF9C
 
-title:Eclipse|author:EMF|position:1|sceneorg:/parties/1993/assembly93/100k/emf_ecl.zip|pouet:2589|youtube:DJL_J7YWpP8
-title:Debut|author:Darkzone|position:2|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|pouet:5055|youtube:OG5Ou7fbgh4
-title:Tangle|author:Epical|position:3|sceneorg:/parties/1993/assembly93/100k/tangle.zip|pouet:4097|youtube:iKVAA9sULuY
-title:Locomotion|author:Onyx|position:4|sceneorg:/parties/1993/assembly93/100k/locom.zip|pouet:9406
-title:Motion|author:Avalanche|position:5|sceneorg:/parties/1993/assembly93/100k/motion.zip|pouet:5513|youtube:pHjO_Pig4Z0
-title:Plan-B|author:Sonic-PC|position:6|sceneorg:/parties/1993/assembly93/100k/planb.zip|pouet:8738|youtube:Uoa_h9iiRsI
-title:Vanity & Apathy|author:Doomsday prod.|position:7|sceneorg:/parties/1993/assembly93/100k/va.zip|pouet:3001|youtube:Y9wmN0dc11I
-title:Stardream|author:Surprise! prod.|position:8|sceneorg:/parties/1993/assembly93/100k/stardrea.zip|pouet:2052|youtube:gjCAEMPKoww
-title:Dieetti-Intro|author:Jeskola prod.|position:9|sceneorg:/parties/1993/assembly93/100k/j!p.zip|pouet:8737|youtube:xXARTnCrCuQ
-title:Fraust|author:RatCompany|position:10
-title:Preview|author:Irresistible Works|position:11|pouet:51327
-title:Urgent|author:Pentagon|position:11|sceneorg:/parties/1993/assembly93/100k/urgent.zip|pouet:29652|youtube:oxhDVyR_xdg
+author:EMF|position:1|pouet:2589|sceneorg:/parties/1993/assembly93/100k/emf_ecl.zip|title:Eclipse|youtube:DJL_J7YWpP8
+author:Darkzone|position:2|pouet:5055|sceneorg:/parties/1993/assembly93/100k/debut_dz.zip|title:Debut|youtube:OG5Ou7fbgh4
+author:Epical|position:3|pouet:4097|sceneorg:/parties/1993/assembly93/100k/tangle.zip|title:Tangle|youtube:iKVAA9sULuY
+author:Onyx|position:4|pouet:9406|sceneorg:/parties/1993/assembly93/100k/locom.zip|title:Locomotion
+author:Avalanche|position:5|pouet:5513|sceneorg:/parties/1993/assembly93/100k/motion.zip|title:Motion|youtube:pHjO_Pig4Z0
+author:Sonic-PC|position:6|pouet:8738|sceneorg:/parties/1993/assembly93/100k/planb.zip|title:Plan-B|youtube:Uoa_h9iiRsI
+author:Doomsday prod.|position:7|pouet:3001|sceneorg:/parties/1993/assembly93/100k/va.zip|title:Vanity & Apathy|youtube:Y9wmN0dc11I
+author:Surprise! prod.|position:8|pouet:2052|sceneorg:/parties/1993/assembly93/100k/stardrea.zip|title:Stardream|youtube:gjCAEMPKoww
+author:Jeskola prod.|position:9|pouet:8737|sceneorg:/parties/1993/assembly93/100k/j!p.zip|title:Dieetti-Intro|youtube:xXARTnCrCuQ
+author:RatCompany|position:10|title:Fraust
+author:Irresistible Works|position:11|pouet:51327|title:Preview
+author:Pentagon|position:11|pouet:29652|sceneorg:/parties/1993/assembly93/100k/urgent.zip|title:Urgent|youtube:oxhDVyR_xdg
+
 
 :section PC music multichannel
+:youtube-playlist 0E597FC190FC7DC1
 :description <p>In PC music multichannel competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
-title:Ice Frontier|author:Skaven / Future Crew|position:1|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/icefront.zip|youtube:esJZAGNT5YA
-title:Can't remember you|author:Marvel / Future Crew|position:2|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/cant.zip|youtube:a00w9FxwS_k
-title:Inferno|author:Pentagon|position:3
-title:Atomic II|author:Leinad / Avalanche|position:4
-title:Starshine|author:Purple Motion / Future Crew|position:5|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|sceneorg:/parties/1993/assembly93/mmul/strshine.zip|youtube:goJVCAaULLM
-title:Heartbeat|author:Tonedeaf / Extreme|position:6
-title:Time running out|author:Prism / Wish|position:7
-title:Opossumi|author:Mikki / Epical|position:8
-title:Deepness|author:Funk't'ion / Paranoids|position:9
-title:Shout|author:Bloodsoaker / Wapy|position:10
+author:Skaven / Future Crew|position:1|sceneorg:/parties/1993/assembly93/mmul/icefront.zip|title:Ice Frontier|webfile:pc_music_multichannel/ice_frontier_by_skaven_future_crew.mp3|youtube:esJZAGNT5YA
+author:Marvel / Future Crew|position:2|sceneorg:/parties/1993/assembly93/mmul/cant.zip|title:Can't remember you|webfile:pc_music_multichannel/can_t_remember_you_by_marvel_future_crew.mp3|youtube:a00w9FxwS_k
+author:Pentagon|position:3|title:Inferno
+author:Leinad / Avalanche|position:4|title:Atomic II
+author:Purple Motion / Future Crew|position:5|sceneorg:/parties/1993/assembly93/mmul/strshine.zip|title:Starshine|webfile:pc_music_multichannel/starshine_by_purple_motion_future_crew.mp3|youtube:goJVCAaULLM
+author:Tonedeaf / Extreme|position:6|title:Heartbeat
+author:Prism / Wish|position:7|title:Time running out
+author:Mikki / Epical|position:8|title:Opossumi
+author:Funk't'ion / Paranoids|position:9|title:Deepness
+author:Bloodsoaker / Wapy|position:10|title:Shout
 
 
 :section Amiga graphics
 
-title:unknown|author:Hotshot / Complex|position:1
-title:unknown|author:Jugi / Complex|position:2
-title:unknown|author:Prayer / Banal Project|position:3
-title:unknown|author:D-Mage / VD|position:4
-title:unknown|author:Reward / Complex|position:5
-title:unknown|author:Wedge / Frantic|position:6
-title:unknown|author:Deo / Shrine|position:7
-title:unknown|author:Cobra / Eon|position:8
-title:unknown|author:Problen / Wizzcat|position:9
-title:unknown|author:Electric / Extend|position:10
+author:Hotshot / Complex|position:1|title:unknown
+author:Jugi / Complex|position:2|title:unknown
+author:Prayer / Banal Project|position:3|title:unknown
+author:D-Mage / VD|position:4|title:unknown
+author:Reward / Complex|position:5|title:unknown
+author:Wedge / Frantic|position:6|title:unknown
+author:Deo / Shrine|position:7|title:unknown
+author:Cobra / Eon|position:8|title:unknown
+author:Problen / Wizzcat|position:9|title:unknown
+author:Electric / Extend|position:10|title:unknown
 
 
 :section Amiga 40k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:unknown|author:Stellar (code by Dweezil)|position:1|pouet:8174
-title:unknown|author:Tsunami & Dean|position:2
-title:unknown|author:VD|position:3|pouet:10353
-title:unknown|author:CNCD|position:3|pouet:17122
-title:unknown|author:The Movement|position:5|pouet:13138
-title:unknown|author:Excide|position:6
-title:unknown|author:Stellar (code by Kefeus)|position:7|pouet:19287
-title:unknown|author:Genicide|position:8|pouet:55060
-title:unknown|author:Chrome|position:9|pouet:15497
-title:unknown|author:Humane|position:10|pouet:18586
-title:unknown|author:Epsilon|position:11|pouet:15356
-title:unknown|author:Beyond Force|position:12|pouet:23226
+author:Stellar (code by Dweezil)|position:1|pouet:8174|title:unknown
+author:Tsunami & Dean|position:2|title:unknown
+author:VD|position:3|pouet:10353|title:unknown
+author:CNCD|position:3|pouet:17122|title:unknown
+author:The Movement|position:5|pouet:13138|title:unknown
+author:Excide|position:6|title:unknown
+author:Stellar (code by Kefeus)|position:7|pouet:19287|title:unknown
+author:Genicide|position:8|pouet:55060|title:unknown
+author:Chrome|position:9|pouet:15497|title:unknown
+author:Humane|position:10|pouet:18586|title:unknown
+author:Epsilon|position:11|pouet:15356|title:unknown
+author:Beyond Force|position:12|pouet:23226|title:unknown
 
 
 :section PC graphics
 
-title:Ice Kingdom|author:Marvel / Future Crew|position:1
-title:Eevi|author:Delsion / Cascada|position:2
-title:A3|author:Zenjuga / Black Mind|position:3
-title:Troll|author:Pixel / Future Crew|position:4
-title:Invintro|author:Ranx / Sonic-PC|position:5
-title:Escaping from the Raytracer|author:Giems / Dark Zone|position:6
-title:W2|author:PCA / Painkiller|position:7
-title:Assyroad|author:Kapsu / Epical|position:8
-title:Dungeon|author:Mahlzahnx / Pentagon|position:9
-title:Korvmack|author:Leinad / Avalanche|position:10
+author:Marvel / Future Crew|position:1|title:Ice Kingdom
+author:Delsion / Cascada|position:2|title:Eevi
+author:Zenjuga / Black Mind|position:3|title:A3
+author:Pixel / Future Crew|position:4|title:Troll
+author:Ranx / Sonic-PC|position:5|title:Invintro
+author:Giems / Dark Zone|position:6|title:Escaping from the Raytracer
+author:PCA / Painkiller|position:7|title:W2
+author:Kapsu / Epical|position:8|title:Assyroad
+author:Mahlzahnx / Pentagon|position:9|title:Dungeon
+author:Leinad / Avalanche|position:10|title:Korvmack
 
 
 :section Amiga demo
+:youtube-playlist F0649544C7680FA2
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:Extension|author:Pygmy|position:1|pouet:3038|dtv:id_file=4196&id_prod=3804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3038.png&width=512&height=404
-title:242|author:Virtual Dreams|position:2|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|pouet:3202|dtv:id_file=2333&id_prod=172&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3202.gif&width=512&height=404|youtube:V7G5Jrcob6M|cappedtv:fairlight_virtual_dreams-242&width=564&height=434
-title:Romantic Demo|author:Melon|position:3|pouet:4953
-title:Amnesty|author:Vectra|position:4|pouet:15407
-title:Hysteria|author:Analogy|position:5|pouet:12000
-title:Out Of Your Mind|author:unknown|position:6
-title:BALL|author:unknown|position:7
-title:Transfusion|author:Extacy|position:8|pouet:17121
+author:Pygmy|dtv:id_file=4196&id_prod=3804&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3038.png&width=512&height=404|position:1|pouet:3038|title:Extension
+author:Virtual Dreams|cappedtv:fairlight_virtual_dreams-242&width=564&height=434|dtv:id_file=2333&id_prod=172&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3202.gif&width=512&height=404|position:2|pouet:3202|sceneorgvideo:/parties/1993/assembly93/amiga/demo/fairlight-242divx.avi|title:242|youtube:V7G5Jrcob6M
+author:Melon|position:3|pouet:4953|title:Romantic Demo
+author:Vectra|position:4|pouet:15407|title:Amnesty
+author:Analogy|position:5|pouet:12000|title:Hysteria
+author:unknown|position:6|title:Out Of Your Mind
+author:unknown|position:7|title:BALL
+author:Extacy|position:8|pouet:17121|title:Transfusion
 
 
 :section PC demo
+:youtube-playlist A71C222D27465D1A
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1993 PCs.</p>
 
-title:Second Reality|author:Future Crew|position:1|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|pouet:63|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|cappedtv:1210750466-1-0&width=640&height=400|youtube:wBSzFV7-RCg
-title:Optic Nerve|author:Silents|position:2|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|pouet:7658
-title:Elements|author:Xography|position:3|sceneorg:/parties/1993/assembly93/demo/elements.zip|pouet:852|youtube:ZKaeVfVUX7E
-title:Saga|author:Dust|position:4|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|pouet:2585
-title:Extermination|author:Extreme|position:5
-title:Fruits of Indolence|author:Virtual Visions|position:6
-title:Wasted time|author:Paranoids|position:7|sceneorg:/parties/1993/assembly93/demo/wasted.zip|youtube:i6bCH8cH34c
-title:Obsession|author:Black Rain|position:8|sceneorg:/parties/1993/assembly93/demo/obsess.zip|pouet:51323|youtube:9QnF7DWqBo8
-title:Phenomenon|author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip
+author:Future Crew|cappedtv:1210750466-1-0&width=640&height=400|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|position:1|pouet:63|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|title:Second Reality|youtube:wBSzFV7-RCg
+author:Silents|position:2|pouet:7658|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|title:Optic Nerve
+author:Xography|position:3|pouet:852|sceneorg:/parties/1993/assembly93/demo/elements.zip|title:Elements|youtube:ZKaeVfVUX7E
+author:Dust|position:4|pouet:2585|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|title:Saga
+author:Extreme|position:5|title:Extermination
+author:Virtual Visions|position:6|title:Fruits of Indolence
+author:Paranoids|position:7|sceneorg:/parties/1993/assembly93/demo/wasted.zip|title:Wasted time|youtube:i6bCH8cH34c
+author:Black Rain|position:8|pouet:51323|sceneorg:/parties/1993/assembly93/demo/obsess.zip|title:Obsession|youtube:9QnF7DWqBo8
+author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip|title:Phenomenon
 
 
 :section PC music 4 channel
 :description <p>In PC music 4 channel competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
-title:Sundance|author:Purple Motion / Future Crew|position:1
-title:Schwinging the Swing|author:Cybelius / Sonic-PC|position:2
-title:Teaspoon|author:Leinad / Avalanche|position:3
-title:Sounds of War|author:Tonedeaf / Extreme|position:4
-title:Pork Chop|author:Executioner|position:5
-title:Phantoms|author:JayJay / Progress|position:6|sceneorg:/parties/1993/assembly93/demo/phenom.zip
-title:Blackbird|author:Gibson / Extreme|position:7
-title:Hidden Shadows|author:Blizzard / Epical|position:8
-title:Fast Changer II|author:Mellow-D / Sonic-PC|position:9
-title:Dementic Dream|author:Dune / Humane|position:10
+author:Purple Motion / Future Crew|position:1|title:Sundance
+author:Cybelius / Sonic-PC|position:2|title:Schwinging the Swing
+author:Leinad / Avalanche|position:3|title:Teaspoon
+author:Tonedeaf / Extreme|position:4|title:Sounds of War
+author:Executioner|position:5|title:Pork Chop
+author:JayJay / Progress|position:6|sceneorg:/parties/1993/assembly93/demo/phenom.zip|title:Phantoms
+author:Gibson / Extreme|position:7|title:Blackbird
+author:Blizzard / Epical|position:8|title:Hidden Shadows
+author:Mellow-D / Sonic-PC|position:9|title:Fast Changer II
+author:Dune / Humane|position:10|title:Dementic Dream
+

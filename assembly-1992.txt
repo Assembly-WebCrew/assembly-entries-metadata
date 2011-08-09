@@ -1,87 +1,91 @@
 :year 1992
 
 :section PC demo
+:youtube-playlist 27D9209709151155
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1992 PCs.</p>
 
-title:Unreal|author:Future Crew|position:1|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|pouet:1274|dtv:id_file=4160&id_prod=11374&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1274.gif&width=512&height=404|youtube:InrGJ7C9B3s
-title:Crystal Dream|author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip
-title:Internal Damage|author:EMF|position:3|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|pouet:4182|youtube:3Cf8WBw6I2Y
-title:unknown|author:Sonic PC|position:0
+author:Future Crew|dtv:id_file=4160&id_prod=11374&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1274.gif&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 1st - Unreal by Future Crew_h264_1856kbit.mp4|position:1|pouet:1274|sceneorg:/parties/1992/assembly92/demo/unreal11.zip|title:Unreal|youtube:InrGJ7C9B3s
+author:Triton|position:2|sceneorg:/parties/1992/assembly92/demo/c_dream.zip|title:Crystal Dream
+author:EMF|media:/vod/.oldies-goldies/compos/ASM92 PC Demo - 3rd - Internal Damage by Electromotive Force_h264_1856kbit.mp4|position:3|pouet:4182|sceneorg:/parties/1992/assembly92/demo/emf_id.zip|title:Internal Damage|youtube:3Cf8WBw6I2Y
+author:Sonic PC|title:unknown
 
 
 :section C64 demo
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>C64 demo competition included demos that were crated and limited by the hardware capabilities of Commodore 64 computer.</p>
 
-title:Gunnar 2|author:Dual Crew|position:1|pouet:41737
-title:Oh No More Dots|author:Beyond Force|position:2|pouet:15673
-title:Technophobia|author:The Sharks|position:3|pouet:18915
+author:Dual Crew|position:1|pouet:41737|title:Gunnar 2
+author:Beyond Force|position:2|pouet:15673|title:Oh No More Dots
+author:The Sharks|position:3|pouet:18915|title:Technophobia
 
 
 :section Amiga demo
+:youtube-playlist 4BECAE8C19FDEBF5
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
-title:Sound Vision|author:Reflect|position:1|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|pouet:5458|dtv:id_file=6412&id_prod=13927&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5458_1.png&width=512&height=404|youtube:OKF2cj8rIKg
-title:Delirium|author:Complex|position:2|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|pouet:5459|dtv:id_file=4017&id_prod=12362&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5459.png&width=512&height=404|youtube:BgrYcWPJrWg
-title:Piece of Mind|author:Nikki Corruptions|position:3|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|pouet:5457|youtube:dD4jl8QbpVI
-title:Mandelbrot|author:Beyond Force|position:0|sceneorg:/parties/1992/assembly92/amiga/demo/bf-assembly92intro
-title:Ass Demo|author:Cyberiad|position:0
-title:unknown|author:Parallax|position:0
-title:unknown|author:Soc. Brigade|position:0
-title:Mele|author:TET|position:0
-title:unknown|author:The Dark Demon|position:0|pouet:19002
-title:Trackmo|author:Xentrix|position:0
+author:Reflect|dtv:id_file=6412&id_prod=13927&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5458_1.png&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 1st - Sound Vision by Reflect_h264_1856kbit.mp4|position:1|pouet:5458|sceneorg:/parties/1992/assembly92/amiga/demo/reflect-soundvision.dms|title:Sound Vision|youtube:OKF2cj8rIKg
+author:Complex|dtv:id_file=4017&id_prod=12362&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/5459.png&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 2nd - Complex Delirium_h264_1856kbit.mp4|position:2|pouet:5459|sceneorg:/parties/1992/assembly92/amiga/demo/complex-delirium.dms|title:Delirium|youtube:BgrYcWPJrWg
+author:Nikki Corruptions|media:/vod/.oldies-goldies/compos/ASM92 AM Demo - 3rd - Piece of Mind by Nikki Corruptions_h264_1856kbit.mp4|position:3|pouet:5457|sceneorg:/parties/1992/assembly92/amiga/demo/nc-pieceofmind.cop|title:Piece of Mind|youtube:dD4jl8QbpVI
+author:Beyond Force|sceneorg:/parties/1992/assembly92/amiga/demo/bf-assembly92intro|title:Mandelbrot
+author:Cyberiad|title:Ass Demo
+author:Parallax|title:unknown
+author:Soc. Brigade|title:unknown
+author:TET|title:Mele
+author:The Dark Demon|pouet:19002|title:unknown
+author:Xentrix|title:Trackmo
 
 
 :section Music
+:youtube-playlist C30DE7448E4B6922
 
-title:Iridium|author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip
-title:Towards Immortality|author:Groo/Black Robes|position:2|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip
-title:Rubicon|author:Stargazer/Sonic|position:3|webfile:music/rubicon_by_stargazer_sonic.mp3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip|youtube:UdUwuei9iQw
-title:Walking Lonely|author:Megaman/Equinox|position:0|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip
-title:Lady|author:Nutcase/Deadline|position:0|webfile:music/lady_by_nutcase_deadline.mp3|sceneorg:/parties/1992/assembly92/m4ch/lady.zip|youtube:I_ehvL8lCqI
-title:Insomnia|author:Omar/Sonic|position:0
-title:Back To Music 2|author:Strobo/Stellar|position:0|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip
-title:New Wave|author:Strobo/Stellar|position:0|webfile:music/new_wave_by_strobo_stellar.mp3|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|youtube:PO3bS4B2hKQ
+author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip|title:Iridium
+author:Groo/Black Robes|position:2|sceneorg:/parties/1992/assembly92/m4ch/towards_immortality.zip|title:Towards Immortality
+author:Stargazer/Sonic|position:3|sceneorg:/parties/1992/assembly92/m4ch/rubicon.zip|title:Rubicon|webfile:music/rubicon_by_stargazer_sonic.mp3|youtube:UdUwuei9iQw
+author:Megaman/Equinox|sceneorg:/parties/1992/assembly92/m4ch/walking_lonely.zip|title:Walking Lonely
+author:Nutcase/Deadline|sceneorg:/parties/1992/assembly92/m4ch/lady.zip|title:Lady|webfile:music/lady_by_nutcase_deadline.mp3|youtube:I_ehvL8lCqI
+author:Omar/Sonic|title:Insomnia
+author:Strobo/Stellar|sceneorg:/parties/1992/assembly92/m4ch/back_to_music_ii.zip|title:Back To Music 2
+author:Strobo/Stellar|sceneorg:/parties/1992/assembly92/m4ch/new_wave.zip|title:New Wave|webfile:music/new_wave_by_strobo_stellar.mp3|youtube:PO3bS4B2hKQ
 
 
 :section Graphics
 :description <p>In Graphics competition images could be created with any desired method about anything.</p>
 
-title:Naughty Nymphs In Nature|author:Iridon/Shining|position:1|webfile:graphics/naughty_nymphs_in_nature_by_iridon_shining.png|sceneorg:/parties/1992/assembly92/grfx/naughtynymphsinnature.zip
-title:Alternative Tequila|author:Dean/Cyberiad|position:2|webfile:graphics/alternative_tequila_by_dean_cyberiad.png|sceneorg:/parties/1992/assembly92/grfx/dean-alternativetequila.zip
-title:Heavy Metal|author:Zei/Accession|position:3|webfile:graphics/heavy_metal_by_zei_accession.png|sceneorg:/parties/1992/assembly92/grfx/heavymetal.zip
-title:Sleeping Beauty|author:Boris/Banal|position:0|webfile:graphics/sleeping_beauty_by_boris_banal.png|sceneorg:/parties/1992/assembly92/grfx/sleepingbeauty.zip
-title:Monster|author:Drifter|position:0|webfile:graphics/monster_by_drifter.png|sceneorg:/parties/1992/assembly92/grfx/monster.zip
-title:Demonomania|author:Duce|position:0|webfile:graphics/demonomania_by_duce.png|sceneorg:/parties/1992/assembly92/grfx/demonomania.zip
-title:Guardian|author:Gator/Stellar|position:0|webfile:graphics/guardian_by_gator_stellar.png|sceneorg:/parties/1992/assembly92/grfx/guardian.zip
-title:Distant City|author:Harlequin|position:0|webfile:graphics/distant_city_by_harlequin.png|sceneorg:/parties/1992/assembly92/grfx/distant_city.zip
-title:Delirium|author:Jugi/Complex|position:0|webfile:graphics/delirium_by_jugi_complex.png|sceneorg:/parties/1992/assembly92/grfx/deliriumeagle.zip
-title:Destiny Can Wait|author:Kissarobotti/Parallax|position:0|webfile:graphics/destiny_can_wait_by_kissarobotti_parallax.png|sceneorg:/parties/1992/assembly92/grfx/destiny_can_wait4.zip
-title:Carcompo|author:Marvel|position:0|webfile:graphics/carcompo_by_marvel.png|sceneorg:/parties/1992/assembly92/grfx/carcompo.zip
-title:Kossu|author:Mr.Greedy/Byterapers|position:0|webfile:graphics/kossu_by_mr_greedy_byterapers.png|sceneorg:/parties/1992/assembly92/grfx/kossu.zip
-title:Strength & Beauty|author:Mutant/Dual Crew|position:0|webfile:graphics/strength_beauty_by_mutant_dual_crew.png|sceneorg:/parties/1992/assembly92/grfx/strength_beauty.zip
-title:Shuttle|author:Rainman/Disknet|position:0|webfile:graphics/shuttle_by_rainman_disknet.png|sceneorg:/parties/1992/assembly92/grfx/shuttle.zip
-title:Reptile|author:Z (??)|position:0|webfile:graphics/reptile_by_z.png|sceneorg:/parties/1992/assembly92/grfx/reptiles.zip
-title:Seal|author:unknown|position:0|webfile:graphics/seal_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/seal.zip
-title:Werthers Skull|author:unknown|position:0|webfile:graphics/werthers_skull_by_unknown.png|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip
+author:Iridon/Shining|position:1|sceneorg:/parties/1992/assembly92/grfx/naughtynymphsinnature.zip|title:Naughty Nymphs In Nature|webfile:graphics/naughty_nymphs_in_nature_by_iridon_shining.png
+author:Dean/Cyberiad|position:2|sceneorg:/parties/1992/assembly92/grfx/dean-alternativetequila.zip|title:Alternative Tequila|webfile:graphics/alternative_tequila_by_dean_cyberiad.png
+author:Zei/Accession|position:3|sceneorg:/parties/1992/assembly92/grfx/heavymetal.zip|title:Heavy Metal|webfile:graphics/heavy_metal_by_zei_accession.png
+author:Boris/Banal|sceneorg:/parties/1992/assembly92/grfx/sleepingbeauty.zip|title:Sleeping Beauty|webfile:graphics/sleeping_beauty_by_boris_banal.png
+author:Drifter|sceneorg:/parties/1992/assembly92/grfx/monster.zip|title:Monster|webfile:graphics/monster_by_drifter.png
+author:Duce|sceneorg:/parties/1992/assembly92/grfx/demonomania.zip|title:Demonomania|webfile:graphics/demonomania_by_duce.png
+author:Gator/Stellar|sceneorg:/parties/1992/assembly92/grfx/guardian.zip|title:Guardian|webfile:graphics/guardian_by_gator_stellar.png
+author:Harlequin|sceneorg:/parties/1992/assembly92/grfx/distant_city.zip|title:Distant City|webfile:graphics/distant_city_by_harlequin.png
+author:Jugi/Complex|sceneorg:/parties/1992/assembly92/grfx/deliriumeagle.zip|title:Delirium|webfile:graphics/delirium_by_jugi_complex.png
+author:Kissarobotti/Parallax|sceneorg:/parties/1992/assembly92/grfx/destiny_can_wait4.zip|title:Destiny Can Wait|webfile:graphics/destiny_can_wait_by_kissarobotti_parallax.png
+author:Marvel|sceneorg:/parties/1992/assembly92/grfx/carcompo.zip|title:Carcompo|webfile:graphics/carcompo_by_marvel.png
+author:Mr.Greedy/Byterapers|sceneorg:/parties/1992/assembly92/grfx/kossu.zip|title:Kossu|webfile:graphics/kossu_by_mr_greedy_byterapers.png
+author:Mutant/Dual Crew|sceneorg:/parties/1992/assembly92/grfx/strength_beauty.zip|title:Strength & Beauty|webfile:graphics/strength_beauty_by_mutant_dual_crew.png
+author:Rainman/Disknet|sceneorg:/parties/1992/assembly92/grfx/shuttle.zip|title:Shuttle|webfile:graphics/shuttle_by_rainman_disknet.png
+author:Z (??)|sceneorg:/parties/1992/assembly92/grfx/reptiles.zip|title:Reptile|webfile:graphics/reptile_by_z.png
+author:unknown|sceneorg:/parties/1992/assembly92/grfx/seal.zip|title:Seal|webfile:graphics/seal_by_unknown.png
+author:unknown|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip|title:Werthers Skull|webfile:graphics/werthers_skull_by_unknown.png
 
 
 :section Amiga intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga intro competition these programs are limited in size to 100 kilobytes. 100 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-title:Repo Intro|author:Vectra|position:1|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|pouet:29217
-title:unknown|author:Wizzcat|position:2
-title:Vector Hangover|author:Smirre/Vectra|position:3|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|pouet:29214
-title:Pia Fraus|author:Banal Projects|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|pouet:11356
-title:Stolen Action Replay|author:Chrome|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|pouet:18725
-title:Assemblytime|author:D-29|position:0
-title:We Are Back|author:Doodle Foundation|position:0
-title:Nuketro|author:Genocide|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/genocide-nukeintro|pouet:33440
-title:Dualism|author:Midnightsun|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/midnightsun-dualism
-title:Slaves Of Sex|author:Parallax|position:0
-title:Cipher|author:Razer & Heathen God Design|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/razer-cipher
-title:Assembly|author:Rebels|position:0|pouet:2716
-title:Irrepressible|author:Sonic|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/sonic-irrepressible|pouet:32590
-title:Hard To Be God|author:Stellar|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/stellar-hard_to_be_god|pouet:26098
-title:Plasma Vectors|author:The Silents|position:0
-title:Assemblo|author:World Industries|position:0|sceneorg:/parties/1992/assembly92/amiga/intro/world_ind-assintro|pouet:28302
+author:Vectra|position:1|pouet:29217|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|title:Repo Intro
+author:Wizzcat|position:2|title:unknown
+author:Smirre/Vectra|position:3|pouet:29214|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|title:Vector Hangover
+author:Banal Projects|pouet:11356|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|title:Pia Fraus
+author:Chrome|pouet:18725|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|title:Stolen Action Replay
+author:D-29|title:Assemblytime
+author:Doodle Foundation|title:We Are Back
+author:Genocide|pouet:33440|sceneorg:/parties/1992/assembly92/amiga/intro/genocide-nukeintro|title:Nuketro
+author:Midnightsun|sceneorg:/parties/1992/assembly92/amiga/intro/midnightsun-dualism|title:Dualism
+author:Parallax|title:Slaves Of Sex
+author:Razer & Heathen God Design|sceneorg:/parties/1992/assembly92/amiga/intro/razer-cipher|title:Cipher
+author:Rebels|pouet:2716|title:Assembly
+author:Sonic|pouet:32590|sceneorg:/parties/1992/assembly92/amiga/intro/sonic-irrepressible|title:Irrepressible
+author:Stellar|pouet:26098|sceneorg:/parties/1992/assembly92/amiga/intro/stellar-hard_to_be_god|title:Hard To Be God
+author:The Silents|title:Plasma Vectors
+author:World Industries|pouet:28302|sceneorg:/parties/1992/assembly92/amiga/intro/world_ind-assintro|title:Assemblo
+
