@@ -32,6 +32,7 @@ title:meduusa ja hiekkalinna|author:blobtrox|position:0|webfile:extreme_music/me
 
 
 :section Game development
+:youtube-playlist 707DC3BC94069C05
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 pouet:53620|author:Bombsquad|media:/vod/2009/Compos/933_Gamedev_Counterbalance_by_Bombsquad_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/gamedev/counterbalance_by_bombsquad.zip|title:Counterbalance|youtube:bSRXDi2s3pM|thumbnail:http://i.ytimg.com/vi/bSRXDi2s3pM/0.jpg|position:1|dtv:id_file=6211&id_prod=13868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53620_1.jpg&width=512&height=404
@@ -54,6 +55,7 @@ pouet:53629|author:MikaakiM Production|media:/vod/2009/Compos/926_Gamedev_Globul
 
 
 :section 64k intro
+:youtube-playlist 1861F882083CC927
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2010 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 pouet:53646|author:Ate Bit|media:/vod/2009/Compos/967_64k_Transform_by_Ate_Bit_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in64/transform_by_ate_bit.zip|title:Transform|youtube:BZ0ugNefzu8|thumbnail:http://i.ytimg.com/vi/BZ0ugNefzu8/0.jpg|position:1|dtv:id_file=6175&id_prod=13857&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53646_1.jpg&width=512&height=404|cappedtv:ate_bit-transform&width=640&height=482
@@ -68,6 +70,7 @@ pouet:53644|author:mrp|media:/vod/2009/Compos/960_64k_Klusteri_by_mrp_h264_7168k
 
 
 :section Oldskool demo
+:youtube-playlist DA862ADD5254F0F6
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 pouet:53636|author:Unreal Voodoo|media:/vod/2009/Compos/993_Oldskool_3_and_half_inches_is_enough_by_Unreal_Voodoo_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/oldskool/demo/3_inches_is_enough_by_unreal_voodoo.zip|title:3½ inches is enough|youtube:kE1M58ov6V0|thumbnail:http://i.ytimg.com/vi/kE1M58ov6V0/0.jpg|position:1|dtv:id_file=6219&id_prod=13870&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53636_1.png&width=512&height=404
@@ -163,6 +166,7 @@ title:Hitchhiker|author:DiamonDie|position:0|webfile:graphics/hitchhiker_by_diam
 
 
 :section 4k intro
+:youtube-playlist 08CEF5C708381ACF
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2009 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 pouet:53605|author:Youth Uprising|media:/vod/2009/Compos/948_4k_Muon_Baryon_by_Youth_Uprising_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/in4k/muon_baryon_by_youth_uprising.zip|title:Muon Baryon|youtube:RSckKYzkCiM|thumbnail:http://i.ytimg.com/vi/RSckKYzkCiM/0.jpg|position:1|dtv:id_file=6120&id_prod=13843&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53605_1.jpg&width=512&height=404|cappedtv:youth_uprising_mlat_design_out-muon_baryon&width=640&height=360
@@ -185,6 +189,7 @@ title:Kilofile|author:npli|position:0|media:/vod/2009/Compos/946_4k_Kilofile_by_
 
 
 :section Short film
+:youtube-playlist D136378FF6A9C613
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
 pouet:53660|author:Tekotuotanto|media:/vod/2009/Compos/1006_Short_Kanava_DELTA_by_Tekotuotanto_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/short/kanava_delta_by_tekotuotanto_h264-aac.mp4|title:Kanava DELTA|youtube:4GH2AdMudFI|thumbnail:http://i.ytimg.com/vi/4GH2AdMudFI/0.jpg|position:1|dtv:id_file=6239&id_prod=13875&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53660_1.jpg&width=512&height=404
@@ -202,6 +207,7 @@ title:KOVA JANO|author:SBA|position:0|sceneorg:/parties/2009/assembly09/short/ko
 
 
 :section Real wild demo
+:youtube-playlist 39E3B2BF1DC74AA3
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
 pouet:53631|author:throb+t-rex|media:/vod/2009/Compos/986_RealWild_coder_colors_by_throb_t-rex_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/real_wild/c0d3r_c0l0rz_final_by_throb_t-rex.zip|title:coder colors|youtube:GioWiMxRHLQ|thumbnail:http://i.ytimg.com/vi/GioWiMxRHLQ/0.jpg|position:1|dtv:id_file=6247&id_prod=13877&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53631_1.jpg&width=512&height=404
@@ -275,6 +281,7 @@ title:Misfortuner|author:Norude|position:10|webfile:extreme_graphics/misfortuner
 title:IsoVeli|author:mrp|position:11|webfile:extreme_graphics/isoveli_by_mrp.png|sceneorg:/parties/2009/assembly09/extreme/grfx/isoveli_by_mrp.zip
 
 :section Demo
+:youtube-playlist 8F04295792D2552E
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2009 PC computer.</p>
 
 pouet:53647|author:CNCD & Fairlight & Orange|media:/vod/2009/Compos/976_Demo_Frameranger_by_CNCD_Fairlight_Orange_h264_7168kbit.mp4|sceneorg:/parties/2009/assembly09/demo/frameranger_by_cncd__fairlight__orange.zip|title:Frameranger|youtube:M35mnRixFcM|thumbnail:http://i.ytimg.com/vi/M35mnRixFcM/0.jpg|position:1|dtv:id_file=6064&id_prod=13829&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53647_1.jpg&width=512&height=404|cappedtv:cncd_orange_fairlight-frameranger&width=640&height=358

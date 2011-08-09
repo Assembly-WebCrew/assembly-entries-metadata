@@ -23,6 +23,7 @@ title:Merimiehen Herkkusieni|author:SpeaK & AKX|position:0|sceneorg:/parties/200
 
 
 :section Game development
+:youtube-playlist F3172056BACE5518
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
 pouet:51064|author:Lasi Interactive|media:/vod/2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|title:Dave the Ordinary Spaceman|youtube:nJF9vAMT4qw|thumbnail:http://i.ytimg.com/vi/nJF9vAMT4qw/0.jpg|position:1|dtv:id_file=4508&id_prod=13386&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51064_1.jpg&width=512&height=404
@@ -40,6 +41,7 @@ title:The Orbixa|author:Bluefox Games Entertainment|position:12|sceneorg:/partie
 
 
 :section 64k intro
+:youtube-playlist 4A0BF4112EBF7425
 :description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 1200 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes that gives enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 pouet:51125|author:fairlight|media:/vod/2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in64/panic_room_by_fairlight.zip|title:panic room|youtube:EtaYBqgwy9w|thumbnail:http://i.ytimg.com/vi/EtaYBqgwy9w/0.jpg|position:1|dtv:id_file=4606&id_prod=13420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51125_1.png&width=512&height=404|cappedtv:fairlight-panic_room&width=640&height=382
@@ -52,6 +54,7 @@ pouet:51141|author:mrp|media:/vod/2008/Compos/770_64k_HypnotizeHasselnuss_h264_7
 
 
 :section Oldskool demo
+:youtube-playlist B957312ECDE5C0B2
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
 pouet:51153|author:Byterapers|media:/vod/2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/oldschool/demo/renaissance_by_byterapers.zip|title:Renaissance|youtube:-DpNyt_6S7Y|thumbnail:http://i.ytimg.com/vi/-DpNyt_6S7Y/0.jpg|position:1|dtv:id_file=4635&id_prod=13428&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51153_1.gif&width=512&height=404
@@ -145,6 +148,7 @@ title:Alien Suck My...|author:Timo Perämaa|position:0|webfile:graphics/alien_su
 
 
 :section 4k intro
+:youtube-playlist 8B3ACE1BF820E253
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2008 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 pouet:51114|author:Portal Process & TBC|media:/vod/2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/in4k/nucleophile_by_portal_process__tbc.zip|title:Nucleophile|youtube:ixnLwEQNlXI|thumbnail:http://i.ytimg.com/vi/ixnLwEQNlXI/0.jpg|position:1|dtv:id_file=4499&id_prod=13383&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51114_1.jpg&width=512&height=404|cappedtv:portal_process_tbc-nucleophile&width=640&height=480
@@ -164,6 +168,7 @@ title:Fountain of Marts - Vierupuori|author:XZM & tAAt|position:0|sceneorg:/part
 
 
 :section Short film
+:youtube-playlist 587418DFE9A2A8E0
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
 author:HBC|media:/vod/2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|sceneorg:/parties/2008/assembly08/short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|title:Field Trip|youtube:IwxVAvHv-5w|thumbnail:http://i.ytimg.com/vi/IwxVAvHv-5w/0.jpg|position:1|dtv:id_file=4535&id_prod=13395&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51144_1.png&width=512&height=404|cappedtv:bit_cheese-field_trip&width=832&height=468
@@ -177,6 +182,7 @@ pouet:51162|author:Region Factible|media:/vod/2008/Compos/767_Short_Tienen_asi_c
 
 
 :section Real wild demo
+:youtube-playlist 9454E01934BAF76C
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
 pouet:51118|author:Evoflash|media:/vod/2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/real_wild/99er_by_evoflash.zip|title:99er|youtube:wJIM2VPKT0w|thumbnail:http://i.ytimg.com/vi/wJIM2VPKT0w/0.jpg|position:1|dtv:id_file=4650&id_prod=13433&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51118_1.jpg&width=512&height=404
@@ -263,6 +269,7 @@ title:test|author:tArzAn|position:0|webfile:extreme_graphics/test_by_tarzan.png|
 
 
 :section Demo
+:youtube-playlist EBDAFFE22AA20066
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2010 PC computer.</p>
 
 pouet:51140|author:Pyrotech|media:/vod/2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|sceneorg:/parties/2008/assembly08/demo/within_epsilon_by_pyrotech.zip|title:Within Epsilon|youtube:4YvYnHvhI_E|thumbnail:http://i.ytimg.com/vi/4YvYnHvhI_E/0.jpg|position:1|dtv:id_file=4608&id_prod=13422&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51140_1.jpg&width=512&height=404
