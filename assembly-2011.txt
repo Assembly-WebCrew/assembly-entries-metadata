@@ -210,9 +210,9 @@ author:AssemblyTV|description:From Assembly 2003 compo winner to a global phenom
 :section Seminars
 
 author:Teemu Tapanila|title:Wonders of Kinect Windows SDK|media:/vod/2011/Seminars/1213_arttech_seminars_wonders_of_kinect_windows_sdk_h264_1856kbit.mp4|youtube:RPnLJZc668o
-author:Ramine Darabiha and Serdar Soganci|title:Angry Birds on the web|media:/vod/2011/Seminars/1312_arttech_seminars_angry_birds_on_the_web_h264_1856kbit.mp4|youtube:yzRzDqn6Wlg
-author:Pekka Ollula, Jarmo Puskala and Juha Salmijärvi|title:All aboard to the Dark side of the Moon
-author:Mikael Achrén and Karri Kiviluoma|title:The art and design of Ridge Racer Unbounded|media:/vod/2011/Seminars/1275_arttech_seminars_the_art_and_design_of_Ridge_Racer_Unbounded_h264_1856kbit.mp4|youtube:DeRuXWPSpT4
+author:Ramine Darabiha, Serdar Soganci|title:Angry Birds on the web|media:/vod/2011/Seminars/1312_arttech_seminars_angry_birds_on_the_web_h264_1856kbit.mp4|youtube:yzRzDqn6Wlg
+author:Pekka Ollula, Jarmo Puskala, Juha Salmijärvi|title:All aboard to the Dark side of the Moon
+author:Mikael Achrén, Karri Kiviluoma|title:The art and design of Ridge Racer Unbounded|media:/vod/2011/Seminars/1275_arttech_seminars_the_art_and_design_of_Ridge_Racer_Unbounded_h264_1856kbit.mp4|youtube:DeRuXWPSpT4
 author:Ricardo Cabello|title:The Making of RO.ME|media:/vod/2011/Seminars/1214_arttech_seminars_the_making_of_rome_h264_1856kbit.mp4|youtube:D8mOtkuN864
 author:Visa-Valtteri Pimiä|title:"In the country of the blind, the one-eyed man is king" - or how fumbling my way through pixel-based effects made learning WebGL a lot easier|media:/vod/2011/Seminars/1207_arttech_seminars_fumbling_my_way_h264_1856kbit.mp4|youtube:rXZGVfHKn2Q
 author:Rob Hawkes|title:Browserscene: Creating demos on the Web|media:/vod/2011/Seminars/1206_arttech_seminars_browserscene_creating_demos_on_the_web_h264_1856kbit.mp4|youtube:XZLqwXdXjqY
@@ -228,7 +228,7 @@ author:Veli-Pekka Piirainen|title:Kajak3D, an open source multiplatform game eng
 author:Martti Nurmikari|title:The Basics of Demo Programming|media:/vod/2011/Seminars/1272_arttech_seminars_basics_of_demo_programming_h264_1856kbit.mp4|youtube:TbcZyAO6K7c
 author:Peter Smets|title:DRM of Pacman|media:/vod/2011/Seminars/1270_arttech_seminars_drm_of_pacman_h264_1856kbit.mp4|youtube:I_NTmFrcWxA
 author:Eemu Bertling|title:Robot Combat / Robosota|media:/vod/2011/Seminars/1277_arttech_seminars_robosota_h264_1856kbit.mp4|youtube:p2sWx-OoHxI
-author:Jari Jaanto and Visa-Valtteri Pimiä|title:Digital resistance: the non-compromising attitude of East European demo art|media:/vod/2011/Seminars/1203_arttech_seminars_digital_resistance_east_european_demo_art_h264_1856kbit.mp4|youtube:oUipQfxURwk
+author:Jari Jaanto, Visa-Valtteri Pimiä|title:Digital resistance: the non-compromising attitude of East European demo art|media:/vod/2011/Seminars/1203_arttech_seminars_digital_resistance_east_european_demo_art_h264_1856kbit.mp4|youtube:oUipQfxURwk
 author:Tommi Koskinen|title:Perfect harmony: crowdsourcing matches musicians and sound designers to game developers|media:/vod/2011/Seminars/1268_arttech_seminars_perfect_harmony_h264_1856kbit.mp4|youtube:z10ciG8Bw7k
 
 
