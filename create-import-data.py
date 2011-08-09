@@ -4,8 +4,12 @@ import cgi
 import optparse
 import os.path
 import sys
+import time
 from xml.sax.saxutils import escape
 from xml.sax.saxutils import quoteattr
+
+CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
+
 
 parser = optparse.OptionParser()
 parser.add_option("--no-empty", dest="noempty", action="store_true",
@@ -240,16 +244,23 @@ def print_entry(year, entry):
     <edition parameters="lang: workflow:public"
          title=%(title)s
          tags="hide-navigation"
-         created="2011-02-11 10:00:00"
-         modified="2011-02-11 10:00:00">
+         created="%(current-time)s"
+         modified="%(current-time)s">
       <mediagalleryadditionalinfo
           author=%(author)s
           description=%(description)s
-          %(ranking)s><![CDATA[%(thumbnail)s
-]]></mediagalleryadditionalinfo>
+          %(ranking)s></mediagalleryadditionalinfo>
       %(locations)s
     </edition>
   </externalasset>
+  <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
+    <edition parameters="lang: workflow:public"
+         title=%(title)s
+         tags="hide-navigation"
+         created="%(current-time)s"
+         modified="%(current-time)s"><![CDATA[%(thumbnail)s
+]]></edition>
+  </asset>
 """ % {'year': year,
        'normalizedsection': normalized_section,
        'normalizedname': normalized_name,
@@ -259,6 +270,7 @@ def print_entry(year, entry):
        'thumbnail': base64.encodestring(thumbnail),
        'locations': locations,
        'description': quoteattr(description_non_unicode),
+       'current-time': CURRENT_TIME,
        }
     asset_data_str = asset_data.encode("utf-8")
     print asset_data_str
