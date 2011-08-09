@@ -2,6 +2,23 @@
 
 import re
 
+
+def get_party_name(year, section_name):
+    if year < 2007:
+        return u"Assembly %d" % year
+    elif 'winter' in section_name.lower():
+        return u"Assembly Winter %d" % year
+    else:
+        return u"Assembly Summer %d" % year
+
+def get_long_section_name(section_name):
+    if "winter" in section_name.lower():
+        return u"AssemblyTV"
+    elif "assemblytv" in section_name.lower():
+        return u"AssemblyTV"
+    else:
+        return u"%s competition" % section_name
+
 def normalize_key(value):
     normalized = value.strip().lower()
     normalized = normalized.replace(u"ä", u"a")
