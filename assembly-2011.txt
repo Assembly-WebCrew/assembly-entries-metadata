@@ -56,7 +56,7 @@ author:HBC|media:/vod/2011/Compos/1320_Shortfilm_Best_Wishes_by_HBC_h264_7168kbi
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
 author:Evoflash|media:/vod/2011/Compos/1305_RealWild_Cubes_Of_Babylon_by_Evoflash_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/71|position:2|techniques:2 Textures 1 Mesh|title:Cubes Of Babylon|youtube:EzZS7RoJFEE
-author:A2058|media:/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/91|position:1|techniques:PIC and Rotatory leds!|title:Leds Party|youtube:78LdQvBskK4
+author:A2058|media:/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/91|position:1|techniques:PIC and Rotatory leds!|title:Leds Party|warning:This video is broken in Youtube due to framerate conversion by frame dropping. Download 60 FPS version from http://media.assembly.org/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|youtube:78LdQvBskK4
 author:Primitive|media:/vod/2011/Compos/1307_RealWild_I_want_less_by_Primitive_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/182|position:5|techniques:Not slow, deep.|title:I want less|youtube:U8UR5oYy5T4
 author:kordets|media:/vod/2011/Compos/1308_RealWild_Yarrduino_by_kordets_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/188|position:4|techniques:C++, Arduino IDE|title:Yarrduino|youtube:lGoSXFLEz9g
 author:inversion|media:/vod/2011/Compos/1309_RealWild_brause_peak_by_inversion_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/191|position:3|techniques:Ahoj brause|title:brause peak|youtube:8ZhyO9qrNtg
@@ -79,40 +79,40 @@ author:Bilotrip|media:/vod/2011/Compos/1288_Oldskool_Mind_Control_Trilogy_previe
 :pms-category music
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
 
-author:Aikapallo|pms-id:asm11/music/27|position:1|techniques:Softwares, synths, kebab & beer|title:Tiananmen Ghost|video-file:music/000-27-tiananmen-ghost.mp3.avi|youtube:XY7FJVnpxl4
-author:Rewind (feat. Lady GT)|pms-id:asm11/music/33|position:5|techniques:Renoise, Cubase|title:Kakkonen on Kekkonen|video-file:music/000-33-kakkonen-on-kekkonen.mp3.avi|youtube:vYClCdo83ys
-author:Koneisto 11111011011|pms-id:asm11/music/34|position:2|techniques:320kbps, mp3|title:Demoluola|video-file:music/000-34-demoluola.mp3.avi|youtube:3EECKNZKueg
-author:Mr. Rose|pms-id:asm11/music/46|position:12|techniques:Tracker|title:Dark Myth|video-file:music/000-46-dark-myth.mp3.avi|youtube:bsLxmLQ6PGw
-author:DJ Joge of Brainstorm|pms-id:asm11/music/56|position:8|techniques:Renoise|title:Flatline|video-file:music/000-56-flatline.mp3.avi|youtube:qFu7Y8sIolw
-author:Signal|pms-id:asm11/music/72|position:3|techniques:Cubase|title:Two Cars, One Cup|video-file:music/000-72-two-cars-one-cup.mp3.avi|youtube:95YyoAbaBNk
-author:Janne|pms-id:asm11/music/77|position:14|techniques:FL Studio|title:Behind the LCD|video-file:music/000-77-behind-the-lcd.mp3.avi|youtube:i95t6WasuWw
-author:Yolk/CNCD feat. Busy Signal|pms-id:asm11/music/78|position:9|techniques:Logic Pro 9|title:Picante (refix)|video-file:music/000-78-picante-refix.mp3.avi|youtube:vfIdhLqktX0
-author:JPT|pms-id:asm11/music/97|position:4|techniques:Cubase, EWQLSO, EWQLSD2, EWQLSC|title:Northern legends|video-file:music/000-97-northern-legends.mp3.avi|youtube:RjPgf_OaVqM
-author:microdots|pms-id:asm11/music/165|position:13|techniques:renoise ja vst plugareita|title:forgotten tune|video-file:music/000-165-forgotten-tune.mp3.avi|youtube:WYU1oIhHbSM
-author:ruuvari/aspekt|pms-id:asm11/music/167|position:11|techniques:Cubase and stuff|title:Snap out of it!|video-file:music/000-167-snap-out-of-it.mp3.avi|youtube:edNKQuowYq4
-author:GRiMM|pms-id:asm11/music/196|position:7|techniques:Guitar, Reaper v4.0|title:Soaring On Wings Of Steel|video-file:music/000-196-soaring-on-wings-of-steel.mp3.avi|youtube:_WTj37z-MpQ
-author:fluffy&fragile|pms-id:asm11/music/204|position:10|techniques:fl studio|title:Freljordian Beauty|video-file:music/000-204-freljordian-beauty.mp3.avi|youtube:VCBx6zPLSA4
-author:King Thrill / Tekotuotanto|pms-id:asm11/music/215|position:6|techniques:Reaper|title:FAST-FORWARDING THRU HELL|video-file:music/000-215-fast-forwarding-thru-hell.mp3.avi|youtube:pfybanFY-pk
+author:Aikapallo|media:/compo-media/assembly2011/music/tiananmen-ghost-by-aikapallo.mp3|pms-id:asm11/music/27|position:1|techniques:Softwares, synths, kebab & beer|title:Tiananmen Ghost|youtube:XY7FJVnpxl4
+author:Rewind (feat. Lady GT)|media:/compo-media/assembly2011/music/kakkonen-on-kekkonen-by-rewind-feat-lady-gt.mp3|pms-id:asm11/music/33|position:5|techniques:Renoise, Cubase|title:Kakkonen on Kekkonen|youtube:vYClCdo83ys
+author:Koneisto 11111011011|media:/compo-media/assembly2011/music/demoluola-by-koneisto-11111011011.mp3|pms-id:asm11/music/34|position:2|techniques:320kbps, mp3|title:Demoluola|youtube:3EECKNZKueg
+author:Mr. Rose|media:/compo-media/assembly2011/music/dark-myth-by-mr-rose.mp3|pms-id:asm11/music/46|position:12|techniques:Tracker|title:Dark Myth|youtube:bsLxmLQ6PGw
+author:DJ Joge of Brainstorm|media:/compo-media/assembly2011/music/flatline-by-dj-joge-of-brainstorm.mp3|pms-id:asm11/music/56|position:8|techniques:Renoise|title:Flatline|youtube:qFu7Y8sIolw
+author:Signal|media:/compo-media/assembly2011/music/two-cars-one-cup-by-signal.mp3|pms-id:asm11/music/72|position:3|techniques:Cubase|title:Two Cars, One Cup|youtube:95YyoAbaBNk
+author:Janne|media:/compo-media/assembly2011/music/behind-the-lcd-by-janne.mp3|pms-id:asm11/music/77|position:14|techniques:FL Studio|title:Behind the LCD|youtube:i95t6WasuWw
+author:Yolk/CNCD feat. Busy Signal|media:/compo-media/assembly2011/music/picante-refix-by-yolk-cncd-feat-busy-signal.mp3|pms-id:asm11/music/78|position:9|techniques:Logic Pro 9|title:Picante (refix)|youtube:vfIdhLqktX0
+author:JPT|media:/compo-media/assembly2011/music/northern-legends-by-jpt.mp3|pms-id:asm11/music/97|position:4|techniques:Cubase, EWQLSO, EWQLSD2, EWQLSC|title:Northern legends|youtube:RjPgf_OaVqM
+author:microdots|media:/compo-media/assembly2011/music/forgotten-tune-by-microdots.mp3|pms-id:asm11/music/165|position:13|techniques:renoise ja vst plugareita|title:forgotten tune|youtube:WYU1oIhHbSM
+author:ruuvari/aspekt|media:/compo-media/assembly2011/music/snap-out-of-it-by-ruuvari-aspekt.mp3|pms-id:asm11/music/167|position:11|techniques:Cubase and stuff|title:Snap out of it!|youtube:edNKQuowYq4
+author:GRiMM|media:/compo-media/assembly2011/music/soaring-on-wings-of-steel-by-grimm.mp3|pms-id:asm11/music/196|position:7|techniques:Guitar, Reaper v4.0|title:Soaring On Wings Of Steel|youtube:_WTj37z-MpQ
+author:fluffy&fragile|media:/compo-media/assembly2011/music/freljordian-beauty-by-fluffy-fragile.mp3|pms-id:asm11/music/204|position:10|techniques:fl studio|title:Freljordian Beauty|youtube:VCBx6zPLSA4
+author:King Thrill / Tekotuotanto|media:/compo-media/assembly2011/music/fast-forwarding-thru-hell-by-king-thrill-tekotuotanto.mp3|pms-id:asm11/music/215|position:6|techniques:Reaper|title:FAST-FORWARDING THRU HELL|youtube:pfybanFY-pk
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:Olli Etuaho|image-file:graphics/000-22-hide-in-the-blue.png|pms-id:asm11/graphics/22|position:12|techniques:Painted in PhotoShop and Alchemy|title:Hide in the Blue
-author:Partikle|image-file:graphics/000-38-sunrise.png|pms-id:asm11/graphics/38|position:10|techniques:Photoshop CS5|title:Sunrise
-author:MacGywer/npli|image-file:graphics/000-61-ou-hai.png|pms-id:asm11/graphics/61|position:5|techniques:Mainly Photoshop|title:Ou Hai
-author:Korpi / HBC|image-file:graphics/000-64-call-to-prayer.png|pms-id:asm11/graphics/64|position:1|techniques:Photoshop, 3dsmax, Intuos 3|title:Call to Prayer
-author:john peeba|image-file:graphics/000-66-katuvakivaltaa.png|pms-id:asm11/graphics/66|position:13|techniques:Photoshop|title:Katuväkivaltaa
-author:flumba|image-file:graphics/000-79-you-picked-the-wrong-legendary-kung-fu-grandmaster-to-mug.png|pms-id:asm11/graphics/79|position:14|techniques:photoshop|title:You picked the wrong legendary kung-fu grandmaster to mug
-author:E-V-M|image-file:graphics/000-132-virtual-fighter.png|pms-id:asm11/graphics/132|position:11|techniques:digital painting, photoshop|title:Virtual Fighter
-author:Surround|image-file:graphics/000-156-steam-shock.png|pms-id:asm11/graphics/156|position:3|techniques:3ds max and photoshop|title:Steam Shock
-author:Darkki|image-file:graphics/000-157-orbital-breakfast.png|pms-id:asm11/graphics/157|position:6|techniques:3dsmax + Photoshop|title:Orbital Breakfast
-author:maxon / HBC|image-file:graphics/000-172-middleman-crisis.png|pms-id:asm11/graphics/172|position:4|techniques:Ubuntu, Blender, Gimp - they are free, go get yours.|title:Middleman Crisis
-author:Kinnerean|image-file:graphics/000-203-a-voyage-to-the-slumberland.png|pms-id:asm11/graphics/203|position:8|techniques:Photoshop|title:A Voyage To The Slumberland
-author:Vablo|image-file:graphics/000-221-dive.png|pms-id:asm11/graphics/221|position:7|techniques:Adobe Photoshop CS3 and Wacom Intuos3 A5.|title:Dive
-author:juhone|image-file:graphics/000-257-uhrimenot-lierokallion-solassa.png|pms-id:asm11/graphics/257|position:9|techniques:Painted in Photoshop|title:Uhrimenot Lierokallion solassa
-author:Mazor of Fairlight|image-file:graphics/000-261-drawing-attention.png|pms-id:asm11/graphics/261|position:2|title:Drawing Attention
+author:Olli Etuaho|media:/compo-media/assembly2011/graphics/hide-in-the-blue-by-olli-etuaho.png|pms-id:asm11/graphics/22|position:12|techniques:Painted in PhotoShop and Alchemy|title:Hide in the Blue
+author:Partikle|media:/compo-media/assembly2011/graphics/sunrise-by-partikle.jpeg|pms-id:asm11/graphics/38|position:10|techniques:Photoshop CS5|title:Sunrise
+author:MacGywer/npli|media:/compo-media/assembly2011/graphics/ou-hai-by-macgywer-npli.jpeg|pms-id:asm11/graphics/61|position:5|techniques:Mainly Photoshop|title:Ou Hai
+author:Korpi / HBC|media:/compo-media/assembly2011/graphics/call-to-prayer-by-korpi-hbc.jpeg|pms-id:asm11/graphics/64|position:1|techniques:Photoshop, 3dsmax, Intuos 3|title:Call to Prayer
+author:john peeba|media:/compo-media/assembly2011/graphics/katuvakivaltaa-by-john-peeba.png|pms-id:asm11/graphics/66|position:13|techniques:Photoshop|title:Katuväkivaltaa
+author:flumba|media:/compo-media/assembly2011/graphics/you-picked-the-wrong-legendary-kung-fu-grandmaster-to-mug-by-flumba.png|pms-id:asm11/graphics/79|position:14|techniques:photoshop|title:You picked the wrong legendary kung-fu grandmaster to mug
+author:E-V-M|media:/compo-media/assembly2011/graphics/virtual-fighter-by-e-v-m.jpeg|pms-id:asm11/graphics/132|position:11|techniques:digital painting, photoshop|title:Virtual Fighter
+author:Surround|media:/compo-media/assembly2011/graphics/steam-shock-by-surround.png|pms-id:asm11/graphics/156|position:3|techniques:3ds max and photoshop|title:Steam Shock
+author:Darkki|media:/compo-media/assembly2011/graphics/orbital-breakfast-by-darkki.png|pms-id:asm11/graphics/157|position:6|techniques:3dsmax + Photoshop|title:Orbital Breakfast
+author:maxon / HBC|media:/compo-media/assembly2011/graphics/middleman-crisis-by-maxon-hbc.jpeg|pms-id:asm11/graphics/172|position:4|techniques:Ubuntu, Blender, Gimp - they are free, go get yours.|title:Middleman Crisis
+author:Kinnerean|media:/compo-media/assembly2011/graphics/a-voyage-to-the-slumberland-by-kinnerean.png|pms-id:asm11/graphics/203|position:8|techniques:Photoshop|title:A Voyage To The Slumberland
+author:Vablo|media:/compo-media/assembly2011/graphics/dive-by-vablo.jpeg|pms-id:asm11/graphics/221|position:7|techniques:Adobe Photoshop CS3 and Wacom Intuos3 A5.|title:Dive
+author:juhone|media:/compo-media/assembly2011/graphics/uhrimenot-lierokallion-solassa-by-juhone.png|pms-id:asm11/graphics/257|position:9|techniques:Painted in Photoshop|title:Uhrimenot Lierokallion solassa
+author:Mazor of Fairlight|media:/compo-media/assembly2011/graphics/drawing-attention-by-mazor-of-fairlight.png|pms-id:asm11/graphics/261|position:2|title:Drawing Attention
 
 
 :section Extreme music
@@ -141,27 +141,27 @@ author:jammic|pms-id:asm11/extreme_music/211|position:3|techniques:Sync|title:Wa
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with theme "Last minute".</p>
 
-author:Mig26|image-file:fast-graphics/000-186-the-end-of-time.png|pms-id:asm11/fast_graphics/186|position:19|techniques:GIMP + Blender|title:The End of Time
-author:JOmplet|image-file:fast-graphics/000-193-last-minute-of-freedom.png|pms-id:asm11/fast_graphics/193|position:6|techniques:MS Paint|title:Last minute of freedom
-author:john peeba|image-file:fast-graphics/000-213-bzm-express.png|pms-id:asm11/fast_graphics/213|position:2|techniques:Photoshop|title:bzm express
-author:na|image-file:fast-graphics/000-216-red-end.png|pms-id:asm11/fast_graphics/216|position:20|techniques:3dsmax,photoshop|title:Red End
-author:Charlotta Tiuri|image-file:fast-graphics/000-218-little-fright-in-3-2-1.png|pms-id:asm11/fast_graphics/218|position:4|techniques:Photoshop|title:Little Fright in 3...2...1...
-author:Dekus|image-file:fast-graphics/000-219-last-minute-on-earth.png|pms-id:asm11/fast_graphics/219|position:9|techniques:Photshop|title:Last Minute on Earth
-author:maxon / HBC|image-file:fast-graphics/000-220-countdown-for-better-or-for-worse.png|pms-id:asm11/fast_graphics/220|position:17|techniques:Ubuntu, Blender, Gimp|title:Countdown for Better or for Worse
-author:Irah|image-file:fast-graphics/000-222-never-enough-time.png|pms-id:asm11/fast_graphics/222|position:15|techniques:OpenCanvas + Gimp + Frustration|title:Never enough time
-author:Surround|image-file:fast-graphics/000-226-minuutti.png|pms-id:asm11/fast_graphics/226|position:3|techniques:Photoshop|title:MINUUTTI!!!!!
-author:Sibane|image-file:fast-graphics/000-228-last-minute-morning-routine.png|pms-id:asm11/fast_graphics/228|position:18|techniques:Photoshop|title:Last minute morning routine
-author:Korpi / HBC|image-file:fast-graphics/000-232-scorched-earth.png|pms-id:asm11/fast_graphics/232|position:1|techniques:Photoshop, Wacom Intuos 3|title:Scorched Earth
-author:Onis|image-file:fast-graphics/000-234-fuuu-seuraava-laiva-tulee-2vkon-paasta.png|pms-id:asm11/fast_graphics/234|position:12|techniques:Photoshop cs5, intuos a5|title:fuuu_seuraava_laiva_tulee_2vkon_paasta
-author:Dumis|image-file:fast-graphics/000-235-fragile-landing.png|pms-id:asm11/fast_graphics/235|position:5|techniques:Photoshop|title:Fragile landing
-author:juriga|image-file:fast-graphics/000-236-self-portrait.png|pms-id:asm11/fast_graphics/236|position:7|techniques:Tablet PC, ArtRage|title:Self Portrait
-author:MacGywer/npli|image-file:fast-graphics/000-237-killer-called-fernando.png|pms-id:asm11/fast_graphics/237|position:13|techniques:Photoshop drawing|title:Killer Called Fernando
-author:Kundokaani|image-file:fast-graphics/000-240-pompeli.png|pms-id:asm11/fast_graphics/240|position:10|techniques:3D|title:Pompeli
-author:Vehje|image-file:fast-graphics/000-243-slipping-away.png|pms-id:asm11/fast_graphics/243|position:21|techniques:Few colors, on black.|title:Slipping away
-author:Zagupi / HBC|image-file:fast-graphics/000-246-the-wheels-have-stopped-turning.png|pms-id:asm11/fast_graphics/246|position:8|techniques:Blender(cycles) + GIMP|title:The wheels have stopped turning
-author:McLad|image-file:fast-graphics/000-249-viime-tipassa.png|pms-id:asm11/fast_graphics/249|position:16|techniques:Photo + Photoshop|title:Viime tipassa
-author:offwhite - with a little help from my friends|image-file:fast-graphics/000-251-boozetasking-fail.png|pms-id:asm11/fast_graphics/251|position:14|techniques:Painting in photoshop|title:Boozetasking fail
-author:Random|image-file:fast-graphics/000-253-last-flight.png|pms-id:asm11/fast_graphics/253|position:11|title:Last Flight
+author:Mig26|media:/compo-media/assembly2011/fast-graphics/the-end-of-time-by-mig26.jpeg|pms-id:asm11/fast_graphics/186|position:19|techniques:GIMP + Blender|title:The End of Time
+author:JOmplet|media:/compo-media/assembly2011/fast-graphics/last-minute-of-freedom-by-jomplet.png|pms-id:asm11/fast_graphics/193|position:6|techniques:MS Paint|title:Last minute of freedom
+author:john peeba|media:/compo-media/assembly2011/fast-graphics/bzm-express-by-john-peeba.png|pms-id:asm11/fast_graphics/213|position:2|techniques:Photoshop|title:bzm express
+author:na|media:/compo-media/assembly2011/fast-graphics/red-end-by-na.png|pms-id:asm11/fast_graphics/216|position:20|techniques:3dsmax,photoshop|title:Red End
+author:Charlotta Tiuri|media:/compo-media/assembly2011/fast-graphics/little-fright-in-3-2-1-by-charlotta-tiuri.jpeg|pms-id:asm11/fast_graphics/218|position:4|techniques:Photoshop|title:Little Fright in 3...2...1...
+author:Dekus|media:/compo-media/assembly2011/fast-graphics/last-minute-on-earth-by-dekus.png|pms-id:asm11/fast_graphics/219|position:9|techniques:Photshop|title:Last Minute on Earth
+author:maxon / HBC|media:/compo-media/assembly2011/fast-graphics/countdown-for-better-or-for-worse-by-maxon-hbc.png|pms-id:asm11/fast_graphics/220|position:17|techniques:Ubuntu, Blender, Gimp|title:Countdown for Better or for Worse
+author:Irah|media:/compo-media/assembly2011/fast-graphics/never-enough-time-by-irah.png|pms-id:asm11/fast_graphics/222|position:15|techniques:OpenCanvas + Gimp + Frustration|title:Never enough time
+author:Surround|media:/compo-media/assembly2011/fast-graphics/minuutti-by-surround.jpeg|pms-id:asm11/fast_graphics/226|position:3|techniques:Photoshop|title:MINUUTTI!!!!!
+author:Sibane|media:/compo-media/assembly2011/fast-graphics/last-minute-morning-routine-by-sibane.png|pms-id:asm11/fast_graphics/228|position:18|techniques:Photoshop|title:Last minute morning routine
+author:Korpi / HBC|media:/compo-media/assembly2011/fast-graphics/scorched-earth-by-korpi-hbc.png|pms-id:asm11/fast_graphics/232|position:1|techniques:Photoshop, Wacom Intuos 3|title:Scorched Earth
+author:Onis|media:/compo-media/assembly2011/fast-graphics/fuuu-seuraava-laiva-tulee-2vkon-paasta-by-onis.jpeg|pms-id:asm11/fast_graphics/234|position:12|techniques:Photoshop cs5, intuos a5|title:fuuu_seuraava_laiva_tulee_2vkon_paasta
+author:Dumis|media:/compo-media/assembly2011/fast-graphics/fragile-landing-by-dumis.png|pms-id:asm11/fast_graphics/235|position:5|techniques:Photoshop|title:Fragile landing
+author:juriga|media:/compo-media/assembly2011/fast-graphics/self-portrait-by-juriga.png|pms-id:asm11/fast_graphics/236|position:7|techniques:Tablet PC, ArtRage|title:Self Portrait
+author:MacGywer/npli|media:/compo-media/assembly2011/fast-graphics/killer-called-fernando-by-macgywer-npli.jpeg|pms-id:asm11/fast_graphics/237|position:13|techniques:Photoshop drawing|title:Killer Called Fernando
+author:Kundokaani|media:/compo-media/assembly2011/fast-graphics/pompeli-by-kundokaani.png|pms-id:asm11/fast_graphics/240|position:10|techniques:3D|title:Pompeli
+author:Vehje|media:/compo-media/assembly2011/fast-graphics/slipping-away-by-vehje.jpeg|pms-id:asm11/fast_graphics/243|position:21|techniques:Few colors, on black.|title:Slipping away
+author:Zagupi / HBC|media:/compo-media/assembly2011/fast-graphics/the-wheels-have-stopped-turning-by-zagupi-hbc.png|pms-id:asm11/fast_graphics/246|position:8|techniques:Blender(cycles) + GIMP|title:The wheels have stopped turning
+author:McLad|media:/compo-media/assembly2011/fast-graphics/viime-tipassa-by-mclad.png|pms-id:asm11/fast_graphics/249|position:16|techniques:Photo + Photoshop|title:Viime tipassa
+author:offwhite - with a little help from my friends|media:/compo-media/assembly2011/fast-graphics/boozetasking-fail-by-offwhite-with-a-little-help-from-my-friends.png|pms-id:asm11/fast_graphics/251|position:14|techniques:Painting in photoshop|title:Boozetasking fail
+author:Random|media:/compo-media/assembly2011/fast-graphics/last-flight-by-random.png|pms-id:asm11/fast_graphics/253|position:11|title:Last Flight
 
 
 :section Fast music
@@ -169,22 +169,22 @@ author:Random|image-file:fast-graphics/000-253-last-flight.png|pms-id:asm11/fast
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:vikbez|pms-id:asm11/fast_music/80|position:9|techniques:lulage|title:budubidu|video-file:fast-music/000-80-budubidu.mp3.avi|youtube:NviY5aP7NqY
-author:1nsane|pms-id:asm11/fast_music/104|position:3|title:VVC-Ankka|video-file:fast-music/000-104-vvc-ankka.mp3.avi|youtube:h6jWwyU5awI
-author:Puti|pms-id:asm11/fast_music/118|position:8|techniques:C++, instrument samples|title:Song of Joy|video-file:fast-music/000-118-song-of-joy.mp3.avi|youtube:_ILXPYajL_4
-author:Pirate Crew|pms-id:asm11/fast_music/120|position:12|techniques:äf äl studio|title:Don't change the chords in the middle of the compo you goshdarn gravybutts|video-file:fast-music/000-120-don-t-change-the-chords-in-the-middle-of-the-compo-you-goshdarn-gravybutts.mp3.avi|youtube:vdODkmXsH34
-author:puu ja höylä|pms-id:asm11/fast_music/121|position:6|techniques:sorvi|title:puuhöylä|video-file:fast-music/000-121-puuhoyla.mp3.avi|youtube:t4YTY-0MWgE
-author:FLD/r00t3d|pms-id:asm11/fast_music/124|position:7|techniques:FL Studio 10|title:All the time in the world|video-file:fast-music/000-124-all-the-time-in-the-world.mp3.avi|youtube:E55SRXLgKPM
-author:King Thrill / Tekotuotanto|pms-id:asm11/fast_music/125|position:1|techniques:Reaper|title:Ennennäkemättömät bileet röllimetsässä|video-file:fast-music/000-125-ennennakemattomat-bileet-rollimetsassa.mp3.avi|youtube:DmzyaVVTIoc
-author:Aoe|pms-id:asm11/fast_music/126|position:5|techniques:Reason|title:Somewhat Progressive|video-file:fast-music/000-126-somewhat-progressive.mp3.avi|youtube:0HEpZf9Rnxg
-author:Jaksary|pms-id:asm11/fast_music/127|position:15|techniques:FL|title:Syöveröinen notko|video-file:fast-music/000-127-syoveroinen-notko.mp3.avi|youtube:IY3Icsw5kWU
-author:Dazzler|pms-id:asm11/fast_music/128|position:14|techniques:FL Studio|title:Metalworks|video-file:fast-music/000-128-metalworks.mp3.avi|youtube:brvMN9mGbgc
-author:luuk / 6th Fire|pms-id:asm11/fast_music/129|position:11|techniques:Impulse Tracker|title:a happy assembly visitor|video-file:fast-music/000-129-a-happy-assembly-visitor.mp3.avi|youtube:nr-ze4Vz_ew
-author:Datafox|pms-id:asm11/fast_music/134|position:4|techniques:FL Studio & Plugarit|title:Another Piece|video-file:fast-music/000-134-another-piece.mp3.avi|youtube:EnF_WXQkdqE
-author:Rebb/TRSi^Paradise|pms-id:asm11/fast_music/138|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some serious rush|title:Maxymised arps|video-file:fast-music/000-138-maxymised-arps.mp3.avi|youtube:Sb7JTJKZNhk
-author:szura szurkea|pms-id:asm11/fast_music/139|position:13|techniques:renoise|title:Wookiemonster on holiday|video-file:fast-music/000-139-wookiemonster-on-holiday.mp3.avi|youtube:18yTNs3RIoc
-author:cce|pms-id:asm11/fast_music/144|position:10|techniques:MilkyTracker|title:zimmerhimmel|video-file:fast-music/000-144-zimmerhimmel.mp3.avi|youtube:C1dhntvtSYw
-author:OLO/Radarski|pms-id:asm11/fast_music/149|position:16|techniques:Ableton + vsts|title:Kaamee kapula|video-file:fast-music/000-149-kaamee-kapula.mp3.avi|youtube:6ntvEfUyJv8
+author:vikbez|media:/compo-media/assembly2011/fast-music/budubidu-by-vikbez.mp3|pms-id:asm11/fast_music/80|position:9|techniques:lulage|title:budubidu|youtube:NviY5aP7NqY
+author:1nsane|media:/compo-media/assembly2011/fast-music/vvc-ankka-by-1nsane.mp3|pms-id:asm11/fast_music/104|position:3|title:VVC-Ankka|youtube:h6jWwyU5awI
+author:Puti|media:/compo-media/assembly2011/fast-music/song-of-joy-by-puti.mp3|pms-id:asm11/fast_music/118|position:8|techniques:C++, instrument samples|title:Song of Joy|youtube:_ILXPYajL_4
+author:Pirate Crew|media:/compo-media/assembly2011/fast-music/don-t-change-the-chords-in-the-middle-of-the-compo-you-goshdarn-gravybutts-by-pirate-crew.mp3|pms-id:asm11/fast_music/120|position:12|techniques:äf äl studio|title:Don't change the chords in the middle of the compo you goshdarn gravybutts|youtube:vdODkmXsH34
+author:puu ja höylä|media:/compo-media/assembly2011/fast-music/puuhoyla-by-puu-ja-hoyla.mp3|pms-id:asm11/fast_music/121|position:6|techniques:sorvi|title:puuhöylä|youtube:t4YTY-0MWgE
+author:FLD/r00t3d|media:/compo-media/assembly2011/fast-music/all-the-time-in-the-world-by-fld-r00t3d.mp3|pms-id:asm11/fast_music/124|position:7|techniques:FL Studio 10|title:All the time in the world|youtube:E55SRXLgKPM
+author:King Thrill / Tekotuotanto|media:/compo-media/assembly2011/fast-music/ennennakemattomat-bileet-rollimetsassa-by-king-thrill-tekotuotanto.mp3|pms-id:asm11/fast_music/125|position:1|techniques:Reaper|title:Ennennäkemättömät bileet röllimetsässä|youtube:DmzyaVVTIoc
+author:Aoe|media:/compo-media/assembly2011/fast-music/somewhat-progressive-by-aoe.mp3|pms-id:asm11/fast_music/126|position:5|techniques:Reason|title:Somewhat Progressive|youtube:0HEpZf9Rnxg
+author:Jaksary|media:/compo-media/assembly2011/fast-music/syoveroinen-notko-by-jaksary.mp3|pms-id:asm11/fast_music/127|position:15|techniques:FL|title:Syöveröinen notko|youtube:IY3Icsw5kWU
+author:Dazzler|media:/compo-media/assembly2011/fast-music/metalworks-by-dazzler.mp3|pms-id:asm11/fast_music/128|position:14|techniques:FL Studio|title:Metalworks|youtube:brvMN9mGbgc
+author:luuk / 6th Fire|media:/compo-media/assembly2011/fast-music/a-happy-assembly-visitor-by-luuk-6th-fire.mp3|pms-id:asm11/fast_music/129|position:11|techniques:Impulse Tracker|title:a happy assembly visitor|youtube:nr-ze4Vz_ew
+author:Datafox|media:/compo-media/assembly2011/fast-music/another-piece-by-datafox.mp3|pms-id:asm11/fast_music/134|position:4|techniques:FL Studio & Plugarit|title:Another Piece|youtube:EnF_WXQkdqE
+author:Rebb/TRSi^Paradise|media:/compo-media/assembly2011/fast-music/maxymised-arps-by-rebb-trsi-paradise.mp3|pms-id:asm11/fast_music/138|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some serious rush|title:Maxymised arps|youtube:Sb7JTJKZNhk
+author:szura szurkea|media:/compo-media/assembly2011/fast-music/wookiemonster-on-holiday-by-szura-szurkea.mp3|pms-id:asm11/fast_music/139|position:13|techniques:renoise|title:Wookiemonster on holiday|youtube:18yTNs3RIoc
+author:cce|media:/compo-media/assembly2011/fast-music/zimmerhimmel-by-cce.mp3|pms-id:asm11/fast_music/144|position:10|techniques:MilkyTracker|title:zimmerhimmel|youtube:C1dhntvtSYw
+author:OLO/Radarski|media:/compo-media/assembly2011/fast-music/kaamee-kapula-by-olo-radarski.mp3|pms-id:asm11/fast_music/149|position:16|techniques:Ableton + vsts|title:Kaamee kapula|youtube:6ntvEfUyJv8
 
 
 :section Game development
