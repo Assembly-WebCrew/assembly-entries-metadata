@@ -125,6 +125,8 @@ def print_entry(year, entry):
     thumbnail = None
 
     description = u""
+    if 'warning' in entry:
+        description = u"%s</p>\n<p>" % entry['warning']
 
     position_str = None
 
@@ -145,9 +147,11 @@ def print_entry(year, entry):
             #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
 
         if 'techniques' in entry:
-            description += u"Notes: %s</p>\n<p>" % (entry['techniques'])
+            description += u"Notes: %s</p>\n<p>" % entry['techniques']
 
-        description += u"Title: %s<br />\n" % cgi.escape(title)
+        if 'description' in entry:
+            description += u"%s</p>\n<p>" % entry['description']
+
         description += u"Author: %s\n" % cgi.escape(author)
 
     if 'dtv' in entry:
