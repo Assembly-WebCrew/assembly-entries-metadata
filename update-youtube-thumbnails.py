@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import asmmetadata
 import os
 import os.path
