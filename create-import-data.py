@@ -14,9 +14,6 @@ CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 parser = optparse.OptionParser()
 parser.add_option("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
-parser.add_option("-q", "--quiet",
-                  action="store_false", dest="verbose", default=True,
-                  help="don't print status messages to stdout")
 
 (options, args) = parser.parse_args()
 if len(args) != 1:
@@ -64,12 +61,17 @@ def print_section(year, section):
     normalized_section = section['key']
     sectionpath = "%s/%s" % (year, normalized_section)
     additionalinfo = ''
+    description = ''
     if 'description' in section:
-        description = section['description']
+        description += section['description']
         # XXX Check for next year.
         # if section['ongoing'] is True:
         #     pms_path = "asm11/compos/%s/vote/" % section['pms-category']
         #     description += "<p>You can vote these entries at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
+    if 'youtube-playlist' in section:
+        description += """<p><a href="http://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
+
+    if description != '':
         additionalinfo = """
 <mediagalleryadditionalinfo
     description=%s
@@ -156,13 +158,10 @@ def print_entry(year, entry):
 
     if 'dtv' in entry:
         demoscenetv = entry['dtv']
-        demoscenetv_thumb = cgi.parse_qs(demoscenetv)['image'][0].split("/")[-1].split(".")[0]
-        thumbnail, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'dtv-thumbnails/%s' % demoscenetv_thumb))
 
     # Youtube is primary location
     if 'youtube' in entry:
         youtube = entry['youtube']
-        thumbnail, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'youtube-thumbnails/%s' % youtube))
         locations += "<location type='youtube'>%s</location>" % youtube
 
     # Youtube is primary location
@@ -174,7 +173,6 @@ def print_entry(year, entry):
         image_file = entry['image-file']
         if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
             baseprefix, _ = image_file.split(".")
-            thumbnail, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/small/%s' % baseprefix))
             viewfile, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/large/%s' % baseprefix))
 
             normal_prefix = asmmetadata.normalize_key(baseprefix)
@@ -188,7 +186,6 @@ def print_entry(year, entry):
         webfile = entry['webfile']
         if webfile.endswith(".png") or webfile.endswith(".jpeg") or webfile.endswith(".gif"):
             baseprefix, _ = webfile.split(".")
-            thumbnail, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/small/%s' % baseprefix))
             viewfile, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/large/%s' % baseprefix))
 
             normal_prefix = asmmetadata.normalize_key(baseprefix)
@@ -234,7 +231,14 @@ def print_entry(year, entry):
         mediavideo = entry['media']
         locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
 
+    thumbnail_base = asmmetadata.select_thumbnail_base(entry)
+    thumbnail = None
+    if thumbnail_base is not None:
+        thumbnail, _ = select_smaller_thumbnail(os.path.join(fileroot, thumbnail_base))
+
     if thumbnail is None:
+        sys.stderr.write("Missing thumbnail for %s!\n" % str(entry))
+        sys.exit(1)
         return
 
     ranking = 'ranking="%d"' % position
@@ -289,7 +293,7 @@ for section in entry_data.sections:
         continue
     print_section(entry_data.year, section)
 
-    for entry in sorted(section['entries'], lambda x, y: cmp(x.get('position', 999), y.get('position', 999))):
+    for entry in asmmetadata.sort_entries(section['entries']):
         print_entry(entry_data.year, entry)
 
 print """</import>"""

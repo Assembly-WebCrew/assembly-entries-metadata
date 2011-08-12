@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import cgi
 import re
 
 
@@ -153,3 +154,21 @@ def print_metadata(outfile, year_entry_data):
             outfile.write("%s\n" % outline.encode("utf-8"))
 
         outfile.write("\n")
+
+def sort_entries(entries):
+    return sorted(
+        entries,
+        lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+
+def select_thumbnail_base(entry):
+    if 'youtube' in entry:
+        return 'youtube-thumbnails/%s' % entry['youtube']
+    if 'dtv' in entry:
+        demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
+        return 'dtv-thumbnails/%s' % demoscenetv_thumb
+    if 'webfile' in entry or 'image-file' in entry:
+        filename = entry.get('webfile', None) or entry.get('image-file')
+        baseprefix, _ = filename.split(".")
+        if filename.endswith(".png") or filename.endswith(".jpeg") or filename.endswith(".gif"):
+            return 'thumbnails/small/%s' % baseprefix
+    return None
