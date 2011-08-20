@@ -32,16 +32,19 @@ def display_asset(path, title, data):
          modified="2011-02-11 10:00:00"><![CDATA[%(data)s
 ]]></edition>
   </asset>
-""" % {'path': path, 'title': quoteattr(title), 'data': base64.encodestring(data)}
+""" % {'path': path,
+       'title': quoteattr(title),
+       'data': base64.encodestring(data),
+       }
 
 def select_smaller_thumbnail(fileprefix):
-        thumbnail_jpeg = open(fileprefix + ".jpeg", "r").read()
-        thumbnail_png = open(fileprefix + ".png", "r").read()
+    thumbnail_jpeg = open(fileprefix + ".jpeg", "r").read()
+    thumbnail_png = open(fileprefix + ".png", "r").read()
 
-        if len(thumbnail_jpeg) < len(thumbnail_png):
-            return thumbnail_jpeg, '.jpeg'
-        else:
-            return thumbnail_png, '.png'
+    if len(thumbnail_jpeg) < len(thumbnail_png):
+        return thumbnail_jpeg, '.jpeg'
+    else:
+        return thumbnail_png, '.png'
 
 entry_data = asmmetadata.parse_file(sys.stdin)
 
@@ -235,8 +238,12 @@ def print_entry(year, entry):
     thumbnail = None
     if thumbnail_base is not None:
         thumbnail, _ = select_smaller_thumbnail(os.path.join(fileroot, thumbnail_base))
+    else:
+        # We don't have any displayable data.
+        return
 
     if thumbnail is None:
+        del entry['section']
         sys.stderr.write("Missing thumbnail for %s!\n" % str(entry))
         sys.exit(1)
         return
@@ -247,11 +254,15 @@ def print_entry(year, entry):
 
     description_non_unicode = description
 
+    tags = set(['hide-navigation'])
+    if 'tags' in entry:
+        tags.update(entry['tags'].split(" "))
+
     asset_data = """
   <externalasset path="%(year)s/%(normalizedsection)s/%(normalizedname)s">
     <edition parameters="lang: workflow:public"
          title=%(title)s
-         tags="hide-navigation"
+         tags=%(tags)s
          created="%(current-time)s"
          modified="%(current-time)s">
       <mediagalleryadditionalinfo
@@ -279,6 +290,7 @@ def print_entry(year, entry):
        'locations': locations,
        'description': quoteattr(description_non_unicode),
        'current-time': CURRENT_TIME,
+       'tags': quoteattr(" ".join(tags)),
        }
     asset_data_str = asset_data.encode("utf-8")
     print asset_data_str
