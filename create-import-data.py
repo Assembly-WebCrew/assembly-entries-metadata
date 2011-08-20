@@ -151,6 +151,9 @@ def print_entry(year, entry):
             #     pms_path = "asm11/compos/%s/vote/" % entry['section']['pms-category']
             #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
 
+        if 'platform' in entry:
+            description += u"Platform: %s</p>\n<p>" % entry['platform']
+
         if 'techniques' in entry:
             description += u"Notes: %s</p>\n<p>" % entry['techniques']
 

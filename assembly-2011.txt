@@ -5,16 +5,16 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2011 PC computer.</p>
 
-author:Vovoid|media:/vod/2011/Compos/1322_Demo_Luna__Reactivation_by_Vovoid_h264_7168kbit.mp4|pms-id:asm11/demo/57|position:3|techniques:C++/opengl, Our own tool (VSXu) for animation|title:Luna : Reactivation|youtube:ktkS7A5CZ8g
-author:KoomaDot|media:/vod/2011/Compos/1323_Demo_LazyBeat_by_KoomaDot_h264_7168kbit.mp4|pms-id:asm11/demo/88|position:10|techniques:MMF2, FL Studio|title:LazyBeat|youtube:CIK79Y8XSh8
-author:Rustbloom|media:/vod/2011/Compos/1324_Demo_Grandma_by_Rustbloom_h264_7168kbit.mp4|pms-id:asm11/demo/256|position:5|techniques:kaulin|title:Grandma|youtube:p_GE-_94Qlw
-author:Andromeda Software Development|media:/vod/2011/Compos/1325_Demo_Spin_by_Andromeda_Software_Development_h264_7168kbit.mp4|pms-id:asm11/demo/265|position:1|title:Spin|youtube:Oyx1D9j1O8g
-author:Kewlers|media:/vod/2011/Compos/1326_Demo_Fermion_by_Kewlers_h264_7168kbit.mp4|pms-id:asm11/demo/268|position:4|techniques:OpenGL, gcc, gimp, GNU Rocket|title:Fermion|youtube:E12Oczh7jPQ
-author:Pyrotech|media:/vod/2011/Compos/1327_Demo_Unhallowed_by_Pyrotech_h264_7168kbit.mp4|pms-id:asm11/demo/270|position:7|techniques:DX9|title:Unhallowed|youtube:N9Qh7N-cJS8
-author:Division|media:/vod/2011/Compos/1328_Demo_Geomtry_by_Division_h264_7168kbit.mp4|pms-id:asm11/demo/271|position:6|techniques:DX9|title:Geomtry|youtube:jeOHgrF3VFs
-author:.fail|media:/vod/2011/Compos/1329_Demo_Platonic_Love_by_fail_h264_7168kbit.mp4|pms-id:asm11/demo/272|position:9|techniques:C++ and panic|title:Platonic Love|youtube:fs_cHSvRle4
-author:adapt|media:/vod/2011/Compos/1330_Demo_Refaktor_by_adapt_h264_7168kbit.mp4|pms-id:asm11/demo/279|position:8|techniques:love|title:Refaktor|youtube:UeLCdGBz35A
-author:fairlight & alcatraz|media:/vod/2011/Compos/1331_Demo_uncovering_static_64k_by_fairlight__alcatraz_h264_7168kbit.mp4|pms-id:asm11/demo/280|position:2|techniques:Due to unfortunate circumstances this 64k is in the democompo.|title:uncovering static (64k)|youtube:69Xjc7eklxE
+author:Vovoid|media:/vod/2011/Compos/1322_Demo_Luna__Reactivation_by_Vovoid_h264_7168kbit.mp4|platform:GNU/Linux|pms-id:asm11/demo/57|position:3|techniques:C++/opengl, Our own tool (VSXu) for animation|title:Luna : Reactivation|youtube:ktkS7A5CZ8g
+author:KoomaDot|media:/vod/2011/Compos/1323_Demo_LazyBeat_by_KoomaDot_h264_7168kbit.mp4|platform:PC|pms-id:asm11/demo/88|position:10|techniques:MMF2, FL Studio|title:LazyBeat|youtube:CIK79Y8XSh8
+author:Rustbloom|media:/vod/2011/Compos/1324_Demo_Grandma_by_Rustbloom_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/demo/256|position:5|techniques:kaulin|title:Grandma|youtube:p_GE-_94Qlw
+author:Andromeda Software Development|media:/vod/2011/Compos/1325_Demo_Spin_by_Andromeda_Software_Development_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/demo/265|position:1|title:Spin|youtube:Oyx1D9j1O8g
+author:Kewlers|media:/vod/2011/Compos/1326_Demo_Fermion_by_Kewlers_h264_7168kbit.mp4|platform:PC|pms-id:asm11/demo/268|position:4|techniques:OpenGL, gcc, gimp, GNU Rocket|title:Fermion|youtube:E12Oczh7jPQ
+author:Pyrotech|media:/vod/2011/Compos/1327_Demo_Unhallowed_by_Pyrotech_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/demo/270|position:7|techniques:DX9|title:Unhallowed|youtube:N9Qh7N-cJS8
+author:Division|media:/vod/2011/Compos/1328_Demo_Geomtry_by_Division_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/demo/271|position:6|techniques:DX9|title:Geomtry|youtube:jeOHgrF3VFs
+author:.fail|media:/vod/2011/Compos/1329_Demo_Platonic_Love_by_fail_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/demo/272|position:9|techniques:C++ and panic|title:Platonic Love|youtube:fs_cHSvRle4
+author:adapt|media:/vod/2011/Compos/1330_Demo_Refaktor_by_adapt_h264_7168kbit.mp4|platform:windows|pms-id:asm11/demo/279|position:8|techniques:love|title:Refaktor|youtube:UeLCdGBz35A
+author:fairlight & alcatraz|media:/vod/2011/Compos/1331_Demo_uncovering_static_64k_by_fairlight__alcatraz_h264_7168kbit.mp4|platform:64k is enough for anyone|pms-id:asm11/demo/280|position:2|techniques:Due to unfortunate circumstances this 64k is in the democompo.|title:uncovering static (64k)|youtube:69Xjc7eklxE
 
 
 :section 4k intro
@@ -22,17 +22,17 @@ author:fairlight & alcatraz|media:/vod/2011/Compos/1331_Demo_uncovering_static_6
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2011 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:PuavoHard|media:/vod/2011/Compos/1291_4k_Line_Mania_by_PuavoHard_h264_7168kbit.mp4|pms-id:asm11/4k_intro/42|position:6|techniques:Direct3D 9|title:Line Mania|youtube:vxgOyl6OznQ
-author:Peisik|media:/vod/2011/Compos/1292_4k_invaders_by_Peisik_h264_7168kbit.mp4|pms-id:asm11/4k_intro/47|position:5|techniques:C++, OpenGL, GLSL|title:invaders|youtube:cqy0rvm-wIo
-author:Blobtrox|media:/vod/2011/Compos/1293_4k_DayDream_by_Blobtrox_h264_7168kbit.mp4|pms-id:asm11/4k_intro/48|position:10|techniques:Cat and whiskers, pew pew (GLSL)|title:DayDream|youtube:AvSXg75p6Vw
-author:cubicle|media:/vod/2011/Compos/1294_4k_anglerfish_by_cubicle_h264_7168kbit.mp4|pms-id:asm11/4k_intro/67|position:1|techniques:crinkler, 4klang and shader minifier|title:anglerfish|youtube:taFvWDc5Egs
-author:archee|media:/vod/2011/Compos/1295_4k_coder_porn_by_archee_h264_7168kbit.mp4|pms-id:asm11/4k_intro/76|position:2|techniques:GPU|title:coder porn!|youtube:msqOxi5W-Hc
-author:lucid|media:/vod/2011/Compos/1296_4k_colors_by_lucid_h264_7168kbit.mp4|pms-id:asm11/4k_intro/151|position:11|techniques:Direct3D10, hlsl4|title:colors|youtube:kjYY9L-cY9c
-author:XZM & tAAt|media:/vod/2011/Compos/1297_4k_Nelejn_Kilon_Nakki_by_XZM__tAAt_h264_7168kbit.mp4|pms-id:asm11/4k_intro/173|position:7|techniques:C++, 4klang|title:Nelejän Kilon Nakki|youtube:z2oqzBUNI40
-author:Digimind & Silent|media:/vod/2011/Compos/1298_4k_Terraformers_by_Digimind_Silent_h264_7168kbit.mp4|pms-id:asm11/4k_intro/179|position:4|techniques:4klang, Crinkler|title:Terraformers|youtube:c2ephCw9Irs
-author:TDA|media:/vod/2011/Compos/1299_4k_Megademo_by_TDA_h264_7168kbit.mp4|pms-id:asm11/4k_intro/181|position:9|techniques:NASM, Laturi, partycoding|title:Megademo|youtube:QqBESuTgdtY
-author:Faemiyah|media:/vod/2011/Compos/1300_4k_Dirty_Garden_by_Faemiyah_h264_7168kbit.mp4|pms-id:asm11/4k_intro/200|position:8|techniques:OpenGL~3, SDL|title:Dirty Garden|youtube:25Saw8Hb_jk
-author:Traction|media:/vod/2011/Compos/1301_4k_Cloudlight_by_Traction_h264_7168kbit.mp4|pms-id:asm11/4k_intro/223|position:3|title:Cloudlight|youtube:lLzbkh1ibhE
+author:PuavoHard|media:/vod/2011/Compos/1291_4k_Line_Mania_by_PuavoHard_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/4k_intro/42|position:6|techniques:Direct3D 9|title:Line Mania|youtube:vxgOyl6OznQ
+author:Peisik|media:/vod/2011/Compos/1292_4k_invaders_by_Peisik_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/4k_intro/47|position:5|techniques:C++, OpenGL, GLSL|title:invaders|youtube:cqy0rvm-wIo
+author:Blobtrox|media:/vod/2011/Compos/1293_4k_DayDream_by_Blobtrox_h264_7168kbit.mp4|platform:PC|pms-id:asm11/4k_intro/48|position:10|techniques:Cat and whiskers, pew pew (GLSL)|title:DayDream|youtube:AvSXg75p6Vw
+author:cubicle|media:/vod/2011/Compos/1294_4k_anglerfish_by_cubicle_h264_7168kbit.mp4|platform:windows|pms-id:asm11/4k_intro/67|position:1|techniques:crinkler, 4klang and shader minifier|title:anglerfish|youtube:taFvWDc5Egs
+author:archee|media:/vod/2011/Compos/1295_4k_coder_porn_by_archee_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/4k_intro/76|position:2|techniques:GPU|title:coder porn!|youtube:msqOxi5W-Hc
+author:lucid|media:/vod/2011/Compos/1296_4k_colors_by_lucid_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/4k_intro/151|position:11|techniques:Direct3D10, hlsl4|title:colors|youtube:kjYY9L-cY9c
+author:XZM & tAAt|media:/vod/2011/Compos/1297_4k_Nelejn_Kilon_Nakki_by_XZM__tAAt_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/4k_intro/173|position:7|techniques:C++, 4klang|title:Nelejän Kilon Nakki|youtube:z2oqzBUNI40
+author:Digimind & Silent|media:/vod/2011/Compos/1298_4k_Terraformers_by_Digimind_Silent_h264_7168kbit.mp4|platform:PC|pms-id:asm11/4k_intro/179|position:4|techniques:4klang, Crinkler|title:Terraformers|youtube:c2ephCw9Irs
+author:TDA|media:/vod/2011/Compos/1299_4k_Megademo_by_TDA_h264_7168kbit.mp4|platform:MacOS X|pms-id:asm11/4k_intro/181|position:9|techniques:NASM, Laturi, partycoding|title:Megademo|youtube:QqBESuTgdtY
+author:Faemiyah|media:/vod/2011/Compos/1300_4k_Dirty_Garden_by_Faemiyah_h264_7168kbit.mp4|platform:FreeBSD ia32|pms-id:asm11/4k_intro/200|position:8|techniques:OpenGL~3, SDL|title:Dirty Garden|youtube:25Saw8Hb_jk
+author:Traction|media:/vod/2011/Compos/1301_4k_Cloudlight_by_Traction_h264_7168kbit.mp4|platform:PC|pms-id:asm11/4k_intro/223|position:3|title:Cloudlight|youtube:lLzbkh1ibhE
 
 
 :section Short film
@@ -40,13 +40,13 @@ author:Traction|media:/vod/2011/Compos/1301_4k_Cloudlight_by_Traction_h264_7168k
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-author:Randomheads|media:/vod/2011/Compos/1313_Shortfilm_Muukalaisia_Yss_by_Randomheads_h264_7168kbit.mp4|pms-id:asm11/short_film/24|position:7|techniques:Adobe Premiere, Audacity, After Effects & Paint Shop Pro|title:Muukalaisia Yössä|youtube:kvmmhJa8GZ8
-author:SirRandom|media:/vod/2011/Compos/1314_Shortfilm_Why_Is_There_No_Animation_Combo_by_SirRandom_h264_7168kbit.mp4|pms-id:asm11/short_film/25|position:3|techniques:Animated purely by hand. Made with Paint Shop Pro & Animation Shop. Compiled with sound in Adobe Premiere.|title:Why Is There No Animation Combo?|youtube:-as161YqKbs
-author:GoldRush -team: Daniel Palmi, Juri Jablokov, Ville Suotamo, Mikko Aaltonen, Sakari Niitymaa, Jyri Jernström|media:/vod/2011/Compos/1315_Shortfilm_Gold_Rush_by_GoldRush_team_h264_7168kbit.mp4|pms-id:asm11/short_film/36|position:5|techniques:3DsMax, Photoshop, Zbrush, Mudbox, AfterEffects, SoundBooth, MentalRay.|title:Gold Rush|youtube:fR7wosU8hBs
-author:Pistoke|media:/vod/2011/Compos/1316_Shortfilm_Gravity_by_Pistoke_h264_7168kbit.mp4|pms-id:asm11/short_film/255|position:4|techniques:3D animation|title:Gravity|youtube:JELlyvA5VoI
+author:Randomheads|media:/vod/2011/Compos/1313_Shortfilm_Muukalaisia_Yss_by_Randomheads_h264_7168kbit.mp4|platform:PC|pms-id:asm11/short_film/24|position:7|techniques:Adobe Premiere, Audacity, After Effects & Paint Shop Pro|title:Muukalaisia Yössä|youtube:kvmmhJa8GZ8
+author:SirRandom|media:/vod/2011/Compos/1314_Shortfilm_Why_Is_There_No_Animation_Combo_by_SirRandom_h264_7168kbit.mp4|platform:PC|pms-id:asm11/short_film/25|position:3|techniques:Animated purely by hand. Made with Paint Shop Pro & Animation Shop. Compiled with sound in Adobe Premiere.|title:Why Is There No Animation Combo?|youtube:-as161YqKbs
+author:GoldRush -team: Daniel Palmi, Juri Jablokov, Ville Suotamo, Mikko Aaltonen, Sakari Niitymaa, Jyri Jernström|media:/vod/2011/Compos/1315_Shortfilm_Gold_Rush_by_GoldRush_team_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/short_film/36|position:5|techniques:3DsMax, Photoshop, Zbrush, Mudbox, AfterEffects, SoundBooth, MentalRay.|title:Gold Rush|youtube:fR7wosU8hBs
+author:Pistoke|media:/vod/2011/Compos/1316_Shortfilm_Gravity_by_Pistoke_h264_7168kbit.mp4|platform:-|pms-id:asm11/short_film/255|position:4|techniques:3D animation|title:Gravity|youtube:JELlyvA5VoI
 author:Tekotuotanto|media:/vod/2011/Compos/1317_Shortfilm_Airshow_by_Tekotuotanto_h264_7168kbit.mp4|pms-id:asm11/short_film/258|position:1|techniques:3dsmax, After Effects, Reason/Record|title:Airshow|youtube:hoZklqDsFdY
 author:Damn Creepers|media:/vod/2011/Compos/1318_Shortfilm_I_accidentally_two_Holy_Grails_by_Damn_Creepers_h264_7168kbit.mp4|pms-id:asm11/short_film/262|position:2|techniques:Stop motion animation|title:I accidentally two Holy Grails|youtube:3ZEFtS6mW3s
-author:XETEK&red-|media:/vod/2011/Compos/1319_Shortfilm_The_Face_of_Singularity_by_XETEKred_h264_7168kbit.mp4|pms-id:asm11/short_film/273|position:8|techniques:After Effects, Cinema 4d|title:The Face of Singularity|youtube:X9nt7CQhJts
+author:XETEK&red-|media:/vod/2011/Compos/1319_Shortfilm_The_Face_of_Singularity_by_XETEKred_h264_7168kbit.mp4|platform:PC|pms-id:asm11/short_film/273|position:8|techniques:After Effects, Cinema 4d|title:The Face of Singularity|youtube:X9nt7CQhJts
 author:HBC|media:/vod/2011/Compos/1320_Shortfilm_Best_Wishes_by_HBC_h264_7168kbit.mp4|pms-id:asm11/short_film/275|position:6|techniques:Ubuntu, Blender, Cycles render-engine|title:Best Wishes|youtube:Ttd3sI6zds4
 
 
@@ -55,12 +55,12 @@ author:HBC|media:/vod/2011/Compos/1320_Shortfilm_Best_Wishes_by_HBC_h264_7168kbi
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
-author:Evoflash|media:/vod/2011/Compos/1305_RealWild_Cubes_Of_Babylon_by_Evoflash_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/71|position:2|techniques:2 Textures 1 Mesh|title:Cubes Of Babylon|youtube:EzZS7RoJFEE
-author:A2058|media:/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/91|position:1|techniques:PIC and Rotatory leds!|title:Leds Party|warning:This video is broken in Youtube due to framerate conversion by frame dropping. Download 60 FPS version from http://media.assembly.org/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|youtube:78LdQvBskK4
-author:Primitive|media:/vod/2011/Compos/1307_RealWild_I_want_less_by_Primitive_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/182|position:5|techniques:Not slow, deep.|title:I want less|youtube:U8UR5oYy5T4
-author:kordets|media:/vod/2011/Compos/1308_RealWild_Yarrduino_by_kordets_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/188|position:4|techniques:C++, Arduino IDE|title:Yarrduino|youtube:lGoSXFLEz9g
-author:inversion|media:/vod/2011/Compos/1309_RealWild_brause_peak_by_inversion_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/191|position:3|techniques:Ahoj brause|title:brause peak|youtube:8ZhyO9qrNtg
-author:Wide Load|media:/vod/2011/Compos/1310_RealWild_Clockwork_by_Wide_Load_h264_7168kbit.mp4|pms-id:asm11/real_wild_demo/264|position:6|techniques:XNA, Blender, Coder Graphics|title:Clockwork|youtube:14-nmKR7Sp0
+author:Evoflash|media:/vod/2011/Compos/1305_RealWild_Cubes_Of_Babylon_by_Evoflash_h264_7168kbit.mp4|platform:Flash Player 11 Beta|pms-id:asm11/real_wild_demo/71|position:2|techniques:2 Textures 1 Mesh|title:Cubes Of Babylon|youtube:EzZS7RoJFEE
+author:A2058|media:/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|platform:Homemade|pms-id:asm11/real_wild_demo/91|position:1|techniques:PIC and Rotatory leds!|title:Leds Party|warning:This video is broken in Youtube due to framerate conversion by frame dropping. Download 60 FPS version from http://media.assembly.org/vod/2011/Compos/1306_RealWild_Leds_Party_by_A2058_h264_7168kbit.mp4|youtube:78LdQvBskK4
+author:Primitive|media:/vod/2011/Compos/1307_RealWild_I_want_less_by_Primitive_h264_7168kbit.mp4|platform:Browser / WebGL|pms-id:asm11/real_wild_demo/182|position:5|techniques:Not slow, deep.|title:I want less|youtube:U8UR5oYy5T4
+author:kordets|media:/vod/2011/Compos/1308_RealWild_Yarrduino_by_kordets_h264_7168kbit.mp4|platform:AVR, Arduino|pms-id:asm11/real_wild_demo/188|position:4|techniques:C++, Arduino IDE|title:Yarrduino|youtube:lGoSXFLEz9g
+author:inversion|media:/vod/2011/Compos/1309_RealWild_brause_peak_by_inversion_h264_7168kbit.mp4|platform:iPhone|pms-id:asm11/real_wild_demo/191|position:3|techniques:Ahoj brause|title:brause peak|youtube:8ZhyO9qrNtg
+author:Wide Load|media:/vod/2011/Compos/1310_RealWild_Clockwork_by_Wide_Load_h264_7168kbit.mp4|platform:Windows Phone 7.1|pms-id:asm11/real_wild_demo/264|position:6|techniques:XNA, Blender, Coder Graphics|title:Clockwork|youtube:14-nmKR7Sp0
 
 
 :section Oldskool demo
@@ -68,10 +68,10 @@ author:Wide Load|media:/vod/2011/Compos/1310_RealWild_Clockwork_by_Wide_Load_h26
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before August 10th 1995.</p>
 
-author:Dekadence|media:/vod/2011/Compos/1284_Oldskool_Chaotic_by_Dekadence_h264_7168kbit.mp4|pms-id:asm11/oldskool_demo/18|position:1|title:Chaotic|youtube:M6PfPjaafrA
-author:Fit|media:/vod/2011/Compos/1285_Oldskool_See_Sharp_by_Fit_h264_7168kbit.mp4|pms-id:asm11/oldskool_demo/176|position:3|techniques:C, asm, Arkos Tracker, Gimp|title:See Sharp|youtube:c4agerQ5ROc
-author:PWP|media:/vod/2011/Compos/1286_Oldskool_Human_Resistance_by_PWP_h264_7168kbit.mp4|pms-id:asm11/oldskool_demo/184|position:2|title:Human Resistance|youtube:Kl5cv4c4P4Q
-author:Bilotrip|media:/vod/2011/Compos/1288_Oldskool_Mind_Control_Trilogy_preview_by_Bilotrip_h264_7168kbit.mp4|pms-id:asm11/oldskool_demo/263|position:4|techniques:64x60x4 video and VRC6 audio|title:Mind Control Trilogy preview|youtube:4TROWubW83s
+author:Dekadence|media:/vod/2011/Compos/1284_Oldskool_Chaotic_by_Dekadence_h264_7168kbit.mp4|platform:Amiga|pms-id:asm11/oldskool_demo/18|position:1|title:Chaotic|youtube:M6PfPjaafrA
+author:Fit|media:/vod/2011/Compos/1285_Oldskool_See_Sharp_by_Fit_h264_7168kbit.mp4|platform:Sharp MZ-721|pms-id:asm11/oldskool_demo/176|position:3|techniques:C, asm, Arkos Tracker, Gimp|title:See Sharp|youtube:c4agerQ5ROc
+author:PWP|media:/vod/2011/Compos/1286_Oldskool_Human_Resistance_by_PWP_h264_7168kbit.mp4|platform:PC/DOS (386+, VGA, SB/GUS)|pms-id:asm11/oldskool_demo/184|position:2|title:Human Resistance|youtube:Kl5cv4c4P4Q
+author:Bilotrip|media:/vod/2011/Compos/1288_Oldskool_Mind_Control_Trilogy_preview_by_Bilotrip_h264_7168kbit.mp4|platform:NES|pms-id:asm11/oldskool_demo/263|position:4|techniques:64x60x4 video and VRC6 audio|title:Mind Control Trilogy preview|youtube:4TROWubW83s
 
 
 :section Music
@@ -79,19 +79,19 @@ author:Bilotrip|media:/vod/2011/Compos/1288_Oldskool_Mind_Control_Trilogy_previe
 :pms-category music
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
 
-author:Aikapallo|pms-id:asm11/music/27|position:1|techniques:Softwares, synths, kebab & beer|title:Tiananmen Ghost|webfile:music/tiananmen-ghost-by-aikapallo.mp3|youtube:XY7FJVnpxl4
-author:Rewind (feat. Lady GT)|pms-id:asm11/music/33|position:5|techniques:Renoise, Cubase|title:Kakkonen on Kekkonen|webfile:music/kakkonen-on-kekkonen-by-rewind-feat-lady-gt.mp3|youtube:vYClCdo83ys
+author:Aikapallo|platform:PC|pms-id:asm11/music/27|position:1|techniques:Softwares, synths, kebab & beer|title:Tiananmen Ghost|webfile:music/tiananmen-ghost-by-aikapallo.mp3|youtube:XY7FJVnpxl4
+author:Rewind (feat. Lady GT)|platform:PC|pms-id:asm11/music/33|position:5|techniques:Renoise, Cubase|title:Kakkonen on Kekkonen|webfile:music/kakkonen-on-kekkonen-by-rewind-feat-lady-gt.mp3|youtube:vYClCdo83ys
 author:Koneisto 11111011011|pms-id:asm11/music/34|position:2|techniques:320kbps, mp3|title:Demoluola|webfile:music/demoluola-by-koneisto-11111011011.mp3|youtube:3EECKNZKueg
-author:Mr. Rose|pms-id:asm11/music/46|position:12|techniques:Tracker|title:Dark Myth|webfile:music/dark-myth-by-mr-rose.mp3|youtube:bsLxmLQ6PGw
-author:DJ Joge of Brainstorm|pms-id:asm11/music/56|position:8|techniques:Renoise|title:Flatline|webfile:music/flatline-by-dj-joge-of-brainstorm.mp3|youtube:qFu7Y8sIolw
-author:Signal|pms-id:asm11/music/72|position:3|techniques:Cubase|title:Two Cars, One Cup|webfile:music/two-cars-one-cup-by-signal.mp3|youtube:95YyoAbaBNk
-author:Janne|pms-id:asm11/music/77|position:14|techniques:FL Studio|title:Behind the LCD|webfile:music/behind-the-lcd-by-janne.mp3|youtube:i95t6WasuWw
-author:Yolk/CNCD feat. Busy Signal|pms-id:asm11/music/78|position:9|techniques:Logic Pro 9|title:Picante (refix)|webfile:music/picante-refix-by-yolk-cncd-feat-busy-signal.mp3|youtube:vfIdhLqktX0
-author:JPT|pms-id:asm11/music/97|position:4|techniques:Cubase, EWQLSO, EWQLSD2, EWQLSC|title:Northern legends|webfile:music/northern-legends-by-jpt.mp3|youtube:RjPgf_OaVqM
-author:microdots|pms-id:asm11/music/165|position:13|techniques:renoise ja vst plugareita|title:forgotten tune|webfile:music/forgotten-tune-by-microdots.mp3|youtube:WYU1oIhHbSM
-author:ruuvari/aspekt|pms-id:asm11/music/167|position:11|techniques:Cubase and stuff|title:Snap out of it!|webfile:music/snap-out-of-it-by-ruuvari-aspekt.mp3|youtube:edNKQuowYq4
+author:Mr. Rose|platform:PC|pms-id:asm11/music/46|position:12|techniques:Tracker|title:Dark Myth|webfile:music/dark-myth-by-mr-rose.mp3|youtube:bsLxmLQ6PGw
+author:DJ Joge of Brainstorm|platform:PC|pms-id:asm11/music/56|position:8|techniques:Renoise|title:Flatline|webfile:music/flatline-by-dj-joge-of-brainstorm.mp3|youtube:qFu7Y8sIolw
+author:Signal|platform:PC|pms-id:asm11/music/72|position:3|techniques:Cubase|title:Two Cars, One Cup|webfile:music/two-cars-one-cup-by-signal.mp3|youtube:95YyoAbaBNk
+author:Janne|platform:PC|pms-id:asm11/music/77|position:14|techniques:FL Studio|title:Behind the LCD|webfile:music/behind-the-lcd-by-janne.mp3|youtube:i95t6WasuWw
+author:Yolk/CNCD feat. Busy Signal|platform:Mac OS X|pms-id:asm11/music/78|position:9|techniques:Logic Pro 9|title:Picante (refix)|webfile:music/picante-refix-by-yolk-cncd-feat-busy-signal.mp3|youtube:vfIdhLqktX0
+author:JPT|platform:PC|pms-id:asm11/music/97|position:4|techniques:Cubase, EWQLSO, EWQLSD2, EWQLSC|title:Northern legends|webfile:music/northern-legends-by-jpt.mp3|youtube:RjPgf_OaVqM
+author:microdots|platform:pc|pms-id:asm11/music/165|position:13|techniques:renoise ja vst plugareita|title:forgotten tune|webfile:music/forgotten-tune-by-microdots.mp3|youtube:WYU1oIhHbSM
+author:ruuvari/aspekt|platform:Ears|pms-id:asm11/music/167|position:11|techniques:Cubase and stuff|title:Snap out of it!|webfile:music/snap-out-of-it-by-ruuvari-aspekt.mp3|youtube:edNKQuowYq4
 author:GRiMM|pms-id:asm11/music/196|position:7|techniques:Guitar, Reaper v4.0|title:Soaring On Wings Of Steel|webfile:music/soaring-on-wings-of-steel-by-grimm.mp3|youtube:_WTj37z-MpQ
-author:fluffy&fragile|pms-id:asm11/music/204|position:10|techniques:fl studio|title:Freljordian Beauty|webfile:music/freljordian-beauty-by-fluffy-fragile.mp3|youtube:VCBx6zPLSA4
+author:fluffy&fragile|platform:pc|pms-id:asm11/music/204|position:10|techniques:fl studio|title:Freljordian Beauty|webfile:music/freljordian-beauty-by-fluffy-fragile.mp3|youtube:VCBx6zPLSA4
 author:King Thrill / Tekotuotanto|pms-id:asm11/music/215|position:6|techniques:Reaper|title:FAST-FORWARDING THRU HELL|webfile:music/fast-forwarding-thru-hell-by-king-thrill-tekotuotanto.mp3|youtube:pfybanFY-pk
 
 
@@ -99,19 +99,19 @@ author:King Thrill / Tekotuotanto|pms-id:asm11/music/215|position:6|techniques:R
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:Olli Etuaho|pms-id:asm11/graphics/22|position:12|techniques:Painted in PhotoShop and Alchemy|title:Hide in the Blue|webfile:graphics/hide-in-the-blue-by-olli-etuaho.png
+author:Olli Etuaho|platform:PC|pms-id:asm11/graphics/22|position:12|techniques:Painted in PhotoShop and Alchemy|title:Hide in the Blue|webfile:graphics/hide-in-the-blue-by-olli-etuaho.png
 author:Partikle|pms-id:asm11/graphics/38|position:10|techniques:Photoshop CS5|title:Sunrise|webfile:graphics/sunrise-by-partikle.jpeg
 author:MacGywer/npli|pms-id:asm11/graphics/61|position:5|techniques:Mainly Photoshop|title:Ou Hai|webfile:graphics/ou-hai-by-macgywer-npli.jpeg
 author:Korpi / HBC|pms-id:asm11/graphics/64|position:1|techniques:Photoshop, 3dsmax, Intuos 3|title:Call to Prayer|webfile:graphics/call-to-prayer-by-korpi-hbc.jpeg
-author:john peeba|pms-id:asm11/graphics/66|position:13|techniques:Photoshop|title:Katuväkivaltaa|webfile:graphics/katuvakivaltaa-by-john-peeba.png
+author:john peeba|platform:PC|pms-id:asm11/graphics/66|position:13|techniques:Photoshop|title:Katuväkivaltaa|webfile:graphics/katuvakivaltaa-by-john-peeba.png
 author:flumba|pms-id:asm11/graphics/79|position:14|techniques:photoshop|title:You picked the wrong legendary kung-fu grandmaster to mug|webfile:graphics/you-picked-the-wrong-legendary-kung-fu-grandmaster-to-mug-by-flumba.png
-author:E-V-M|pms-id:asm11/graphics/132|position:11|techniques:digital painting, photoshop|title:Virtual Fighter|webfile:graphics/virtual-fighter-by-e-v-m.jpeg
-author:Surround|pms-id:asm11/graphics/156|position:3|techniques:3ds max and photoshop|title:Steam Shock|webfile:graphics/steam-shock-by-surround.png
-author:Darkki|pms-id:asm11/graphics/157|position:6|techniques:3dsmax + Photoshop|title:Orbital Breakfast|webfile:graphics/orbital-breakfast-by-darkki.png
+author:E-V-M|platform:Desktop|pms-id:asm11/graphics/132|position:11|techniques:digital painting, photoshop|title:Virtual Fighter|webfile:graphics/virtual-fighter-by-e-v-m.jpeg
+author:Surround|platform:Pc|pms-id:asm11/graphics/156|position:3|techniques:3ds max and photoshop|title:Steam Shock|webfile:graphics/steam-shock-by-surround.png
+author:Darkki|platform:pc|pms-id:asm11/graphics/157|position:6|techniques:3dsmax + Photoshop|title:Orbital Breakfast|webfile:graphics/orbital-breakfast-by-darkki.png
 author:maxon / HBC|pms-id:asm11/graphics/172|position:4|techniques:Ubuntu, Blender, Gimp - they are free, go get yours.|title:Middleman Crisis|webfile:graphics/middleman-crisis-by-maxon-hbc.jpeg
-author:Kinnerean|pms-id:asm11/graphics/203|position:8|techniques:Photoshop|title:A Voyage To The Slumberland|webfile:graphics/a-voyage-to-the-slumberland-by-kinnerean.png
-author:Vablo|pms-id:asm11/graphics/221|position:7|techniques:Adobe Photoshop CS3 and Wacom Intuos3 A5.|title:Dive|webfile:graphics/dive-by-vablo.jpeg
-author:juhone|pms-id:asm11/graphics/257|position:9|techniques:Painted in Photoshop|title:Uhrimenot Lierokallion solassa|webfile:graphics/uhrimenot-lierokallion-solassa-by-juhone.png
+author:Kinnerean|platform:PC|pms-id:asm11/graphics/203|position:8|techniques:Photoshop|title:A Voyage To The Slumberland|webfile:graphics/a-voyage-to-the-slumberland-by-kinnerean.png
+author:Vablo|platform:PC|pms-id:asm11/graphics/221|position:7|techniques:Adobe Photoshop CS3 and Wacom Intuos3 A5.|title:Dive|webfile:graphics/dive-by-vablo.jpeg
+author:juhone|platform:PC|pms-id:asm11/graphics/257|position:9|techniques:Painted in Photoshop|title:Uhrimenot Lierokallion solassa|webfile:graphics/uhrimenot-lierokallion-solassa-by-juhone.png
 author:Mazor of Fairlight|pms-id:asm11/graphics/261|position:2|title:Drawing Attention|webfile:graphics/drawing-attention-by-mazor-of-fairlight.png
 
 
@@ -120,47 +120,47 @@ author:Mazor of Fairlight|pms-id:asm11/graphics/261|position:2|title:Drawing Att
 :pms-category extreme_music
 :description <p>In Extreme music competition music is generated with programs that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
 
-author:Rebb/TRSi^Paradise|pms-id:asm11/extreme_music/20|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some talent.  |title:Crackers Revenge (YM AHOI!)|video-file:extreme-music/000-20-crackers-revenge-ym-ahoi.mp3.avi|youtube:jRHGgXl0cUU
-author:Slimex|pms-id:asm11/extreme_music/37|position:8|techniques:Goattracker|title:Burn|video-file:extreme-music/000-37-burn.mp3.avi|youtube:9ov9Ul4Mh44
-author:r00t3d|pms-id:asm11/extreme_music/45|position:10|techniques:Impulse Tracker 2.14|title:Digital Beer|video-file:extreme-music/000-45-digital-beer.mp3.avi|youtube:8Bng9A5QA1k
-author:cce|pms-id:asm11/extreme_music/52|position:14|techniques:MilkyTracker|title:hurja retkuretki|video-file:extreme-music/000-52-hurja-retkuretki.mp3.avi|youtube:ZAPIhffbR-E
-author:DJ Joge of Brainstorm|pms-id:asm11/extreme_music/55|position:10|techniques:Amiga ProTracker|title:Drifting 32k Higher|video-file:extreme-music/000-55-drifting-32k-higher.mp3.avi|youtube:v9boF1RpSTY
-author:luuk / 6th Fire|pms-id:asm11/extreme_music/59|position:12|techniques:Impulse Tracker|title:during the night|video-file:extreme-music/000-59-during-the-night.mp3.avi|youtube:ZuAQH3oc0Gs
-author:King Thrill / Tekotuotanto|pms-id:asm11/extreme_music/63|position:5|title:1.662607 MHz Turbo Supercar|video-file:extreme-music/000-63-1-662607-mhz-turbo-supercar.mp3.avi|youtube:J3YdgxQiYcM
-author:Laser Berger / Tekotuotanto|pms-id:asm11/extreme_music/83|position:4|techniques:Famitracker|title:The Last Level of 8-bitness|video-file:extreme-music/000-83-the-last-level-of-8-bitness.mp3.avi|youtube:TAAh4jkproo
-author:Datafox|pms-id:asm11/extreme_music/90|position:9|techniques:Tracker|title:Warp to the Present|video-file:extreme-music/000-90-warp-to-the-present.mp3.avi|youtube:NeNyQWYXgdM
-author:Warlord|pms-id:asm11/extreme_music/98|position:13|techniques:AHX|title:Reckless Decades|video-file:extreme-music/000-98-reckless-decades.mp3.avi|youtube:Jai_dLlFgb8
-author:Reaby|pms-id:asm11/extreme_music/146|position:1|techniques:FamiTracker|title:Megamies sienimetsällä.|video-file:extreme-music/000-146-megamies-sienimetsalla.mp3.avi|youtube:hAbwK4vB_FQ
-author:kaikkien mutsit, lasipurkkimies|pms-id:asm11/extreme_music/154|position:7|techniques:Impulse Tracker & duunipsykoosi|title:KASARITORVET? MITENNI?|video-file:extreme-music/000-154-kasaritorvet-mitenni.mp3.avi|youtube:yK5XsmKYjYE
-author:Man With No Alias|pms-id:asm11/extreme_music/180|position:6|techniques:Protrekkr, MSVC++ Express 2010, .kkrunchy|title:Horse Heads and Gray Biscuits|video-file:extreme-music/000-180-horse-heads-and-gray-biscuits.mp3.avi|youtube:XMvkCSP4eEs
-author:tvs/npli|pms-id:asm11/extreme_music/197|position:15|techniques:Cubase, 4klang, msvc|title:Last minute|video-file:extreme-music/000-197-last-minute.mp3.avi|youtube:m4ERu3wn8vs
-author:jammic|pms-id:asm11/extreme_music/211|position:3|techniques:Sync|title:Wasted Years|video-file:extreme-music/000-211-wasted-years.mp3.avi|youtube:jm6jBq8LFzU
+author:Rebb/TRSi^Paradise|platform:Atari ST (Made on STe, but doesn't use any DMA channels)|pms-id:asm11/extreme_music/20|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some talent.  |title:Crackers Revenge (YM AHOI!)|video-file:extreme-music/000-20-crackers-revenge-ym-ahoi.mp3.avi|youtube:jRHGgXl0cUU
+author:Slimex|platform:C-64|pms-id:asm11/extreme_music/37|position:8|techniques:Goattracker|title:Burn|video-file:extreme-music/000-37-burn.mp3.avi|youtube:9ov9Ul4Mh44
+author:r00t3d|platform:PC|pms-id:asm11/extreme_music/45|position:10|techniques:Impulse Tracker 2.14|title:Digital Beer|video-file:extreme-music/000-45-digital-beer.mp3.avi|youtube:8Bng9A5QA1k
+author:cce|platform:PC|pms-id:asm11/extreme_music/52|position:14|techniques:MilkyTracker|title:hurja retkuretki|video-file:extreme-music/000-52-hurja-retkuretki.mp3.avi|youtube:ZAPIhffbR-E
+author:DJ Joge of Brainstorm|platform:Amiga 500|pms-id:asm11/extreme_music/55|position:10|techniques:Amiga ProTracker|title:Drifting 32k Higher|video-file:extreme-music/000-55-drifting-32k-higher.mp3.avi|youtube:v9boF1RpSTY
+author:luuk / 6th Fire|platform:PC|pms-id:asm11/extreme_music/59|position:12|techniques:Impulse Tracker|title:during the night|video-file:extreme-music/000-59-during-the-night.mp3.avi|youtube:ZuAQH3oc0Gs
+author:King Thrill / Tekotuotanto|platform:NES|pms-id:asm11/extreme_music/63|position:5|title:1.662607 MHz Turbo Supercar|video-file:extreme-music/000-63-1-662607-mhz-turbo-supercar.mp3.avi|youtube:J3YdgxQiYcM
+author:Laser Berger / Tekotuotanto|platform:NES|pms-id:asm11/extreme_music/83|position:4|techniques:Famitracker|title:The Last Level of 8-bitness|video-file:extreme-music/000-83-the-last-level-of-8-bitness.mp3.avi|youtube:TAAh4jkproo
+author:Datafox|platform:PC|pms-id:asm11/extreme_music/90|position:9|techniques:Tracker|title:Warp to the Present|video-file:extreme-music/000-90-warp-to-the-present.mp3.avi|youtube:NeNyQWYXgdM
+author:Warlord|platform:Amiga 1200|pms-id:asm11/extreme_music/98|position:13|techniques:AHX|title:Reckless Decades|video-file:extreme-music/000-98-reckless-decades.mp3.avi|youtube:Jai_dLlFgb8
+author:Reaby|platform:Nes, VRC6|pms-id:asm11/extreme_music/146|position:1|techniques:FamiTracker|title:Megamies sienimetsällä.|video-file:extreme-music/000-146-megamies-sienimetsalla.mp3.avi|youtube:hAbwK4vB_FQ
+author:kaikkien mutsit, lasipurkkimies|platform:WIN32|pms-id:asm11/extreme_music/154|position:7|techniques:Impulse Tracker & duunipsykoosi|title:KASARITORVET? MITENNI?|video-file:extreme-music/000-154-kasaritorvet-mitenni.mp3.avi|youtube:yK5XsmKYjYE
+author:Man With No Alias|platform:WinXP|pms-id:asm11/extreme_music/180|position:6|techniques:Protrekkr, MSVC++ Express 2010, .kkrunchy|title:Horse Heads and Gray Biscuits|video-file:extreme-music/000-180-horse-heads-and-gray-biscuits.mp3.avi|youtube:XMvkCSP4eEs
+author:tvs/npli|platform:Win32|pms-id:asm11/extreme_music/197|position:15|techniques:Cubase, 4klang, msvc|title:Last minute|video-file:extreme-music/000-197-last-minute.mp3.avi|youtube:m4ERu3wn8vs
+author:jammic|platform:C64|pms-id:asm11/extreme_music/211|position:3|techniques:Sync|title:Wasted Years|video-file:extreme-music/000-211-wasted-years.mp3.avi|youtube:jm6jBq8LFzU
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with theme "Last minute".</p>
 
-author:Mig26|pms-id:asm11/fast_graphics/186|position:19|techniques:GIMP + Blender|title:The End of Time|webfile:fast-graphics/the-end-of-time-by-mig26.jpeg
-author:JOmplet|pms-id:asm11/fast_graphics/193|position:6|techniques:MS Paint|title:Last minute of freedom|webfile:fast-graphics/last-minute-of-freedom-by-jomplet.png
-author:john peeba|pms-id:asm11/fast_graphics/213|position:2|techniques:Photoshop|title:bzm express|webfile:fast-graphics/bzm-express-by-john-peeba.png
-author:na|pms-id:asm11/fast_graphics/216|position:20|techniques:3dsmax,photoshop|title:Red End|webfile:fast-graphics/red-end-by-na.png
-author:Charlotta Tiuri|pms-id:asm11/fast_graphics/218|position:4|techniques:Photoshop|title:Little Fright in 3...2...1...|webfile:fast-graphics/little-fright-in-3-2-1-by-charlotta-tiuri.jpeg
-author:Dekus|pms-id:asm11/fast_graphics/219|position:9|techniques:Photshop|title:Last Minute on Earth|webfile:fast-graphics/last-minute-on-earth-by-dekus.png
+author:Mig26|platform:PC|pms-id:asm11/fast_graphics/186|position:19|techniques:GIMP + Blender|title:The End of Time|webfile:fast-graphics/the-end-of-time-by-mig26.jpeg
+author:JOmplet|platform:PC|pms-id:asm11/fast_graphics/193|position:6|techniques:MS Paint|title:Last minute of freedom|webfile:fast-graphics/last-minute-of-freedom-by-jomplet.png
+author:john peeba|platform:PC|pms-id:asm11/fast_graphics/213|position:2|techniques:Photoshop|title:bzm express|webfile:fast-graphics/bzm-express-by-john-peeba.png
+author:na|platform:pc|pms-id:asm11/fast_graphics/216|position:20|techniques:3dsmax,photoshop|title:Red End|webfile:fast-graphics/red-end-by-na.png
+author:Charlotta Tiuri|platform:iMac (LOL)|pms-id:asm11/fast_graphics/218|position:4|techniques:Photoshop|title:Little Fright in 3...2...1...|webfile:fast-graphics/little-fright-in-3-2-1-by-charlotta-tiuri.jpeg
+author:Dekus|platform:Windows|pms-id:asm11/fast_graphics/219|position:9|techniques:Photshop|title:Last Minute on Earth|webfile:fast-graphics/last-minute-on-earth-by-dekus.png
 author:maxon / HBC|pms-id:asm11/fast_graphics/220|position:17|techniques:Ubuntu, Blender, Gimp|title:Countdown for Better or for Worse|webfile:fast-graphics/countdown-for-better-or-for-worse-by-maxon-hbc.png
-author:Irah|pms-id:asm11/fast_graphics/222|position:15|techniques:OpenCanvas + Gimp + Frustration|title:Never enough time|webfile:fast-graphics/never-enough-time-by-irah.png
-author:Surround|pms-id:asm11/fast_graphics/226|position:3|techniques:Photoshop|title:MINUUTTI!!!!!|webfile:fast-graphics/minuutti-by-surround.jpeg
+author:Irah|platform:PC|pms-id:asm11/fast_graphics/222|position:15|techniques:OpenCanvas + Gimp + Frustration|title:Never enough time|webfile:fast-graphics/never-enough-time-by-irah.png
+author:Surround|platform:pöytä|pms-id:asm11/fast_graphics/226|position:3|techniques:Photoshop|title:MINUUTTI!!!!!|webfile:fast-graphics/minuutti-by-surround.jpeg
 author:Sibane|pms-id:asm11/fast_graphics/228|position:18|techniques:Photoshop|title:Last minute morning routine|webfile:fast-graphics/last-minute-morning-routine-by-sibane.png
 author:Korpi / HBC|pms-id:asm11/fast_graphics/232|position:1|techniques:Photoshop, Wacom Intuos 3|title:Scorched Earth|webfile:fast-graphics/scorched-earth-by-korpi-hbc.png
 author:Onis|pms-id:asm11/fast_graphics/234|position:12|techniques:Photoshop cs5, intuos a5|title:fuuu_seuraava_laiva_tulee_2vkon_paasta|webfile:fast-graphics/fuuu-seuraava-laiva-tulee-2vkon-paasta-by-onis.jpeg
 author:Dumis|pms-id:asm11/fast_graphics/235|position:5|techniques:Photoshop|title:Fragile landing|webfile:fast-graphics/fragile-landing-by-dumis.png
-author:juriga|pms-id:asm11/fast_graphics/236|position:7|techniques:Tablet PC, ArtRage|title:Self Portrait|webfile:fast-graphics/self-portrait-by-juriga.png
+author:juriga|platform:Art|pms-id:asm11/fast_graphics/236|position:7|techniques:Tablet PC, ArtRage|title:Self Portrait|webfile:fast-graphics/self-portrait-by-juriga.png
 author:MacGywer/npli|pms-id:asm11/fast_graphics/237|position:13|techniques:Photoshop drawing|title:Killer Called Fernando|webfile:fast-graphics/killer-called-fernando-by-macgywer-npli.jpeg
-author:Kundokaani|pms-id:asm11/fast_graphics/240|position:10|techniques:3D|title:Pompeli|webfile:fast-graphics/pompeli-by-kundokaani.png
-author:Vehje|pms-id:asm11/fast_graphics/243|position:21|techniques:Few colors, on black.|title:Slipping away|webfile:fast-graphics/slipping-away-by-vehje.jpeg
-author:Zagupi / HBC|pms-id:asm11/fast_graphics/246|position:8|techniques:Blender(cycles) + GIMP|title:The wheels have stopped turning|webfile:fast-graphics/the-wheels-have-stopped-turning-by-zagupi-hbc.png
+author:Kundokaani|platform:Windows 7|pms-id:asm11/fast_graphics/240|position:10|techniques:3D|title:Pompeli|webfile:fast-graphics/pompeli-by-kundokaani.png
+author:Vehje|platform:PC|pms-id:asm11/fast_graphics/243|position:21|techniques:Few colors, on black.|title:Slipping away|webfile:fast-graphics/slipping-away-by-vehje.jpeg
+author:Zagupi / HBC|platform:PC|pms-id:asm11/fast_graphics/246|position:8|techniques:Blender(cycles) + GIMP|title:The wheels have stopped turning|webfile:fast-graphics/the-wheels-have-stopped-turning-by-zagupi-hbc.png
 author:McLad|pms-id:asm11/fast_graphics/249|position:16|techniques:Photo + Photoshop|title:Viime tipassa|webfile:fast-graphics/viime-tipassa-by-mclad.png
-author:offwhite - with a little help from my friends|pms-id:asm11/fast_graphics/251|position:14|techniques:Painting in photoshop|title:Boozetasking fail|webfile:fast-graphics/boozetasking-fail-by-offwhite-with-a-little-help-from-my-friends.png
+author:offwhite - with a little help from my friends|platform:windows|pms-id:asm11/fast_graphics/251|position:14|techniques:Painting in photoshop|title:Boozetasking fail|webfile:fast-graphics/boozetasking-fail-by-offwhite-with-a-little-help-from-my-friends.png
 author:Random|pms-id:asm11/fast_graphics/253|position:11|title:Last Flight|webfile:fast-graphics/last-flight-by-random.png
 
 
@@ -169,21 +169,21 @@ author:Random|pms-id:asm11/fast_graphics/253|position:11|title:Last Flight|webfi
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:vikbez|pms-id:asm11/fast_music/80|position:9|techniques:lulage|title:budubidu|webfile:fast-music/budubidu-by-vikbez.mp3|youtube:NviY5aP7NqY
-author:1nsane|pms-id:asm11/fast_music/104|position:3|title:VVC-Ankka|webfile:fast-music/vvc-ankka-by-1nsane.mp3|youtube:h6jWwyU5awI
-author:Puti|pms-id:asm11/fast_music/118|position:8|techniques:C++, instrument samples|title:Song of Joy|webfile:fast-music/song-of-joy-by-puti.mp3|youtube:_ILXPYajL_4
+author:vikbez|platform:mb pro|pms-id:asm11/fast_music/80|position:9|techniques:lulage|title:budubidu|webfile:fast-music/budubidu-by-vikbez.mp3|youtube:NviY5aP7NqY
+author:1nsane|platform:PC|pms-id:asm11/fast_music/104|position:3|title:VVC-Ankka|webfile:fast-music/vvc-ankka-by-1nsane.mp3|youtube:h6jWwyU5awI
+author:Puti|platform:MP3|pms-id:asm11/fast_music/118|position:8|techniques:C++, instrument samples|title:Song of Joy|webfile:fast-music/song-of-joy-by-puti.mp3|youtube:_ILXPYajL_4
 author:Pirate Crew|pms-id:asm11/fast_music/120|position:12|techniques:äf äl studio|title:Don't change the chords in the middle of the compo you goshdarn gravybutts|webfile:fast-music/don-t-change-the-chords-in-the-middle-of-the-compo-you-goshdarn-gravybutts-by-pirate-crew.mp3|youtube:vdODkmXsH34
-author:puu ja höylä|pms-id:asm11/fast_music/121|position:6|techniques:sorvi|title:puuhöylä|webfile:fast-music/puuhoyla-by-puu-ja-hoyla.mp3|youtube:t4YTY-0MWgE
-author:FLD/r00t3d|pms-id:asm11/fast_music/124|position:7|techniques:FL Studio 10|title:All the time in the world|webfile:fast-music/all-the-time-in-the-world-by-fld-r00t3d.mp3|youtube:E55SRXLgKPM
+author:puu ja höylä|platform:yes|pms-id:asm11/fast_music/121|position:6|techniques:sorvi|title:puuhöylä|webfile:fast-music/puuhoyla-by-puu-ja-hoyla.mp3|youtube:t4YTY-0MWgE
+author:FLD/r00t3d|platform:PC|pms-id:asm11/fast_music/124|position:7|techniques:FL Studio 10|title:All the time in the world|webfile:fast-music/all-the-time-in-the-world-by-fld-r00t3d.mp3|youtube:E55SRXLgKPM
 author:King Thrill / Tekotuotanto|pms-id:asm11/fast_music/125|position:1|techniques:Reaper|title:Ennennäkemättömät bileet röllimetsässä|webfile:fast-music/ennennakemattomat-bileet-rollimetsassa-by-king-thrill-tekotuotanto.mp3|youtube:DmzyaVVTIoc
-author:Aoe|pms-id:asm11/fast_music/126|position:5|techniques:Reason|title:Somewhat Progressive|webfile:fast-music/somewhat-progressive-by-aoe.mp3|youtube:0HEpZf9Rnxg
-author:Jaksary|pms-id:asm11/fast_music/127|position:15|techniques:FL|title:Syöveröinen notko|webfile:fast-music/syoveroinen-notko-by-jaksary.mp3|youtube:IY3Icsw5kWU
-author:Dazzler|pms-id:asm11/fast_music/128|position:14|techniques:FL Studio|title:Metalworks|webfile:fast-music/metalworks-by-dazzler.mp3|youtube:brvMN9mGbgc
+author:Aoe|platform:Win 7|pms-id:asm11/fast_music/126|position:5|techniques:Reason|title:Somewhat Progressive|webfile:fast-music/somewhat-progressive-by-aoe.mp3|youtube:0HEpZf9Rnxg
+author:Jaksary|platform:PC|pms-id:asm11/fast_music/127|position:15|techniques:FL|title:Syöveröinen notko|webfile:fast-music/syoveroinen-notko-by-jaksary.mp3|youtube:IY3Icsw5kWU
+author:Dazzler|platform:PC|pms-id:asm11/fast_music/128|position:14|techniques:FL Studio|title:Metalworks|webfile:fast-music/metalworks-by-dazzler.mp3|youtube:brvMN9mGbgc
 author:luuk / 6th Fire|pms-id:asm11/fast_music/129|position:11|techniques:Impulse Tracker|title:a happy assembly visitor|webfile:fast-music/a-happy-assembly-visitor-by-luuk-6th-fire.mp3|youtube:nr-ze4Vz_ew
-author:Datafox|pms-id:asm11/fast_music/134|position:4|techniques:FL Studio & Plugarit|title:Another Piece|webfile:fast-music/another-piece-by-datafox.mp3|youtube:EnF_WXQkdqE
-author:Rebb/TRSi^Paradise|pms-id:asm11/fast_music/138|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some serious rush|title:Maxymised arps|webfile:fast-music/maxymised-arps-by-rebb-trsi-paradise.mp3|youtube:Sb7JTJKZNhk
-author:szura szurkea|pms-id:asm11/fast_music/139|position:13|techniques:renoise|title:Wookiemonster on holiday|webfile:fast-music/wookiemonster-on-holiday-by-szura-szurkea.mp3|youtube:18yTNs3RIoc
-author:cce|pms-id:asm11/fast_music/144|position:10|techniques:MilkyTracker|title:zimmerhimmel|webfile:fast-music/zimmerhimmel-by-cce.mp3|youtube:C1dhntvtSYw
+author:Datafox|platform:PC|pms-id:asm11/fast_music/134|position:4|techniques:FL Studio & Plugarit|title:Another Piece|webfile:fast-music/another-piece-by-datafox.mp3|youtube:EnF_WXQkdqE
+author:Rebb/TRSi^Paradise|platform:ATari ST (Made on STe, but doesn't use any DMA channels)|pms-id:asm11/fast_music/138|position:2|techniques:YM (3 Squarewave channels), clever table tricks on maxymiser and add some serious rush|title:Maxymised arps|webfile:fast-music/maxymised-arps-by-rebb-trsi-paradise.mp3|youtube:Sb7JTJKZNhk
+author:szura szurkea|platform:pc|pms-id:asm11/fast_music/139|position:13|techniques:renoise|title:Wookiemonster on holiday|webfile:fast-music/wookiemonster-on-holiday-by-szura-szurkea.mp3|youtube:18yTNs3RIoc
+author:cce|platform:PC|pms-id:asm11/fast_music/144|position:10|techniques:MilkyTracker|title:zimmerhimmel|webfile:fast-music/zimmerhimmel-by-cce.mp3|youtube:C1dhntvtSYw
 author:OLO/Radarski|pms-id:asm11/fast_music/149|position:16|techniques:Ableton + vsts|title:Kaamee kapula|webfile:fast-music/kaamee-kapula-by-olo-radarski.mp3|youtube:6ntvEfUyJv8
 
 
@@ -192,22 +192,22 @@ author:OLO/Radarski|pms-id:asm11/fast_music/149|position:16|techniques:Ableton +
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Ribbonya|download:http://media.assembly.org/gamedev/2011/AccessLumiaSupernovaBuildv1251.zip|media:/vod/2011/Compos/gamedev/1251_GameDev_Access_Lumia_by_Ribbonya_h264_7168kbit.mp4|pms-id:asm11/gamedev/2|position:9|title:Access Lumia|youtube:nePE5c55tZo
-author:Galactic Battlefront by Studfarm Studios|download:http://media.assembly.org/gamedev/2011/AssaultWingSetup.exe|media:/vod/2011/Compos/gamedev/1252_GameDev_Assault_Wing_by_Galactic_Battlefront_by_Studfarm_Studios_h264_7168kbit.mp4|pms-id:asm11/gamedev/3|position:6|title:Assault Wing|youtube:KGd0kt8W9pw
-author:The Tribe|download:http://media.assembly.org/gamedev/2011/ASM11_GameDev_Dungeon.zip|media:/vod/2011/Compos/gamedev/1253_GameDev_Dungeon_by_The_Tribe_h264_7168kbit.mp4|pms-id:asm11/gamedev/4|position:14|title:Dungeon|youtube:iMnQDybypY0
-author:Tjoppen|download:http://media.assembly.org/gamedev/2011/bell_hopper_by_tjoppen.zip|media:/vod/2011/Compos/gamedev/1254_GameDev_Bell_Hopper_by_Tjoppen_h264_7168kbit.mp4|pms-id:asm11/gamedev/5|position:5|title:Bell Hopper|youtube:Dz9o-LwZ2rc
-author:Pizzalaatikko|download:http://media.assembly.org/gamedev/2011/BlackBeltSorviHero-2011-08-03.zip|media:/vod/2011/Compos/gamedev/1255_Black_Belt_Sorvi_Hero_by_Pizzalaatikko_h264_7168kbit.mp4|pms-id:asm11/gamedev/6|position:1|title:Black Belt Sorvi Hero|youtube:B2INvS8IzzY
-author:Kajak Games|download:http://media.assembly.org/gamedev/2011/Dibidogs-Rush.zip|media:/vod/2011/Compos/gamedev/1256_GameDev_Dibidogs__Rush_by_Kajak_Games_h264_7168kbit.mp4|pms-id:asm11/gamedev/7|position:2|title:Dibidogs - Rush|youtube:xdA9ds04z50
-author:Lumian, Andeye & Kitai|download:http://media.assembly.org/gamedev/2011/Evelent_0.8.0.zip|media:/vod/2011/Compos/gamedev/1257_GameDev_Evelent_by_Lumian_Andeye__Kitai_h264_7168kbit.mp4|pms-id:asm11/gamedev/8|position:10|title:Evelent|youtube:9AsNs_fQ8FY
-author:PanicBomber|download:http://media.assembly.org/gamedev/2011/eXtermination_final_1.7.zip|media:/vod/2011/Compos/gamedev/1258_GameDev_eXtermination_by_PanicBomber_h264_7168kbit.mp4|pms-id:asm11/gamedev/9|position:7|title:eXtermination|youtube:j7Yz-T-9Q7M
-author:Ville Siuruainen|download:http://media.assembly.org/gamedev/2011/Killspace.zip|media:/vod/2011/Compos/gamedev/1259_GameDev_Killspace_by_Ville_Siuruainen_h264_7168kbit.mp4|pms-id:asm11/gamedev/10|position:8|title:Killspace|youtube:AwuvrFdFlbA
-author:Kajak Games|download:http://media.assembly.org/gamedev/2011/MushroomCrusherExtreme[KAJAK]v2.rar|media:/vod/2011/Compos/gamedev/1260_GameDev_Mushroom_Crusher_Extreme_by_Kajak_Games_h264_7168kbit.mp4|pms-id:asm11/gamedev/11|position:11|title:Mushroom Crusher Extreme|youtube:ME-V0vF3cBU
-author:GDSH|download:http://media.assembly.org/gamedev/2011/novawaree_021.zip|media:/vod/2011/Compos/gamedev/1261_GameDev_Novawar_Epsilon_Eridani_by_GDSH_h264_7168kbit.mp4|pms-id:asm11/gamedev/12|position:4|title:Novawar: Epsilon Eridani|youtube:dRYITZt0M_M
-author:Lost Function|download:http://media.assembly.org/gamedev/2011/outnumbered_beta.tar.bz2|media:/vod/2011/Compos/gamedev/1262_GameDev_Outnumbered_by_Lost_Function_h264_7168kbit.mp4|pms-id:asm11/gamedev/13|position:12|title:Outnumbered|youtube:g9M2Ygk5Z-A
-author:Andows and Capsizer|download:http://media.assembly.org/gamedev/2011/Ratsack_Adventures_v1.2.0_WindowsPC.zip|media:/vod/2011/Compos/gamedev/1263_GameDev_Ratsack_adventures_by_Andows_and_Capsizer_h264_7168kbit.mp4|pms-id:asm11/gamedev/14|position:13|title:Ratsack adventures|youtube:tTaxXC-Rb4M
-author:Calistar|download:http://media.assembly.org/gamedev/2011/the_lair_of_xar_by_calistar_v1.0.zip|media:/vod/2011/Compos/gamedev/1264_GameDev_The_Lair_of_Xar_by_Calistar_h264_7168kbit.mp4|pms-id:asm11/gamedev/15|position:15|title:The Lair of Xar|youtube:V5NVNkigncA
-author:Kajak Games|download:http://media.assembly.org/gamedev/2011/Enmity_1_1.zip|media:/vod/2011/Compos/gamedev/1265_GameDev_Enmity_by_Kajak_Games_h264_7168kbit.mp4|pms-id:asm11/gamedev/16|position:16|title:Enmity|youtube:hQ6UVZvY7OA
-author:Meatgrinder|download:http://media.assembly.org/gamedev/2011/TypeHard-Release-3-win.rar|media:/vod/2011/Compos/gamedev/1266_GameDev_Type_Hard_by_Meatgrinder_h264_7168kbit.mp4|pms-id:asm11/gamedev/17|position:3|title:Type Hard|youtube:JEq7u0Jq-mc
+author:Ribbonya|download:http://media.assembly.org/gamedev/2011/AccessLumiaSupernovaBuildv1251.zip|media:/vod/2011/Compos/gamedev/1251_GameDev_Access_Lumia_by_Ribbonya_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/2|position:9|title:Access Lumia|youtube:nePE5c55tZo
+author:Galactic Battlefront by Studfarm Studios|download:http://media.assembly.org/gamedev/2011/AssaultWingSetup.exe|media:/vod/2011/Compos/gamedev/1252_GameDev_Assault_Wing_by_Galactic_Battlefront_by_Studfarm_Studios_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/3|position:6|title:Assault Wing|youtube:KGd0kt8W9pw
+author:The Tribe|download:http://media.assembly.org/gamedev/2011/ASM11_GameDev_Dungeon.zip|media:/vod/2011/Compos/gamedev/1253_GameDev_Dungeon_by_The_Tribe_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/4|position:14|title:Dungeon|youtube:iMnQDybypY0
+author:Tjoppen|download:http://media.assembly.org/gamedev/2011/bell_hopper_by_tjoppen.zip|media:/vod/2011/Compos/gamedev/1254_GameDev_Bell_Hopper_by_Tjoppen_h264_7168kbit.mp4|platform:Atari 2600|pms-id:asm11/gamedev/5|position:5|title:Bell Hopper|youtube:Dz9o-LwZ2rc
+author:Pizzalaatikko|download:http://media.assembly.org/gamedev/2011/BlackBeltSorviHero-2011-08-03.zip|media:/vod/2011/Compos/gamedev/1255_Black_Belt_Sorvi_Hero_by_Pizzalaatikko_h264_7168kbit.mp4|platform:Windows, 64-bit Linux, Nokia N900, Android 2.3|pms-id:asm11/gamedev/6|position:1|title:Black Belt Sorvi Hero|youtube:B2INvS8IzzY
+author:Kajak Games|download:http://media.assembly.org/gamedev/2011/Dibidogs-Rush.zip|media:/vod/2011/Compos/gamedev/1256_GameDev_Dibidogs__Rush_by_Kajak_Games_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/7|position:2|title:Dibidogs - Rush|youtube:xdA9ds04z50
+author:Lumian, Andeye & Kitai|download:http://media.assembly.org/gamedev/2011/Evelent_0.8.0.zip|media:/vod/2011/Compos/gamedev/1257_GameDev_Evelent_by_Lumian_Andeye__Kitai_h264_7168kbit.mp4|platform:Windows & Linux|pms-id:asm11/gamedev/8|position:10|title:Evelent|youtube:9AsNs_fQ8FY
+author:PanicBomber|download:http://media.assembly.org/gamedev/2011/eXtermination_final_1.7.zip|media:/vod/2011/Compos/gamedev/1258_GameDev_eXtermination_by_PanicBomber_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/9|position:7|title:eXtermination|youtube:j7Yz-T-9Q7M
+author:Ville Siuruainen|download:http://media.assembly.org/gamedev/2011/Killspace.zip|media:/vod/2011/Compos/gamedev/1259_GameDev_Killspace_by_Ville_Siuruainen_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/10|position:8|title:Killspace|youtube:AwuvrFdFlbA
+author:Kajak Games|download:http://media.assembly.org/gamedev/2011/MushroomCrusherExtreme[KAJAK]v2.rar|media:/vod/2011/Compos/gamedev/1260_GameDev_Mushroom_Crusher_Extreme_by_Kajak_Games_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/11|position:11|title:Mushroom Crusher Extreme|youtube:ME-V0vF3cBU
+author:GDSH|download:http://media.assembly.org/gamedev/2011/novawaree_021.zip|media:/vod/2011/Compos/gamedev/1261_GameDev_Novawar_Epsilon_Eridani_by_GDSH_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/12|position:4|title:Novawar: Epsilon Eridani|youtube:dRYITZt0M_M
+author:Lost Function|download:http://media.assembly.org/gamedev/2011/outnumbered_beta.tar.bz2|media:/vod/2011/Compos/gamedev/1262_GameDev_Outnumbered_by_Lost_Function_h264_7168kbit.mp4|platform:Linux|pms-id:asm11/gamedev/13|position:12|title:Outnumbered|youtube:g9M2Ygk5Z-A
+author:Andows and Capsizer|download:http://media.assembly.org/gamedev/2011/Ratsack_Adventures_v1.2.0_WindowsPC.zip|media:/vod/2011/Compos/gamedev/1263_GameDev_Ratsack_adventures_by_Andows_and_Capsizer_h264_7168kbit.mp4|platform:Windows & Windows Phone 7|pms-id:asm11/gamedev/14|position:13|title:Ratsack adventures|youtube:tTaxXC-Rb4M
+author:Calistar|download:http://media.assembly.org/gamedev/2011/the_lair_of_xar_by_calistar_v1.0.zip|media:/vod/2011/Compos/gamedev/1264_GameDev_The_Lair_of_Xar_by_Calistar_h264_7168kbit.mp4|platform:Windows & OS X|pms-id:asm11/gamedev/15|position:15|title:The Lair of Xar|youtube:V5NVNkigncA
+author:Kajak Games|download:http://media.assembly.org/gamedev/2011/Enmity_1_1.zip|media:/vod/2011/Compos/gamedev/1265_GameDev_Enmity_by_Kajak_Games_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/16|position:16|title:Enmity|youtube:hQ6UVZvY7OA
+author:Meatgrinder|download:http://media.assembly.org/gamedev/2011/TypeHard-Release-3-win.rar|media:/vod/2011/Compos/gamedev/1266_GameDev_Type_Hard_by_Meatgrinder_h264_7168kbit.mp4|platform:Windows|pms-id:asm11/gamedev/17|position:3|title:Type Hard|youtube:JEq7u0Jq-mc
 
 
 :section AssemblyTV
