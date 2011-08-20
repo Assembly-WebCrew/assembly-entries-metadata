@@ -214,7 +214,28 @@ author:Meatgrinder|download:http://media.assembly.org/gamedev/2011/TypeHard-Rele
 :youtube-playlist 26C6143BB93203E6
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
+title:Broadcast opening|author:AssemblyTV|media:/vod/2011/AssemblyTV/1201_broadcast_opening_h264_7168kbit.mp4|guid:1201|description:Introducing Assembly 2011. Some guest interviews at the loading doors and invited guests in the studio.|video-file:assemblytv/1201_broadcast_opening_h264_7168kbit.mp4
+title:Uneton48 interview|author:AssemblyTV|media:/vod/2011/AssemblyTV/1208_uneton48_interview_h264_7168kbit.mp4|guid:1208|video-file:assemblytv/1208_uneton48_interview_h264_7168kbit.mp4
+title:Fast music compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1210_fast_music_compostudio_h264_7168kbit.mp4|guid:1210|video-file:assemblytv/1210_fast_music_compostudio_h264_7168kbit.mp4
+title:Scene quiz show|author:AssemblyTV|media:/vod/2011/AssemblyTV/1217_skenevisa_h264_7168kbit.mp4|guid:1217|video-file:assemblytv/1217_skenevisa_h264_7168kbit.mp4
+title:Extreme music compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1221_extreme_music_compostudio_h264_7168kbit.mp4|guid:1221|video-file:assemblytv/1221_extreme_music_compostudio_h264_7168kbit.mp4
+title:Graphics compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1223_graphics_compostudio_h264_7168kbit.mp4|guid:1223|video-file:assemblytv/1223_graphics_compostudio_h264_7168kbit.mp4
+title:Music compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1225_music_compostudio_h264_7168kbit.mp4|guid:1225|video-file:assemblytv/1225_music_compostudio_h264_7168kbit.mp4
+title:Oldskool demo compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1227_oldskool_demo_compostudio_h264_7168kbit.mp4|guid:1227|video-file:assemblytv/1227_oldskool_demo_compostudio_h264_7168kbit.mp4
+title:Real wild demo compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1229_real_wild_compostudio_h264_7168kbit.mp4|guid:1229|video-file:assemblytv/1229_real_wild_compostudio_h264_7168kbit.mp4
+title:Short film compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1232_short_film_compostudio_h264_7168kbit.mp4|guid:1232|video-file:assemblytv/1232_short_film_compostudio_h264_7168kbit.mp4
+title:4k intro compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1234_4k_compostudio_h264_7168kbit.mp4|guid:1234|video-file:assemblytv/1234_4k_compostudio_h264_7168kbit.mp4
+title:Demo compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1238_demo_compostudio_h264_7168kbit.mp4|guid:1238|video-file:assemblytv/1238_demo_compostudio_h264_7168kbit.mp4
+title:Machine Dance tournament finals|author:AssemblyTV|media:/vod/2011/AssemblyTV/1240_machine_dance_finals_h264_7168kbit.mp4|guid:1240|video-file:assemblytv/1240_machine_dance_finals_h264_7168kbit.mp4
+title:Guitar Hero: Guitar Tournament final|author:AssemblyTV|media:/vod/2011/AssemblyTV/1241_guitar_hero_final_h264_7168kbit.mp4|guid:1241|video-file:assemblytv/1241_guitar_hero_final_h264_7168kbit.mp4
+title:GameDev compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1247_gamedev_compostudio_h264_7168kbit.mp4|guid:1247|video-file:assemblytv/1247_gamedev_compostudio_h264_7168kbit.mp4
+title:The Pilot|author:AssemblyTV|media:/vod/2011/AssemblyTV/1248_lentaja_h264_7168kbit.mp4|guid:1248|video-file:assemblytv/1248_lentaja_h264_7168kbit.mp4
+title:Communication|author:AssemblyTV|media:/vod/2011/AssemblyTV/1249_viestinta_h264_7168kbit.mp4|guid:1249|video-file:assemblytv/1249_viestinta_h264_7168kbit.mp4
+title:Microsoft has new stuff|author:AssemblyTV|media:/vod/2011/AssemblyTV/1250_microsoft_has_new_stuff_h264_7168kbit.mp4|guid:1250|description:Juhani Vuorio from Microsoft chats with the amazing Viiksiboiz. Topics range from Windows Phone to Kinect.|video-file:assemblytv/1250_microsoft_has_new_stuff_h264_7168kbit.mp4
 author:AssemblyTV|description:From Assembly 2003 compo winner to a global phenomenon.|guid:1267|media:/vod/2011/AssemblyTV/1267_rovio_interview_h264_1856kbit.mp4|title:Angry Birds interview|youtube:tqEjp3CAWm0
+title:Fast graphics compostudio|author:AssemblyTV|media:/vod/2011/AssemblyTV/1279_fast_graphics_compostudio_h264_7168kbit.mp4|guid:1279|video-file:assemblytv/1279_fast_graphics_compostudio_h264_7168kbit.mp4
+title:ASUS|author:AssemblyTV|media:/vod/2011/AssemblyTV/1304_asus_interview_h264_7168kbps.mp4|guid:1304|description:Asus' subwoofer laptop, ROG tournament and champion interview|video-file:assemblytv/1304_asus_interview_h264_7168kbps.mp4
+title:Robowar finals|author:AssemblyTV|media:/vod/2011/AssemblyTV/1321_robowar_finals_h264_7168kbit.mp4|guid:1321|video-file:assemblytv/1321_robowar_finals_h264_7168kbit.mp4
 
 
 :section Seminars
