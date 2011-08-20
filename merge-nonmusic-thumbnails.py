@@ -1,5 +1,4 @@
 import asmmetadata
-import hashlib
 import optparse
 import os
 import os.path
@@ -15,32 +14,21 @@ merge_limit = int(args[1])
 
 entry_data = asmmetadata.parse_file(sys.stdin)
 
-def create_merged_image_base(start, entries):
-    merged_name = "|".join(
-        map(asmmetadata.normalize_key,
-            map(lambda entry: "%s-by-%s" % (entry['title'], entry['author']),
-                entries)))
-    filenames_digest = hashlib.md5(merged_name).hexdigest()
-    return "%s-%02d-%02d-%s" % (
-        entries['section']['key'],
-        start,
-        start + len(entries),
-        filenames_digest,
-        )
-
 def create_merged_image(fileroot, start, entries):
-    outfile_base = create_merged_image_base(start, entries)
+    outfile_base = asmmetadata.create_merged_image_base(start, entries)
     out_filename_png = os.path.join(fileroot, "thumbnails/small/%s.png" % outfile_base)
     out_filename_jpeg = os.path.join(fileroot, "thumbnails/small/%s.jpeg" % outfile_base)
     thumbnail_paths = []
     for entry in entries:
         thumbnail_base = asmmetadata.select_thumbnail_base(entry)
         thumbnail_paths.append(os.path.join(fileroot, thumbnail_base + '.png'))
-    print 'mkdir -p "%s"' % os.path.join(fileroot, "thumbnails/small/")
+    print 'mkdir -p "%s"' % os.path.join(fileroot, "thumbnails/merged/")
     print 'convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_png)
     print 'convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_jpeg)
     print 'optipng -o7 "%s"' % out_filename_png
     print 'jpegoptim --strip-all "%s"' % out_filename_jpeg
+
+# def create_merged_entry_groups(entries
 
 for section in entry_data.sections:
     if 'music' in section['name'].lower():

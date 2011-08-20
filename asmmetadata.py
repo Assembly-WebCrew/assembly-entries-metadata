@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import cgi
+import hashlib
 import re
 
 
@@ -172,3 +173,16 @@ def select_thumbnail_base(entry):
         if filename.endswith(".png") or filename.endswith(".jpeg") or filename.endswith(".gif"):
             return 'thumbnails/small/%s' % baseprefix
     return None
+
+def create_merged_image_base(start, entries):
+    merged_name = "|".join(
+        map(normalize_key,
+            map(lambda entry: "%s-by-%s" % (entry['title'], entry['author']),
+                entries)))
+    filenames_digest = hashlib.md5(merged_name).hexdigest()
+    return "merged-%s-%02d-%02d-%s" % (
+        entries[0]['section']['key'],
+        start,
+        start + len(entries) - 1,
+        filenames_digest,
+        )
