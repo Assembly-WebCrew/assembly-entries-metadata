@@ -131,14 +131,16 @@ def print_entry(year, entry):
 
     description = u""
     if 'warning' in entry:
-        description = u"%s</p>\n<p>" % entry['warning']
+        description += u"%s</p>\n<p>" % cgi.escape(entry['warning'])
 
     position_str = None
 
     if position != 0:
         position_str = str(position) + get_ordinal_suffix(position) + " place"
 
+    display_author = None
     if not "AssemblyTV" in section_name and not "Winter" in section_name:
+        display_author = author
         if not "Seminars" in section_name:
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
@@ -151,16 +153,17 @@ def print_entry(year, entry):
             #     pms_path = "asm11/compos/%s/vote/" % entry['section']['pms-category']
             #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
 
-        if 'platform' in entry:
-            description += u"Platform: %s</p>\n<p>" % entry['platform']
+    if 'description' in entry:
+        description += u"%s</p>\n<p>" % cgi.escape(entry['description'])
 
-        if 'techniques' in entry:
-            description += u"Notes: %s</p>\n<p>" % entry['techniques']
+    if 'platform' in entry:
+        description += u"Platform: %s</p>\n<p>" % cgi.escape(entry['platform'])
 
-        if 'description' in entry:
-            description += u"%s</p>\n<p>" % entry['description']
+    if 'techniques' in entry:
+        description += u"Notes: %s</p>\n<p>" % cgi.escape(entry['techniques'])
 
-        description += u"Author: %s\n" % cgi.escape(author)
+    if display_author is not None:
+        description += u"Author: %s\n" % cgi.escape(display_author)
 
     if 'dtv' in entry:
         demoscenetv = entry['dtv']
@@ -257,7 +260,7 @@ def print_entry(year, entry):
 
     description_non_unicode = description
 
-    tags = set(['hide-navigation'])
+    tags = set()
     if 'tags' in entry:
         tags.update(entry['tags'].split(" "))
 
@@ -278,7 +281,7 @@ def print_entry(year, entry):
   <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
     <edition parameters="lang: workflow:public"
          title=%(title)s
-         tags="hide-navigation"
+         tags=""
          created="%(current-time)s"
          modified="%(current-time)s"><![CDATA[%(thumbnail)s
 ]]></edition>
