@@ -13,6 +13,7 @@ temporary_resized_image = temporary_resized_fp.name
 
 if len(sys.argv) != 4:
     print "Usage: %s thumbnail_dir width height" % sys.argv[0]
+    sys.exit(1)
 
 thumbnail_dir = sys.argv[1]
 if not os.path.exists(thumbnail_dir):

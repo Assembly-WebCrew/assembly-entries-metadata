@@ -138,8 +138,8 @@ author:SE8.ORG|position:10|sceneorg:/parties/2000/assembly00/flash/astraali.zip|
 :section ANSI graphics
 :description <p>ANSI graphics are created by using characters and symbols that DOS command line environment provides. This imposes limits on image creation as shapes need to be created in 80 characters wide space with limited color palette.</p>
 
-author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip|title:Clasm|webfile:
-author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip|title:Who am I?|webfile:ansi_graphics/clasm_by_argon.png
+author:Argon|position:1|sceneorg:/parties/2000/assembly00/ansi/clasm_by.zip|title:Clasm|webfile:ansi_graphics/clasm_by_argon.png
+author:Luminator / sodapop family|position:2|sceneorg:/parties/2000/assembly00/ansi/who_am_i.zip|title:Who am I?|webfile:ansi_graphics/who_am_i_by_luminator_sodapop_family.png
 author:Charon|position:3|sceneorg:/parties/2000/assembly00/ansi/lavalamp.zip|title:Lavalamp|webfile:ansi_graphics/lavalamp_by_charon.png
 author:H7|position:4|sceneorg:/parties/2000/assembly00/ansi/ninja_by.zip|title:Ninja|webfile:ansi_graphics/ninja_by_h7.png
 author:kokki|position:5|sceneorg:/parties/2000/assembly00/ansi/punaisek.zip|title:punaiseksi muutuin|webfile:ansi_graphics/punaiseksi_muutuin_by_kokki.png
@@ -233,7 +233,7 @@ author:Funky Bong|position:5|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|t
 author:Joorus & Julle|position:6|pouet:28610|sceneorg:/parties/2000/assembly00/wild/the_game.zip|title:The Game|webfile:wild_demo/the_game_by_joorus_julle.mpeg|youtube:_Kgi47REmf8
 author:tAAt|position:7|sceneorg:/parties/2000/assembly00/wild/ratsia2.mpg|title:Ratsia II - the Soldiers of Asm2k|webfile:wild_demo/ratsia_ii_the_soldiers_of_asm2k_by_taat.mpeg|youtube:e_-8xbn_5Z4
 author:Jussi Castellanos|position:8|title:Shebaxan - Teaser Trailer
-author:Episent|position:9|pouet:20920|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|title:Diaplo - Uhka syvdltd|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|youtube:HwvVDQdvjPs
+author:Episent|position:9|pouet:20920|sceneorg:/parties/2000/assembly00/wild/diaplo.mpg|title:Diaplo - Uhka syvältä|webfile:wild_demo/diaplo_uhka_syvdltd_by_episent.mpeg|youtube:HwvVDQdvjPs
 author:Tontza / Ice CD ISDN|position:10|title:Everything Falls (trailer!)
 author:Bandwagon|dtv:id_file=4120&id_prod=11534&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/9895.jpg&width=512&height=404|position:11|pouet:9895|sceneorg:/parties/2000/assembly00/wild/vesikauhu.xvid.avi|title:Vesikauhu|webfile:wild_demo/vesikauhu_by_bandwagon.avi|youtube:a2SASU3gGrc
 author:Onnelliset Multimedianuoret|position:12|pouet:6315|sceneorg:/parties/2000/assembly00/wild/ommn_tit.zip|title:T.I.T.|webfile:wild_demo/t_i_t_by_onnelliset_multimedianuoret.mpeg|youtube:rjQjbMYKrr0
