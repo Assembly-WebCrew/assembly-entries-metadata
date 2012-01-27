@@ -10,7 +10,6 @@ from xml.sax.saxutils import quoteattr
 
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
-
 parser = optparse.OptionParser()
 parser.add_option("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
@@ -18,7 +17,7 @@ parser.add_option("--no-empty", dest="noempty", action="store_true",
 (options, args) = parser.parse_args()
 if len(args) != 1:
     parser.error("Need to give file root.")
-fileroot = args[0]
+FILEROOT = args[0]
 
 create_empty_sections = not options.noempty
 
@@ -110,6 +109,22 @@ def get_ordinal_suffix(number):
         suffix = 'th'
     return suffix
 
+def get_thumbnail_data(entry):
+    thumbnail_base = asmmetadata.select_thumbnail_base(entry)
+    thumbnail = None
+    if thumbnail_base is not None:
+        thumbnail, _ = select_smaller_thumbnail(os.path.join(FILEROOT, thumbnail_base))
+    else:
+        # We don't have any displayable data.
+        return None
+
+    if thumbnail is None:
+        del entry['section']
+        sys.stderr.write("Missing thumbnail for %s!\n" % str(entry))
+        sys.exit(1)
+
+    return thumbnail
+
 def print_entry(year, entry):
     title = entry['title']
     author = entry['author']
@@ -126,8 +141,6 @@ def print_entry(year, entry):
     extra_assets = ""
 
     locations = ""
-
-    thumbnail = None
 
     description = u""
     if 'warning' in entry:
@@ -182,7 +195,7 @@ def print_entry(year, entry):
         image_file = entry['image-file']
         if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
             baseprefix, _ = image_file.split(".")
-            viewfile, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/large/%s' % baseprefix))
+            viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
 
             normal_prefix = asmmetadata.normalize_key(baseprefix)
             image_filename = normal_prefix + postfix
@@ -195,7 +208,7 @@ def print_entry(year, entry):
         webfile = entry['webfile']
         if webfile.endswith(".png") or webfile.endswith(".jpeg") or webfile.endswith(".gif"):
             baseprefix, _ = webfile.split(".")
-            viewfile, postfix = select_smaller_thumbnail(os.path.join(fileroot, 'thumbnails/large/%s' % baseprefix))
+            viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
 
             normal_prefix = asmmetadata.normalize_key(baseprefix)
             image_filename = normal_prefix + postfix
@@ -240,18 +253,13 @@ def print_entry(year, entry):
         mediavideo = entry['media']
         locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
 
-    thumbnail_base = asmmetadata.select_thumbnail_base(entry)
-    thumbnail = None
-    if thumbnail_base is not None:
-        thumbnail, _ = select_smaller_thumbnail(os.path.join(fileroot, thumbnail_base))
+    if entry.get('use-parent-thumbnail', False) is True:
+        thumbnail_data = ''
     else:
-        # We don't have any displayable data.
-        return
+        thumbnail_data = get_thumbnail_data(entry)
 
-    if thumbnail is None:
-        del entry['section']
-        sys.stderr.write("Missing thumbnail for %s!\n" % str(entry))
-        sys.exit(1)
+    # No thumbnail -> no video/image/music data exists
+    if thumbnail_data is None:
         return
 
     ranking = 'ranking="%d"' % position
@@ -263,6 +271,26 @@ def print_entry(year, entry):
     tags = set()
     if 'tags' in entry:
         tags.update(entry['tags'].split(" "))
+
+    if entry.get('use-parent-thumbnail', False) is False:
+        thumbnail_asset = """
+  <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
+    <edition parameters="lang: workflow:public"
+         title=%(title)s
+         tags=""
+         created="%(current-time)s"
+         modified="%(current-time)s"><![CDATA[%(data)s
+]]></edition>
+  </asset>
+""" % {'year': year,
+       'normalizedsection': normalized_section,
+       'normalizedname': normalized_name,
+       'data': base64.encodestring(thumbnail_data),
+       'title': quoteattr(title),
+       'current-time': CURRENT_TIME,
+       }
+    else:
+        thumbnail_asset = ''
 
     asset_data = """
   <externalasset path="%(year)s/%(normalizedsection)s/%(normalizedname)s">
@@ -278,21 +306,14 @@ def print_entry(year, entry):
       %(locations)s
     </edition>
   </externalasset>
-  <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
-    <edition parameters="lang: workflow:public"
-         title=%(title)s
-         tags=""
-         created="%(current-time)s"
-         modified="%(current-time)s"><![CDATA[%(thumbnail)s
-]]></edition>
-  </asset>
+%(thumbnail)s
 """ % {'year': year,
        'normalizedsection': normalized_section,
        'normalizedname': normalized_name,
        'title': quoteattr(title),
        'author': quoteattr(author),
        'ranking': ranking,
-       'thumbnail': base64.encodestring(thumbnail),
+       'thumbnail': thumbnail_asset,
        'locations': locations,
        'description': quoteattr(description_non_unicode),
        'current-time': CURRENT_TIME,
@@ -304,6 +325,24 @@ def print_entry(year, entry):
     print extra_assets_str
 
 
+music_thumbnail, _ = select_smaller_thumbnail(
+    os.path.join(FILEROOT, 'thumbnails', 'music-thumbnail'))
+music_thumbnail_asset = """
+<asset path="%(year)s/music-thumbnail">
+  <edition parameters="lang: workflow:public"
+         title="Music thumbnail for %(year)s"
+         tags=""
+         created="%(current-time)s"
+         modified="%(current-time)s"><![CDATA[%(data)s
+]]></edition>
+  </asset>
+""" % {'year': entry_data.year,
+       'data': base64.encodestring(music_thumbnail),
+       'current-time': CURRENT_TIME,
+}
+asset_data_str = music_thumbnail_asset.encode("utf-8")
+print asset_data_str
+
 for section in entry_data.sections:
     if section.get('public', True) is False:
         continue
@@ -311,7 +350,14 @@ for section in entry_data.sections:
         continue
     print_section(entry_data.year, section)
 
-    for entry in asmmetadata.sort_entries(section['entries']):
+    sorted_entries = asmmetadata.sort_entries(section['entries'])
+
+    # Music files have all the same thumbnail.
+    if 'music' in section['name'].lower():
+        for entry in sorted_entries:
+            entry['use-parent-thumbnail'] = True
+
+    for entry in sorted_entries:
         print_entry(entry_data.year, entry)
 
 print """</import>"""
