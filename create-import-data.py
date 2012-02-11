@@ -331,7 +331,7 @@ music_thumbnail_asset = """
 <asset path="%(year)s/music-thumbnail">
   <edition parameters="lang: workflow:public"
          title="Music thumbnail for %(year)s"
-         tags=""
+         tags="hide-navigation"
          created="%(current-time)s"
          modified="%(current-time)s"><![CDATA[%(data)s
 ]]></edition>
