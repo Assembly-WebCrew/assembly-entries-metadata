@@ -61,7 +61,7 @@ def get_youtube_info_data(entry):
                 description += u".\n\n"
         else:
             description += u"%s seminar presentation.\n\n" % party_name
-    elif "AssemblyTV" in section_name:
+    elif "AssemblyTV" in section_name or "Winter" in section_name:
         description += u"%s AssemblyTV program.\n\n" % party_name
 
     if 'description' in entry:
@@ -100,7 +100,7 @@ def get_youtube_info_data(entry):
                 i += 1
         else:
             description += "Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.quote_plus(part))
+                download_type, urllib.quote_plus(sceneorg))
 
     if 'sceneorgvideo' in entry:
         sceneorgvideo = entry['sceneorgvideo']
@@ -126,7 +126,7 @@ def get_youtube_info_data(entry):
         'tags': list(tags),
         }
 
-def try_youtube_operation(label, function, retries=3, sleep=5):
+def try_youtube_operation(label, function, retries=3, sleep=4):
     success = False
     retry_count = 0
     while not success and retry_count < retries:
