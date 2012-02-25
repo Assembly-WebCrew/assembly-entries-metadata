@@ -52,7 +52,7 @@ def get_youtube_info_data(entry):
     if not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name:
-            description += "%s competition entry, " % party_name
+            description += "%s %s competition entry, " % (party_name, section_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
                     description += u"%s" % position_str
