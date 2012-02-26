@@ -156,7 +156,8 @@ def update_youtube_info_entry(yt_service, username, entry):
 
     youtube_entry = try_youtube_operation(
         "get info for %s" % youtube_info['title'],
-        lambda: yt_service.GetYouTubeVideoEntry(uri=uri))
+        lambda: yt_service.GetYouTubeVideoEntry(uri=uri),
+        sleep=1)
     if youtube_entry is None:
         return
 
@@ -167,7 +168,9 @@ def update_youtube_info_entry(yt_service, username, entry):
     if youtube_entry.media.description.text != youtube_info['description'].strip():
         update_entry = True
         youtube_entry.media.description.text = youtube_info['description'].strip()
-    existing_tags = sorted([tag.strip().lower() for tag in youtube_entry.media.keywords.text.split(",")])
+    existing_tags = []
+    if youtube_entry.media.keywords.text is not None:
+        existing_tags = sorted([tag.strip().lower() for tag in youtube_entry.media.keywords.text.split(",")])
     if existing_tags != sorted([tag.strip().lower() for tag in youtube_info['tags']]):
         update_entry = True
         youtube_entry.media.keywords.text = ", ".join(youtube_info['tags'])
