@@ -133,15 +133,15 @@ author:unknown|position:13|title:Kukko
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 author:Virtual Dreams|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404|position:1|pouet:1154|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|title:Sumea
-author:Mellow Chips|position:2|pouet:15846|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha,/parties/1996/assembly96/amiga/demo/mc_dim2.lha,/parties/1996/assembly96/amiga/demo/mc_dim3.lha,/parties/1996/assembly96/amiga/demo/mc_dim4.lha|title:Dim
+author:Mellow Chips|position:2|pouet:15846|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha;/parties/1996/assembly96/amiga/demo/mc_dim2.lha;/parties/1996/assembly96/amiga/demo/mc_dim3.lha;/parties/1996/assembly96/amiga/demo/mc_dim4.lha|title:Dim
 author:The Black Lotus|dtv:id_file=3951&id_prod=4606&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3457.jpg&width=512&height=404|position:3|pouet:3457|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|title:Goa
 author:Mystic|position:4|pouet:3944|sceneorg:/parties/1996/assembly96/amiga/demo/mst_tfc.lha|title:Traffic
-author:Limited Edition|position:5|pouet:3949|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha,/parties/1996/assembly96/amiga/demo/ledma2.lha|title:Mindabuse
+author:Limited Edition|position:5|pouet:3949|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha;/parties/1996/assembly96/amiga/demo/ledma2.lha|title:Mindabuse
 author:Scoopex&Bomb|position:6|pouet:2566|sceneorg:/parties/1996/assembly96/amiga/demo/cyberia.lha|title:Cyberia
 author:Extend|position:7|pouet:17439|sceneorg:/parties/1996/assembly96/amiga/demo/ext_insa.lha|title:Insane
 author:Cirion|position:8|pouet:16134|sceneorg:/parties/1996/assembly96/amiga/demo/showstop.lha|title:Showstopper
 author:Artificial People|position:9|pouet:19041|sceneorg:/parties/1996/assembly96/amiga/demo/ap_clic.lha|title:Clichés
-author:Banal Projects|position:10|pouet:17653|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha,/parties/1996/assembly96/amiga/demo/bold2.lha|title:Bold
+author:Banal Projects|position:10|pouet:17653|sceneorg:/parties/1996/assembly96/amiga/demo/bold1.lha;/parties/1996/assembly96/amiga/demo/bold2.lha|title:Bold
 author:Wrath|position:11|pouet:5915|sceneorg:/parties/1996/assembly96/amiga/demo/gyrate.lha|title:Gyrate
 
 

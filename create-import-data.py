@@ -236,8 +236,8 @@ def print_entry(year, entry):
         download_type = "Original"
         if "game" in section_name.lower():
             download_type = "Playable game"
-        if "," in sceneorg:
-            parts = sceneorg.split(",")
+        if ";" in sceneorg:
+            parts = sceneorg.split(";")
             i = 1
             for part in parts:
                 locations += "<location type='sceneorg'>%s|%s (%d/%d)</location>" % (

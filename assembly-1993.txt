@@ -112,7 +112,7 @@ author:Extacy|position:8|pouet:17121|title:Transfusion
 :youtube-playlist A71C222D27465D1A
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1993 PCs.</p>
 
-author:Future Crew|cappedtv:1210750466-1-0&width=640&height=400|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|position:1|pouet:63|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip,/parties/1993/assembly93/demo/2ndreal2.zip,/parties/1993/assembly93/demo/2nd_real.zip,/parties/1993/assembly93/demo/2ndpatch.zip|title:Second Reality|youtube:wBSzFV7-RCg
+author:Future Crew|cappedtv:1210750466-1-0&width=640&height=400|dtv:id_file=3472&id_prod=9223&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/63.png&width=512&height=404|position:1|pouet:63|sceneorg:/parties/1993/assembly93/demo/2ndreal1.zip;/parties/1993/assembly93/demo/2ndreal2.zip;/parties/1993/assembly93/demo/2nd_real.zip;/parties/1993/assembly93/demo/2ndpatch.zip|title:Second Reality|youtube:wBSzFV7-RCg
 author:Silents|position:2|pouet:7658|sceneorg:/parties/1993/assembly93/demo/opticnrv.zip|title:Optic Nerve
 author:Xography|position:3|pouet:852|sceneorg:/parties/1993/assembly93/demo/elements.zip|title:Elements|youtube:ZKaeVfVUX7E
 author:Dust|position:4|pouet:2585|sceneorg:/parties/1993/assembly93/demo/sagadust.zip|title:Saga

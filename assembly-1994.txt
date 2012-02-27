@@ -140,7 +140,7 @@ author:Vitual Dreams|position:2|pouet:2568|sceneorg:/parties/1994/assembly94/ami
 author:Parallax|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404|position:3|pouet:7971|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|title:Drool This
 author:Alcatraz|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404|position:4|pouet:10359|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|title:Ilyad
 author:Juliet & Case|position:5|pouet:14991|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|title:Cccp
-author:Rage|position:6|pouet:9106|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms,/parties/1994/assembly94/amiga/demo/rage2.dms,/parties/1994/assembly94/amiga/demo/rage3.dms|title:Maxium Overdrive II
+author:Rage|position:6|pouet:9106|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms;/parties/1994/assembly94/amiga/demo/rage2.dms;/parties/1994/assembly94/amiga/demo/rage3.dms|title:Maxium Overdrive II
 author:Insane|position:7|pouet:17249|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|title:Despair
 author:Analogy|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404|position:8|pouet:23217|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|title:Sup.l# $7fd1
 author:Delon|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404|position:9|pouet:7617|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|title:Final Condom
