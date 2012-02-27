@@ -120,6 +120,9 @@ def get_youtube_info_data(entry):
 
     description_non_unicode = description.encode("utf-8")
 
+    name = name.replace("<", "-")
+    name = name.replace(">", "-")
+
     return {
         'title': name[:YOUTUBE_MAX_TITLE_LENGTH].encode("utf-8"),
         'description': description_non_unicode,
