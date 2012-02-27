@@ -79,6 +79,10 @@ def get_youtube_info_data(entry):
 
     description += "\n"
 
+    pouet = entry.get('pouet', None)
+    if pouet is not None:
+        description += u"Pouet.net: http://pouet.net/prod.php?which=%s" % urllib.quote_plus(pouet.strip())
+
     if 'download' in entry:
         download = entry['download']
         download_type = "Download original:"
@@ -117,6 +121,8 @@ def get_youtube_info_data(entry):
 
     if "AssemblyTV" in entry['section']['name'] or "Winter" in entry['section']['name']:
         tags.add("AssemblyTV")
+    if "Seminars" in entry['section']['name']:
+        tags.add("seminar")
 
     description_non_unicode = description.encode("utf-8")
 
