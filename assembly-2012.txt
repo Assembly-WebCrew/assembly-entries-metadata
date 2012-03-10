@@ -4,14 +4,13 @@
 :youtube-playlist 5C093FFF2C33B46A
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2012.</p>
 
-author:AssemblyTV|title:Organizer-haastattelu|youtube:5P83V5UuwEY
-author:AssemblyTV|title:Doom Cam|youtube:jvFFpqhM4S0
-author:AssemblyTV|title:Perjantain tunnelmia|youtube:rpv9BlQOcGs
-author:AssemblyTV|title:Kävijähaastattelu|youtube:b1rfd6-Q1mc
-author:AssemblyTV|title:DOOM CAM 2|youtube:LCvHLdZ0Ohc
-author:AssemblyTV|title:Martin the Masseur|youtube:GYW5FPR83zY
-author:AssemblyTV|title:Dance Tricks|youtube:wMT8EWUwS8k
-author:AssemblyTV|title:The Art of E-Sport|youtube:IJFtKnEYvGM
-author:AssemblyTV|title:Miksi Starcraft on niin hyvä peli?|youtube:ynZfXJv_gtU
-author:AssemblyTV|title:Time Lapse|youtube:yws8tPtx27c
-
+author:AssemblyTV|title:Organizer-haastattelu|youtube:5P83V5UuwEY|media:/vod/2012/winter/Perjantain_tunnelmia.mp4
+author:AssemblyTV|title:Doom Cam|youtube:jvFFpqhM4S0|media:/vod/2012/winter/DOOM_CAM.mp4
+author:AssemblyTV|title:Perjantain tunnelmia|youtube:rpv9BlQOcGs|media:/vod/2012/winter/Organizer-haastattelu.mp4
+author:AssemblyTV|title:Kävijähaastattelu|youtube:b1rfd6-Q1mc|media:/vod/2012/winter/Kavijahaastattelu.mp4
+author:AssemblyTV|title:DOOM CAM 2|youtube:LCvHLdZ0Ohc|media:/vod/2012/winter/DOOM_CAM_2.mp4
+author:AssemblyTV|title:Martin the Masseur|youtube:GYW5FPR83zY|media:/vod/2012/winter/Martin_the_Masseur.mp4
+author:AssemblyTV|title:Dance Tricks|youtube:wMT8EWUwS8k|media:/vod/2012/winter/Dance_Tricks.mp4
+author:AssemblyTV|title:The Art of E-Sport|youtube:IJFtKnEYvGM|media:/vod/2012/winter/The_Art_of_E-Sport.mp4
+author:AssemblyTV|title:Miksi Starcraft on niin hyvä peli?|youtube:ynZfXJv_gtU|media:/vod/2012/winter/Miksi_Starcraft_on_niin_hyva_peli.mp4
+author:AssemblyTV|title:Time Lapse|youtube:yws8tPtx27c|media:/vod/2012/winter/Timelapse.mp4
