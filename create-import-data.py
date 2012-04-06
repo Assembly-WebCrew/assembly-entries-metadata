@@ -277,7 +277,7 @@ def print_entry(year, entry):
   <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
     <edition parameters="lang: workflow:public"
          title=%(title)s
-         tags=""
+         tags="hide-search"
          created="%(current-time)s"
          modified="%(current-time)s"><![CDATA[%(data)s
 ]]></edition>
@@ -331,7 +331,7 @@ music_thumbnail_asset = """
 <asset path="%(year)s/music-thumbnail">
   <edition parameters="lang: workflow:public"
          title="Music thumbnail for %(year)s"
-         tags="hide-navigation"
+         tags="hide-navigation hide-search"
          created="%(current-time)s"
          modified="%(current-time)s"><![CDATA[%(data)s
 ]]></edition>
