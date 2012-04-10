@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import asmmetadata
 import base64
 import cgi
