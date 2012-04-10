@@ -152,7 +152,9 @@ def print_entry(year, entry):
         position_str = str(position) + get_ordinal_suffix(position) + " place"
 
     display_author = None
-    if not "AssemblyTV" in section_name and not "Winter" in section_name:
+    if "Misc" in section_name:
+        pass
+    elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name:
             if entry['section'].get('ongoing', False) is False:

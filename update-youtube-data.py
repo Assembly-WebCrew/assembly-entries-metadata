@@ -29,7 +29,7 @@ def get_youtube_info_data(entry):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
-    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name:
+    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
         name = title
     else:
         name = "%s by %s" % (title, author)
@@ -49,7 +49,9 @@ def get_youtube_info_data(entry):
         entry['section']['year'], entry['section']['name'])
 
     display_author = None
-    if not "AssemblyTV" in section_name and not "Winter" in section_name:
+    if "Misc" in section_name:
+        pass
+    elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name:
             description += "%s %s competition entry, " % (party_name, section_name)
