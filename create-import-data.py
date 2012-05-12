@@ -153,6 +153,8 @@ def print_entry(year, entry):
     if position != 0:
         position_str = str(position) + get_ordinal_suffix(position) + " place"
 
+    has_media = False
+
     display_author = None
     if "Misc" in section_name:
         pass
@@ -182,22 +184,22 @@ def print_entry(year, entry):
     if display_author is not None:
         description += u"Author: %s\n" % cgi.escape(display_author)
 
-    if 'dtv' in entry:
-        demoscenetv = entry['dtv']
-
-    # Youtube is primary location
+    # Youtube is our primary location
     if 'youtube' in entry:
+        has_media = True
         youtube = entry['youtube']
         locations += "<location type='youtube'>%s</location>" % youtube
 
     # Youtube is primary location
     if 'dtv' in entry:
+        has_media = True
         demoscenetv = entry['dtv']
         locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
     if 'image-file' in entry and 'webfile' not in entry:
         image_file = entry['image-file']
         if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
+            has_media = True
             baseprefix, _ = image_file.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
 
@@ -211,6 +213,7 @@ def print_entry(year, entry):
     if 'webfile' in entry:
         webfile = entry['webfile']
         if webfile.endswith(".png") or webfile.endswith(".jpeg") or webfile.endswith(".gif"):
+            has_media = True
             baseprefix, _ = webfile.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
 
@@ -257,13 +260,18 @@ def print_entry(year, entry):
         mediavideo = entry['media']
         locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
 
+    if not has_media:
+        return
+
+    has_thumbnail = False
     if entry.get('use-parent-thumbnail', False) is True:
-        thumbnail_data = ''
+        has_thumbnail = True
     else:
         thumbnail_data = get_thumbnail_data(entry)
+        if thumbnail_data is not None:
+            has_thumbnail = True
 
-    # No thumbnail -> no video/image/music data exists
-    if thumbnail_data is None:
+    if not has_thumbnail:
         return
 
     ranking = 'ranking="%d"' % position
