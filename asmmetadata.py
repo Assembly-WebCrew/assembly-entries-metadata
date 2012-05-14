@@ -24,6 +24,113 @@ def get_party_tags(year, section_name):
         tags.append("asm2k")
     return tags
 
+def get_content_types(section_name):
+    normalized_section_name = normalize_key(section_name)
+
+    # Major non-computer generated recordings.
+    if "seminar" in normalized_section_name:
+        return set(["seminar", "summer"])
+    if "assemblytv" in normalized_section_name:
+        return set(["assemblytv", "summer"])
+    if "winter" in normalized_section_name:
+        return set(["assemblytv", "winter"])
+    # Don't separate photo sections yet.
+    if "photo" in normalized_section_name:
+        return set(["photo", "winter", "summer"])
+    # Everything else is done during the summer.
+    types = ["summer"]
+
+    # Realtime types.
+    if re.search("(^| )4k", normalized_section_name):
+         types.extend(["4k", "intro", "realtime", "demo-product"])
+    if re.search("(^| )64k", normalized_section_name):
+         types.extend(["64k", "intro", "realtime", "demo-product"])
+    if re.search("(^| )40k", normalized_section_name):
+         types.extend(["40k", "intro", "realtime", "demo-product"])
+    if "intro" in normalized_section_name:
+         types.extend(["intro", "realtime", "demo-product"])
+    if "demo" in normalized_section_name:
+         types.extend(["demo", "realtime", "demo-product"])
+
+    # Different platforms.
+    if "c64" in normalized_section_name:
+        types.extend(["c64"])
+    if "amiga" in normalized_section_name:
+         types.extend(["amiga"])
+    if "console" in normalized_section_name:
+         types.extend(["console"])
+    if "java" in normalized_section_name:
+         types.extend(["java"])
+    if "win95" in normalized_section_name:
+         types.extend(["win95", "windows"])
+    if "windows" in normalized_section_name:
+         types.extend(["windows"])
+    if "oldskool" in normalized_section_name:
+         types.extend(["oldskool"])
+    if "mobile" in normalized_section_name:
+         types.extend(["mobile"])
+    if "browser" in normalized_section_name:
+         types.extend(["browser"])
+    if "flash" in normalized_section_name:
+         types.extend(["flash"])
+    if "winamp" in normalized_section_name:
+         types.extend(["winamp"])
+    if "playstation" in normalized_section_name:
+         types.extend(["playstation"])
+
+    # Music
+    if "channel" in normalized_section_name:
+         types.extend(["tracker"])
+    if "tiny" in normalized_section_name:
+         types.extend(["tracker"])
+    if "music" in normalized_section_name:
+         types.extend(["music"])
+    if re.match("^music$", normalized_section_name):
+         types.extend(["music-any"])
+    if "mp3" in normalized_section_name:
+         types.extend(["mp3", "music-any"])
+    if "instrumental" in normalized_section_name:
+         types.extend(["instrumental"])
+
+    # Different video types.
+    if "animation" in normalized_section_name:
+         types.extend(["animation", "video"])
+    if re.match("^wild$", normalized_section_name):
+         types.extend(["video", "platform-any"])
+    if "film" in normalized_section_name:
+         types.extend(["video", "platform-any"])
+
+    # Graphics.
+    if "graphics" in normalized_section_name:
+         types.extend(["graphics"])
+    if "raytrace" in normalized_section_name:
+         types.extend(["raytrace"])
+    if "ansi" in normalized_section_name:
+        types.extend(["ansi"])
+    if "themed" in normalized_section_name:
+        types.extend(["themed"])
+    if "analog" in normalized_section_name:
+         types.extend(["analog", "drawn"])
+    if "drawn" in normalized_section_name:
+         types.extend(["drawn"])
+    if "pixel graphics" in normalized_section_name:
+         types.extend(["drawn"])
+
+    # Miscellaneous.
+    if "fast" in normalized_section_name:
+        types.extend(["fast", "themed"])
+    if "extreme" in normalized_section_name:
+         types.extend(["extreme"])
+    if "executable" in normalized_section_name:
+         types.extend(["extreme"])
+    if "wild" in normalized_section_name:
+         types.extend(["wild", "platform-any"])
+    if "game" in normalized_section_name:
+         types.extend(["gamedev"])
+
+    return set(types)
+
+
 def get_long_section_name(section_name):
     if "winter" in section_name.lower():
         return u"AssemblyTV"
