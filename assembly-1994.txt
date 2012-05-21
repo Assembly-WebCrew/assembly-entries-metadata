@@ -36,7 +36,7 @@ author:Epical|position:5|pouet:5089|sceneorg:/parties/1994/assembly94/demo/image
 author:Capacala|dtv:id_file=2340&id_prod=10694&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/66.jpg&width=512&height=404|position:6|pouet:66|sceneorg:/parties/1994/assembly94/demo/realthng.zip|title:The Real THING|youtube:T2hn80vw3YI
 author:Grif|position:7|pouet:1293|sceneorg:/parties/1994/assembly94/demo/catchupp.zip|title:Catch up|youtube:lZ8yo3ubO3E
 author:Hysteria|position:8|pouet:1292|sceneorg:/parties/1994/assembly94/demo/silence.zip|title:Silence|youtube:Yf00qkZfYWw
-author:Complex|position:9|pouet:5333|sceneorg:/parties/1994/assembly94/demo/cosmic.zip|title:Cosmic Brothers|youtube:pa53V9DhIn8
+author:Complex|position:9|pouet:5333|sceneorg:/parties/1994/assembly94/demo/cosmic.zip|title:The Message from the Cosmic Brothers|youtube:pa53V9DhIn8
 author:Mental Design|position:10|pouet:15544|sceneorg:/parties/1994/assembly94/demo/2cents.zip|title:2 cents
 author:Phanton Design|position:11|pouet:15545|sceneorg:/parties/1994/assembly94/demo/thefinop.zip|title:The Final Option
 author:Soft One Productions|position:12|pouet:15546|sceneorg:/parties/1994/assembly94/demo/tempesta.zip|title:Tempesta|youtube:RSRNEP2BwSk
@@ -44,7 +44,7 @@ author:Patrik Aalto|position:13|pouet:15547|sceneorg:/parties/1994/assembly94/de
 author:TC|position:14|pouet:2526|sceneorg:/parties/1994/assembly94/demo/uneatble.zip|title:Un Eatable|youtube:K0KixJevRbk
 author:Valhalla|position:15|pouet:4852|sceneorg:/parties/1994/assembly94/demo/visionsl.zip|title:Visions of Light
 author:Anjovis|position:16|pouet:8656|sceneorg:/parties/1994/assembly94/demo/fly.zip|title:Fly
-author:SPA|dtv:id_file=4198&id_prod=6855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3473.jpg&width=512&height=404|position:17|pouet:3473|title:Meltdown
+author:SPA|position:17|pouet:3473|title:Meltdown
 author:Styx|position:18|pouet:7222|sceneorg:/parties/1994/assembly94/demo/fairy.zip|title:FairlyTale|youtube:j3TEhD7xbWY
 author:Axidental|position:19|pouet:8661|sceneorg:/parties/1994/assembly94/demo/accident.zip|title:Accident
 author:Tei|position:20|pouet:8660|sceneorg:/parties/1994/assembly94/demo/dawn.zip|title:Dawn
