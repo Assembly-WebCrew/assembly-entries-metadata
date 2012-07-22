@@ -15,14 +15,14 @@ author:amj|position:7|sceneorg:/parties/1999/assembly99/c64/music/jensoman.zip|t
 :section Amiga 64k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:da jormas!|position:1|pouet:4518|sceneorg:/parties/1999/assembly99/amiga/in64/l_ota_si.zip|title:Älä ota sit vakavasti
+author:da jormas!|position:1|pouet:4518|sceneorg:/parties/1999/assembly99/amiga/in64/l_ota_si.zip|title:Älä ota sit vakavasti|youtube:ezhVhCzF474
 author:Extreme|position:2|pouet:1936|sceneorg:/parties/1999/assembly99/amiga/in64/push_by_.zip|title:Push
 author:Spaceballs|dtv:id_file=3928&id_prod=9747&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3512.jpg&width=512&height=404|position:3|pouet:3512|sceneorg:/parties/1999/assembly99/amiga/in64/sparklin.zip|title:Sparkling blue light
 author:Scoopex|position:4|pouet:1347|sceneorg:/parties/1999/assembly99/amiga/in64/pulsar_b.zip|title:Pulsar
 author:bus|position:5|pouet:7741|sceneorg:/parties/1999/assembly99/amiga/in64/kangooro.zip|title:Kangooroa or something
-author:Spedes|position:6|pouet:12669|sceneorg:/parties/1999/assembly99/amiga/in64/hcdc10_b.zip|title:HC-DC10
-author:replay|position:7|pouet:12314|sceneorg:/parties/1999/assembly99/amiga/in64/wxco123_.zip|title:wx-co123
-author:- Rock|position:8|pouet:24899|sceneorg:/parties/1999/assembly99/amiga/in64/g4_by___.zip|title:G4
+author:Spedes|position:6|pouet:12669|sceneorg:/parties/1999/assembly99/amiga/in64/hcdc10_b.zip|title:HC-DC10|youtube:mnQkrx8vc2o
+author:replay|position:7|pouet:12314|sceneorg:/parties/1999/assembly99/amiga/in64/wxco123_.zip|title:wx-co123|youtube:OMH_x-QiHg0
+author:- Rock|position:8|pouet:24899|sceneorg:/parties/1999/assembly99/amiga/in64/g4_by___.zip|title:G4|youtube:sAqnvKgoZ6Y
 
 
 :section Java demo

@@ -18,14 +18,14 @@ author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/assembly98/c64musi
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:haujobb|position:1|pouet:1035|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|title:edit0.5
-author:Scoopex|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404|pouet:3518|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|title:System Crime
+author:Scoopex|dtv:id_file=3837&id_prod=10237&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3518.jpg&width=512&height=404|pouet:3518|sceneorg:/parties/1998/assembly98/amiga64k/system_c.zip|title:System Crime|youtube:2LK2lFVMWAQ
 author:sonik clique|position:3|pouet:7501|sceneorg:/parties/1998/assembly98/amiga64k/redeye_b.zip|title:red-eye
 author:Raato^Pou^Ves / dA JoRMaS!|position:4|pouet:11975|sceneorg:/parties/1998/assembly98/amiga64k/elektrik.zip|title:Elektrik Baby
 author:paragon|position:5|pouet:51586|sceneorg:/parties/1998/assembly98/amiga64k/popgun_b.zip|title:popgun
 author:Scoopex|position:6|pouet:5865|sceneorg:/parties/1998/assembly98/amiga64k/effu_by_.zip|title:Effu
 author:Dcs|position:7|sceneorg:/parties/1998/assembly98/amiga64k/dcsintro.zip|title:dcsintro
 author:damones|position:8|sceneorg:/parties/1998/assembly98/amiga64k/damones_.zip|title:damones assembly 98
-author:Extend|sceneorg:/parties/1998/assembly98/amiga64k/seamless.zip|title:Seamless
+author:Extend|sceneorg:/parties/1998/assembly98/amiga64k/seamless.zip|title:Seamless|youtube:2bWx9GKrBLk
 
 
 :section Java demo
