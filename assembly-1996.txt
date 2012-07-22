@@ -19,17 +19,17 @@ author:Barracuda/Extend|position:10|sceneorg:/parties/1996/assembly96/c64/grfx_m
 :section Amiga 64k intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:Sonik Clique|position:1|pouet:2984|sceneorg:/parties/1996/assembly96/amiga/in64/s_pure.zip|title:Pure
-author:Royal|position:2|pouet:15837|sceneorg:/parties/1996/assembly96/amiga/in64/ryl_so.zip|title:So What?
+author:Sonik Clique|position:1|pouet:2984|sceneorg:/parties/1996/assembly96/amiga/in64/s_pure.zip|title:Pure|youtube:KuWmknC0yXc
+author:Royal|position:2|pouet:15837|sceneorg:/parties/1996/assembly96/amiga/in64/ryl_so.zip|title:So What?|youtube:J635YI7oJ-c
 author:Kanisteri|position:3|pouet:30982|title:Japani
-author:Primary|position:4|pouet:15842|sceneorg:/parties/1996/assembly96/amiga/in64/pmy_clic.zip|title:Click
-author:C-lous|position:5|pouet:15839|sceneorg:/parties/1996/assembly96/amiga/in64/c_asm96.zip|title:Asm96
-author:New Age|position:6|pouet:15841|sceneorg:/parties/1996/assembly96/amiga/in64/na_murr.zip|title:Murr
-author:Wunderbaum|position:7|pouet:15845|sceneorg:/parties/1996/assembly96/amiga/in64/wb_kbm.zip|title:Kanda Bong Man
-author:Extend|position:8|pouet:15840|sceneorg:/parties/1996/assembly96/amiga/in64/ext_ifa.zip|title:Ifa
-author:Subspace|position:9|pouet:15838|sceneorg:/parties/1996/assembly96/amiga/in64/sbs_uber.zip|title:Übergirl
-author:Zenon|position:10|pouet:11537|sceneorg:/parties/1996/assembly96/amiga/in64/nona.lha|title:Nona
-author:Sam&Roy|position:11|pouet:15844|sceneorg:/parties/1996/assembly96/amiga/in64/sr_htf.zip|title:Hit the fan
+author:Primary|position:4|pouet:15842|sceneorg:/parties/1996/assembly96/amiga/in64/pmy_clic.zip|title:Click|youtube:QFVZCe8oHlA
+author:C-lous|position:5|pouet:15839|sceneorg:/parties/1996/assembly96/amiga/in64/c_asm96.zip|title:Asm96|youtube:frc5-vV70xY
+author:New Age|position:6|pouet:15841|sceneorg:/parties/1996/assembly96/amiga/in64/na_murr.zip|title:Murr|youtube:qA0GJi4o_nQ
+author:Wunderbaum|position:7|pouet:15845|sceneorg:/parties/1996/assembly96/amiga/in64/wb_kbm.zip|title:Kanda Bong Man|youtube:ai23tQmfBII
+author:Extend|position:8|pouet:15840|sceneorg:/parties/1996/assembly96/amiga/in64/ext_ifa.zip|title:Ifa|youtube:QlXIuhE9aHw
+author:Subspace|position:9|pouet:15838|sceneorg:/parties/1996/assembly96/amiga/in64/sbs_uber.zip|title:Übergirl|youtube:f94WE_esAK8
+author:Zenon|position:10|pouet:11537|sceneorg:/parties/1996/assembly96/amiga/in64/nona.lha|title:Nona|youtube:JeXddAde2aw
+author:Sam&Roy|position:11|pouet:15844|sceneorg:/parties/1996/assembly96/amiga/in64/sr_htf.zip|title:Hit the fan|youtube:kRjRhjU3oYM
 
 
 :section C64 graphics
@@ -134,10 +134,10 @@ author:unknown|position:13|title:Kukko
 
 author:Virtual Dreams|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404|position:1|pouet:1154|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|title:Sumea
 author:Mellow Chips|position:2|pouet:15846|sceneorg:/parties/1996/assembly96/amiga/demo/mc_dim1.lha;/parties/1996/assembly96/amiga/demo/mc_dim2.lha;/parties/1996/assembly96/amiga/demo/mc_dim3.lha;/parties/1996/assembly96/amiga/demo/mc_dim4.lha|title:Dim
-author:The Black Lotus|dtv:id_file=3951&id_prod=4606&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3457.jpg&width=512&height=404|position:3|pouet:3457|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|title:Goa
+author:The Black Lotus|dtv:id_file=3951&id_prod=4606&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3457.jpg&width=512&height=404|position:3|pouet:3457|sceneorg:/parties/1996/assembly96/amiga/demo/tblgoa.lha|title:Goa|youtube:oLjY7Zzlwpw
 author:Mystic|position:4|pouet:3944|sceneorg:/parties/1996/assembly96/amiga/demo/mst_tfc.lha|title:Traffic
 author:Limited Edition|position:5|pouet:3949|sceneorg:/parties/1996/assembly96/amiga/demo/ledma.lha;/parties/1996/assembly96/amiga/demo/ledma2.lha|title:Mindabuse
-author:Scoopex&Bomb|position:6|pouet:2566|sceneorg:/parties/1996/assembly96/amiga/demo/cyberia.lha|title:Cyberia
+author:Scoopex&Bomb|position:6|pouet:2566|sceneorg:/parties/1996/assembly96/amiga/demo/cyberia.lha|title:Cyberia|youtube:KSFno7wr9lY
 author:Extend|position:7|pouet:17439|sceneorg:/parties/1996/assembly96/amiga/demo/ext_insa.lha|title:Insane
 author:Cirion|position:8|pouet:16134|sceneorg:/parties/1996/assembly96/amiga/demo/showstop.lha|title:Showstopper
 author:Artificial People|position:9|pouet:19041|sceneorg:/parties/1996/assembly96/amiga/demo/ap_clic.lha|title:Clichés
