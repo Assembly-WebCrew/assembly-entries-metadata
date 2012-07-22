@@ -160,6 +160,20 @@ class EntryYear(object):
     entries = []
 
 
+def parse_entry_line(line):
+    try:
+        data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
+    except:
+        print line
+        raise
+
+    position = int(data_dict.get('position', u'0'))
+    if position != 0:
+        data_dict['position'] = position
+    elif 'position' in data_dict:
+        del data_dict['position']
+    return data_dict
+
 def parse_file(file_handle):
     result = EntryYear()
 
@@ -228,17 +242,7 @@ def parse_file(file_handle):
         assert year is not None
         assert section is not None
 
-        try:
-            data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
-        except:
-            print line
-            raise
-
-        position = int(data_dict.get('position', u'0'))
-        if position != 0:
-            data_dict['position'] = position
-        elif 'position' in data_dict:
-            del data_dict['position']
+        data_dict = parse_entry_line(line)
 
         assert 'section' not in data_dict
         data_dict['section'] = section
@@ -380,14 +384,14 @@ def get_youtube_info_data(entry):
 
     pouet = entry.get('pouet', None)
     if pouet is not None:
-        description += u"Pouet.net: http://pouet.net/prod.php?which=%s" % urllib.quote_plus(pouet.strip())
+        description += u"Pouet.net: http://pouet.net/prod.php?which=%s\n" % urllib.quote_plus(pouet.strip())
 
     if 'download' in entry:
         download = entry['download']
         download_type = "Download original:"
         if "game" in section_name.lower():
             download_type = "Download playable game:"
-        description += "%s: %s" % (download_type, download)
+        description += "%s: %s\n" % (download_type, download)
 
     if 'sceneorg' in entry:
         sceneorg = entry['sceneorg']
