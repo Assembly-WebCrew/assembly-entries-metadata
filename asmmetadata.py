@@ -428,8 +428,13 @@ def get_youtube_info_data(entry):
     name = name.replace("<", "-")
     name = name.replace(">", "-")
 
+    category = "Entertainment"
+    if "Seminars" in entry['section']['name']:
+        category = "Tech"
+
     return {
         'title': name[:YOUTUBE_MAX_TITLE_LENGTH].encode("utf-8"),
         'description': description_non_unicode,
         'tags': list(tags),
+        'category': category,
         }
