@@ -4,9 +4,6 @@ import gdata.youtube.service
 import optparse
 import sys
 import time
-import urllib
-
-YOUTUBE_MAX_TITLE_LENGTH = 100
 
 parser = optparse.OptionParser()
 
@@ -15,127 +12,6 @@ if len(args) != 5:
     parser.error("Usage: datafile developer-key youtube-username email password")
 
 datafile, youtube_developer_key, youtube_username, email, password = sys.argv[1:]
-
-def get_ordinal_suffix(number):
-    suffixes = {1: 'st',
-               2: 'nd',
-               3: 'rd'}
-    suffix = suffixes.get(number % 10, 'th')
-    if number in [11, 12, 13]:
-        suffix = 'th'
-    return suffix
-
-def get_youtube_info_data(entry):
-    title = entry['title']
-    author = entry['author']
-    section_name = entry['section']['name']
-    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
-        name = title
-    else:
-        name = "%s by %s" % (title, author)
-
-    position = entry.get('position', 0)
-
-    description = u""
-    if 'warning' in entry:
-        description += u"%s\n\n" % entry['warning']
-
-    position_str = None
-
-    if position != 0:
-        position_str = str(position) + get_ordinal_suffix(position) + " place"
-
-    party_name = asmmetadata.get_party_name(
-        entry['section']['year'], entry['section']['name'])
-
-    display_author = None
-    if "Misc" in section_name:
-        pass
-    elif not "AssemblyTV" in section_name and not "Winter" in section_name:
-        display_author = author
-        if not "Seminars" in section_name:
-            description += "%s %s competition entry, " % (party_name, section_name)
-            if entry['section'].get('ongoing', False) is False:
-                if position_str is not None:
-                    description += u"%s" % position_str
-                else:
-                    description += u"not qualified to be shown on the big screen"
-                description += u".\n\n"
-        else:
-            description += u"%s seminar presentation.\n\n" % party_name
-    elif "AssemblyTV" in section_name or "Winter" in section_name:
-        description += u"%s AssemblyTV program.\n\n" % party_name
-
-    if 'description' in entry:
-        description += u"%s\n\n" % entry['description']
-
-    if 'platform' in entry:
-        description += u"Platform: %s\n" % entry['platform']
-
-    if 'techniques' in entry:
-        description += u"Notes: %s\n" % entry['techniques']
-
-    description += u"Title: %s\n" % title
-    if display_author is not None:
-        description += u"Author: %s\n" % display_author
-
-    description += "\n"
-
-    pouet = entry.get('pouet', None)
-    if pouet is not None:
-        description += u"Pouet.net: http://pouet.net/prod.php?which=%s" % urllib.quote_plus(pouet.strip())
-
-    if 'download' in entry:
-        download = entry['download']
-        download_type = "Download original:"
-        if "game" in section_name.lower():
-            download_type = "Download playable game:"
-        description += "%s: %s" % (download_type, download)
-
-    if 'sceneorg' in entry:
-        sceneorg = entry['sceneorg']
-        download_type = "original"
-        if "game" in section_name.lower():
-            download_type = "playable game"
-        if "," in sceneorg:
-            parts = sceneorg.split(",")
-            i = 1
-            for part in parts:
-                description += "Download %s part %d/%d: http://www.scene.org/file.php?file=%s\n" % (
-                    download_type, i, len(parts), urllib.quote_plus(part))
-                i += 1
-        else:
-            description += "Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.quote_plus(sceneorg))
-
-    if 'sceneorgvideo' in entry:
-        sceneorgvideo = entry['sceneorgvideo']
-        description += "Download high quality video: http://www.scene.org/file.php?file=%s\n" % urllib.quote_plus(sceneorgvideo)
-    elif 'media' in entry:
-        mediavideo = entry['media']
-        description += "Download high quality video: http://media.assembly.org%s\n" % mediavideo
-
-    tags = set(asmmetadata.get_party_tags(
-            entry['section']['year'], entry['section']['name']))
-
-    if 'tags' in entry:
-        tags.update(entry['tags'].split(" "))
-
-    if "AssemblyTV" in entry['section']['name'] or "Winter" in entry['section']['name']:
-        tags.add("AssemblyTV")
-    if "Seminars" in entry['section']['name']:
-        tags.add("seminar")
-
-    description_non_unicode = description.encode("utf-8")
-
-    name = name.replace("<", "-")
-    name = name.replace(">", "-")
-
-    return {
-        'title': name[:YOUTUBE_MAX_TITLE_LENGTH].encode("utf-8"),
-        'description': description_non_unicode,
-        'tags': list(tags),
-        }
 
 def try_youtube_operation(label, function, retries=3, sleep=4):
     success = False
@@ -161,7 +37,7 @@ def update_youtube_info(yt_service, username, entry_data):
         update_youtube_info_entry(yt_service, username, entry)
 
 def update_youtube_info_entry(yt_service, username, entry):
-    youtube_info = get_youtube_info_data(entry)
+    youtube_info = asmmetadata.get_youtube_info_data(entry)
 
     uri = 'https://gdata.youtube.com/feeds/api/users/%s/uploads/%s' % (username, entry['youtube'])
 
