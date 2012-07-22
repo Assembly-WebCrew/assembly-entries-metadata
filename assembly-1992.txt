@@ -72,9 +72,9 @@ author:unknown|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip|title:W
 :section Amiga intro
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga intro competition these programs are limited in size to 100 kilobytes. 100 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:Vectra|position:1|pouet:29217|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|title:Repo Intro
+author:Vectra|position:1|pouet:29217|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|title:Repo Intro|youtube:JEI_WMASvCc
 author:Wizzcat|position:2|title:unknown
-author:Smirre/Vectra|position:3|pouet:29214|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|title:Vector Hangover
+author:Smirre/Vectra|position:3|pouet:29214|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|title:Vector Hangover|youtube:gc9pI0UV6XM
 author:Banal Projects|pouet:11356|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|title:Pia Fraus
 author:Chrome|pouet:18725|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|title:Stolen Action Replay
 author:D-29|title:Assemblytime
