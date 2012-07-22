@@ -75,14 +75,15 @@ author:unknown|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip|title:W
 author:Vectra|position:1|pouet:29217|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|title:Repo Intro|youtube:JEI_WMASvCc
 author:Wizzcat|position:2|title:unknown
 author:Smirre/Vectra|position:3|pouet:29214|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-vectorhangover|title:Vector Hangover|youtube:gc9pI0UV6XM
-author:Banal Projects|pouet:11356|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|title:Pia Fraus
-author:Chrome|pouet:18725|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|title:Stolen Action Replay
+author:Banal Projects|pouet:11356|sceneorg:/parties/1992/assembly92/amiga/intro/banal-piafraus!|title:Pia Fraus|youtube:Fc_7I7MnyG8
+author:Chrome|pouet:18725|sceneorg:/parties/1992/assembly92/amiga/intro/chrome-assembly92|title:Stolen Action Replay|youtube:NfSlkFAQg7Q
 author:D-29|title:Assemblytime
 author:Doodle Foundation|title:We Are Back
-author:Genocide|pouet:33440|sceneorg:/parties/1992/assembly92/amiga/intro/genocide-nukeintro|title:Nuketro
+author:Genocide|pouet:33440|sceneorg:/parties/1992/assembly92/amiga/intro/genocide-nukeintro|title:Nuketro|youtube:fkuLr3RcQYg
+# XXX not-uploaded over 2GB file!
 author:Midnightsun|sceneorg:/parties/1992/assembly92/amiga/intro/midnightsun-dualism|title:Dualism
 author:Parallax|title:Slaves Of Sex
-author:Razer & Heathen God Design|sceneorg:/parties/1992/assembly92/amiga/intro/razer-cipher|title:Cipher
+author:Razer & Heathen God Design|sceneorg:/parties/1992/assembly92/amiga/intro/razer-cipher|title:Cipher|youtube:CoBdgxqgJ3U
 author:Rebels|pouet:2716|title:Assembly
 author:Sonic|pouet:32590|sceneorg:/parties/1992/assembly92/amiga/intro/sonic-irrepressible|title:Irrepressible
 author:Stellar|pouet:26098|sceneorg:/parties/1992/assembly92/amiga/intro/stellar-hard_to_be_god|title:Hard To Be God
