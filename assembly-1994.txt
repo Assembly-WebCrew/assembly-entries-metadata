@@ -96,31 +96,31 @@ author:Zden|position:11|pouet:24739|sceneorg:/parties/1994/assembly94/in4k/plasm
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Pygmy Projects|position:1|pouet:3419|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|title:G-force
-author:Razor 1911|position:2|pouet:7358|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|title:Falurecolor
-author:Stellar|dtv:id_file=4061&id_prod=2637&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3452.jpg&width=512&height=404|position:3|pouet:3452|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|title:Darkroom
-author:Hirmu|position:4|pouet:19532|sceneorg:/parties/1994/assembly94/amiga/in40/kampela.zip|title:Kampela
-author:Halo|position:5|pouet:19533|sceneorg:/parties/1994/assembly94/amiga/in40/halo40k.zip|title:40k Intro
+author:Razor 1911|position:2|pouet:7358|sceneorg:/parties/1994/assembly94/amiga/in40/falured.zip|title:Falurecolor|youtube:cJbBJanCd10
+author:Stellar|dtv:id_file=4061&id_prod=2637&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3452.jpg&width=512&height=404|position:3|pouet:3452|sceneorg:/parties/1994/assembly94/amiga/in40/darkroom.zip|title:Darkroom|youtube:tz9IaJ_65Yk
+author:Hirmu|position:4|pouet:19532|sceneorg:/parties/1994/assembly94/amiga/in40/kampela.zip|title:Kampela|youtube:Ziskpn1Z5qk
+author:Halo|position:5|pouet:19533|sceneorg:/parties/1994/assembly94/amiga/in40/halo40k.zip|title:40k Intro|youtube:w6G_XSq-tlg
 author:Razor 1911|position:6|pouet:7359|sceneorg:/parties/1994/assembly94/amiga/in40/sourceme.zip|title:Sourcemetery
-author:Oblivion|position:7|sceneorg:/parties/1994/assembly94/amiga/in40/wonderla.zip|title:Wonderland
-author:Lego|position:8|pouet:11361|sceneorg:/parties/1994/assembly94/amiga/in40/frontaln.zip|title:Full Frontal Nudity
+author:Oblivion|position:7|sceneorg:/parties/1994/assembly94/amiga/in40/wonderla.zip|title:Wonderland|youtube:-XHFvzcjpSw
+author:Lego|position:8|pouet:11361|sceneorg:/parties/1994/assembly94/amiga/in40/frontaln.zip|title:Full Frontal Nudity|youtube:HTEJKEYT_OI
 author:Insane|position:9|title:Meliopolis
 author:Complex|position:10|title:Sine
 author:Humane|position:11|pouet:24874|title:40k Intro
-author:Pointless|position:12|sceneorg:/parties/1994/assembly94/amiga/in40/iltis.zip|title:Iltis
-author:Abyss|position:13|pouet:26245|sceneorg:/parties/1994/assembly94/amiga/in40/artcore.zip|title:Artgore
-author:Halo|position:14|sceneorg:/parties/1994/assembly94/amiga/in40/halo2.zip|title:40k IntroII
-author:Oxygene|position:15|pouet:10358|sceneorg:/parties/1994/assembly94/amiga/in40/ride.zip|title:Ride
+author:Pointless|position:12|sceneorg:/parties/1994/assembly94/amiga/in40/iltis.zip|title:Iltis|youtube:89w9Fkzq29I
+author:Abyss|position:13|pouet:26245|sceneorg:/parties/1994/assembly94/amiga/in40/artcore.zip|title:Artgore|youtube:wJnqHXE8WxY
+author:Halo|position:14|sceneorg:/parties/1994/assembly94/amiga/in40/halo2.zip|title:40k IntroII|youtube:wHmHtJ32kL0
+author:Oxygene|position:15|pouet:10358|sceneorg:/parties/1994/assembly94/amiga/in40/ride.zip|title:Ride|youtube:yZqMXvjgFPE
 author:Imperium|position:16|title:Intro
-author:Sardonyx|position:17|pouet:31469|sceneorg:/parties/1994/assembly94/amiga/in40/eisaa.zip|title:Ei Saa Peittaa
+author:Sardonyx|position:17|pouet:31469|sceneorg:/parties/1994/assembly94/amiga/in40/eisaa.zip|title:Ei Saa Peittaa|youtube:2UDyMLK9vx0
 author:Disknet|position:18|title:Lousy Routines
-author:Boom Design|position:19|pouet:49306|sceneorg:/parties/1994/assembly94/amiga/in40/boom40k.zip|title:Intro
+author:Boom Design|position:19|pouet:49306|sceneorg:/parties/1994/assembly94/amiga/in40/boom40k.zip|title:Intro|youtube:QFIvOIEd3fI
 author:Insane|position:20|title:Kerppo
 author:Alien Adenoids|position:21|title:Intro
-author:Psionic|position:22|sceneorg:/parties/1994/assembly94/amiga/in40/psi.zip|title:Blizard of rakkks
+author:Psionic|position:22|sceneorg:/parties/1994/assembly94/amiga/in40/psi.zip|title:Blizard of rakkks|youtube:qNFFo_ADhao
 author:Evacue|position:23|sceneorg:/parties/1994/assembly94/amiga/in40/nil.zip|title:Nil
-author:Meka Design|position:24|sceneorg:/parties/1994/assembly94/amiga/in40/hotdog.zip|title:Hotdog
-author:Eclipse|position:25|pouet:51149|sceneorg:/parties/1994/assembly94/amiga/in40/gm2.zip|title:Gurumeditation II
-author:Exhouse|position:26|pouet:13338|sceneorg:/parties/1994/assembly94/amiga/in40/crap.zip|title:Crap!
+author:Meka Design|position:24|sceneorg:/parties/1994/assembly94/amiga/in40/hotdog.zip|title:Hotdog|youtube:QMRcxygz5xQ
+author:Eclipse|position:25|pouet:51149|sceneorg:/parties/1994/assembly94/amiga/in40/gm2.zip|title:Gurumeditation II|youtube:hIql5_VoD5U
+author:Exhouse|position:26|pouet:13338|sceneorg:/parties/1994/assembly94/amiga/in40/crap.zip|title:Crap!|youtube:QLzCePNwHnU
 
 
 :section C64 demo
@@ -139,14 +139,14 @@ author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.
 author:Vitual Dreams|position:2|pouet:2568|sceneorg:/parties/1994/assembly94/amiga/demo/vdbt.zip|title:Breath Taker
 author:Parallax|dtv:id_file=3971&id_prod=3270&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/7971.gif&width=512&height=404|position:3|pouet:7971|sceneorg:/parties/1994/assembly94/amiga/demo/drool.zip|title:Drool This
 author:Alcatraz|dtv:id_file=4919&id_prod=13532&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10359_1.jpg&width=512&height=404|position:4|pouet:10359|sceneorg:/parties/1994/assembly94/amiga/demo/ilyad.zip|title:Ilyad
-author:Juliet & Case|position:5|pouet:14991|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|title:Cccp
+author:Juliet & Case|position:5|pouet:14991|sceneorg:/parties/1994/assembly94/amiga/demo/cccp.zip|title:Cccp|youtube:-sTxeujzsuA
 author:Rage|position:6|pouet:9106|sceneorg:/parties/1994/assembly94/amiga/demo/rage1.dms;/parties/1994/assembly94/amiga/demo/rage2.dms;/parties/1994/assembly94/amiga/demo/rage3.dms|title:Maxium Overdrive II
-author:Insane|position:7|pouet:17249|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|title:Despair
-author:Analogy|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404|position:8|pouet:23217|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|title:Sup.l# $7fd1
-author:Delon|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404|position:9|pouet:7617|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|title:Final Condom
+author:Insane|position:7|pouet:17249|sceneorg:/parties/1994/assembly94/amiga/demo/insane.zip|title:Despair|youtube:b6bMaaPFlBY
+author:Analogy|dtv:id_file=4014&id_prod=12361&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/23217.png&width=512&height=404|position:8|pouet:23217|sceneorg:/parties/1994/assembly94/amiga/demo/analogy.zip|title:Sup.l# $7fd1|youtube:cxRWKBlg_sA
+author:Delon|dtv:id_file=4040&id_prod=12860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/finalcondom.jpg&width=512&height=404|position:9|pouet:7617|sceneorg:/parties/1994/assembly94/amiga/demo/finalcon.zip|title:Final Condom|youtube:7UyLnHPk2hU
 author:unknown|position:10|pouet:12349|sceneorg:/parties/1994/assembly94/amiga/demo/illflow.zip|title:Ill Flower
-author:Embassy|position:11|pouet:6681|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|title:Creme
-author:Emt Design|position:12|pouet:17250|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|title:Hardday
+author:Embassy|position:11|pouet:6681|sceneorg:/parties/1994/assembly94/amiga/demo/creme.zip|title:Creme|youtube:lqnWiNReTAA
+author:Emt Design|position:12|pouet:17250|sceneorg:/parties/1994/assembly94/amiga/demo/hardday.zip|title:Hardday|youtube:3guE29QDUYo
 
 
 :section Graphics
