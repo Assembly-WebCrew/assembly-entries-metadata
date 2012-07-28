@@ -89,3 +89,7 @@ author:Stellar|pouet:26098|sceneorg:/parties/1992/assembly92/amiga/intro/stellar
 author:The Silents|title:Plasma Vectors
 author:World Industries|pouet:28302|sceneorg:/parties/1992/assembly92/amiga/intro/world_ind-assintro|title:Assemblo
 
+:section Misc
+author:Future Crew|title:Fishtro|pouet:1283|sceneorg:/demos/groups/future_crew/intros/fishtro.zip|description:Assembly 1992 PC invitation intro.
+author:Rebels and Complex|title:Assembly 92 Invitation Demo|pouet:2716|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS&COMPLEX-Ass92Inv|description:Assembly 1992 Amiga invitation demo.
+author:Rebels|title:Assembly 92 Invitation Intro|pouet:31956|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS-Asm92InfoIntro01|description:Assembly 1992 Amiga invitation intro.

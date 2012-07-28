@@ -137,3 +137,5 @@ author:Blizzard / Epical|position:8|title:Hidden Shadows
 author:Mellow-D / Sonic-PC|position:9|title:Fast Changer II
 author:Dune / Humane|position:10|title:Dementic Dream
 
+:section Misc
+author:Future Crew|title:Assembly '93 invitation intro|pouet:1281|sceneorg:/demos/groups/future_crew/intros/asm-93.zip|description:Assembly 1993 invitation intro.

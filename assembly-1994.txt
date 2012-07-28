@@ -192,3 +192,7 @@ author:Doomsday Productions|position:8|pouet:3962|sceneorg:/parties/1994/assembl
 author:Paragon|position:9|pouet:18290|sceneorg:/parties/1994/assembly94/in64/dash.zip|title:Dash
 author:Orange|position:10|pouet:13764|sceneorg:/parties/1994/assembly94/in64/4kings.zip|title:4Kings|youtube:RN4kY0uKJls
 
+:section Misc
+
+author:Future Crew and Sonic PC|title:Assembly'94 Pre-Invitation Intro|description:Assembly 1994 invitation intro.|sceneorg:/pub/parties/1994/assembly94/info/asm-94.zip|pouet:3002
+author:Future Crew and Sonic PC|title:Assembly '94 Invitation Dentro|description:Assembly 1994 invitation intro.|sceneorg:/pub/parties/1994/assembly94/info/asm-94_2.zip|pouet:1282
