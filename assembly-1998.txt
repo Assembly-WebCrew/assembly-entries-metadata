@@ -425,3 +425,5 @@ author:Universe|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip|title:Fu
 author:Reality Benders|pouet:6506|sceneorg:/parties/1998/assembly98/pc64kint/375-lock.zip|title:Lockdown
 author:eufrosyne|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip|title:transformers
 
+:section Misc
+author:The Black Lotus|title:ASSEMBLY '98 quick invitation|description:Assembly 1998 invitation intro.|pouet:4|sceneorg:/pub/demos/groups/tbl/pc/asm98inv.zip
