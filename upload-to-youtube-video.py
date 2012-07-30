@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import argparse
 import asmmetadata
 import os.path
@@ -90,12 +91,16 @@ for line in sys.stdin:
 
     position = entryinfo.get('position', None)
     if position is None:
-        position_filename = "9%02d" % zero_position
+        #position_filename = "9%02d" % zero_position
+        position_filename = "-99"
     else:
-        position_filename = "%02d" % position
+        position_filename = "-%02d" % position
+
+    if section.lower() in ["misc", "assemblytv", "winter", "seminars"]:
+        position_filename = ""
 
     source_file_base = asmmetadata.normalize_key(
-        "%s-%s-%s-%s-by-%s" % (
+        "%s-%s%s-%s-by-%s" % (
             year,
             section,
             position_filename,
