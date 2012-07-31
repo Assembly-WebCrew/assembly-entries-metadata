@@ -27,6 +27,16 @@ def get_party_tags(year, section_name):
         tags.append("asm2k")
     return tags
 
+def get_entry_name(entry):
+    section_name = entry['section']['name']
+    title = entry['title']
+    author = entry['author']
+    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
+        name = title
+    else:
+        name = "%s by %s" % (title, author)
+    return name
+
 def get_content_types(section_name):
     normalized_section_name = normalize_key(section_name)
 
@@ -156,9 +166,10 @@ def normalize_key(value):
 
 class EntryYear(object):
     year = None
-    sections = []
-    entries = []
 
+    def __init__(self):
+        self.sections = []
+        self.entries = []
 
 def parse_entry_line(line):
     try:
@@ -198,7 +209,7 @@ def parse_file(file_handle):
                 assert year is not None
                 section_name = value
                 normalized_section = normalize_key(section_name)
-                assert not normalized_section in [section['key'] for section in result.sections]
+                assert not normalized_section in [section['key'] for section in result.sections], "Section %s was defined for the second time." % normalized_section
                 section = {
                     'key': normalized_section,
                     'name': section_name,
@@ -330,10 +341,7 @@ def get_youtube_info_data(entry):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
-    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
-        name = title
-    else:
-        name = "%s by %s" % (title, author)
+    name = get_entry_name(entry)
 
     position = entry.get('position', 0)
 
