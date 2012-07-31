@@ -175,7 +175,7 @@ author:RocketScience|position:10|pouet:10591|sceneorg:/parties/2003/assembly03/d
 author:faktory|position:11|pouet:10539|sceneorg:/parties/2003/assembly03/demo/feed_your_machine_by_faktory_1.zip|title:feed your machine
 author:Visualice, Chaos, Vic|dtv:id_file=3004&id_prod=13119&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10542_2.jpg&width=512&height=404|position:12|pouet:10542|sceneorg:/parties/2003/assembly03/demo/fr-031__faded_memories_by_visualice__chaos__vic.zip|title:fr-031: Faded Memories
 author:fairlight|position:13|pouet:10548|sceneorg:/parties/2003/assembly03/demo/digitial_dynamix_by_fairlight.zip|title:digital dynamix
-author:amc|position:14|pouet:14262|sceneorg:/parties/2003/assembly03/demo/we_owe_a_cock_to_aesculapius_by_amc.zip|title:we owe a cock to aesculapius
+author:amc|position:14|pouet:14262|sceneorg:/parties/2003/assembly03/demo/we_owe_a_cock_to_aesculapius_by_amc.zip|title:we owe a cock to aesculapius|youtube:StGNSZufyb4
 author:Syn[Rj] and Silents|pouet:10543|sceneorg:/parties/2003/assembly03/demo/abstrakt_by_syn_rj__and_silents.zip|title:abstrakt
 author:Bohemiq|pouet:10581|sceneorg:/parties/2003/assembly03/demo/art_nouveau_by_bohemiq.zip|title:Art Nouveau
 author:Moonhazard+friends|pouet:10677|sceneorg:/parties/2003/assembly03/demo/we_are_going_to_kill_you_by_moonhazard+friends.zip|title:We are going to kill you
@@ -339,7 +339,7 @@ author:Murphy / SDK|pouet:28639|sceneorg:/parties/2003/assembly03/anim/raytracer
 author:AND + Cybermag|dtv:id_file=2995&id_prod=12285&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10545.jpg&width=512&height=404|position:1|pouet:10545|sceneorg:/parties/2003/assembly03/in64/zoom3_by_and_+_cybermag.zip|title:Zoom3
 author:cryonics|position:2|pouet:10547|sceneorg:/parties/2003/assembly03/in64/svenskarna__r_h_r___j_rn_st_l_auw__by_cryonics.zip|title:SVENSKARNA ÄR HÄR! (järn&stål&auw)
 author:Fit|position:3|pouet:10576|sceneorg:/parties/2003/assembly03/in64/leeko_win.zip|title:Leeko
-author:tAAt 2003|position:4|pouet:10556|sceneorg:/parties/2003/assembly03/in64/skid_wrinkles_-_jarrurypyt_by_taat_2003_1.zip|title:Skid Wrinkles - Jarrurypyt
+author:tAAt 2003|position:4|pouet:10556|sceneorg:/parties/2003/assembly03/in64/skid_wrinkles_-_jarrurypyt_by_taat_2003_1.zip|title:Skid Wrinkles - Jarrurypyt|youtube:
 author:Kewlers|position:5|pouet:10541|sceneorg:/parties/2003/assembly03/in64/oddjobb_by_kewlers.zip|title:Oddjobb
 author:Hipo / Lonely Coders|position:6|sceneorg:/parties/2003/assembly03/in64/my_paper_pony_by_hipo___lonely_coders.tgz|title:My Paper Pony
 author:Moonhazard|position:7|pouet:10549|sceneorg:/parties/2003/assembly03/in64/transqlation_by_moonhazard.zip|title:Transqlation
