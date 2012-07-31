@@ -140,7 +140,7 @@ author:HaH|sceneorg:/parties/1998/assembly98/raytrace/jonui_wi.zip|title:Jonui, 
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1998 PCs.</p>
 
 author:Lionhead|position:1|pouet:2555|sceneorg:/parties/1998/assembly98/windowsd/bleam_wi.zip|title:Bleam (win version)
-author:m.A.d Software|position:2|pouet:8057|sceneorg:/parties/1998/assembly98/windowsd/this_is_.zip|title:This is how we party
+author:m.A.d Software|position:2|pouet:8057|sceneorg:/parties/1998/assembly98/windowsd/this_is_.zip|title:This is how we party|youtube:nuTb1PmCyr8
 author:Refinition & Dimercis|position:3|pouet:25490|sceneorg:/parties/1998/assembly98/windowsd/demonic_.zip|title:Demonic
 author:Cheat The Machine|position:4|pouet:25239|sceneorg:/parties/1998/assembly98/windowsd/anonymou.zip|title:ANONYMOUS
 
