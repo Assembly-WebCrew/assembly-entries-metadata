@@ -109,8 +109,8 @@ author:unique|position:2|title:e338
 
 author:Exploder of PUSH Entertainment|dtv:id_file=3829&id_prod=5174&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3378.jpg&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM01 4k - 1st - Humus 2 by Exploder of PUSH Entertainment_h264_1856kbit.mp4|position:1|pouet:3378|sceneorg:/parties/2001/assembly01/in4k/humus2.lzx|title:Humus 2|youtube:Ef0KGpWejZI
 author:Spaceballs VS Ephidrena|dtv:id_file=3875&id_prod=5892&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3372.jpg&width=512&height=404|position:2|pouet:3372|sceneorg:/parties/2001/assembly01/in4k/kof.lha|title:King of Fuck
-author:yobi /wAMMA|position:3|pouet:6404|sceneorg:/parties/2001/assembly01/in4k/motion_sickness_by_yobi__wamma.zip|title:Motion sickness
-author:Itchi / Lonely Coders|position:4|pouet:8844|sceneorg:/parties/2001/assembly01/in4k/paridisio_by_itchi___lonely_coders.zip|title:Paridisio
+author:yobi /wAMMA|position:3|pouet:6404|sceneorg:/parties/2001/assembly01/in4k/motion_sickness_by_yobi__wamma.zip|title:Motion sickness|youtube:Z7uK381rZUM
+author:Itchi / Lonely Coders|position:4|pouet:8844|sceneorg:/parties/2001/assembly01/in4k/paridisio_by_itchi___lonely_coders.zip|title:Paridisio|youtube:iN0HPvUaZXo
 author:Analog44/array|position:5|pouet:5739|sceneorg:/parties/2001/assembly01/in4k/callback_by_analog44_array.zip|title:Callback|youtube:4oqgczkDNOg
 author:Dairos/Nano|position:6|pouet:3304|sceneorg:/parties/2001/assembly01/in4k/acid_stars_by_dairos_nano.zip|title:Acid Stars
 author:Holisterit|position:7|pouet:6282|sceneorg:/parties/2001/assembly01/in4k/corzi.zip|title:Corzi4k
