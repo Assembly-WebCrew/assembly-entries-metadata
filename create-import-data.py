@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
+import argparse
 import asmmetadata
 import base64
 import cgi
-import optparse
 import os.path
 import sys
 import time
@@ -12,16 +12,15 @@ from xml.sax.saxutils import quoteattr
 
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
-parser = optparse.OptionParser()
-parser.add_option("--no-empty", dest="noempty", action="store_true",
+parser = argparse.ArgumentParser()
+parser.add_argument("files_root", metavar="files-root")
+parser.add_argument("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
 
-(options, args) = parser.parse_args()
-if len(args) != 1:
-    parser.error("Need to give file root.")
-FILEROOT = args[0]
+args = parser.parse_args()
+FILEROOT = args.files_root
 
-create_empty_sections = not options.noempty
+create_empty_sections = not args.noempty
 
 def display_asset(path, title, data):
     return """

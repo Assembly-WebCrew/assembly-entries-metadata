@@ -200,19 +200,19 @@ author:Traction|media:/vod/.oldies-goldies/compos/ASM02 Demo - 15th - NET by Tra
 author:Jumalauta|sceneorg:/parties/2002/assembly02/demo/kozmik_by_jumalauta.zip|title:Kozmik
 author:Fingersoft|sceneorg:/parties/2002/assembly02/demo/devastation_by_fingersoft_3.zip|title:DevaStation
 author:Moonhazard|sceneorg:/parties/2002/assembly02/demo/limonite_by_moonhazard.zip|title:Limonite|youtube:huiyUl3zxw0
-author:Surface Grant|sceneorg:/parties/2002/assembly02/demo/marutaka501_by_surface_grant.zip|title:marutaka501
+author:Surface Grant|sceneorg:/parties/2002/assembly02/demo/marutaka501_by_surface_grant.zip|title:marutaka501|youtube:t9NyXvPIyYs
 author:tAAt|sceneorg:/parties/2002/assembly02/demo/laatukauraa_by_taat.tgz|title:Laatukauraa
 author:mfx|pouet:7148|sceneorg:/parties/2002/assembly02/demo/mother_mother__my_ears_bleed_by_mfx.zip|title:mother mother, my ears bleed
 author:Täti Pensiö|sceneorg:/parties/2002/assembly02/demo/the_hip_old_skool_demo_by_t_ti_pensi_.zip|title:The Hip Old Skool Demo
 author:R.R.E|sceneorg:/parties/2002/assembly02/demo/kraah_by_r_r_e_final.zip|title:KRAAH
 author:Dream Dust|sceneorg:/parties/2002/assembly02/demo/bananas_revenge_by_dream_dust.zip|title:Bananas Revenge|youtube:3rHGeYVeJ5Y
 author:notion|sceneorg:/parties/2002/assembly02/demo/mindless_by_mindless_by_notion.zip|title:mindless by mindless|youtube:PtnZYTDEnmk
-author:Fobia Design|sceneorg:/parties/2002/assembly02/demo/kesken_by_fobia_design.zip|title:kesken
-author:Plastic|sceneorg:/parties/2002/assembly02/demo/karamell__update__by_plastic.zip|title:Karamell (update)
-author:Immersion|sceneorg:/parties/2002/assembly02/demo/haste_by_immersion.zip|title:Haste
-author:Boolean, Spikeheddd, Handle / Group|sceneorg:/parties/2002/assembly02/demo/morjen_by_boolean__spikeheddd__handle___group.zip|title:Morjen
+author:Fobia Design|sceneorg:/parties/2002/assembly02/demo/kesken_by_fobia_design.zip|title:kesken|youtube:YeIaTKKBHb0
+author:Plastic|sceneorg:/parties/2002/assembly02/demo/karamell__update__by_plastic.zip|title:Karamell (update)|youtube:rUeNIR8FheQ
+author:Immersion|sceneorg:/parties/2002/assembly02/demo/haste_by_immersion.zip|title:Haste|youtube:ZJXb9CLqCC4
+author:Boolean, Spikeheddd, Handle / Group|sceneorg:/parties/2002/assembly02/demo/morjen_by_boolean__spikeheddd__handle___group.zip|title:Morjen|youtube:iZcio2Kdwd8
 author:Anti Flash Konsortium|sceneorg:/parties/2002/assembly02/demo/wir_sind_raus_by_anti_flash_konsortium.zip|title:Wir sind raus
-author:Ananasmurska|pouet:8834|sceneorg:/parties/2002/assembly02/demo/spring_by_ananasmurska_final.zip|title:Spring
+author:Ananasmurska|pouet:8834|sceneorg:/parties/2002/assembly02/demo/spring_by_ananasmurska_final.zip|title:Spring|youtube:XYQsgE_WSfM
 author:Art mafia collective|sceneorg:/parties/2002/assembly02/demo/my_dreams_by_art_mafia_collective.zip|title:My Dreams
 
 
@@ -447,8 +447,8 @@ author:calodox|position:7|pouet:7105|sceneorg:/parties/2002/assembly02/in4k/kwak
 author:Northern Dragons|position:8|pouet:9311|sceneorg:/parties/2002/assembly02/in4k/trees_by_northern_dragons.zip|title:Trees
 author:Plastic|position:9|pouet:20611|sceneorg:/parties/2002/assembly02/in4k/powerhug_by_plastic.zip|title:Powerhug
 author:HeadcrasH|position:10|pouet:7120|sceneorg:/parties/2002/assembly02/in4k/c_hello_by_headcrash.zip|title:c.hello
-author:lenin_ra|position:11|pouet:20612|sceneorg:/parties/2002/assembly02/in4k/lametus_by_lenin_ra.zip|title:lametus
-author:Itchi / Lonely Coders|position:12|pouet:20613|sceneorg:/parties/2002/assembly02/in4k/sifiela_by_itchi___lonely_coders.zip|title:Sifiela
+author:lenin_ra|position:11|pouet:20612|sceneorg:/parties/2002/assembly02/in4k/lametus_by_lenin_ra.zip|title:lametus|youtube:pN145Gmtloc
+author:Itchi / Lonely Coders|position:12|pouet:20613|sceneorg:/parties/2002/assembly02/in4k/sifiela_by_itchi___lonely_coders.zip|title:Sifiela|youtube:QdNEyn7Krsk
 
 
 :section Vocal music
