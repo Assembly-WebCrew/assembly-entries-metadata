@@ -168,26 +168,26 @@ author:Complex|cappedtv:complex-doomsday&width=320&height=240|dtv:id_file=3838&i
 author:Andromeda Software Development|cappedtv:asd-dream_child&width=640&height=480|dtv:id_file=3043&id_prod=3240&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10530.jpg&width=512&height=404|position:4|pouet:10530|sceneorg:/parties/2003/assembly03/demo/dreamchild_by_andromeda_software_development.zip|title:Dreamchild
 author:PUSH Entertainment|cappedtv:1208452368-1-0&width=352&height=160|position:5|pouet:10571|sceneorg:/parties/2003/assembly03/demo/mental_by_push_entertainment.lzx|sceneorgvideo:/parties/2003/assembly03/demo/push-mental.avi|title:Mental|youtube:TAze4rfcrcA
 author:Kewlers|cappedtv:1207004592-1-0&width=634&height=362|dtv:id_file=3036&id_prod=10&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10544.jpg&width=512&height=404|position:6|pouet:10544|sceneorg:/parties/2003/assembly03/demo/a_significant_deformation_near_the_cranium_by_kewlers.zip|title:A Significant Deformation Near The Cranium
-author:David Hasselhoff Fan Club|position:7|pouet:10579|sceneorg:/parties/2003/assembly03/demo/pitt_by_david_hasselhoff_fan_club.zip|title:PITT
+author:David Hasselhoff Fan Club|position:7|pouet:10579|sceneorg:/parties/2003/assembly03/demo/pitt_by_david_hasselhoff_fan_club.zip|title:PITT|youtube:tbLt62S50Tc
 author:Traction|dtv:id_file=3037&id_prod=420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10551.jpg&width=512&height=404|position:8|pouet:10551|sceneorg:/parties/2003/assembly03/demo/a_study_in_lines_and_textures_by_traction.zip|title:A Study in Lines and Textures
 author:mfx|position:9|pouet:10560|sceneorg:/parties/2003/assembly03/demo/predator_by_mfx.zip|title:Predator
 author:RocketScience|position:10|pouet:10591|sceneorg:/parties/2003/assembly03/demo/3000_by_rocketscience_2.zip|title:3000
-author:faktory|position:11|pouet:10539|sceneorg:/parties/2003/assembly03/demo/feed_your_machine_by_faktory_1.zip|title:feed your machine
+author:faktory|position:11|pouet:10539|sceneorg:/parties/2003/assembly03/demo/feed_your_machine_by_faktory_1.zip|title:feed your machine|youtube:BOVAXn34PoY
 author:Visualice, Chaos, Vic|dtv:id_file=3004&id_prod=13119&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10542_2.jpg&width=512&height=404|position:12|pouet:10542|sceneorg:/parties/2003/assembly03/demo/fr-031__faded_memories_by_visualice__chaos__vic.zip|title:fr-031: Faded Memories
 author:fairlight|position:13|pouet:10548|sceneorg:/parties/2003/assembly03/demo/digitial_dynamix_by_fairlight.zip|title:digital dynamix
 author:amc|position:14|pouet:14262|sceneorg:/parties/2003/assembly03/demo/we_owe_a_cock_to_aesculapius_by_amc.zip|title:we owe a cock to aesculapius|youtube:StGNSZufyb4
 author:Syn[Rj] and Silents|pouet:10543|sceneorg:/parties/2003/assembly03/demo/abstrakt_by_syn_rj__and_silents.zip|title:abstrakt
 author:Bohemiq|pouet:10581|sceneorg:/parties/2003/assembly03/demo/art_nouveau_by_bohemiq.zip|title:Art Nouveau
-author:Moonhazard+friends|pouet:10677|sceneorg:/parties/2003/assembly03/demo/we_are_going_to_kill_you_by_moonhazard+friends.zip|title:We are going to kill you
-author:tAAt|pouet:10532|sceneorg:/parties/2003/assembly03/demo/em_ssika_-_alkali_pig_by_taat_1.zip|title:Emässika - Alkali Pig
-author:Korso Karate plus plus|pouet:10535|sceneorg:/parties/2003/assembly03/demo/artwork_network_by_korso_karate_plus_plus.zip|title:Artwork Network
-author:PKS|sceneorg:/parties/2003/assembly03/demo/warped_reality_by_pks.zip|title:Warped reality
-author:Marshals|pouet:10568|sceneorg:/parties/2003/assembly03/demo/therapydottwo_by_marshals.zip|title:therapydottwo
-author:Group|sceneorg:/parties/2003/assembly03/demo/the_gnosis_cult_by_group.zip|title:The Gnosis Cult
+author:Moonhazard+friends|pouet:10677|sceneorg:/parties/2003/assembly03/demo/we_are_going_to_kill_you_by_moonhazard+friends.zip|title:We are going to kill you|youtube:pCIczxgnn50
+author:tAAt|pouet:10532|sceneorg:/parties/2003/assembly03/demo/em_ssika_-_alkali_pig_by_taat_1.zip|title:Emässika - Alkali Pig|youtube:a6IMeABZ9LQ
+author:Korso Karate plus plus|pouet:10535|sceneorg:/parties/2003/assembly03/demo/artwork_network_by_korso_karate_plus_plus.zip|title:Artwork Network|youtube:WiccOYBDyRo
+author:PKS|sceneorg:/parties/2003/assembly03/demo/warped_reality_by_pks.zip|title:Warped reality|youtube:Rbh52Q4l9sQ
+author:Marshals|pouet:10568|sceneorg:/parties/2003/assembly03/demo/therapydottwo_by_marshals.zip|title:therapydottwo|youtube:yC2M_2Glm4Y
+author:Group|sceneorg:/parties/2003/assembly03/demo/the_gnosis_cult_by_group.zip|title:The Gnosis Cult|youtube:5m0r-lNjNBw
 author:Lasi Interactive|sceneorg:/parties/2003/assembly03/demo/is_this_totalizator__by_lasi_interactive.tgz|title:Is this totalizator?
-author:massive unlimited|sceneorg:/parties/2003/assembly03/demo/periferia_by_massive_unlimited.zip|title:periferia
-author:umi_tanuki|sceneorg:/parties/2003/assembly03/demo/heart_to_yebis_by_umi_tanuki.zip|title:Heart to Yebis
-author:Bad Karma|pouet:10596|sceneorg:/parties/2003/assembly03/demo/tears_of_pain_by_bad_karma_1.zip|title:Tears of Pain
+author:massive unlimited|sceneorg:/parties/2003/assembly03/demo/periferia_by_massive_unlimited.zip|title:periferia|youtube:Jdcb0YOFZSM
+author:umi_tanuki|sceneorg:/parties/2003/assembly03/demo/heart_to_yebis_by_umi_tanuki.zip|title:Heart to Yebis|youtube:bwISHlYAlWc
+author:Bad Karma|pouet:10596|sceneorg:/parties/2003/assembly03/demo/tears_of_pain_by_bad_karma_1.zip|title:Tears of Pain|youtube:4lKskche5g4
 author:tukka|pouet:10529|sceneorg:/parties/2003/assembly03/demo/guage_rulz_by_tukka.zip|title:Guage Rulz
 author:RRE|sceneorg:/parties/2003/assembly03/demo/m1nt-t34_by_rre_1.zip|title:m1nt-t34
 
@@ -338,20 +338,20 @@ author:Murphy / SDK|pouet:28639|sceneorg:/parties/2003/assembly03/anim/raytracer
 
 author:AND + Cybermag|dtv:id_file=2995&id_prod=12285&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10545.jpg&width=512&height=404|position:1|pouet:10545|sceneorg:/parties/2003/assembly03/in64/zoom3_by_and_+_cybermag.zip|title:Zoom3
 author:cryonics|position:2|pouet:10547|sceneorg:/parties/2003/assembly03/in64/svenskarna__r_h_r___j_rn_st_l_auw__by_cryonics.zip|title:SVENSKARNA ÄR HÄR! (järn&stål&auw)
-author:Fit|position:3|pouet:10576|sceneorg:/parties/2003/assembly03/in64/leeko_win.zip|title:Leeko
+author:Fit|position:3|pouet:10576|sceneorg:/parties/2003/assembly03/in64/leeko_win.zip|title:Leeko|youtube:VmULmfsi9q8
 author:tAAt 2003|position:4|pouet:10556|sceneorg:/parties/2003/assembly03/in64/skid_wrinkles_-_jarrurypyt_by_taat_2003_1.zip|title:Skid Wrinkles - Jarrurypyt|youtube:
 author:Kewlers|position:5|pouet:10541|sceneorg:/parties/2003/assembly03/in64/oddjobb_by_kewlers.zip|title:Oddjobb
 author:Hipo / Lonely Coders|position:6|sceneorg:/parties/2003/assembly03/in64/my_paper_pony_by_hipo___lonely_coders.tgz|title:My Paper Pony
 author:Moonhazard|position:7|pouet:10549|sceneorg:/parties/2003/assembly03/in64/transqlation_by_moonhazard.zip|title:Transqlation
 author:aikarele|position:8|pouet:10585|sceneorg:/parties/2003/assembly03/in64/raskasmetallia_by_aikarele.zip|title:raskasmetallia
-author:Deus ex Machina + Cryonics|position:9|pouet:10550|sceneorg:/parties/2003/assembly03/in64/kolme_missifitti_by_deus_ex_machina_+_cryonics.zip|title:Kolme Missifitti
+author:Deus ex Machina + Cryonics|position:9|pouet:10550|sceneorg:/parties/2003/assembly03/in64/kolme_missifitti_by_deus_ex_machina_+_cryonics.zip|title:Kolme Missifitti|youtube:lFZugMHaN3Q
 author:proMille deZign|position:10|pouet:10553|sceneorg:/parties/2003/assembly03/in64/ruoste_by_promille_dezign.zip|title:ruoste
 author:Aspekt|position:11|pouet:10595|sceneorg:/parties/2003/assembly03/in64/vaara_by_aspekt_2.zip|title:vaara
 author:fingersoft|position:12|pouet:10552|sceneorg:/parties/2003/assembly03/in64/kwark_by_fingersoft.zip|title:kwark
-author:Kuake|pouet:10609|sceneorg:/parties/2003/assembly03/in64/koirankoppi_ilmi__by_kuake.zip|title:Koirankoppi ilmiö
-author:exilis|sceneorg:/parties/2003/assembly03/in64/sabi_by_exilis.zip|title:sabi
-author:Xtatic ft. guest stars|pouet:10555|sceneorg:/parties/2003/assembly03/in64/simplism_by_xtatic_ft__guest_stars.zip|title:Simplism
-author:Sphere Replikants|pouet:10554|sceneorg:/parties/2003/assembly03/in64/trace_of_chaos_2_by_sphere_replikants.zip|title:Trace of Chaos 2
+author:Kuake|pouet:10609|sceneorg:/parties/2003/assembly03/in64/koirankoppi_ilmi__by_kuake.zip|title:Koirankoppi ilmiö|youtube:dmCJc0jNiEQ
+author:exilis|sceneorg:/parties/2003/assembly03/in64/sabi_by_exilis.zip|title:sabi|youtube:coGG4wl8_9c
+author:Xtatic ft. guest stars|pouet:10555|sceneorg:/parties/2003/assembly03/in64/simplism_by_xtatic_ft__guest_stars.zip|title:Simplism|youtube:4TlmhqMjUfI
+author:Sphere Replikants|pouet:10554|sceneorg:/parties/2003/assembly03/in64/trace_of_chaos_2_by_sphere_replikants.zip|title:Trace of Chaos 2|youtube:wQGIZQE1Qkg
 author:Efe / THP|sceneorg:/parties/2003/assembly03/in64/tuure_korhonen_by_efe___thp_1.zip|title:Tuure Korhonen
 
 
