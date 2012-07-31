@@ -56,7 +56,7 @@ author:addiction + unique|position:9|pouet:3653|sceneorg:/parties/2000/assembly0
 author:Static|position:10|pouet:460|sceneorg:/parties/2000/assembly00/in64/heartbea.zip|title:Heartbeat
 author:Whelpz|position:11|pouet:3994|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|title:Rays
 author:.sPOOn.|position:12|pouet:3619|sceneorg:/parties/2000/assembly00/in64/presence.zip|title:Presence
-author:No Pants Productions|position:13|pouet:204|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|title:Seeking
+author:No Pants Productions|position:13|pouet:204|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|title:Seeking|youtube:ZpRPcmqkI2g
 
 
 :section Oldskool demo
@@ -83,11 +83,11 @@ author:Depth & Mystic|position:14|pouet:13320|sceneorg:/parties/2000/assembly00/
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
 author:Exceed|cappedtv:1208980142-1-0&width=512&height=384|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|position:1|pouet:120|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|title:Spot
-author:Haujobb|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404|position:2|pouet:125|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|title:Art
+author:Haujobb|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404|position:2|pouet:125|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|title:Art|youtube:SUI1lzrWEwY
 author:maturefurk|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404|position:3|pouet:130|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|title:lapsus
 author:Doomsday|position:4|pouet:481|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|title:Lotto
-author:Orange|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404|position:5|pouet:129|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|title:the nonstop ibiza experience
-author:damage|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404|position:6|pouet:588|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|title:en haluaisi olla
+author:Orange|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404|position:5|pouet:129|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|title:the nonstop ibiza experience|youtube:sF6lq-XkNbQ
+author:damage|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404|position:6|pouet:588|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|title:en haluaisi olla|youtube:M8BLHrFtp8A
 author:Sol/Trauma|position:7|pouet:473|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|title:Stuff I whacked together when I was bored.
 author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip|title:HAUgyJOBB
 author:Noice|dtv:id_file=4025&id_prod=3559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/124.jpg&width=512&height=404|position:9|pouet:124|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|title:Enlight The Surreal
@@ -161,17 +161,17 @@ author:haujobb|position:2|pouet:2433|sceneorg:/parties/2000/assembly00/psx/rankk
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 author:Exploder|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404|position:1|pouet:3377|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|title:Humus
-author:NoID|position:2|pouet:7614|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|title:The Blue Man
-author:Digimind|position:3|pouet:12222|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|title:Mercury
+author:NoID|position:2|pouet:7614|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|title:The Blue Man|youtube:X8SoqSRrzAE
+author:Digimind|position:3|pouet:12222|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|title:Mercury|youtube:ECm1ZrEMll4
 author:Moottori|position:4|pouet:14256|sceneorg:/parties/2000/assembly00/in4k/penseys_.zip|title:Penseys
-author:Itchi / THP|position:5|pouet:14258|sceneorg:/parties/2000/assembly00/in4k/doublert.zip|title:Doublert
+author:Itchi / THP|position:5|pouet:14258|sceneorg:/parties/2000/assembly00/in4k/doublert.zip|title:Doublert|youtube:bTQVzXR2yRo
 author:BuG|position:6|pouet:14259|sceneorg:/parties/2000/assembly00/in4k/efecticu.zip|title:Efecticus Complicus
-author:hiteck|position:7|pouet:12221|sceneorg:/parties/2000/assembly00/in4k/tubular_.zip|title:Tubular Vectors
+author:hiteck|position:7|pouet:12221|sceneorg:/parties/2000/assembly00/in4k/tubular_.zip|title:Tubular Vectors|youtube:ikQCbnl3qw4
 author:NEXTEMPIRE|position:8|pouet:488|sceneorg:/parties/2000/assembly00/in4k/pacman4k.zip|title:pacman4k
-author:Dairos|position:9|pouet:13333|sceneorg:/parties/2000/assembly00/in4k/petium_b.zip|title:Petium
-author:suckho of byterapers, inc|position:10|pouet:2493|sceneorg:/parties/2000/assembly00/in4k/200_byte.zip|title:200 bytes of party beers
-author:HeadcrasH|position:11|pouet:14260|sceneorg:/parties/2000/assembly00/in4k/4k2_by_h.zip|title:4K2
-author:kilobite|position:12|pouet:14261|sceneorg:/parties/2000/assembly00/in4k/oliphaun.zip|title:oliphaunt
+author:Dairos|position:9|pouet:13333|sceneorg:/parties/2000/assembly00/in4k/petium_b.zip|title:Petium|youtube:SiMt5Nn9w_w
+author:suckho of byterapers, inc|position:10|pouet:2493|sceneorg:/parties/2000/assembly00/in4k/200_byte.zip|title:200 bytes of party beers|youtube:Z4e_NRPWTwQ
+author:HeadcrasH|position:11|pouet:14260|sceneorg:/parties/2000/assembly00/in4k/4k2_by_h.zip|title:4K2|youtube:XifaGr9zGZQ
+author:kilobite|position:12|pouet:14261|sceneorg:/parties/2000/assembly00/in4k/oliphaun.zip|title:oliphaunt|youtube:L3wCi8ZiLZI
 
 
 :section Animation

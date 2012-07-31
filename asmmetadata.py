@@ -18,11 +18,11 @@ def get_party_name(year, section_name):
 def get_party_tags(year, section_name):
     tags = []
     if year < 2007:
-        tags.extend(["assembly", str(year), "asm%d" % (year % 100), "Assembly %d" % year])
+        tags.extend(["assembly", str(year), "asm%02d" % (year % 100), "Assembly %d" % year])
     elif 'winter' in section_name.lower():
-        tags.extend(["assembly", str(year), "asm%d" % (year % 100), "asmw%d" % (year % 100), "Assembly Winter %d" % year])
+        tags.extend(["assembly", str(year), "asm%02d" % (year % 100), "asmw%02d" % (year % 100), "Assembly Winter %d" % year])
     else:
-        tags.extend(["assembly", str(year), "asm%d" % (year % 100), "asms%d" % (year % 100), "Assembly Summer %d" % year])
+        tags.extend(["assembly", str(year), "asm%02d" % (year % 100), "asms%02d" % (year % 100), "Assembly Summer %d" % year])
     if year == 2000:
         tags.append("asm2k")
     return tags

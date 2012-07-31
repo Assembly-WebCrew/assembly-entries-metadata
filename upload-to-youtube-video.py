@@ -29,7 +29,7 @@ sleep_function = time.sleep
 if commandline_args.dry_run:
     sleep_function = lambda x : None
     def call_and_capture_output(args):
-        return [""]
+        return ["http://www.youtube.com/watch?v=asdf"]
 
 yearline = sys.stdin.readline().strip()
 
