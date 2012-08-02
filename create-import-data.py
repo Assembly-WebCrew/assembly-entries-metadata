@@ -68,7 +68,7 @@ def print_section(year, section):
     if 'description' in section:
         description += section['description']
         # XXX Check for next year.
-        if section['ongoing'] is True:
+        if section.get('ongoing', False) is True:
             pms_path = "asm12/compos/%s/vote/" % section['pms-category']
             description += "<p>You can vote these entries at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:

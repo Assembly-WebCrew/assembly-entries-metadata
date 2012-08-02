@@ -4,6 +4,7 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
 :public false
+:ongoing true
 
 
 
@@ -11,18 +12,21 @@
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :public false
+:ongoing true
 
 
 
 :section 4k intro
 :pms-category 4k_intro
 :public false
+:ongoing true
 
 
 
 :section 1k intro
 :pms-category 1k_intro
 :public false
+:ongoing true
 
 
 
@@ -30,6 +34,7 @@
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :public false
+:ongoing true
 
 
 
@@ -37,6 +42,7 @@
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :public false
+:ongoing true
 
 
 
@@ -44,6 +50,7 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :public true
+:ongoing true
 
 author:Down Under|pms-id:asm12/gamedev/366|title:Bodgy Bee|youtube:sTCuxwzYePg
 author:Mikko Pulkki|pms-id:asm12/gamedev/368|title:Corneroids|youtube:Pxk-hvuV0bQ
@@ -67,6 +74,7 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :public false
+:ongoing true
 
 
 
@@ -74,18 +82,21 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with the theme "Last minute".</p>
 :public false
+:ongoing true
 
 
 
 :section Dance music
 :pms-category dance_music
 :public false
+:ongoing true
 
 
 
 :section Listening music
 :pms-category listening_music
 :public false
+:ongoing true
 
 
 
@@ -93,6 +104,7 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :public false
+:ongoing true
 
 
 
