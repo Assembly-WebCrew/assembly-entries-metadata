@@ -43,24 +43,24 @@
 :section Gamedev
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:public false
+:public true
 
-author:Down Under|pms-id:asm12/gamedev/366|title:Bodgy Bee
-author:Mikko Pulkki|pms-id:asm12/gamedev/368|title:Corneroids
-author:Delicious Construct|pms-id:asm12/gamedev/369|title:Golem Rumble!
-author:Kajak Games|pms-id:asm12/gamedev/373|title:Soul Devour
-author:Centria ammattikorkeakoulu|pms-id:asm12/gamedev/375|title:Steamdroid 
-author:Nice To Have Feature|pms-id:asm12/gamedev/378|title:Buccaneer Bombardment
-author:Bluefox Games|pms-id:asm12/gamedev/379|title:Pyxenos
-author:Grit Studio|pms-id:asm12/gamedev/381|title:Pogostick Panda
-author:KimmoS|pms-id:asm12/gamedev/382|title:Goldwingu
-author:McBurrobit|pms-id:asm12/gamedev/384|title:MÄYRÄ
-author:tAAt 2012|pms-id:asm12/gamedev/385|title:K2
-author:Odios|pms-id:asm12/gamedev/386|title:Flou
-author:Kepuli Games|pms-id:asm12/gamedev/389|title:Force: Leashed
-author:Pizzalaatikko|pms-id:asm12/gamedev/390|title:SEKO
-author:Matti Ruupunen|pms-id:asm12/gamedev/391|title:Gravite
-author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche
+author:Down Under|pms-id:asm12/gamedev/366|title:Bodgy Bee|youtube:sTCuxwzYePg
+author:Mikko Pulkki|pms-id:asm12/gamedev/368|title:Corneroids|youtube:Pxk-hvuV0bQ
+author:Delicious Construct|pms-id:asm12/gamedev/369|title:Golem Rumble!|youtube:r4wgiie-Lqo
+author:Kajak Games|pms-id:asm12/gamedev/373|title:Soul Devour|youtube:gaFd2KTqVQw
+author:Centria ammattikorkeakoulu|pms-id:asm12/gamedev/375|title:Steamdroid|youtube:b_ugB9-KlRY
+author:Nice To Have Feature|pms-id:asm12/gamedev/378|title:Buccaneer Bombardment|youtube:-fnl2leEjQ4
+author:Bluefox Games|pms-id:asm12/gamedev/379|title:Pyxenos|youtube:6uS77VJ17OE
+author:Grit Studio|pms-id:asm12/gamedev/381|title:Pogostick Panda|youtube:Pw9s8LtJl54
+author:KimmoS|pms-id:asm12/gamedev/382|title:Goldwingu|youtube:Lfemo1GTPBA
+author:McBurrobit|pms-id:asm12/gamedev/384|title:MÄYRÄ|youtube:BLUPk8eholQ
+author:tAAt 2012|pms-id:asm12/gamedev/385|title:K2|youtube:DwbLThYk6LM
+author:Odios|pms-id:asm12/gamedev/386|title:Flou|youtube:5LwLXUpH0Gc
+author:Kepuli Games|pms-id:asm12/gamedev/389|title:Force: Leashed|youtube:X_h2LU0omsU
+author:Pizzalaatikko|pms-id:asm12/gamedev/390|title:SEKO|youtube:qiwfXJYlrAg
+author:Matti Ruupunen|pms-id:asm12/gamedev/391|title:Gravite|youtube:gQb0In4Dy_s
+author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 
 
 :section Graphics
