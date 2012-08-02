@@ -68,9 +68,9 @@ def print_section(year, section):
     if 'description' in section:
         description += section['description']
         # XXX Check for next year.
-        # if section['ongoing'] is True:
-        #     pms_path = "asm11/compos/%s/vote/" % section['pms-category']
-        #     description += "<p>You can vote these entries at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
+        if section['ongoing'] is True:
+            pms_path = "asm12/compos/%s/vote/" % section['pms-category']
+            description += "<p>You can vote these entries at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:
         description += """<p><a href="http://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
 
@@ -167,9 +167,9 @@ def print_entry(year, entry):
                     description += u"Not qualified to be shown on the big screen"
                 description += u".</p>\n<p>\n"
             # XXX Check for next year.
-            # else:
-            #     pms_path = "asm11/compos/%s/vote/" % entry['section']['pms-category']
-            #     description += "<p>You can vote this entry at <a href='https://pms.asm.fi/%s'>PMS</a>!</p>" % pms_path
+            else:
+                pms_path = "asm12/compos/%s/vote/" % entry['section']['pms-category']
+                description += "<p>You can vote this entry at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
 
     if 'description' in entry:
         description += u"%s</p>\n<p>" % cgi.escape(entry['description'])
