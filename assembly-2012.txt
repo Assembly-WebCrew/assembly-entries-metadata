@@ -1,5 +1,64 @@
 :year 2012
 
+:section Demo
+:pms-category demo
+:public false
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
+
+:section Real wild demo
+:pms-category real_wild
+:public false
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+
+:section 4k intro
+:pms-category 4k_intro
+:public false
+
+:section 1k intro
+:pms-category 1k_intro
+:public false
+
+:section Oldskool demo
+:pms-category oldskool
+:public false
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+
+:section Short film
+:pms-category short_film
+:public false
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+
+:section Gamedev
+:pms-category gamedev
+:public false
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+
+:section Graphics
+:pms-category graphics
+:public false
+:description <p>In Graphics competition images may be created with any desired method about anything.</p>
+
+:section Fast graphics
+:pms-category fast_graphics
+:public false
+:description <p>Competitors had 1.5 hours to create an image with the theme "Last minute".</p>
+
+:section Dance music
+:pms-category dance_music
+:public false
+
+:section Listening music
+:pms-category listening_music
+:public false
+
+:section Fast music
+:pms-category fast_music
+:public false
+:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+
+:section AssemblyTV
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+
 :section Winter
 :youtube-playlist 5C093FFF2C33B46A
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2012.</p>
