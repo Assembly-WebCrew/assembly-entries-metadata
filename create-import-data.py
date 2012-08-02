@@ -155,7 +155,7 @@ def print_entry(year, entry):
     has_media = False
 
     display_author = None
-    if "Misc" in section_name:
+    if "Misc" in section_name or "Photos" in section_name:
         pass
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
@@ -195,8 +195,14 @@ def print_entry(year, entry):
         demoscenetv = entry['dtv']
         locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
-    if 'image-file' in entry and 'webfile' not in entry:
-        image_file = entry['image-file']
+    # XXX prevent the creation of humongous files.
+    if 'galleriafi' in entry:
+        return
+
+    if ('image-file' in entry or 'galleriafi' in entry) and 'webfile' not in entry:
+        image_file = entry.get('image-file')
+        if image_file is None:
+            image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
         if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
             has_media = True
             baseprefix, _ = image_file.split(".")
@@ -258,6 +264,10 @@ def print_entry(year, entry):
     elif 'media' in entry:
         mediavideo = entry['media']
         locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
+
+    if "galleriafi" in entry:
+        locations += "<location type='download'>http://assembly.galleria.fi%s|Original image</location>" % (entry["galleriafi"])
+
 
     if not has_media:
         return

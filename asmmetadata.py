@@ -306,8 +306,10 @@ def select_thumbnail_base(entry):
     if 'dtv' in entry:
         demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
         return 'dtv-thumbnails/%s' % demoscenetv_thumb
-    if 'webfile' in entry or 'image-file' in entry:
-        filename = entry.get('webfile', None) or entry.get('image-file')
+    if 'webfile' in entry or 'image-file' in entry or 'galleriafi' in entry:
+        filename = entry.get('webfile') or entry.get('image-file')
+        if filename is None:
+            filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
         baseprefix, _ = filename.split(".")
         if filename.endswith(".png") or filename.endswith(".jpeg") or filename.endswith(".gif"):
             return 'thumbnails/small/%s' % baseprefix
@@ -358,7 +360,7 @@ def get_youtube_info_data(entry):
         entry['section']['year'], entry['section']['name'])
 
     display_author = None
-    if "Misc" in section_name:
+    if "Misc" in section_name or "Photos" in section_name:
         pass
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
