@@ -160,11 +160,11 @@ author:(author hidden until results)|pms-id:asm12/fast_music/524|title:Aoe - Mat
 
 :section Seminars
 
-title:Bitcoin - the future of money|author:Henry Brade|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4
-title:Digital painting, agile concepting for games|author:Jenni Saarinen|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4
-title:Mobile development in Unity - what you need to know|author:Russ Morris|video-file:seminars/1353_Mobile_development_in_Unity.mp4
-title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|author:Jouni Mannonen|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4
-title:Cross-platform mobile game development with Proton SDK|author:Aki Koskinen|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4
+title:Bitcoin - the future of money|author:Henry Brade|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
+title:Digital painting, agile concepting for games|author:Jenni Saarinen|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
+title:Mobile development in Unity - what you need to know|author:Russ Morris|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
+title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|author:Jouni Mannonen|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
+title:Cross-platform mobile game development with Proton SDK|author:Aki Koskinen|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
 title:Tangible Metrics through Data Visualization|author:Tapio Nurminen
 title:Ideation – making you brain work in new ways|author:Petra Pälmä
 title:Playful prototyping, the stories of failing for fun|author:Tuomo Tammenpää
