@@ -36,6 +36,10 @@
 :ongoing true
 :public false
 
+author:RNO|pms-id:asm12/oldskool/432|title:Protein
+author:Upstars|pms-id:asm12/oldskool/478|title:RECHARGER
+author:PWP|pms-id:asm12/oldskool/490|title:Conservative Megademo
+author:Spaceballs|pms-id:asm12/oldskool/546|title:Vold
 
 
 :section Short film
@@ -158,32 +162,34 @@ author:(author hidden until results)|pms-id:asm12/fast_music/516|title:I was dea
 author:(author hidden until results)|pms-id:asm12/fast_music/519|title:Funny Guy!|video-file:fast-music/000-519-funny-guy.mp3.avi|youtube:ifMTs-4FBRE
 author:(author hidden until results)|pms-id:asm12/fast_music/524|title:Aoe - Mattu pese tuulilasi|video-file:fast-music/000-524-aoe-mattu-pese-tuulilasi.mp3.avi|youtube:iCpD5F12TYQ
 
+
 :section Seminars
 
-title:Bitcoin - the future of money|author:Henry Brade|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
-title:Digital painting, agile concepting for games|author:Jenni Saarinen|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
-title:Mobile development in Unity - what you need to know|author:Russ Morris|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
-title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|author:Jouni Mannonen|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
-title:Cross-platform mobile game development with Proton SDK|author:Aki Koskinen|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
-title:Tangible Metrics through Data Visualization|author:Tapio Nurminen
-title:Ideation – making you brain work in new ways|author:Petra Pälmä
-title:Playful prototyping, the stories of failing for fun|author:Tuomo Tammenpää
-title:So you want to build an arcade cabinet|author:Peter Smets
-title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era|author:Pyry Lehdonvirta
-title:Adobe gaming solutions|author:Tom Krcha
-title:Amazing Alex: The journey from a two-man indie game to a worldwide success|author:Kalle Kaivola
-title:Good tool / bad master: tech and game design|author:Olli Harjola
-title:Advanced visual effects with DirectX 11|author:Matt Swoboda
-title:Making demos for advertising and creative industries|author:Maarten Boon, Luc Schurgers, Dan Lewis
-title:Real-Time Graphics Everywhere (and fast) with Uno|author:Bent Stamnes, Anders Lassen
-title:Occlusion culling for the next generation|author:Antti Hätälä
-title:Unicorn7.org - The next step for gamejam games|author:Julie Heyde, Tim Garbos
-title:Powerful ideas - how (and why) to empower younger generations to become digital creators|author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer
-title:Make real products in your browser with Tinkercad and 3D printing|author:Pekka Salokannel
-title:Why build an entirely new game engine for indie game RESET?|author:Alpo Oksanharju, Mikko Kallinen
-title:Getting Started - hosted by Startup Sauna|author:Antti Ylimutka, Mikko Kuusi
-title:Panel: Game Jamming and social programming|author:Annakaisa Kultima
-title:Robosota|author:Eemu Bertling
+author:Henry Brade|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
+author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
+author:Russ Morris|title:Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
+author:Jouni Mannonen|title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
+author:Aki Koskinen|title:Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
+author:Tapio Nurminen|title:Tangible Metrics through Data Visualization
+author:Petra Pälmä|title:Ideation – making you brain work in new ways
+author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun
+author:Peter Smets|title:So you want to build an arcade cabinet
+author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era
+author:Tom Krcha|title:Adobe gaming solutions
+author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success
+author:Olli Harjola|title:Good tool / bad master: tech and game design
+author:Matt Swoboda|title:Advanced visual effects with DirectX 11
+author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries
+author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno
+author:Antti Hätälä|title:Occlusion culling for the next generation
+author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games
+author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators
+author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing
+author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?
+author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna
+author:Annakaisa Kultima|title:Panel: Game Jamming and social programming
+author:Eemu Bertling|title:Robosota
+
 
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
