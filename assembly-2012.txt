@@ -111,6 +111,19 @@ author:(author hidden until results)|image-file:fast-graphics/000-618-i-am-not-o
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm12/dance_music/406|title:Syyhyävä tanssijalka
+author:(author hidden until results)|pms-id:asm12/dance_music/416|title:Electrified
+author:(author hidden until results)|pms-id:asm12/dance_music/425|title:Autumn
+author:(author hidden until results)|pms-id:asm12/dance_music/438|title: I'm Not Saying It Was Aliens But Dude, It Was Aliens
+author:(author hidden until results)|pms-id:asm12/dance_music/441|title:Equilibrium
+author:(author hidden until results)|pms-id:asm12/dance_music/444|title:Lovestream
+author:(author hidden until results)|pms-id:asm12/dance_music/447|title:by by
+author:(author hidden until results)|pms-id:asm12/dance_music/461|title:Shake it with NES
+author:(author hidden until results)|pms-id:asm12/dance_music/465|title:Space Age
+author:(author hidden until results)|pms-id:asm12/dance_music/535|title:Grandpa's Humppa Riot
+author:(author hidden until results)|pms-id:asm12/dance_music/539|title:Free
+author:(author hidden until results)|pms-id:asm12/dance_music/569|title:haveanicewdance
+author:(author hidden until results)|pms-id:asm12/dance_music/623|title:L'historie De La Vie
 
 
 :section Listening music
