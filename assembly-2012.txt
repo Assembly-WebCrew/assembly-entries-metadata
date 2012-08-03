@@ -28,25 +28,25 @@
 :ongoing true
 :public false
 
-author:TDA|pms-id:asm12/1k_intro/407|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov
-author:Itchi / Lonely Coders|pms-id:asm12/1k_intro/412|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov
-author:Luminesce|pms-id:asm12/1k_intro/422|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov
-author:npli|pms-id:asm12/1k_intro/429|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov
-author:npli|pms-id:asm12/1k_intro/436|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov
-author:tArzAn / tAAt|pms-id:asm12/1k_intro/446|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov
-author:Ajna|pms-id:asm12/1k_intro/453|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov
-author:fsqrt + ye olde laptops posse|pms-id:asm12/1k_intro/454|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov
-author:XZM|pms-id:asm12/1k_intro/466|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov
-author:Shadikka|pms-id:asm12/1k_intro/468|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov
-author:Dzarg|pms-id:asm12/1k_intro/480|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov
-author:Digimind|pms-id:asm12/1k_intro/517|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov
-author:Spaceballs|pms-id:asm12/1k_intro/523|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov
-author:Yzi/Fit|pms-id:asm12/1k_intro/525|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov
-author:TBC|pms-id:asm12/1k_intro/528|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov
-author:yolp|pms-id:asm12/1k_intro/548|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov
-author:cce and msqrt of Peisik|pms-id:asm12/1k_intro/553|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov
+author:TDA|pms-id:asm12/1k_intro/407|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
+author:Itchi / Lonely Coders|pms-id:asm12/1k_intro/412|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
+author:Luminesce|pms-id:asm12/1k_intro/422|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov|youtube:i02gIx7FQac
+author:npli|pms-id:asm12/1k_intro/429|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov|youtube:zL2WqvdzYfg
+author:npli|pms-id:asm12/1k_intro/436|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov|youtube:N6vl5yYBTM8
+author:tArzAn / tAAt|pms-id:asm12/1k_intro/446|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
+author:Ajna|pms-id:asm12/1k_intro/453|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
+author:fsqrt + ye olde laptops posse|pms-id:asm12/1k_intro/454|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
+author:XZM|pms-id:asm12/1k_intro/466|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:md3gdgqGCh4
+author:Shadikka|pms-id:asm12/1k_intro/468|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
+author:Dzarg|pms-id:asm12/1k_intro/480|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
+author:Digimind|pms-id:asm12/1k_intro/517|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
+author:Spaceballs|pms-id:asm12/1k_intro/523|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov|youtube:eoOKkxXGQLc
+author:Yzi/Fit|pms-id:asm12/1k_intro/525|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov|youtube:XOnk9a3FgWs
+author:TBC|pms-id:asm12/1k_intro/528|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
+author:yolp|pms-id:asm12/1k_intro/548|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
+author:cce and msqrt of Peisik|pms-id:asm12/1k_intro/553|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
 author:Cenon|pms-id:asm12/1k_intro/566|title:K-Dur
-author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov
+author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
 
 
 :section Oldskool demo
