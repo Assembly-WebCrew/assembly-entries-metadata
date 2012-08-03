@@ -153,19 +153,19 @@ author:(author hidden until results)|pms-id:asm12/dance_music/623|title:L'histor
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm12/listening_music/400|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/402|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/404|title:Turn off the Guages|video-file:listening-music/000-turn-off-the-guages-404.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/405|title:Strangers With My face|video-file:listening-music/000-strangers-with-my-face-405.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/430|title:Final Level|video-file:listening-music/000-final-level-430.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/439|title:Exhiliration|video-file:listening-music/000-exhiliration-439.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/469|title:Just Words|video-file:listening-music/000-just-words-469.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/533|title:To Pirate in Good Spirits|video-file:listening-music/000-to-pirate-in-good-spirits-533.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/534|title:The Knights Who Complete Quests Incredibly Quickly|video-file:listening-music/000-the-knights-who-complete-quests-incredibly-quickly-534.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/550|title:the evolution|video-file:listening-music/000-the-evolution-550.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/556|title:New York City Ninja Cowboys|video-file:listening-music/000-new-york-city-ninja-cowboys-556.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/560|title:Alloy Lantern Stage|video-file:listening-music/000-alloy-lantern-stage-560.mp3.avi
-author:(author hidden until results)|pms-id:asm12/listening_music/577|title:That's (cons)piracy|video-file:listening-music/000-that-s-cons-piracy-577.mp3.avi
+author:(author hidden until results)|pms-id:asm12/listening_music/400|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
+author:(author hidden until results)|pms-id:asm12/listening_music/402|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi|youtube:nf3NCVrUvSI
+author:(author hidden until results)|pms-id:asm12/listening_music/404|title:Turn off the Guages|video-file:listening-music/000-turn-off-the-guages-404.mp3.avi|youtube:L7_fQqw7LqY
+author:(author hidden until results)|pms-id:asm12/listening_music/405|title:Strangers With My face|video-file:listening-music/000-strangers-with-my-face-405.mp3.avi|youtube:nUrYjpauu5E
+author:(author hidden until results)|pms-id:asm12/listening_music/430|title:Final Level|video-file:listening-music/000-final-level-430.mp3.avi|youtube:rOGRpHLw5-c
+author:(author hidden until results)|pms-id:asm12/listening_music/439|title:Exhiliration|video-file:listening-music/000-exhiliration-439.mp3.avi|youtube:JnSYSSgpUig
+author:(author hidden until results)|pms-id:asm12/listening_music/469|title:Just Words|video-file:listening-music/000-just-words-469.mp3.avi|youtube:7NteVlPAVtM
+author:(author hidden until results)|pms-id:asm12/listening_music/533|title:To Pirate in Good Spirits|video-file:listening-music/000-to-pirate-in-good-spirits-533.mp3.avi|youtube:bjNX6-D_5E4
+author:(author hidden until results)|pms-id:asm12/listening_music/534|title:The Knights Who Complete Quests Incredibly Quickly|video-file:listening-music/000-the-knights-who-complete-quests-incredibly-quickly-534.mp3.avi|youtube:dL9ynilTs6w
+author:(author hidden until results)|pms-id:asm12/listening_music/550|title:the evolution|video-file:listening-music/000-the-evolution-550.mp3.avi|youtube:rGvziFpEVOo
+author:(author hidden until results)|pms-id:asm12/listening_music/556|title:New York City Ninja Cowboys|video-file:listening-music/000-new-york-city-ninja-cowboys-556.mp3.avi|youtube:lh5N1mGK0h8
+author:(author hidden until results)|pms-id:asm12/listening_music/560|title:Alloy Lantern Stage|video-file:listening-music/000-alloy-lantern-stage-560.mp3.avi|youtube:26lAEfMO_z8
+author:(author hidden until results)|pms-id:asm12/listening_music/577|title:That's (cons)piracy|video-file:listening-music/000-that-s-cons-piracy-577.mp3.avi|youtube:M6L9gMQJyh0
 
 
 :section Fast music
