@@ -111,19 +111,19 @@ author:(author hidden until results)|image-file:fast-graphics/000-618-i-am-not-o
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm12/dance_music/406|title:Syyhyävä tanssijalka
-author:(author hidden until results)|pms-id:asm12/dance_music/416|title:Electrified
-author:(author hidden until results)|pms-id:asm12/dance_music/425|title:Autumn
-author:(author hidden until results)|pms-id:asm12/dance_music/438|title: I'm Not Saying It Was Aliens But Dude, It Was Aliens
-author:(author hidden until results)|pms-id:asm12/dance_music/441|title:Equilibrium
-author:(author hidden until results)|pms-id:asm12/dance_music/444|title:Lovestream
-author:(author hidden until results)|pms-id:asm12/dance_music/447|title:by by
-author:(author hidden until results)|pms-id:asm12/dance_music/461|title:Shake it with NES
-author:(author hidden until results)|pms-id:asm12/dance_music/465|title:Space Age
-author:(author hidden until results)|pms-id:asm12/dance_music/535|title:Grandpa's Humppa Riot
-author:(author hidden until results)|pms-id:asm12/dance_music/539|title:Free
-author:(author hidden until results)|pms-id:asm12/dance_music/569|title:haveanicewdance
-author:(author hidden until results)|pms-id:asm12/dance_music/623|title:L'historie De La Vie
+author:(author hidden until results)|pms-id:asm12/dance_music/406|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
+author:(author hidden until results)|pms-id:asm12/dance_music/416|title:Electrified|video-file:dance-music/000-electrified-416.mp3.avi|youtube:tIYTrR0prP8
+author:(author hidden until results)|pms-id:asm12/dance_music/425|title:Autumn|video-file:dance-music/000-autumn-425.mp3.avi|youtube:HFBdyH7b7iQ
+author:(author hidden until results)|pms-id:asm12/dance_music/438|title: I'm Not Saying It Was Aliens But Dude, It Was Aliens|video-file:dance-music/000-i-m-not-saying-it-was-aliens-but-dude-it-was-aliens-438.mp3.avi|youtube:sfTjfEAirNc
+author:(author hidden until results)|pms-id:asm12/dance_music/441|title:Equilibrium|video-file:dance-music/000-equilibrium-441.mp3.avi|youtube:wQBuP96GnIY
+author:(author hidden until results)|pms-id:asm12/dance_music/444|title:Lovestream|video-file:dance-music/000-lovestream-444.mp3.avi|youtube:we6Kagpjz_c
+author:(author hidden until results)|pms-id:asm12/dance_music/447|title:by by|video-file:dance-music/000-by-by-447.mp3.avi|youtube:zivoEQYvv8o
+author:(author hidden until results)|pms-id:asm12/dance_music/461|title:Shake it with NES|video-file:dance-music/000-shake-it-with-nes-461.mp3.avi|youtube:Q60JrtQVF54
+author:(author hidden until results)|pms-id:asm12/dance_music/465|title:Space Age|video-file:dance-music/000-space-age-465.mp3.avi|youtube:F5wDZubzwQk
+author:(author hidden until results)|pms-id:asm12/dance_music/535|title:Grandpa's Humppa Riot|video-file:dance-music/000-grandpa-s-humppa-riot-535.mp3.avi|youtube:aK_enW_-Zxk
+author:(author hidden until results)|pms-id:asm12/dance_music/539|title:Free|video-file:dance-music/000-free-539.mp3.avi|youtube:nhu3icYVzOs
+author:(author hidden until results)|pms-id:asm12/dance_music/569|title:haveanicewdance|video-file:dance-music/000-haveanicewdance-569.mp3.avi|youtube:U15pkmJh5f4
+author:(author hidden until results)|pms-id:asm12/dance_music/623|title:L'historie De La Vie|video-file:dance-music/000-l-historie-de-la-vie-623.mp3.avi|youtube:aMrBA_zQPpY
 
 
 :section Listening music
