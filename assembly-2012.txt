@@ -3,53 +3,52 @@
 :section Demo
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Real wild demo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section 4k intro
 :pms-category 4k_intro
-:public false
 :ongoing true
+:public false
 
 
 
 :section 1k intro
 :pms-category 1k_intro
-:public false
 :ongoing true
+:public false
 
 
 
 :section Oldskool demo
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Gamedev
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:public true
 :ongoing true
 
 author:Down Under|pms-id:asm12/gamedev/366|title:Bodgy Bee|youtube:sTCuxwzYePg
@@ -73,39 +72,58 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with the theme "Last minute".</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Dance music
 :pms-category dance_music
-:public false
 :ongoing true
+:public false
 
 
 
 :section Listening music
 :pms-category listening_music
-:public false
 :ongoing true
+:public false
 
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:public false
 :ongoing true
+:public false
 
+author:(author hidden until results)|pms-id:asm12/fast_music/483|title:Ysäri never dies
+author:(author hidden until results)|pms-id:asm12/fast_music/485|title:Perunan tavallinen taival
+author:(author hidden until results)|pms-id:asm12/fast_music/486|title:James Blonde
+author:(author hidden until results)|pms-id:asm12/fast_music/491|title:Techdroid
+author:(author hidden until results)|pms-id:asm12/fast_music/497|title:Heroes of Never
+author:(author hidden until results)|pms-id:asm12/fast_music/498|title:The Dragons Arrive to Rock !
+author:(author hidden until results)|pms-id:asm12/fast_music/499|title:Coconut Dreams
+author:(author hidden until results)|pms-id:asm12/fast_music/501|title:Hungry Birds
+author:(author hidden until results)|pms-id:asm12/fast_music/502|title:Miekkasepon Hymni
+author:(author hidden until results)|pms-id:asm12/fast_music/506|title:confusion
+author:(author hidden until results)|pms-id:asm12/fast_music/507|title:Coma
+author:(author hidden until results)|pms-id:asm12/fast_music/509|title:Morning Comes
+author:(author hidden until results)|pms-id:asm12/fast_music/510|title:Daedalus
+author:(author hidden until results)|pms-id:asm12/fast_music/511|title:Left Hand Reggae
+author:(author hidden until results)|pms-id:asm12/fast_music/512|title:Fast Funkzorz
+author:(author hidden until results)|pms-id:asm12/fast_music/513|title:Decade After
+author:(author hidden until results)|pms-id:asm12/fast_music/516|title:I was deaf to my music
+author:(author hidden until results)|pms-id:asm12/fast_music/519|title:Funny Guy!
+author:(author hidden until results)|pms-id:asm12/fast_music/524|title:Aoe - Mattu pese tuulilasi
 
 
 :section AssemblyTV
