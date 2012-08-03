@@ -81,8 +81,29 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with the theme "Last minute".</p>
 :ongoing true
-:public false
 
+author:(author hidden until results)|image-file:fast-graphics/000-562-colossal-detail.png|pms-id:asm12/fast_graphics/562|title:Colossal detail
+author:(author hidden until results)|image-file:fast-graphics/000-564-wtf-moment.png|pms-id:asm12/fast_graphics/564|title:WTF-moment
+author:(author hidden until results)|image-file:fast-graphics/000-565-mechanical-surgery.png|pms-id:asm12/fast_graphics/565|title:Mechanical Surgery
+author:(author hidden until results)|image-file:fast-graphics/000-568-permanent-delivery-delay.png|pms-id:asm12/fast_graphics/568|title:Permanent Delivery Delay
+author:(author hidden until results)|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|title:Eye for Detail
+author:(author hidden until results)|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|title:Suction
+author:(author hidden until results)|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.png|pms-id:asm12/fast_graphics/580|title:Paint me like your french girls
+author:(author hidden until results)|image-file:fast-graphics/000-581-extreme-interpolation.png|pms-id:asm12/fast_graphics/581|title:Extreme interpolation
+author:(author hidden until results)|image-file:fast-graphics/000-583-solar-magna.png|pms-id:asm12/fast_graphics/583|title:Solar Magna
+author:(author hidden until results)|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|pms-id:asm12/fast_graphics/584|title:A moose in the sunset
+author:(author hidden until results)|image-file:fast-graphics/000-589-faces.png|pms-id:asm12/fast_graphics/589|title:Faces
+author:(author hidden until results)|image-file:fast-graphics/000-598-scene-phone.png|pms-id:asm12/fast_graphics/598|title:Scene Phone
+author:(author hidden until results)|image-file:fast-graphics/000-599-modern-day-princess.png|pms-id:asm12/fast_graphics/599|title:Modern day princess
+author:(author hidden until results)|image-file:fast-graphics/000-600-too-much-thinking.png|pms-id:asm12/fast_graphics/600|title:Too much thinking
+author:(author hidden until results)|image-file:fast-graphics/000-601-exhausted.png|pms-id:asm12/fast_graphics/601|title:Exhausted
+author:(author hidden until results)|image-file:fast-graphics/000-604-henry-harkonen.png|pms-id:asm12/fast_graphics/604|title:Henry Härkönen
+author:(author hidden until results)|image-file:fast-graphics/000-605-kittycat.png|pms-id:asm12/fast_graphics/605|title:Kittycat
+author:(author hidden until results)|image-file:fast-graphics/000-606-realism-isn-t-always-superior.png|pms-id:asm12/fast_graphics/606|title:Realism isn't always superior
+author:(author hidden until results)|image-file:fast-graphics/000-609-fancy-armor.png|pms-id:asm12/fast_graphics/609|title:Fancy Armor
+author:(author hidden until results)|image-file:fast-graphics/000-611-i-am-in-the-details.png|pms-id:asm12/fast_graphics/611|title:I am in the Details
+author:(author hidden until results)|image-file:fast-graphics/000-614-splat.png|pms-id:asm12/fast_graphics/614|title:Splat
+author:(author hidden until results)|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|pms-id:asm12/fast_graphics/618|title:I am not on drugs
 
 
 :section Dance music
@@ -103,8 +124,6 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
-:public false
-
 
 author:(author hidden until results)|pms-id:asm12/fast_music/483|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi|youtube:zhEiVz-aPCw
 author:(author hidden until results)|pms-id:asm12/fast_music/485|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi|youtube:k7TlKfbD7Vo
