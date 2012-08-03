@@ -28,6 +28,25 @@
 :ongoing true
 :public false
 
+author:TDA|pms-id:asm12/1k_intro/407|title:Embers
+author:Itchi / Lonely Coders|pms-id:asm12/1k_intro/412|title:o
+author:Luminesce|pms-id:asm12/1k_intro/422|title:Braids
+author:npli|pms-id:asm12/1k_intro/429|title:Kilo makkaraa
+author:npli|pms-id:asm12/1k_intro/436|title:a kilo of missing earplugs
+author:tArzAn / tAAt|pms-id:asm12/1k_intro/446|title:Synxiety Attack - Tahdistuskohtaus
+author:Ajna|pms-id:asm12/1k_intro/453|title:Strange Aeons
+author:fsqrt + ye olde laptops posse|pms-id:asm12/1k_intro/454|title:harsh
+author:XZM|pms-id:asm12/1k_intro/466|title:Sun Of Bac
+author:Shadikka|pms-id:asm12/1k_intro/468|title:<3 ASM
+author:Dzarg|pms-id:asm12/1k_intro/480|title:Daylight
+author:Digimind|pms-id:asm12/1k_intro/517|title:City by helicopter
+author:Spaceballs|pms-id:asm12/1k_intro/523|title:Copperophilia
+author:Yzi/Fit|pms-id:asm12/1k_intro/525|title:A View to a Grid
+author:TBC|pms-id:asm12/1k_intro/528|title:Traceless
+author:yolp|pms-id:asm12/1k_intro/548|title:planB
+author:cce and msqrt of Peisik|pms-id:asm12/1k_intro/553|title:murimecco
+author:Cenon|pms-id:asm12/1k_intro/566|title:K-Dur
+author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills
 
 
 :section Oldskool demo
