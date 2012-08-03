@@ -115,16 +115,16 @@ author:(author hidden until results)|pms-id:asm12/fast_music/498|title:The Drago
 author:(author hidden until results)|pms-id:asm12/fast_music/499|title:Coconut Dreams|video-file:fast-music/000-499-coconut-dreams.mp3.avi|youtube:https://www.youtube.com/watch?v=l-DPegjF6Ec
 author:(author hidden until results)|pms-id:asm12/fast_music/501|title:Hungry Birds|video-file:fast-music/000-501-hungry-birds.mp3.avi|youtube:https://www.youtube.com/watch?v=Rlcah6yNgd4
 author:(author hidden until results)|pms-id:asm12/fast_music/502|title:Miekkasepon Hymni|video-file:fast-music/000-502-miekkasepon-hymni.mp3.avi|youtube:https://www.youtube.com/watch?v=_oAaFdsQlLI
-author:(author hidden until results)|pms-id:asm12/fast_music/506|title:confusion|video-file:fast-music/000-506-confusion.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/507|title:Coma|video-file:fast-music/000-507-coma.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/509|title:Morning Comes|video-file:fast-music/000-509-morning-comes.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/510|title:Daedalus|video-file:fast-music/000-510-daedalus.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/511|title:Left Hand Reggae|video-file:fast-music/000-511-left-hand-reggae.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/512|title:Fast Funkzorz|video-file:fast-music/000-512-fast-funkzorz.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/513|title:Decade After|video-file:fast-music/000-513-decade-after.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/516|title:I was deaf to my music|video-file:fast-music/000-516-i-was-deaf-to-my-music.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/519|title:Funny Guy!|video-file:fast-music/000-519-funny-guy.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/524|title:Aoe - Mattu pese tuulilasi|video-file:fast-music/000-524-aoe-mattu-pese-tuulilasi.mp3.avi
+author:(author hidden until results)|pms-id:asm12/fast_music/506|title:confusion|video-file:fast-music/000-506-confusion.mp3.avi|youtube:https://www.youtube.com/watch?v=2sv-98usjW0
+author:(author hidden until results)|pms-id:asm12/fast_music/507|title:Coma|video-file:fast-music/000-507-coma.mp3.avi|youtube:https://www.youtube.com/watch?v=ANlNk3dGd-E
+author:(author hidden until results)|pms-id:asm12/fast_music/509|title:Morning Comes|video-file:fast-music/000-509-morning-comes.mp3.avi|youtube:https://www.youtube.com/watch?v=NeQnHQ6OF1U
+author:(author hidden until results)|pms-id:asm12/fast_music/510|title:Daedalus|video-file:fast-music/000-510-daedalus.mp3.avi|youtube:https://www.youtube.com/watch?v=8AzBT31-Pog
+author:(author hidden until results)|pms-id:asm12/fast_music/511|title:Left Hand Reggae|video-file:fast-music/000-511-left-hand-reggae.mp3.avi|youtube:https://www.youtube.com/watch?v=xpgPEiVitTI
+author:(author hidden until results)|pms-id:asm12/fast_music/512|title:Fast Funkzorz|video-file:fast-music/000-512-fast-funkzorz.mp3.avi|youtube:https://www.youtube.com/watch?v=1VQFslNNHQY
+author:(author hidden until results)|pms-id:asm12/fast_music/513|title:Decade After|video-file:fast-music/000-513-decade-after.mp3.avi|youtube:https://www.youtube.com/watch?v=AR0QZIq-Zig
+author:(author hidden until results)|pms-id:asm12/fast_music/516|title:I was deaf to my music|video-file:fast-music/000-516-i-was-deaf-to-my-music.mp3.avi|youtube:https://www.youtube.com/watch?v=DwXRHMAV6ZI
+author:(author hidden until results)|pms-id:asm12/fast_music/519|title:Funny Guy!|video-file:fast-music/000-519-funny-guy.mp3.avi|youtube:https://www.youtube.com/watch?v=ifMTs-4FBRE
+author:(author hidden until results)|pms-id:asm12/fast_music/524|title:Aoe - Mattu pese tuulilasi|video-file:fast-music/000-524-aoe-mattu-pese-tuulilasi.mp3.avi|youtube:https://www.youtube.com/watch?v=iCpD5F12TYQ
 
 
 :section AssemblyTV
