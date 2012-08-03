@@ -105,15 +105,16 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm12/fast_music/483|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/485|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/486|title:James Blonde|video-file:fast-music/000-486-james-blonde.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/491|title:Techdroid|video-file:fast-music/000-491-techdroid.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/497|title:Heroes of Never|video-file:fast-music/000-497-heroes-of-never.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/498|title:The Dragons Arrive to Rock !|video-file:fast-music/000-498-the-dragons-arrive-to-rock.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/499|title:Coconut Dreams|video-file:fast-music/000-499-coconut-dreams.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/501|title:Hungry Birds|video-file:fast-music/000-501-hungry-birds.mp3.avi
-author:(author hidden until results)|pms-id:asm12/fast_music/502|title:Miekkasepon Hymni|video-file:fast-music/000-502-miekkasepon-hymni.mp3.avi
+
+author:(author hidden until results)|pms-id:asm12/fast_music/483|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi|youtube:https://www.youtube.com/watch?v=zhEiVz-aPCw
+author:(author hidden until results)|pms-id:asm12/fast_music/485|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi|youtube:https://www.youtube.com/watch?v=k7TlKfbD7Vo
+author:(author hidden until results)|pms-id:asm12/fast_music/486|title:James Blonde|video-file:fast-music/000-486-james-blonde.mp3.avi|youtube:https://www.youtube.com/watch?v=SdJlt3sf2kE
+author:(author hidden until results)|pms-id:asm12/fast_music/491|title:Techdroid|video-file:fast-music/000-491-techdroid.mp3.avi|youtube:https://www.youtube.com/watch?v=tfihOkPKhxs
+author:(author hidden until results)|pms-id:asm12/fast_music/497|title:Heroes of Never|video-file:fast-music/000-497-heroes-of-never.mp3.avi|youtube:https://www.youtube.com/watch?v=XBlq-mBzLOE
+author:(author hidden until results)|pms-id:asm12/fast_music/498|title:The Dragons Arrive to Rock !|video-file:fast-music/000-498-the-dragons-arrive-to-rock.mp3.avi|youtube:https://www.youtube.com/watch?v=PFhb3GHEaSw
+author:(author hidden until results)|pms-id:asm12/fast_music/499|title:Coconut Dreams|video-file:fast-music/000-499-coconut-dreams.mp3.avi|youtube:https://www.youtube.com/watch?v=l-DPegjF6Ec
+author:(author hidden until results)|pms-id:asm12/fast_music/501|title:Hungry Birds|video-file:fast-music/000-501-hungry-birds.mp3.avi|youtube:https://www.youtube.com/watch?v=Rlcah6yNgd4
+author:(author hidden until results)|pms-id:asm12/fast_music/502|title:Miekkasepon Hymni|video-file:fast-music/000-502-miekkasepon-hymni.mp3.avi|youtube:https://www.youtube.com/watch?v=_oAaFdsQlLI
 author:(author hidden until results)|pms-id:asm12/fast_music/506|title:confusion|video-file:fast-music/000-506-confusion.mp3.avi
 author:(author hidden until results)|pms-id:asm12/fast_music/507|title:Coma|video-file:fast-music/000-507-coma.mp3.avi
 author:(author hidden until results)|pms-id:asm12/fast_music/509|title:Morning Comes|video-file:fast-music/000-509-morning-comes.mp3.avi
