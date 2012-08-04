@@ -175,7 +175,6 @@ author:(author hidden until results)|pms-id:asm12/dance_music/623|title:L'histor
 :section Listening music
 :pms-category listening_music
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm12/listening_music/400|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
 author:(author hidden until results)|pms-id:asm12/listening_music/402|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi|youtube:nf3NCVrUvSI
