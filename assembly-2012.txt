@@ -14,14 +14,14 @@
 :ongoing true
 :public false
 
-author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov
-author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov
-author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov
-author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov
-author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov
-author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov
-author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov
-author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov
+author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
+author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
+author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov|youtube:Mbc6-yP9SzE
+author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov|youtube:ATz5ncUwgv4
+author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov|youtube:WUUnb1L8XNY
+author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov|youtube:QKKCKMb2-ts
+author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov|youtube:wjCWDKoKcu8
+author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov|youtube:KEqzNokxWaI
 
 
 :section 4k intro
