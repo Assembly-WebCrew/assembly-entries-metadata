@@ -24,7 +24,6 @@ author:cncd|pms-id:asm12/demo/658|title:spacecut
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public false
 
 author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
 author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
@@ -74,7 +73,7 @@ author:Yzi/Fit|pms-id:asm12/1k_intro/525|title:A View to a Grid|video-file:1k-in
 author:TBC|pms-id:asm12/1k_intro/528|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
 author:yolp|pms-id:asm12/1k_intro/548|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
 author:cce and msqrt of Peisik|pms-id:asm12/1k_intro/553|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
-author:Cenon|pms-id:asm12/1k_intro/566|title:K-Dur
+author:Cenon|pms-id:asm12/1k_intro/566|title:K-Dur|video-file:1k-intro/1464_1k_KDur_by_Cenon.mov|youtube:hOlPzrQjnTQ
 author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
 
 
