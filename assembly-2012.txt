@@ -6,6 +6,18 @@
 :ongoing true
 :public false
 
+author:Byterapers + Doomsday |pms-id:asm12/demo/482|title:Old is not Dead
+author:tAAt 2012|pms-id:asm12/demo/626|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri
+author:Department of Offense|pms-id:asm12/demo/633|title:Booger
+author:cce and msqrt of Peisik|pms-id:asm12/demo/638|title:rushing into
+author:Rustbloom|pms-id:asm12/demo/641|title:Kauai-i
+author:Division|pms-id:asm12/demo/642|title:Hedron
+author:Pyrotech|pms-id:asm12/demo/643|title:Escape
+author:Hymy & Awind|pms-id:asm12/demo/644|title:Meteoroid
+author:Zden, Raiden, Ubik, Pavuk, Sustrate|pms-id:asm12/demo/654|title:Metamorf II
+author:adapt|pms-id:asm12/demo/656|title:born stars
+author:Elude|pms-id:asm12/demo/657|title:Reboxer
+author:cncd|pms-id:asm12/demo/658|title:spacecut
 
 
 :section Real wild demo
@@ -29,12 +41,21 @@ author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild
 :ongoing true
 :public false
 
+author:Blobtrox|pms-id:asm12/4k_intro/417|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:ianm_JL6ME4
+author:lucid|pms-id:asm12/4k_intro/470|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
+author:Peisik & Tarhatarha|pms-id:asm12/4k_intro/554|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
+author:XZM|pms-id:asm12/4k_intro/627|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
+author:Digimind & Silent|pms-id:asm12/4k_intro/628|title:Alien Station|video-file:4k-intro/1480_4k_Alien_Station_by_Digimind__Silent.mov|youtube:pG_lpibfegU
+author:mfx|pms-id:asm12/4k_intro/632|title:Reionization|video-file:4k-intro/1481_4k_Reionization_by_mfx.mov|youtube:lry7-6fTjSQ
+author:Fulcrum|pms-id:asm12/4k_intro/636|title:Finite Horizon Regret|video-file:4k-intro/1482_4k_Finite_Horizon_Regret_by_Fulcrum.mov|youtube:ltsbPfTvJbw
+author:oo|pms-id:asm12/4k_intro/639|title:Black Patch|video-file:4k-intro/1483_4k_Black_Patch_by_oo.mov|youtube:tgDExLleF1s
+author:adapt|pms-id:asm12/4k_intro/651|title:xperiment in a box|video-file:4k-intro/1484_4k_xperiment_in_a_box_by_adapt.mov|youtube:3wwoiBu2AYU
+author:Saint Porn|pms-id:asm12/4k_intro/653|title:ES-pärinä on matka|video-file:4k-intro/1485_4k_ESparina_on_matka_by_Saint_Porn.mov|youtube:a7OxtxsmA28
 
 
 :section 1k intro
 :pms-category 1k_intro
 :ongoing true
-:public false
 
 author:TDA|pms-id:asm12/1k_intro/407|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
 author:Itchi / Lonely Coders|pms-id:asm12/1k_intro/412|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
@@ -74,6 +95,14 @@ author:Spaceballs|pms-id:asm12/oldskool/546|title:Vold|video-file:oldskool-demo/
 :ongoing true
 :public false
 
+author:BeastrickAnimations|pms-id:asm12/short_film/451|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov
+author:Pistoke|pms-id:asm12/short_film/456|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov
+author:Team Mars Effect|pms-id:asm12/short_film/476|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov
+author:Datafox Studios|pms-id:asm12/short_film/630|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov
+author:Damn Creepers|pms-id:asm12/short_film/637|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov
+author:sba|pms-id:asm12/short_film/645|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov
+author:SkyWay/Cylenth Vision|pms-id:asm12/short_film/647|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov
+author:HBC|pms-id:asm12/short_film/655|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov
 
 
 :section Gamedev
@@ -134,7 +163,7 @@ author:(author hidden until results)|image-file:fast-graphics/000-565-mechanical
 author:(author hidden until results)|image-file:fast-graphics/000-568-permanent-delivery-delay.png|pms-id:asm12/fast_graphics/568|title:Permanent Delivery Delay
 author:(author hidden until results)|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|title:Eye for Detail
 author:(author hidden until results)|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|title:Suction
-author:(author hidden until results)|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.png|pms-id:asm12/fast_graphics/580|title:Paint me like your french girls
+author:(author hidden until -file:fast-graphics/000-580-paint-me-like-your-french-girls.png|pms-id:asm12/fast_graphics/580|title:Paint me like your french girls
 author:(author hidden until results)|image-file:fast-graphics/000-581-extreme-interpolation.png|pms-id:asm12/fast_graphics/581|title:Extreme interpolation
 author:(author hidden until results)|image-file:fast-graphics/000-583-solar-magna.png|pms-id:asm12/fast_graphics/583|title:Solar Magna
 author:(author hidden until results)|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|pms-id:asm12/fast_graphics/584|title:A moose in the sunset
@@ -155,7 +184,6 @@ author:(author hidden until results)|image-file:fast-graphics/000-618-i-am-not-o
 :section Dance music
 :pms-category dance_music
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm12/dance_music/406|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
 author:(author hidden until results)|pms-id:asm12/dance_music/416|title:Electrified|video-file:dance-music/000-electrified-416.mp3.avi|youtube:tIYTrR0prP8
