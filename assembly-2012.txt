@@ -95,14 +95,14 @@ author:Spaceballs|pms-id:asm12/oldskool/546|title:Vold|video-file:oldskool-demo/
 :ongoing true
 :public false
 
-author:BeastrickAnimations|pms-id:asm12/short_film/451|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov
-author:Pistoke|pms-id:asm12/short_film/456|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov
-author:Team Mars Effect|pms-id:asm12/short_film/476|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov
-author:Datafox Studios|pms-id:asm12/short_film/630|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov
-author:Damn Creepers|pms-id:asm12/short_film/637|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov
-author:sba|pms-id:asm12/short_film/645|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov
-author:SkyWay/Cylenth Vision|pms-id:asm12/short_film/647|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov
-author:HBC|pms-id:asm12/short_film/655|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov
+author:BeastrickAnimations|pms-id:asm12/short_film/451|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
+author:Pistoke|pms-id:asm12/short_film/456|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
+author:Team Mars Effect|pms-id:asm12/short_film/476|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov|youtube:45cj9yu8AqE
+author:Datafox Studios|pms-id:asm12/short_film/630|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov|youtube:t7pYKMWw8NI
+author:Damn Creepers|pms-id:asm12/short_film/637|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov|youtube:nn5i2KAXU_8
+author:sba|pms-id:asm12/short_film/645|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov|youtube:ZZ813tBFLfg
+author:SkyWay/Cylenth Vision|pms-id:asm12/short_film/647|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov|youtube:mPmln33FmpM
+author:HBC|pms-id:asm12/short_film/655|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov|youtube:r7DbPxWkpXw
 
 
 :section Gamedev
