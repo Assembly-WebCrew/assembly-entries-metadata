@@ -14,6 +14,14 @@
 :ongoing true
 :public false
 
+author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker
+author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID
+author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits
+author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force
+author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa
+author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls
+author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister
+author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz
 
 
 :section 4k intro
@@ -217,18 +225,18 @@ author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-f
 author:Russ Morris|title:Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
 author:Jouni Mannonen|title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
 author:Aki Koskinen|title:Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
-author:Tapio Nurminen|title:Tangible Metrics through Data Visualization
-author:Petra Pälmä|title:Ideation – making you brain work in new ways
-author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun
-author:Peter Smets|title:So you want to build an arcade cabinet
-author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era
-author:Tom Krcha|title:Adobe gaming solutions
-author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success
-author:Olli Harjola|title:Good tool / bad master: tech and game design
-author:Matt Swoboda|title:Advanced visual effects with DirectX 11
-author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries
-author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno
-author:Antti Hätälä|title:Occlusion culling for the next generation
+author:Tapio Nurminen|title:Tangible Metrics through Data Visualization|video-file:seminars/1356_Tangible_metrics.mp4
+author:Petra Pälmä|title:Ideation – making you brain work in new ways|video-file:seminars/1357_Ideation.mp4
+author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun|video-file:seminars/1358_Playful_prototyping.mp4
+author:Peter Smets|title:So you want to build an arcade cabinet|video-file:seminars/1359_Arcade_cabinet.mp4
+author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era|video-file:seminars/1360_HTML5_game_development.mp4
+author:Tom Krcha|title:Adobe gaming solutions|video-file:seminars/1361_Adobe_gaming_solutions.mp4
+author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success|video-file:seminars/1362_Amazing_alex.mp4
+author:Olli Harjola|title:Good tool / bad master: tech and game design|video-file:seminars/1363_Good_tool_-_Bad_master.mp4
+author:Matt Swoboda|title:Advanced visual effects with DirectX 11|video-file:seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4
+author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4
+author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4
+author:Antti Hätälä|title:Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4
 author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games
 author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators
 author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing
