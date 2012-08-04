@@ -4,7 +4,6 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
 :ongoing true
-:public false
 
 author:Byterapers + Doomsday |pms-id:asm12/demo/482|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
 author:tAAt 2012|pms-id:asm12/demo/626|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
@@ -150,7 +149,7 @@ author:(author hidden until results)|image-file:graphics/000-it-s-all-in-your-he
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with the theme "Last minute".</p>
+:description <p>Competitors had 1.5 hours to create an image with some theme.</p>
 :ongoing true
 
 author:(author hidden until results)|image-file:fast-graphics/000-562-colossal-detail.png|pms-id:asm12/fast_graphics/562|title:Colossal detail
@@ -260,12 +259,12 @@ author:Matt Swoboda|title:Advanced visual effects with DirectX 11|video-file:sem
 author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4|youtube:LegtIPNVN_Y
 author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|youtube:THfgkQCjqag
 author:Antti Hätälä|title:Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4|youtube:9YA1w2E01BY
-author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games
-author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators
-author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing
-author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?
-author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna
-author:Annakaisa Kultima|title:Panel: Game Jamming and social programming
+author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games|video-file:seminars/1368_Unicorn7.mp4|youtube:uUW5s0xaz2w
+author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators|video-file:seminars/1369_Powerful_ideas.mp4|youtube:Pb3Cv8wEttI
+author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing|video-file:seminars/1370_Make_real_products.mp4|youtube:xuuzt4D5GMY
+author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw
+author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ
+author:Annakaisa Kultima|title:Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw
 author:Eemu Bertling|title:Robosota
 
 
