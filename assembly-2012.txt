@@ -14,14 +14,14 @@
 :ongoing true
 :public false
 
-author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker
-author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID
-author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits
-author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force
-author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa
-author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls
-author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister
-author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz
+author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov
+author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov
+author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov
+author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov
+author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov
+author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov
+author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov
+author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov
 
 
 :section 4k intro
@@ -105,22 +105,22 @@ author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm12/graphics/408|title:Stuck in Life
-author:(author hidden until results)|pms-id:asm12/graphics/409|title:Sir Huomisaamu
-author:(author hidden until results)|pms-id:asm12/graphics/427|title:Robox says hi
-author:(author hidden until results)|pms-id:asm12/graphics/452|title:Lord Ember's Spiced Wine
-author:(author hidden until results)|pms-id:asm12/graphics/463|title:Mocking Jay
-author:(author hidden until results)|pms-id:asm12/graphics/472|title:A Wild Bunch
-author:(author hidden until results)|pms-id:asm12/graphics/495|title:Rabbit Deployment Force
-author:(author hidden until results)|pms-id:asm12/graphics/505|title:Light on
-author:(author hidden until results)|pms-id:asm12/graphics/526|title:Time for your own thoughts
-author:(author hidden until results)|pms-id:asm12/graphics/529|title:Arrival
-author:(author hidden until results)|pms-id:asm12/graphics/531|title:Its probably going to rain
-author:(author hidden until results)|pms-id:asm12/graphics/537|title:Dragon Outbreak
-author:(author hidden until results)|pms-id:asm12/graphics/541|title:Nuclear Smoking
-author:(author hidden until results)|pms-id:asm12/graphics/543|title:A Dancer To Tip To
-author:(author hidden until results)|pms-id:asm12/graphics/555|title:Six against one is unfair
-author:(author hidden until results)|pms-id:asm12/graphics/629|title:It's all in your head
+author:(author hidden until results)|image-file:graphics/000-stuck-in-life-408.png|pms-id:asm12/graphics/408|title:Stuck in Life
+author:(author hidden until results)|image-file:graphics/000-sir-huomisaamu-409.png|pms-id:asm12/graphics/409|title:Sir Huomisaamu
+author:(author hidden until results)|image-file:graphics/000-robox-says-hi-427.png|pms-id:asm12/graphics/427|title:Robox says hi
+author:(author hidden until results)|image-file:graphics/000-lord-ember-s-spiced-wine-452.png|pms-id:asm12/graphics/452|title:Lord Ember's Spiced Wine
+author:(author hidden until results)|image-file:graphics/000-mocking-jay-463.png|pms-id:asm12/graphics/463|title:Mocking Jay
+author:(author hidden until results)|image-file:graphics/000-a-wild-bunch-472.png|pms-id:asm12/graphics/472|title:A Wild Bunch
+author:(author hidden until results)|image-file:graphics/000-rabbit-deployment-force-495.png|pms-id:asm12/graphics/495|title:Rabbit Deployment Force
+author:(author hidden until results)|image-file:graphics/000-light-on-505.png|pms-id:asm12/graphics/505|title:Light on
+author:(author hidden until results)|image-file:graphics/000-time-for-your-own-thoughts-526.png|pms-id:asm12/graphics/526|title:Time for your own thoughts
+author:(author hidden until results)|image-file:graphics/000-arrival-529.png|pms-id:asm12/graphics/529|title:Arrival
+author:(author hidden until results)|image-file:graphics/000-its-probably-going-to-rain-531.png|pms-id:asm12/graphics/531|title:Its probably going to rain
+author:(author hidden until results)|image-file:graphics/000-dragon-outbreak-537.png|pms-id:asm12/graphics/537|title:Dragon Outbreak
+author:(author hidden until results)|image-file:graphics/000-nuclear-smoking-541.png|pms-id:asm12/graphics/541|title:Nuclear Smoking
+author:(author hidden until results)|image-file:graphics/000-a-dancer-to-tip-to-543.png|pms-id:asm12/graphics/543|title:A Dancer To Tip To
+author:(author hidden until results)|image-file:graphics/000-six-against-one-is-unfair-555.png|pms-id:asm12/graphics/555|title:Six against one is unfair
+author:(author hidden until results)|image-file:graphics/000-it-s-all-in-your-head-629.png|pms-id:asm12/graphics/629|title:It's all in your head
 
 
 :section Fast graphics
