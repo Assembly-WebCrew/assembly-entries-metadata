@@ -6,18 +6,18 @@
 :ongoing true
 :public false
 
-author:Byterapers + Doomsday |pms-id:asm12/demo/482|title:Old is not Dead
-author:tAAt 2012|pms-id:asm12/demo/626|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri
-author:Department of Offense|pms-id:asm12/demo/633|title:Booger
-author:cce and msqrt of Peisik|pms-id:asm12/demo/638|title:rushing into
-author:Rustbloom|pms-id:asm12/demo/641|title:Kauai-i
-author:Division|pms-id:asm12/demo/642|title:Hedron
-author:Pyrotech|pms-id:asm12/demo/643|title:Escape
-author:Hymy & Awind|pms-id:asm12/demo/644|title:Meteoroid
-author:Zden, Raiden, Ubik, Pavuk, Sustrate|pms-id:asm12/demo/654|title:Metamorf II
-author:adapt|pms-id:asm12/demo/656|title:born stars
-author:Elude|pms-id:asm12/demo/657|title:Reboxer
-author:cncd|pms-id:asm12/demo/658|title:spacecut
+author:Byterapers + Doomsday |pms-id:asm12/demo/482|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
+author:tAAt 2012|pms-id:asm12/demo/626|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
+author:Department of Offense|pms-id:asm12/demo/633|title:Booger|video-file:demo/1496_Demo_Booger_by_Department_of_Offense.mov|youtube:rm5i30tRepc
+author:cce and msqrt of Peisik|pms-id:asm12/demo/638|title:rushing into|video-file:demo/1497_Demo_rushing_into_by_cce_and_msqrt_of_Peisik.mov|youtube:WsLIBW4z5j8
+author:Rustbloom|pms-id:asm12/demo/641|title:Kauai-i|video-file:demo/1498_Demo_Kauaii_by_Rustbloom.mov|youtube:b6V-exq_LfU
+author:Division|pms-id:asm12/demo/642|title:Hedron|video-file:demo/1499_Demo_Hedron_by_Division.mov|youtube:s-WTp1Ot7EE
+author:Pyrotech|pms-id:asm12/demo/643|title:Escape|video-file:demo/1500_Demo_Escape_by_Pyrotech.mov|youtube:CFO9mifkNEg
+author:Hymy & Awind|pms-id:asm12/demo/644|title:Meteoroid|video-file:demo/1501_Demo_Meteoroid_by_Hymy__Awind.mov|youtube:YhO1d-Td-FQ
+author:Zden, Raiden, Ubik, Pavuk, Sustrate|pms-id:asm12/demo/654|title:Metamorf II|video-file:demo/1502_Demo_Metamorf_II_by_Zden_Raiden_Ubik_Pavuk_Sustrate.mov|youtube:4vsVi5U0dDg
+author:adapt|pms-id:asm12/demo/656|title:born stars|video-file:demo/1503_Demo_born_stars_by_adapt.mov|youtube:YQg0NFJb7Rg
+author:Elude|pms-id:asm12/demo/657|title:Reboxer|video-file:demo/1504_Demo_Reboxer_by_Elude.mov|youtube:IEWvnlcQazI
+author:cncd|pms-id:asm12/demo/658|title:spacecut|video-file:demo/1505_Demo_spacecut_by_cncd.mov|youtube:7PHFz6PHWw4
 
 
 :section Real wild demo
@@ -38,7 +38,6 @@ author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild
 :section 4k intro
 :pms-category 4k_intro
 :ongoing true
-:public false
 
 author:Blobtrox|pms-id:asm12/4k_intro/417|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:ianm_JL6ME4
 author:lucid|pms-id:asm12/4k_intro/470|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
@@ -80,7 +79,6 @@ author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k
 :section Oldskool demo
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 
 author:RNO|pms-id:asm12/oldskool/432|title:Protein|youtube:0MNa-BtD4VQ
 author:Upstars|pms-id:asm12/oldskool/478|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
@@ -92,7 +90,6 @@ author:Spaceballs|pms-id:asm12/oldskool/546|title:Vold|video-file:oldskool-demo/
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public false
 
 author:BeastrickAnimations|pms-id:asm12/short_film/451|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
 author:Pistoke|pms-id:asm12/short_film/456|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
