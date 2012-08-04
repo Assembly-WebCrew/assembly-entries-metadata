@@ -80,10 +80,10 @@ author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
-author:RNO|pms-id:asm12/oldskool/432|title:Protein|youtube:0MNa-BtD4VQ
+author:RNO|pms-id:asm12/oldskool/432|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
 author:Upstars|pms-id:asm12/oldskool/478|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
-author:PWP|pms-id:asm12/oldskool/490|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
-author:Spaceballs|pms-id:asm12/oldskool/546|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
+author:PWP|pms-id:asm12/oldskool/490|techniques:6581 SID|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
+author:Spaceballs|pms-id:asm12/oldskool/546|techniques:Capture / play audio in MONO</p><p>(amiga stereo separation be retarded yo!)|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
 
 
 :section Short film
