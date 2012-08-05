@@ -35,7 +35,7 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniqu
 :section 4k intro
 :pms-category 4k_intro
 
-author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:ianm_JL6ME4
+author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
 author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
 author:Peisik & Tarhatarha|platform:Windows|pms-id:asm12/4k_intro/554|position:9|techniques:crinkler, 4klang|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
 author:XZM|platform:Windows|pms-id:asm12/4k_intro/627|position:5|techniques:4klang, Crinkler, isystem, GLSL Shader Minifier|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
@@ -58,7 +58,7 @@ author:npli|platform:Win32|pms-id:asm12/1k_intro/436|position:5|techniques:openg
 author:tArzAn / tAAt|platform:Windows|pms-id:asm12/1k_intro/446|position:9|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
 author:Ajna|platform:Windows|pms-id:asm12/1k_intro/453|position:14|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
 author:fsqrt + ye olde laptops posse|platform:linux|pms-id:asm12/1k_intro/454|position:13|techniques:softsynth, experimental cpu sphere tracing|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
-author:XZM|platform:Windows|pms-id:asm12/1k_intro/466|position:12|techniques:GLSL, Crinkler, isystem, sources included|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:md3gdgqGCh4
+author:XZM|platform:Windows|pms-id:asm12/1k_intro/466|position:12|techniques:GLSL, Crinkler, isystem, sources included|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:kKdadoZTnhI
 author:Shadikka|platform:Firefox (HTML5, mozAudio)|pms-id:asm12/1k_intro/468|position:7|techniques:JS, <canvas>, JSCrush, coffee|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
 author:Dzarg|platform:PC|pms-id:asm12/1k_intro/480|position:10|techniques:C++, GLSL, Crinkler|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
 author:Digimind|platform:PC|pms-id:asm12/1k_intro/517|position:4|techniques:Visual C++, Crinkler|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
