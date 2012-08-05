@@ -19,17 +19,20 @@ password = commandline_args.password
 files_root = commandline_args.files_root
 video_postfix = commandline_args.video_postfix
 
-def call_and_capture_output(args):
+def call_and_capture_output_real(args):
     p = subprocess.Popen(args, stdout=subprocess.PIPE)
     output, errors = p.communicate()
     outlines = output.strip().split("\n")
     return outlines
+def call_and_capture_output_fake(args):
+    return ["http://www.youtube.com/watch?v=asdf"]
 
 sleep_function = time.sleep
 if commandline_args.dry_run:
     sleep_function = lambda x : None
-    def call_and_capture_output(args):
-        return ["http://www.youtube.com/watch?v=asdf"]
+    call_and_capture_output = call_and_capture_output_fake
+else:
+    call_and_capture_output = call_and_capture_output_real
 
 yearline = sys.stdin.readline().strip()
 
@@ -141,7 +144,7 @@ for line in sys.stdin:
     tags = ",".join(tag_list)
 
     upload_trials = 0
-    args = ['youtube-upload', '--no-split', '--', email, password, video_file, youtube_title, description, category, tags]
+    args = ['youtube-upload', '--api-upload', '--email', email, '--password', password, '--category', category, '--keywords', tags, '--title', youtube_title, '--description', description, video_file]
     upload_success = False
     youtube_id = ''
     # 3 trials to upload video with one extra retry chance.
