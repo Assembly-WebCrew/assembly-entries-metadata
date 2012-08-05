@@ -1,6 +1,7 @@
 :year 2012
 
 :section Demo
+:youtube-playlist 5C332D948175CDF1
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
 
@@ -19,6 +20,7 @@ author:cncd|pms-id:asm12/demo/658|position:1|title:spacecut|video-file:demo/1505
 
 
 :section Real wild demo
+:youtube-playlist D4FEBF254AEAED48
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
