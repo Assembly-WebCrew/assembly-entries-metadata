@@ -35,6 +35,7 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniqu
 
 
 :section 4k intro
+:youtube-playlist B3A9905169E12774
 :pms-category 4k_intro
 
 author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
@@ -50,6 +51,7 @@ author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|techn
 
 
 :section 1k intro
+:youtube-playlist 1A3D3268F6672D47
 :pms-category 1k_intro
 
 author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
@@ -74,6 +76,7 @@ author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|techniques:o
 
 
 :section Oldskool demo
+:youtube-playlist C438EBFD372D368B
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
@@ -84,6 +87,7 @@ author:Spaceballs|platform:Amiga 500 (OCS, 512kb chip, 512kb fakefast)|pms-id:as
 
 
 :section Short film
+:youtube-playlist 937BAE7BCB95813C
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
@@ -98,6 +102,7 @@ author:HBC|pms-id:asm12/short_film/655|position:4|techniques:Blender, After Effe
 
 
 :section Gamedev
+:youtube-playlist DC2E882FDDC694B1
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -170,6 +175,7 @@ author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|platform:Pho
 
 
 :section Dance music
+:youtube-playlist DFDC28827702EFA7
 :pms-category dance_music
 
 author:Roz/Fit^RNO^wAMMA|pms-id:asm12/dance_music/406|position:10|techniques:Cubase|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
@@ -188,6 +194,7 @@ author:Dj Tabasco|pms-id:asm12/dance_music/623|position:6|techniques:FL Studio 9
 
 
 :section Listening music
+:youtube-playlist 1352BB3871323D13
 :pms-category listening_music
 
 author:Response / Darklite|platform:W7x86|pms-id:asm12/listening_music/400|position:13|techniques:FLStudio|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
@@ -206,6 +213,7 @@ author:notsie/npli|platform:All supported platforms|pms-id:asm12/listening_music
 
 
 :section Fast music
+:youtube-playlist 87EBD6D539F6EA75
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -231,6 +239,7 @@ author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe -
 
 
 :section Seminars
+:youtube-playlist A10BAD043DC6AA60
 
 author:Henry Brade|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
 author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
@@ -280,6 +289,7 @@ author:AssemblyTV|media:/vod/2012/winter/Timelapse.mp4|title:Time Lapse|youtube:
 
 
 :section Misc
+:youtube-playlist D36AAECB1BCC9598
 
 author:Ate Bit|description:Assembly Summer 2012 PC invitation intro.|download:http://media.assembly.org/summer12/atebit_asm2012invitro.zip|pouet:59454|title:PC invtro|youtube:hNvfRJORjck
 author:Dekadence and Extend|description:Commodore 64 invitation intro.|download:http://media.assembly.org/summer12/asm12inv-c64.zip|title:Commodore 64 invtro|youtube:7Hwsbn49dcQ
