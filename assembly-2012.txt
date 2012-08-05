@@ -4,228 +4,228 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
 
-author:Byterapers + Doomsday|pms-id:asm12/demo/482|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
-author:tAAt 2012|pms-id:asm12/demo/626|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
-author:Department of Offense|pms-id:asm12/demo/633|title:Booger|video-file:demo/1496_Demo_Booger_by_Department_of_Offense.mov|youtube:rm5i30tRepc
-author:cce and msqrt of Peisik|pms-id:asm12/demo/638|title:rushing into|video-file:demo/1497_Demo_rushing_into_by_cce_and_msqrt_of_Peisik.mov|youtube:WsLIBW4z5j8
-author:Rustbloom|pms-id:asm12/demo/641|title:Kauai-i|video-file:demo/1498_Demo_Kauaii_by_Rustbloom.mov|youtube:b6V-exq_LfU
-author:Division|pms-id:asm12/demo/642|title:Hedron|video-file:demo/1499_Demo_Hedron_by_Division.mov|youtube:s-WTp1Ot7EE
-author:Pyrotech|pms-id:asm12/demo/643|title:Escape|video-file:demo/1500_Demo_Escape_by_Pyrotech.mov|youtube:CFO9mifkNEg
-author:Hymy & Awind|pms-id:asm12/demo/644|title:Meteoroid|video-file:demo/1501_Demo_Meteoroid_by_Hymy__Awind.mov|youtube:YhO1d-Td-FQ
-author:Zden, Raiden, Ubik, Pavuk, Sustrate|pms-id:asm12/demo/654|title:Metamorf II|video-file:demo/1502_Demo_Metamorf_II_by_Zden_Raiden_Ubik_Pavuk_Sustrate.mov|youtube:4vsVi5U0dDg
-author:adapt|pms-id:asm12/demo/656|title:born stars|video-file:demo/1503_Demo_born_stars_by_adapt.mov|youtube:YQg0NFJb7Rg
-author:Elude|pms-id:asm12/demo/657|title:Reboxer|video-file:demo/1504_Demo_Reboxer_by_Elude.mov|youtube:IEWvnlcQazI
-author:cncd|pms-id:asm12/demo/658|title:spacecut|video-file:demo/1505_Demo_spacecut_by_cncd.mov|youtube:7PHFz6PHWw4
+author:Byterapers + Doomsday|platform:PC|pms-id:asm12/demo/482|position:4|techniques:Siinä paha missä mainitaan|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
+author:tAAt 2012|platform:Windows|pms-id:asm12/demo/626|position:9|techniques:Old & New|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
+author:Department of Offense|platform:Windows|pms-id:asm12/demo/633|position:11|techniques:SharpDX, DirectX 11|title:Booger|video-file:demo/1496_Demo_Booger_by_Department_of_Offense.mov|youtube:rm5i30tRepc
+author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/demo/638|position:12|techniques:glsl, fl studio, o'boy|title:rushing into|video-file:demo/1497_Demo_rushing_into_by_cce_and_msqrt_of_Peisik.mov|youtube:WsLIBW4z5j8
+author:Rustbloom|platform:Windows|pms-id:asm12/demo/641|position:7|title:Kauai-i|video-file:demo/1498_Demo_Kauaii_by_Rustbloom.mov|youtube:b6V-exq_LfU
+author:Division|platform:PC|pms-id:asm12/demo/642|position:3|techniques:DX9|title:Hedron|video-file:demo/1499_Demo_Hedron_by_Division.mov|youtube:s-WTp1Ot7EE
+author:Pyrotech|platform:PC|pms-id:asm12/demo/643|position:2|techniques:DX9|title:Escape|video-file:demo/1500_Demo_Escape_by_Pyrotech.mov|youtube:CFO9mifkNEg
+author:Hymy & Awind|platform:Windows|pms-id:asm12/demo/644|position:10|techniques:Opengl, GLSL|title:Meteoroid|video-file:demo/1501_Demo_Meteoroid_by_Hymy__Awind.mov|youtube:YhO1d-Td-FQ
+author:Zden, Raiden, Ubik, Pavuk, Sustrate|platform:windows|pms-id:asm12/demo/654|position:5|techniques:soft render|title:Metamorf II|video-file:demo/1502_Demo_Metamorf_II_by_Zden_Raiden_Ubik_Pavuk_Sustrate.mov|youtube:4vsVi5U0dDg
+author:adapt|platform:windoussi|pms-id:asm12/demo/656|position:8|techniques:dx9 and super powers from the greatest love of all born stars|title:born stars|video-file:demo/1503_Demo_born_stars_by_adapt.mov|youtube:YQg0NFJb7Rg
+author:Elude|platform:Amiga AGA|pms-id:asm12/demo/657|position:6|title:Reboxer|video-file:demo/1504_Demo_Reboxer_by_Elude.mov|youtube:IEWvnlcQazI
+author:cncd|pms-id:asm12/demo/658|position:1|title:spacecut|video-file:demo/1505_Demo_spacecut_by_cncd.mov|youtube:7PHFz6PHWw4
 
 
 :section Real wild demo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
-author:Bilotrip|pms-id:asm12/real_wild/403|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
-author:Kewlers|pms-id:asm12/real_wild/424|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
-author:The Royal Elite Ninjas Inc.|pms-id:asm12/real_wild/622|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov|youtube:Mbc6-yP9SzE
-author:npli|pms-id:asm12/real_wild/631|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov|youtube:ATz5ncUwgv4
-author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|pms-id:asm12/real_wild/634|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov|youtube:WUUnb1L8XNY
-author:Wide Load and Ananasmurska|pms-id:asm12/real_wild/635|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov|youtube:QKKCKMb2-ts
-author:Hedelmae|pms-id:asm12/real_wild/640|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov|youtube:wjCWDKoKcu8
-author:Resonance|pms-id:asm12/real_wild/649|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov|youtube:KEqzNokxWaI
+author:Bilotrip|platform:iOS 5.1|pms-id:asm12/real_wild/403|position:7|techniques:GPUImage framework & OpenGL ES 2.0|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
+author:Kewlers|platform:Android (Galaxy Nexus)|pms-id:asm12/real_wild/424|position:3|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
+author:The Royal Elite Ninjas Inc.|platform:Nintendo DS|pms-id:asm12/real_wild/622|position:8|techniques:Bardit 24/7|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov|youtube:Mbc6-yP9SzE
+author:npli|platform:Nokia N8 / Nokia Belle|pms-id:asm12/real_wild/631|position:2|techniques:OpenGL ES 2, GNU Rocket, Inca Kola|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov|youtube:ATz5ncUwgv4
+author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|platform:Apple Lisa 2/10|pms-id:asm12/real_wild/634|position:1|techniques:Technique:  Custom hardware for audio card and DVI output, otherwise unmodified Lisa 2/10|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov|youtube:WUUnb1L8XNY
+author:Wide Load and Ananasmurska|platform:Windows Phone 7.5|pms-id:asm12/real_wild/635|position:5|techniques:XNA, Renoise, Adobe Flash, Blender, Visual Studio|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov|youtube:QKKCKMb2-ts
+author:Hedelmae|platform:Android|pms-id:asm12/real_wild/640|position:4|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov|youtube:wjCWDKoKcu8
+author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniques:Javascript + WebGL|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov|youtube:KEqzNokxWaI
 
 
 :section 4k intro
 :pms-category 4k_intro
 
-author:Blobtrox|pms-id:asm12/4k_intro/417|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:ianm_JL6ME4
-author:lucid|pms-id:asm12/4k_intro/470|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
-author:Peisik & Tarhatarha|pms-id:asm12/4k_intro/554|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
-author:XZM|pms-id:asm12/4k_intro/627|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
-author:Digimind & Silent|pms-id:asm12/4k_intro/628|title:Alien Station|video-file:4k-intro/1480_4k_Alien_Station_by_Digimind__Silent.mov|youtube:pG_lpibfegU
-author:mfx|pms-id:asm12/4k_intro/632|title:Reionization|video-file:4k-intro/1481_4k_Reionization_by_mfx.mov|youtube:lry7-6fTjSQ
-author:Fulcrum|pms-id:asm12/4k_intro/636|title:Finite Horizon Regret|video-file:4k-intro/1482_4k_Finite_Horizon_Regret_by_Fulcrum.mov|youtube:ltsbPfTvJbw
-author:oo|pms-id:asm12/4k_intro/639|title:Black Patch|video-file:4k-intro/1483_4k_Black_Patch_by_oo.mov|youtube:tgDExLleF1s
-author:adapt|pms-id:asm12/4k_intro/651|title:xperiment in a box|video-file:4k-intro/1484_4k_xperiment_in_a_box_by_adapt.mov|youtube:3wwoiBu2AYU
-author:Saint Porn|pms-id:asm12/4k_intro/653|title:ES-pärinä on matka|video-file:4k-intro/1485_4k_ESparina_on_matka_by_Saint_Porn.mov|youtube:a7OxtxsmA28
+author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:ianm_JL6ME4
+author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
+author:Peisik & Tarhatarha|platform:Windows|pms-id:asm12/4k_intro/554|position:9|techniques:crinkler, 4klang|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
+author:XZM|platform:Windows|pms-id:asm12/4k_intro/627|position:5|techniques:4klang, Crinkler, isystem, GLSL Shader Minifier|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
+author:Digimind & Silent|platform:PC|pms-id:asm12/4k_intro/628|position:8|techniques:Visual C++, Shader minifier, Crinkler|title:Alien Station|video-file:4k-intro/1480_4k_Alien_Station_by_Digimind__Silent.mov|youtube:pG_lpibfegU
+author:mfx|platform:pc|pms-id:asm12/4k_intro/632|position:2|techniques:opengl|title:Reionization|video-file:4k-intro/1481_4k_Reionization_by_mfx.mov|youtube:lry7-6fTjSQ
+author:Fulcrum|platform:PC|pms-id:asm12/4k_intro/636|position:4|techniques:Crinkler, 4Klang, Shader minifier, 4KStudio|title:Finite Horizon Regret|video-file:4k-intro/1482_4k_Finite_Horizon_Regret_by_Fulcrum.mov|youtube:ltsbPfTvJbw
+author:oo|platform:PC|pms-id:asm12/4k_intro/639|position:7|techniques:C++, OpenGL, GLSL, 4klang|title:Black Patch|video-file:4k-intro/1483_4k_Black_Patch_by_oo.mov|youtube:tgDExLleF1s
+author:adapt|platform:windows|pms-id:asm12/4k_intro/651|position:3|techniques:dx9, maito, vichy novelle plus magnesium c "palauttaa rasituksesta"|title:xperiment in a box|video-file:4k-intro/1484_4k_xperiment_in_a_box_by_adapt.mov|youtube:3wwoiBu2AYU
+author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|techniques:partycoding, hells yeah|title:ES-pärinä on matka|video-file:4k-intro/1485_4k_ESparina_on_matka_by_Saint_Porn.mov|youtube:a7OxtxsmA28
 
 
 :section 1k intro
 :pms-category 1k_intro
 
-author:TDA|pms-id:asm12/1k_intro/407|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
-author:Itchi / Lonely Coders|pms-id:asm12/1k_intro/412|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
-author:Luminesce|pms-id:asm12/1k_intro/422|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov|youtube:i02gIx7FQac
-author:npli|pms-id:asm12/1k_intro/429|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov|youtube:zL2WqvdzYfg
-author:npli|pms-id:asm12/1k_intro/436|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov|youtube:N6vl5yYBTM8
-author:tArzAn / tAAt|pms-id:asm12/1k_intro/446|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
-author:Ajna|pms-id:asm12/1k_intro/453|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
-author:fsqrt + ye olde laptops posse|pms-id:asm12/1k_intro/454|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
-author:XZM|pms-id:asm12/1k_intro/466|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:md3gdgqGCh4
-author:Shadikka|pms-id:asm12/1k_intro/468|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
-author:Dzarg|pms-id:asm12/1k_intro/480|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
-author:Digimind|pms-id:asm12/1k_intro/517|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
-author:Spaceballs|pms-id:asm12/1k_intro/523|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov|youtube:eoOKkxXGQLc
-author:Yzi/Fit|pms-id:asm12/1k_intro/525|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov|youtube:XOnk9a3FgWs
-author:TBC|pms-id:asm12/1k_intro/528|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
-author:yolp|pms-id:asm12/1k_intro/548|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
-author:cce and msqrt of Peisik|pms-id:asm12/1k_intro/553|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
-author:Cenon|pms-id:asm12/1k_intro/566|title:K-Dur|video-file:1k-intro/1464_1k_KDur_by_Cenon.mov|youtube:hOlPzrQjnTQ
-author:adapt|pms-id:asm12/1k_intro/608|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
+author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
+author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
+author:Luminesce|platform:OpenGL|pms-id:asm12/1k_intro/422|position:3|techniques:Voodoo magic|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov|youtube:i02gIx7FQac
+author:npli|platform:Win32|pms-id:asm12/1k_intro/429|position:6|techniques:Directx 9, Nasm, 1kpack|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov|youtube:zL2WqvdzYfg
+author:npli|platform:Win32|pms-id:asm12/1k_intro/436|position:5|techniques:opengl 1.1, msvc, masm, crinkler|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov|youtube:N6vl5yYBTM8
+author:tArzAn / tAAt|platform:Windows|pms-id:asm12/1k_intro/446|position:9|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
+author:Ajna|platform:Windows|pms-id:asm12/1k_intro/453|position:14|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
+author:fsqrt + ye olde laptops posse|platform:linux|pms-id:asm12/1k_intro/454|position:13|techniques:softsynth, experimental cpu sphere tracing|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
+author:XZM|platform:Windows|pms-id:asm12/1k_intro/466|position:12|techniques:GLSL, Crinkler, isystem, sources included|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:md3gdgqGCh4
+author:Shadikka|platform:Firefox (HTML5, mozAudio)|pms-id:asm12/1k_intro/468|position:7|techniques:JS, <canvas>, JSCrush, coffee|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
+author:Dzarg|platform:PC|pms-id:asm12/1k_intro/480|position:10|techniques:C++, GLSL, Crinkler|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
+author:Digimind|platform:PC|pms-id:asm12/1k_intro/517|position:4|techniques:Visual C++, Crinkler|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
+author:Spaceballs|platform:AMIGAAAAH (bootblock)|pms-id:asm12/1k_intro/523|position:11|techniques:Being too stupid to ever quit...|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov|youtube:eoOKkxXGQLc
+author:Yzi/Fit|platform:Windows|pms-id:asm12/1k_intro/525|position:17|techniques:Greetings to Buzzer|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov|youtube:XOnk9a3FgWs
+author:TBC|platform:Windows / DX9|pms-id:asm12/1k_intro/528|position:2|techniques:asm, custom compressor|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
+author:yolp|platform:linux|pms-id:asm12/1k_intro/548|position:19|techniques:glsl, softsynth, 2 hours|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
+author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/1k_intro/553|position:15|techniques:GLSL|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
+author:Cenon|platform:Windows|pms-id:asm12/1k_intro/566|position:18|techniques:GLSL, Crinkler|title:K-Dur|video-file:1k-intro/1464_1k_KDur_by_Cenon.mov|youtube:hOlPzrQjnTQ
+author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|techniques:opengl, crinkler, gm, lotsa water for splashin|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
 
 
 :section Oldskool demo
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
-author:RNO|pms-id:asm12/oldskool/432|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
-author:Upstars|pms-id:asm12/oldskool/478|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
-author:PWP|pms-id:asm12/oldskool/490|techniques:6581 SID|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
-author:Spaceballs|pms-id:asm12/oldskool/546|techniques:Capture / play audio in MONO</p><p>(amiga stereo separation be retarded yo!)|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
+author:RNO|platform:Atari ST|pms-id:asm12/oldskool/432|position:3|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
+author:Upstars|platform:C-64|pms-id:asm12/oldskool/478|position:4|techniques:Turbo Assembler|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
+author:PWP|platform:C-64|pms-id:asm12/oldskool/490|position:1|techniques:6581 SID|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
+author:Spaceballs|platform:Amiga 500 (OCS, 512kb chip, 512kb fakefast)|pms-id:asm12/oldskool/546|position:2|techniques:Skryting, juging, juksing og annen generell oldshoolness...|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
 
 
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
-author:BeastrickAnimations|pms-id:asm12/short_film/451|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
-author:Pistoke|pms-id:asm12/short_film/456|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
-author:Team Mars Effect|pms-id:asm12/short_film/476|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov|youtube:45cj9yu8AqE
-author:Datafox Studios|pms-id:asm12/short_film/630|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov|youtube:t7pYKMWw8NI
-author:Damn Creepers|pms-id:asm12/short_film/637|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov|youtube:nn5i2KAXU_8
-author:sba|pms-id:asm12/short_film/645|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov|youtube:ZZ813tBFLfg
-author:SkyWay/Cylenth Vision|pms-id:asm12/short_film/647|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov|youtube:mPmln33FmpM
-author:HBC|pms-id:asm12/short_film/655|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov|youtube:r7DbPxWkpXw
+author:BeastrickAnimations|platform:PC|pms-id:asm12/short_film/451|position:8|techniques:Cinema 4D, After Effects|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
+author:Pistoke|pms-id:asm12/short_film/456|position:2|techniques:Blender3D, After Effects|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
+author:Team Mars Effect|platform:PC|pms-id:asm12/short_film/476|position:3|techniques:Blender|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov|youtube:45cj9yu8AqE
+author:Datafox Studios|platform:PC, Adobe After Effects, FL Studio, GIMP|pms-id:asm12/short_film/630|position:5|techniques:Forced ideas|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov|youtube:t7pYKMWw8NI
+author:Damn Creepers|platform:Toys & Crayons|pms-id:asm12/short_film/637|position:1|techniques:Wild animation|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov|youtube:nn5i2KAXU_8
+author:sba|platform:tasanne|pms-id:asm12/short_film/645|position:6|techniques:kasio|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov|youtube:ZZ813tBFLfg
+author:SkyWay/Cylenth Vision|platform:PC|pms-id:asm12/short_film/647|position:7|techniques:Blender, After Effects, Renderfarm.fi|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov|youtube:mPmln33FmpM
+author:HBC|pms-id:asm12/short_film/655|position:4|techniques:Blender, After Effects|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov|youtube:r7DbPxWkpXw
 
 
 :section Gamedev
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Down Under|pms-id:asm12/gamedev/366|title:Bodgy Bee|youtube:sTCuxwzYePg
-author:Mikko Pulkki|pms-id:asm12/gamedev/368|title:Corneroids|youtube:Pxk-hvuV0bQ
-author:Delicious Construct|pms-id:asm12/gamedev/369|title:Golem Rumble!|youtube:r4wgiie-Lqo
-author:Kajak Games|pms-id:asm12/gamedev/373|title:Soul Devour|youtube:gaFd2KTqVQw
-author:Centria ammattikorkeakoulu|pms-id:asm12/gamedev/375|title:Steamdroid|youtube:b_ugB9-KlRY
-author:Nice To Have Feature|pms-id:asm12/gamedev/378|title:Buccaneer Bombardment|youtube:-fnl2leEjQ4
-author:Bluefox Games|pms-id:asm12/gamedev/379|title:Pyxenos|youtube:6uS77VJ17OE
-author:Grit Studio|pms-id:asm12/gamedev/381|title:Pogostick Panda|youtube:Pw9s8LtJl54
-author:KimmoS|pms-id:asm12/gamedev/382|title:Goldwingu|youtube:Lfemo1GTPBA
-author:McBurrobit|pms-id:asm12/gamedev/384|title:MÄYRÄ|youtube:BLUPk8eholQ
-author:tAAt 2012|pms-id:asm12/gamedev/385|title:K2|youtube:DwbLThYk6LM
-author:Odios|pms-id:asm12/gamedev/386|title:Flou|youtube:5LwLXUpH0Gc
-author:Kepuli Games|pms-id:asm12/gamedev/389|title:Force: Leashed|youtube:X_h2LU0omsU
-author:Pizzalaatikko|pms-id:asm12/gamedev/390|title:SEKO|youtube:qiwfXJYlrAg
-author:Matti Ruupunen|pms-id:asm12/gamedev/391|title:Gravite|youtube:gQb0In4Dy_s
-author:Bombsquad|pms-id:asm12/gamedev/394|title:Lavalanche|youtube:LjzLHjVknKA
+author:Down Under|platform:PC|pms-id:asm12/gamedev/366|position:11|techniques:Unity|title:Bodgy Bee|youtube:sTCuxwzYePg
+author:Mikko Pulkki|platform:Windows|pms-id:asm12/gamedev/368|position:3|techniques:C#, .NET 3.5, XNA|title:Corneroids|youtube:Pxk-hvuV0bQ
+author:Delicious Construct|platform:PC|pms-id:asm12/gamedev/369|position:10|techniques:C# + XNA, Photoshop + 3DS Max, skill|title:Golem Rumble!|youtube:r4wgiie-Lqo
+author:Kajak Games|platform:PC|pms-id:asm12/gamedev/373|position:14|techniques:C#,Xna,Flash,Photoshop,MSWord,MSVisio,Audacity,Blender,MSExcel|title:Soul Devour|youtube:gaFd2KTqVQw
+author:Centria ammattikorkeakoulu|platform:Windows|pms-id:asm12/gamedev/375|position:13|techniques:Unity,3DsMax,Blender,Photoshop,FL studio,Adobe audition|title:Steamdroid|youtube:b_ugB9-KlRY
+author:Nice To Have Feature|platform:PC|pms-id:asm12/gamedev/378|position:12|techniques:XNA|title:Buccaneer Bombardment|youtube:-fnl2leEjQ4
+author:Bluefox Games|platform:Windows|pms-id:asm12/gamedev/379|position:5|techniques:C++, SFML, Lots of Metaballs|title:Pyxenos|youtube:6uS77VJ17OE
+author:Grit Studio|platform:PC & iPhone|pms-id:asm12/gamedev/381|position:7|techniques:Unity & Slapstick humour|title:Pogostick Panda|youtube:Pw9s8LtJl54
+author:KimmoS|platform:Java|pms-id:asm12/gamedev/382|position:16|techniques:Java Lighweight Game Library, Slick2D|title:Goldwingu|youtube:Lfemo1GTPBA
+author:McBurrobit|platform:PC|pms-id:asm12/gamedev/384|position:9|techniques:Flixe, XNA|title:MÄYRÄ|youtube:BLUPk8eholQ
+author:tAAt 2012|platform:Windows|pms-id:asm12/gamedev/385|position:6|title:K2|youtube:DwbLThYk6LM
+author:Odios|platform:Windows Phone 7.5|pms-id:asm12/gamedev/386|position:4|techniques:XNA, Adobe photoshop, Adobe Flash, Visual Studio|title:Flou|youtube:5LwLXUpH0Gc
+author:Kepuli Games|platform:Windows|pms-id:asm12/gamedev/389|position:2|techniques:fteqcc, blender, gimp, worldcraft|title:Force: Leashed|youtube:X_h2LU0omsU
+author:Pizzalaatikko|platform:Windows, Linux 64-bit|pms-id:asm12/gamedev/390|position:8|techniques:OpenGL, C++|title:SEKO|youtube:qiwfXJYlrAg
+author:Matti Ruupunen|platform:Windows|pms-id:asm12/gamedev/391|position:15|techniques:XNA|title:Gravite|youtube:gQb0In4Dy_s
+author:Bombsquad|platform:PC|pms-id:asm12/gamedev/394|position:1|title:Lavalanche|youtube:LjzLHjVknKA
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:Nina Ikävalko|image-file:graphics/000-stuck-in-life-408.png|pms-id:asm12/graphics/408|title:Stuck in Life
-author:I.A.Jääskeläinen / Finity Games|image-file:graphics/000-sir-huomisaamu-409.png|pms-id:asm12/graphics/409|title:Sir Huomisaamu
-author:Valtteri/HBC|image-file:graphics/000-robox-says-hi-427.png|pms-id:asm12/graphics/427|title:Robox says hi
-author:Ixtor|image-file:graphics/000-lord-ember-s-spiced-wine-452.jpeg|pms-id:asm12/graphics/452|title:Lord Ember's Spiced Wine
-author:offwhite|image-file:graphics/000-mocking-jay-463.png|pms-id:asm12/graphics/463|title:Mocking Jay
-author:Partikle|image-file:graphics/000-a-wild-bunch-472.jpeg|pms-id:asm12/graphics/472|title:A Wild Bunch
-author:MacGywer / npli|image-file:graphics/000-rabbit-deployment-force-495.jpeg|pms-id:asm12/graphics/495|title:Rabbit Deployment Force
-author:Penkkirivimies|image-file:graphics/000-light-on-505.jpeg|pms-id:asm12/graphics/505|title:Light on
-author:maxon / HBC|image-file:graphics/000-time-for-your-own-thoughts-526.png|pms-id:asm12/graphics/526|title:Time for your own thoughts
-author:E-V-M|image-file:graphics/000-arrival-529.jpeg|pms-id:asm12/graphics/529|title:Arrival
-author:Darkki|image-file:graphics/000-its-probably-going-to-rain-531.png|pms-id:asm12/graphics/531|title:Its probably going to rain
-author:Surround / Tekotuotanto|image-file:graphics/000-dragon-outbreak-537.png|pms-id:asm12/graphics/537|title:Dragon Outbreak
-author:Ivan Zlobov|image-file:graphics/000-nuclear-smoking-541.png|pms-id:asm12/graphics/541|title:Nuclear Smoking
-author:Mazor / Fairlight|image-file:graphics/000-a-dancer-to-tip-to-543.png|pms-id:asm12/graphics/543|title:A Dancer To Tip To
-author:Maraia|image-file:graphics/000-six-against-one-is-unfair-555.png|pms-id:asm12/graphics/555|title:Six against one is unfair
-author:Hbt|image-file:graphics/000-it-s-all-in-your-head-629.png|pms-id:asm12/graphics/629|title:It's all in your head
+author:Nina Ikävalko|image-file:graphics/000-stuck-in-life-408.png|pms-id:asm12/graphics/408|position:3|techniques:Painted in openCanvas and Photoshop|title:Stuck in Life
+author:I.A.Jääskeläinen / Finity Games|image-file:graphics/000-sir-huomisaamu-409.png|pms-id:asm12/graphics/409|position:16|techniques:pen, pencil, Gimp|title:Sir Huomisaamu
+author:Valtteri/HBC|image-file:graphics/000-robox-says-hi-427.png|platform:PC|pms-id:asm12/graphics/427|position:12|techniques:Marker pen, Photoshop|title:Robox says hi
+author:Ixtor|image-file:graphics/000-lord-ember-s-spiced-wine-452.jpeg|platform:Photoshop, PC|pms-id:asm12/graphics/452|position:15|techniques:Digital drawing / Digital painting|title:Lord Ember's Spiced Wine
+author:offwhite|image-file:graphics/000-mocking-jay-463.png|platform:pc|pms-id:asm12/graphics/463|position:2|techniques:photoshop cs4, wacom intous4|title:Mocking Jay
+author:Partikle|image-file:graphics/000-a-wild-bunch-472.jpeg|pms-id:asm12/graphics/472|position:11|title:A Wild Bunch
+author:MacGywer / npli|image-file:graphics/000-rabbit-deployment-force-495.jpeg|platform:JPG|pms-id:asm12/graphics/495|position:4|techniques:Photoshop drawing with minor Illustrator|title:Rabbit Deployment Force
+author:Penkkirivimies|image-file:graphics/000-light-on-505.jpeg|platform:JPG|pms-id:asm12/graphics/505|position:13|techniques:Sculptris Alpha 6, Photoshop, Stock metal textures|title:Light on
+author:maxon / HBC|image-file:graphics/000-time-for-your-own-thoughts-526.png|pms-id:asm12/graphics/526|position:6|techniques:3D + compositing|title:Time for your own thoughts
+author:E-V-M|image-file:graphics/000-arrival-529.jpeg|pms-id:asm12/graphics/529|position:7|techniques:Photoshop|title:Arrival
+author:Darkki|image-file:graphics/000-its-probably-going-to-rain-531.png|platform:pc|pms-id:asm12/graphics/531|position:1|techniques:3dsmax on paras :D ja photoshop :D|title:Its probably going to rain
+author:Surround / Tekotuotanto|image-file:graphics/000-dragon-outbreak-537.png|platform:Master race = pc|pms-id:asm12/graphics/537|position:8|techniques:3ds max and photshop photoshop photoshop|title:Dragon Outbreak
+author:Ivan Zlobov|image-file:graphics/000-nuclear-smoking-541.png|pms-id:asm12/graphics/541|position:9|techniques:Zbrush, 3dsMax, Photoshop. Sculpted, rendered, overpainted.|title:Nuclear Smoking
+author:Mazor / Fairlight|image-file:graphics/000-a-dancer-to-tip-to-543.png|platform:Mac|pms-id:asm12/graphics/543|position:5|techniques:Wacom, Photoshop & LightWave|title:A Dancer To Tip To
+author:Maraia|image-file:graphics/000-six-against-one-is-unfair-555.png|pms-id:asm12/graphics/555|position:10|techniques:Marker pens, Photoshop|title:Six against one is unfair
+author:Hbt|image-file:graphics/000-it-s-all-in-your-head-629.png|platform:Steve|pms-id:asm12/graphics/629|position:14|techniques:Hands & Photoshop & Steve Magic|title:It's all in your head
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with some theme.</p>
 
-author:Valtteri/HBC|image-file:fast-graphics/000-562-colossal-detail.png|pms-id:asm12/fast_graphics/562|title:Colossal detail
-author:Hoaxi / Pyrotech|image-file:fast-graphics/000-564-wtf-moment.png|pms-id:asm12/fast_graphics/564|title:WTF-moment
-author:John Peeba|image-file:fast-graphics/000-565-mechanical-surgery.png|pms-id:asm12/fast_graphics/565|title:Mechanical Surgery
-author:Irah|image-file:fast-graphics/000-568-permanent-delivery-delay.png|pms-id:asm12/fast_graphics/568|title:Permanent Delivery Delay
-author:Mig26|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|title:Eye for Detail
-author:sssampo/Pistoke|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|title:Suction
-author:Surround / Tekotuotanto|pms-id:asm12/fast_graphics/580|title:Paint me like your french girls
-author:MacGywer / npli|image-file:fast-graphics/000-581-extreme-interpolation.png|pms-id:asm12/fast_graphics/581|title:Extreme interpolation
-author:Dekus|image-file:fast-graphics/000-583-solar-magna.png|pms-id:asm12/fast_graphics/583|title:Solar Magna
-author:offwhite|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|pms-id:asm12/fast_graphics/584|title:A moose in the sunset
-author:Minelo|image-file:fast-graphics/000-589-faces.png|pms-id:asm12/fast_graphics/589|title:Faces
-author:Felor/HBC|image-file:fast-graphics/000-598-scene-phone.png|pms-id:asm12/fast_graphics/598|title:Scene Phone
-author:Love you all <3!|image-file:fast-graphics/000-599-modern-day-princess.png|pms-id:asm12/fast_graphics/599|title:Modern day princess
-author:the_grim|image-file:fast-graphics/000-600-too-much-thinking.png|pms-id:asm12/fast_graphics/600|title:Too much thinking
-author:Noke|image-file:fast-graphics/000-601-exhausted.png|pms-id:asm12/fast_graphics/601|title:Exhausted
-author:Henry|image-file:fast-graphics/000-604-henry-harkonen.png|pms-id:asm12/fast_graphics/604|title:Henry Härkönen
-author:Nappu|image-file:fast-graphics/000-605-kittycat.png|pms-id:asm12/fast_graphics/605|title:Kittycat
-author:hardhill / Laserboy + Hot Multimedia|image-file:fast-graphics/000-606-realism-isn-t-always-superior.png|pms-id:asm12/fast_graphics/606|title:Realism isn't always superior
-author:Veli Nyström (Vablo)|image-file:fast-graphics/000-609-fancy-armor.png|pms-id:asm12/fast_graphics/609|title:Fancy Armor
-author:Random/Gfxile|image-file:fast-graphics/000-611-i-am-in-the-details.png|pms-id:asm12/fast_graphics/611|title:I am in the Details
-author:maxon / HBC|image-file:fast-graphics/000-614-splat.png|pms-id:asm12/fast_graphics/614|title:Splat
-author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|pms-id:asm12/fast_graphics/618|title:I am not on drugs
+author:Valtteri/HBC|image-file:fast-graphics/000-562-colossal-detail.png|platform:PC|pms-id:asm12/fast_graphics/562|position:21|techniques:Photoshop|title:Colossal detail
+author:Hoaxi / Pyrotech|image-file:fast-graphics/000-564-wtf-moment.png|platform:pc|pms-id:asm12/fast_graphics/564|position:3|techniques:Photos, draw and heavy photoshop|title:WTF-moment
+author:John Peeba|image-file:fast-graphics/000-565-mechanical-surgery.png|platform:PC|pms-id:asm12/fast_graphics/565|position:2|techniques:Photoshop, Tablet|title:Mechanical Surgery
+author:Irah|image-file:fast-graphics/000-568-permanent-delivery-delay.png|platform:PC|pms-id:asm12/fast_graphics/568|position:12|techniques:Gimp|title:Permanent Delivery Delay
+author:Mig26|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|position:16|techniques:Blender + Apophysis + GIMP|title:Eye for Detail
+author:sssampo/Pistoke|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|position:15|techniques:Blender3D|title:Suction
+author:Surround / Tekotuotanto|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls
+author:MacGywer / npli|image-file:fast-graphics/000-581-extreme-interpolation.png|platform:JPG|pms-id:asm12/fast_graphics/581|position:13|techniques:Photoshop|title:Extreme interpolation
+author:Dekus|image-file:fast-graphics/000-583-solar-magna.png|platform:PC|pms-id:asm12/fast_graphics/583|position:4|techniques:Photoshop, wacom|title:Solar Magna
+author:offwhite|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|platform:pc|pms-id:asm12/fast_graphics/584|position:6|techniques:photoshop cs4, wacom intous4|title:A moose in the sunset
+author:Minelo|image-file:fast-graphics/000-589-faces.png|platform:PC|pms-id:asm12/fast_graphics/589|position:8|techniques:Adobe Photoshop|title:Faces
+author:Felor/HBC|image-file:fast-graphics/000-598-scene-phone.png|pms-id:asm12/fast_graphics/598|position:18|techniques:Silo, Blender|title:Scene Phone
+author:Love you all <3!|image-file:fast-graphics/000-599-modern-day-princess.png|pms-id:asm12/fast_graphics/599|position:5|techniques:digital painting, gimp + wacom graphire.|title:Modern day princess
+author:the_grim|image-file:fast-graphics/000-600-too-much-thinking.png|platform:PC|pms-id:asm12/fast_graphics/600|position:9|techniques:3ds max + mental ray|title:Too much thinking
+author:Noke|image-file:fast-graphics/000-601-exhausted.png|platform:Photoshop|pms-id:asm12/fast_graphics/601|position:17|techniques:Photoshop|title:Exhausted
+author:Henry|image-file:fast-graphics/000-604-henry-harkonen.png|platform:PC|pms-id:asm12/fast_graphics/604|position:19|techniques:3D graphics|title:Henry Härkönen
+author:Nappu|image-file:fast-graphics/000-605-kittycat.png|platform:PC|pms-id:asm12/fast_graphics/605|position:7|techniques:Photoshop|title:Kittycat
+author:hardhill / Laserboy + Hot Multimedia|image-file:fast-graphics/000-606-realism-isn-t-always-superior.png|pms-id:asm12/fast_graphics/606|position:22|techniques:Photoshop CS6 + Intuos3 + Panic|title:Realism isn't always superior
+author:Veli Nyström (Vablo)|image-file:fast-graphics/000-609-fancy-armor.png|platform:Win 7|pms-id:asm12/fast_graphics/609|position:11|techniques:Photoshop CS5, digipainting|title:Fancy Armor
+author:Random/Gfxile|image-file:fast-graphics/000-611-i-am-in-the-details.png|pms-id:asm12/fast_graphics/611|position:10|techniques:Painting & photography|title:I am in the Details
+author:maxon / HBC|image-file:fast-graphics/000-614-splat.png|pms-id:asm12/fast_graphics/614|position:14|title:Splat
+author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|platform:Photoshop|pms-id:asm12/fast_graphics/618|position:20|techniques:Digitaalinen töhertäminen, tabletti|title:I am not on drugs
 
 
 :section Dance music
 :pms-category dance_music
 
-author:Roz/Fit^RNO^wAMMA|pms-id:asm12/dance_music/406|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
-author:DJ Joge / Brainstorm|pms-id:asm12/dance_music/416|title:Electrified|video-file:dance-music/000-electrified-416.mp3.avi|youtube:tIYTrR0prP8
-author:Insu / Damones|pms-id:asm12/dance_music/425|title:Autumn|video-file:dance-music/000-autumn-425.mp3.avi|youtube:HFBdyH7b7iQ
-author:Maulwurf ft. Amumi|pms-id:asm12/dance_music/438|title:I'm Not Saying It Was Aliens But Dude, It Was Aliens|video-file:dance-music/000-i-m-not-saying-it-was-aliens-but-dude-it-was-aliens-438.mp3.avi|youtube:sfTjfEAirNc
-author:DJ Rx|pms-id:asm12/dance_music/441|title:Equilibrium|video-file:dance-music/000-equilibrium-441.mp3.avi|youtube:wQBuP96GnIY
-author:Alek Szahala|pms-id:asm12/dance_music/444|title:Lovestream|video-file:dance-music/000-lovestream-444.mp3.avi|youtube:we6Kagpjz_c
-author:Byproduct|pms-id:asm12/dance_music/447|title:by by|video-file:dance-music/000-by-by-447.mp3.avi|youtube:zivoEQYvv8o
-author:Zimbaland|pms-id:asm12/dance_music/461|title:Shake it with NES|video-file:dance-music/000-shake-it-with-nes-461.mp3.avi|youtube:Q60JrtQVF54
-author:signal|pms-id:asm12/dance_music/465|title:Space Age|video-file:dance-music/000-space-age-465.mp3.avi|youtube:F5wDZubzwQk
-author:King Thrill / Tekotuotanto|pms-id:asm12/dance_music/535|title:Grandpa's Humppa Riot|video-file:dance-music/000-grandpa-s-humppa-riot-535.mp3.avi|youtube:aK_enW_-Zxk
-author:1nsane|pms-id:asm12/dance_music/539|title:Free|video-file:dance-music/000-free-539.mp3.avi|youtube:nhu3icYVzOs
-author:emme|pms-id:asm12/dance_music/569|title:haveanicewdance|video-file:dance-music/000-haveanicewdance-569.mp3.avi|youtube:U15pkmJh5f4
-author:Dj Tabasco|pms-id:asm12/dance_music/623|title:L'historie De La Vie|video-file:dance-music/000-l-historie-de-la-vie-623.mp3.avi|youtube:aMrBA_zQPpY
+author:Roz/Fit^RNO^wAMMA|pms-id:asm12/dance_music/406|position:10|techniques:Cubase|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
+author:DJ Joge / Brainstorm|platform:PC|pms-id:asm12/dance_music/416|position:5|techniques:Renoise|title:Electrified|video-file:dance-music/000-electrified-416.mp3.avi|youtube:tIYTrR0prP8
+author:Insu / Damones|platform:PC|pms-id:asm12/dance_music/425|position:11|techniques:Software, Sampling, virtual synthesizers and Hardware synthesizers.|title:Autumn|video-file:dance-music/000-autumn-425.mp3.avi|youtube:HFBdyH7b7iQ
+author:Maulwurf ft. Amumi|platform:PC|pms-id:asm12/dance_music/438|position:2|techniques:Insane guitar and FL10 skills, Not as insane equipment and ~50h of hard work.|title:I'm Not Saying It Was Aliens But Dude, It Was Aliens|video-file:dance-music/000-i-m-not-saying-it-was-aliens-but-dude-it-was-aliens-438.mp3.avi|youtube:sfTjfEAirNc
+author:DJ Rx|platform:Mac|pms-id:asm12/dance_music/441|position:4|techniques:Logic Pro|title:Equilibrium|video-file:dance-music/000-equilibrium-441.mp3.avi|youtube:wQBuP96GnIY
+author:Alek Szahala|platform:PC|pms-id:asm12/dance_music/444|position:7|techniques:Reason 4 + FL Studio 10|title:Lovestream|video-file:dance-music/000-lovestream-444.mp3.avi|youtube:we6Kagpjz_c
+author:Byproduct|platform:PC|pms-id:asm12/dance_music/447|position:9|techniques:FL Studio, QuadraSIDt|title:by by|video-file:dance-music/000-by-by-447.mp3.avi|youtube:zivoEQYvv8o
+author:Zimbaland|platform:PC: 486 66mHz etc.|pms-id:asm12/dance_music/461|position:3|techniques:Impulse Tracker with NES-samples and -effects only|title:Shake it with NES|video-file:dance-music/000-shake-it-with-nes-461.mp3.avi|youtube:Q60JrtQVF54
+author:signal|platform:PC|pms-id:asm12/dance_music/465|position:12|techniques:space age technology|title:Space Age|video-file:dance-music/000-space-age-465.mp3.avi|youtube:F5wDZubzwQk
+author:King Thrill / Tekotuotanto|pms-id:asm12/dance_music/535|position:1|techniques:Reaper|title:Grandpa's Humppa Riot|video-file:dance-music/000-grandpa-s-humppa-riot-535.mp3.avi|youtube:aK_enW_-Zxk
+author:1nsane|platform:PC|pms-id:asm12/dance_music/539|position:8|techniques:FL-Studio, Sylenth1, Hydra etc.|title:Free|video-file:dance-music/000-free-539.mp3.avi|youtube:nhu3icYVzOs
+author:emme|pms-id:asm12/dance_music/569|position:13|techniques:FLStudio|title:haveanicewdance|video-file:dance-music/000-haveanicewdance-569.mp3.avi|youtube:U15pkmJh5f4
+author:Dj Tabasco|pms-id:asm12/dance_music/623|position:6|techniques:FL Studio 9, Sylenth1, VES2|title:L'historie De La Vie|video-file:dance-music/000-l-historie-de-la-vie-623.mp3.avi|youtube:aMrBA_zQPpY
 
 
 :section Listening music
 :pms-category listening_music
 
-author:Response / Darklite|pms-id:asm12/listening_music/400|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
-author:T-101 / Darklite|pms-id:asm12/listening_music/402|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi|youtube:nf3NCVrUvSI
-author:Roz/Fit^RNO^wAMMA|pms-id:asm12/listening_music/404|title:Turn off the Guages|video-file:listening-music/000-turn-off-the-guages-404.mp3.avi|youtube:L7_fQqw7LqY
-author:Buzzer of Brainstorm^Nectarine|pms-id:asm12/listening_music/405|title:Strangers With My face|video-file:listening-music/000-strangers-with-my-face-405.mp3.avi|youtube:nUrYjpauu5E
-author:Skeletronic|pms-id:asm12/listening_music/430|title:Final Level|video-file:listening-music/000-final-level-430.mp3.avi|youtube:rOGRpHLw5-c
-author:Rajunen|pms-id:asm12/listening_music/439|title:Exhiliration|video-file:listening-music/000-exhiliration-439.mp3.avi|youtube:JnSYSSgpUig
-author:Hu Creix/Sirona|pms-id:asm12/listening_music/469|title:Just Words|video-file:listening-music/000-just-words-469.mp3.avi|youtube:7NteVlPAVtM
-author:King Thrill / Tekotuotanto|pms-id:asm12/listening_music/533|title:To Pirate in Good Spirits|video-file:listening-music/000-to-pirate-in-good-spirits-533.mp3.avi|youtube:bjNX6-D_5E4
-author:GRiMM|pms-id:asm12/listening_music/534|title:The Knights Who Complete Quests Incredibly Quickly|video-file:listening-music/000-the-knights-who-complete-quests-incredibly-quickly-534.mp3.avi|youtube:dL9ynilTs6w
-author:microdots|pms-id:asm12/listening_music/550|title:the evolution|video-file:listening-music/000-the-evolution-550.mp3.avi|youtube:rGvziFpEVOo
-author:ruuvari/aspekt|pms-id:asm12/listening_music/556|title:New York City Ninja Cowboys|video-file:listening-music/000-new-york-city-ninja-cowboys-556.mp3.avi|youtube:lh5N1mGK0h8
-author:Duality Vile|pms-id:asm12/listening_music/560|title:Alloy Lantern Stage|video-file:listening-music/000-alloy-lantern-stage-560.mp3.avi|youtube:26lAEfMO_z8
-author:notsie/npli|pms-id:asm12/listening_music/577|title:That's (cons)piracy|video-file:listening-music/000-that-s-cons-piracy-577.mp3.avi|youtube:M6L9gMQJyh0
+author:Response / Darklite|platform:W7x86|pms-id:asm12/listening_music/400|position:13|techniques:FLStudio|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
+author:T-101 / Darklite|platform:W7 x64|pms-id:asm12/listening_music/402|position:4|techniques:Orion Power|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi|youtube:nf3NCVrUvSI
+author:Roz/Fit^RNO^wAMMA|pms-id:asm12/listening_music/404|position:9|techniques:Cubase|title:Turn off the Guages|video-file:listening-music/000-turn-off-the-guages-404.mp3.avi|youtube:L7_fQqw7LqY
+author:Buzzer of Brainstorm^Nectarine|platform:PC|pms-id:asm12/listening_music/405|position:10|techniques:Reason|title:Strangers With My face|video-file:listening-music/000-strangers-with-my-face-405.mp3.avi|youtube:nUrYjpauu5E
+author:Skeletronic|platform:Mac|pms-id:asm12/listening_music/430|position:6|techniques:GarageBand|title:Final Level|video-file:listening-music/000-final-level-430.mp3.avi|youtube:rOGRpHLw5-c
+author:Rajunen|pms-id:asm12/listening_music/439|position:7|title:Exhiliration|video-file:listening-music/000-exhiliration-439.mp3.avi|youtube:JnSYSSgpUig
+author:Hu Creix/Sirona|pms-id:asm12/listening_music/469|position:12|techniques:Cubase, saxophone, synthesizer, piano, groove box|title:Just Words|video-file:listening-music/000-just-words-469.mp3.avi|youtube:7NteVlPAVtM
+author:King Thrill / Tekotuotanto|pms-id:asm12/listening_music/533|position:1|techniques:Reaper & Rum|title:To Pirate in Good Spirits|video-file:listening-music/000-to-pirate-in-good-spirits-533.mp3.avi|youtube:bjNX6-D_5E4
+author:GRiMM|pms-id:asm12/listening_music/534|position:5|techniques:Reaper|title:The Knights Who Complete Quests Incredibly Quickly|video-file:listening-music/000-the-knights-who-complete-quests-incredibly-quickly-534.mp3.avi|youtube:dL9ynilTs6w
+author:microdots|platform:PC|pms-id:asm12/listening_music/550|position:11|techniques:Renoise|title:the evolution|video-file:listening-music/000-the-evolution-550.mp3.avi|youtube:rGvziFpEVOo
+author:ruuvari/aspekt|pms-id:asm12/listening_music/556|position:2|techniques:Cubase 5|title:New York City Ninja Cowboys|video-file:listening-music/000-new-york-city-ninja-cowboys-556.mp3.avi|youtube:lh5N1mGK0h8
+author:Duality Vile|platform:Mac|pms-id:asm12/listening_music/560|position:3|techniques:Logic Pro 9|title:Alloy Lantern Stage|video-file:listening-music/000-alloy-lantern-stage-560.mp3.avi|youtube:26lAEfMO_z8
+author:notsie/npli|platform:All supported platforms|pms-id:asm12/listening_music/577|position:8|techniques:Milkytracker|title:That's (cons)piracy|video-file:listening-music/000-that-s-cons-piracy-577.mp3.avi|youtube:M6L9gMQJyh0
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:Rajunen|pms-id:asm12/fast_music/483|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi|youtube:zhEiVz-aPCw
-author:Penkkirivimies|pms-id:asm12/fast_music/485|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi|youtube:k7TlKfbD7Vo
-author:rayjan / Pyrotech|pms-id:asm12/fast_music/486|title:James Blonde|video-file:fast-music/000-486-james-blonde.mp3.avi|youtube:SdJlt3sf2kE
-author:Leo Wilhelm Lindroos|pms-id:asm12/fast_music/491|title:Techdroid|video-file:fast-music/000-491-techdroid.mp3.avi|youtube:tfihOkPKhxs
-author:Skeletronic|pms-id:asm12/fast_music/497|title:Heroes of Never|video-file:fast-music/000-497-heroes-of-never.mp3.avi|youtube:XBlq-mBzLOE
-author:King Thrill / Tekotuotanto|pms-id:asm12/fast_music/498|title:The Dragons Arrive to Rock !|video-file:fast-music/000-498-the-dragons-arrive-to-rock.mp3.avi|youtube:PFhb3GHEaSw
-author:Yzi/Fit|pms-id:asm12/fast_music/499|title:Coconut Dreams|video-file:fast-music/000-499-coconut-dreams.mp3.avi|youtube:l-DPegjF6Ec
-author:1nsane|pms-id:asm12/fast_music/501|title:Hungry Birds|video-file:fast-music/000-501-hungry-birds.mp3.avi|youtube:Rlcah6yNgd4
-author:Galaksinvartija of The Alberts|pms-id:asm12/fast_music/502|title:Miekkasepon Hymni|video-file:fast-music/000-502-miekkasepon-hymni.mp3.avi|youtube:_oAaFdsQlLI
-author:microdots|pms-id:asm12/fast_music/506|title:confusion|video-file:fast-music/000-506-confusion.mp3.avi|youtube:2sv-98usjW0
-author:Valdor|pms-id:asm12/fast_music/507|title:Coma|video-file:fast-music/000-507-coma.mp3.avi|youtube:ANlNk3dGd-E
-author:Eclipser|pms-id:asm12/fast_music/509|title:Morning Comes|video-file:fast-music/000-509-morning-comes.mp3.avi|youtube:NeQnHQ6OF1U
-author:the_grim|pms-id:asm12/fast_music/510|title:Daedalus|video-file:fast-music/000-510-daedalus.mp3.avi|youtube:8AzBT31-Pog
-author:Little Bitchard|pms-id:asm12/fast_music/511|title:Left Hand Reggae|video-file:fast-music/000-511-left-hand-reggae.mp3.avi|youtube:xpgPEiVitTI
-author:Gwaur & HuGoroN|pms-id:asm12/fast_music/512|title:Fast Funkzorz|video-file:fast-music/000-512-fast-funkzorz.mp3.avi|youtube:1VQFslNNHQY
-author:Aikapallo|pms-id:asm12/fast_music/513|title:Decade After|video-file:fast-music/000-513-decade-after.mp3.avi|youtube:AR0QZIq-Zig
-author:Nuusika|pms-id:asm12/fast_music/516|title:I was deaf to my music|video-file:fast-music/000-516-i-was-deaf-to-my-music.mp3.avi|youtube:DwXRHMAV6ZI
-author:FLD/r00t3d|pms-id:asm12/fast_music/519|title:Funny Guy!|video-file:fast-music/000-519-funny-guy.mp3.avi|youtube:ifMTs-4FBRE
-author:red-|pms-id:asm12/fast_music/524|title:Aoe - Mattu pese tuulilasi|video-file:fast-music/000-524-aoe-mattu-pese-tuulilasi.mp3.avi|youtube:iCpD5F12TYQ
+author:Rajunen|pms-id:asm12/fast_music/483|position:1|techniques:Ee Äs ja Äf Äl Studio Ysi|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi|youtube:zhEiVz-aPCw
+author:Penkkirivimies|platform:Ogg|pms-id:asm12/fast_music/485|position:17|techniques:Reason|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi|youtube:k7TlKfbD7Vo
+author:rayjan / Pyrotech|pms-id:asm12/fast_music/486|position:13|techniques:Mainly alcohol|title:James Blonde|video-file:fast-music/000-486-james-blonde.mp3.avi|youtube:SdJlt3sf2kE
+author:Leo Wilhelm Lindroos|platform:PC|pms-id:asm12/fast_music/491|position:16|techniques:Renoise|title:Techdroid|video-file:fast-music/000-491-techdroid.mp3.avi|youtube:tfihOkPKhxs
+author:Skeletronic|platform:Mac|pms-id:asm12/fast_music/497|position:10|techniques:GarageBand + EZdrummer|title:Heroes of Never|video-file:fast-music/000-497-heroes-of-never.mp3.avi|youtube:XBlq-mBzLOE
+author:King Thrill / Tekotuotanto|pms-id:asm12/fast_music/498|position:2|techniques:Reaper & Remmiä|title:The Dragons Arrive to Rock !|video-file:fast-music/000-498-the-dragons-arrive-to-rock.mp3.avi|youtube:PFhb3GHEaSw
+author:Yzi/Fit|platform:mp3|pms-id:asm12/fast_music/499|position:15|techniques:Ableton Live + NI plugins|title:Coconut Dreams|video-file:fast-music/000-499-coconut-dreams.mp3.avi|youtube:l-DPegjF6Ec
+author:1nsane|platform:PC|pms-id:asm12/fast_music/501|position:3|techniques:FL-Studio + NES synths|title:Hungry Birds|video-file:fast-music/000-501-hungry-birds.mp3.avi|youtube:Rlcah6yNgd4
+author:Galaksinvartija of The Alberts|pms-id:asm12/fast_music/502|position:9|techniques:Reason 5, The Alberts quality production.|title:Miekkasepon Hymni|video-file:fast-music/000-502-miekkasepon-hymni.mp3.avi|youtube:_oAaFdsQlLI
+author:microdots|platform:PC|pms-id:asm12/fast_music/506|position:5|techniques:Renoise|title:confusion|video-file:fast-music/000-506-confusion.mp3.avi|youtube:2sv-98usjW0
+author:Valdor|platform:PC|pms-id:asm12/fast_music/507|position:8|techniques:Ableton Live|title:Coma|video-file:fast-music/000-507-coma.mp3.avi|youtube:ANlNk3dGd-E
+author:Eclipser|platform:Windows|pms-id:asm12/fast_music/509|position:19|techniques:Renoise|title:Morning Comes|video-file:fast-music/000-509-morning-comes.mp3.avi|youtube:NeQnHQ6OF1U
+author:the_grim|platform:PC, using FL Studio|pms-id:asm12/fast_music/510|position:6|techniques:COMPUTER MUSIC|title:Daedalus|video-file:fast-music/000-510-daedalus.mp3.avi|youtube:8AzBT31-Pog
+author:Little Bitchard|platform:PC|pms-id:asm12/fast_music/511|position:14|techniques:Roland SonicCell + Acid 7.0|title:Left Hand Reggae|video-file:fast-music/000-511-left-hand-reggae.mp3.avi|youtube:xpgPEiVitTI
+author:Gwaur & HuGoroN|platform:PC & Mac|pms-id:asm12/fast_music/512|position:18|techniques:Sibelius & Reason|title:Fast Funkzorz|video-file:fast-music/000-512-fast-funkzorz.mp3.avi|youtube:1VQFslNNHQY
+author:Aikapallo|platform:PC|pms-id:asm12/fast_music/513|position:7|techniques:Softwares and Synths|title:Decade After|video-file:fast-music/000-513-decade-after.mp3.avi|youtube:AR0QZIq-Zig
+author:Nuusika|platform:Universal|pms-id:asm12/fast_music/516|position:12|title:I was deaf to my music|video-file:fast-music/000-516-i-was-deaf-to-my-music.mp3.avi|youtube:DwXRHMAV6ZI
+author:FLD/r00t3d|platform:PC|pms-id:asm12/fast_music/519|position:11|techniques:FL Studio 10|title:Funny Guy!|video-file:fast-music/000-519-funny-guy.mp3.avi|youtube:ifMTs-4FBRE
+author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe - Mattu pese tuulilasi|video-file:fast-music/000-524-aoe-mattu-pese-tuulilasi.mp3.avi|youtube:iCpD5F12TYQ
 
 
 :section Seminars
