@@ -437,6 +437,9 @@ def get_youtube_info_data(entry):
     if "Seminars" in entry['section']['name']:
         tags.add("seminar")
 
+    description = description.replace("<", "-")
+    description = description.replace(">", "-")
+
     description_non_unicode = description.encode("utf-8")
 
     name = name.replace("<", "-")
