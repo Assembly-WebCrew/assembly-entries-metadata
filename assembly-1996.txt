@@ -17,6 +17,7 @@ author:Barracuda/Extend|position:10|sceneorg:/parties/1996/assembly96/c64/grfx_m
 
 
 :section Amiga 64k intro
+:youtube-playlist E2DABCB29E965B95
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Sonik Clique|position:1|pouet:2984|sceneorg:/parties/1996/assembly96/amiga/in64/s_pure.zip|title:Pure|youtube:KuWmknC0yXc
@@ -130,6 +131,7 @@ author:unknown|position:13|title:Kukko
 
 
 :section Amiga demo
+:youtube-playlist 4B8599EFB709EA50
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 author:Virtual Dreams|dtv:id_file=2383&id_prod=10050&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/1154.jpg&width=512&height=404|position:1|pouet:1154|sceneorg:/parties/1996/assembly96/amiga/demo/vd_sumea.lha|title:Sumea
@@ -241,3 +243,4 @@ author:Stargazer/Sonik Clique|position:12|title:unknown
 author:Lizardking/Triton|position:13|title:unknown
 author:Alpha/Keen Like Frogs|position:14|title:unknown
 author:Sulp/Orange|position:15|title:unknown
+

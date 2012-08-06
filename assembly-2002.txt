@@ -434,6 +434,7 @@ author:Odd|pouet:7186|sceneorg:/parties/2002/assembly02/in64/vittu_vs_perkele_by
 
 
 :section Combined 4k intro
+:youtube-playlist 72734180A31F4B8C
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2002 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 author:Exploder / PUSH Entertainment|position:1|pouet:7133|sceneorg:/parties/2002/assembly02/in4k/humus3_by_exploder___push_entertainment.lzx|title:humus3

@@ -334,6 +334,7 @@ author:Murphy / SDK|pouet:28639|sceneorg:/parties/2003/assembly03/anim/raytracer
 
 
 :section Combined 64k intro
+:youtube-playlist 4F8752B27BDAA9D2
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on 2003 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>, <a href="http://en.wikipedia.org/wiki/Timeline_of_Macintosh_models#2000s">Macintosh computers</a>, <a href="http://en.wikipedia.org/wiki/History_of_video_game_consoles_(sixth_generation)">video game consoles</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:AND + Cybermag|dtv:id_file=2995&id_prod=12285&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/10545.jpg&width=512&height=404|position:1|pouet:10545|sceneorg:/parties/2003/assembly03/in64/zoom3_by_and_+_cybermag.zip|title:Zoom3

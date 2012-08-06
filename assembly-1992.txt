@@ -70,6 +70,7 @@ author:unknown|sceneorg:/parties/1992/assembly92/grfx/werther'sskull.zip|title:W
 
 
 :section Amiga intro
+:youtube-playlist AD04A157D9664597
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga intro competition these programs are limited in size to 100 kilobytes. 100 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Vectra|position:1|pouet:29217|sceneorg:/parties/1992/assembly92/amiga/intro/vectra-repo|title:Repo Intro|youtube:JEI_WMASvCc
@@ -89,7 +90,11 @@ author:Stellar|pouet:26098|sceneorg:/parties/1992/assembly92/amiga/intro/stellar
 author:The Silents|title:Plasma Vectors
 author:World Industries|pouet:28302|sceneorg:/parties/1992/assembly92/amiga/intro/world_ind-assintro|title:Assemblo
 
+
 :section Misc
-author:Future Crew|title:Fishtro|pouet:1283|sceneorg:/demos/groups/future_crew/intros/fishtro.zip|description:Assembly 1992 PC invitation intro.|youtube:e4FeJc_B4uk
-author:Rebels and Complex|title:Assembly 92 Invitation Demo|pouet:2716|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS&COMPLEX-Ass92Inv|description:Assembly 1992 Amiga invitation demo.
-author:Rebels|title:Assembly 92 Invitation Intro|pouet:31956|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS-Asm92InfoIntro01|description:Assembly 1992 Amiga invitation intro.
+:youtube-playlist 7D7393353DEC38D3
+
+author:Future Crew|description:Assembly 1992 PC invitation intro.|pouet:1283|sceneorg:/demos/groups/future_crew/intros/fishtro.zip|title:Fishtro|youtube:e4FeJc_B4uk
+author:Rebels and Complex|description:Assembly 1992 Amiga invitation demo.|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS&COMPLEX-Ass92Inv|pouet:2716|title:Assembly 92 Invitation Demo
+author:Rebels|description:Assembly 1992 Amiga invitation intro.|download:http://ftp.amigascne.org/pub/amiga/Groups/R/Rebels/REBELS-Asm92InfoIntro01|pouet:31956|title:Assembly 92 Invitation Intro
+

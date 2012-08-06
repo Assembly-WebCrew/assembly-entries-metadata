@@ -13,6 +13,7 @@ author:amj|position:7|sceneorg:/parties/1999/assembly99/c64/music/jensoman.zip|t
 
 
 :section Amiga 64k intro
+:youtube-playlist D5BE7FEDFD96DEC3
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:da jormas!|position:1|pouet:4518|sceneorg:/parties/1999/assembly99/amiga/in64/l_ota_si.zip|title:Älä ota sit vakavasti|youtube:ezhVhCzF474

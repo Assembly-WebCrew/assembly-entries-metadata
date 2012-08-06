@@ -259,5 +259,8 @@ author:recreation|dtv:id_file=4184&id_prod=4460&id_app=14&image=http%3A//dtv.was
 author:Haujobb|dtv:id_file=4060&id_prod=29&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3292.gif&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM01 Demo - 14th - greenpill by Haujobb_h264_1856kbit.mp4|position:14|pouet:3292|sceneorg:/parties/2001/assembly01/demo/we_took_the__greenpill_by_haujobb.zip|title:(we took the) greenpill|youtube:_sE5a7EfAZk
 author:Storm Studios|dtv:id_file=4193&id_prod=7709&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3329.jpg&width=512&height=404|media:/vod/.oldies-goldies/compos/ASM01 Demo - 15th - Out of Style 2 by Storm Studios_h264_1856kbit.mp4|position:15|pouet:3329|sceneorg:/parties/2001/assembly01/demo/out_of_style_2_by_storm_studios.zip|title:Out Of Style 2|youtube:zPIXGs8y4g8
 
+
 :section Misc
-author:foobug|title:Assembly 2001 opening intro|description:Assembly 2001 invitation intro.|pouet:3280|download:http://www.kolumbus.fi/ld0d/a01open.zip|dtv:id_file=3325&id_prod=12364&id_app=14&width=512&height=404&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3280.jpg
+
+author:foobug|description:Assembly 2001 invitation intro.|download:http://www.kolumbus.fi/ld0d/a01open.zip|dtv:id_file=3325&id_prod=12364&id_app=14&width=512&height=404&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3280.jpg|pouet:3280|title:Assembly 2001 opening intro
+

@@ -22,6 +22,7 @@ author:AMJ|position:16|title:Villean
 
 
 :section Amiga 64k intro
+:youtube-playlist 962BC55ABE74BC13
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Limbo|position:1|pouet:3678|title:911
@@ -234,3 +235,4 @@ author:Tremor/Trauma|position:12|title:Big Bad Luck
 author:Rage/Night55|position:13|title:Hostile Hornet
 author:Cybernova/Beatless|position:14|title:Liquid Brown
 author:Sojagga|position:15|title:Subzapter
+

@@ -93,6 +93,7 @@ author:Zden|position:11|pouet:24739|sceneorg:/parties/1994/assembly94/in4k/plasm
 
 
 :section Amiga 40k intro
+:youtube-playlist FB9CAFF17F09C67F
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 40k intro competition these programs are limited in size to 40 kilobytes. 40 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Pygmy Projects|position:1|pouet:3419|sceneorg:/parties/1994/assembly94/amiga/in40/gforce.zip|title:G-force
@@ -133,6 +134,7 @@ author:Trinomic|position:3|pouet:44715|sceneorg:/parties/1994/assembly94/c64/asm
 
 
 :section Amiga demo
+:youtube-playlist 4D6A3262201DB3F2
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p>
 
 author:Stellar|position:1|sceneorg:/parties/1994/assembly94/amiga/demo/mindflow.zip|title:Mindflow
@@ -192,7 +194,10 @@ author:Doomsday Productions|position:8|pouet:3962|sceneorg:/parties/1994/assembl
 author:Paragon|position:9|pouet:18290|sceneorg:/parties/1994/assembly94/in64/dash.zip|title:Dash
 author:Orange|position:10|pouet:13764|sceneorg:/parties/1994/assembly94/in64/4kings.zip|title:4Kings|youtube:RN4kY0uKJls
 
-:section Misc
 
-author:Future Crew and Sonic PC|title:Assembly'94 Pre-Invitation Intro|description:Assembly 1994 invitation intro.|sceneorg:/pub/parties/1994/assembly94/info/asm-94.zip|pouet:3002
-author:Future Crew and Sonic PC|title:Assembly '94 Invitation Dentro|description:Assembly 1994 invitation intro.|sceneorg:/pub/parties/1994/assembly94/info/asm-94_2.zip|pouet:1282|youtube:QUwLEWgbTCE
+:section Misc
+:youtube-playlist A999393630642FCC
+
+author:Future Crew and Sonic PC|description:Assembly 1994 invitation intro.|pouet:3002|sceneorg:/pub/parties/1994/assembly94/info/asm-94.zip|title:Assembly'94 Pre-Invitation Intro
+author:Future Crew and Sonic PC|description:Assembly 1994 invitation intro.|pouet:1282|sceneorg:/pub/parties/1994/assembly94/info/asm-94_2.zip|title:Assembly '94 Invitation Dentro|youtube:QUwLEWgbTCE
+

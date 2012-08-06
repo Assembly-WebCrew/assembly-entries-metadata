@@ -15,6 +15,7 @@ author:codehead/suolahappo.|position:9|sceneorg:/parties/1998/assembly98/c64musi
 
 
 :section Amiga 64k intro
+:youtube-playlist B828562A6BEC96F8
 :description <p><a href="http://en.wikipedia.org/wiki/Amiga">Amiga</a> was a popular home computer in 1980s and early 1990s. Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Amiga 64k intro competition these programs are limited in size to 64 kilobytes. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:haujobb|position:1|pouet:1035|sceneorg:/parties/1998/assembly98/amiga64k/edit05_b.zip|title:edit0.5
@@ -137,6 +138,7 @@ author:HaH|sceneorg:/parties/1998/assembly98/raytrace/jonui_wi.zip|title:Jonui, 
 
 
 :section Windows demo
+:youtube-playlist 6487AF36C3AA275F
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 1998 PCs.</p>
 
 author:Lionhead|position:1|pouet:2555|sceneorg:/parties/1998/assembly98/windowsd/bleam_wi.zip|title:Bleam (win version)
@@ -425,5 +427,8 @@ author:Universe|sceneorg:/parties/1998/assembly98/pc64kint/funtro_b.zip|title:Fu
 author:Reality Benders|pouet:6506|sceneorg:/parties/1998/assembly98/pc64kint/375-lock.zip|title:Lockdown
 author:eufrosyne|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip|title:transformers
 
+
 :section Misc
-author:The Black Lotus|title:ASSEMBLY '98 quick invitation|description:Assembly 1998 invitation intro.|pouet:4|sceneorg:/pub/demos/groups/tbl/pc/asm98inv.zip
+
+author:The Black Lotus|description:Assembly 1998 invitation intro.|pouet:4|sceneorg:/pub/demos/groups/tbl/pc/asm98inv.zip|title:ASSEMBLY '98 quick invitation
+
