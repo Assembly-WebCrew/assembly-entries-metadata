@@ -156,7 +156,7 @@ author:John Peeba|image-file:fast-graphics/000-565-mechanical-surgery.png|platfo
 author:Irah|image-file:fast-graphics/000-568-permanent-delivery-delay.png|platform:PC|pms-id:asm12/fast_graphics/568|position:12|techniques:Gimp|title:Permanent Delivery Delay
 author:Mig26|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|position:16|techniques:Blender + Apophysis + GIMP|title:Eye for Detail
 author:sssampo/Pistoke|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|position:15|techniques:Blender3D|title:Suction
-author:Surround / Tekotuotanto|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls
+author:Surround / Tekotuotanto|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.jpeg
 author:MacGywer / npli|image-file:fast-graphics/000-581-extreme-interpolation.png|platform:JPG|pms-id:asm12/fast_graphics/581|position:13|techniques:Photoshop|title:Extreme interpolation
 author:Dekus|image-file:fast-graphics/000-583-solar-magna.png|platform:PC|pms-id:asm12/fast_graphics/583|position:4|techniques:Photoshop, wacom|title:Solar Magna
 author:offwhite|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|platform:pc|pms-id:asm12/fast_graphics/584|position:6|techniques:photoshop cs4, wacom intous4|title:A moose in the sunset
