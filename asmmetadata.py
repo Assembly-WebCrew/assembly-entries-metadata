@@ -199,7 +199,7 @@ def parse_file(file_handle):
         if line[0] == "#":
             continue
         if line[0] == ":":
-            data_type, value = line.split(" ", 1)
+            data_type, value = line.split(" ", 1).strip()
             if data_type == ":year":
                 assert result.year is None
                 year = int(value)
@@ -222,30 +222,27 @@ def parse_file(file_handle):
                 assert section is not None
                 # Only one description per section is allowed.
                 assert 'description' not in section
-                clean_value = value.strip()
-                if len(clean_value):
-                    section['description'] = clean_value
+                if len(value):
+                    section['description'] = value
             elif data_type == ":youtube-playlist":
                 assert section is not None
                 assert 'youtube-playlist' not in section
-                clean_value = value.strip()
-                section['youtube-playlist'] = clean_value
+                section['youtube-playlist'] = value
             elif data_type == ":pms-category":
                 # Categories can only be under section.
                 assert section is not None
                 # Only one category per section is allowed.
                 assert 'pms-category' not in section
-                clean_value = value.strip()
-                if len(clean_value):
-                    section['pms-category'] = clean_value
+                if len(value):
+                    section['pms-category'] = value
             elif data_type == ":ongoing":
-                clean_value = value.strip()
-                if clean_value.lower() == "true":
+                if value.lower() == "true":
                     section['ongoing'] = True
             elif data_type == ":public":
-                clean_value = value.strip()
-                if clean_value.lower() == "false":
+                if value.lower() == "false":
                     section['public'] = False
+            elif data_type == ":sceneorg":
+                section['sceneorg'] = value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue

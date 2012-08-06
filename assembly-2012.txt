@@ -4,6 +4,7 @@
 :youtube-playlist 5C332D948175CDF1
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
+:sceneorg demo
 
 author:Byterapers + Doomsday|platform:PC|pms-id:asm12/demo/482|position:4|techniques:Siinä paha missä mainitaan|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
 author:tAAt 2012|platform:Windows|pms-id:asm12/demo/626|position:9|techniques:Old & New|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
@@ -23,6 +24,7 @@ author:cncd|pms-id:asm12/demo/658|position:1|title:spacecut|video-file:demo/1505
 :youtube-playlist D4FEBF254AEAED48
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+:sceneorg real_wild
 
 author:Bilotrip|platform:iOS 5.1|pms-id:asm12/real_wild/403|position:7|techniques:GPUImage framework & OpenGL ES 2.0|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
 author:Kewlers|platform:Android (Galaxy Nexus)|pms-id:asm12/real_wild/424|position:3|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
@@ -37,6 +39,7 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniqu
 :section 4k intro
 :youtube-playlist B3A9905169E12774
 :pms-category 4k_intro
+:sceneorg in4k
 
 author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
 author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
@@ -53,6 +56,7 @@ author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|techn
 :section 1k intro
 :youtube-playlist 1A3D3268F6672D47
 :pms-category 1k_intro
+:sceneorg in1k
 
 author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
 author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
@@ -79,6 +83,7 @@ author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|techniques:o
 :youtube-playlist C438EBFD372D368B
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:sceneorg oldskool/demo
 
 author:RNO|platform:Atari ST|pms-id:asm12/oldskool/432|position:3|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
 author:Upstars|platform:C-64|pms-id:asm12/oldskool/478|position:4|techniques:Turbo Assembler|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
@@ -105,6 +110,7 @@ author:HBC|pms-id:asm12/short_film/655|position:4|techniques:Blender, After Effe
 :youtube-playlist DC2E882FDDC694B1
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+:sceneorg gamedev
 
 author:Down Under|platform:PC|pms-id:asm12/gamedev/366|position:11|techniques:Unity|title:Bodgy Bee|youtube:sTCuxwzYePg
 author:Mikko Pulkki|platform:Windows|pms-id:asm12/gamedev/368|position:3|techniques:C#, .NET 3.5, XNA|title:Corneroids|youtube:Pxk-hvuV0bQ
@@ -127,6 +133,7 @@ author:Bombsquad|platform:PC|pms-id:asm12/gamedev/394|position:1|title:Lavalanch
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:sceneorg grfx
 
 author:Nina Ikävalko|image-file:graphics/000-stuck-in-life-408.png|pms-id:asm12/graphics/408|position:3|techniques:Painted in openCanvas and Photoshop|title:Stuck in Life
 author:I.A.Jääskeläinen / Finity Games|image-file:graphics/000-sir-huomisaamu-409.png|pms-id:asm12/graphics/409|position:16|techniques:pen, pencil, Gimp|title:Sir Huomisaamu
@@ -148,7 +155,8 @@ author:Hbt|image-file:graphics/000-it-s-all-in-your-head-629.png|platform:Steve|
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with some theme.</p>
+:description <p>Competitors had 1.5 hours to create an image with "Too much detail" theme.</p>
+:sceneorg fast/grfx
 
 author:Valtteri/HBC|image-file:fast-graphics/000-562-colossal-detail.png|platform:PC|pms-id:asm12/fast_graphics/562|position:21|techniques:Photoshop|title:Colossal detail
 author:Hoaxi / Pyrotech|image-file:fast-graphics/000-564-wtf-moment.png|platform:pc|pms-id:asm12/fast_graphics/564|position:3|techniques:Photos, draw and heavy photoshop|title:WTF-moment
@@ -177,6 +185,8 @@ author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|platform:Pho
 :section Dance music
 :youtube-playlist DFDC28827702EFA7
 :pms-category dance_music
+:description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
+:sceneorg music/dance
 
 author:Roz/Fit^RNO^wAMMA|pms-id:asm12/dance_music/406|position:10|techniques:Cubase|title:Syyhyävä tanssijalka|video-file:dance-music/000-syyhyava-tanssijalka-406.mp3.avi|youtube:tcLZWMCPk8s
 author:DJ Joge / Brainstorm|platform:PC|pms-id:asm12/dance_music/416|position:5|techniques:Renoise|title:Electrified|video-file:dance-music/000-electrified-416.mp3.avi|youtube:tIYTrR0prP8
@@ -196,6 +206,8 @@ author:Dj Tabasco|pms-id:asm12/dance_music/623|position:6|techniques:FL Studio 9
 :section Listening music
 :youtube-playlist 1352BB3871323D13
 :pms-category listening_music
+:description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
+:sceneorg music/listening
 
 author:Response / Darklite|platform:W7x86|pms-id:asm12/listening_music/400|position:13|techniques:FLStudio|title:Kiss of Judas|video-file:listening-music/000-kiss-of-judas-400.mp3.avi|youtube:PrmkhjrPPVE
 author:T-101 / Darklite|platform:W7 x64|pms-id:asm12/listening_music/402|position:4|techniques:Orion Power|title:Take me to Hell|video-file:listening-music/000-take-me-to-hell-402.mp3.avi|youtube:nf3NCVrUvSI
@@ -216,6 +228,7 @@ author:notsie/npli|platform:All supported platforms|pms-id:asm12/listening_music
 :youtube-playlist 87EBD6D539F6EA75
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:sceneorg fast/music
 
 author:Rajunen|pms-id:asm12/fast_music/483|position:1|techniques:Ee Äs ja Äf Äl Studio Ysi|title:Ysäri never dies|video-file:fast-music/000-483-ysari-never-dies.mp3.avi|youtube:zhEiVz-aPCw
 author:Penkkirivimies|platform:Ogg|pms-id:asm12/fast_music/485|position:17|techniques:Reason|title:Perunan tavallinen taival|video-file:fast-music/000-485-perunan-tavallinen-taival.mp3.avi|youtube:k7TlKfbD7Vo
