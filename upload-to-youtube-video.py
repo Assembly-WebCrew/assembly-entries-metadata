@@ -115,7 +115,7 @@ for line in sys.stdin:
     source_file = os.path.join(files_root, year, source_file_base + video_postfix)
 
     if not os.path.exists(source_file) and 'media' in entryinfo and not media_vod_directory is None:
-        source_file = os.path.join(media_vod_directory, entryinfo['media'])
+        source_file = os.path.join(media_vod_directory, entryinfo['media'].lstrip("/"))
 
     if not os.path.exists(source_file):
         print line.encode('utf-8')

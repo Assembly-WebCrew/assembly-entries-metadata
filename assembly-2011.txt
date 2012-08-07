@@ -239,13 +239,13 @@ author:AssemblyTV|guid:1321|media:/vod/2011/AssemblyTV/1321_robowar_finals_h264_
 author:AssemblyTV|guid:1280|media:/vod/2012/AssemblyTV/1280_viiksiboiz_ja_machinae_supremacy.mp4|title:Viiksiboiz & MaSu
 author:AssemblyTV|guid:1282|media:/vod/2012/AssemblyTV/1282_viiksipoikien_torstai.mp4|title:Viiksiboiz' Thursday
 author:AssemblyTV|guid:1289|media:/vod/2012/AssemblyTV/1289_viiksipojat_ja_Press_Play_on_Tape.mp4|title:Viiksipojat and Press Play on Tape
-author:AssemblyTV|guid:1302|media:/vod/2012/AssemblyTV/1302_vernakeisi.mp4|title:Verna pushing case
+author:AssemblyTV|guid:1302|media:/vod/2012/AssemblyTV/1302_vernakeisi.mp4|title:Verna pushing case|youtube:t8o5F8nVmBE
 author:AssemblyTV|guid:1303|media:/vod/2012/AssemblyTV/1303_mikko_assemblyilla.mp4|title:Mikko at Assembly
 author:AssemblyTV|guid:1334|media:/vod/2012/AssemblyTV/1334_radioon.mp4|title:Radio On
 author:AssemblyTV|guid:1335|media:/vod/2012/AssemblyTV/1335_spaghetti.mp4|title:Spaghetti & marshmallows
 author:AssemblyTV|guid:1337|media:/vod/2012/AssemblyTV/1337_viiksipoikien_perjantai.mp4|title:Viiksiboiz' Friday
 author:AssemblyTV|guid:1341|media:/vod/2012/AssemblyTV/1341_infokaunottaret.mp4|title:Infodesk cuties
-author:AssemblyTV|guid:1510|media:/vod/2012/AssemblyTV/1510_hacklab_2011.mp4|title:Hacklab 2011
+author:AssemblyTV|guid:1510|media:/vod/2012/AssemblyTV/1510_hacklab_2011.mp4|title:Hacklab 2011|youtube:MDB1mKdd6ps
 
 
 :section Seminars
