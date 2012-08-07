@@ -283,20 +283,20 @@ author:Eemu Bertling|title:Robosota
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
-author:AssemblyTV|guid:1343|media:/vod/2012/AssemblyTV/1343_asm20v_fixed2.mp4|title:Assembly 20 years
-author:AssemblyTV|guid:1348|media:/vod/2012/AssemblyTV/1348_WARKfest.mp4|title:WÄRK:fest
-author:AssemblyTV|guid:1350|media:/vod/2012/AssemblyTV/1350_SceneOrg_awards.mp4|title:Scene.org awards
-author:AssemblyTV|guid:1382|media:/vod/2012/AssemblyTV/1382_Jeroen_Tel.mp4|title:Concert - Jeroen Tel
-author:AssemblyTV|guid:1438|media:/vod/2012/AssemblyTV/1438_HAMMERMEGAOKOK.mp4|title:HAMMER BADGE
-author:AssemblyTV|guid:1444|media:/vod/2012/AssemblyTV/1444_ROBOTRON.mp4|title:Robot programming
-author:AssemblyTV|guid:1445|media:/vod/2012/AssemblyTV/1445_ARTTUR.mp4|title:Arttur & The Orchestra
-author:AssemblyTV|guid:1474|media:/vod/2012/AssemblyTV/1474_MARIO.mp4|title:Mario looks for princess
-author:AssemblyTV|guid:1506|media:/vod/2012/AssemblyTV/1506_AUTORATA.mp4|title:Viiksipojat on track
-author:AssemblyTV|guid:1507|media:/vod/2012/AssemblyTV/1507_DEMOSCENE.mp4|title:Demoscene area
-author:AssemblyTV|guid:1509|media:/vod/2012/AssemblyTV/1509_BORG.mp4|title:BORG
-author:AssemblyTV|guid:1511|media:/vod/2012/AssemblyTV/1511_INFO_AUTTAA.mp4|title:Info helps
-author:AssemblyTV|guid:1512|media:/vod/2012/AssemblyTV/1512_PELITALO.mp4|title:Game house hangout
-author:AssemblyTV|guid:1513|media:/vod/2012/AssemblyTV/1513_TITTIXIN.mp4|title:Titti & Xin
+author:AssemblyTV|guid:1343|media:/vod/2012/AssemblyTV/1343_asm20v_fixed2.mp4|title:Assembly 20 years|youtube:WyGwv2F3-Fo
+author:AssemblyTV|guid:1348|media:/vod/2012/AssemblyTV/1348_WARKfest.mp4|title:WÄRK:fest|youtube:AXBynzOJFHo
+author:AssemblyTV|guid:1350|media:/vod/2012/AssemblyTV/1350_SceneOrg_awards.mp4|title:Scene.org awards|youtube:4uzGjhPPzo8
+author:AssemblyTV|guid:1382|media:/vod/2012/AssemblyTV/1382_Jeroen_Tel.mp4|title:Concert - Jeroen Tel|youtube:q7NB6s4xddo
+author:AssemblyTV|guid:1438|media:/vod/2012/AssemblyTV/1438_HAMMERMEGAOKOK.mp4|title:HAMMER BADGE|youtube:NXem9x9Kh_8
+author:AssemblyTV|guid:1444|media:/vod/2012/AssemblyTV/1444_ROBOTRON.mp4|title:Robot programming|youtube:t9VLQh6kidA
+author:AssemblyTV|guid:1445|media:/vod/2012/AssemblyTV/1445_ARTTUR.mp4|title:Arttur & The Orchestra|youtube:cVBzVSOCUgQ
+author:AssemblyTV|guid:1474|media:/vod/2012/AssemblyTV/1474_MARIO.mp4|title:Mario looks for princess|youtube:VxpSDg4muuk
+author:AssemblyTV|guid:1506|media:/vod/2012/AssemblyTV/1506_AUTORATA.mp4|title:Viiksipojat on track|youtube:8GSHBZA7nLU
+author:AssemblyTV|guid:1507|media:/vod/2012/AssemblyTV/1507_DEMOSCENE.mp4|title:Demoscene area|youtube:6vpihywB8Ms
+author:AssemblyTV|guid:1509|media:/vod/2012/AssemblyTV/1509_BORG.mp4|title:BORG|youtube:EYFE6Bwt_kg
+author:AssemblyTV|guid:1511|media:/vod/2012/AssemblyTV/1511_INFO_AUTTAA.mp4|title:Info helps|youtube:FcUQwuQt-tw
+author:AssemblyTV|guid:1512|media:/vod/2012/AssemblyTV/1512_PELITALO.mp4|title:Game house hangout|youtube:ng2Ye4LuXXQ
+author:AssemblyTV|guid:1513|media:/vod/2012/AssemblyTV/1513_TITTIXIN.mp4|title:Titti & Xin|youtube:hIyHVjmYK8Y
 
 
 :section Winter

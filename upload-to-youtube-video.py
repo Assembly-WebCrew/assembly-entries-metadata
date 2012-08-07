@@ -139,7 +139,7 @@ for line in sys.stdin:
     tags = ",".join(tag_list)
 
     upload_trials = 0
-    args = ['youtube-upload', '--api-upload', '--email', email, '--password', password, '--category', category, '--keywords', tags, '--title', youtube_title, '--description', description, video_file]
+    args = ['youtube-upload', '--email', email, '--password', password, '--category', category, '--keywords', tags, '--title', youtube_title, '--description', description, video_file]
     upload_success = False
     youtube_id = ''
     # 3 trials to upload video with one extra retry chance.
