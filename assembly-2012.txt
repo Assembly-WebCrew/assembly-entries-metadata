@@ -164,7 +164,7 @@ author:John Peeba|image-file:fast-graphics/000-565-mechanical-surgery.png|platfo
 author:Irah|image-file:fast-graphics/000-568-permanent-delivery-delay.png|platform:PC|pms-id:asm12/fast_graphics/568|position:12|techniques:Gimp|title:Permanent Delivery Delay
 author:Mig26|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|position:16|techniques:Blender + Apophysis + GIMP|title:Eye for Detail
 author:sssampo/Pistoke|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|position:15|techniques:Blender3D|title:Suction
-author:Surround / Tekotuotanto|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.jpeg
+author:Surround / Tekotuotanto|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.jpeg|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls
 author:MacGywer / npli|image-file:fast-graphics/000-581-extreme-interpolation.png|platform:JPG|pms-id:asm12/fast_graphics/581|position:13|techniques:Photoshop|title:Extreme interpolation
 author:Dekus|image-file:fast-graphics/000-583-solar-magna.png|platform:PC|pms-id:asm12/fast_graphics/583|position:4|techniques:Photoshop, wacom|title:Solar Magna
 author:offwhite|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|platform:pc|pms-id:asm12/fast_graphics/584|position:6|techniques:photoshop cs4, wacom intous4|title:A moose in the sunset
@@ -254,35 +254,49 @@ author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe -
 :section Seminars
 :youtube-playlist A10BAD043DC6AA60
 
-author:Henry Brade|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0|guid:1351
-author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4|guid:1352
-author:Russ Morris|title:Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk|guid:1353
-author:Jouni Mannonen|title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI|guid:1354
-author:Aki Koskinen|title:Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM|guid:1355
-author:Tapio Nurminen|title:Tangible Metrics through Data Visualization|video-file:seminars/1356_Tangible_metrics.mp4|youtube:rSHuSMDSpbE|guid:1356
-author:Petra Pälmä|title:Ideation – making you brain work in new ways|video-file:seminars/1357_Ideation.mp4|youtube:rlFqkIa0zmM|guid:1357
-author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun|video-file:seminars/1358_Playful_prototyping.mp4|youtube:tCF3tz1FJ-s|guid:1358
-author:Peter Smets|title:So you want to build an arcade cabinet|video-file:seminars/1359_Arcade_cabinet.mp4|youtube:-zIhPV0F_B4|guid:1359
-author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era|video-file:seminars/1360_HTML5_game_development.mp4|youtube:tVpCF-kAUMg|guid:1360
-author:Tom Krcha|title:Adobe gaming solutions|video-file:seminars/1361_Adobe_gaming_solutions.mp4|youtube:DruPGkFK6u8|guid:1361
-author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success|video-file:seminars/1362_Amazing_alex.mp4|youtube:rWWKbK8U75s|guid:1362
-author:Olli Harjola|title:Good tool / bad master: tech and game design|video-file:seminars/1363_Good_tool_-_Bad_master.mp4|youtube:tNTxiLfnh1E|guid:1363
-author:Matt Swoboda|title:Advanced visual effects with DirectX 11|video-file:seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4|youtube:2MzSmdC49Ns|guid:1364
-author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4|youtube:LegtIPNVN_Y|guid:1365
-author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|youtube:THfgkQCjqag|guid:1366
-author:Antti Hätälä|title:Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4|youtube:9YA1w2E01BY|guid:1367
-author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games|video-file:seminars/1368_Unicorn7.mp4|youtube:uUW5s0xaz2w|guid:1368
-author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators|video-file:seminars/1369_Powerful_ideas.mp4|youtube:Pb3Cv8wEttI|guid:1369
-author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing|video-file:seminars/1370_Make_real_products.mp4|youtube:xuuzt4D5GMY|guid:1370
-author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw|guid:1371
-author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ|guid:1372
-author:Annakaisa Kultima|title:Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw|guid:1373
+author:Henry Brade|guid:1351|media:/vod/2012/Seminars/1351_Bitcoin-The_future_of_money.mp4|title:ARTtech seminars - Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
+author:Jenni Saarinen|guid:1352|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
+author:Russ Morris|guid:1353|media:/vod/2012/Seminars/1353_Mobile_development_in_Unity.mp4|title:ARTtech seminars - Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
+author:Jouni Mannonen|guid:1354|media:/vod/2012/Seminars/1354_Secrets_of_Mountain_Sheep.mp4|title:ARTtech seminars - Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
+author:Aki Koskinen|guid:1355|media:/vod/2012/Seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|title:ARTtech seminars - Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
+author:Tapio Nurminen|guid:1356|media:/vod/2012/Seminars/1356_Tangible_metrics.mp4|title:ARTtech seminars - Tangible Metrics through Data Visualization|video-file:seminars/1356_Tangible_metrics.mp4|youtube:rSHuSMDSpbE
+author:Petra Pälmä|guid:1357|media:/vod/2012/Seminars/1357_Ideation.mp4|title:ARTtech seminars - Ideation: making your brain work in new ways|video-file:seminars/1357_Ideation.mp4|youtube:rlFqkIa0zmM
+author:Tuomo Tammenpää|guid:1358|media:/vod/2012/Seminars/1358_Playful_prototyping.mp4|title:ARTtech seminars - Playful prototyping, the stories of failing for fun|video-file:seminars/1358_Playful_prototyping.mp4|youtube:tCF3tz1FJ-s
+author:Peter Smets|guid:1359|media:/vod/2012/Seminars/1359_Arcade_cabinet.mp4|title:ARTtech seminars - So you want to build an arcade cabinet|video-file:seminars/1359_Arcade_cabinet.mp4|youtube:-zIhPV0F_B4
+author:Pyry Lehdonvirta|guid:1360|media:/vod/2012/Seminars/1360_HTML5_game_development.mp4|title:ARTtech seminars - The role of HTML5 in game development|video-file:seminars/1360_HTML5_game_development.mp4|youtube:tVpCF-kAUMg
+author:Tom Krcha|guid:1361|media:/vod/2012/Seminars/1361_Adobe_gaming_solutions.mp4|title:ARTtech seminars - Adobe gaming solutions|video-file:seminars/1361_Adobe_gaming_solutions.mp4|youtube:DruPGkFK6u8
+author:Kalle Kaivola|guid:1362|media:/vod/2012/Seminars/1362_Amazing_alex.mp4|title:ARTtech seminars - Amazing Alex: The journey from a two-man indie game to a worldwide success|video-file:seminars/1362_Amazing_alex.mp4|youtube:rWWKbK8U75s
+author:Olli Harjola|guid:1363|media:/vod/2012/Seminars/1363_Good_tool_-_Bad_master.mp4|title:ARTtech seminars - Good tool / bad master: tech and game design|video-file:seminars/1363_Good_tool_-_Bad_master.mp4|youtube:tNTxiLfnh1E
+author:Matt Swoboda|guid:1364|media:/vod/2012/Seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4|title:ARTtech seminars - Advanced visual effects with DirectX 11|video-file:seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4|youtube:2MzSmdC49Ns
+author:Maarten Boon, Luc Schurgers, Dan Lewis|guid:1365|media:/vod/2012/Seminars/1365_Making_demos_for_advertising.mp4|title:ARTtech seminars - Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4|youtube:LegtIPNVN_Y
+author:Bent Stamnes, Anders Lassen|guid:1366|media:/vod/2012/Seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|title:ARTtech seminars - Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|youtube:THfgkQCjqag
+author:Antti Hätälä|guid:1367|media:/vod/2012/Seminars/1367_Occlusion_culling_for_the_next_generation.mp4|title:ARTtech seminars - Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4|youtube:9YA1w2E01BY
+author:Julie Heyde, Tim Garbos|guid:1368|media:/vod/2012/Seminars/1368_Unicorn7.mp4|title:ARTtech seminars - Unicorn7.org - The next step for gamejam games|video-file:seminars/1368_Unicorn7.mp4|youtube:uUW5s0xaz2w
+author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|guid:1369|media:/vod/2012/Seminars/1369_Powerful_ideas.mp4|title:ARTtech seminars - Powerful ideas - how (and why) to empower younger generations to become digital creators|video-file:seminars/1369_Powerful_ideas.mp4|youtube:Pb3Cv8wEttI
+author:Pekka Salokannel|guid:1370|media:/vod/2012/Seminars/1370_Make_real_products.mp4|title:ARTtech seminars - Make real products in your browser with Tinkercad and 3D printing|video-file:seminars/1370_Make_real_products.mp4|youtube:xuuzt4D5GMY
+author:Alpo Oksanharju, Mikko Kallinen|guid:1371|media:/vod/2012/Seminars/1371_Why_build_new_game_engine.mp4|title:ARTtech seminars - Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw
+author:Antti Ylimutka, Mikko Kuusi|guid:1372|media:/vod/2012/Seminars/1372_Getting_started__Startup_Sauna.mp4|title:ARTtech seminars - Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ
+author:Annakaisa Kultima|guid:1373|media:/vod/2012/Seminars/1373_Panel_Game_jamming.mp4|title:ARTtech seminars - Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw
 author:Eemu Bertling|title:Robosota
 
 
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
+author:AssemblyTV|guid:1343|media:/vod/2012/AssemblyTV/1343_asm20v_fixed2.mp4|title:Assembly 20 years
+author:AssemblyTV|guid:1348|media:/vod/2012/AssemblyTV/1348_WARKfest.mp4|title:WÄRK:fest
+author:AssemblyTV|guid:1350|media:/vod/2012/AssemblyTV/1350_SceneOrg_awards.mp4|title:Scene.org awards
+author:AssemblyTV|guid:1382|media:/vod/2012/AssemblyTV/1382_Jeroen_Tel.mp4|title:Concert - Jeroen Tel
+author:AssemblyTV|guid:1438|media:/vod/2012/AssemblyTV/1438_HAMMERMEGAOKOK.mp4|title:HAMMER BADGE
+author:AssemblyTV|guid:1444|media:/vod/2012/AssemblyTV/1444_ROBOTRON.mp4|title:Robot programming
+author:AssemblyTV|guid:1445|media:/vod/2012/AssemblyTV/1445_ARTTUR.mp4|title:Arttur & The Orchestra
+author:AssemblyTV|guid:1474|media:/vod/2012/AssemblyTV/1474_MARIO.mp4|title:Mario looks for princess
+author:AssemblyTV|guid:1506|media:/vod/2012/AssemblyTV/1506_AUTORATA.mp4|title:Viiksipojat on track
+author:AssemblyTV|guid:1507|media:/vod/2012/AssemblyTV/1507_DEMOSCENE.mp4|title:Demoscene area
+author:AssemblyTV|guid:1509|media:/vod/2012/AssemblyTV/1509_BORG.mp4|title:BORG
+author:AssemblyTV|guid:1511|media:/vod/2012/AssemblyTV/1511_INFO_AUTTAA.mp4|title:Info helps
+author:AssemblyTV|guid:1512|media:/vod/2012/AssemblyTV/1512_PELITALO.mp4|title:Game house hangout
+author:AssemblyTV|guid:1513|media:/vod/2012/AssemblyTV/1513_TITTIXIN.mp4|title:Titti & Xin
 
 
 :section Winter
