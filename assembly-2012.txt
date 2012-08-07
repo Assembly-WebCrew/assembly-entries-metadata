@@ -254,29 +254,29 @@ author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe -
 :section Seminars
 :youtube-playlist A10BAD043DC6AA60
 
-author:Henry Brade|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
-author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4
-author:Russ Morris|title:Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk
-author:Jouni Mannonen|title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI
-author:Aki Koskinen|title:Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM
-author:Tapio Nurminen|title:Tangible Metrics through Data Visualization|video-file:seminars/1356_Tangible_metrics.mp4|youtube:rSHuSMDSpbE
-author:Petra Pälmä|title:Ideation – making you brain work in new ways|video-file:seminars/1357_Ideation.mp4|youtube:rlFqkIa0zmM
-author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun|video-file:seminars/1358_Playful_prototyping.mp4|youtube:tCF3tz1FJ-s
-author:Peter Smets|title:So you want to build an arcade cabinet|video-file:seminars/1359_Arcade_cabinet.mp4|youtube:-zIhPV0F_B4
-author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era|video-file:seminars/1360_HTML5_game_development.mp4|youtube:tVpCF-kAUMg
-author:Tom Krcha|title:Adobe gaming solutions|video-file:seminars/1361_Adobe_gaming_solutions.mp4|youtube:DruPGkFK6u8
-author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success|video-file:seminars/1362_Amazing_alex.mp4|youtube:rWWKbK8U75s
-author:Olli Harjola|title:Good tool / bad master: tech and game design|video-file:seminars/1363_Good_tool_-_Bad_master.mp4|youtube:tNTxiLfnh1E
-author:Matt Swoboda|title:Advanced visual effects with DirectX 11|video-file:seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4|youtube:2MzSmdC49Ns
-author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4|youtube:LegtIPNVN_Y
-author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|youtube:THfgkQCjqag
-author:Antti Hätälä|title:Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4|youtube:9YA1w2E01BY
-author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games|video-file:seminars/1368_Unicorn7.mp4|youtube:uUW5s0xaz2w
-author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators|video-file:seminars/1369_Powerful_ideas.mp4|youtube:Pb3Cv8wEttI
-author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing|video-file:seminars/1370_Make_real_products.mp4|youtube:xuuzt4D5GMY
-author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw
-author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ
-author:Annakaisa Kultima|title:Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw
+author:Henry Brade|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0|guid:1351
+author:Jenni Saarinen|title:Digital painting, agile concepting for games|video-file:seminars/1352_Digital_painting_-_Agile_concepting_for_games.mp4|youtube:27RdsLBCZL4|guid:1352
+author:Russ Morris|title:Mobile development in Unity - what you need to know|video-file:seminars/1353_Mobile_development_in_Unity.mp4|youtube:vnF9YEm_pxk|guid:1353
+author:Jouni Mannonen|title:Four successes in a row can't be a coincidence - secrets of Mountain Sheep|video-file:seminars/1354_Secrets_of_Mountain_Sheep.mp4|youtube:-RF_kGeR5WI|guid:1354
+author:Aki Koskinen|title:Cross-platform mobile game development with Proton SDK|video-file:seminars/1355_Cross-platform_mobile_game_development_with_Proton_SDK.mp4|youtube:nnZft_li9oM|guid:1355
+author:Tapio Nurminen|title:Tangible Metrics through Data Visualization|video-file:seminars/1356_Tangible_metrics.mp4|youtube:rSHuSMDSpbE|guid:1356
+author:Petra Pälmä|title:Ideation – making you brain work in new ways|video-file:seminars/1357_Ideation.mp4|youtube:rlFqkIa0zmM|guid:1357
+author:Tuomo Tammenpää|title:Playful prototyping, the stories of failing for fun|video-file:seminars/1358_Playful_prototyping.mp4|youtube:tCF3tz1FJ-s|guid:1358
+author:Peter Smets|title:So you want to build an arcade cabinet|video-file:seminars/1359_Arcade_cabinet.mp4|youtube:-zIhPV0F_B4|guid:1359
+author:Pyry Lehdonvirta|title:No, HTML5 does not mean Rich Web. HTML5 is an Application Platform for the Ubiquitous Computing Era|video-file:seminars/1360_HTML5_game_development.mp4|youtube:tVpCF-kAUMg|guid:1360
+author:Tom Krcha|title:Adobe gaming solutions|video-file:seminars/1361_Adobe_gaming_solutions.mp4|youtube:DruPGkFK6u8|guid:1361
+author:Kalle Kaivola|title:Amazing Alex: The journey from a two-man indie game to a worldwide success|video-file:seminars/1362_Amazing_alex.mp4|youtube:rWWKbK8U75s|guid:1362
+author:Olli Harjola|title:Good tool / bad master: tech and game design|video-file:seminars/1363_Good_tool_-_Bad_master.mp4|youtube:tNTxiLfnh1E|guid:1363
+author:Matt Swoboda|title:Advanced visual effects with DirectX 11|video-file:seminars/1364_Amazing_visual_effects_with_DirectX_11.mp4|youtube:2MzSmdC49Ns|guid:1364
+author:Maarten Boon, Luc Schurgers, Dan Lewis|title:Making demos for advertising and creative industries|video-file:seminars/1365_Making_demos_for_advertising.mp4|youtube:LegtIPNVN_Y|guid:1365
+author:Bent Stamnes, Anders Lassen|title:Real-Time Graphics Everywhere (and fast) with Uno|video-file:seminars/1366_Realtime_graphics_everywhere_with_Uno.mp4|youtube:THfgkQCjqag|guid:1366
+author:Antti Hätälä|title:Occlusion culling for the next generation|video-file:seminars/1367_Occlusion_culling_for_the_next_generation.mp4|youtube:9YA1w2E01BY|guid:1367
+author:Julie Heyde, Tim Garbos|title:Unicorn7.org - The next step for gamejam games|video-file:seminars/1368_Unicorn7.mp4|youtube:uUW5s0xaz2w|guid:1368
+author:Emilia Hjelm, Arto Vihavainen, Jouko Strömmer|title:Powerful ideas - how (and why) to empower younger generations to become digital creators|video-file:seminars/1369_Powerful_ideas.mp4|youtube:Pb3Cv8wEttI|guid:1369
+author:Pekka Salokannel|title:Make real products in your browser with Tinkercad and 3D printing|video-file:seminars/1370_Make_real_products.mp4|youtube:xuuzt4D5GMY|guid:1370
+author:Alpo Oksanharju, Mikko Kallinen|title:Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw|guid:1371
+author:Antti Ylimutka, Mikko Kuusi|title:Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ|guid:1372
+author:Annakaisa Kultima|title:Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw|guid:1373
 author:Eemu Bertling|title:Robosota
 
 
