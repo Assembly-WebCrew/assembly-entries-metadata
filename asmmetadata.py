@@ -206,6 +206,10 @@ def parse_entry_line(line):
         data_dict['position'] = position
     elif 'position' in data_dict:
         del data_dict['position']
+
+    if 'media' in data_dict and not 'guid' in data_dict:
+        guid = re.sub("/vod/\d+/[^/]+/(\d+)_.+", "\\1", data_dict['media'])
+        data_dict['guid'] = guid
     return data_dict
 
 def parse_file(file_handle):
