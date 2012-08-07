@@ -236,16 +236,16 @@ author:AssemblyTV|description:From Assembly 2003 compo winner to a global phenom
 author:AssemblyTV|guid:1279|media:/vod/2011/AssemblyTV/1279_fast_graphics_compostudio_h264_7168kbit.mp4|title:Fast graphics compostudio|video-file:assemblytv/1279_fast_graphics_compostudio_h264_7168kbit.mp4|youtube:R4jL8WFQT-s
 author:AssemblyTV|description:Asus' subwoofer laptop, ROG tournament and champion interview.|guid:1304|media:/vod/2011/AssemblyTV/1304_asus_interview_h264_7168kbps.mp4|tags:viiksipojat|title:ASUS|video-file:assemblytv/1304_asus_interview_h264_7168kbps.mp4|youtube:KgLHJraecs8
 author:AssemblyTV|guid:1321|media:/vod/2011/AssemblyTV/1321_robowar_finals_h264_7168kbit.mp4|title:Robowar finals|video-file:assemblytv/1321_robowar_finals_h264_7168kbit.mp4|youtube:uva96vw6U4s
-author:AssemblyTV|guid:1280|media:/vod/2012/AssemblyTV/1280_viiksiboiz_ja_machinae_supremacy.mp4|title:Viiksiboiz & MaSu
-author:AssemblyTV|guid:1282|media:/vod/2012/AssemblyTV/1282_viiksipoikien_torstai.mp4|title:Viiksiboiz' Thursday
-author:AssemblyTV|guid:1289|media:/vod/2012/AssemblyTV/1289_viiksipojat_ja_Press_Play_on_Tape.mp4|title:Viiksipojat and Press Play on Tape
-author:AssemblyTV|guid:1302|media:/vod/2012/AssemblyTV/1302_vernakeisi.mp4|title:Verna pushing case|youtube:t8o5F8nVmBE
-author:AssemblyTV|guid:1303|media:/vod/2012/AssemblyTV/1303_mikko_assemblyilla.mp4|title:Mikko at Assembly
-author:AssemblyTV|guid:1334|media:/vod/2012/AssemblyTV/1334_radioon.mp4|title:Radio On
-author:AssemblyTV|guid:1335|media:/vod/2012/AssemblyTV/1335_spaghetti.mp4|title:Spaghetti & marshmallows
-author:AssemblyTV|guid:1337|media:/vod/2012/AssemblyTV/1337_viiksipoikien_perjantai.mp4|title:Viiksiboiz' Friday
-author:AssemblyTV|guid:1341|media:/vod/2012/AssemblyTV/1341_infokaunottaret.mp4|title:Infodesk cuties
-author:AssemblyTV|guid:1510|media:/vod/2012/AssemblyTV/1510_hacklab_2011.mp4|title:Hacklab 2011|youtube:MDB1mKdd6ps
+author:AssemblyTV|guid:1280|media:/vod/2011/AssemblyTV/1280_viiksiboiz_ja_machinae_supremacy.mp4|title:Viiksiboiz & MaSu|youtube:mLsmuSvinUs
+author:AssemblyTV|guid:1282|media:/vod/2011/AssemblyTV/1282_viiksipoikien_torstai.mp4|title:Viiksiboiz' Thursday|youtube:TUosIWXQEjM
+author:AssemblyTV|guid:1289|media:/vod/2011/AssemblyTV/1289_viiksipojat_ja_Press_Play_on_Tape.mp4|title:Viiksipojat and Press Play on Tape|youtube:kfkBDs_CRko
+author:AssemblyTV|guid:1302|media:/vod/2011/AssemblyTV/1302_vernakeisi.mp4|title:Verna pushing case|youtube:t8o5F8nVmBE
+author:AssemblyTV|guid:1303|media:/vod/2011/AssemblyTV/1303_mikko_assemblyilla.mp4|title:Mikko at Assembly|youtube:CzOe1UB97Lc
+author:AssemblyTV|guid:1334|media:/vod/2011/AssemblyTV/1334_radioon.mp4|title:Radio On|youtube:nC-9hH45zyw
+author:AssemblyTV|guid:1335|media:/vod/2011/AssemblyTV/1335_spaghetti.mp4|title:Spaghetti & marshmallows|youtube:98umz8bGm0s
+author:AssemblyTV|guid:1337|media:/vod/2011/AssemblyTV/1337_viiksipoikien_perjantai.mp4|title:Viiksiboiz' Friday|youtube:qEmwLCT7O1w
+author:AssemblyTV|guid:1341|media:/vod/2011/AssemblyTV/1341_infokaunottaret.mp4|title:Infodesk cuties|youtube:BNBC_a5VFcg
+author:AssemblyTV|guid:1510|media:/vod/2011/AssemblyTV/1510_hacklab_2011.mp4|title:Hacklab 2011|youtube:MDB1mKdd6ps
 
 
 :section Seminars
