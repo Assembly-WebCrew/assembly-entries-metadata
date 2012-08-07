@@ -171,6 +171,29 @@ class EntryYear(object):
         self.sections = []
         self.entries = []
 
+    def getSection(self, name):
+        for section in self.sections:
+            if section['key'] == normalize_key(name):
+                return section
+        return None
+
+    def createSection(self, name):
+        if not self.getSection(name) is None:
+            return self.getSection(name)
+        section = {
+                'key': normalize_key(name),
+                'name': name,
+                'year': self.year,
+                'entries': [],
+                }
+        self.sections.append(section)
+        return section
+
+    def addEntry(self, section, entryData):
+        entryData['section'] = section
+        section['entries'].append(entryData)
+        self.entries.append(entryData)
+
 def parse_entry_line(line):
     try:
         data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
@@ -190,7 +213,6 @@ def parse_file(file_handle):
 
     year = None
     section = None
-    normalized_section = None
 
     for line in file_handle:
         line = unicode(line.strip(), "utf-8")
@@ -199,7 +221,7 @@ def parse_file(file_handle):
         if line[0] == "#":
             continue
         if line[0] == ":":
-            data_type, value = line.split(" ", 1).strip()
+            data_type, value = line.strip().split(" ", 1)
             if data_type == ":year":
                 assert result.year is None
                 year = int(value)
@@ -208,15 +230,8 @@ def parse_file(file_handle):
                 # Sections must have year.
                 assert year is not None
                 section_name = value
-                normalized_section = normalize_key(section_name)
-                assert not normalized_section in [section['key'] for section in result.sections], "Section %s was defined for the second time." % normalized_section
-                section = {
-                    'key': normalized_section,
-                    'name': section_name,
-                    'year': year,
-                    'entries': [],
-                    }
-                result.sections.append(section)
+                assert result.getSection(section_name) is None, "Section %s was defined for the second time." % section_name
+                section = result.createSection(section_name)
             elif data_type == ":description":
                 # Descriptions can only be under section.
                 assert section is not None
@@ -253,10 +268,8 @@ def parse_file(file_handle):
         data_dict = parse_entry_line(line)
 
         assert 'section' not in data_dict
-        data_dict['section'] = section
 
-        result.entries.append(data_dict)
-        section['entries'].append(data_dict)
+        result.addEntry(section, data_dict)
 
     return result
 
@@ -271,6 +284,8 @@ def print_metadata(outfile, year_entry_data):
             outfile.write(":pms-category %s\n" % section['pms-category'])
         if 'description' in section:
             outfile.write(":description %s\n" % section['description'].encode("utf-8"))
+        if 'sceneorg' in section:
+            outfile.write(":sceneorg %s\n" % section['sceneorg'].encode("utf-8"))
         if 'ongoing' in section:
             ongoing_text = "false"
             if section['ongoing'] is True:
