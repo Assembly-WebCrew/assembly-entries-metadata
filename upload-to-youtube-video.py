@@ -136,16 +136,6 @@ for line in sys.stdin:
         print line.encode('utf-8')
         continue
 
-    if os.path.getsize(source_file) > (2**31 - 1):
-        print "# XXX not-uploaded over 2GB file!"
-        print line.encode('utf-8')
-        sys.stderr.write("# XXX not-uploaded over 2GB file!\n")
-        sys.stderr.write("%s\n" % youtube_title)
-        sys.stderr.write("%s\n" % description)
-        sys.stderr.write("%s\n" % category)
-        sys.stderr.write("%s\n" % ", ".join(tag_list))
-        continue
-
     tags = ",".join(tag_list)
 
     upload_trials = 0
