@@ -12,12 +12,14 @@ parser.add_argument('password')
 parser.add_argument('files_root', metavar="files-root")
 parser.add_argument('--video-postfix', default=".mp4")
 parser.add_argument('--dry-run', action="store_true")
+parser.add_argument('--media-vod-directory')
 commandline_args = parser.parse_args(sys.argv[1:])
 
 email = commandline_args.email
 password = commandline_args.password
 files_root = commandline_args.files_root
 video_postfix = commandline_args.video_postfix
+media_vod_directory = commandline_args.media_vod_directory
 
 def call_and_capture_output_real(args):
     p = subprocess.Popen(args, stdout=subprocess.PIPE)
@@ -111,6 +113,9 @@ for line in sys.stdin:
             author)
         )
     source_file = os.path.join(files_root, year, source_file_base + video_postfix)
+
+    if not os.path.exists(source_file) and 'media' in entryinfo and not media_vod_directory is None:
+        source_file = os.path.join(media_vod_directory, entryinfo['media'])
 
     if not os.path.exists(source_file):
         print line.encode('utf-8')
