@@ -100,6 +100,7 @@ for item in items:
                 event_data.addEntry(section_seminars, entry_data)
             else:
                 entry_data = entry
+            title = title.replace("ARTtech seminars - ", "")
             entry_data['title'] = title
             entry_data['media'] = url
             entry_data['guid'] =  guid
