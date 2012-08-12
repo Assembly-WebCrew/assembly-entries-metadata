@@ -2,6 +2,7 @@
 import argparse
 import asmmetadata
 import os.path
+import re
 import sys
 import subprocess
 import time
@@ -154,7 +155,8 @@ for line in sys.stdin:
         if 'youtube.com' in outlines[-1]:
             upload_success = True
             youtube_http_id = outlines[-1]
-            youtube_id = "|youtube:" + youtube_http_id.replace("https://www.youtube.com/watch?v=", "")
+            youtube_http_id = re.sub(r"https?://www\.youtube\.com/watch\?v=", "")
+            youtube_id = "|youtube:" + youtube_http_id
             failures = 0
         else:
             sys.stderr.write(("UPLOAD failed %s\n" % line).encode('utf-8'))
