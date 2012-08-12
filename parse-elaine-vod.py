@@ -86,6 +86,8 @@ for item in items:
             entry_data['title'] = title
             entry_data['media'] = url
             entry_data['guid'] =  guid
+            description = descriptions.get('en') or ""
+            entry_data['description'] = description.strip() or None
         elif re.match(r"\d\d\d\d Seminars", category):
             year, _ = category.split(" ")
             year = int(year)
