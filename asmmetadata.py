@@ -211,6 +211,7 @@ def parse_entry_line(line):
         if re.match("^/vod/\d+/[^/]+/(\d+)_.+", data_dict['media']):
             guid = re.sub("/vod/\d+/[^/]+/(\d+)_.+", "\\1", data_dict['media'])
             data_dict['guid'] = guid
+
     return data_dict
 
 def parse_file(file_handle):
@@ -306,6 +307,11 @@ def print_metadata(outfile, year_entry_data):
 
         for entry in section['entries']:
             del entry['section']
+
+            for key, value in entry.items():
+                if value is None:
+                    del entry[key]
+
             parts = sorted(u"%s:%s" % (key, value) for key, value in entry.items())
             outline = u"|".join(parts)
             outfile.write("%s\n" % outline.encode("utf-8"))
