@@ -277,7 +277,7 @@ author:Pekka Salokannel|guid:1370|media:/vod/2012/Seminars/1370_Make_real_produc
 author:Alpo Oksanharju, Mikko Kallinen|guid:1371|media:/vod/2012/Seminars/1371_Why_build_new_game_engine.mp4|title:Why build an entirely new game engine for indie game RESET?|video-file:seminars/1371_Why_build_new_game_engine.mp4|youtube:FwLL-ji0Ilw
 author:Antti Ylimutka, Mikko Kuusi|guid:1372|media:/vod/2012/Seminars/1372_Getting_started__Startup_Sauna.mp4|title:Getting Started - hosted by Startup Sauna|video-file:seminars/1372_Getting_started__Startup_Sauna.mp4|youtube:1Ap3DimgvPQ
 author:Annakaisa Kultima|guid:1373|media:/vod/2012/Seminars/1373_Panel_Game_jamming.mp4|title:Panel: Game Jamming and social programming|video-file:seminars/1373_Panel_Game_jamming.mp4|youtube:qyoThwBSliw
-author:Eemu Bertling|title:Robosota
+author:Eemu Bertling|title:Robosota|guid:1374|media:/vod/2012/Seminars/1374_Robosota_seminar.mp4|youtube:uf1c8tFyYMQ
 
 
 :section AssemblyTV
