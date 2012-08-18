@@ -70,14 +70,19 @@ for entry in entry_data.entries:
 
     thumbnail_data = None
     try:
-        thumbnail_data = urllib2.urlopen(thumbnail_address)
+        thumbnail_data_request = urllib2.urlopen(thumbnail_address)
     except urllib2.HTTPError, e:
         link_to_missing_thumbnail(target_jpeg, target_png)
         continue
 
-    temporary_image_fp = tempfile.NamedTemporaryFile(prefix=".youtube-thumbnail-", suffix=".jpeg")
+    thumbnail_data = thumbnail_data_request.read()
 
-    temporary_image_fp.write(thumbnail_data.read())
+    temporary_image_fp = tempfile.NamedTemporaryFile(prefix=".youtube-thumbnail-", suffix=".jpeg", mode="wb")
+    temporary_image_fp.write(thumbnail_data)
+    temporary_image_fp.flush()
 
     temporary_image = temporary_image_fp.name
+
     create_thumbnail(temporary_image, width, height, target_jpeg, target_png)
+
+    temporary_image_fp.close()
