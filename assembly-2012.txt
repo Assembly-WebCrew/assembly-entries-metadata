@@ -304,7 +304,24 @@ author:AssemblyTV|guid:1388|media:/vod/2012/AssemblyTV/1388_Prize_ceremony_1.mp4
 author:AssemblyTV|guid:1393|media:/vod/2012/AssemblyTV/1393_Prize_ceremony_2.mp4|title:Prize ceremony 2|youtube:RkYiu3wlvlc
 author:AssemblyTV|guid:1410|media:/vod/2012/AssemblyTV/1410_4k_intro_compostudio.mp4|title:4k intro compostudio|youtube:YIHQkHFl0P0
 author:AssemblyTV|guid:1411|media:/vod/2012/AssemblyTV/1411_Demo_compostudio.mp4|title:Demo compostudio|youtube:5jW5Tc6yOzY
-author:AssemblyTV|description:Discussions about anything and everything by Thoron and Solarius, part 2.|guid:1508|media:/vod/2012/AssemblyTV/1508_LateNightSnack2.mp4|title:Late Night Snack with Thoron and Solarius - part2|youtube:jWhavCG1_lQ
+author:AssemblyTV|description:Discussions about anything and everything|guid:1508|media:/vod/2012/AssemblyTV/1508_LateNightSnack2.mp4|title:Late Night with Thoron, part 2|youtube:jWhavCG1_lQ
+author:AssemblyTV|description:Live broadcast from Hartwall Arena, Helsinki, Finland. The doors are opening! (in Finnish)|guid:1342|media:/vod/2012/AssemblyTV/1342_Assembly_begins.mp4|title:Assembly 2012 begins
+author:AssemblyTV|description:What's hot today? (in Finnish)|guid:1345|media:/vod/2012/AssemblyTV/1345_ASM_perjantai.mp4|title:Assembly today (Fri)
+author:AssemblyTV|guid:1375|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening Ceremony
+author:AssemblyTV|guid:1394|media:/vod/2012/AssemblyTV/1394_Lopetus.mp4|title:Closing Ceremony
+author:AssemblyTV|guid:1401|media:/vod/2012/AssemblyTV/1401_Gamedev_compostudio.mp4|title:Gamedev compostudio
+author:AssemblyTV|guid:1402|media:/vod/2012/AssemblyTV/1402_Fast_music_compostudio.mp4|title:Fast Music Compostudio
+author:AssemblyTV|guid:1403|media:/vod/2012/AssemblyTV/1403_Fast_gfx_compostudio.mp4|title:Fast graphics compostudio
+author:AssemblyTV|guid:1404|media:/vod/2012/AssemblyTV/1404_Oldskool_compostudio.mp4|title:Oldskool demo compostudio
+author:AssemblyTV|guid:1405|media:/vod/2012/AssemblyTV/1405_Listening_music_compostudio.mp4|title:Listening music compostudio
+author:AssemblyTV|guid:1406|media:/vod/2012/AssemblyTV/1406_Graphics_compostudio.mp4|title:Graphics compostudio
+author:AssemblyTV|guid:1407|media:/vod/2012/AssemblyTV/1407_1k_intro_compostudio.mp4|title:1k intro compostudio
+author:AssemblyTV|guid:1408|media:/vod/2012/AssemblyTV/1408_RealWild_compostudio.mp4|title:Real wild compostudio
+author:AssemblyTV|guid:1409|media:/vod/2012/AssemblyTV/1409_Shortfilm_compostudio.mp4|title:Short film compostudio
+author:AssemblyTV|description:Band interview: Poets of the Fall|guid:1412|media:/vod/2012/AssemblyTV/1412_Poets_interview.mp4|title:Band interview: Poets of the Fall
+author:AssemblyTV|guid:1434|media:/vod/2012/AssemblyTV/1434_Amigapeli_pinball.mp4|title:Playing with Amigaaa!: Pinball Dreams / Fantasies
+author:AssemblyTV|guid:1435|media:/vod/2012/AssemblyTV/1435_Amigapeli_Sensible_soccer.mp4|title:Playing with Amigaaa!: Sensible Soccer
+author:AssemblyTV|guid:1436|media:/vod/2012/AssemblyTV/1436_Amigapeli_EOB.mp4|title:Playing with Amigaaa!: Eye of the Beholder II
 
 
 :section Winter
