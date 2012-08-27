@@ -6,18 +6,18 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2012 PC computer.</p>
 :sceneorg demo
 
-author:Byterapers + Doomsday|platform:PC|pms-id:asm12/demo/482|position:4|techniques:Siinä paha missä mainitaan|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
-author:tAAt 2012|platform:Windows|pms-id:asm12/demo/626|position:9|techniques:Old & New|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
-author:Department of Offense|platform:Windows|pms-id:asm12/demo/633|position:11|techniques:SharpDX, DirectX 11|title:Booger|video-file:demo/1496_Demo_Booger_by_Department_of_Offense.mov|youtube:rm5i30tRepc
-author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/demo/638|position:12|techniques:glsl, fl studio, o'boy|title:rushing into|video-file:demo/1497_Demo_rushing_into_by_cce_and_msqrt_of_Peisik.mov|youtube:WsLIBW4z5j8
-author:Rustbloom|platform:Windows|pms-id:asm12/demo/641|position:7|title:Kauai-i|video-file:demo/1498_Demo_Kauaii_by_Rustbloom.mov|youtube:b6V-exq_LfU
-author:Division|platform:PC|pms-id:asm12/demo/642|position:3|techniques:DX9|title:Hedron|video-file:demo/1499_Demo_Hedron_by_Division.mov|youtube:s-WTp1Ot7EE
-author:Pyrotech|platform:PC|pms-id:asm12/demo/643|position:2|techniques:DX9|title:Escape|video-file:demo/1500_Demo_Escape_by_Pyrotech.mov|youtube:CFO9mifkNEg
-author:Hymy & Awind|platform:Windows|pms-id:asm12/demo/644|position:10|techniques:Opengl, GLSL|title:Meteoroid|video-file:demo/1501_Demo_Meteoroid_by_Hymy__Awind.mov|youtube:YhO1d-Td-FQ
-author:Zden, Raiden, Ubik, Pavuk, Sustrate|platform:windows|pms-id:asm12/demo/654|position:5|techniques:soft render|title:Metamorf II|video-file:demo/1502_Demo_Metamorf_II_by_Zden_Raiden_Ubik_Pavuk_Sustrate.mov|youtube:4vsVi5U0dDg
-author:adapt|platform:windoussi|pms-id:asm12/demo/656|position:8|techniques:dx9 and super powers from the greatest love of all born stars|title:born stars|video-file:demo/1503_Demo_born_stars_by_adapt.mov|youtube:YQg0NFJb7Rg
-author:Elude|platform:Amiga AGA|pms-id:asm12/demo/657|position:6|title:Reboxer|video-file:demo/1504_Demo_Reboxer_by_Elude.mov|youtube:IEWvnlcQazI
-author:cncd|pms-id:asm12/demo/658|position:1|title:spacecut|video-file:demo/1505_Demo_spacecut_by_cncd.mov|youtube:7PHFz6PHWw4
+author:Byterapers + Doomsday|platform:PC|pms-id:asm12/demo/482|position:4|pouet:59619|techniques:Siinä paha missä mainitaan|title:Old is not Dead|video-file:demo/1494_Demo_Old_is_not_Dead_by_Byterapers_and_Doomsday.mov|youtube:iYD9ErLkxS4
+author:tAAt 2012|platform:Windows|pms-id:asm12/demo/626|position:9|pouet:59612|techniques:Old & New|title:tAAt 20v juhlasikermä - 20 yr jubilee potpourri|video-file:demo/1495_Demo_tAAt_20v_juhlasikerm__20_yr_jubilee_potpourri_by_tAAt_2012.mov|youtube:Xi7u2zHZoJY
+author:Department of Offense|platform:Windows|pms-id:asm12/demo/633|position:11|pouet:59631|techniques:SharpDX, DirectX 11|title:Booger|video-file:demo/1496_Demo_Booger_by_Department_of_Offense.mov|youtube:rm5i30tRepc
+author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/demo/638|position:12|pouet:59626|techniques:glsl, fl studio, o'boy|title:rushing into|video-file:demo/1497_Demo_rushing_into_by_cce_and_msqrt_of_Peisik.mov|youtube:WsLIBW4z5j8
+author:Rustbloom|platform:Windows|pms-id:asm12/demo/641|position:7|pouet:59627|title:Kauai-i|video-file:demo/1498_Demo_Kauaii_by_Rustbloom.mov|youtube:b6V-exq_LfU
+author:Division|platform:PC|pms-id:asm12/demo/642|position:3|pouet:59618|techniques:DX9|title:Hedron|video-file:demo/1499_Demo_Hedron_by_Division.mov|youtube:s-WTp1Ot7EE
+author:Pyrotech|platform:PC|pms-id:asm12/demo/643|position:2|pouet:59621|techniques:DX9|title:Escape|video-file:demo/1500_Demo_Escape_by_Pyrotech.mov|youtube:CFO9mifkNEg
+author:Hymy & Awind|platform:Windows|pms-id:asm12/demo/644|position:10|pouet:59670|techniques:Opengl, GLSL|title:Meteoroid|video-file:demo/1501_Demo_Meteoroid_by_Hymy__Awind.mov|youtube:YhO1d-Td-FQ
+author:Zden, Raiden, Ubik, Pavuk, Sustrate|platform:windows|pms-id:asm12/demo/654|position:5|pouet:59605|techniques:soft render|title:Metamorf II|video-file:demo/1502_Demo_Metamorf_II_by_Zden_Raiden_Ubik_Pavuk_Sustrate.mov|youtube:4vsVi5U0dDg
+author:adapt|platform:windoussi|pms-id:asm12/demo/656|position:8|pouet:59629|techniques:dx9 and super powers from the greatest love of all born stars|title:born stars|video-file:demo/1503_Demo_born_stars_by_adapt.mov|youtube:YQg0NFJb7Rg
+author:Elude|platform:Amiga AGA|pms-id:asm12/demo/657|position:6|pouet:59637|title:Reboxer|video-file:demo/1504_Demo_Reboxer_by_Elude.mov|youtube:IEWvnlcQazI
+author:cncd|pms-id:asm12/demo/658|position:1|pouet:59615|title:spacecut|video-file:demo/1505_Demo_spacecut_by_cncd.mov|youtube:7PHFz6PHWw4
 
 
 :section Real wild demo
@@ -26,14 +26,14 @@ author:cncd|pms-id:asm12/demo/658|position:1|title:spacecut|video-file:demo/1505
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :sceneorg real_wild
 
-author:Bilotrip|platform:iOS 5.1|pms-id:asm12/real_wild/403|position:7|techniques:GPUImage framework & OpenGL ES 2.0|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
-author:Kewlers|platform:Android (Galaxy Nexus)|pms-id:asm12/real_wild/424|position:3|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
-author:The Royal Elite Ninjas Inc.|platform:Nintendo DS|pms-id:asm12/real_wild/622|position:8|techniques:Bardit 24/7|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov|youtube:Mbc6-yP9SzE
-author:npli|platform:Nokia N8 / Nokia Belle|pms-id:asm12/real_wild/631|position:2|techniques:OpenGL ES 2, GNU Rocket, Inca Kola|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov|youtube:ATz5ncUwgv4
-author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|platform:Apple Lisa 2/10|pms-id:asm12/real_wild/634|position:1|techniques:Technique:  Custom hardware for audio card and DVI output, otherwise unmodified Lisa 2/10|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov|youtube:WUUnb1L8XNY
-author:Wide Load and Ananasmurska|platform:Windows Phone 7.5|pms-id:asm12/real_wild/635|position:5|techniques:XNA, Renoise, Adobe Flash, Blender, Visual Studio|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov|youtube:QKKCKMb2-ts
-author:Hedelmae|platform:Android|pms-id:asm12/real_wild/640|position:4|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov|youtube:wjCWDKoKcu8
-author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniques:Javascript + WebGL|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov|youtube:KEqzNokxWaI
+author:Bilotrip|platform:iOS 5.1|pms-id:asm12/real_wild/403|position:7|pouet:59606|techniques:GPUImage framework & OpenGL ES 2.0|title:Stalker|video-file:real-wild/1466_RealWild_Stalker_by_Bilotrip.mov|youtube:MLTyyi4TiTg
+author:Kewlers|platform:Android (Galaxy Nexus)|pms-id:asm12/real_wild/424|position:3|pouet:59617|title:RRHOID|video-file:real-wild/1467_RealWild_RRHOID_by_Kewlers.mov|youtube:srb6sLkzCo4
+author:The Royal Elite Ninjas Inc.|platform:Nintendo DS|pms-id:asm12/real_wild/622|position:8|pouet:59628|techniques:Bardit 24/7|title:Bandits|video-file:real-wild/1468_RealWild_Bandits_by_The_Royal_Elite_Ninjas_Inc.mov|youtube:Mbc6-yP9SzE
+author:npli|platform:Nokia N8 / Nokia Belle|pms-id:asm12/real_wild/631|position:2|pouet:59608|techniques:OpenGL ES 2, GNU Rocket, Inca Kola|title:Rabbit Deployment Force|video-file:real-wild/1469_RealWild_Rabbit_Deployment_Force_by_npli.mov|youtube:ATz5ncUwgv4
+author:Art: lroop, mdille3, scgruber, uG/bG Staff; Code: awesie, kbare, mdille3, mkasick, tylerni7; Hardware: kbare, lroop, mdille3; Music: coda, kbare, Rick Astley|platform:Apple Lisa 2/10|pms-id:asm12/real_wild/634|position:1|pouet:59635|techniques:Technique: Custom hardware for audio card and DVI output, otherwise unmodified Lisa 2/10|title:Introducing the iLisa|video-file:real-wild/1470_RealWild_Introducing_the_iLisa_by_cmucc.mov|youtube:WUUnb1L8XNY
+author:Wide Load and Ananasmurska|platform:Windows Phone 7.5|pms-id:asm12/real_wild/635|position:5|pouet:59630|techniques:XNA, Renoise, Adobe Flash, Blender, Visual Studio|title:Night Falls|video-file:real-wild/1471_RealWild_Night_Falls_by_Wide_Load_and_Ananasmurska.mov|youtube:QKKCKMb2-ts
+author:Hedelmae|platform:Android|pms-id:asm12/real_wild/640|position:4|pouet:59601|title:Prime Number Minister|video-file:real-wild/1472_RealWild_Prime_Number_Minister_by_Hedelmae.mov|youtube:wjCWDKoKcu8
+author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|pouet:59659|techniques:Javascript + WebGL|title:dekaHertz|video-file:real-wild/1473_RealWild_dekaHertz_by_Resonance.mov|youtube:KEqzNokxWaI
 
 
 :section 4k intro
@@ -41,16 +41,16 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|techniqu
 :pms-category 4k_intro
 :sceneorg in4k
 
-author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
-author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
-author:Peisik & Tarhatarha|platform:Windows|pms-id:asm12/4k_intro/554|position:9|techniques:crinkler, 4klang|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
-author:XZM|platform:Windows|pms-id:asm12/4k_intro/627|position:5|techniques:4klang, Crinkler, isystem, GLSL Shader Minifier|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
-author:Digimind & Silent|platform:PC|pms-id:asm12/4k_intro/628|position:8|techniques:Visual C++, Shader minifier, Crinkler|title:Alien Station|video-file:4k-intro/1480_4k_Alien_Station_by_Digimind__Silent.mov|youtube:pG_lpibfegU
-author:mfx|platform:pc|pms-id:asm12/4k_intro/632|position:2|techniques:opengl|title:Reionization|video-file:4k-intro/1481_4k_Reionization_by_mfx.mov|youtube:lry7-6fTjSQ
-author:Fulcrum|platform:PC|pms-id:asm12/4k_intro/636|position:4|techniques:Crinkler, 4Klang, Shader minifier, 4KStudio|title:Finite Horizon Regret|video-file:4k-intro/1482_4k_Finite_Horizon_Regret_by_Fulcrum.mov|youtube:ltsbPfTvJbw
-author:oo|platform:PC|pms-id:asm12/4k_intro/639|position:7|techniques:C++, OpenGL, GLSL, 4klang|title:Black Patch|video-file:4k-intro/1483_4k_Black_Patch_by_oo.mov|youtube:tgDExLleF1s
-author:adapt|platform:windows|pms-id:asm12/4k_intro/651|position:3|techniques:dx9, maito, vichy novelle plus magnesium c "palauttaa rasituksesta"|title:xperiment in a box|video-file:4k-intro/1484_4k_xperiment_in_a_box_by_adapt.mov|youtube:3wwoiBu2AYU
-author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|techniques:partycoding, hells yeah|title:ES-pärinä on matka|video-file:4k-intro/1485_4k_ESparina_on_matka_by_Saint_Porn.mov|youtube:a7OxtxsmA28
+author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|pouet:59614|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
+author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|pouet:59651|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
+author:Peisik & Tarhatarha|platform:Windows|pms-id:asm12/4k_intro/554|position:9|pouet:59654|techniques:crinkler, 4klang|title:Hypatia|video-file:4k-intro/1478_4k_Hypatia_by_Peisik_Tarhatarha.mov|youtube:wwARfmjr5sA
+author:XZM|platform:Windows|pms-id:asm12/4k_intro/627|position:5|pouet:59650|techniques:4klang, Crinkler, isystem, GLSL Shader Minifier|title:Confusphere|video-file:4k-intro/1479_4k_Confusphere_by_XZM.mov|youtube:nbN4b0cHkSI
+author:Digimind & Silent|platform:PC|pms-id:asm12/4k_intro/628|position:8|pouet:59607|techniques:Visual C++, Shader minifier, Crinkler|title:Alien Station|video-file:4k-intro/1480_4k_Alien_Station_by_Digimind__Silent.mov|youtube:pG_lpibfegU
+author:mfx|platform:pc|pms-id:asm12/4k_intro/632|position:2|pouet:59613|techniques:opengl|title:Reionization|video-file:4k-intro/1481_4k_Reionization_by_mfx.mov|youtube:lry7-6fTjSQ
+author:Fulcrum|platform:PC|pms-id:asm12/4k_intro/636|position:4|pouet:59603|techniques:Crinkler, 4Klang, Shader minifier, 4KStudio|title:Finite Horizon Regret|video-file:4k-intro/1482_4k_Finite_Horizon_Regret_by_Fulcrum.mov|youtube:ltsbPfTvJbw
+author:oo|platform:PC|pms-id:asm12/4k_intro/639|position:7|pouet:59653|techniques:C++, OpenGL, GLSL, 4klang|title:Black Patch|video-file:4k-intro/1483_4k_Black_Patch_by_oo.mov|youtube:tgDExLleF1s
+author:adapt|platform:windows|pms-id:asm12/4k_intro/651|position:3|pouet:59634|techniques:dx9, maito, vichy novelle plus magnesium c "palauttaa rasituksesta"|title:xperiment in a box|video-file:4k-intro/1484_4k_xperiment_in_a_box_by_adapt.mov|youtube:3wwoiBu2AYU
+author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|pouet:59669|techniques:partycoding, hells yeah|title:ES-pärinä on matka|video-file:4k-intro/1485_4k_ESparina_on_matka_by_Saint_Porn.mov|youtube:a7OxtxsmA28
 
 
 :section 1k intro
@@ -58,25 +58,25 @@ author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|techn
 :pms-category 1k_intro
 :sceneorg in1k
 
-author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
-author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
-author:Luminesce|platform:OpenGL|pms-id:asm12/1k_intro/422|position:3|techniques:Voodoo magic|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov|youtube:i02gIx7FQac
-author:npli|platform:Win32|pms-id:asm12/1k_intro/429|position:6|techniques:Directx 9, Nasm, 1kpack|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov|youtube:zL2WqvdzYfg
-author:npli|platform:Win32|pms-id:asm12/1k_intro/436|position:5|techniques:opengl 1.1, msvc, masm, crinkler|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov|youtube:N6vl5yYBTM8
-author:tArzAn / tAAt|platform:Windows|pms-id:asm12/1k_intro/446|position:9|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
-author:Ajna|platform:Windows|pms-id:asm12/1k_intro/453|position:14|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
-author:fsqrt + ye olde laptops posse|platform:linux|pms-id:asm12/1k_intro/454|position:13|techniques:softsynth, experimental cpu sphere tracing|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
-author:XZM|platform:Windows|pms-id:asm12/1k_intro/466|position:12|techniques:GLSL, Crinkler, isystem, sources included|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:kKdadoZTnhI
-author:Shadikka|platform:Firefox (HTML5, mozAudio)|pms-id:asm12/1k_intro/468|position:7|techniques:JS, <canvas>, JSCrush, coffee|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
-author:Dzarg|platform:PC|pms-id:asm12/1k_intro/480|position:10|techniques:C++, GLSL, Crinkler|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
-author:Digimind|platform:PC|pms-id:asm12/1k_intro/517|position:4|techniques:Visual C++, Crinkler|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
-author:Spaceballs|platform:AMIGAAAAH (bootblock)|pms-id:asm12/1k_intro/523|position:11|techniques:Being too stupid to ever quit...|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov|youtube:eoOKkxXGQLc
-author:Yzi/Fit|platform:Windows|pms-id:asm12/1k_intro/525|position:17|techniques:Greetings to Buzzer|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov|youtube:XOnk9a3FgWs
-author:TBC|platform:Windows / DX9|pms-id:asm12/1k_intro/528|position:2|techniques:asm, custom compressor|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
-author:yolp|platform:linux|pms-id:asm12/1k_intro/548|position:19|techniques:glsl, softsynth, 2 hours|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
-author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/1k_intro/553|position:15|techniques:GLSL|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
-author:Cenon|platform:Windows|pms-id:asm12/1k_intro/566|position:18|techniques:GLSL, Crinkler|title:K-Dur|video-file:1k-intro/1464_1k_KDur_by_Cenon.mov|youtube:hOlPzrQjnTQ
-author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|techniques:opengl, crinkler, gm, lotsa water for splashin|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
+author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|pouet:59610|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
+author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|pouet:59636|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
+author:Luminesce|platform:OpenGL|pms-id:asm12/1k_intro/422|position:3|pouet:59616|techniques:Voodoo magic|title:Braids|video-file:1k-intro/1449_1k_Braids_by_Luminesce.mov|youtube:i02gIx7FQac
+author:npli|platform:Win32|pms-id:asm12/1k_intro/429|position:6|pouet:59609|techniques:Directx 9, Nasm, 1kpack|title:Kilo makkaraa|video-file:1k-intro/1450_1k_Kilo_makkaraa_by_npli.mov|youtube:zL2WqvdzYfg
+author:npli|platform:Win32|pms-id:asm12/1k_intro/436|position:5|pouet:59625|techniques:opengl 1.1, msvc, masm, crinkler|title:a kilo of missing earplugs|video-file:1k-intro/1451_1k_a_kilo_of_missing_earplugs_by_npli.mov|youtube:N6vl5yYBTM8
+author:tArzAn / tAAt|platform:Windows|pms-id:asm12/1k_intro/446|position:9|pouet:59611|title:Synxiety Attack - Tahdistuskohtaus|video-file:1k-intro/1452_1k_Synxiety_Attack__Tahdistuskohtaus_by_tArzAn__tAAt.mov|youtube:FtRH_2lQTHc
+author:Ajna|platform:Windows|pms-id:asm12/1k_intro/453|position:14|pouet:59655|title:Strange Aeons|video-file:1k-intro/1453_1k_Strange_Aeons_by_Ajna.mov|youtube:fwVV7_PVcGI
+author:fsqrt + ye olde laptops posse|platform:linux|pms-id:asm12/1k_intro/454|position:13|pouet:59602|techniques:softsynth, experimental cpu sphere tracing|title:harsh|video-file:1k-intro/1454_1k_harsh_by_fsqrt__ye_olde_laptops_posse.mov|youtube:YmRfbPPvYl4
+author:XZM|platform:Windows|pms-id:asm12/1k_intro/466|position:12|pouet:59673|techniques:GLSL, Crinkler, isystem, sources included|title:Sun Of Bac|video-file:1k-intro/1455_1k_Sun_Of_Bac_by_XZM.mov|youtube:kKdadoZTnhI
+author:Shadikka|platform:Firefox (HTML5, mozAudio)|pms-id:asm12/1k_intro/468|position:7|pouet:59665|techniques:JS, <canvas>, JSCrush, coffee|title:<3 ASM|video-file:1k-intro/1456_1k_3_ASM_by_Shadikka.mov|youtube:f8Z47HqNAsU
+author:Dzarg|platform:PC|pms-id:asm12/1k_intro/480|position:10|pouet:59671|techniques:C++, GLSL, Crinkler|title:Daylight|video-file:1k-intro/1457_1k_Daylight_by_Dzarg.mov|youtube:txxylMtdscw
+author:Digimind|platform:PC|pms-id:asm12/1k_intro/517|position:4|pouet:59604|techniques:Visual C++, Crinkler|title:City by helicopter|video-file:1k-intro/1458_1k_City_by_helicopter_by_Digimind.mov|youtube:I2zqIfb4J5o
+author:Spaceballs|platform:AMIGAAAAH (bootblock)|pms-id:asm12/1k_intro/523|position:11|pouet:59623|techniques:Being too stupid to ever quit...|title:Copperophilia|video-file:1k-intro/1459_1k_Copperophilia_by_Spaceballs.mov|youtube:eoOKkxXGQLc
+author:Yzi/Fit|platform:Windows|pms-id:asm12/1k_intro/525|position:17|pouet:59652|techniques:Greetings to Buzzer|title:A View to a Grid|video-file:1k-intro/1460_1k_A_View_to_a_Grid_by_YziFit.mov|youtube:XOnk9a3FgWs
+author:TBC|platform:Windows / DX9|pms-id:asm12/1k_intro/528|position:2|pouet:59600|techniques:asm, custom compressor|title:Traceless|video-file:1k-intro/1461_1k_Traceless_by_TBC.mov|youtube:EDc0qmDrjtM
+author:yolp|platform:linux|pms-id:asm12/1k_intro/548|position:19|pouet:59624|techniques:glsl, softsynth, 2 hours|title:planB|video-file:1k-intro/1462_1k_planB_by_yolp.mov|youtube:0DjVGCmc334
+author:cce and msqrt of Peisik|platform:PC|pms-id:asm12/1k_intro/553|position:15|pouet:59657|techniques:GLSL|title:murimecco|video-file:1k-intro/1463_1k_murimecco_by_cce_and_msqrt_of_Peisik.mov|youtube:vjzkaQ5xOGI
+author:Cenon|platform:Windows|pms-id:asm12/1k_intro/566|position:18|pouet:59672|techniques:GLSL, Crinkler|title:K-Dur|video-file:1k-intro/1464_1k_KDur_by_Cenon.mov|youtube:hOlPzrQjnTQ
+author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|pouet:59656|techniques:opengl, crinkler, gm, lotsa water for splashin|title:splashin in the hills|video-file:1k-intro/1465_1k_splashin_in_the_hills_by_adapt.mov|youtube:f2EopGmptfk
 
 
 :section Oldskool demo
@@ -85,10 +85,10 @@ author:adapt|platform:windows|pms-id:asm12/1k_intro/608|position:16|techniques:o
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :sceneorg oldskool/demo
 
-author:RNO|platform:Atari ST|pms-id:asm12/oldskool/432|position:3|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
-author:Upstars|platform:C-64|pms-id:asm12/oldskool/478|position:4|techniques:Turbo Assembler|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
-author:PWP|platform:C-64|pms-id:asm12/oldskool/490|position:1|techniques:6581 SID|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
-author:Spaceballs|platform:Amiga 500 (OCS, 512kb chip, 512kb fakefast)|pms-id:asm12/oldskool/546|position:2|techniques:Skryting, juging, juksing og annen generell oldshoolness...|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
+author:RNO|platform:Atari ST|pms-id:asm12/oldskool/432|position:3|pouet:59632|techniques:Atari ST|title:Protein|youtube:0MNa-BtD4VQ
+author:Upstars|platform:C-64|pms-id:asm12/oldskool/478|position:4|pouet:59633|techniques:Turbo Assembler|title:RECHARGER|video-file:oldskool-demo/1441_Oldskool_RECHARGER_by_Upstars.mov|youtube:yX_Dzsxlsl4
+author:PWP|platform:C-64|pms-id:asm12/oldskool/490|position:1|pouet:59598|techniques:6581 SID|title:Conservative Megademo|video-file:oldskool-demo/1442_Oldskool_Conservative_Megademo_by_PWP.mov|youtube:OXoPpOXVrfc
+author:Spaceballs|platform:Amiga 500 (OCS, 512kb chip, 512kb fakefast)|pms-id:asm12/oldskool/546|position:2|pouet:59599|techniques:Skryting, juging, juksing og annen generell oldshoolness...|title:Vold|video-file:oldskool-demo/1443_Oldskool_Vold_by_Spaceballs.mov|youtube:dlBML4DDcQQ
 
 
 :section Short film
@@ -96,14 +96,14 @@ author:Spaceballs|platform:Amiga 500 (OCS, 512kb chip, 512kb fakefast)|pms-id:as
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
-author:BeastrickAnimations|platform:PC|pms-id:asm12/short_film/451|position:8|techniques:Cinema 4D, After Effects|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
-author:Pistoke|pms-id:asm12/short_film/456|position:2|techniques:Blender3D, After Effects|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
-author:Team Mars Effect|platform:PC|pms-id:asm12/short_film/476|position:3|techniques:Blender|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov|youtube:45cj9yu8AqE
-author:Datafox Studios|platform:PC, Adobe After Effects, FL Studio, GIMP|pms-id:asm12/short_film/630|position:5|techniques:Forced ideas|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov|youtube:t7pYKMWw8NI
-author:Damn Creepers|platform:Toys & Crayons|pms-id:asm12/short_film/637|position:1|techniques:Wild animation|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov|youtube:nn5i2KAXU_8
-author:sba|platform:tasanne|pms-id:asm12/short_film/645|position:6|techniques:kasio|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov|youtube:ZZ813tBFLfg
-author:SkyWay/Cylenth Vision|platform:PC|pms-id:asm12/short_film/647|position:7|techniques:Blender, After Effects, Renderfarm.fi|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov|youtube:mPmln33FmpM
-author:HBC|pms-id:asm12/short_film/655|position:4|techniques:Blender, After Effects|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov|youtube:r7DbPxWkpXw
+author:BeastrickAnimations|platform:PC|pms-id:asm12/short_film/451|position:8|pouet:59668|techniques:Cinema 4D, After Effects|title:Asteroid Chase|video-file:short-film/1486_Shortfilm_Asteroid_Chase_by_BeastrickAnimations.mov|youtube:Yv3_ZMnvjNk
+author:Pistoke|pms-id:asm12/short_film/456|position:2|pouet:59658|techniques:Blender3D, After Effects|title:The Animout|video-file:short-film/1487_Shortfilm_The_Animout_by_Pistoke.mov|youtube:4jxMwmnWprU
+author:Team Mars Effect|platform:PC|pms-id:asm12/short_film/476|position:3|pouet:59660|techniques:Blender|title:Mars Effect|video-file:short-film/1488_Shortfilm_Mars_Effect_by_Team_Mars_Effect.mov|youtube:45cj9yu8AqE
+author:Datafox Studios|platform:PC, Adobe After Effects, FL Studio, GIMP|pms-id:asm12/short_film/630|position:5|pouet:59662|techniques:Forced ideas|title:Project Scene|video-file:short-film/1489_Shortfilm_Project_Scene_by_Datafox_Studios.mov|youtube:t7pYKMWw8NI
+author:Damn Creepers|platform:Toys & Crayons|pms-id:asm12/short_film/637|position:1|pouet:59661|techniques:Wild animation|title:I accidentally two Holy Grails - part II|video-file:short-film/1490_Shortfilm_I_accidentally_two_Holy_Grails__part_II_by_Damn_Creepers.mov|youtube:nn5i2KAXU_8
+author:sba|platform:tasanne|pms-id:asm12/short_film/645|position:6|pouet:59666|techniques:kasio|title:Hidas ja kiva paska|video-file:short-film/1491_Shortfilm_Hidas_ja_kiva_paska_by_sba.mov|youtube:ZZ813tBFLfg
+author:SkyWay/Cylenth Vision|platform:PC|pms-id:asm12/short_film/647|position:7|pouet:59667|techniques:Blender, After Effects, Renderfarm.fi|title:D-Bot|video-file:short-film/1492_Shortfilm_DBot_by_SkyWayCylenth_Vision.mov|youtube:mPmln33FmpM
+author:HBC|pms-id:asm12/short_film/655|position:4|pouet:59620|techniques:Blender, After Effects|title:HBC-00011: Blot|video-file:short-film/1493_Shortfilm_HBC00011_Blot_by_HBC.mov|youtube:r7DbPxWkpXw
 
 
 :section Gamedev
@@ -112,22 +112,22 @@ author:HBC|pms-id:asm12/short_film/655|position:4|techniques:Blender, After Effe
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :sceneorg gamedev
 
-author:Down Under|platform:PC|pms-id:asm12/gamedev/366|position:11|techniques:Unity|title:Bodgy Bee|youtube:sTCuxwzYePg
-author:Mikko Pulkki|platform:Windows|pms-id:asm12/gamedev/368|position:3|techniques:C#, .NET 3.5, XNA|title:Corneroids|youtube:Pxk-hvuV0bQ
-author:Delicious Construct|platform:PC|pms-id:asm12/gamedev/369|position:10|techniques:C# + XNA, Photoshop + 3DS Max, skill|title:Golem Rumble!|youtube:r4wgiie-Lqo
-author:Kajak Games|platform:PC|pms-id:asm12/gamedev/373|position:14|techniques:C#,Xna,Flash,Photoshop,MSWord,MSVisio,Audacity,Blender,MSExcel|title:Soul Devour|youtube:gaFd2KTqVQw
-author:Centria ammattikorkeakoulu|platform:Windows|pms-id:asm12/gamedev/375|position:13|techniques:Unity,3DsMax,Blender,Photoshop,FL studio,Adobe audition|title:Steamdroid|youtube:b_ugB9-KlRY
-author:Nice To Have Feature|platform:PC|pms-id:asm12/gamedev/378|position:12|techniques:XNA|title:Buccaneer Bombardment|youtube:-fnl2leEjQ4
-author:Bluefox Games|platform:Windows|pms-id:asm12/gamedev/379|position:5|techniques:C++, SFML, Lots of Metaballs|title:Pyxenos|youtube:6uS77VJ17OE
-author:Grit Studio|platform:PC & iPhone|pms-id:asm12/gamedev/381|position:7|techniques:Unity & Slapstick humour|title:Pogostick Panda|youtube:Pw9s8LtJl54
-author:KimmoS|platform:Java|pms-id:asm12/gamedev/382|position:16|techniques:Java Lighweight Game Library, Slick2D|title:Goldwingu|youtube:Lfemo1GTPBA
-author:McBurrobit|platform:PC|pms-id:asm12/gamedev/384|position:9|techniques:Flixe, XNA|title:MÄYRÄ|youtube:BLUPk8eholQ
-author:tAAt 2012|platform:Windows|pms-id:asm12/gamedev/385|position:6|title:K2|youtube:DwbLThYk6LM
-author:Odios|platform:Windows Phone 7.5|pms-id:asm12/gamedev/386|position:4|techniques:XNA, Adobe photoshop, Adobe Flash, Visual Studio|title:Flou|youtube:5LwLXUpH0Gc
-author:Kepuli Games|platform:Windows|pms-id:asm12/gamedev/389|position:2|techniques:fteqcc, blender, gimp, worldcraft|title:Force: Leashed|youtube:X_h2LU0omsU
-author:Pizzalaatikko|platform:Windows, Linux 64-bit|pms-id:asm12/gamedev/390|position:8|techniques:OpenGL, C++|title:SEKO|youtube:qiwfXJYlrAg
-author:Matti Ruupunen|platform:Windows|pms-id:asm12/gamedev/391|position:15|techniques:XNA|title:Gravite|youtube:gQb0In4Dy_s
-author:Bombsquad|platform:PC|pms-id:asm12/gamedev/394|position:1|title:Lavalanche|youtube:LjzLHjVknKA
+author:Down Under|platform:PC|pms-id:asm12/gamedev/366|position:11|pouet:59638|techniques:Unity|title:Bodgy Bee|youtube:sTCuxwzYePg
+author:Mikko Pulkki|platform:Windows|pms-id:asm12/gamedev/368|position:3|pouet:59640|techniques:C#, .NET 3.5, XNA|title:Corneroids|youtube:Pxk-hvuV0bQ
+author:Delicious Construct|platform:PC|pms-id:asm12/gamedev/369|position:10|pouet:59643|techniques:C# + XNA, Photoshop + 3DS Max, skill|title:Golem Rumble!|youtube:r4wgiie-Lqo
+author:Kajak Games|platform:PC|pms-id:asm12/gamedev/373|position:14|pouet:59648|techniques:C#,Xna,Flash,Photoshop,MSWord,MSVisio,Audacity,Blender,MSExcel|title:Soul Devour|youtube:gaFd2KTqVQw
+author:Centria ammattikorkeakoulu|platform:Windows|pms-id:asm12/gamedev/375|position:13|pouet:59649|techniques:Unity,3DsMax,Blender,Photoshop,FL studio,Adobe audition|title:Steamdroid|youtube:b_ugB9-KlRY
+author:Nice To Have Feature|platform:PC|pms-id:asm12/gamedev/378|position:12|pouet:59639|techniques:XNA|title:Buccaneer Bombardment|youtube:-fnl2leEjQ4
+author:Bluefox Games|platform:Windows|pms-id:asm12/gamedev/379|position:5|pouet:59647|techniques:C++, SFML, Lots of Metaballs|title:Pyxenos|youtube:6uS77VJ17OE
+author:Grit Studio|platform:PC & iPhone|pms-id:asm12/gamedev/381|position:7|pouet:59646|techniques:Unity & Slapstick humour|title:Pogostick Panda|youtube:Pw9s8LtJl54
+author:KimmoS|platform:Java|pms-id:asm12/gamedev/382|position:16|pouet:59642|techniques:Java Lighweight Game Library, Slick2D|title:Goldwingu|youtube:Lfemo1GTPBA
+author:McBurrobit|platform:PC|pms-id:asm12/gamedev/384|position:9|pouet:59645|techniques:Flixe, XNA|title:MÄYRÄ|youtube:BLUPk8eholQ
+author:tAAt 2012|platform:Windows|pms-id:asm12/gamedev/385|position:6|pouet:59569|title:K2|youtube:DwbLThYk6LM
+author:Odios|platform:Windows Phone 7.5|pms-id:asm12/gamedev/386|position:4|pouet:59622|techniques:XNA, Adobe photoshop, Adobe Flash, Visual Studio|title:Flou|youtube:5LwLXUpH0Gc
+author:Kepuli Games|platform:Windows|pms-id:asm12/gamedev/389|position:2|pouet:59641|techniques:fteqcc, blender, gimp, worldcraft|title:Force: Leashed|youtube:X_h2LU0omsU
+author:Pizzalaatikko|platform:Windows, Linux 64-bit|pms-id:asm12/gamedev/390|position:8|pouet:59597|techniques:OpenGL, C++|title:SEKO|youtube:qiwfXJYlrAg
+author:Matti Ruupunen|platform:Windows|pms-id:asm12/gamedev/391|position:15|pouet:59644|techniques:XNA|title:Gravite|youtube:gQb0In4Dy_s
+author:Bombsquad|platform:PC|pms-id:asm12/gamedev/394|position:1|pouet:59596|title:Lavalanche|youtube:LjzLHjVknKA
 
 
 :section Graphics
@@ -343,8 +343,8 @@ author:AssemblyTV|media:/vod/2012/winter/Timelapse.mp4|title:Time Lapse|youtube:
 :section Misc
 :youtube-playlist D36AAECB1BCC9598
 
-author:Ate Bit|description:Assembly Summer 2012 PC invitation intro.|download:http://media.assembly.org/summer12/atebit_asm2012invitro.zip|pouet:59454|title:PC invtro|youtube:hNvfRJORjck
-author:Dekadence and Extend|description:Commodore 64 invitation intro.|download:http://media.assembly.org/summer12/asm12inv-c64.zip|title:Commodore 64 invtro|youtube:7Hwsbn49dcQ
+author:Ate Bit|description:Assembly Summer 2012 PC invitation intro.|download:http://media.assembly.org/summer12/atebit_asm2012invitro.zip|pouet:|title:PC invtro|youtube:hNvfRJORjck
+author:Dekadence and Extend|description:Commodore 64 invitation intro.|download:http://media.assembly.org/summer12/asm12inv-c64.zip|pouet:|title:Commodore 64 invtro|youtube:7Hwsbn49dcQ
 author:ASSEMBLY Labs|description:Mitä tapahtuu Mignon munalle kun se keitetään? Räjähtääkö se? Valuuko suklaa pois kokonaan munasta? Onko tilanne vaarallinen? ASSEMBLY labs testasi asian koekeittiössään.|title:ASSEMBLY Labs: Mignon munan keittotesti|youtube:7t5KQLbQ0bw
 author:FIGMA ry|description:FIGMA ry julkisti kolme vuotta sitten suomalaisen pelialan kunniamaininnan, Peliluolan. Peliluolaan kutsuttiin tänä vuonna Assembly-demotapahtuman isät Pekka Aakko ja Jussi Laakkonen. He ovat väsymättömällä työllään koonneet vuosittain pelaajat ja pelintekijät huikeaan tapahtumaan jo peräti 20 vuoden ajan.</p><p>Aikaisempina vuosina Peliluolaan kutsutut ovat Vesa Artman, Petri Lehmuskoski, Tuija Lindén, Sauli Numminen, Thomas Puha ja Ilari Kuittinen.|tags:Mignon ASSEMBLY-Labs|title:FIGMA Finnish Game Awards - peliluola "Hall of Fame" 2012|youtube:HCbDV7VnxCE
 
