@@ -281,6 +281,7 @@ author:Eemu Bertling|guid:1374|media:/vod/2012/Seminars/1374_Robosota_seminar.mp
 
 
 :section AssemblyTV
+:youtube-playlist 37A29D6973387D21
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:History of Assembly. (in Finnish)|guid:1343|media:/vod/2012/AssemblyTV/1343_asm20v_fixed2.mp4|title:Assembly 20 years|youtube:WyGwv2F3-Fo
