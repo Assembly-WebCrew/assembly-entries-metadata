@@ -1,24 +1,17 @@
 import argparse
 import asmmetadata
-import os
 import re
 import shutil
 import tempfile
-import urllib2
+import util
 import xml.dom.minidom
 
 parser = argparse.ArgumentParser()
 parser.add_argument("asmdatafile", type=argparse.FileType("r+b"))
-parser.add_argument("elainexml")
+parser.add_argument("elainexml", type=util.argparseTypeUrlOpenable)
 args = parser.parse_args()
 
-elaineFilePath = args.elainexml
-if os.path.exists(elaineFilePath):
-    elaineFilePath = "file://%s" % elaineFilePath
-
-elainexml = urllib2.urlopen(elaineFilePath)
-
-doc = xml.dom.minidom.parse(elainexml)
+doc = xml.dom.minidom.parse(args.elainexml)
 metadata_filename = args.asmdatafile.name
 event_data = asmmetadata.parse_file(args.asmdatafile)
 args.asmdatafile.close()
