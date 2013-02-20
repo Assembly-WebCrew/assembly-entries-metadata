@@ -184,22 +184,22 @@ def print_entry(year, entry):
         description += u"Author: %s\n" % cgi.escape(display_author)
 
     # Youtube is our primary location
-    if 'youtube' in entry:
+    youtube = entry.get('youtube')
+    if youtube:
         has_media = True
-        youtube = entry['youtube']
         locations += "<location type='youtube'>%s</location>" % youtube
 
     # Youtube is primary location
-    if 'dtv' in entry:
+    demoscenetv = entry.get('dtv')
+    if demoscenetv:
         has_media = True
-        demoscenetv = entry['dtv']
         locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
     # XXX prevent the creation of humongous files.
     if 'galleriafi' in entry:
         return
 
-    if ('image-file' in entry or 'galleriafi' in entry) and 'webfile' not in entry:
+    if (entry.get('image-file') or entry.get('galleriafi')) and entry.get('webfile'):
         image_file = entry.get('image-file')
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
@@ -215,8 +215,8 @@ def print_entry(year, entry):
             extra_assets += display_asset(
                 "%d/%s/%s/%s" % (year, normalized_section, normalized_name, image_filename), name, viewfile)
 
-    if 'webfile' in entry:
-        webfile = entry['webfile']
+    webfile = entry.get('webfile')
+    if webfile:
         if webfile.endswith(".png") or webfile.endswith(".jpeg") or webfile.endswith(".gif"):
             has_media = True
             baseprefix, _ = webfile.split(".")
@@ -232,19 +232,19 @@ def print_entry(year, entry):
         elif webfile.endswith(".mp3"):
             locations += "<location type='download'>http://media.assembly.org/compo-media/assembly%d/%s|MP3</location>" % (year, webfile)
 
-    if 'pouet' in entry:
-        pouet = entry['pouet']
+    pouet = entry.get('pouet')
+    if pouet:
         locations += "<location type='pouet'>%s</location>" % (pouet)
 
-    if 'download' in entry:
-        download = entry['download']
+    download = entry.get('download')
+    if download:
         download_type = "Original"
         if "game" in section_name.lower():
             download_type = "Playable game"
         locations += "<location type='download'>%s|%s</location>" % (escape(download), download_type)
 
-    if 'sceneorg' in entry:
-        sceneorg = entry['sceneorg']
+    sceneorg = entry.get('sceneorg')
+    if sceneorg:
         download_type = "Original"
         if "game" in section_name.lower():
             download_type = "Playable game"
@@ -258,16 +258,16 @@ def print_entry(year, entry):
         else:
             locations += "<location type='sceneorg'>%s|%s</location>" % (escape(sceneorg), download_type)
 
-    if 'sceneorgvideo' in entry:
-        sceneorgvideo = entry['sceneorgvideo']
+    sceneorgvideo = entry.get('sceneorgvideo')
+    mediavideo = entry.get('media')
+    if sceneorgvideo:
         locations += "<location type='sceneorg'>%s|HQ video</location>" % (escape(sceneorgvideo))
-    elif 'media' in entry:
-        mediavideo = entry['media']
+    elif mediavideo:
         locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
 
-    if "galleriafi" in entry:
-        locations += "<location type='download'>http://assembly.galleria.fi%s|Original image</location>" % (entry["galleriafi"])
-
+    galleriafi = entry.get("galleriafi")
+    if galleriafi:
+        locations += "<location type='download'>http://assembly.galleria.fi%s|Original image</location>" % (galleriafi)
 
     if not has_media:
         return
@@ -290,8 +290,9 @@ def print_entry(year, entry):
     description_non_unicode = description
 
     tags = set()
-    if 'tags' in entry:
-        tags.update(entry['tags'].split(" "))
+    entry_tags = entry.get('tags')
+    if entry_tags:
+        tags.update(entry_tags.split(" "))
 
     if entry.get('use-parent-thumbnail', False) is False:
         thumbnail_asset = """

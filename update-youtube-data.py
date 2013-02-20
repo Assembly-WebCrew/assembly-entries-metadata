@@ -9,9 +9,15 @@ parser = optparse.OptionParser()
 
 (options, args) = parser.parse_args()
 if len(args) != 5:
-    parser.error("Usage: datafile developer-key youtube-username email password")
+    parser.error(
+        "Usage: datafile developer-key youtube-username email password")
 
-datafile, youtube_developer_key, youtube_username, email, password = sys.argv[1:]
+(datafile,
+ youtube_developer_key,
+ youtube_username,
+ email,
+ password) = sys.argv[1:]
+
 
 def try_youtube_operation(label, function, retries=3, sleep=4):
     success = False
@@ -30,16 +36,19 @@ def try_youtube_operation(label, function, retries=3, sleep=4):
     time.sleep(600)
     return None
 
+
 def update_youtube_info(yt_service, username, entry_data):
     for entry in entry_data.entries:
         if not 'youtube' in entry:
             continue
         update_youtube_info_entry(yt_service, username, entry)
 
+
 def update_youtube_info_entry(yt_service, username, entry):
     youtube_info = asmmetadata.get_youtube_info_data(entry)
 
-    uri = 'https://gdata.youtube.com/feeds/api/users/%s/uploads/%s' % (username, entry['youtube'])
+    uri = 'https://gdata.youtube.com/feeds/api/users/%s/uploads/%s' \
+        % (username, entry['youtube'])
 
     youtube_entry = try_youtube_operation(
         "get info for %s" % youtube_info['title'],
