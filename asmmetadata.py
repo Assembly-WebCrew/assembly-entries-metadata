@@ -5,7 +5,9 @@ import hashlib
 import re
 import urllib
 
+
 YOUTUBE_MAX_TITLE_LENGTH = 100
+
 
 def get_party_name(year, section_name):
     if year < 2007:
@@ -14,6 +16,7 @@ def get_party_name(year, section_name):
         return u"Assembly Winter %d" % year
     else:
         return u"Assembly Summer %d" % year
+
 
 def get_party_tags(year, section_name):
     tags = []
@@ -27,6 +30,7 @@ def get_party_tags(year, section_name):
         tags.append("asm2k")
     return tags
 
+
 def get_entry_name(entry):
     section_name = entry['section']['name']
     title = entry['title']
@@ -36,6 +40,7 @@ def get_entry_name(entry):
     else:
         name = "%s by %s" % (title, author)
     return name
+
 
 def get_content_types(section_name):
     normalized_section_name = normalize_key(section_name)
@@ -154,6 +159,7 @@ def get_long_section_name(section_name):
     else:
         return u"%s competition" % section_name
 
+
 def normalize_key(value):
     normalized = value.strip().lower()
     normalized = normalized.replace(u"ä", u"a")
@@ -163,6 +169,7 @@ def normalize_key(value):
     normalized = re.sub("-{2,}", "-", normalized)
     normalized = normalized.strip("-")
     return normalized
+
 
 class EntryYear(object):
     year = None
@@ -194,6 +201,14 @@ class EntryYear(object):
         section['entries'].append(entryData)
         self.entries.append(entryData)
 
+    def findEntry(self, field, value):
+        assert value is not None
+        for entry in self.entries:
+            if entry.get(field) == value:
+                return entry
+        return None
+
+
 def parse_entry_line(line):
     try:
         data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
@@ -213,6 +228,7 @@ def parse_entry_line(line):
             data_dict['guid'] = guid
 
     return data_dict
+
 
 def parse_file(file_handle):
     result = EntryYear()
@@ -318,10 +334,12 @@ def print_metadata(outfile, year_entry_data):
 
         outfile.write("\n")
 
+
 def sort_entries(entries):
     return sorted(
         entries,
         lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+
 
 def select_thumbnail_base(entry):
     if 'youtube' in entry:
@@ -337,6 +355,7 @@ def select_thumbnail_base(entry):
         if filename.endswith(".png") or filename.endswith(".jpeg") or filename.endswith(".gif"):
             return 'thumbnails/small/%s' % baseprefix
     return None
+
 
 def create_merged_image_base(start, entries):
     merged_name = "|".join(
