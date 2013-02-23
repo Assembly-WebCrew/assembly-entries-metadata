@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import argparse
 import asmmetadata
 import os
 import os.path
@@ -6,6 +7,7 @@ import subprocess
 import sys
 import tempfile
 import urllib2
+
 
 def create_thumbnail(source, width, height, target_jpeg, target_png):
     temporary_resized_fp = tempfile.NamedTemporaryFile(prefix=".youtube-thumbnail-", suffix=".png")
@@ -21,6 +23,7 @@ def create_thumbnail(source, width, height, target_jpeg, target_png):
         subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_png])
         subprocess.call(['optipng', '-o7', target_png])
 
+
 def link_to_missing_thumbnail(target_jpeg, target_png):
     directory = os.path.dirname(target_png)
     parent_directory = os.path.dirname(directory)
@@ -35,16 +38,18 @@ def link_to_missing_thumbnail(target_jpeg, target_png):
     os.symlink("../thumbnail-missing.jpeg", target_jpeg)
     os.symlink("../thumbnail-missing.png", target_png)
 
-if len(sys.argv) != 4:
-    print "Usage: %s thumbnail_dir width height" % sys.argv[0]
-    sys.exit(1)
+parser = argparse.ArgumentParser()
+parser.add_argument("thumbnail_dir")
+parser.add_argument("width", type=int)
+parser.add_argument("height", type=int)
+args = parser.parse_args()
 
-thumbnail_dir = sys.argv[1]
+thumbnail_dir = args.thumbnail_dir
 if not os.path.isdir(thumbnail_dir):
     print "Target directory %s does not exist!" % thumbnail_dir
     sys.exit(1)
-width = int(sys.argv[2])
-height = int(sys.argv[3])
+width = args.width
+height = args.height
 target_size = "%dx%d" % (width, height)
 
 entry_data = asmmetadata.parse_file(sys.stdin)
@@ -77,7 +82,8 @@ for entry in entry_data.entries:
 
     thumbnail_data = thumbnail_data_request.read()
 
-    temporary_image_fp = tempfile.NamedTemporaryFile(prefix=".youtube-thumbnail-", suffix=".jpeg", mode="wb")
+    temporary_image_fp = tempfile.NamedTemporaryFile(
+        prefix=".youtube-thumbnail-", suffix=".jpeg", mode="wb")
     temporary_image_fp.write(thumbnail_data)
     temporary_image_fp.flush()
 

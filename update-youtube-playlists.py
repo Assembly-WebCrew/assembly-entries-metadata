@@ -1,3 +1,4 @@
+import argparse
 import asmmetadata
 import gdata.youtube
 import gdata.youtube.service
@@ -5,8 +6,6 @@ import re
 import sys
 import time
 import urlparse
-
-datafile, youtube_developer_key, youtube_user, email, password = sys.argv[1:]
 
 def has_youtube_entries(section):
     for entry in section['entries']:
@@ -86,26 +85,40 @@ def update_youtube_playlists(yt_service, entry_data):
             time.sleep(1)
         time.sleep(2)
 
-yt_service = gdata.youtube.service.YouTubeService()
 
-# The YouTube API does not currently support HTTPS/SSL access.
-yt_service.ssl = False
+def main(args=sys.argv):
+    parser = argparse.ArgumentParser()
+    parser.add_argument("datafile")
+    parser.add_argument("youtube_developer_key")
+    parser.add_argument("youtube_user")
+    parser.add_argument("email")
+    parser.add_argument("password")
+    args = parser.parse_args()
 
-yt_service.developer_key = youtube_developer_key
-yt_service.client_id = 'ASM-playlist-updater'
-yt_service.email = email
-yt_service.password = password
-yt_service.source = 'ASM-playlist-updater'
-yt_service.ProgrammaticLogin()
+    yt_service = gdata.youtube.service.YouTubeService()
 
-entry_data = asmmetadata.parse_file(open(datafile, "rb"))
+    # The YouTube API does not currently support HTTPS/SSL access.
+    yt_service.ssl = False
 
-try:
-    update_youtube_playlists(yt_service, entry_data)
-except KeyboardInterrupt, e:
-    print "Interrupted"
-except:
-   print "EXCEPTION Unknown exception happened"
+    yt_service.developer_key = args.youtube_developer_key
+    yt_service.client_id = 'ASM-playlist-updater'
+    yt_service.email = args.email
+    yt_service.password = args.password
+    yt_service.source = 'ASM-playlist-updater'
+    yt_service.ProgrammaticLogin()
 
-fp = open(datafile, "wb")
-asmmetadata.print_metadata(fp, entry_data)
+    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+
+    try:
+        update_youtube_playlists(yt_service, entry_data)
+    except KeyboardInterrupt:
+        print "Interrupted"
+    except:
+        print "EXCEPTION Unknown exception happened"
+
+    fp = open(args.datafile, "wb")
+    asmmetadata.print_metadata(fp, entry_data)
+
+
+if __name__ == "__main__":
+    main()
