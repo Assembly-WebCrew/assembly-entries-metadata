@@ -1,3 +1,3 @@
 all:
 	mkdir -p build/
-	${CXX} `pkg-config --cflags --libs opencv` facedetect.cpp -o build/facedetect
+	${CXX} `pkg-config --cflags --libs opencv` lib/facedetect.cpp -o build/facedetect
