@@ -12,4 +12,5 @@ author:AssemblyTV|description:Kuinka internet saapuu tapahtumaan.|title:Bitin ti
 author:AssemblyTV|description:Tunnelmia lauantailta.|title:Lauantain tunnelmia|youtube:4hVELhIP9GQ
 author:AssemblyTV|description:Kävijöiden haastatteluja lauantailta ja perjantailta.|title:Kävijähaastatteluja|youtube:1HyhGdNtLpg
 author:AssemblyTV|description:Henri ja Susanna kohtasivat barbaarien kolmiottelussa Ruoholahdessa 23. helmikuuta 2013. Selostajina Ulfgar Rautanyrkki ja Conan Virtanen.|title:Barbaari-cup|youtube:P4DNmlDRNBA
-author:AssemblyTV|title:Assembly Harlem Shake|description:ASM does Harlem Shake at Winter Assembly 2013.|youtube:WRIPFiHYxGA
+author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|title:Assembly Harlem Shake|youtube:WRIPFiHYxGA
+
