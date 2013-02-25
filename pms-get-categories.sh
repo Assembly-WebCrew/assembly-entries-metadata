@@ -1,5 +1,5 @@
 #!/bin/sh
 
-. ./variables.inc
+source ./variables.inc
 
-python "$SCRIPTDIR"/get-categories.py "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD"
+$PYTHON "$SCRIPTDIR"/get-categories.py "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD"

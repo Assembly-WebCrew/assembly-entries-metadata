@@ -7,6 +7,6 @@ if test -z "$COMPO_CATEGORY"; then
     exit 1
 fi
 
-. ./variables.inc
+source ./variables.inc
 
-python "$SCRIPTDIR"/pms-update-preview-links.py "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY"
+$PYTHON "$SCRIPTDIR"/pms-update-preview-links.py "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY"

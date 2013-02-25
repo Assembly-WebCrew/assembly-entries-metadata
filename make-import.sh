@@ -2,4 +2,4 @@
 
 source ./variables.inc
 
-python "$SCRIPTDIR"/create-import-data.py --no-empty "$FILES_ROOT" < "$DATAFILE" > "$OUTFILE"
+$PYTHON "$SCRIPTDIR"/create-import-data.py --no-empty "$FILES_ROOT" < "$DATAFILE" > "$OUTFILE"

@@ -1,5 +1,6 @@
 build/
 variables.inc
+buildout.cfg
 
 syntax: glob
 *.pyc

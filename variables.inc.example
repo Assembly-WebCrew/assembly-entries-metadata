@@ -19,3 +19,5 @@ PMS_PASSWORD=
 WEB_UPLOAD_PAGE=http://localhost:8081/archive/@@import
 WEB_UPLOAD_ACCOUNT=admin
 WEB_UPLOAD_PASSWORD=admin
+
+PYTHON=bin/python
