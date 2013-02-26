@@ -324,6 +324,7 @@ author:Teemu Haila|title:XNA for Aspiring Game Developers
 
 
 :section Photos summer
+:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2008/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0274.jpg|title:0274.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0276.jpg|title:0276.jpg
@@ -947,6 +948,7 @@ author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008
 
 
 :section Photos winter
+:galleriafi http://assembly.galleria.fi/kuvat/Assembly+winter+2008/
 
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/210.jpg|title:210.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/225.jpg|title:225.jpg
