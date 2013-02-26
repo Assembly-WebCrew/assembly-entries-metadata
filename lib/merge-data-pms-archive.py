@@ -10,7 +10,8 @@ parser.add_argument("pms_party")
 parser.add_argument('pms_login')
 parser.add_argument('pms_password')
 parser.add_argument('pms_compo')
-parser.add_argument('--show-author', dest="show_author", default="default")
+parser.add_argument(
+    '--show-author', dest="show_author", default=False, action="store_true")
 args = parser.parse_args()
 
 metadata_file_name = args.metadata_filename
@@ -25,7 +26,8 @@ pms_url = compodata.pms_path_generator(args.pms_root, args.pms_party)
 
 pms_data = compodata.download_compo_data(
     pms_url, pms_login, pms_password, pms_compo)
-parsed_data = compodata.parse_compo_entries(pms_data, show_hidden_author=True)
+parsed_data = compodata.parse_compo_entries(
+    pms_data, force_display_author_name=args.show_author)
 
 selected_section = None
 for section in metadata.sections:
@@ -51,6 +53,8 @@ for entry in parsed_data:
     if addable_data['author'] is None:
         del addable_data['author']
     section_entries.append(addable_data)
+
+    # XXX why is this commented out?
     # comments = entry.get('comments', None) or None
     # if comments is not None:
     #     addable_data['techniques'] = comments

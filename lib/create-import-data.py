@@ -22,6 +22,7 @@ FILEROOT = args.files_root
 
 create_empty_sections = not args.noempty
 
+
 def display_asset(path, title, data):
     return """
   <asset path="%(path)s">
@@ -36,6 +37,7 @@ def display_asset(path, title, data):
        'title': quoteattr(title),
        'data': base64.encodestring(data),
        }
+
 
 def select_smaller_thumbnail(fileprefix):
     thumbnail_jpeg = open(fileprefix + ".jpeg", "r").read()
@@ -59,6 +61,7 @@ print """<?xml version="1.0" encoding="utf-8"?>
     </edition>
   </mediagallery>
 """ % {'year': entry_data.year}
+
 
 def print_section(year, section):
     normalized_section = section['key']
@@ -101,6 +104,7 @@ def print_section(year, section):
 
     print section_unicode.encode("utf-8")
 
+
 def get_ordinal_suffix(number):
     suffixes = {1: 'st',
                2: 'nd',
@@ -109,6 +113,7 @@ def get_ordinal_suffix(number):
     if number in [11, 12, 13]:
         suffix = 'th'
     return suffix
+
 
 def get_thumbnail_data(entry):
     thumbnail_base = asmmetadata.select_thumbnail_base(entry)
@@ -125,6 +130,7 @@ def get_thumbnail_data(entry):
         sys.exit(1)
 
     return thumbnail
+
 
 def print_entry(year, entry):
     title = entry['title']
