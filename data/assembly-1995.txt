@@ -197,7 +197,7 @@ author:Destop/CNCD|position:15|sceneorg:/parties/1995/assembly95/grfx/asm95gfx.z
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In PC 64k intro competition these programs are limited in size to 64 kilobytes on 1995 PCs. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
 author:Wild Light|position:1|pouet:2184|sceneorg:/parties/1995/assembly95/in64/drift.zip|title:Drift|youtube:4lB55Q92vB8
-author:COMA|position:2|pouet:1139|sceneorg:/parties/1995/assembly95/in64/stick.zip|title:Stickman's World
+author:COMA|position:2|pouet:1139|sceneorg:/parties/1995/assembly95/in64/stick.zip|title:Stickman's World|youtube:8qHhUkVt4Og
 author:Complex|position:3|pouet:68|sceneorg:/parties/1995/assembly95/in64/clx_bgfr.zip|title:Bill G Force|youtube:y6MkrAAYw28
 author:Jamm|position:4|pouet:1366|sceneorg:/parties/1995/assembly95/in64/nation0.zip|title:Nation Zero|youtube:qw_cmwpNT54
 author:Halcyon|position:5|pouet:1270|sceneorg:/parties/1995/assembly95/in64/detour.zip|title:Detour|youtube:fSTQ1KIESBQ
