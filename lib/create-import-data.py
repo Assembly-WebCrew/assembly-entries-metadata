@@ -202,8 +202,8 @@ def print_entry(year, entry):
         locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
     # XXX prevent the creation of humongous files.
-    if 'galleriafi' in entry:
-        return
+    # if 'galleriafi' in entry:
+    #     return
 
     if (entry.get('image-file') or entry.get('galleriafi')) and entry.get('webfile'):
         image_file = entry.get('image-file')

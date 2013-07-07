@@ -2,6 +2,7 @@ from __future__ import print_function
 import argparse
 import asmmetadata
 import json
+import os.path
 import urllib
 import urllib2
 import urlparse
@@ -12,6 +13,7 @@ opener = urllib2.build_opener(
         )
 
 parser = argparse.ArgumentParser()
+parser.add_argument("photos_root")
 parser.add_argument("base_url")
 parser.add_argument("--download", default=False, action="store_true")
 args = parser.parse_args()
@@ -31,7 +33,9 @@ data = opened.read()
 parsed_url = urlparse.urlparse(base_url)
 wanted_path = urllib.unquote_plus(parsed_url.path)
 
-print_metadata(":section Photos")
+photo_category = os.path.basename(args.photos_root)
+event_category = photo_category.replace("photo-", "")
+print_metadata(":section Photos %s" % event_category)
 
 paths = json.loads(data)
 photographer_paths = dict([
@@ -49,8 +53,6 @@ for folder_key, values in photographer_paths.items():
     if author == "":
         author = "unknown"
 
-    print_shell("mkdir -p photos/")
-
     known_titles = set()
     for image_path, image_data in sorted(files.items(), lambda x, y: cmp(x[0], y[0])):
         image_name = image_path.replace(folder_key, "")
@@ -64,9 +66,16 @@ for folder_key, values in photographer_paths.items():
         known_titles.add(title.lower())
         filename = asmmetadata.normalize_key(
             "%s by %s" % (title, author)) + ".jpeg"
-        print_shell("wget -nc --no-host '%s://%s%s?img=full' -O photos/%s" % (
-                parsed_url.scheme, parsed_url.netloc, image_path, filename))
-        print_metadata("author:%s|title:%s|galleriafi:%s" % (
+        print_shell(
+            "wget -nc --no-host '%s://%s%s?img=full' -O '%s'/%s" % (
+                parsed_url.scheme,
+                parsed_url.netloc,
+                image_path,
+                args.photos_root,
+                filename))
+        image_file = "%s/%s" % (photo_category, filename)
+        print_metadata("author:%s|title:%s|galleriafi:%s|image-file:%s" % (
                 author.encode("utf-8"),
                 title.encode("utf-8"),
-                image_path.encode("utf-8")))
+                image_path.encode("utf-8"),
+                image_file.encode("utf-8")))
