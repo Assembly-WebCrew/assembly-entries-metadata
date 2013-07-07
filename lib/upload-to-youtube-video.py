@@ -7,6 +7,11 @@ import sys
 import subprocess
 import time
 
+ABORT_FAILURES = 2
+UPLOAD_TRIALS = 3
+# 10 minutes is the definite minimum sleeping time in Youtube for retries.
+YOUTUBE_MINIMUM_SLEEP_TIME = 601
+
 parser = argparse.ArgumentParser(description='Upload videos to Youtube.')
 parser.add_argument('email')
 parser.add_argument('password')
@@ -14,6 +19,7 @@ parser.add_argument('files_root', metavar="files-root")
 parser.add_argument('--video-postfix', default=".mp4")
 parser.add_argument('--dry-run', action="store_true")
 parser.add_argument('--media-vod-directory')
+parser.add_argument('--unlisted', action="store_true")
 commandline_args = parser.parse_args(sys.argv[1:])
 
 email = commandline_args.email
@@ -21,12 +27,16 @@ password = commandline_args.password
 files_root = commandline_args.files_root
 video_postfix = commandline_args.video_postfix
 media_vod_directory = commandline_args.media_vod_directory
+unlisted_video = commandline_args.unlisted
+
 
 def call_and_capture_output_real(args):
     p = subprocess.Popen(args, stdout=subprocess.PIPE)
     output, errors = p.communicate()
     outlines = output.strip().split("\n")
     return outlines
+
+
 def call_and_capture_output_fake(args):
     return ["http://www.youtube.com/watch?v=asdf"]
 
@@ -50,9 +60,9 @@ zero_position = 1
 
 for line in sys.stdin:
     sys.stdout.flush()
-    # Fast-forward if there are over 2 consecutive failures.
+    # Fast-forward if there are many consecutive failures.
     # Youtube is probably blocking then and we need to wait 10 minutes.
-    if failures > 2:
+    if failures > ABORT_FAILURES:
         sys.stdout.write(line)
         continue
 
@@ -113,7 +123,8 @@ for line in sys.stdin:
             title,
             author)
         )
-    source_file = os.path.join(files_root, year, source_file_base + video_postfix)
+    source_file = os.path.join(
+        files_root, year, source_file_base + video_postfix)
 
     if not os.path.exists(source_file) and 'media' in entryinfo and not media_vod_directory is None:
         source_file = os.path.join(media_vod_directory, entryinfo['media'].lstrip("/"))
@@ -139,23 +150,31 @@ for line in sys.stdin:
 
     tags = ",".join(tag_list)
 
-    upload_trials = 0
-    args = ['youtube-upload', '--email', email, '--password', password, '--category', category, '--keywords', tags, '--title', youtube_title, '--description', description, video_file]
+    args = [
+        'youtube-upload',
+        '--email', email,
+        '--password', password,
+        '--category', category,
+        '--keywords', tags,
+        '--title', youtube_title,
+        '--description', description,
+        video_file]
     upload_success = False
     youtube_id = ''
+    upload_trials = 1
     # 3 trials to upload video with one extra retry chance.
-    while upload_success == False and upload_trials < 3:
-        if upload_trials == 2:
+    while not upload_success and upload_trials < UPLOAD_TRIALS:
+        if upload_trials == UPLOAD_TRIALS:
             sys.stderr.write("YOUTUBE is blocking, sleeping for 10 minutes!\n")
             sys.stderr.write("%s\n" % time.strftime("%H:%M:%S"))
-            # Youtube is probably blocking and we need to wait for 10 minutes.
-            sleep_function(601)
+            sleep_function(YOUTUBE_MINIMUM_SLEEP_TIME)
         upload_trials += 1
         outlines = call_and_capture_output(args)
         if 'youtube.com' in outlines[-1]:
             upload_success = True
             youtube_http_id = outlines[-1]
-            youtube_http_id = re.sub(r"https?://www\.youtube\.com/watch\?v=", "", youtube_http_id)
+            youtube_http_id = re.sub(
+                r"https?://www\.youtube\.com/watch\?v=", "", youtube_http_id)
             youtube_id = "|youtube:" + youtube_http_id
             failures = 0
         else:

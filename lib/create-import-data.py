@@ -16,6 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("files_root", metavar="files-root")
 parser.add_argument("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
+parser.add_argument("--pms-vote-template", default="asmxx/compos/%s/vote/")
 
 args = parser.parse_args()
 FILEROOT = args.files_root
@@ -63,19 +64,23 @@ print """<?xml version="1.0" encoding="utf-8"?>
 """ % {'year': entry_data.year}
 
 
-def print_section(year, section):
-    normalized_section = section['key']
-    sectionpath = "%s/%s" % (year, normalized_section)
-    additionalinfo = ''
+def generate_section_description(section_data, pms_path_template):
     description = ''
     if 'description' in section:
         description += section['description']
-        # XXX Check for next year.
         if section.get('ongoing', False) is True:
-            pms_path = "asm12/compos/%s/vote/" % section['pms-category']
+            pms_path = pms_path_template % section['pms-category']
             description += "<p>You can vote these entries at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:
         description += """<p><a href="http://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
+
+    return description
+
+
+def print_section(year, section, description=''):
+    normalized_section = section['key']
+    sectionpath = "%s/%s" % (year, normalized_section)
+    additionalinfo = ''
 
     if description != '':
         additionalinfo = """
@@ -132,7 +137,23 @@ def get_thumbnail_data(entry):
     return thumbnail
 
 
-def print_entry(year, entry):
+def entry_position_description_factory(pms_vote_template):
+    def generator(entry, position_str):
+        description = ""
+        if entry['section'].get('ongoing', False) is False:
+            if position_str is not None:
+                description += u"%s" % position_str
+            else:
+                description += u"Not qualified to be shown on the big screen"
+            description += u".</p>\n<p>\n"
+        else:
+            pms_path = pms_vote_template % entry['section']['pms-category']
+            description += "<p>You can vote this entry at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
+        return description
+    return generator
+
+
+def print_entry(year, entry, description_generator):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
@@ -166,16 +187,7 @@ def print_entry(year, entry):
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name:
-            if entry['section'].get('ongoing', False) is False:
-                if position_str is not None:
-                    description += u"%s" % position_str
-                else:
-                    description += u"Not qualified to be shown on the big screen"
-                description += u".</p>\n<p>\n"
-            # XXX Check for next year.
-            else:
-                pms_path = "asm12/compos/%s/vote/" % entry['section']['pms-category']
-                description += "<p>You can vote this entry at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
+            description += description_generator(entry, position_str)
 
     if 'description' in entry:
         description += u"%s</p>\n<p>" % cgi.escape(entry['description'])
@@ -376,7 +388,9 @@ for section in entry_data.sections:
         continue
     if len(section['entries']) == 0 and not create_empty_sections:
         continue
-    print_section(entry_data.year, section)
+    section_description = generate_section_description(
+        section, args.pms_vote_template)
+    print_section(entry_data.year, section, section_description)
 
     sorted_entries = asmmetadata.sort_entries(section['entries'])
 
@@ -385,7 +399,9 @@ for section in entry_data.sections:
         for entry in sorted_entries:
             entry['use-parent-thumbnail'] = True
 
+    entry_position_descriptor = entry_position_description_factory(
+        args.pms_vote_template)
     for entry in sorted_entries:
-        print_entry(entry_data.year, entry)
+        print_entry(entry_data.year, entry, entry_position_descriptor)
 
 print """</import>"""

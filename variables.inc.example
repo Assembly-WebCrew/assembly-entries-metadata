@@ -5,6 +5,7 @@ DATAFILE="$ENTRY_ROOT"/data/assembly-"$YEAR".txt
 OUTFILE=/tmp/assembly-"$YEAR".xml
 
 FILES_ROOT="$HOME"/scratch/assembly-"$YEAR"
+MEDIA_VOD_DIRECTORY=/media/media.assembly.org
 
 YOUTUBE_DEVELOPER_KEY=
 YOUTUBE_USER=

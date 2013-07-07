@@ -280,6 +280,8 @@ def parse_file(file_handle):
                     section['public'] = False
             elif data_type == ":sceneorg":
                 section['sceneorg'] = value
+            elif data_type == ":galleriafi":
+                section['galleriafi'] = value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
