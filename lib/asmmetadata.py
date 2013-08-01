@@ -320,6 +320,8 @@ def print_metadata(outfile, year_entry_data):
             if section['public'] is False:
                 public_text = "false"
             outfile.write(":public %s\n" % public_text)
+        if 'galleriafi' in section:
+            outfile.write(":galleriafi %s\n" % section['galleriafi'])
 
         outfile.write("\n")
 

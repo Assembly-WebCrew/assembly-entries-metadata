@@ -17,15 +17,17 @@ args = parser.parse_args()
 metadata_file_name = args.metadata_filename
 pms_login = args.pms_login
 pms_password = args.pms_password
+pms_party = args.pms_party
 pms_compo = args.pms_compo
 
 metadata_file = open(metadata_file_name, "rb")
 metadata = asmmetadata.parse_file(metadata_file)
 
-pms_url = compodata.pms_path_generator(args.pms_root, args.pms_party)
+pms_url = compodata.pms_path_generator(args.pms_root, pms_party)
 
 pms_data = compodata.download_compo_data(
-    pms_url, pms_login, pms_password, pms_compo)
+    pms_url, pms_login, pms_password, pms_party, pms_compo)
+
 parsed_data = compodata.parse_compo_entries(
     pms_data, force_display_author_name=args.show_author)
 

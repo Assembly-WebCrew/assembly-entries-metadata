@@ -10,7 +10,7 @@ def pms_path_generator(pms_root, party):
 
 
 def download_compo_data(pms_url, username, password, party, compo_id):
-    entries_url = pms_url("compo/%s/" % compo_id)
+    entries_url = pms_url("compo/%s/entries/" % compo_id)
     result = requests.get(entries_url, auth=(username, password), verify=False)
     entries = result.json()
     return entries
