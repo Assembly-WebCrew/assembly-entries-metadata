@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. ./variables.inc
+. "$(dirname "$0")"/variables.inc
 
 IMPORT_FILE="$1"
 if test -z "$IMPORT_FILE"; then

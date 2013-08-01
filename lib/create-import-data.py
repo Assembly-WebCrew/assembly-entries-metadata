@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("files_root", metavar="files-root")
 parser.add_argument("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
-parser.add_argument("--pms-vote-template", default="asmxx/compos/%s/vote/")
+parser.add_argument("--pms-vote-template", default="https://pms.assembly.org/asmxx/compos/%s/vote/")
 
 args = parser.parse_args()
 FILEROOT = args.files_root
@@ -70,7 +70,7 @@ def generate_section_description(section_data, pms_path_template):
         description += section['description']
         if section.get('ongoing', False) is True:
             pms_path = pms_path_template % section['pms-category']
-            description += "<p>You can vote these entries at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
+            description += "<p>You can vote these entries at <a href='%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:
         description += """<p><a href="http://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
 
@@ -148,7 +148,7 @@ def entry_position_description_factory(pms_vote_template):
             description += u".</p>\n<p>\n"
         else:
             pms_path = pms_vote_template % entry['section']['pms-category']
-            description += "<p>You can vote this entry at <a href='https://pms.assembly.org/%s'>PMS</a>!</p>" % pms_path
+            description += "<p>You can vote this entry at <a href='%s'>PMS</a>!</p>" % pms_path
         return description
     return generator
 
