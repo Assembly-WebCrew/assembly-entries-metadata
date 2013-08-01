@@ -11,7 +11,7 @@ def pms_path_generator(pms_root, party):
 
 def download_compo_data(pms_url, username, password, party, compo_id):
     entries_url = pms_url("compo/%s/" % compo_id)
-    result = requests.get(entries_url, auth=(username, password))
+    result = requests.get(entries_url, auth=(username, password), verify=False)
     entries = result.json()
     return entries
 
@@ -65,11 +65,13 @@ def update_entry_preview(
 
     request_data = {'preview_link', preview_link.encode("utf-8")}
     headers = {'Content-Type': 'text/plain'}
-    requests.put(entry_url, data=request_data, headers=headers)
+    requests.put(entry_url, data=request_data, headers=headers, verify=False)
 
 
 def get_categories(pms_url, username, password):
     categories_url = pms_url("compos/")
-    result = requests.get(categories_url)
-    categories = result.json()
-    return categories
+    result = requests.get(categories_url, auth=(username, password), verify=False)
+    compos = result.json()
+    for compo in compos:
+        print compo['slug']
+

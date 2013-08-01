@@ -14,7 +14,7 @@ YOUTUBE_PASSWORD=
 
 PMS_ROOT=https://pms.paeae.fi/
 PMS_PARTY=asm13
-PMS_ACCOUNT=
+PMS_LOGIN=
 PMS_PASSWORD=
 
 WEB_UPLOAD_PAGE=http://localhost:8081/archive/@@import

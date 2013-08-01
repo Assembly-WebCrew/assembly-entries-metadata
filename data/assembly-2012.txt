@@ -40,6 +40,7 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|pouet:59
 :youtube-playlist B3A9905169E12774
 :pms-category 4k_intro
 :sceneorg in4k
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|pouet:59614|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
 author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|pouet:59651|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
@@ -57,6 +58,7 @@ author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|pouet
 :youtube-playlist 1A3D3268F6672D47
 :pms-category 1k_intro
 :sceneorg in1k
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
 author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|pouet:59610|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
 author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|pouet:59636|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
