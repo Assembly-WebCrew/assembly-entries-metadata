@@ -52,7 +52,7 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
-:public false
+:public true
 
 author:Lukas, Yonatan|pms-id:asm13/gamedev/3|title:Pölkky
 author:Kajak Games|pms-id:asm13/gamedev/4|title:Rogue Resistance
