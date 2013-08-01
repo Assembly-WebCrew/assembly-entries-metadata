@@ -14,10 +14,10 @@ args = parser.parse_args()
 pms_url = compodata.pms_path_generator(args.pms_root, args.pms_party)
 
 pms_data = compodata.download_compo_data(
-    pms_url, args.pms_login, args.pms_password, args.pms_compo)
+    pms_url, args.pms_login, args.pms_password, args.pms_party, args.pms_compo)
 pms_entries_data = compodata.parse_compo_entries(pms_data)
 
-metadata_fp = open(args.file_name, "rb")
+metadata_fp = open(args.metadata_file, "rb")
 metadata = asmmetadata.parse_file(metadata_fp)
 
 for pms_entry in pms_entries_data:
