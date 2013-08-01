@@ -54,22 +54,22 @@
 :ongoing true
 :public true
 
-author:Lukas, Yonatan|pms-id:asm13/gamedev/3|title:Pölkky
-author:Kajak Games|pms-id:asm13/gamedev/4|title:Rogue Resistance
-author:Future Devs|pms-id:asm13/gamedev/7|title:I Want It Back
-author:Pimiö|pms-id:asm13/gamedev/9|title:Specimen
-author:Team Flying Blind|pms-id:asm13/gamedev/12|title:M.A.D.
-author:Kaamos|pms-id:asm13/gamedev/13|title:Cube Horizon
-author:Confused Amoebas|pms-id:asm13/gamedev/15|title:Roboto
-author:Rust0|pms-id:asm13/gamedev/21|title:Reclone
-author:tAAt 2013|pms-id:asm13/gamedev/22|title:Jink
-author:Matti Ruupunen|pms-id:asm13/gamedev/23|title:ScyVenture
-author:Ville Valtokari, Jyri Honkanen, Harpreet Thind|pms-id:asm13/gamedev/24|title:Ardeo: The First Stage
-author:McBurrobit|pms-id:asm13/gamedev/25|title:OfficeRunner
-author:Bluefox Games Entertainment (Kajak)|pms-id:asm13/gamedev/26|title:Scyori
-author:Asko Lahti, Aleksi Jokihaara, Aleksi Jeskanen, Iida Korpela, Hanna Karvonen, Esko Haila|pms-id:asm13/gamedev/27|title:Flamia
-author:Kalle Hiltunen|pms-id:asm13/gamedev/29|title:For The King
-author:Pizzalaatikko|pms-id:asm13/gamedev/30|title:KAAL
+author:Lukas, Yonatan|pms-id:asm13/gamedev/3|title:Pölkky|media:/vod/2013/Compos/1591_Polkky_by_Lukas_and_Yonatan.mp4
+author:Kajak Games|pms-id:asm13/gamedev/4|title:Rogue Resistance|media:/vod/2013/Compos/1592_Rogue_Resistance_by_Kajak_Games.mp4
+author:Future Devs|pms-id:asm13/gamedev/7|title:I Want It Back|media:/vod/2013/Compos/1593_I_Want_it_Back_by_Future_Devs.mp4
+author:Pimiö|pms-id:asm13/gamedev/9|title:Specimen|media:/vod/2013/Compos/1594_Specimen_by_Pimio.mp4
+author:Team Flying Blind|pms-id:asm13/gamedev/12|title:M.A.D.|media:/vod/2013/Compos/1595_MAD_by_Team_Flying_Blind.mp4
+author:Kaamos|pms-id:asm13/gamedev/13|title:Cube Horizon|media:/vod/2013/Compos/1596_Cuber_Horizon_by_Kaamos.mp4
+author:Confused Amoebas|pms-id:asm13/gamedev/15|title:Roboto|media:/vod/2013/Compos/1597_Roboto_by_Confused_Amoebas.mp4
+author:Rust0|pms-id:asm13/gamedev/21|title:Reclone|media:/vod/2013/Compos/1598_Reclone_by_Rust0.mp4
+author:tAAt 2013|pms-id:asm13/gamedev/22|title:Jink|media:/vod/2013/Compos/1599_Jink_by_tAAt.mp4
+author:Matti Ruupunen|pms-id:asm13/gamedev/23|title:ScyVenture|media:/vod/2013/Compos/1600_ScyVenture_by_Matti_Ruupunen.mp4
+author:Ville Valtokari, Jyri Honkanen, Harpreet Thind|pms-id:asm13/gamedev/24|title:Ardeo: The First Stage|media:/vod/2013/Compos/1601_Ardeo_by_Valtokari_et_all.mp4
+author:McBurrobit|pms-id:asm13/gamedev/25|title:OfficeRunner|media:/vod/2013/Compos/1602_OfficeRunner_by_McBurrobit.mp4
+author:Bluefox Games Entertainment (Kajak)|pms-id:asm13/gamedev/26|title:Scyori|media:/vod/2013/Compos/1603_Scyori_by_Bluefox_Games_Entertainment.mp4
+author:Asko Lahti, Aleksi Jokihaara, Aleksi Jeskanen, Iida Korpela, Hanna Karvonen, Esko Haila|pms-id:asm13/gamedev/27|title:Flamia|media:/vod/2013/Compos/1604_Flamia_by_Lahti_et_all.mp4
+author:Kalle Hiltunen|pms-id:asm13/gamedev/29|title:For The King|media:/vod/2013/Compos/1605_For_the_King_by_Kalle_Hiltunen.mp4
+author:Pizzalaatikko|pms-id:asm13/gamedev/30|title:KAAL|media:/vod/2013/Compos/1606_KAAL_by_Pizzalaatikko.mp4
 
 
 :section Graphics
