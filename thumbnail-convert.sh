@@ -1,5 +1,9 @@
 #!/bin/sh
 
+source "$(dirname "$0")"/variables.inc
+
+cd "$FILES_ROOT" || exit 1
+
 for D in "$@" ; do
     echo "$D"
     mkdir -p thumbnails/small/"$D"

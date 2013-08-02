@@ -86,23 +86,23 @@ author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_KAAL_by_Pizzalaatikko
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with "XXX" theme.</p>
+:description <p>Competitors had 1.5 hours to create an image with "More hardware is not the solution" theme.</p>
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm13/fast_graphics/224|title:More hardware - better cubes?
-author:(author hidden until results)|pms-id:asm13/fast_graphics/226|title:End of the Road
-author:(author hidden until results)|pms-id:asm13/fast_graphics/230|title:Buffer Overflow
+author:(author hidden until results)|pms-id:asm13/fast_graphics/224|title:More hardware - better cubes?|image-file:fast-graphics/more_hardware_-_better_cubes_v1.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/226|title:End of the Road|image-file:fast-graphics/end_of_the_road_v1.jpg
+author:(author hidden until results)|pms-id:asm13/fast_graphics/230|title:Buffer Overflow|image-file:fast-graphics/bufferoverflow.png
 author:(author hidden until results)|pms-id:asm13/fast_graphics/240|title:Angels Don't Need 6 Eyes
-author:(author hidden until results)|pms-id:asm13/fast_graphics/248|title:Looter
-author:(author hidden until results)|pms-id:asm13/fast_graphics/249|title:Great Package
-author:(author hidden until results)|pms-id:asm13/fast_graphics/250|title:We want more
-author:(author hidden until results)|pms-id:asm13/fast_graphics/259|title:Software Awaits
-author:(author hidden until results)|pms-id:asm13/fast_graphics/260|title:The smell of new hardware
-author:(author hidden until results)|pms-id:asm13/fast_graphics/262|title:Indispensable
-author:(author hidden until results)|pms-id:asm13/fast_graphics/264|title:Babyhardware
-author:(author hidden until results)|pms-id:asm13/fast_graphics/268|title:This time I come prepared
-author:(author hidden until results)|pms-id:asm13/fast_graphics/271|title:Computing by Heart
+author:(author hidden until results)|pms-id:asm13/fast_graphics/248|title:Looter|image-file:fast-graphics/looter_v1.jpg
+author:(author hidden until results)|pms-id:asm13/fast_graphics/249|title:Great Package|image-file:fast-graphics/great_package_v1.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/250|title:We want more|image-file:fast-graphics/we_want_more_v1.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/259|title:Software Awaits|image-file:fast-graphics/software_awaits_v1.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/260|title:The smell of new hardware|image-file:fast-graphics/the_smell_of_new_hardware_nosig.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/262|title:Indispensable|image-file:fast-graphics/indispensable_v2.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/264|title:Babyhardware|image-file:fast-graphics/babyhardware_v3.png
+author:(author hidden until results)|pms-id:asm13/fast_graphics/268|title:This time I come prepared|image-file:fast-graphics/this_time_i_come_prepared_v1.jpg
+author:(author hidden until results)|pms-id:asm13/fast_graphics/271|title:Computing by Heart|image-file:fast-graphics/computing_by_heart_v1.png
 
 
 :section Dance music
@@ -127,27 +127,27 @@ author:(author hidden until results)|pms-id:asm13/fast_graphics/271|title:Comput
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm13/fast_music/137|title:Pallomies
-author:(author hidden until results)|pms-id:asm13/fast_music/143|title:Superia
-author:(author hidden until results)|pms-id:asm13/fast_music/144|title:Takaperin aika-aravuus
-author:(author hidden until results)|pms-id:asm13/fast_music/148|title:demoja musakompon aikana
-author:(author hidden until results)|pms-id:asm13/fast_music/150|title:Röh
-author:(author hidden until results)|pms-id:asm13/fast_music/154|title:Tuutulaulu
-author:(author hidden until results)|pms-id:asm13/fast_music/156|title:Kosmiset ystävät
-author:(author hidden until results)|pms-id:asm13/fast_music/158|title:CoLoLors
-author:(author hidden until results)|pms-id:asm13/fast_music/159|title:Sudden Death Mode Activated
-author:(author hidden until results)|pms-id:asm13/fast_music/162|title:GGGD Phunck
-author:(author hidden until results)|pms-id:asm13/fast_music/165|title:snorlaxin ja szuran assyretki
-author:(author hidden until results)|pms-id:asm13/fast_music/167|title:Bibbelis Goggelis
-author:(author hidden until results)|pms-id:asm13/fast_music/171|title:Why did you create me? Why?
-author:(author hidden until results)|pms-id:asm13/fast_music/173|title:Kattokaa soin salin systeemeistä
-author:(author hidden until results)|pms-id:asm13/fast_music/174|title:Happy To Be Fast
-author:(author hidden until results)|pms-id:asm13/fast_music/175|title:Uliuli
-author:(author hidden until results)|pms-id:asm13/fast_music/176|title:ES naamaan ja mopoautoileen
-author:(author hidden until results)|pms-id:asm13/fast_music/178|title:Memories of summer
-author:(author hidden until results)|pms-id:asm13/fast_music/182|title:Nistep
-author:(author hidden until results)|pms-id:asm13/fast_music/183|title:Progressimus Maximus
-author:(author hidden until results)|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!
+author:(author hidden until results)|pms-id:asm13/fast_music/137|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/143|title:Superia|video-file:fast-music/superia_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/144|title:Takaperin aika-aravuus|video-file:fast-music/takaperin_aika-aravuus_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/148|title:demoja musakompon aikana|video-file:fast-music/demoja_musakompon_aikana_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/150|title:Röh|video-file:fast-music/röh_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/154|title:Tuutulaulu|video-file:fast-music/tuutulaulu_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/156|title:Kosmiset ystävät|video-file:fast-music/kosmiset_ystävät_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/158|title:CoLoLors|video-file:fast-music/cololors_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/159|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/162|title:GGGD Phunck|video-file:fast-music/gggd_phunck_v1.wav.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/165|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/167|title:Bibbelis Goggelis|video-file:fast-music/bibbelis_goggelis_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/171|title:Why did you create me? Why?|video-file:fast-music/why_did_you_create_me_why_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/173|title:Kattokaa soin salin systeemeistä|video-file:fast-music/kattokaa_soin_salin_systeemeistä_v2.wav.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/174|title:Happy To Be Fast|video-file:fast-music/happy_to_be_fast_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/175|title:Uliuli|video-file:fast-music/uliuli_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/176|title:ES naamaan ja mopoautoileen|video-file:fast-music/es_naamaan_ja_mopoautoileen_v1.wav.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/178|title:Memories of summer|video-file:fast-music/memories_of_summer_v1.wav.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/182|title:Nistep|video-file:fast-music/nistep_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/183|title:Progressimus Maximus|video-file:fast-music/progressimus_maximus_v1.wav.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!|video-file:fast-music/melkein_missasin,_mattu_v1.mp3.avi
 
 
 :section Seminars
