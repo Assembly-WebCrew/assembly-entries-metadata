@@ -162,6 +162,8 @@ for line in sys.stdin:
         '--title', youtube_title,
         '--description', description,
         video_file]
+    if unlisted_video:
+        args.append("--unlisted")
     upload_success = False
     youtube_id = ''
     upload_trials = 1

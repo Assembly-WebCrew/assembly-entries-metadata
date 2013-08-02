@@ -217,7 +217,7 @@ def print_entry(year, entry, description_generator):
     # if 'galleriafi' in entry:
     #     return
 
-    if (entry.get('image-file') or entry.get('galleriafi')) and entry.get('webfile'):
+    if (entry.get('image-file') or entry.get('galleriafi')):
         image_file = entry.get('image-file')
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
