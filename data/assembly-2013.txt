@@ -38,11 +38,11 @@
 :ongoing true
 :public false
 
-author:Dekadence|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow
-author:Skrolli|pms-id:asm13/oldskool_demo/129|title:Manifesty
-author:Gasman / Hooy-Program|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation
-author:Traktor and Nature|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation
-author:BooZombies|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls
+author:Dekadence|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow
+author:Skrolli|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty
+author:Gasman / Hooy-Program|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation
+author:Traktor and Nature|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation
+author:BooZombies|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls
 
 
 :section Short film
@@ -80,26 +80,25 @@ author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizza
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public false
 
-author:(author hidden until results)|pms-id:asm13/graphics/32|title:Big Banker|image-file:graphics/Big-Banker-by-sssampo_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/50|title:IN 2093, THE FINNISH SPACE NAVY ENCOUNTERED SPACE PIRATES IN SPACE|image-file:graphics/in-2093-the-finnish-space-navy-pirates-cool_image_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/51|title:Mommy is home|image-file:graphics/mommy_is_home_nosig.PNG
-author:(author hidden until results)|pms-id:asm13/graphics/58|title:Life will prefail|image-file:graphics/Life_will_prefail_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/62|title:Turriteatteri (Furry Feature)|image-file:graphics/turriteatteri_furry_feature_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/69|title:F*ck you, go away!|image-file:graphics/goaway_nosig.jpg
-author:(author hidden until results)|pms-id:asm13/graphics/114|title:Last Stand|image-file:graphics/LastStand_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/127|title:Disappointment|image-file:graphics/disappointment_nosig.jpg
-author:(author hidden until results)|pms-id:asm13/graphics/132|title:Eye of the storm|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/134|title:The maiden|image-file:graphics/the_maiden_1080_nosign.png
-author:(author hidden until results)|pms-id:asm13/graphics/145|title:Byrdmancer|image-file:graphics/byrd_final_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/155|title:Super Londo Bros|image-file:graphics/Assembly_SuperLondoBros_final_1280x720.png
-author:(author hidden until results)|pms-id:asm13/graphics/160|title:Dragster|image-file:graphics/dragster_nosig.png
-author:(author hidden until results)|pms-id:asm13/graphics/180|title:S/S Conquest|image-file:graphics/SS_Conquest_nosig.jpg
-author:(author hidden until results)|pms-id:asm13/graphics/185|title:Stagecoach Shock|image-file:graphics/Stagecoach shock.png
-author:(author hidden until results)|pms-id:asm13/graphics/205|title:Tell Me I'm Pretty|image-file:graphics/IiroEnges_FINAL_nosig.jpg
-author:(author hidden until results)|pms-id:asm13/graphics/208|title:Brainz|image-file:graphics/brainz_nosig.jpg
-author:(author hidden until results)|pms-id:asm13/graphics/231|title:The Log Lady|image-file:graphics/The Log Lady_nosig.png
+author:(author hidden until results)|image-file:graphics/Big-Banker-by-sssampo_nosig.png|pms-id:asm13/graphics/32|title:Big Banker
+author:(author hidden until results)|image-file:graphics/in-2093-the-finnish-space-navy-pirates-cool_image_nosig.png|pms-id:asm13/graphics/50|title:IN 2093, THE FINNISH SPACE NAVY ENCOUNTERED SPACE PIRATES IN SPACE
+author:(author hidden until results)|image-file:graphics/mommy_is_home_nosig.PNG|pms-id:asm13/graphics/51|title:Mommy is home
+author:(author hidden until results)|image-file:graphics/Life_will_prefail_nosig.png|pms-id:asm13/graphics/58|title:Life will prefail
+author:(author hidden until results)|image-file:graphics/turriteatteri_furry_feature_nosig.png|pms-id:asm13/graphics/62|title:Turriteatteri (Furry Feature)
+author:(author hidden until results)|image-file:graphics/goaway_nosig.jpg|pms-id:asm13/graphics/69|title:F*ck you, go away!
+author:(author hidden until results)|image-file:graphics/LastStand_nosig.png|pms-id:asm13/graphics/114|title:Last Stand
+author:(author hidden until results)|image-file:graphics/disappointment_nosig.jpg|pms-id:asm13/graphics/127|title:Disappointment
+author:(author hidden until results)|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png|pms-id:asm13/graphics/132|title:Eye of the storm
+author:(author hidden until results)|image-file:graphics/the_maiden_1080_nosign.png|pms-id:asm13/graphics/134|title:The maiden
+author:(author hidden until results)|image-file:graphics/byrd_final_nosig.png|pms-id:asm13/graphics/145|title:Byrdmancer
+author:(author hidden until results)|image-file:graphics/Assembly_SuperLondoBros_final_1280x720.png|pms-id:asm13/graphics/155|title:Super Londo Bros
+author:(author hidden until results)|image-file:graphics/dragster_nosig.png|pms-id:asm13/graphics/160|title:Dragster
+author:(author hidden until results)|image-file:graphics/SS_Conquest_nosig.jpg|pms-id:asm13/graphics/180|title:S/S Conquest
+author:(author hidden until results)|image-file:graphics/Stagecoach shock.png|pms-id:asm13/graphics/185|title:Stagecoach Shock
+author:(author hidden until results)|image-file:graphics/IiroEnges_FINAL_nosig.jpg|pms-id:asm13/graphics/205|title:Tell Me I'm Pretty
+author:(author hidden until results)|image-file:graphics/brainz_nosig.jpg|pms-id:asm13/graphics/208|title:Brainz
+author:(author hidden until results)|image-file:graphics/The Log Lady_nosig.png|pms-id:asm13/graphics/231|title:The Log Lady
 
 
 :section Fast graphics
@@ -126,7 +125,6 @@ author:(author hidden until results)|image-file:fast-graphics/computing_by_heart
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm13/dance_music/42|title:Leak|video-file:dance-music/leak_v2.mp3.avi|youtube:SfHI32mfsKk
 author:(author hidden until results)|pms-id:asm13/dance_music/55|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi|youtube:dGAWSIu5260
