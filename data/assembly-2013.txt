@@ -82,6 +82,24 @@ author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizza
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm13/graphics/32|title:Big Banker|image-file:graphics/Big-Banker-by-sssampo_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/50|title:IN 2093, THE FINNISH SPACE NAVY ENCOUNTERED SPACE PIRATES IN SPACE|image-file:graphics/in-2093-the-finnish-space-navy-pirates-cool_image_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/51|title:Mommy is home|image-file:graphics/mommy_is_home_nosig.PNG
+author:(author hidden until results)|pms-id:asm13/graphics/58|title:Life will prefail|image-file:graphics/Life_will_prefail_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/62|title:Turriteatteri (Furry Feature)|image-file:graphics/turriteatteri_furry_feature_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/69|title:F*ck you, go away!|image-file:graphics/goaway_nosig.jpg
+author:(author hidden until results)|pms-id:asm13/graphics/114|title:Last Stand|image-file:graphics/LastStand_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/127|title:Disappointment|image-file:graphics/disappointment_nosig.jpg
+author:(author hidden until results)|pms-id:asm13/graphics/132|title:Eye of the storm|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/134|title:The maiden|image-file:graphics/the_maiden_1080_nosign.png
+author:(author hidden until results)|pms-id:asm13/graphics/145|title:Byrdmancer|image-file:graphics/byrd_final_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/155|title:Super Londo Bros|image-file:graphics/Assembly_SuperLondoBros_final_1280x720.png
+author:(author hidden until results)|pms-id:asm13/graphics/160|title:Dragster|image-file:graphics/dragster_nosig.png
+author:(author hidden until results)|pms-id:asm13/graphics/180|title:S/S Conquest|image-file:graphics/SS_Conquest_nosig.jpg
+author:(author hidden until results)|pms-id:asm13/graphics/185|title:Stagecoach Shock|image-file:graphics/Stagecoach shock.png
+author:(author hidden until results)|pms-id:asm13/graphics/205|title:Tell Me I'm Pretty|image-file:graphics/IiroEnges_FINAL_nosig.jpg
+author:(author hidden until results)|pms-id:asm13/graphics/208|title:Brainz|image-file:graphics/brainz_nosig.jpg
+author:(author hidden until results)|pms-id:asm13/graphics/231|title:The Log Lady|image-file:graphics/The Log Lady_nosig.png
 
 
 :section Fast graphics
@@ -110,13 +128,24 @@ author:(author hidden until results)|image-file:fast-graphics/computing_by_heart
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm13/dance_music/42|title:Leak|video-file:dance-music/leak_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/55|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/74|title:Robotics|video-file:dance-music/robotics_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/78|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/88|title:Schrotflinteparty|video-file:dance-music/schrotflinteparty_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/92|title:Xenomorph|video-file:dance-music/xenomorph_v2.ogg.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/110|title:Flashback Disco|video-file:dance-music/flashback_disco_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/161|title:Little Twisting Chipsets|video-file:dance-music/little_twisting_chipsets_v1.ogg.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/170|title:Ota sitä|video-file:dance-music/ota_sitä_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/213|title:Golden Sunshine|video-file:dance-music/golden_sunshine_v2.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/215|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/219|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi
 
 
 :section Listening music
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi|youtube:o4r0g6XgbYQ
 author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi|youtube:20rYD9VZa8Y
