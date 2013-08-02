@@ -45,9 +45,8 @@ for pms_entry in pms_entries_data:
         preview_link = u"http://archive.assembly.org/%d/%s/%s" % (
             metadata.year, updatable_entry['section']['key'], key)
 
-    if preview_link is None:
-        print "FAILED TO GET PREVIEW LINK FOR %s" % (str(updatable_entry))
-        continue
+    if not preview_link:
+        preview_link = ''
 
     if pms_entry.get('preview', '') != preview_link:
         compodata.update_entry_preview(

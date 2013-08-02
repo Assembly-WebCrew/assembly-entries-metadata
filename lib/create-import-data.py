@@ -222,7 +222,7 @@ def print_entry(year, entry, description_generator):
         image_file = entry.get('image-file')
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
-        if re.match(r".+\.(png|jpg|jpeg|gif)$", image_file):
+        if asmmetadata.is_image(image_file):
             has_media = True
             baseprefix, _ = image_file.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
@@ -236,7 +236,7 @@ def print_entry(year, entry, description_generator):
 
     webfile = entry.get('webfile')
     if webfile:
-        if re.match(r".+\.(png|jpg|jpeg|gif)$", webfile):
+        if asmmetadata.is_image(webfile):
             has_media = True
             baseprefix, _ = webfile.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))

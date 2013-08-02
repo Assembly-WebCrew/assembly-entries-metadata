@@ -3,11 +3,14 @@
 import cgi
 import hashlib
 import re
-import sys
 import urllib
 
 
 YOUTUBE_MAX_TITLE_LENGTH = 100
+
+
+def is_image(filename):
+    return re.match(r".+\.(png|jpg|jpeg|gif|tiff)$", filename, re.IGNORECASE)
 
 
 def get_party_name(year, section_name):
@@ -365,7 +368,7 @@ def select_thumbnail_base(entry):
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
         baseprefix, _ = filename.split(".")
-        if re.match(r".+\.(png|jpg|jpeg|gif)$", filename):
+        if is_image(filename):
             return 'thumbnails/small/%s' % baseprefix
     return None
 
