@@ -118,19 +118,19 @@ author:(author hidden until results)|image-file:fast-graphics/computing_by_heart
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi|youtube:o4r0g6XgbYQ
+author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi|youtube:20rYD9VZa8Y
+author:(author hidden until results)|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi|youtube:FioeIjil4xI
+author:(author hidden until results)|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi|youtube:wsigCGqhAws
+author:(author hidden until results)|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi|youtube:3P79SPd0aCc
+author:(author hidden until results)|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi|youtube:z5hVq7NEbfk
+author:(author hidden until results)|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi|youtube:bvrfIK5CsL4
+author:(author hidden until results)|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi|youtube:jkkWOGBZI3E
+author:(author hidden until results)|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi|youtube:a9jvAifedr8
+author:(author hidden until results)|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi|youtube:5lf3PWQokwk
+author:(author hidden until results)|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi|youtube:iqYUs7-jz4E
+author:(author hidden until results)|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi|youtube:VY56dmiYJng
+author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi|youtube:oxUASkWXZgs
 
 
 :section Fast music
