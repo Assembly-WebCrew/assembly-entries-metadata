@@ -143,19 +143,19 @@ author:(author hidden until results)|pms-id:asm13/dance_music/219|title:Musicbox
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi|youtube:P9tYhR7XUGo
+author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi|youtube:TW5P9BLvaac
+author:(author hidden until results)|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi|youtube:cdOoUkFpHzM
+author:(author hidden until results)|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi|youtube:swyTPM2YyUQ
+author:(author hidden until results)|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi|youtube:xpTl9wt-0pw
+author:(author hidden until results)|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi|youtube:fC-w0LP2cEo
+author:(author hidden until results)|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi|youtube:njWUj_1OOus
+author:(author hidden until results)|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi|youtube:pOGSUy4orEM
+author:(author hidden until results)|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi|youtube:8cXRwLvcM74
+author:(author hidden until results)|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi|youtube:9gPDIWpNejA
+author:(author hidden until results)|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi|youtube:zPF2wVUFnxE
+author:(author hidden until results)|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi|youtube:f9EvhQxU6OE
+author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi|youtube:mCjRVfZpMwE
 
 
 :section Fast music
@@ -163,27 +163,27 @@ author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happ
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm13/fast_music/137|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/143|title:Superia|video-file:fast-music/superia_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/144|title:Takaperin aika-aravuus|video-file:fast-music/takaperin_aika-aravuus_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/148|title:demoja musakompon aikana|video-file:fast-music/demoja_musakompon_aikana_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/150|title:Röh|video-file:fast-music/röh_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/154|title:Tuutulaulu|video-file:fast-music/tuutulaulu_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/156|title:Kosmiset ystävät|video-file:fast-music/kosmiset_ystävät_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/158|title:CoLoLors|video-file:fast-music/cololors_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/159|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/162|title:GGGD Phunck|video-file:fast-music/gggd_phunck_v1.wav.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/165|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/167|title:Bibbelis Goggelis|video-file:fast-music/bibbelis_goggelis_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/171|title:Why did you create me? Why?|video-file:fast-music/why_did_you_create_me_why_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/173|title:Kattokaa soin salin systeemeistä|video-file:fast-music/kattokaa_soin_salin_systeemeistä_v2.wav.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/174|title:Happy To Be Fast|video-file:fast-music/happy_to_be_fast_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/175|title:Uliuli|video-file:fast-music/uliuli_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/176|title:ES naamaan ja mopoautoileen|video-file:fast-music/es_naamaan_ja_mopoautoileen_v1.wav.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/178|title:Memories of summer|video-file:fast-music/memories_of_summer_v1.wav.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/182|title:Nistep|video-file:fast-music/nistep_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/183|title:Progressimus Maximus|video-file:fast-music/progressimus_maximus_v1.wav.avi
-author:(author hidden until results)|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!|video-file:fast-music/melkein_missasin,_mattu_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/fast_music/137|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi|youtube:nRw7M7LUwas
+author:(author hidden until results)|pms-id:asm13/fast_music/143|title:Superia|video-file:fast-music/superia_v1.mp3.avi|youtube:Y3d4lVCzSL4
+author:(author hidden until results)|pms-id:asm13/fast_music/144|title:Takaperin aika-aravuus|video-file:fast-music/takaperin_aika-aravuus_v1.mp3.avi|youtube:Vu3pG7UWBcc
+author:(author hidden until results)|pms-id:asm13/fast_music/148|title:demoja musakompon aikana|video-file:fast-music/demoja_musakompon_aikana_v1.mp3.avi|youtube:kViE_5RjGV0
+author:(author hidden until results)|pms-id:asm13/fast_music/150|title:Röh|video-file:fast-music/röh_v1.mp3.avi|youtube:B550SH4aOkg
+author:(author hidden until results)|pms-id:asm13/fast_music/154|title:Tuutulaulu|video-file:fast-music/tuutulaulu_v1.mp3.avi|youtube:D8Z26wfQv9k
+author:(author hidden until results)|pms-id:asm13/fast_music/156|title:Kosmiset ystävät|video-file:fast-music/kosmiset_ystävät_v1.mp3.avi|youtube:6IRie-4n6TM
+author:(author hidden until results)|pms-id:asm13/fast_music/158|title:CoLoLors|video-file:fast-music/cololors_v1.mp3.avi|youtube:-csr_hd-HP0
+author:(author hidden until results)|pms-id:asm13/fast_music/159|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi|youtube:uDr-3KFbA4M
+author:(author hidden until results)|pms-id:asm13/fast_music/162|title:GGGD Phunck|video-file:fast-music/gggd_phunck_v1.wav.avi|youtube:GAtm0ENbYEc
+author:(author hidden until results)|pms-id:asm13/fast_music/165|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi|youtube:6cKj1LdTwZ4
+author:(author hidden until results)|pms-id:asm13/fast_music/167|title:Bibbelis Goggelis|video-file:fast-music/bibbelis_goggelis_v1.mp3.avi|youtube:ri_eJ9Zfam8
+author:(author hidden until results)|pms-id:asm13/fast_music/171|title:Why did you create me? Why?|video-file:fast-music/why_did_you_create_me_why_v1.mp3.avi|youtube:jjNRqhL6Yj4
+author:(author hidden until results)|pms-id:asm13/fast_music/173|title:Kattokaa soin salin systeemeistä|video-file:fast-music/kattokaa_soin_salin_systeemeistä_v2.wav.avi|youtube:ZSb67U6kO_c
+author:(author hidden until results)|pms-id:asm13/fast_music/174|title:Happy To Be Fast|video-file:fast-music/happy_to_be_fast_v1.mp3.avi|youtube:koNqhGE7U_4
+author:(author hidden until results)|pms-id:asm13/fast_music/175|title:Uliuli|video-file:fast-music/uliuli_v1.mp3.avi|youtube:tPLA61v_cVc
+author:(author hidden until results)|pms-id:asm13/fast_music/176|title:ES naamaan ja mopoautoileen|video-file:fast-music/es_naamaan_ja_mopoautoileen_v1.wav.avi|youtube:S2ORjY_BcI4
+author:(author hidden until results)|pms-id:asm13/fast_music/178|title:Memories of summer|video-file:fast-music/memories_of_summer_v1.wav.avi|youtube:3UgBtylNi-c
+author:(author hidden until results)|pms-id:asm13/fast_music/182|title:Nistep|video-file:fast-music/nistep_v1.mp3.avi|youtube:MydGhfzZ3fI
+author:(author hidden until results)|pms-id:asm13/fast_music/183|title:Progressimus Maximus|video-file:fast-music/progressimus_maximus_v1.wav.avi|youtube:c1V29h7SHOQ
+author:(author hidden until results)|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!|video-file:fast-music/melkein_missasin,_mattu_v1.mp3.avi|youtube:_gOU3qlriLc
 
 
 :section Seminars
