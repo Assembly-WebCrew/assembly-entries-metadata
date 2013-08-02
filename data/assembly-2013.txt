@@ -128,18 +128,18 @@ author:(author hidden until results)|image-file:fast-graphics/computing_by_heart
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm13/dance_music/42|title:Leak|video-file:dance-music/leak_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/55|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/74|title:Robotics|video-file:dance-music/robotics_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/78|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/88|title:Schrotflinteparty|video-file:dance-music/schrotflinteparty_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/92|title:Xenomorph|video-file:dance-music/xenomorph_v2.ogg.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/110|title:Flashback Disco|video-file:dance-music/flashback_disco_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/161|title:Little Twisting Chipsets|video-file:dance-music/little_twisting_chipsets_v1.ogg.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/170|title:Ota sitä|video-file:dance-music/ota_sitä_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/213|title:Golden Sunshine|video-file:dance-music/golden_sunshine_v2.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/215|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi
-author:(author hidden until results)|pms-id:asm13/dance_music/219|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/dance_music/42|title:Leak|video-file:dance-music/leak_v2.mp3.avi|youtube:SfHI32mfsKk
+author:(author hidden until results)|pms-id:asm13/dance_music/55|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi|youtube:dGAWSIu5260
+author:(author hidden until results)|pms-id:asm13/dance_music/74|title:Robotics|video-file:dance-music/robotics_v1.mp3.avi|youtube:rIJpPhk-CLU
+author:(author hidden until results)|pms-id:asm13/dance_music/78|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi|youtube:-Wgvhi0WFn0
+author:(author hidden until results)|pms-id:asm13/dance_music/88|title:Schrotflinteparty|video-file:dance-music/schrotflinteparty_v2.mp3.avi|youtube:Zp4t7j5qlLk
+author:(author hidden until results)|pms-id:asm13/dance_music/92|title:Xenomorph|video-file:dance-music/xenomorph_v2.ogg.avi|youtube:aywYrd7y1s0
+author:(author hidden until results)|pms-id:asm13/dance_music/110|title:Flashback Disco|video-file:dance-music/flashback_disco_v1.mp3.avi|youtube:uBChwerBEW4
+author:(author hidden until results)|pms-id:asm13/dance_music/161|title:Little Twisting Chipsets|video-file:dance-music/little_twisting_chipsets_v1.ogg.avi|youtube:CNIEQVnMnes
+author:(author hidden until results)|pms-id:asm13/dance_music/170|title:Ota sitä|video-file:dance-music/ota_sitä_v1.mp3.avi|youtube:At26zhu2eak
+author:(author hidden until results)|pms-id:asm13/dance_music/213|title:Golden Sunshine|video-file:dance-music/golden_sunshine_v2.mp3.avi|youtube:4BYc3xfEc88
+author:(author hidden until results)|pms-id:asm13/dance_music/215|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi|youtube:C7o8XTN71Vo
+author:(author hidden until results)|pms-id:asm13/dance_music/219|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi|youtube:90LpOPhsYxI
 
 
 :section Listening music

@@ -3,6 +3,7 @@
 import cgi
 import hashlib
 import re
+import sys
 import urllib
 
 

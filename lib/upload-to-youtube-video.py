@@ -58,6 +58,8 @@ failures = 0
 
 zero_position = 1
 
+section_data = {}
+
 for line in sys.stdin:
     sys.stdout.flush()
     # Fast-forward if there are many consecutive failures.
@@ -85,15 +87,18 @@ for line in sys.stdin:
         print line.encode('utf-8')
         data_type, value = line.split(" ", 1)
         if data_type == ":section":
+            section_data = {
+                'name': value,
+                'year': int(year)
+                }
             zero_position = 1
-            section = value
+            section = section_data['name']
+        else:
+            section_data[str(data_type.lstrip(":"))] = value
         continue
 
     entryinfo = asmmetadata.parse_entry_line(line)
-    entryinfo['section'] = {
-        'name': section,
-        'year': int(year),
-        }
+    entryinfo['section'] = section_data
 
     author = entryinfo.get("author", None)
     title = entryinfo.get("title", None)
