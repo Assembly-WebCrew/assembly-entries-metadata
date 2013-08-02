@@ -5,6 +5,7 @@ import asmmetadata
 import base64
 import cgi
 import os.path
+import re
 import sys
 import time
 from xml.sax.saxutils import escape
@@ -162,7 +163,7 @@ def print_entry(year, entry, description_generator):
     else:
         name = "%s by %s" % (title, author)
 
-    normalized_name = asmmetadata.normalize_key(name)
+    normalized_name = asmmetadata.get_entry_key(entry)
     normalized_section = asmmetadata.normalize_key(section_name)
     position = entry.get('position', 0)
 
@@ -217,11 +218,11 @@ def print_entry(year, entry, description_generator):
     # if 'galleriafi' in entry:
     #     return
 
-    if (entry.get('image-file') or entry.get('galleriafi')):
+    if entry.get('image-file') or entry.get('galleriafi'):
         image_file = entry.get('image-file')
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
-        if image_file.endswith(".png") or image_file.endswith(".jpeg") or image_file.endswith(".gif"):
+        if re.match(r".+\.(png|jpg|jpeg|gif)$", image_file):
             has_media = True
             baseprefix, _ = image_file.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
@@ -235,7 +236,7 @@ def print_entry(year, entry, description_generator):
 
     webfile = entry.get('webfile')
     if webfile:
-        if webfile.endswith(".png") or webfile.endswith(".jpeg") or webfile.endswith(".gif"):
+        if re.match(r".+\.(png|jpg|jpeg|gif)$", webfile):
             has_media = True
             baseprefix, _ = webfile.split(".")
             viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))

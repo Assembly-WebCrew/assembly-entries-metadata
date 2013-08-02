@@ -41,8 +41,7 @@ for pms_entry in pms_entries_data:
         preview_link = u"http://www.youtube.com/watch?v=%s" % updatable_entry['youtube']
 
     if 'image-file' in updatable_entry:
-        key = asmmetadata.normalize_key(u"%s-by-%s" % (
-                updatable_entry['title'], updatable_entry['author']))
+        key = asmmetadata.get_entry_key(updatable_entry)
         preview_link = u"http://archive.assembly.org/%d/%s/%s" % (
             metadata.year, updatable_entry['section']['key'], key)
 

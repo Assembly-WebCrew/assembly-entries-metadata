@@ -172,6 +172,10 @@ def normalize_key(value):
     return normalized
 
 
+def get_entry_key(entry):
+    return normalize_key(u"%s-by-%s" % (entry['title'], entry['author']))
+
+
 class EntryYear(object):
     year = None
 
@@ -361,7 +365,7 @@ def select_thumbnail_base(entry):
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
         baseprefix, _ = filename.split(".")
-        if filename.endswith(".png") or filename.endswith(".jpeg") or filename.endswith(".gif"):
+        if re.match(r".+\.(png|jpg|jpeg|gif)$", filename):
             return 'thumbnails/small/%s' % baseprefix
     return None
 

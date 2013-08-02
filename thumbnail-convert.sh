@@ -9,7 +9,7 @@ for D in "$@" ; do
     mkdir -p thumbnails/small/"$D"
     mkdir -p thumbnails/large/"$D"
     ls "$D"/*.png "$D"/*.jpeg "$D"/*.gif
-    for SUF in png jpeg gif; do
+    for SUF in png jpeg gif jpg; do
         for I in "$D"/*."$SUF"; do
             echo "$I"
             test -f "$I" || continue
