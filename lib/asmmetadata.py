@@ -303,13 +303,16 @@ def print_metadata(outfile, year_entry_data):
     for section in year_entry_data.sections:
         outfile.write("\n:section %s\n" % section['name'])
         if 'youtube-playlist' in section:
-            outfile.write(":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
+            outfile.write(
+                ":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
         if 'pms-category' in section:
             outfile.write(":pms-category %s\n" % section['pms-category'])
         if 'description' in section:
-            outfile.write(":description %s\n" % section['description'].encode("utf-8"))
+            outfile.write(
+                ":description %s\n" % section['description'].encode("utf-8"))
         if 'sceneorg' in section:
-            outfile.write(":sceneorg %s\n" % section['sceneorg'].encode("utf-8"))
+            outfile.write(
+                ":sceneorg %s\n" % section['sceneorg'].encode("utf-8"))
         if 'ongoing' in section:
             ongoing_text = "false"
             if section['ongoing'] is True:
@@ -332,7 +335,8 @@ def print_metadata(outfile, year_entry_data):
                 if value is None:
                     del entry[key]
 
-            parts = sorted(u"%s:%s" % (key, value) for key, value in entry.items())
+            parts = sorted(
+                u"%s:%s" % (key, value) for key, value in entry.items())
             outline = u"|".join(parts)
             outfile.write("%s\n" % outline.encode("utf-8"))
 
