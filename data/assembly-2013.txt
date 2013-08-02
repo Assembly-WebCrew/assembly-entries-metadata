@@ -88,7 +88,6 @@ author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizza
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "More hardware is not the solution" theme.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|image-file:fast-graphics/more_hardware_-_better_cubes_v1.png|pms-id:asm13/fast_graphics/224|title:More hardware - better cubes?
 author:(author hidden until results)|image-file:fast-graphics/end_of_the_road_v1.jpg|pms-id:asm13/fast_graphics/226|title:End of the Road
