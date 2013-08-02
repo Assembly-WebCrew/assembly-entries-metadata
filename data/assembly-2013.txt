@@ -92,7 +92,7 @@ author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizza
 author:(author hidden until results)|image-file:fast-graphics/more_hardware_-_better_cubes_v1.png|pms-id:asm13/fast_graphics/224|title:More hardware - better cubes?
 author:(author hidden until results)|image-file:fast-graphics/end_of_the_road_v1.jpg|pms-id:asm13/fast_graphics/226|title:End of the Road
 author:(author hidden until results)|image-file:fast-graphics/bufferoverflow.png|pms-id:asm13/fast_graphics/230|title:Buffer Overflow
-author:(author hidden until results)|pms-id:asm13/fast_graphics/240|title:Angels Don't Need 6 Eyes|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png
+author:(author hidden until results)|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|pms-id:asm13/fast_graphics/240|title:Angels Don't Need 6 Eyes
 author:(author hidden until results)|image-file:fast-graphics/looter_v1.jpg|pms-id:asm13/fast_graphics/248|title:Looter
 author:(author hidden until results)|image-file:fast-graphics/great_package_v1.png|pms-id:asm13/fast_graphics/249|title:Great Package
 author:(author hidden until results)|image-file:fast-graphics/we_want_more_v1.png|pms-id:asm13/fast_graphics/250|title:We want more
@@ -118,13 +118,25 @@ author:(author hidden until results)|image-file:fast-graphics/computing_by_heart
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi
+author:(author hidden until results)|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
-
 
 author:(author hidden until results)|pms-id:asm13/fast_music/137|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi|youtube:AnrUDjgCDJ8
 author:(author hidden until results)|pms-id:asm13/fast_music/143|title:Superia|video-file:fast-music/superia_v1.mp3.avi|youtube:s1E4BU0vbuk
