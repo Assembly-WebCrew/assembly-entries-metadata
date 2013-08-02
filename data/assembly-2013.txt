@@ -38,11 +38,11 @@
 :ongoing true
 :public false
 
-author:Dekadence|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow
-author:Skrolli|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty
-author:Gasman / Hooy-Program|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation
-author:Traktor and Nature|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation
-author:BooZombies|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls
+author:Dekadence|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow|youtube:oGcsGC9vPho
+author:Skrolli|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty|youtube:iW-QWIX-hpA
+author:Gasman / Hooy-Program|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
+author:Traktor and Nature|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation|youtube:D0bI_YDlfY8
+author:BooZombies|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls|youtube:_VjGPWqaLTM
 
 
 :section Short film
