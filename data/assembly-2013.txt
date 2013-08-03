@@ -6,6 +6,13 @@
 :ongoing true
 :public false
 
+author:bilotrip|pms-id:asm13/demo/81|title:majestic twelve
+author:KoomaPiste|pms-id:asm13/demo/94|title:BMMWBLA
+author:Division|pms-id:asm13/demo/287|title:Ignition
+author:Pants^2|pms-id:asm13/demo/299|title:Silmänsisäinen alkemistini
+author:Pyrotech|pms-id:asm13/demo/301|title:Return
+author:Peisik & Royal Elite Ninjas|pms-id:asm13/demo/307|title:staring through
+author:adapt|pms-id:asm13/demo/308|title:refleXion
 
 
 :section Real wild demo
@@ -14,6 +21,16 @@
 :ongoing true
 :public false
 
+author:Kewlers|pms-id:asm13/real_wild/147|title:Spongiforma Squarepantsii
+author:elite ninjas inc.|pms-id:asm13/real_wild/278|title:MCMC
+author:Paradise & Planet Earth|pms-id:asm13/real_wild/280|title:Tau-Ceti
+author:npli|pms-id:asm13/real_wild/288|title:Der Rechner
+author:hedelmae|pms-id:asm13/real_wild/290|title:LCD megademo 2
+author:hedelmae|pms-id:asm13/real_wild/291|title:Routavaurio
+author:sooda|pms-id:asm13/real_wild/294|title:next train takes no passengers
+author:Limba|pms-id:asm13/real_wild/297|title:Beast didn't got lose
+author:hedelmae|pms-id:asm13/real_wild/298|title:Bad Hair Decade
+author:Wide Load|pms-id:asm13/real_wild/305|title:Out of Brownies
 
 
 :section 4k intro
@@ -22,6 +39,19 @@
 :ongoing true
 :public false
 
+author:Blobtrox|pms-id:asm13/4k_intro/34|title:Heartfelt
+author:HBC|pms-id:asm13/4k_intro/43|title:Highway 4k
+author:XZM|pms-id:asm13/4k_intro/48|title:Cubetronic
+author:Faemiyah|pms-id:asm13/4k_intro/90|title:Yog-Sothoth
+author:lucid|pms-id:asm13/4k_intro/118|title:L-Spline Abstrakt
+author:Peisik|pms-id:asm13/4k_intro/123|title:faet
+author:Digimind & Keen|pms-id:asm13/4k_intro/281|title:Flood Rain
+author:Silent & Digimind|pms-id:asm13/4k_intro/283|title:Star Dancer
+author:Rustbloom|pms-id:asm13/4k_intro/284|title:Prunus Mykiss
+author:Ananasmurska|pms-id:asm13/4k_intro/292|title:Haldol
+author:qma|pms-id:asm13/4k_intro/296|title:Work of Hearts
+author:g012 & p0ke / Flush|pms-id:asm13/4k_intro/300|title:Planet DTT
+author:oo|pms-id:asm13/4k_intro/303|title:decoloring darkness
 
 
 :section 1k intro
@@ -30,6 +60,19 @@
 :ongoing true
 :public false
 
+author:Bercon/HBC|pms-id:asm13/1k_intro/38|title:Kornell Box
+author:p01 / ribbon|pms-id:asm13/1k_intro/41|title:Andes
+author:TDA|pms-id:asm13/1k_intro/49|title:Remnant
+author:oo|pms-id:asm13/1k_intro/53|title:Painthing
+author:npli|pms-id:asm13/1k_intro/70|title:Vihtori-Matti
+author:Below Absolute Zero|pms-id:asm13/1k_intro/126|title:Bioterrorism
+author:Fulcrum|pms-id:asm13/1k_intro/164|title:Dystaxia
+author:Digimind|pms-id:asm13/1k_intro/197|title:Entering the Grid
+author:Hymy|pms-id:asm13/1k_intro/243|title:Inconsistency
+author:Shadikka|pms-id:asm13/1k_intro/256|title:Blues Tutorial
+author:BooZombies|pms-id:asm13/1k_intro/274|title:Headache
+author:kronik|pms-id:asm13/1k_intro/275|title:The end of time and space
+author:Traction + Fit|pms-id:asm13/1k_intro/276|title:Tendrils
 
 
 :section Oldskool demo
@@ -50,6 +93,17 @@ author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pink
 :ongoing true
 :public false
 
+author:Pistoke|pms-id:asm13/short_film/33|title:Supeur Dupeur
+author:Team FATBON co.|pms-id:asm13/short_film/84|title:Fatman & Robon
+author:Team Dies Hard|pms-id:asm13/short_film/97|title:Old Habits Die Hard
+author:Team In the deep|pms-id:asm13/short_film/113|title:in the deep
+author:Rayhouse Productions|pms-id:asm13/short_film/184|title:NeoDimension
+author:S-BAD HOBO|pms-id:asm13/short_film/289|title:"Lights, Camera, No Action!"
+author:No credits, please insert a coin!|pms-id:asm13/short_film/293|title:We are the Superheroes
+author:Tekotuotanto|pms-id:asm13/short_film/295|title:Doomsday Device
+author:inDigiNeous & Hystereo Psychovsky|pms-id:asm13/short_film/302|title:Mission: Earth
+author:SBA|pms-id:asm13/short_film/304|title:Actionman gets no action
+author:emme, Molli|pms-id:asm13/short_film/306|title:No Connection
 
 
 :section Gamedev
