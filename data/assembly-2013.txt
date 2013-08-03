@@ -19,18 +19,17 @@ author:adapt|pms-id:asm13/demo/308|title:refleXion
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public false
 
-author:Kewlers|media:/vod/2013/Compos/1656_Realwild_Spongiforma_Squarepantsii_by_Kewlers.mp4|pms-id:asm13/real_wild/147|title:Spongiforma Squarepantsii|youtube:2NriueWcpIM
-author:elite ninjas inc.|media:/vod/2013/Compos/1657_Realwild_MCMC_by_elite_ninjas.mp4|pms-id:asm13/real_wild/278|title:MCMC|youtube:2tdp_1yWbdA
-author:Paradise & Planet Earth|media:/vod/2013/Compos/1658_Realwild_Tau_ceti_by_Paradise_and_Planet_Earth.mp4|pms-id:asm13/real_wild/280|title:Tau-Ceti|youtube:KD2p1bUrhjw
-author:npli|media:/vod/2013/Compos/1659_Realwild_Der_Rechner_by_npli.mp4|pms-id:asm13/real_wild/288|title:Der Rechner|youtube:lW8otvA9rgU
-author:hedelmae|media:/vod/2013/Compos/1660_Realwild_LCD_megademo2_by_hedelmae.mp4|pms-id:asm13/real_wild/290|title:LCD megademo 2|youtube:nxFad7Rxw7Q
-author:hedelmae|media:/vod/2013/Compos/1661_Realwild_Routavaurio_by_hedelmae.mp4|pms-id:asm13/real_wild/291|title:Routavaurio|youtube:zWwiDq6_NWw
-author:sooda|media:/vod/2013/Compos/1662_Realwild_next_train_takes_no_passengers_by_sooda.mp4|pms-id:asm13/real_wild/294|title:next train takes no passengers|youtube:XCO1I3zSwps
-author:Limba|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose.mp4|pms-id:asm13/real_wild/297|title:Beast didn't got lose|youtube:v4SunnYzmmM
-author:hedelmae|media:/vod/2013/Compos/1664_RealWild_Bad_Hair_Decade_by_hedelmae.mp4|pms-id:asm13/real_wild/298|title:Bad Hair Decade|youtube:CGbarYIEBDo
-author:Wide Load|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_by_Wide_Load.mp4|pms-id:asm13/real_wild/305|title:Out of Brownies|youtube:4BCzFoWzfeA
+author:Kewlers|guid:1656|media:/vod/2013/Compos/1656_Realwild_Spongiforma_Squarepantsii_by_Kewlers.mp4|pms-id:asm13/real_wild/147|title:Spongiforma Squarepantsii|youtube:2NriueWcpIM
+author:elite ninjas inc.|guid:1657|media:/vod/2013/Compos/1657_Realwild_MCMC_by_elite_ninjas.mp4|pms-id:asm13/real_wild/278|title:MCMC|youtube:2tdp_1yWbdA
+author:Paradise & Planet Earth|guid:1658|media:/vod/2013/Compos/1658_Realwild_Tau_ceti_by_Paradise_and_Planet_Earth.mp4|pms-id:asm13/real_wild/280|title:Tau-Ceti|youtube:KD2p1bUrhjw
+author:npli|guid:1659|media:/vod/2013/Compos/1659_Realwild_Der_Rechner_by_npli.mp4|pms-id:asm13/real_wild/288|title:Der Rechner|youtube:lW8otvA9rgU
+author:hedelmae|guid:1660|media:/vod/2013/Compos/1660_Realwild_LCD_megademo2_by_hedelmae.mp4|pms-id:asm13/real_wild/290|title:LCD megademo 2|youtube:nxFad7Rxw7Q
+author:hedelmae|guid:1661|media:/vod/2013/Compos/1661_Realwild_Routavaurio_by_hedelmae.mp4|pms-id:asm13/real_wild/291|title:Routavaurio|youtube:zWwiDq6_NWw
+author:sooda|guid:1662|media:/vod/2013/Compos/1662_Realwild_next_train_takes_no_passengers_by_sooda.mp4|pms-id:asm13/real_wild/294|title:next train takes no passengers|youtube:XCO1I3zSwps
+author:Limba|guid:1663|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose.mp4|pms-id:asm13/real_wild/297|title:Beast didn't got lose|youtube:v4SunnYzmmM
+author:hedelmae|guid:1664|media:/vod/2013/Compos/1664_RealWild_Bad_Hair_Decade_by_hedelmae.mp4|pms-id:asm13/real_wild/298|title:Bad Hair Decade|youtube:CGbarYIEBDo
+author:Wide Load|guid:1665|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_by_Wide_Load.mp4|pms-id:asm13/real_wild/305|title:Out of Brownies|youtube:4BCzFoWzfeA
 
 
 :section 4k intro
@@ -91,16 +90,16 @@ author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pink
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
 
-author:Pistoke|media:/vod/2013/Compos/1643_Shortfilm_Supeur_Dupeur_by_Pistoke.mp4|pms-id:asm13/short_film/33|title:Supeur Dupeur|video-file:short-film/supeur_dupeur_by_pistoke_v2.mp4|youtube:zNSGLvPzUKI
-author:Team FATBON co.|media:/vod/2013/Compos/1644_Shortfilm_Fatman_and_Robon_by_Team_FATBON.mp4|pms-id:asm13/short_film/84|title:Fatman & Robon|video-file:short-film/fatman_&_robon_by_team_fatbon_co._v1.mp4|youtube:zLnX-Bw9NM0
-author:Team Dies Hard|media:/vod/2013/Compos/1645_Shortfilm_Old_Habits_Die_Hard_by_Team_Dies_Hard.mp4|pms-id:asm13/short_film/97|title:Old Habits Die Hard|video-file:short-film/old_habits_die_hard_by_team_dies_hard_v1.mp4|youtube:7w89URhnRGk
-author:Team In the deep|media:/vod/2013/Compos/1646_Shortfilm_In_the_deep_by_Team_in_the_deep.mp4|pms-id:asm13/short_film/113|title:in the deep|video-file:short-film/in_the_deep_by_team_in_the_deep_v1.mp4|youtube:nChSvRuyHSY
-author:Rayhouse Productions|media:/vod/2013/Compos/1647_Shortfilm_NeoDimension_by_Rayhouse_Productions.mp4|pms-id:asm13/short_film/184|title:NeoDimension|video-file:short-film/neodimension_by_rayhouse_productions_v2.mp4|youtube:ZdsDV5rNLxU
+author:Pistoke|guid:1643|media:/vod/2013/Compos/1643_Shortfilm_Supeur_Dupeur_by_Pistoke.mp4|pms-id:asm13/short_film/33|title:Supeur Dupeur|video-file:short-film/supeur_dupeur_by_pistoke_v2.mp4|youtube:zNSGLvPzUKI
+author:Team FATBON co.|guid:1644|media:/vod/2013/Compos/1644_Shortfilm_Fatman_and_Robon_by_Team_FATBON.mp4|pms-id:asm13/short_film/84|title:Fatman & Robon|video-file:short-film/fatman_&_robon_by_team_fatbon_co._v1.mp4|youtube:zLnX-Bw9NM0
+author:Team Dies Hard|guid:1645|media:/vod/2013/Compos/1645_Shortfilm_Old_Habits_Die_Hard_by_Team_Dies_Hard.mp4|pms-id:asm13/short_film/97|title:Old Habits Die Hard|video-file:short-film/old_habits_die_hard_by_team_dies_hard_v1.mp4|youtube:7w89URhnRGk
+author:Team In the deep|guid:1646|media:/vod/2013/Compos/1646_Shortfilm_In_the_deep_by_Team_in_the_deep.mp4|pms-id:asm13/short_film/113|title:in the deep|video-file:short-film/in_the_deep_by_team_in_the_deep_v1.mp4|youtube:nChSvRuyHSY
+author:Rayhouse Productions|guid:1647|media:/vod/2013/Compos/1647_Shortfilm_NeoDimension_by_Rayhouse_Productions.mp4|pms-id:asm13/short_film/184|title:NeoDimension|video-file:short-film/neodimension_by_rayhouse_productions_v2.mp4|youtube:ZdsDV5rNLxU
 author:S-BAD HOBO|guid:1648|media:/vod/2013/Compos/1648_Shortfilm_Light_camera_no_action_by_S-BAD_HOBO.mp4|pms-id:asm13/short_film/289|title:"Lights, Camera, No Action!"|youtube:kTBAHAqxRSQ
-author:No credits, please insert a coin!|media:/vod/2013/Compos/1649_Shortfilm_We_are_the_Superheroes_by_No_credits.mp4|pms-id:asm13/short_film/293|title:We are the Superheroes|video-file:short-film/we_are_the_superheroes_by_no_credits___please_insert_a_coin_v4.mp4|youtube:giogKGl_zC0
-author:Tekotuotanto|media:/vod/2013/Compos/1650_Shortfilm_Doomsday_Device_by_Tekotuotanto.mp4|pms-id:asm13/short_film/295|title:Doomsday Device|video-file:short-film/doomsday_device_by_tekotuotanto_v2.mp4|youtube:YvJ4AmHnZIc
-author:inDigiNeous & Hystereo Psychovsky|media:/vod/2013/Compos/1651_Shortfilm_Mission_Earth_by_inDigiNeous_and_Hystereo_Psychocsky.mp4|pms-id:asm13/short_film/302|title:Mission: Earth|video-file:short-film/mission:_earth_by_indigineous_&_hystereo_psychovsky_v3.mp4|youtube:5rSSjHOxa6g
-author:SBA|media:/vod/2013/Compos/1652_Shortfilm_Actionman_gets_no_action_by_SBA.mp4|pms-id:asm13/short_film/304|title:Actionman gets no action|video-file:short-film/actionman_gets_no_action_by_sba_v2.mp4|youtube:NToVTgQdCPI
+author:No credits, please insert a coin!|guid:1649|media:/vod/2013/Compos/1649_Shortfilm_We_are_the_Superheroes_by_No_credits.mp4|pms-id:asm13/short_film/293|title:We are the Superheroes|video-file:short-film/we_are_the_superheroes_by_no_credits___please_insert_a_coin_v4.mp4|youtube:giogKGl_zC0
+author:Tekotuotanto|guid:1650|media:/vod/2013/Compos/1650_Shortfilm_Doomsday_Device_by_Tekotuotanto.mp4|pms-id:asm13/short_film/295|title:Doomsday Device|video-file:short-film/doomsday_device_by_tekotuotanto_v2.mp4|youtube:YvJ4AmHnZIc
+author:inDigiNeous & Hystereo Psychovsky|guid:1651|media:/vod/2013/Compos/1651_Shortfilm_Mission_Earth_by_inDigiNeous_and_Hystereo_Psychocsky.mp4|pms-id:asm13/short_film/302|title:Mission: Earth|video-file:short-film/mission:_earth_by_indigineous_&_hystereo_psychovsky_v3.mp4|youtube:5rSSjHOxa6g
+author:SBA|guid:1652|media:/vod/2013/Compos/1652_Shortfilm_Actionman_gets_no_action_by_SBA.mp4|pms-id:asm13/short_film/304|title:Actionman gets no action|video-file:short-film/actionman_gets_no_action_by_sba_v2.mp4|youtube:NToVTgQdCPI
 author:emme, Molli|pms-id:asm13/short_film/306|title:No Connection|video-file:short-film/no_connection_by_emme___molli_v2.mp4|youtube:h7H_HaiSwGQ
 
 
