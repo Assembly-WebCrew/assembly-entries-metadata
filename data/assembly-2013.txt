@@ -4,15 +4,14 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2013 PC computer.</p>
 :ongoing true
-:public false
 
-author:bilotrip|pms-id:asm13/demo/81|title:majestic twelve
+author:bilotrip|guid:1679|media:/vod/2013/Compos/1679_Demo_majestic_twelve_by_bilotrip.mp4|pms-id:asm13/demo/81|title:majestic twelve|youtube:xH-2GLgNTYU
 author:KoomaPiste|guid:1680|media:/vod/2013/Compos/1680_Demo_BMMWBLA_by_KoomaPiste.mp4|pms-id:asm13/demo/94|title:BMMWBLA|youtube:lf-NlRxjsf8
-author:Division|pms-id:asm13/demo/287|title:Ignition
-author:Pants^2|pms-id:asm13/demo/299|title:Silmänsisäinen alkemistini
-author:Pyrotech|pms-id:asm13/demo/301|title:Return
-author:Peisik & Royal Elite Ninjas|pms-id:asm13/demo/307|title:staring through
-author:adapt|pms-id:asm13/demo/308|title:refleXion
+author:Division|guid:1681|media:/vod/2013/Compos/1681_Demo_Ignition_by_Division.mp4|pms-id:asm13/demo/287|title:Ignition|youtube:NCFt6zxEIAE
+author:Pants^2|guid:1682|media:/vod/2013/Compos/1682_Demo_Silmansisainen_alkemistini_by_PantsPants.mp4|pms-id:asm13/demo/299|title:Silmänsisäinen alkemistini|youtube:OtNOpW1T-4U
+author:Pyrotech|guid:1683|media:/vod/2013/Compos/1683_Demo_Return_by_Pyrotech.mp4|pms-id:asm13/demo/301|title:Return|youtube:2GQ0tjesOYk
+author:Peisik & Royal Elite Ninjas|guid:1684|media:/vod/2013/Compos/1684_Demo_staring_through_by_Peisik_and_Royal_Elite_Ninjas.mp4|pms-id:asm13/demo/307|title:staring through|youtube:H5c2COYZsGc
+author:adapt|guid:1685|media:/vod/2013/Compos/1685_Demo_refleXion_by_adapt.mp4|pms-id:asm13/demo/308|title:refleXion|youtube:77EMaj0da88
 
 
 :section Real wild demo
@@ -36,7 +35,6 @@ author:Wide Load|guid:1665|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public false
 
 author:Blobtrox|guid:1666|media:/vod/2013/Compos/1666_4k_Heartfelt_by_Blobtrox.mp4|pms-id:asm13/4k_intro/34|title:Heartfelt|youtube:XHTctPtrxfg
 author:HBC|guid:1667|media:/vod/2013/Compos/1667_4k_Highway_4k_by_HBC.mp4|pms-id:asm13/4k_intro/43|title:Highway 4k|youtube:mQFjReMd2us
