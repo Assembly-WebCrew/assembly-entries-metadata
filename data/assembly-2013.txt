@@ -7,7 +7,7 @@
 :public false
 
 author:bilotrip|pms-id:asm13/demo/81|title:majestic twelve
-author:KoomaPiste|pms-id:asm13/demo/94|title:BMMWBLA
+author:KoomaPiste|guid:1680|media:/vod/2013/Compos/1680_Demo_BMMWBLA_by_KoomaPiste.mp4|pms-id:asm13/demo/94|title:BMMWBLA|youtube:lf-NlRxjsf8
 author:Division|pms-id:asm13/demo/287|title:Ignition
 author:Pants^2|pms-id:asm13/demo/299|title:Silmänsisäinen alkemistini
 author:Pyrotech|pms-id:asm13/demo/301|title:Return
@@ -38,19 +38,19 @@ author:Wide Load|guid:1665|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_
 :ongoing true
 :public false
 
-author:Blobtrox|pms-id:asm13/4k_intro/34|title:Heartfelt
-author:HBC|pms-id:asm13/4k_intro/43|title:Highway 4k
-author:XZM|pms-id:asm13/4k_intro/48|title:Cubetronic
-author:Faemiyah|pms-id:asm13/4k_intro/90|title:Yog-Sothoth
-author:lucid|pms-id:asm13/4k_intro/118|title:L-Spline Abstrakt
-author:Peisik|pms-id:asm13/4k_intro/123|title:faet
-author:Digimind & Keen|pms-id:asm13/4k_intro/281|title:Flood Rain
-author:Silent & Digimind|pms-id:asm13/4k_intro/283|title:Star Dancer
-author:Rustbloom|pms-id:asm13/4k_intro/284|title:Prunus Mykiss
-author:Ananasmurska|pms-id:asm13/4k_intro/292|title:Haldol
-author:qma|pms-id:asm13/4k_intro/296|title:Work of Hearts
-author:g012 & p0ke / Flush|pms-id:asm13/4k_intro/300|title:Planet DTT
-author:oo|pms-id:asm13/4k_intro/303|title:decoloring darkness
+author:Blobtrox|guid:1666|media:/vod/2013/Compos/1666_4k_Heartfelt_by_Blobtrox.mp4|pms-id:asm13/4k_intro/34|title:Heartfelt|youtube:XHTctPtrxfg
+author:HBC|guid:1667|media:/vod/2013/Compos/1667_4k_Highway_4k_by_HBC.mp4|pms-id:asm13/4k_intro/43|title:Highway 4k|youtube:mQFjReMd2us
+author:XZM|guid:1668|media:/vod/2013/Compos/1668_4k_Cubetronic_by_XZM.mp4|pms-id:asm13/4k_intro/48|title:Cubetronic|youtube:UmjMO1aABlM
+author:Faemiyah|guid:1669|media:/vod/2013/Compos/1669_4k_Yog-Sothoth_by_Faemiyah.mp4|pms-id:asm13/4k_intro/90|title:Yog-Sothoth|youtube:hibw4A8qLCE
+author:lucid|guid:1670|media:/vod/2013/Compos/1670_4k_L-Spline_Abstrack_by_lucid.mp4|pms-id:asm13/4k_intro/118|title:L-Spline Abstrakt|youtube:M5EMjrZFLe0
+author:Peisik|guid:1671|media:/vod/2013/Compos/1671_4k_faet_by_Peisik.mp4|pms-id:asm13/4k_intro/123|title:faet|youtube:HxZBECayX8Y
+author:Digimind & Keen|guid:1672|media:/vod/2013/Compos/1672_4k_Flood_Rain_by_Digimind_and_Keen.mp4|pms-id:asm13/4k_intro/281|title:Flood Rain|youtube:6TI8tnafS6E
+author:Silent & Digimind|guid:1673|media:/vod/2013/Compos/1673_4k_Star_Dancer_by_Silent_and_Digimind.mp4|pms-id:asm13/4k_intro/283|title:Star Dancer|youtube:cKqtp4IEisE
+author:Rustbloom|guid:1674|media:/vod/2013/Compos/1674_4k_Prunus_Mykiss_by_Rustbloom.mp4|pms-id:asm13/4k_intro/284|title:Prunus Mykiss|youtube:usGosIpFRBM
+author:Ananasmurska|guid:1675|media:/vod/2013/Compos/1675_4k_Haldol_by_Ananasmurska.mp4|pms-id:asm13/4k_intro/292|title:Haldol|youtube:4GJHQBiZcyk
+author:qma|guid:1676|media:/vod/2013/Compos/1676_4k_Work_of_Hearts_by_qma.mp4|pms-id:asm13/4k_intro/296|title:Work of Hearts|youtube:_JvKINBAEuI
+author:g012 & p0ke / Flush|guid:1677|media:/vod/2013/Compos/1677_4k_Planet_DTT_by_g012_and_p0ke_Flush.mp4|pms-id:asm13/4k_intro/300|title:Planet DTT|youtube:QY_x5BEmGg8
+author:oo|guid:1678|media:/vod/2013/Compos/1678_4k_decoloring_darkness_by_oo.mp4|pms-id:asm13/4k_intro/303|title:decoloring darkness|youtube:1HZYEA9IqZ4
 
 
 :section 1k intro
