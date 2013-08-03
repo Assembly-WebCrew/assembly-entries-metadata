@@ -37,11 +37,11 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
 
-author:Dekadence|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow|youtube:oGcsGC9vPho
-author:Skrolli|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty|youtube:iW-QWIX-hpA
-author:Gasman / Hooy-Program|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
-author:Traktor and Nature|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation|youtube:D0bI_YDlfY8
-author:BooZombies|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls|youtube:_VjGPWqaLTM
+author:Dekadence|guid:1616|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow|youtube:oGcsGC9vPho
+author:Skrolli|guid:1617|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty|youtube:iW-QWIX-hpA
+author:Gasman / Hooy-Program|guid:1618|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
+author:Traktor and Nature|guid:1619|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation|youtube:D0bI_YDlfY8
+author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls|youtube:_VjGPWqaLTM
 
 
 :section Short film
@@ -138,6 +138,7 @@ author:(author hidden until results)|pms-id:asm13/dance_music/213|title:Golden S
 author:(author hidden until results)|pms-id:asm13/dance_music/215|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi|youtube:pNi7Wkzh_n4
 author:(author hidden until results)|pms-id:asm13/dance_music/219|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi|youtube:XixifSomXQQ
 
+
 :section Listening music
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -193,6 +194,7 @@ author:(author hidden until results)|pms-id:asm13/fast_music/190|title:melkein m
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
+author:AssemblyTV|guid:1607|media:/vod/2013/AssemblyTV/1607_Late_night_snack_with_Thoron.mp4|title:Late night snack with Thoron (valkosipulilla)|youtube:q1UaTZnyNfo
 
 
 :section Winter

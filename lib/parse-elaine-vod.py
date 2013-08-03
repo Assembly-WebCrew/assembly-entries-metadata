@@ -18,6 +18,7 @@ args.asmdatafile.close()
 
 items = doc.getElementsByTagName("item")
 
+
 def get_languaged_tag(item, tagname):
     nodes = item.getElementsByTagName(tagname)
     values = {}
@@ -28,6 +29,7 @@ def get_languaged_tag(item, tagname):
         language = node.getAttribute("xml:lang")
         values[language] = value
     return values
+
 
 def get_entry(guid, section):
     for entry in section['entries']:
@@ -109,8 +111,8 @@ for item in items:
             entry_data['media'] = url
             entry_data['guid'] =  guid
 
+
 temporary_output = tempfile.NamedTemporaryFile(delete=False)
 asmmetadata.print_metadata(temporary_output, event_data)
 temporary_output.close()
 shutil.copy(temporary_output.name, metadata_filename)
-
