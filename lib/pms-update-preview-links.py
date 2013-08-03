@@ -47,6 +47,7 @@ for pms_entry in pms_entries_data:
 
     if not preview_link:
         preview_link = ''
+        print "NO PREVIEW %s %s" % (pms_entry['id'], pms_entry['title'])
 
     if pms_entry.get('preview', '') != preview_link:
         compodata.update_entry_preview(

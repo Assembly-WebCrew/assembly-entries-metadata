@@ -58,21 +58,20 @@ author:oo|pms-id:asm13/4k_intro/303|title:decoloring darkness
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public false
 
-author:Bercon/HBC|media:/vod/2013/Compos/1627_1k_Kornell_Box_by_Bercon_and_HBC.mp4|pms-id:asm13/1k_intro/38|title:Kornell Box|youtube:anQHH_WoemE
-author:p01 / ribbon|media:/vod/2013/Compos/1628_1k_Andes_by_p01_and_ribbon.mp4|pms-id:asm13/1k_intro/41|title:Andes|youtube:wBkIF9Uq1FE
-author:TDA|media:/vod/2013/Compos/1629_1k_Remnant_by_TDA.mp4|pms-id:asm13/1k_intro/49|title:Remnant|youtube:skgb88RrDlE
-author:oo|media:/vod/2013/Compos/1630_1k_Painthing_by_oo.mp4|pms-id:asm13/1k_intro/53|title:Painthing|youtube:mD0HRI2dbf8
-author:npli|media:/vod/2013/Compos/1631_1k_Vihtori-Matti_by_npli.mp4|pms-id:asm13/1k_intro/70|title:Vihtori-Matti|youtube:Ra3N3t0FPRg
-author:Below Absolute Zero|media:/vod/2013/Compos/1632_1k_Bioterrorism_by_Below_Absolute_Zero.mp4|pms-id:asm13/1k_intro/126|title:Bioterrorism|youtube:S88ZbqfLXb8
-author:Fulcrum|media:/vod/2013/Compos/1633_1k_Dystaxia_by_Fulcrum.mp4|pms-id:asm13/1k_intro/164|title:Dystaxia|youtube:84Qu0IBT0_M
-author:Digimind|media:/vod/2013/Compos/1634_1k_Entering_the_Grid_by_Digimind.mp4|pms-id:asm13/1k_intro/197|title:Entering the Grid|youtube:bfHvzVAn51E
-author:Hymy|pms-id:asm13/1k_intro/243|title:Inconsistency
-author:Shadikka|media:/vod/2013/Compos/1636_1k_Blues_Tutorial_by_Shadikka.mp4|pms-id:asm13/1k_intro/256|title:Blues Tutorial|youtube:o8dzJ4Tu8WI
-author:BooZombies|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombies.mp4|pms-id:asm13/1k_intro/274|title:Headache|youtube:fBRxWXN1CfU
-author:kronik|media:/vod/2013/Compos/1638_1k_The_end_of_time_and_space_by_kronik.mp4|pms-id:asm13/1k_intro/275|title:The end of time and space|youtube:-4ZF_IeGnVA
-author:Traction + Fit|media:/vod/2013/Compos/1639_1k_Tendrils_by_Traction_and_Fit.mp4|pms-id:asm13/1k_intro/276|title:Tendrils|youtube:2vTzI8Wu_VM
+author:Bercon/HBC|guid:1627|media:/vod/2013/Compos/1627_1k_Kornell_Box_by_Bercon_and_HBC.mp4|pms-id:asm13/1k_intro/38|title:Kornell Box|youtube:anQHH_WoemE
+author:p01 / ribbon|guid:1628|media:/vod/2013/Compos/1628_1k_Andes_by_p01_and_ribbon.mp4|pms-id:asm13/1k_intro/41|title:Andes|youtube:wBkIF9Uq1FE
+author:TDA|guid:1629|media:/vod/2013/Compos/1629_1k_Remnant_by_TDA.mp4|pms-id:asm13/1k_intro/49|title:Remnant|youtube:skgb88RrDlE
+author:oo|guid:1630|media:/vod/2013/Compos/1630_1k_Painthing_by_oo.mp4|pms-id:asm13/1k_intro/53|title:Painthing|youtube:mD0HRI2dbf8
+author:npli|guid:1631|media:/vod/2013/Compos/1631_1k_Vihtori-Matti_by_npli.mp4|pms-id:asm13/1k_intro/70|title:Vihtori-Matti|youtube:Ra3N3t0FPRg
+author:Below Absolute Zero|guid:1632|media:/vod/2013/Compos/1632_1k_Bioterrorism_by_Below_Absolute_Zero.mp4|pms-id:asm13/1k_intro/126|title:Bioterrorism|youtube:S88ZbqfLXb8
+author:Fulcrum|guid:1633|media:/vod/2013/Compos/1633_1k_Dystaxia_by_Fulcrum.mp4|pms-id:asm13/1k_intro/164|title:Dystaxia|youtube:84Qu0IBT0_M
+author:Digimind|guid:1634|media:/vod/2013/Compos/1634_1k_Entering_the_Grid_by_Digimind.mp4|pms-id:asm13/1k_intro/197|title:Entering the Grid|youtube:bfHvzVAn51E
+author:Hymy|media:/vod/2013/Compos/1635_1k_Inconsistency_by_Hymy.mp4|pms-id:asm13/1k_intro/243|title:Inconsistency|youtube:oLCTDbovrnQ
+author:Shadikka|guid:1636|media:/vod/2013/Compos/1636_1k_Blues_Tutorial_by_Shadikka.mp4|pms-id:asm13/1k_intro/256|title:Blues Tutorial|youtube:o8dzJ4Tu8WI
+author:BooZombies|guid:1637|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombies.mp4|pms-id:asm13/1k_intro/274|title:Headache|youtube:fBRxWXN1CfU
+author:kronik|guid:1638|media:/vod/2013/Compos/1638_1k_The_end_of_time_and_space_by_kronik.mp4|pms-id:asm13/1k_intro/275|title:The end of time and space|youtube:-4ZF_IeGnVA
+author:Traction + Fit|guid:1639|media:/vod/2013/Compos/1639_1k_Tendrils_by_Traction_and_Fit.mp4|pms-id:asm13/1k_intro/276|title:Tendrils|youtube:2vTzI8Wu_VM
 
 
 :section Oldskool demo
