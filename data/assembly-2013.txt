@@ -1,6 +1,7 @@
 :year 2013
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFOb2UoJD6Y4TyJEsmJj4D9Q
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2013 PC computer.</p>
 
@@ -14,6 +15,7 @@ author:Pants^2|guid:1682|media:/vod/2013/Compos/1682_Demo_Silmansisainen_alkemis
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFM24fC-urf9ohM14Q0-B1Sw
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
@@ -30,6 +32,7 @@ author:Limba|guid:1663|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFNYhxLPdodJJr3f9tAb_D2p
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
@@ -49,6 +52,7 @@ author:g012 & p0ke / Flush|guid:1677|media:/vod/2013/Compos/1677_4k_Planet_DTT_b
 
 
 :section 1k intro
+:youtube-playlist PLJO4AtxKJiFOaMSsK3DtH1MzhKKsbXtca
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
@@ -68,6 +72,7 @@ author:BooZombies|guid:1637|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombie
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFM2e4Fvoxq0AI6eGgpEbWtY
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
@@ -79,6 +84,7 @@ author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pink
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFMES5AfgbquhRiUbNEhJJ83
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
@@ -96,6 +102,7 @@ author:inDigiNeous & Hystereo Psychovsky|guid:1651|media:/vod/2013/Compos/1651_S
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFPkxbwjF5FLO9UlsagS4I3a
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -161,6 +168,7 @@ author:PastelDonut|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|platf
 
 
 :section Dance music
+:youtube-playlist PLJO4AtxKJiFNq5p9Z6TG9JyBlUQUY_oO-
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
@@ -179,6 +187,7 @@ author:Yagura|platform:MP3/PC|pms-id:asm13/dance_music/42|position:12|techniques
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFOddOg43I2fv_MUnyHgKvwb
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
@@ -198,6 +207,7 @@ author:noby^ren|platform:PC|pms-id:asm13/listening_music/198|position:13|techniq
 
 
 :section Fast music
+:youtube-playlist PLJO4AtxKJiFMefRAQM5uSrYaK5n5_1L00
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -229,6 +239,7 @@ author:FruitieX|platform:PC|pms-id:asm13/fast_music/148|position:21|techniques:r
 
 
 :section AssemblyTV
+:youtube-playlist PLJO4AtxKJiFNR8dVRXai4qgeW5AxcbsuO
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|guid:1607|media:/vod/2013/AssemblyTV/1607_Late_night_snack_with_Thoron.mp4|title:Late night snack with Thoron (valkosipulilla)|youtube:q1UaTZnyNfo

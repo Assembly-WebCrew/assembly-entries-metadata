@@ -7,13 +7,15 @@ import sys
 import time
 import urlparse
 
+
 def has_youtube_entries(section):
     for entry in section['entries']:
         if 'youtube' in entry:
             return True
     return False
 
-def create_playlist(entry_data, section):
+
+def create_playlist(yt_service, entry_data, section):
     playlist_title = "%s %s" % (
         asmmetadata.get_party_name(entry_data.year, section['name']),
         asmmetadata.get_long_section_name(section['name'])
@@ -29,6 +31,7 @@ def create_playlist(entry_data, section):
         return playlist_id
     return None
 
+
 def update_youtube_playlists(yt_service, entry_data):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
@@ -38,7 +41,8 @@ def update_youtube_playlists(yt_service, entry_data):
             if not has_youtube_entries(section):
                 continue
             print "Creating playlist"
-            section['youtube-playlist'] = create_playlist(entry_data, section)
+            section['youtube-playlist'] = create_playlist(
+                yt_service, entry_data, section)
             time.sleep(5)
 
         playlist_video_feed = yt_service.GetYouTubePlaylistVideoFeed(
@@ -113,8 +117,8 @@ def main(args=sys.argv):
         update_youtube_playlists(yt_service, entry_data)
     except KeyboardInterrupt:
         print "Interrupted"
-    except:
-        print "EXCEPTION Unknown exception happened"
+    except Exception, e:
+        print "EXCEPTION Unknown exception happened: %s" % e.message
 
     fp = open(args.datafile, "wb")
     asmmetadata.print_metadata(fp, entry_data)
