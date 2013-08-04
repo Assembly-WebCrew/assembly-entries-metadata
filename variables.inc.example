@@ -1,12 +1,14 @@
 YEAR=2013
-ENTRY_ROOT="$HOME"/scratch/assembly-entries-metadata
+DATAROOT="$HOME"/scratch/assembly-entries-metadata
 SCRIPTDIR="$ENTRY_ROOT"/lib
 DATAFILE="$ENTRY_ROOT"/data/assembly-"$YEAR".txt
 OUTFILE=/tmp/assembly-"$YEAR".xml
 
 FILES_ROOT="$HOME"/scratch/assembly-"$YEAR"
-MEDIA_VOD_DIRECTORY=/media/media.assembly.org
+FILES_MAO=/media/media.assembly.org
 
+YOUTUBE_UPLOAD_OPTIONS=""
+#YOUTUBE_UPLOAD_OPTIONS="--unlisted"
 YOUTUBE_DEVELOPER_KEY=
 YOUTUBE_USER=
 YOUTUBE_EMAIL=
@@ -21,4 +23,9 @@ WEB_UPLOAD_PAGE=http://localhost:8081/archive/@@import
 WEB_UPLOAD_ACCOUNT=admin
 WEB_UPLOAD_PASSWORD=admin
 
-PYTHON=bin/python
+ELAINE_VODS=vods.xml
+ELAINE_PMS_VODLIST=vodlist
+
+MUSIC_BACKGROUND="$FILES_ROOT"/music-background-assembly-"$YEAR".png
+
+PYTHON=python
