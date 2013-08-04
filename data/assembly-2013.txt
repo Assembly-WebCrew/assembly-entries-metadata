@@ -3,237 +3,225 @@
 :section Demo
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2013 PC computer.</p>
-:ongoing true
 
-author:bilotrip|guid:1679|media:/vod/2013/Compos/1679_Demo_majestic_twelve_by_bilotrip.mp4|pms-id:asm13/demo/81|title:majestic twelve|youtube:xH-2GLgNTYU
-author:KoomaPiste|guid:1680|media:/vod/2013/Compos/1680_Demo_BMMWBLA_by_KoomaPiste.mp4|pms-id:asm13/demo/94|title:BMMWBLA|youtube:lf-NlRxjsf8
-author:Division|guid:1681|media:/vod/2013/Compos/1681_Demo_Ignition_by_Division.mp4|pms-id:asm13/demo/287|title:Ignition|youtube:NCFt6zxEIAE
-author:Pants^2|guid:1682|media:/vod/2013/Compos/1682_Demo_Silmansisainen_alkemistini_by_PantsPants.mp4|pms-id:asm13/demo/299|title:Silmänsisäinen alkemistini|youtube:OtNOpW1T-4U
-author:Pyrotech|guid:1683|media:/vod/2013/Compos/1683_Demo_Return_by_Pyrotech.mp4|pms-id:asm13/demo/301|title:Return|youtube:2GQ0tjesOYk
-author:Peisik & Royal Elite Ninjas|guid:1684|media:/vod/2013/Compos/1684_Demo_staring_through_by_Peisik_and_Royal_Elite_Ninjas.mp4|pms-id:asm13/demo/307|title:staring through|youtube:H5c2COYZsGc
-author:adapt|guid:1685|media:/vod/2013/Compos/1685_Demo_refleXion_by_adapt.mp4|pms-id:asm13/demo/308|title:refleXion|youtube:77EMaj0da88
+author:Pyrotech|guid:1683|media:/vod/2013/Compos/1683_Demo_Return_by_Pyrotech.mp4|platform:Windows|pms-id:asm13/demo/301|position:1|techniques:Dx9|title:Return|youtube:2GQ0tjesOYk
+author:adapt|guid:1685|media:/vod/2013/Compos/1685_Demo_refleXion_by_adapt.mp4|platform:PC|pms-id:asm13/demo/308|position:2|techniques:triangle strippers club|title:refleXion|youtube:77EMaj0da88
+author:Division|guid:1681|media:/vod/2013/Compos/1681_Demo_Ignition_by_Division.mp4|platform:Windows|pms-id:asm13/demo/287|position:3|techniques:DX9|title:Ignition|youtube:NCFt6zxEIAE
+author:bilotrip|guid:1679|media:/vod/2013/Compos/1679_Demo_majestic_twelve_by_bilotrip.mp4|platform:windows / osx / linux|pms-id:asm13/demo/81|position:4|techniques:bilotrip's final production|title:majestic twelve|youtube:xH-2GLgNTYU
+author:Peisik & Royal Elite Ninjas|guid:1684|media:/vod/2013/Compos/1684_Demo_staring_through_by_Peisik_and_Royal_Elite_Ninjas.mp4|platform:PC|pms-id:asm13/demo/307|position:5|techniques:GL3.3|title:staring through|youtube:H5c2COYZsGc
+author:KoomaPiste|guid:1680|media:/vod/2013/Compos/1680_Demo_BMMWBLA_by_KoomaPiste.mp4|platform:Windowz|pms-id:asm13/demo/94|position:6|techniques:MMF2, DX9, Paint|title:BMMWBLA|youtube:lf-NlRxjsf8
+author:Pants^2|guid:1682|media:/vod/2013/Compos/1682_Demo_Silmansisainen_alkemistini_by_PantsPants.mp4|platform:Lambdalambdalambdalambda|pms-id:asm13/demo/299|position:7|techniques:Lisp|title:Silmänsisäinen alkemistini|youtube:OtNOpW1T-4U
 
 
 :section Real wild demo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
 
-author:Kewlers|guid:1656|media:/vod/2013/Compos/1656_Realwild_Spongiforma_Squarepantsii_by_Kewlers.mp4|pms-id:asm13/real_wild/147|title:Spongiforma Squarepantsii|youtube:2NriueWcpIM
-author:elite ninjas inc.|guid:1657|media:/vod/2013/Compos/1657_Realwild_MCMC_by_elite_ninjas.mp4|pms-id:asm13/real_wild/278|title:MCMC|youtube:2tdp_1yWbdA
-author:Paradise & Planet Earth|guid:1658|media:/vod/2013/Compos/1658_Realwild_Tau_ceti_by_Paradise_and_Planet_Earth.mp4|pms-id:asm13/real_wild/280|title:Tau-Ceti|youtube:KD2p1bUrhjw
-author:npli|guid:1659|media:/vod/2013/Compos/1659_Realwild_Der_Rechner_by_npli.mp4|pms-id:asm13/real_wild/288|title:Der Rechner|youtube:lW8otvA9rgU
-author:hedelmae|guid:1660|media:/vod/2013/Compos/1660_Realwild_LCD_megademo2_by_hedelmae.mp4|pms-id:asm13/real_wild/290|title:LCD megademo 2|youtube:nxFad7Rxw7Q
-author:hedelmae|guid:1661|media:/vod/2013/Compos/1661_Realwild_Routavaurio_by_hedelmae.mp4|pms-id:asm13/real_wild/291|title:Routavaurio|youtube:zWwiDq6_NWw
-author:sooda|guid:1662|media:/vod/2013/Compos/1662_Realwild_next_train_takes_no_passengers_by_sooda.mp4|pms-id:asm13/real_wild/294|title:next train takes no passengers|youtube:XCO1I3zSwps
-author:Limba|guid:1663|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose.mp4|pms-id:asm13/real_wild/297|title:Beast didn't got lose|youtube:v4SunnYzmmM
-author:hedelmae|guid:1664|media:/vod/2013/Compos/1664_RealWild_Bad_Hair_Decade_by_hedelmae.mp4|pms-id:asm13/real_wild/298|title:Bad Hair Decade|youtube:CGbarYIEBDo
-author:Wide Load|guid:1665|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_by_Wide_Load.mp4|pms-id:asm13/real_wild/305|title:Out of Brownies|youtube:4BCzFoWzfeA
+author:sooda|guid:1662|media:/vod/2013/Compos/1662_Realwild_next_train_takes_no_passengers_by_sooda.mp4|platform:Old Finnish metro station display|pms-id:asm13/real_wild/294|position:1|techniques:Atmel AVR, C, lots of reverse engineering|title:next train takes no passengers|youtube:XCO1I3zSwps
+author:hedelmae|guid:1660|media:/vod/2013/Compos/1660_Realwild_LCD_megademo2_by_hedelmae.mp4|platform:20x4 character LCD|pms-id:asm13/real_wild/290|position:2|title:LCD megademo 2|youtube:nxFad7Rxw7Q
+author:npli|guid:1659|media:/vod/2013/Compos/1659_Realwild_Der_Rechner_by_npli.mp4|platform:TI-89 Titanium|pms-id:asm13/real_wild/288|position:3|techniques:A68k|title:Der Rechner|youtube:lW8otvA9rgU
+author:hedelmae|guid:1661|media:/vod/2013/Compos/1661_Realwild_Routavaurio_by_hedelmae.mp4|platform:Android|pms-id:asm13/real_wild/291|position:4|title:Routavaurio|youtube:zWwiDq6_NWw
+author:Kewlers|guid:1656|media:/vod/2013/Compos/1656_Realwild_Spongiforma_Squarepantsii_by_Kewlers.mp4|platform:Android|pms-id:asm13/real_wild/147|position:5|techniques:Spikeballs... again|title:Spongiforma Squarepantsii|youtube:2NriueWcpIM
+author:elite ninjas inc.|guid:1657|media:/vod/2013/Compos/1657_Realwild_MCMC_by_elite_ninjas.mp4|platform:Nintendo DS|pms-id:asm13/real_wild/278|position:6|techniques:one mc, one delay|title:MCMC|youtube:2tdp_1yWbdA
+author:hedelmae|guid:1664|media:/vod/2013/Compos/1664_RealWild_Bad_Hair_Decade_by_hedelmae.mp4|platform:Raspberry Pi|pms-id:asm13/real_wild/298|position:7|title:Bad Hair Decade|youtube:CGbarYIEBDo
+author:Wide Load|guid:1665|media:/vod/2013/Compos/1665_Realwild_Out_of_Brownies_by_Wide_Load.mp4|platform:Browser|pms-id:asm13/real_wild/305|position:8|techniques:HTML5, Three.js, JQuery, Create.js|title:Out of Brownies|youtube:4BCzFoWzfeA
+author:Paradise & Planet Earth|guid:1658|media:/vod/2013/Compos/1658_Realwild_Tau_ceti_by_Paradise_and_Planet_Earth.mp4|platform:Chrome web browser |pms-id:asm13/real_wild/280|position:9|techniques:HTML5, WebGL, Javascript, Shaders|title:Tau-Ceti|youtube:KD2p1bUrhjw
+author:Limba|guid:1663|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose.mp4|platform:Zynq / Zedboard|pms-id:asm13/real_wild/297|position:10|techniques:C |title:Beast didn't got lose|youtube:v4SunnYzmmM
 
 
 :section 4k intro
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
 
-author:Blobtrox|guid:1666|media:/vod/2013/Compos/1666_4k_Heartfelt_by_Blobtrox.mp4|pms-id:asm13/4k_intro/34|title:Heartfelt|youtube:XHTctPtrxfg
-author:HBC|guid:1667|media:/vod/2013/Compos/1667_4k_Highway_4k_by_HBC.mp4|pms-id:asm13/4k_intro/43|title:Highway 4k|youtube:mQFjReMd2us
-author:XZM|guid:1668|media:/vod/2013/Compos/1668_4k_Cubetronic_by_XZM.mp4|pms-id:asm13/4k_intro/48|title:Cubetronic|youtube:UmjMO1aABlM
-author:Faemiyah|guid:1669|media:/vod/2013/Compos/1669_4k_Yog-Sothoth_by_Faemiyah.mp4|pms-id:asm13/4k_intro/90|title:Yog-Sothoth|youtube:hibw4A8qLCE
-author:lucid|guid:1670|media:/vod/2013/Compos/1670_4k_L-Spline_Abstrack_by_lucid.mp4|pms-id:asm13/4k_intro/118|title:L-Spline Abstrakt|youtube:M5EMjrZFLe0
-author:Peisik|guid:1671|media:/vod/2013/Compos/1671_4k_faet_by_Peisik.mp4|pms-id:asm13/4k_intro/123|title:faet|youtube:HxZBECayX8Y
-author:Digimind & Keen|guid:1672|media:/vod/2013/Compos/1672_4k_Flood_Rain_by_Digimind_and_Keen.mp4|pms-id:asm13/4k_intro/281|title:Flood Rain|youtube:6TI8tnafS6E
-author:Silent & Digimind|guid:1673|media:/vod/2013/Compos/1673_4k_Star_Dancer_by_Silent_and_Digimind.mp4|pms-id:asm13/4k_intro/283|title:Star Dancer|youtube:cKqtp4IEisE
-author:Rustbloom|guid:1674|media:/vod/2013/Compos/1674_4k_Prunus_Mykiss_by_Rustbloom.mp4|pms-id:asm13/4k_intro/284|title:Prunus Mykiss|youtube:usGosIpFRBM
-author:Ananasmurska|guid:1675|media:/vod/2013/Compos/1675_4k_Haldol_by_Ananasmurska.mp4|pms-id:asm13/4k_intro/292|title:Haldol|youtube:4GJHQBiZcyk
-author:qma|guid:1676|media:/vod/2013/Compos/1676_4k_Work_of_Hearts_by_qma.mp4|pms-id:asm13/4k_intro/296|title:Work of Hearts|youtube:_JvKINBAEuI
-author:g012 & p0ke / Flush|guid:1677|media:/vod/2013/Compos/1677_4k_Planet_DTT_by_g012_and_p0ke_Flush.mp4|pms-id:asm13/4k_intro/300|title:Planet DTT|youtube:QY_x5BEmGg8
-author:oo|guid:1678|media:/vod/2013/Compos/1678_4k_decoloring_darkness_by_oo.mp4|pms-id:asm13/4k_intro/303|title:decoloring darkness|youtube:1HZYEA9IqZ4
+author:HBC|guid:1667|media:/vod/2013/Compos/1667_4k_Highway_4k_by_HBC.mp4|platform:PC, Firefox|pms-id:asm13/4k_intro/43|position:1|techniques:html/javascript/webgl|title:Highway 4k|youtube:mQFjReMd2us
+author:Faemiyah|guid:1669|media:/vod/2013/Compos/1669_4k_Yog-Sothoth_by_Faemiyah.mp4|platform:FreeBSD-ia32|pms-id:asm13/4k_intro/90|position:2|techniques:C, OpenGL 3.3, SDL|title:Yog-Sothoth|youtube:hibw4A8qLCE
+author:XZM|guid:1668|media:/vod/2013/Compos/1668_4k_Cubetronic_by_XZM.mp4|platform:Windows|pms-id:asm13/4k_intro/48|position:3|techniques:DX11 compute shaders, crinkler, clinkster, shader minifier|title:Cubetronic|youtube:UmjMO1aABlM
+author:Peisik|guid:1671|media:/vod/2013/Compos/1671_4k_faet_by_Peisik.mp4|platform:PC|pms-id:asm13/4k_intro/123|position:4|techniques:4klang, Crinkler, shaders|title:faet|youtube:HxZBECayX8Y
+author:Blobtrox|guid:1666|media:/vod/2013/Compos/1666_4k_Heartfelt_by_Blobtrox.mp4|platform:Windows|pms-id:asm13/4k_intro/34|position:5|techniques:GLSL, 4klang, crinkler, shader minifier|title:Heartfelt|youtube:XHTctPtrxfg
+author:Rustbloom|guid:1674|media:/vod/2013/Compos/1674_4k_Prunus_Mykiss_by_Rustbloom.mp4|platform:Windows|pms-id:asm13/4k_intro/284|position:6|techniques:Visual Studio, Clinkster, Crinkler|title:Prunus Mykiss|youtube:usGosIpFRBM
+author:lucid|guid:1670|media:/vod/2013/Compos/1670_4k_L-Spline_Abstrack_by_lucid.mp4|platform:Microsoft Windows PC|pms-id:asm13/4k_intro/118|position:7|techniques:Crinkler, 4klang, OpenGL 2, Direct3D 9, C++, logo, glsl|title:L-Spline Abstrakt|youtube:M5EMjrZFLe0
+author:Digimind & Keen|guid:1672|media:/vod/2013/Compos/1672_4k_Flood_Rain_by_Digimind_and_Keen.mp4|platform:PC|pms-id:asm13/4k_intro/281|position:8|techniques:GLSL, Crinkler, 4klang|title:Flood Rain|youtube:6TI8tnafS6E
+author:qma|guid:1676|media:/vod/2013/Compos/1676_4k_Work_of_Hearts_by_qma.mp4|platform:Linux x86_64|pms-id:asm13/4k_intro/296|position:9|techniques:C, SDL, GLSL, synti2 softsynth (by me)|title:Work of Hearts|youtube:_JvKINBAEuI
+author:Silent & Digimind|guid:1673|media:/vod/2013/Compos/1673_4k_Star_Dancer_by_Silent_and_Digimind.mp4|platform:PC|pms-id:asm13/4k_intro/283|position:10|techniques:GLSL, Crinkler, Clinkster|title:Star Dancer|youtube:cKqtp4IEisE
+author:oo|guid:1678|media:/vod/2013/Compos/1678_4k_decoloring_darkness_by_oo.mp4|platform:Windows|pms-id:asm13/4k_intro/303|position:11|techniques:C++, OpenGL, GLSL, 4klang|title:decoloring darkness|youtube:1HZYEA9IqZ4
+author:Ananasmurska|guid:1675|media:/vod/2013/Compos/1675_4k_Haldol_by_Ananasmurska.mp4|platform:Win32|pms-id:asm13/4k_intro/292|position:12|techniques:OpenGL, Crinkler, Clinkster|title:Haldol|youtube:4GJHQBiZcyk
+author:g012 & p0ke / Flush|guid:1677|media:/vod/2013/Compos/1677_4k_Planet_DTT_by_g012_and_p0ke_Flush.mp4|platform:windows|pms-id:asm13/4k_intro/300|position:13|techniques:opengl / pixel shader|title:Planet DTT|youtube:QY_x5BEmGg8
 
 
 :section 1k intro
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 
-author:Bercon/HBC|guid:1627|media:/vod/2013/Compos/1627_1k_Kornell_Box_by_Bercon_and_HBC.mp4|pms-id:asm13/1k_intro/38|title:Kornell Box|youtube:anQHH_WoemE
-author:p01 / ribbon|guid:1628|media:/vod/2013/Compos/1628_1k_Andes_by_p01_and_ribbon.mp4|pms-id:asm13/1k_intro/41|title:Andes|youtube:wBkIF9Uq1FE
-author:TDA|guid:1629|media:/vod/2013/Compos/1629_1k_Remnant_by_TDA.mp4|pms-id:asm13/1k_intro/49|title:Remnant|youtube:skgb88RrDlE
-author:oo|guid:1630|media:/vod/2013/Compos/1630_1k_Painthing_by_oo.mp4|pms-id:asm13/1k_intro/53|title:Painthing|youtube:mD0HRI2dbf8
-author:npli|guid:1631|media:/vod/2013/Compos/1631_1k_Vihtori-Matti_by_npli.mp4|pms-id:asm13/1k_intro/70|title:Vihtori-Matti|youtube:Ra3N3t0FPRg
-author:Below Absolute Zero|guid:1632|media:/vod/2013/Compos/1632_1k_Bioterrorism_by_Below_Absolute_Zero.mp4|pms-id:asm13/1k_intro/126|title:Bioterrorism|youtube:S88ZbqfLXb8
-author:Fulcrum|guid:1633|media:/vod/2013/Compos/1633_1k_Dystaxia_by_Fulcrum.mp4|pms-id:asm13/1k_intro/164|title:Dystaxia|youtube:84Qu0IBT0_M
-author:Digimind|guid:1634|media:/vod/2013/Compos/1634_1k_Entering_the_Grid_by_Digimind.mp4|pms-id:asm13/1k_intro/197|title:Entering the Grid|youtube:bfHvzVAn51E
-author:Hymy|guid:1635|media:/vod/2013/Compos/1635_1k_Inconsistency_by_Hymy.mp4|pms-id:asm13/1k_intro/243|title:Inconsistency|youtube:oLCTDbovrnQ
-author:Shadikka|guid:1636|media:/vod/2013/Compos/1636_1k_Blues_Tutorial_by_Shadikka.mp4|pms-id:asm13/1k_intro/256|title:Blues Tutorial|youtube:o8dzJ4Tu8WI
-author:BooZombies|guid:1637|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombies.mp4|pms-id:asm13/1k_intro/274|title:Headache|youtube:fBRxWXN1CfU
-author:kronik|guid:1638|media:/vod/2013/Compos/1638_1k_The_end_of_time_and_space_by_kronik.mp4|pms-id:asm13/1k_intro/275|title:The end of time and space|youtube:-4ZF_IeGnVA
-author:Traction + Fit|guid:1639|media:/vod/2013/Compos/1639_1k_Tendrils_by_Traction_and_Fit.mp4|pms-id:asm13/1k_intro/276|title:Tendrils|youtube:2vTzI8Wu_VM
+author:Traction + Fit|guid:1639|media:/vod/2013/Compos/1639_1k_Tendrils_by_Traction_and_Fit.mp4|platform:PC|pms-id:asm13/1k_intro/276|position:1|techniques:Crinkler|title:Tendrils|youtube:2vTzI8Wu_VM
+author:TDA|guid:1629|media:/vod/2013/Compos/1629_1k_Remnant_by_TDA.mp4|platform:MacOS X|pms-id:asm13/1k_intro/49|position:2|techniques:GLSL, nasm|title:Remnant|youtube:skgb88RrDlE
+author:Bercon/HBC|guid:1627|media:/vod/2013/Compos/1627_1k_Kornell_Box_by_Bercon_and_HBC.mp4|platform:PC, Chrome/Firefox/Opera|pms-id:asm13/1k_intro/38|position:3|techniques:html/javascript/webgl|title:Kornell Box|youtube:anQHH_WoemE
+author:p01 / ribbon|guid:1628|media:/vod/2013/Compos/1628_1k_Andes_by_p01_and_ribbon.mp4|platform:Javascript|pms-id:asm13/1k_intro/41|position:4|techniques:WebGL|title:Andes|youtube:wBkIF9Uq1FE
+author:Fulcrum|guid:1633|media:/vod/2013/Compos/1633_1k_Dystaxia_by_Fulcrum.mp4|platform:PC|pms-id:asm13/1k_intro/164|position:5|techniques:1KPack, DirectX9 PixelShader3, assembler, Renoise|title:Dystaxia|youtube:84Qu0IBT0_M
+author:Digimind|guid:1634|media:/vod/2013/Compos/1634_1k_Entering_the_Grid_by_Digimind.mp4|platform:PC|pms-id:asm13/1k_intro/197|position:6|techniques:GLSL|title:Entering the Grid|youtube:bfHvzVAn51E
+author:Below Absolute Zero|guid:1632|media:/vod/2013/Compos/1632_1k_Bioterrorism_by_Below_Absolute_Zero.mp4|platform:Linux|pms-id:asm13/1k_intro/126|position:7|techniques:SDL, GLSL, softsynth|title:Bioterrorism|youtube:S88ZbqfLXb8
+author:kronik|guid:1638|media:/vod/2013/Compos/1638_1k_The_end_of_time_and_space_by_kronik.mp4|platform:PC|pms-id:asm13/1k_intro/275|position:8|techniques:16 colors, Protracker and Skill|title:The end of time and space|youtube:-4ZF_IeGnVA
+author:Shadikka|guid:1636|media:/vod/2013/Compos/1636_1k_Blues_Tutorial_by_Shadikka.mp4|platform:HTML5|pms-id:asm13/1k_intro/256|position:9|techniques:JavaScript, UglifyJS, pnginator, caffeine|title:Blues Tutorial|youtube:o8dzJ4Tu8WI
+author:npli|guid:1631|media:/vod/2013/Compos/1631_1k_Vihtori-Matti_by_npli.mp4|platform:win32|pms-id:asm13/1k_intro/70|position:10|techniques:crinkler, masm, msvc, opengl 1.1|title:Vihtori-Matti|youtube:Ra3N3t0FPRg
+author:Hymy|guid:1635|media:/vod/2013/Compos/1635_1k_Inconsistency_by_Hymy.mp4|platform:Linux|pms-id:asm13/1k_intro/243|position:11|techniques:Software rendering and audio, SDL|title:Inconsistency|youtube:oLCTDbovrnQ
+author:oo|guid:1630|media:/vod/2013/Compos/1630_1k_Painthing_by_oo.mp4|platform:Windows|pms-id:asm13/1k_intro/53|position:12|techniques:C++, OpenGL, GLSL|title:Painthing|youtube:mD0HRI2dbf8
+author:BooZombies|guid:1637|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombies.mp4|platform:Amiga 500|pms-id:asm13/1k_intro/274|position:13|techniques:lots|title:Headache|youtube:fBRxWXN1CfU
 
 
 :section Oldskool demo
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 
-author:Dekadence|guid:1616|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|pms-id:asm13/oldskool_demo/73|title:Norwegian Pillow|youtube:oGcsGC9vPho
-author:Skrolli|guid:1617|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|pms-id:asm13/oldskool_demo/129|title:Manifesty|youtube:iW-QWIX-hpA
-author:Gasman / Hooy-Program|guid:1618|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|pms-id:asm13/oldskool_demo/195|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
-author:Traktor and Nature|guid:1619|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|pms-id:asm13/oldskool_demo/285|title:Gerp 2013 invitation|youtube:D0bI_YDlfY8
-author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|pms-id:asm13/oldskool_demo/286|title:Britelites pinkie balls|youtube:_VjGPWqaLTM
+author:Dekadence|guid:1616|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|platform:Amiga 500|pms-id:asm13/oldskool_demo/73|position:1|techniques:Mad skillz and beer|title:Norwegian Pillow|youtube:oGcsGC9vPho
+author:Gasman / Hooy-Program|guid:1618|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|platform:ZX Spectrum|pms-id:asm13/oldskool_demo/195|position:2|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
+author:Traktor and Nature|guid:1619|media:/vod/2013/Compos/1619_Oldskool_Gerp_2013_Invtro_by_Traktor_and_Nature.mp4|platform:Amiga 500|pms-id:asm13/oldskool_demo/285|position:3|title:Gerp 2013 invitation|youtube:D0bI_YDlfY8
+author:Skrolli|guid:1617|media:/vod/2013/Compos/1617_Oldskool_Manifesty_by_Skrolli.mp4|platform:Amiga OCS|pms-id:asm13/oldskool_demo/129|position:4|techniques:Protracker, ccr^PWP's gfx converter,  Photoshop, vasm|title:Manifesty|youtube:iW-QWIX-hpA
+author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pinkie_balls_by_BooZombies.mp4|platform:Amiga 500|pms-id:asm13/oldskool_demo/286|position:5|title:Britelites pinkie balls|youtube:_VjGPWqaLTM
 
 
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
 
-author:Pistoke|guid:1643|media:/vod/2013/Compos/1643_Shortfilm_Supeur_Dupeur_by_Pistoke.mp4|pms-id:asm13/short_film/33|title:Supeur Dupeur|video-file:short-film/supeur_dupeur_by_pistoke_v2.mp4|youtube:zNSGLvPzUKI
-author:Team FATBON co.|guid:1644|media:/vod/2013/Compos/1644_Shortfilm_Fatman_and_Robon_by_Team_FATBON.mp4|pms-id:asm13/short_film/84|title:Fatman & Robon|video-file:short-film/fatman_&_robon_by_team_fatbon_co._v1.mp4|youtube:zLnX-Bw9NM0
-author:Team Dies Hard|guid:1645|media:/vod/2013/Compos/1645_Shortfilm_Old_Habits_Die_Hard_by_Team_Dies_Hard.mp4|pms-id:asm13/short_film/97|title:Old Habits Die Hard|video-file:short-film/old_habits_die_hard_by_team_dies_hard_v1.mp4|youtube:7w89URhnRGk
-author:Team In the deep|guid:1646|media:/vod/2013/Compos/1646_Shortfilm_In_the_deep_by_Team_in_the_deep.mp4|pms-id:asm13/short_film/113|title:in the deep|video-file:short-film/in_the_deep_by_team_in_the_deep_v1.mp4|youtube:nChSvRuyHSY
-author:Rayhouse Productions|guid:1647|media:/vod/2013/Compos/1647_Shortfilm_NeoDimension_by_Rayhouse_Productions.mp4|pms-id:asm13/short_film/184|title:NeoDimension|video-file:short-film/neodimension_by_rayhouse_productions_v2.mp4|youtube:ZdsDV5rNLxU
-author:S-BAD HOBO|guid:1648|media:/vod/2013/Compos/1648_Shortfilm_Light_camera_no_action_by_S-BAD_HOBO.mp4|pms-id:asm13/short_film/289|title:"Lights, Camera, No Action!"|youtube:kTBAHAqxRSQ
-author:No credits, please insert a coin!|guid:1649|media:/vod/2013/Compos/1649_Shortfilm_We_are_the_Superheroes_by_No_credits.mp4|pms-id:asm13/short_film/293|title:We are the Superheroes|video-file:short-film/we_are_the_superheroes_by_no_credits___please_insert_a_coin_v4.mp4|youtube:giogKGl_zC0
-author:Tekotuotanto|guid:1650|media:/vod/2013/Compos/1650_Shortfilm_Doomsday_Device_by_Tekotuotanto.mp4|pms-id:asm13/short_film/295|title:Doomsday Device|video-file:short-film/doomsday_device_by_tekotuotanto_v2.mp4|youtube:YvJ4AmHnZIc
-author:inDigiNeous & Hystereo Psychovsky|guid:1651|media:/vod/2013/Compos/1651_Shortfilm_Mission_Earth_by_inDigiNeous_and_Hystereo_Psychocsky.mp4|pms-id:asm13/short_film/302|title:Mission: Earth|video-file:short-film/mission:_earth_by_indigineous_&_hystereo_psychovsky_v3.mp4|youtube:5rSSjHOxa6g
-author:SBA|guid:1652|media:/vod/2013/Compos/1652_Shortfilm_Actionman_gets_no_action_by_SBA.mp4|pms-id:asm13/short_film/304|title:Actionman gets no action|video-file:short-film/actionman_gets_no_action_by_sba_v2.mp4|youtube:NToVTgQdCPI
-author:emme, Molli|pms-id:asm13/short_film/306|title:No Connection|video-file:short-film/no_connection_by_emme___molli_v2.mp4|youtube:h7H_HaiSwGQ
+author:Tekotuotanto|guid:1650|media:/vod/2013/Compos/1650_Shortfilm_Doomsday_Device_by_Tekotuotanto.mp4|pms-id:asm13/short_film/295|position:1|techniques:3dsmax, Fusion, After Effects, Reaper|title:Doomsday Device|video-file:short-film/doomsday_device_by_tekotuotanto_v2.mp4|youtube:YvJ4AmHnZIc
+author:Team FATBON co.|guid:1644|media:/vod/2013/Compos/1644_Shortfilm_Fatman_and_Robon_by_Team_FATBON.mp4|platform:PC|pms-id:asm13/short_film/84|position:2|techniques:3D-graphic animation|title:Fatman & Robon|video-file:short-film/fatman_&_robon_by_team_fatbon_co._v1.mp4|youtube:zLnX-Bw9NM0
+author:Pistoke|guid:1643|media:/vod/2013/Compos/1643_Shortfilm_Supeur_Dupeur_by_Pistoke.mp4|pms-id:asm13/short_film/33|position:3|techniques:Blender, Cycles, After Effects, Photoshop &#124; Reaper, FL Studio|title:Supeur Dupeur|video-file:short-film/supeur_dupeur_by_pistoke_v2.mp4|youtube:zNSGLvPzUKI
+author:Team In the deep|guid:1646|media:/vod/2013/Compos/1646_Shortfilm_In_the_deep_by_Team_in_the_deep.mp4|pms-id:asm13/short_film/113|position:4|techniques:Autodesk Maya 2013|title:in the deep|video-file:short-film/in_the_deep_by_team_in_the_deep_v1.mp4|youtube:nChSvRuyHSY
+author:SBA|guid:1652|media:/vod/2013/Compos/1652_Shortfilm_Actionman_gets_no_action_by_SBA.mp4|pms-id:asm13/short_film/304|position:5|techniques:Kiire ja epätoivo|title:Actionman gets no action|video-file:short-film/actionman_gets_no_action_by_sba_v2.mp4|youtube:NToVTgQdCPI
+author:Team Dies Hard|guid:1645|media:/vod/2013/Compos/1645_Shortfilm_Old_Habits_Die_Hard_by_Team_Dies_Hard.mp4|platform:PC|pms-id:asm13/short_film/97|position:6|techniques:Autodesk 3dsmax, Autodesk Maya, Adobe After Effects CS5|title:Old Habits Die Hard|video-file:short-film/old_habits_die_hard_by_team_dies_hard_v1.mp4|youtube:7w89URhnRGk
+author:Rayhouse Productions|guid:1647|media:/vod/2013/Compos/1647_Shortfilm_NeoDimension_by_Rayhouse_Productions.mp4|platform:PC|pms-id:asm13/short_film/184|position:7|techniques:Live action, Adobe Premiere & Photoshop|title:NeoDimension|video-file:short-film/neodimension_by_rayhouse_productions_v2.mp4|youtube:ZdsDV5rNLxU
+author:emme, Molli|pms-id:asm13/short_film/306|position:8|techniques:Cheap motion capture + GPU rendering|title:No Connection|video-file:short-film/no_connection_by_emme___molli_v2.mp4|youtube:h7H_HaiSwGQ
+author:No credits, please insert a coin!|guid:1649|media:/vod/2013/Compos/1649_Shortfilm_We_are_the_Superheroes_by_No_credits.mp4|platform:Lego|pms-id:asm13/short_film/293|position:9|techniques:Stop motion animation|title:We are the Superheroes|video-file:short-film/we_are_the_superheroes_by_no_credits___please_insert_a_coin_v4.mp4|youtube:giogKGl_zC0
+author:S-BAD HOBO|guid:1648|media:/vod/2013/Compos/1648_Shortfilm_Light_camera_no_action_by_S-BAD_HOBO.mp4|pms-id:asm13/short_film/289|position:10|techniques:Immeasurable hurry, despair|title:"Lights, Camera, No Action!"|youtube:kTBAHAqxRSQ
+author:inDigiNeous & Hystereo Psychovsky|guid:1651|media:/vod/2013/Compos/1651_Shortfilm_Mission_Earth_by_inDigiNeous_and_Hystereo_Psychocsky.mp4|platform:Mac|pms-id:asm13/short_film/302|position:11|techniques:Final Cut Pro X, Blender, Photoshop & GeoKone.NET|title:Mission: Earth|video-file:short-film/mission:_earth_by_indigineous_&_hystereo_psychovsky_v3.mp4|youtube:5rSSjHOxa6g
 
 
 :section Gamedev
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:ongoing true
 
-author:Lukas, Yonatan|guid:1591|media:/vod/2013/Compos/1591_Gamedev_Polkky_by_Lukas_and_Yonatan.mp4|pms-id:asm13/gamedev/3|title:Pölkky|youtube:9zFr70jaxn0
-author:Kajak Games|guid:1592|media:/vod/2013/Compos/1592_Gamedev_Rogue_Resistance_by_Kajak_Games.mp4|pms-id:asm13/gamedev/4|title:Rogue Resistance|youtube:556reSTI0lk
-author:Future Devs|guid:1593|media:/vod/2013/Compos/1593_Gamedev_I_Want_it_Back_by_Future_Devs.mp4|pms-id:asm13/gamedev/7|title:I Want It Back|youtube:VmqVZVgo9IY
-author:Pimiö|guid:1594|media:/vod/2013/Compos/1594_Gamedev_Specimen_by_Pimio.mp4|pms-id:asm13/gamedev/9|title:Specimen|youtube:XSu3-BbiXsY
-author:Team Flying Blind|guid:1595|media:/vod/2013/Compos/1595_Gamedev_MAD_by_Team_Flying_Blind.mp4|pms-id:asm13/gamedev/12|title:M.A.D.|youtube:OBtyPN3KfW4
-author:Kaamos|guid:1596|media:/vod/2013/Compos/1596_Gamedev_Cuber_Horizon_by_Kaamos.mp4|pms-id:asm13/gamedev/13|title:Cube Horizon|youtube:K-VTWQ6LwZc
-author:Confused Amoebas|guid:1597|media:/vod/2013/Compos/1597_Gamedev_Roboto_by_Confused_Amoebas.mp4|pms-id:asm13/gamedev/15|title:Roboto|youtube:5_oAkMorFBA
-author:Rust0|guid:1598|media:/vod/2013/Compos/1598_Gamedev_Reclone_by_Rust0.mp4|pms-id:asm13/gamedev/21|title:Reclone|youtube:orwYpMp_Qf8
-author:tAAt 2013|guid:1599|media:/vod/2013/Compos/1599_Gamedev_Jink_by_tAAt.mp4|pms-id:asm13/gamedev/22|title:Jink|youtube:VAo7Pp2Hi1o
-author:Matti Ruupunen|guid:1600|media:/vod/2013/Compos/1600_Gamedev_ScyVenture_by_Matti_Ruupunen.mp4|pms-id:asm13/gamedev/23|title:ScyVenture|youtube:Dnd1Hxmf110
-author:Ville Valtokari, Jyri Honkanen, Harpreet Thind|guid:1601|media:/vod/2013/Compos/1601_Gamedev_Ardeo_by_Valtokari_et_all.mp4|pms-id:asm13/gamedev/24|title:Ardeo: The First Stage|youtube:ulxWZBqdKAw
-author:McBurrobit|guid:1602|media:/vod/2013/Compos/1602_Gamedev_OfficeRunner_by_McBurrobit.mp4|pms-id:asm13/gamedev/25|title:OfficeRunner|youtube:SAzJsDnxTuA
-author:Bluefox Games Entertainment (Kajak)|guid:1603|media:/vod/2013/Compos/1603_Gamedev_Scyori_by_Bluefox_Games_Entertainment.mp4|pms-id:asm13/gamedev/26|title:Scyori|youtube:dnGk7kyFoas
-author:Asko Lahti, Aleksi Jokihaara, Aleksi Jeskanen, Iida Korpela, Hanna Karvonen, Esko Haila|guid:1604|media:/vod/2013/Compos/1604_Gamedev_Flamia_by_Lahti_et_all.mp4|pms-id:asm13/gamedev/27|title:Flamia|youtube:t9A4NL_0M2U
-author:Kalle Hiltunen|guid:1605|media:/vod/2013/Compos/1605_Gamedev_For_the_King_by_Kalle_Hiltunen.mp4|pms-id:asm13/gamedev/29|title:For The King|youtube:_R7bak0EcWk
-author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizzalaatikko.mp4|pms-id:asm13/gamedev/30|title:KAAL|youtube:3C4BaPRBh0k
+author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizzalaatikko.mp4|platform:Windows, Linux|pms-id:asm13/gamedev/30|position:1|title:KAAL|youtube:3C4BaPRBh0k
+author:Lukas, Yonatan|guid:1591|media:/vod/2013/Compos/1591_Gamedev_Polkky_by_Lukas_and_Yonatan.mp4|platform:PC|pms-id:asm13/gamedev/3|position:2|techniques:Amazing 3D modeling skills, Unity tree creator|title:Pölkky|youtube:9zFr70jaxn0
+author:tAAt 2013|guid:1599|media:/vod/2013/Compos/1599_Gamedev_Jink_by_tAAt.mp4|platform:Windows + Oculus Rift|pms-id:asm13/gamedev/22|position:3|techniques:Unity|title:Jink|youtube:VAo7Pp2Hi1o
+author:Matti Ruupunen|guid:1600|media:/vod/2013/Compos/1600_Gamedev_ScyVenture_by_Matti_Ruupunen.mp4|platform:PC|pms-id:asm13/gamedev/23|position:4|techniques:XNA|title:ScyVenture|youtube:Dnd1Hxmf110
+author:Confused Amoebas|guid:1597|media:/vod/2013/Compos/1597_Gamedev_Roboto_by_Confused_Amoebas.mp4|platform:PC|pms-id:asm13/gamedev/15|position:5|techniques:Unity 3d, Blender, Gimp|title:Roboto|youtube:5_oAkMorFBA
+author:Kaamos|guid:1596|media:/vod/2013/Compos/1596_Gamedev_Cuber_Horizon_by_Kaamos.mp4|platform:Windows, Mac|pms-id:asm13/gamedev/13|position:6|techniques:Unity, skills|title:Cube Horizon|youtube:K-VTWQ6LwZc
+author:Team Flying Blind|guid:1595|media:/vod/2013/Compos/1595_Gamedev_MAD_by_Team_Flying_Blind.mp4|platform:PC|pms-id:asm13/gamedev/12|position:7|title:M.A.D.|youtube:OBtyPN3KfW4
+author:Pimiö|guid:1594|media:/vod/2013/Compos/1594_Gamedev_Specimen_by_Pimio.mp4|platform:PC|pms-id:asm13/gamedev/9|position:8|techniques:Persistence.|title:Specimen|youtube:XSu3-BbiXsY
+author:Rust0|guid:1598|media:/vod/2013/Compos/1598_Gamedev_Reclone_by_Rust0.mp4|platform:Windows, Mac|pms-id:asm13/gamedev/21|position:9|title:Reclone|youtube:orwYpMp_Qf8
+author:Bluefox Games Entertainment (Kajak)|guid:1603|media:/vod/2013/Compos/1603_Gamedev_Scyori_by_Bluefox_Games_Entertainment.mp4|platform:Windows|pms-id:asm13/gamedev/26|position:10|techniques:C++ and SFML and stuff|title:Scyori|youtube:dnGk7kyFoas
+author:McBurrobit|guid:1602|media:/vod/2013/Compos/1602_Gamedev_OfficeRunner_by_McBurrobit.mp4|platform:Glorious PC Gaming Master Race|pms-id:asm13/gamedev/25|position:11|techniques:Java, lax quality standards|title:OfficeRunner|youtube:SAzJsDnxTuA
+author:Ville Valtokari, Jyri Honkanen, Harpreet Thind|guid:1601|media:/vod/2013/Compos/1601_Gamedev_Ardeo_by_Valtokari_et_all.mp4|platform:PC|pms-id:asm13/gamedev/24|position:12|techniques:Using Unity, cursing Unity, sleepless nights|title:Ardeo: The First Stage|youtube:ulxWZBqdKAw
+author:Kajak Games|guid:1592|media:/vod/2013/Compos/1592_Gamedev_Rogue_Resistance_by_Kajak_Games.mp4|platform:PC|pms-id:asm13/gamedev/4|position:13|techniques:C++, SFML 2.0, Photoshop CS4|title:Rogue Resistance|youtube:556reSTI0lk
+author:Asko Lahti, Aleksi Jokihaara, Aleksi Jeskanen, Iida Korpela, Hanna Karvonen, Esko Haila|guid:1604|media:/vod/2013/Compos/1604_Gamedev_Flamia_by_Lahti_et_all.mp4|platform:Windows 7|pms-id:asm13/gamedev/27|position:14|techniques:skill|title:Flamia|youtube:t9A4NL_0M2U
+author:Kalle Hiltunen|guid:1605|media:/vod/2013/Compos/1605_Gamedev_For_the_King_by_Kalle_Hiltunen.mp4|platform:PC|pms-id:asm13/gamedev/29|position:15|techniques:Java, Adobe Photoshop|title:For The King|youtube:_R7bak0EcWk
+author:Future Devs|guid:1593|media:/vod/2013/Compos/1593_Gamedev_I_Want_it_Back_by_Future_Devs.mp4|platform:PC|pms-id:asm13/gamedev/7|position:16|title:I Want It Back|youtube:VmqVZVgo9IY
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-:ongoing true
 
-author:sssampo / Pistoke|image-file:graphics/Big-Banker-by-sssampo_nosig.png|pms-id:asm13/graphics/32|title:Big Banker
-author:Osmic/Unknown Artists|image-file:graphics/in-2093-the-finnish-space-navy-pirates-cool_image_nosig.png|pms-id:asm13/graphics/50|title:IN 2093, THE FINNISH SPACE NAVY ENCOUNTERED SPACE PIRATES IN SPACE
-author:Charlotta Tiuri|image-file:graphics/mommy_is_home_nosig.PNG|pms-id:asm13/graphics/51|title:Mommy is home
-author:Venomlemon|image-file:graphics/Life_will_prefail_nosig.png|pms-id:asm13/graphics/58|title:Life will prefail
-author:maraia|image-file:graphics/turriteatteri_furry_feature_nosig.png|pms-id:asm13/graphics/62|title:Turriteatteri (Furry Feature)
-author:Partikle|image-file:graphics/goaway_nosig.jpg|pms-id:asm13/graphics/69|title:F*ck you, go away!
-author:Dekus|image-file:graphics/LastStand_nosig.png|pms-id:asm13/graphics/114|title:Last Stand
-author:Ixtor|image-file:graphics/disappointment_nosig.jpg|pms-id:asm13/graphics/127|title:Disappointment
-author:Darkki|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png|pms-id:asm13/graphics/132|title:Eye of the storm
-author:offwhite|image-file:graphics/the_maiden_1080_nosign.png|pms-id:asm13/graphics/134|title:The maiden
-author:flumba|image-file:graphics/byrd_final_nosig.png|pms-id:asm13/graphics/145|title:Byrdmancer
-author:Cyangmou, Wolfenoctis|image-file:graphics/Assembly_SuperLondoBros_final_1280x720.png|pms-id:asm13/graphics/155|title:Super Londo Bros
-author:maxon / HBC|image-file:graphics/dragster_nosig.png|pms-id:asm13/graphics/160|title:Dragster
-author:Valtteri|image-file:graphics/SS_Conquest_nosig.jpg|pms-id:asm13/graphics/180|title:S/S Conquest
-author:Surround|image-file:graphics/Stagecoach shock.png|pms-id:asm13/graphics/185|title:Stagecoach Shock
-author:Iiro Enges|image-file:graphics/IiroEnges_FINAL_nosig.jpg|pms-id:asm13/graphics/205|title:Tell Me I'm Pretty
-author:Codsarmo|image-file:graphics/brainz_nosig.jpg|pms-id:asm13/graphics/208|title:Brainz
-author:Mazor/Fairlight|image-file:graphics/The Log Lady_nosig.png|pms-id:asm13/graphics/231|title:The Log Lady
+author:Valtteri|image-file:graphics/SS_Conquest_nosig.jpg|platform:PC|pms-id:asm13/graphics/180|position:1|techniques:Photoshop|title:S/S Conquest
+author:Darkki|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png|platform:PC|pms-id:asm13/graphics/132|position:2|techniques:3dsmax / Photoshop|title:Eye of the storm
+author:Mazor/Fairlight|image-file:graphics/The Log Lady_nosig.png|platform:Mac|pms-id:asm13/graphics/231|position:3|techniques:Photoshop CS5 % Wacom Intuos 3|title:The Log Lady
+author:Charlotta Tiuri|image-file:graphics/mommy_is_home_nosig.PNG|pms-id:asm13/graphics/51|position:4|techniques:Digital painting in Photoshop CS5|title:Mommy is home
+author:flumba|image-file:graphics/byrd_final_nosig.png|pms-id:asm13/graphics/145|position:5|techniques:Photoshop hand drawn|title:Byrdmancer
+author:Codsarmo|image-file:graphics/brainz_nosig.jpg|platform:Windows|pms-id:asm13/graphics/208|position:6|techniques:Photoshop|title:Brainz
+author:Dekus|image-file:graphics/LastStand_nosig.png|platform:PC|pms-id:asm13/graphics/114|position:7|techniques:Photoshop, Wacom|title:Last Stand
+author:offwhite|image-file:graphics/the_maiden_1080_nosign.png|platform:pc|pms-id:asm13/graphics/134|position:8|techniques:photoshop, tablet, 100 % handpainted|title:The maiden
+author:Cyangmou, Wolfenoctis|image-file:graphics/Assembly_SuperLondoBros_final_1280x720.png|platform:PC|pms-id:asm13/graphics/155|position:9|techniques:pixel art, isometry, 128 colors|title:Super Londo Bros
+author:Osmic/Unknown Artists|image-file:graphics/in-2093-the-finnish-space-navy-pirates-cool_image_nosig.png|platform:Puucee|pms-id:asm13/graphics/50|position:10|techniques:3DS Max, Photoshop, NASA|title:IN 2093, THE FINNISH SPACE NAVY ENCOUNTERED SPACE PIRATES IN SPACE
+author:sssampo / Pistoke|image-file:graphics/Big-Banker-by-sssampo_nosig.png|pms-id:asm13/graphics/32|position:11|techniques:Blender, ZBrush, 3dsMax, Mental Ray, Photoshop|title:Big Banker
+author:Partikle|image-file:graphics/goaway_nosig.jpg|pms-id:asm13/graphics/69|position:12|techniques:Photoshop CS6|title:F*ck you, go away!
+author:maxon / HBC|image-file:graphics/dragster_nosig.png|pms-id:asm13/graphics/160|position:13|techniques:Blender, Photoshop|title:Dragster
+author:Surround|image-file:graphics/Stagecoach shock.png|platform:Pc|pms-id:asm13/graphics/185|position:14|techniques:3ds maksa ja pottasoppa|title:Stagecoach Shock
+author:maraia|image-file:graphics/turriteatteri_furry_feature_nosig.png|pms-id:asm13/graphics/62|position:15|techniques:Hand drawn on paper, finished on Photoshop|title:Turriteatteri (Furry Feature)
+author:Iiro Enges|image-file:graphics/IiroEnges_FINAL_nosig.jpg|pms-id:asm13/graphics/205|position:16|techniques:Photoshop|title:Tell Me I'm Pretty
+author:Venomlemon|image-file:graphics/Life_will_prefail_nosig.png|platform:PC|pms-id:asm13/graphics/58|position:17|techniques:Pencil & Scan, Wacom Cintiq & Photoshop and digicamera|title:Life will prefail
+author:Ixtor|image-file:graphics/disappointment_nosig.jpg|pms-id:asm13/graphics/127|position:18|techniques:SAI, Photoshop (Intuos 5 tablet)|title:Disappointment
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "More hardware is not the solution" theme.</p>
-:ongoing true
 
-author:Dekus|image-file:fast-graphics/more_hardware_-_better_cubes_v1.png|pms-id:asm13/fast_graphics/224|title:More hardware - better cubes?
-author:Jikarosa|image-file:fast-graphics/end_of_the_road_v1.jpg|pms-id:asm13/fast_graphics/226|title:End of the Road
-author:john peeba|image-file:fast-graphics/bufferoverflow.png|pms-id:asm13/fast_graphics/230|title:Buffer Overflow
-author:PastelDonut|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|pms-id:asm13/fast_graphics/240|title:Angels Don't Need 6 Eyes
-author:Vablo|image-file:fast-graphics/looter_v1.jpg|pms-id:asm13/fast_graphics/248|title:Looter
-author:sssampo|image-file:fast-graphics/great_package_v1.png|pms-id:asm13/fast_graphics/249|title:Great Package
-author:offwhite|image-file:fast-graphics/we_want_more_v1.png|pms-id:asm13/fast_graphics/250|title:We want more
-author:Heidi Mäenpää|image-file:fast-graphics/software_awaits_v1.png|pms-id:asm13/fast_graphics/259|title:Software Awaits
-author:maxon / HBC|image-file:fast-graphics/the_smell_of_new_hardware_nosig.png|pms-id:asm13/fast_graphics/260|title:The smell of new hardware
-author:Charlotta Tiuri|image-file:fast-graphics/indispensable_v2.png|pms-id:asm13/fast_graphics/262|title:Indispensable
-author:Nappu|image-file:fast-graphics/babyhardware_v3.png|pms-id:asm13/fast_graphics/264|title:Babyhardware
-author:Valtteri|image-file:fast-graphics/this_time_i_come_prepared_v1.jpg|pms-id:asm13/fast_graphics/268|title:This time I come prepared
-author:Random|image-file:fast-graphics/computing_by_heart_v1.png|pms-id:asm13/fast_graphics/271|title:Computing by Heart
+author:maxon / HBC|image-file:fast-graphics/the_smell_of_new_hardware_nosig.png|pms-id:asm13/fast_graphics/260|position:1|techniques:Blender, Photoshop|title:The smell of new hardware
+author:Valtteri|image-file:fast-graphics/this_time_i_come_prepared_v1.jpg|platform:PC|pms-id:asm13/fast_graphics/268|position:2|techniques:Photoshop|title:This time I come prepared
+author:Nappu|image-file:fast-graphics/babyhardware_v3.png|platform:PC|pms-id:asm13/fast_graphics/264|position:3|techniques:Photoshop|title:Babyhardware
+author:Jikarosa|image-file:fast-graphics/end_of_the_road_v1.jpg|platform:PC|pms-id:asm13/fast_graphics/226|position:4|techniques:Wacom tablet and Photoshop|title:End of the Road
+author:Heidi Mäenpää|image-file:fast-graphics/software_awaits_v1.png|platform:PC|pms-id:asm13/fast_graphics/259|position:5|techniques:Photoshop painting|title:Software Awaits
+author:john peeba|image-file:fast-graphics/bufferoverflow.png|platform:Windows|pms-id:asm13/fast_graphics/230|position:6|techniques:Photoshop, Wacom|title:Buffer Overflow
+author:Vablo|image-file:fast-graphics/looter_v1.jpg|platform:PC|pms-id:asm13/fast_graphics/248|position:7|techniques:Photoshop CS5 + Wacom Intuos3|title:Looter
+author:offwhite|image-file:fast-graphics/we_want_more_v1.png|platform:pc|pms-id:asm13/fast_graphics/250|position:8|techniques:photoshop, tablet|title:We want more
+author:Dekus|image-file:fast-graphics/more_hardware_-_better_cubes_v1.png|platform:PC|pms-id:asm13/fast_graphics/224|position:9|techniques:Photoshop, Tablet PC|title:More hardware - better cubes?
+author:Charlotta Tiuri|image-file:fast-graphics/indispensable_v2.png|pms-id:asm13/fast_graphics/262|position:10|techniques:Photoshop CS5|title:Indispensable
+author:sssampo|image-file:fast-graphics/great_package_v1.png|pms-id:asm13/fast_graphics/249|position:11|techniques:Blender, ZBrush, Photoshop|title:Great Package
+author:Random|image-file:fast-graphics/computing_by_heart_v1.png|pms-id:asm13/fast_graphics/271|position:12|techniques:painted|title:Computing by Heart
+author:PastelDonut|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|platform:Wacom, Paint Tool Sai|pms-id:asm13/fast_graphics/240|position:13|techniques:Wacom Drawing freehand|title:Angels Don't Need 6 Eyes
 
 
 :section Dance music
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
-:ongoing true
 
-author:Yagura|pms-id:asm13/dance_music/42|title:Leak|video-file:dance-music/leak_v2.mp3.avi|youtube:kRe0yJLw5DM
-author:Alek Szahala|pms-id:asm13/dance_music/55|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi|youtube:hl9GLgicQ6o
-author:Byproduct|pms-id:asm13/dance_music/74|title:Robotics|video-file:dance-music/robotics_v1.mp3.avi|youtube:xsh7KzomvY0
-author:Little Bitchard|pms-id:asm13/dance_music/78|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi|youtube:ujAz2ZAeiZw
-author:Maulwurf|pms-id:asm13/dance_music/88|title:Schrotflinteparty|video-file:dance-music/schrotflinteparty_v2.mp3.avi|youtube:2_KQzzC_EXI
-author:DJ Joge / Brainstorm|pms-id:asm13/dance_music/92|title:Xenomorph|video-file:dance-music/xenomorph_v2.ogg.avi|youtube:zUhShfwxAKc
-author:Teel / Accession|pms-id:asm13/dance_music/110|title:Flashback Disco|video-file:dance-music/flashback_disco_v1.mp3.avi|youtube:GFZWJr-toJY
-author:Man with no Nickname|pms-id:asm13/dance_music/161|title:Little Twisting Chipsets|video-file:dance-music/little_twisting_chipsets_v1.ogg.avi|youtube:OuI5PZTRzCo
-author:Kneph|pms-id:asm13/dance_music/170|title:Ota sitä|video-file:dance-music/ota_sitä_v1.mp3.avi|youtube:7td8OPVUnco
-author:Edgy|pms-id:asm13/dance_music/213|title:Golden Sunshine|video-file:dance-music/golden_sunshine_v2.mp3.avi|youtube:xaUwuQnR2ZA
-author:Niklas Glass|pms-id:asm13/dance_music/215|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi|youtube:pNi7Wkzh_n4
-author:Muffler|pms-id:asm13/dance_music/219|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi|youtube:XixifSomXQQ
+author:Little Bitchard|platform:Streaming the seas of cheese|pms-id:asm13/dance_music/78|position:1|techniques:"In The Box"|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi|youtube:ujAz2ZAeiZw
+author:Alek Szahala|platform:PC|pms-id:asm13/dance_music/55|position:2|techniques:FL9|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi|youtube:hl9GLgicQ6o
+author:Man with no Nickname|platform:PC|pms-id:asm13/dance_music/161|position:3|techniques:Schism Tracker with NES-samples only|title:Little Twisting Chipsets|video-file:dance-music/little_twisting_chipsets_v1.ogg.avi|youtube:OuI5PZTRzCo
+author:Maulwurf|platform:PC|pms-id:asm13/dance_music/88|position:4|techniques:LEET FL 11 and guitar skeelz. Terkut äitille|title:Schrotflinteparty|video-file:dance-music/schrotflinteparty_v2.mp3.avi|youtube:2_KQzzC_EXI
+author:Byproduct|platform:PC|pms-id:asm13/dance_music/74|position:5|techniques:Reason 4 & FL Studio 10|title:Robotics|video-file:dance-music/robotics_v1.mp3.avi|youtube:xsh7KzomvY0
+author:Kneph|platform:PC|pms-id:asm13/dance_music/170|position:6|techniques:Renoise & NADIV ISNUREMNTS MASSIF :D:D|title:Ota sitä|video-file:dance-music/ota_sitä_v1.mp3.avi|youtube:7td8OPVUnco
+author:Edgy|platform:PC|pms-id:asm13/dance_music/213|position:7|techniques:Fruity Loops|title:Golden Sunshine|video-file:dance-music/golden_sunshine_v2.mp3.avi|youtube:xaUwuQnR2ZA
+author:DJ Joge / Brainstorm|platform:PC|pms-id:asm13/dance_music/92|position:8|techniques:Renoise & gazillion of VST's|title:Xenomorph|video-file:dance-music/xenomorph_v2.ogg.avi|youtube:zUhShfwxAKc
+author:Teel / Accession|platform:Renoise, Bunch of VSTs|pms-id:asm13/dance_music/110|position:9|title:Flashback Disco|video-file:dance-music/flashback_disco_v1.mp3.avi|youtube:GFZWJr-toJY
+author:Muffler|platform:macbook|pms-id:asm13/dance_music/219|position:10|techniques:logic|title:Musicbox|video-file:dance-music/musicbox_v1.mp3.avi|youtube:XixifSomXQQ
+author:Niklas Glass|platform:Mac|pms-id:asm13/dance_music/215|position:11|techniques:Ableton Live, Logic Pro|title:Blues on my Bed|video-file:dance-music/blues_on_my_bed_v1.mp3.avi|youtube:pNi7Wkzh_n4
+author:Yagura|platform:MP3/PC|pms-id:asm13/dance_music/42|position:12|techniques:FL Studio 9|title:Leak|video-file:dance-music/leak_v2.mp3.avi|youtube:kRe0yJLw5DM
 
 
 :section Listening music
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
-:ongoing true
 
-author:ihanalammas|pms-id:asm13/listening_music/39|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi|youtube:P9tYhR7XUGo
-author:Signal|pms-id:asm13/listening_music/59|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi|youtube:TW5P9BLvaac
-author:Videopeliukko & Nörtti-Nestori|pms-id:asm13/listening_music/86|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi|youtube:cdOoUkFpHzM
-author:Jaksary|pms-id:asm13/listening_music/106|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi|youtube:swyTPM2YyUQ
-author:Aikapallo|pms-id:asm13/listening_music/108|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi|youtube:xpTl9wt-0pw
-author:McF|pms-id:asm13/listening_music/116|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi|youtube:fC-w0LP2cEo
-author:King Thrill / Tekotuotanto|pms-id:asm13/listening_music/120|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi|youtube:njWUj_1OOus
-author:The Sacred Number Four|pms-id:asm13/listening_music/149|title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi|youtube:pOGSUy4orEM
-author:noby^ren|pms-id:asm13/listening_music/198|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi|youtube:8cXRwLvcM74
-author:Icchan^, Alexi, Some bassist|pms-id:asm13/listening_music/217|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi|youtube:9gPDIWpNejA
-author:Duality Vile|pms-id:asm13/listening_music/222|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi|youtube:zPF2wVUFnxE
-author:T-101 / Darklite|pms-id:asm13/listening_music/228|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi|youtube:f9EvhQxU6OE
-author:Yzi/Fit|pms-id:asm13/listening_music/241|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi|youtube:mCjRVfZpMwE
+author:T-101 / Darklite|platform:Reaper|pms-id:asm13/listening_music/228|position:1|techniques:Real guitars/bass, Nightmares|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi|youtube:f9EvhQxU6OE
+author:Aikapallo|pms-id:asm13/listening_music/108|position:2|techniques:Cubase + plugins, beer & kebab|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi|youtube:xpTl9wt-0pw
+author:Duality Vile|platform:Logic Pro, iMac, Ibanez, ENGL|pms-id:asm13/listening_music/222|position:3|techniques:Playing / programming instruments|title:Cephalopod End Stage|video-file:listening-music/cephalopod_end_stage_v1.mp3.avi|youtube:zPF2wVUFnxE
+author:King Thrill / Tekotuotanto|pms-id:asm13/listening_music/120|position:4|techniques:Reaper|title:The March of the Wicked|video-file:listening-music/march_of_the_wicked_v133.mp3.avi|youtube:njWUj_1OOus
+author:Jaksary|platform:NES (2A03 only)|pms-id:asm13/listening_music/106|position:5|techniques:Famitracker, not a single apple|title:Taku ei snaijaa tee Tiku|video-file:listening-music/taku ei snaijaa tee tiku.mp3.avi|youtube:swyTPM2YyUQ
+author:Videopeliukko & Nörtti-Nestori|platform:PC|pms-id:asm13/listening_music/86|position:6|techniques:Päänräjäyttävä skenetietämys|title:Oodi Assemblyille f-mollissa|video-file:listening-music/oodi_assemblyille_f-mollissa_v1.mp3.avi|youtube:cdOoUkFpHzM
+author:The Sacred Number Four|platform:MP3|pms-id:asm13/listening_music/149|position:7|techniques:Über guitar & bass god skillz, Cubase 5 |title:Dragonporn|video-file:listening-music/dragonporn_v1.mp3.avi|youtube:pOGSUy4orEM
+author:Icchan^, Alexi, Some bassist|platform:PC|pms-id:asm13/listening_music/217|position:8|techniques:ADHD, Shredding, Reaper 4.4x, Candy, mad keyboard skillz|title:Obsolete Hero|video-file:listening-music/obsolete_hero_v2.ogg.avi|youtube:9gPDIWpNejA
+author:Yzi/Fit|platform:mp3|pms-id:asm13/listening_music/241|position:9|techniques:Ableton Live 9|title:Happy To Be Slightly Slower|video-file:listening-music/happy_to_be_slightly_slower_v1.mp3.avi|youtube:mCjRVfZpMwE
+author:Signal|platform:PC, Cubase|pms-id:asm13/listening_music/59|position:10|techniques:Kiire|title:Revenge Is Best Served While Wearing Colorful Spandex|video-file:listening-music/revenge_is_best_served_while_wearing_colorful_spandex_v1.mp3.avi|youtube:TW5P9BLvaac
+author:ihanalammas|platform:MP3-player|pms-id:asm13/listening_music/39|position:11|techniques:Ardour 3 + Sonar 7 + affection for audio|title:The shivers when entering ASM|video-file:listening-music/the_shivers_when_entering_asm_v1.mp3.avi|youtube:P9tYhR7XUGo
+author:McF|platform:PC|pms-id:asm13/listening_music/116|position:12|techniques:Renoise + Nexus|title:Polar Opposites|video-file:listening-music/polar_opposites_v1.mp3.avi|youtube:fC-w0LP2cEo
+author:noby^ren|platform:PC|pms-id:asm13/listening_music/198|position:13|techniques:Renoise|title:Spice Of Life (Pelkäsin Muuttuvani Kosketuksesta)|video-file:listening-music/spice_of_life_(pelkäsin_muuttuvani_kosketuksesta)_v1.mp3.avi|youtube:8cXRwLvcM74
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:ongoing true
 
-author:Melodïcore|pms-id:asm13/fast_music/137|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi|youtube:nRw7M7LUwas
-author:Dr. Antievil|pms-id:asm13/fast_music/143|title:Superia|video-file:fast-music/superia_v1.mp3.avi|youtube:Y3d4lVCzSL4
-author:Kneph|pms-id:asm13/fast_music/144|title:Takaperin aika-aravuus|video-file:fast-music/takaperin_aika-aravuus_v1.mp3.avi|youtube:Vu3pG7UWBcc
-author:FruitieX|pms-id:asm13/fast_music/148|title:demoja musakompon aikana|video-file:fast-music/demoja_musakompon_aikana_v1.mp3.avi|youtube:kViE_5RjGV0
-author:Kwanttitatti|pms-id:asm13/fast_music/150|title:Röh|video-file:fast-music/röh_v1.mp3.avi|youtube:B550SH4aOkg
-author:Skeletronic|pms-id:asm13/fast_music/154|title:Tuutulaulu|video-file:fast-music/tuutulaulu_v1.mp3.avi|youtube:D8Z26wfQv9k
-author:Rayjan /  Pyrotech|pms-id:asm13/fast_music/156|title:Kosmiset ystävät|video-file:fast-music/kosmiset_ystävät_v1.mp3.avi|youtube:6IRie-4n6TM
-author:1nsane|pms-id:asm13/fast_music/158|title:CoLoLors|video-file:fast-music/cololors_v1.mp3.avi|youtube:-csr_hd-HP0
-author:King Thrill / Tekotuotanto|pms-id:asm13/fast_music/159|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi|youtube:uDr-3KFbA4M
-author:Gwaur & HuGoroN|pms-id:asm13/fast_music/162|title:GGGD Phunck|video-file:fast-music/gggd_phunck_v1.wav.avi|youtube:GAtm0ENbYEc
-author:Jarski|pms-id:asm13/fast_music/165|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi|youtube:6cKj1LdTwZ4
-author:Rajunen|pms-id:asm13/fast_music/167|title:Bibbelis Goggelis|video-file:fast-music/bibbelis_goggelis_v1.mp3.avi|youtube:ri_eJ9Zfam8
-author:NUUSiKA|pms-id:asm13/fast_music/171|title:Why did you create me? Why?|video-file:fast-music/why_did_you_create_me_why_v1.mp3.avi|youtube:jjNRqhL6Yj4
-author:Samppalol|pms-id:asm13/fast_music/173|title:Kattokaa soin salin systeemeistä|video-file:fast-music/kattokaa_soin_salin_systeemeistä_v2.wav.avi|youtube:ZSb67U6kO_c
-author:Yzi/Fit|pms-id:asm13/fast_music/174|title:Happy To Be Fast|video-file:fast-music/happy_to_be_fast_v1.mp3.avi|youtube:koNqhGE7U_4
-author:Nidanz|pms-id:asm13/fast_music/175|title:Uliuli|video-file:fast-music/uliuli_v1.mp3.avi|youtube:tPLA61v_cVc
-author:red|pms-id:asm13/fast_music/176|title:ES naamaan ja mopoautoileen|video-file:fast-music/es_naamaan_ja_mopoautoileen_v1.wav.avi|youtube:S2ORjY_BcI4
-author:reaby|pms-id:asm13/fast_music/178|title:Memories of summer|video-file:fast-music/memories_of_summer_v1.wav.avi|youtube:3UgBtylNi-c
-author:Alhejarvela|pms-id:asm13/fast_music/182|title:Nistep|video-file:fast-music/nistep_v1.mp3.avi|youtube:MydGhfzZ3fI
-author:Orbis|pms-id:asm13/fast_music/183|title:Progressimus Maximus|video-file:fast-music/progressimus_maximus_v1.wav.avi|youtube:c1V29h7SHOQ
-author:lgr|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!|video-file:fast-music/melkein_missasin,_mattu_v1.mp3.avi|youtube:_gOU3qlriLc
+author:King Thrill / Tekotuotanto|pms-id:asm13/fast_music/159|position:1|techniques:Reaper|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi|youtube:uDr-3KFbA4M
+author:Jarski|platform:PC|pms-id:asm13/fast_music/165|position:2|techniques:Renoise|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi|youtube:6cKj1LdTwZ4
+author:NUUSiKA|pms-id:asm13/fast_music/171|position:3|techniques:FL Studio, mindflipping|title:Why did you create me? Why?|video-file:fast-music/why_did_you_create_me_why_v1.mp3.avi|youtube:jjNRqhL6Yj4
+author:Gwaur & HuGoroN|platform:Win & Mac & Cheese|pms-id:asm13/fast_music/162|position:4|techniques:Sibelius 7 & Reason 4 & Studio One 2 & Amplitube 3 & Superior Drummer 2|title:GGGD Phunck|video-file:fast-music/gggd_phunck_v1.wav.avi|youtube:GAtm0ENbYEc
+author:Rajunen|pms-id:asm13/fast_music/167|position:5|techniques:Helikopterin vetäminen|title:Bibbelis Goggelis|video-file:fast-music/bibbelis_goggelis_v1.mp3.avi|youtube:ri_eJ9Zfam8
+author:Kneph|platform:PC|pms-id:asm13/fast_music/144|position:6|techniques:Renoise, Synth1 ja puukkoja|title:Takaperin aika-aravuus|video-file:fast-music/takaperin_aika-aravuus_v1.mp3.avi|youtube:Vu3pG7UWBcc
+author:Nidanz|platform:PC|pms-id:asm13/fast_music/175|position:7|techniques:FL and ES|title:Uliuli|video-file:fast-music/uliuli_v1.mp3.avi|youtube:tPLA61v_cVc
+author:red|platform:Windows|pms-id:asm13/fast_music/176|position:7|techniques:Reason 4.0|title:ES naamaan ja mopoautoileen|video-file:fast-music/es_naamaan_ja_mopoautoileen_v1.wav.avi|youtube:S2ORjY_BcI4
+author:Melodïcore|platform:FL Studio 11 & Nexus & 50 minutes|pms-id:asm13/fast_music/137|position:9|techniques:Music Skillz|title:Pallomies|video-file:fast-music/pallomies_v1.mp3.avi|youtube:nRw7M7LUwas
+author:Yzi/Fit|pms-id:asm13/fast_music/174|position:10|techniques:Ableton Live 9|title:Happy To Be Fast|video-file:fast-music/happy_to_be_fast_v1.mp3.avi|youtube:koNqhGE7U_4
+author:1nsane|platform:PC|pms-id:asm13/fast_music/158|position:11|techniques:FL-Studio|title:CoLoLors|video-file:fast-music/cololors_v1.mp3.avi|youtube:-csr_hd-HP0
+author:Rayjan /  Pyrotech|pms-id:asm13/fast_music/156|position:12|techniques:Space juice|title:Kosmiset ystävät|video-file:fast-music/kosmiset_ystävät_v1.mp3.avi|youtube:6IRie-4n6TM
+author:Dr. Antievil|platform:PC|pms-id:asm13/fast_music/143|position:13|techniques:Renoise|title:Superia|video-file:fast-music/superia_v1.mp3.avi|youtube:Y3d4lVCzSL4
+author:Orbis|platform:PC|pms-id:asm13/fast_music/183|position:14|techniques:Guitar Pro|title:Progressimus Maximus|video-file:fast-music/progressimus_maximus_v1.wav.avi|youtube:c1V29h7SHOQ
+author:Kwanttitatti|pms-id:asm13/fast_music/150|position:15|techniques:Logic Pro|title:Röh|video-file:fast-music/röh_v1.mp3.avi|youtube:B550SH4aOkg
+author:Samppalol|platform:PC|pms-id:asm13/fast_music/173|position:16|techniques:Ableton Live|title:Kattokaa soin salin systeemeistä|video-file:fast-music/kattokaa_soin_salin_systeemeistä_v2.wav.avi|youtube:ZSb67U6kO_c
+author:reaby|pms-id:asm13/fast_music/178|position:17|title:Memories of summer|video-file:fast-music/memories_of_summer_v1.wav.avi|youtube:3UgBtylNi-c
+author:lgr|platform:os x, reason 7|pms-id:asm13/fast_music/190|position:18|title:melkein missasin, mattu!|video-file:fast-music/melkein_missasin,_mattu_v1.mp3.avi|youtube:_gOU3qlriLc
+author:Alhejarvela|pms-id:asm13/fast_music/182|position:19|techniques:FL Studio, 3xOSC|title:Nistep|video-file:fast-music/nistep_v1.mp3.avi|youtube:MydGhfzZ3fI
+author:Skeletronic|platform:Mac|pms-id:asm13/fast_music/154|position:20|techniques:Logic|title:Tuutulaulu|video-file:fast-music/tuutulaulu_v1.mp3.avi|youtube:D8Z26wfQv9k
+author:FruitieX|platform:PC|pms-id:asm13/fast_music/148|position:21|techniques:renoise, no skills|title:demoja musakompon aikana|video-file:fast-music/demoja_musakompon_aikana_v1.mp3.avi|youtube:kViE_5RjGV0
 
 
 :section Seminars
