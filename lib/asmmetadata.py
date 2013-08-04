@@ -219,7 +219,9 @@ class EntryYear(object):
 
 def parse_entry_line(line):
     try:
-        data_dict = dict((str(x.split(":", 1)[0]), x.split(":", 1)[1]) for x in line.split("|"))
+        data_dict = dict(
+            (str(x.split(":", 1)[0]),
+             unescape_value(x.split(":", 1)[1])) for x in line.split("|"))
     except:
         print line
         raise
@@ -306,6 +308,14 @@ def parse_file(file_handle):
     return result
 
 
+def unescape_value(value):
+    return value.replace("&#124;", "|")
+
+
+def escape_value(value):
+    return value.replace("|", "&#124;")
+
+
 def print_metadata(outfile, year_entry_data):
     outfile.write(":year %d\n" % year_entry_data.year)
     for section in year_entry_data.sections:
@@ -342,6 +352,9 @@ def print_metadata(outfile, year_entry_data):
             for key, value in entry.items():
                 if value is None:
                     del entry[key]
+
+            for key, value in entry.items():
+                entry[key] = escape_value(u"%s" % value)
 
             parts = sorted(
                 u"%s:%s" % (key, value) for key, value in entry.items())
@@ -513,3 +526,9 @@ def get_youtube_info_data(entry):
         'tags': list(tags),
         'category': category,
         }
+
+
+def reorder_positioned_section_entries(inout_entries):
+    def _get_key(value):
+        return value.get("position", 99999)
+    inout_entries.sort(key=_get_key)

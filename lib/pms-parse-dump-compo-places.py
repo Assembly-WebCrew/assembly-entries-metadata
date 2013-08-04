@@ -1,9 +1,15 @@
+import argparse
 import sys
 import xml.dom.minidom
 
-dom = xml.dom.minidom.parse(open(sys.argv[1], "rb"))
+parser = argparse.ArgumentParser()
+parser.add_argument("datafile")
+parser.add_argument("pms_datafile")
+args = parser.parse_args()
 
-entries = dom.getElementsByTagName("entry")
+pms_dom = xml.dom.minidom.parse(open(args.pms_datafile, "rb"))
+
+entries = pms_dom.getElementsByTagName("entry")
 
 iddata = {}
 
@@ -20,7 +26,7 @@ for entry in entries:
 
 import asmmetadata
 
-parsed = asmmetadata.parse_file(sys.stdin)
+parsed = asmmetadata.parse_file(open(args.datafile))
 
 for entry in parsed.entries:
     if 'pms-id' not in entry:
@@ -34,5 +40,8 @@ for entry in parsed.entries:
         entry['techniques'] = techniques
     if platform is not None:
         entry['platform'] = platform
+
+for section in parsed.sections:
+    asmmetadata.reorder_positioned_section_entries(section['entries'])
 
 asmmetadata.print_metadata(sys.stdout, parsed)
