@@ -244,6 +244,12 @@ author:lgr|pms-id:asm13/fast_music/190|title:melkein missasin, mattu!|video-file
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|guid:1607|media:/vod/2013/AssemblyTV/1607_Late_night_snack_with_Thoron.mp4|title:Late night snack with Thoron (valkosipulilla)|youtube:q1UaTZnyNfo
+author:AssemblyTV|description:The world is made of computers, and so every problem has a computer in the middle of it. Naturally, politicians with problems to solve turn to the regulation of computers for a solution -- with disastrous results.|guid:1590|media:/vod/2013/AssemblyTV/1590_Cory_Doctorow_How_to_live_in_a_World_Made_of_Computers.mp4|title:Cory Doctorow: How to Live in a World Made of Computers|youtube:JQ80abaIkq4
+author:AssemblyTV|guid:1623|media:/vod/2013/AssemblyTV/1623_Worldcon.mp4|title:WorldCon interview|youtube:ZG7STG9fGQM
+author:AssemblyTV|guid:1624|media:/vod/2013/AssemblyTV/1624_Finnish_Game_Jam.mp4|title:Finnish Game Jam interview|youtube:jS2h7St4xwA
+author:AssemblyTV|guid:1626|media:/vod/2013/AssemblyTV/1626_CreaterriaInterview.mp4|title:Createrria interview|youtube:wCt9vbX-IFY
+author:AssemblyTV|guid:1640|media:/vod/2013/AssemblyTV/1640_Asus_Interview.mp4|title:Asus Interview|youtube:n2pKOBQBVnA
+author:AssemblyTV|guid:1641|media:/vod/2013/AssemblyTV/1641_Asus-ROG.mp4|title:Asus ROG Interview|youtube:yMw7evLpuNY
 
 
 :section Winter
