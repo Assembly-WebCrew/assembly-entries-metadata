@@ -4,6 +4,7 @@
 :youtube-playlist PLJO4AtxKJiFOb2UoJD6Y4TyJEsmJj4D9Q
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2013 PC computer.</p>
+:sceneorg demo
 
 author:Pyrotech|guid:1683|media:/vod/2013/Compos/1683_Demo_Return_by_Pyrotech.mp4|platform:Windows|pms-id:asm13/demo/301|position:1|techniques:Dx9|title:Return|youtube:2GQ0tjesOYk
 author:adapt|guid:1685|media:/vod/2013/Compos/1685_Demo_refleXion_by_adapt.mp4|platform:PC|pms-id:asm13/demo/308|position:2|techniques:triangle strippers club|title:refleXion|youtube:77EMaj0da88
@@ -18,6 +19,7 @@ author:Pants^2|guid:1682|media:/vod/2013/Compos/1682_Demo_Silmansisainen_alkemis
 :youtube-playlist PLJO4AtxKJiFM24fC-urf9ohM14Q0-B1Sw
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+:sceneorg real_wild
 
 author:sooda|guid:1662|media:/vod/2013/Compos/1662_Realwild_next_train_takes_no_passengers_by_sooda.mp4|platform:Old Finnish metro station display|pms-id:asm13/real_wild/294|position:1|techniques:Atmel AVR, C, lots of reverse engineering|title:next train takes no passengers|youtube:XCO1I3zSwps
 author:hedelmae|guid:1660|media:/vod/2013/Compos/1660_Realwild_LCD_megademo2_by_hedelmae.mp4|platform:20x4 character LCD|pms-id:asm13/real_wild/290|position:2|title:LCD megademo 2|youtube:nxFad7Rxw7Q
@@ -35,6 +37,7 @@ author:Limba|guid:1663|media:/vod/2013/Compos/1663_Realwild_Beast_didnt_got_lose
 :youtube-playlist PLJO4AtxKJiFNYhxLPdodJJr3f9tAb_D2p
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:sceneorg in4k
 
 author:HBC|guid:1667|media:/vod/2013/Compos/1667_4k_Highway_4k_by_HBC.mp4|platform:PC, Firefox|pms-id:asm13/4k_intro/43|position:1|techniques:html/javascript/webgl|title:Highway 4k|youtube:mQFjReMd2us
 author:Faemiyah|guid:1669|media:/vod/2013/Compos/1669_4k_Yog-Sothoth_by_Faemiyah.mp4|platform:FreeBSD-ia32|pms-id:asm13/4k_intro/90|position:2|techniques:C, OpenGL 3.3, SDL|title:Yog-Sothoth|youtube:hibw4A8qLCE
@@ -55,6 +58,7 @@ author:g012 & p0ke / Flush|guid:1677|media:/vod/2013/Compos/1677_4k_Planet_DTT_b
 :youtube-playlist PLJO4AtxKJiFOaMSsK3DtH1MzhKKsbXtca
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:sceneorg in1k
 
 author:Traction + Fit|guid:1639|media:/vod/2013/Compos/1639_1k_Tendrils_by_Traction_and_Fit.mp4|platform:PC|pms-id:asm13/1k_intro/276|position:1|techniques:Crinkler|title:Tendrils|youtube:2vTzI8Wu_VM
 author:TDA|guid:1629|media:/vod/2013/Compos/1629_1k_Remnant_by_TDA.mp4|platform:MacOS X|pms-id:asm13/1k_intro/49|position:2|techniques:GLSL, nasm|title:Remnant|youtube:skgb88RrDlE
@@ -75,6 +79,7 @@ author:BooZombies|guid:1637|media:/vod/2013/Compos/1637_1k_Headache_by_BooZombie
 :youtube-playlist PLJO4AtxKJiFM2e4Fvoxq0AI6eGgpEbWtY
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:sceneorg oldskool/demo
 
 author:Dekadence|guid:1616|media:/vod/2013/Compos/1616_Oldskool_Norwegian_Pillow_by_Dekadence.mp4|platform:Amiga 500|pms-id:asm13/oldskool_demo/73|position:1|techniques:Mad skillz and beer|title:Norwegian Pillow|youtube:oGcsGC9vPho
 author:Gasman / Hooy-Program|guid:1618|media:/vod/2013/Compos/1618_Oldskool_Sundown_invtro_by_Gasman.mp4|platform:ZX Spectrum|pms-id:asm13/oldskool_demo/195|position:2|title:On Her Majesty's Sceneish Service: Sundown 2013 Invitation|youtube:bku6bB0Y4HY
@@ -87,6 +92,7 @@ author:BooZombies|guid:1620|media:/vod/2013/Compos/1620_Oldskool_Britelites_pink
 :youtube-playlist PLJO4AtxKJiFMES5AfgbquhRiUbNEhJJ83
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+:sceneorg short_film
 
 author:Tekotuotanto|guid:1650|media:/vod/2013/Compos/1650_Shortfilm_Doomsday_Device_by_Tekotuotanto.mp4|pms-id:asm13/short_film/295|position:1|techniques:3dsmax, Fusion, After Effects, Reaper|title:Doomsday Device|video-file:short-film/doomsday_device_by_tekotuotanto_v2.mp4|youtube:YvJ4AmHnZIc
 author:Team FATBON co.|guid:1644|media:/vod/2013/Compos/1644_Shortfilm_Fatman_and_Robon_by_Team_FATBON.mp4|platform:PC|pms-id:asm13/short_film/84|position:2|techniques:3D-graphic animation|title:Fatman & Robon|video-file:short-film/fatman_&_robon_by_team_fatbon_co._v1.mp4|youtube:zLnX-Bw9NM0
@@ -105,6 +111,7 @@ author:inDigiNeous & Hystereo Psychovsky|guid:1651|media:/vod/2013/Compos/1651_S
 :youtube-playlist PLJO4AtxKJiFPkxbwjF5FLO9UlsagS4I3a
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+:sceneorg gamedev
 
 author:Pizzalaatikko|guid:1606|media:/vod/2013/Compos/1606_Gamedev_KAAL_by_Pizzalaatikko.mp4|platform:Windows, Linux|pms-id:asm13/gamedev/30|position:1|title:KAAL|youtube:3C4BaPRBh0k
 author:Lukas, Yonatan|guid:1591|media:/vod/2013/Compos/1591_Gamedev_Polkky_by_Lukas_and_Yonatan.mp4|platform:PC|pms-id:asm13/gamedev/3|position:2|techniques:Amazing 3D modeling skills, Unity tree creator|title:Pölkky|youtube:9zFr70jaxn0
@@ -127,6 +134,7 @@ author:Future Devs|guid:1593|media:/vod/2013/Compos/1593_Gamedev_I_Want_it_Back_
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:sceneorg grfx
 
 author:Valtteri|image-file:graphics/SS_Conquest_nosig.jpg|platform:PC|pms-id:asm13/graphics/180|position:1|techniques:Photoshop|title:S/S Conquest
 author:Darkki|image-file:graphics/Eye_of_the_storm_by_Darkki_nosig.png|platform:PC|pms-id:asm13/graphics/132|position:2|techniques:3dsmax / Photoshop|title:Eye of the storm
@@ -151,6 +159,7 @@ author:Ixtor|image-file:graphics/disappointment_nosig.jpg|pms-id:asm13/graphics/
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "More hardware is not the solution" theme.</p>
+:sceneorg fast/grfx
 
 author:maxon / HBC|image-file:fast-graphics/the_smell_of_new_hardware_nosig.png|pms-id:asm13/fast_graphics/260|position:1|techniques:Blender, Photoshop|title:The smell of new hardware
 author:Valtteri|image-file:fast-graphics/this_time_i_come_prepared_v1.jpg|platform:PC|pms-id:asm13/fast_graphics/268|position:2|techniques:Photoshop|title:This time I come prepared
@@ -171,6 +180,7 @@ author:PastelDonut|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|platf
 :youtube-playlist PLJO4AtxKJiFNq5p9Z6TG9JyBlUQUY_oO-
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
+:sceneorg music/dance
 
 author:Little Bitchard|platform:Streaming the seas of cheese|pms-id:asm13/dance_music/78|position:1|techniques:"In The Box"|title:Four Seasons of Cheese|video-file:dance-music/four_seasons_of_cheese_v2.mp3.avi|youtube:ujAz2ZAeiZw
 author:Alek Szahala|platform:PC|pms-id:asm13/dance_music/55|position:2|techniques:FL9|title:Bom Shiva Shankar Zai Zilumi Zapati|video-file:dance-music/bom_shiva_shankar_zai_zilumi_zapati_v2.mp3.avi|youtube:hl9GLgicQ6o
@@ -190,6 +200,7 @@ author:Yagura|platform:MP3/PC|pms-id:asm13/dance_music/42|position:12|techniques
 :youtube-playlist PLJO4AtxKJiFOddOg43I2fv_MUnyHgKvwb
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
+:sceneorg music/listening
 
 author:T-101 / Darklite|platform:Reaper|pms-id:asm13/listening_music/228|position:1|techniques:Real guitars/bass, Nightmares|title:Awakening|video-file:listening-music/awakening_v1.mp3.avi|youtube:f9EvhQxU6OE
 author:Aikapallo|pms-id:asm13/listening_music/108|position:2|techniques:Cubase + plugins, beer & kebab|title:Last Flight to Home|video-file:listening-music/last_flight_to_home_v1.mp3.avi|youtube:xpTl9wt-0pw
@@ -210,6 +221,7 @@ author:noby^ren|platform:PC|pms-id:asm13/listening_music/198|position:13|techniq
 :youtube-playlist PLJO4AtxKJiFMefRAQM5uSrYaK5n5_1L00
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:sceneorg music/fast
 
 author:King Thrill / Tekotuotanto|pms-id:asm13/fast_music/159|position:1|techniques:Reaper|title:Sudden Death Mode Activated|video-file:fast-music/sudden_death_mode_activated_v2.mp3.avi|youtube:uDr-3KFbA4M
 author:Jarski|platform:PC|pms-id:asm13/fast_music/165|position:2|techniques:Renoise|title:snorlaxin ja szuran assyretki|video-file:fast-music/snorlaxin_ja_szuran_assyretki_v1.mp3.avi|youtube:6cKj1LdTwZ4
