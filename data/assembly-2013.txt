@@ -261,6 +261,7 @@ author:AssemblyTV|guid:1624|media:/vod/2013/AssemblyTV/1624_Finnish_Game_Jam.mp4
 author:AssemblyTV|guid:1626|media:/vod/2013/AssemblyTV/1626_CreaterriaInterview.mp4|title:Createrria interview|youtube:wCt9vbX-IFY
 author:AssemblyTV|guid:1640|media:/vod/2013/AssemblyTV/1640_Asus_Interview.mp4|title:Asus Interview|youtube:n2pKOBQBVnA
 author:AssemblyTV|guid:1641|media:/vod/2013/AssemblyTV/1641_Asus-ROG.mp4|title:Asus ROG Interview|youtube:yMw7evLpuNY
+author:AssemblyTV|title:Dismantling AssemblyTV 2013 timelapse|youtube:UTEfSs9f9GI
 
 
 :section Winter
@@ -276,7 +277,6 @@ author:AssemblyTV|description:Tunnelmia lauantailta.|title:Lauantain tunnelmia|y
 author:AssemblyTV|description:Kävijöiden haastatteluja lauantailta ja perjantailta.|title:Kävijähaastatteluja|youtube:1HyhGdNtLpg
 author:AssemblyTV|description:Henri ja Susanna kohtasivat barbaarien kolmiottelussa Ruoholahdessa 23. helmikuuta 2013. Selostajina Ulfgar Rautanyrkki ja Conan Virtanen.|title:Barbaari-cup|youtube:P4DNmlDRNBA
 author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|title:Assembly Harlem Shake|youtube:WRIPFiHYxGA
-
 
 :section Photos winter
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2013/
