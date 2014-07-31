@@ -31,7 +31,16 @@ def get_languaged_tag(item, tagname):
     return values
 
 
-def get_entry(guid, section):
+def get_entry_by_pms_path(pms_path, event_data):
+    for section in event_data.sections:
+        for entry in section['entries']:
+            entry_pms_path = entry.get('pms-id')
+            if entry_pms_path == pms_path:
+                return entry
+    return None
+
+
+def get_entry_by_guid(guid, section):
     for entry in section['entries']:
         if entry.get("guid") == guid:
             return entry
@@ -46,6 +55,26 @@ for item in items:
     title = titles.get('en', titles.get('fi', 'UNKNOWN TITLE'))
     descriptions = get_languaged_tag(item, "description")
     guid = item.getElementsByTagName("guid")[0].firstChild.nodeValue
+    guid = guid.replace("http://elaine.assembly.org/programs/", "")
+
+    entry = None
+    path_len = len(item.getElementsByTagName("pms_path"))
+    pms_path = None
+    pms_path_child = item.getElementsByTagName("pms_path")[0].firstChild
+    if pms_path_child:
+        pms_path = pms_path_child.nodeValue
+    if pms_path:
+        entry = get_entry_by_pms_path(pms_path, event_data)
+
+    if entry:
+        entry['guid'] = guid
+
+    youtube = None
+    youtube_child = item.getElementsByTagName("youtube")[0].firstChild
+    if youtube_child:
+        youtube = youtube_child.nodeValue
+    if entry and youtube:
+        entry['youtube'] = youtube
 
     highestMedia = None
     mediaNodes = item.getElementsByTagName("media:group")[0]
@@ -79,7 +108,7 @@ for item in items:
             if year != event_data.year:
                 continue
 
-            entry = get_entry(guid, section_assemblytv)
+            entry = get_entry_by_guid(guid, section_assemblytv)
             if entry is None:
                 entry_data = {
                     'author': "AssemblyTV",
