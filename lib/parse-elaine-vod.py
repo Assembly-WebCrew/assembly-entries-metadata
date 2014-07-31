@@ -91,7 +91,9 @@ for item in items:
             highestRate = bitrate
             highestMedia = (url, mediaType, bitrate, size, title, guid)
             highestType = mediaType
-        if bitrate == highestRate and highestType == "video/avi" and mediaType == "video/mp4":
+        if (bitrate == highestRate and
+            highestType == "video/avi" and
+            mediaType == "video/mp4"):
             highestMedia = (url, mediaType, bitrate, size, title, guid)
             highestType = mediaType
 
@@ -112,7 +114,7 @@ for item in items:
             if entry is None:
                 entry_data = {
                     'author': "AssemblyTV",
-                    }
+                }
                 event_data.addEntry(section_assemblytv, entry_data)
             else:
                 entry_data = entry
@@ -133,7 +135,7 @@ for item in items:
             if entry is None:
                 entry_data = {
                     'author': "AssemblyTV seminars",
-                    }
+                }
                 event_data.addEntry(section_seminars, entry_data)
             else:
                 entry_data = entry
