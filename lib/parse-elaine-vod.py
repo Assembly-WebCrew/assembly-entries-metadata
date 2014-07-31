@@ -118,7 +118,9 @@ for item in items:
                 entry_data = entry
             entry_data['title'] = title
             entry_data['media'] = url
-            entry_data['guid'] =  guid
+            entry_data['guid'] = guid
+            if youtube:
+                entry_data['youtube'] = youtube
             description = descriptions.get('en') or ""
             entry_data['description'] = description.strip() or None
         elif re.match(r"\d\d\d\d Seminars", category):
@@ -127,7 +129,7 @@ for item in items:
             if year != event_data.year:
                 continue
 
-            entry = get_entry(guid, section_seminars)
+            entry = get_entry_by_guid(guid, section_seminars)
             if entry is None:
                 entry_data = {
                     'author': "AssemblyTV seminars",
@@ -138,7 +140,9 @@ for item in items:
             title = title.replace("ARTtech seminars - ", "")
             entry_data['title'] = title
             entry_data['media'] = url
-            entry_data['guid'] =  guid
+            entry_data['guid'] = guid
+            if youtube:
+                entry_data['youtube'] = youtube
 
 
 temporary_output = tempfile.NamedTemporaryFile(delete=False)
