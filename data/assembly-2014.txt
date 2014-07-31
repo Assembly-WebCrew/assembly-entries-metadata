@@ -166,6 +166,10 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 
 :section AssemblyTV
-
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
 
+
+:section Hearthstone
+:description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> related events during Assembly Summer 2014.</p>
+author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
