@@ -1,63 +1,103 @@
 :year 2014
 
 :section Demo
-:public false
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2014 PC computer.</p>
+:public false
+
+
 
 :section 4k intro
-:public false
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2014 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:public false
+
+
 
 :section 1k intro
-:public false
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2014 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:public false
+
+
 
 :section Real wild demo
-:public false
 :pms-category real_wild demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+:public false
+
+
 
 :section Oldskool demo
-:public false
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:public false
+
+
 
 :section Short film
-:public false
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+:public false
+
+
 
 :section Gamedev
 :pms-category game_development
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
+author:Itchi / Lonely Coders|pms-id:asm14/game_development/371|title:Demoscene Pinball
+author:CubeForm Labs|pms-id:asm14/game_development/372|title:2048 FPS
+author:Rayhouse Productions|pms-id:asm14/game_development/376|title:Neurotron
+author:Jonzki|pms-id:asm14/game_development/377|title:Supar Choppah (Simulator)
+author:Limba|pms-id:asm14/game_development/381|title:Run Nerd Run
+author:Isoaha|pms-id:asm14/game_development/382|title:Diarrhea
+author:petokeksi|pms-id:asm14/game_development/387|title:Fedora Fabio
+author:Kalle Hiltunen, Joonatan Koponen|pms-id:asm14/game_development/391|title:Sauna Champion
+author:moziz, Raattis|pms-id:asm14/game_development/392|title:Frack Grenade
+author:Pimiö|pms-id:asm14/game_development/393|title:Stardust Galaxy Warriors 2
+author:Evantaur|pms-id:asm14/game_development/394|title:Contain It
+author:spriteBatch|pms-id:asm14/game_development/396|title:Bad Dreams
+author:Tekotuotanto|pms-id:asm14/game_development/398|title:Office Rage Simulator
+author:Cavy|pms-id:asm14/game_development/400|title:Gaslight Wiener
+author:Kayaman|pms-id:asm14/game_development/412|title:Booze Bunny
+author:Team Tensia|pms-id:asm14/game_development/413|title:Knight of Tensia
+
+
 :section Listening music
-:public false
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
+:public false
+
+
 
 :section Fast music
-:public false
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:public false
+
+
 
 :section Dance music
-:public false
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
+:public false
+
+
 
 :section Graphics
-:public false
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:public false
+
+
 
 :section Fast graphics
-:public false
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "More hardware is not the solution" theme.</p>
+:public false
+
+
 
 :section Winter
 :youtube-playlist PLJO4AtxKJiFNrA3olNFm5LM6G30EMztSn
@@ -108,3 +148,4 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 1|t
 author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 2|title:Assembly Winter 2014 - ASUS ROG: Dear VS. San, GF, Bo7, Map 2|youtube:YR9Ka_qryz0
 author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 3|title:Assembly Winter 2014 - ASUS ROG: Dear VS. San, GF, Bo7, Map 3|youtube:90Ynfh_3m-Q
 author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|title:Assembly Winter 2014 - ASUS ROG: Dear VS. San, GF, Bo7, Map 4|youtube:ifTAbfolIa4
+
