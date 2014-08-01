@@ -53,6 +53,7 @@
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
 
+author:Itchi / Lonely Coders|guid:1769|pms-id:asm14/game_development/371|title:Demoscene Pinball|youtube:nGndkyS_UBM
 author:CubeForm Labs|guid:1770|pms-id:asm14/game_development/372|title:2048 FPS|youtube:mLyFM1c2n_E
 author:Rayhouse Productions|guid:1771|pms-id:asm14/game_development/376|title:Neurotron|youtube:JdZwH3Eq9Pc
 author:Jonzki|guid:1772|pms-id:asm14/game_development/377|title:Supar Choppah (Simulator)|youtube:sj2JRitVilE
@@ -167,9 +168,13 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
+author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo
 
 
 :section Hearthstone
 :description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> related events during Assembly Summer 2014.</p>
+
 author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
+
