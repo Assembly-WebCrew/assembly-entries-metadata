@@ -1,5 +1,8 @@
 #!/bin/sh
 
+set -e
+set -u
+
 source "$(dirname "$0")"/variables.inc
 
 cd "$FILES_ROOT" || exit 1
@@ -8,7 +11,7 @@ for D in "$@" ; do
     echo "$D"
     mkdir -p thumbnails/small/"$D"
     mkdir -p thumbnails/large/"$D"
-    ls "$D"/*.png "$D"/*.jpeg "$D"/*.gif
+    ls "$D"/*.png "$D"/*.jpeg "$D"/*.gif || :
     for SUF in png jpeg gif jpg PNG JPEG GIF JPG; do
         for I in "$D"/*."$SUF"; do
             echo "$I"
