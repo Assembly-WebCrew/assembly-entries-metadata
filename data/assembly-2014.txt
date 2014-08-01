@@ -141,7 +141,6 @@ author:(author hidden until results)|pms-id:asm14/dance_music/603|title:Yleisess
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|image-file:graphics/417-entry.png|pms-id:asm14/graphics/417|title:Just like cats 'n' dogs
 author:(author hidden until results)|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|title:Gryphon Healer
