@@ -89,21 +89,20 @@ for item in items:
         url = mediaNode.getAttribute("url")
         if bitrate > highestRate:
             highestRate = bitrate
-            highestMedia = (url, mediaType, bitrate, size, title, guid)
+            highestMedia = (url, mediaType, bitrate, size)
             highestType = mediaType
         if (bitrate == highestRate and
             highestType == "video/avi" and
             mediaType == "video/mp4"):
-            highestMedia = (url, mediaType, bitrate, size, title, guid)
+            highestMedia = (url, mediaType, bitrate, size)
             highestType = mediaType
 
     for categoryNode in item.getElementsByTagName("category"):
-        if highestMedia is None:
-            continue
+        url = None
+        if highestMedia is not None:
+            url, mediaType, bitrate, size = highestMedia
+            url = url.replace("http://media.assembly.org", "")
         category = categoryNode.firstChild.nodeValue
-        url, mediaType, bitrate, size, title, guid = highestMedia
-        url = url.replace("http://media.assembly.org", "")
-        guid = guid.replace("http://elaine.assembly.org/programs/", "")
         if re.match(r"\d\d\d\d AssemblyTV", category):
             year, _ = category.split(" ")
             year = int(year)
