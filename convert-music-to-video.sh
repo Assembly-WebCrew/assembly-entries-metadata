@@ -14,7 +14,7 @@ function cleanup {
 }
 trap cleanup EXIT
 
-for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3}; do
+for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3,*.flac}; do
     TARGET_FILE="$MUSIC_FILE".avi
 
     mplayer -ao pcm:file="$IDFILE" "$MUSIC_FILE"
