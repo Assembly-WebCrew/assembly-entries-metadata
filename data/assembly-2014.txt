@@ -75,7 +75,6 @@ author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of T
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
 author:(author hidden until results)|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
@@ -135,21 +134,21 @@ author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagasca
 :description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
-author:(author hidden until results)|pms-id:asm14/fast_graphics/564|title:Gas chambers
-author:(author hidden until results)|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
-author:(author hidden until results)|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
-author:(author hidden until results)|pms-id:asm14/fast_graphics/588|title:Fractured
-author:(author hidden until results)|pms-id:asm14/fast_graphics/589|title:Keep up
-author:(author hidden until results)|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
-author:(author hidden until results)|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
-author:(author hidden until results)|pms-id:asm14/fast_graphics/593|title:Swim you fools!
-author:(author hidden until results)|pms-id:asm14/fast_graphics/594|title:Bad breath
-author:(author hidden until results)|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
-author:(author hidden until results)|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
-author:(author hidden until results)|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
-author:(author hidden until results)|pms-id:asm14/fast_graphics/606|title:Blub
-author:(author hidden until results)|pms-id:asm14/fast_graphics/607|title:Poison
+author:(author hidden until results)|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics|image-file:fast-graphics/556-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/564|title:Gas chambers|image-file:fast-graphics/564-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath|image-file:fast-graphics/570-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE|image-file:fast-graphics/579-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/588|title:Fractured|image-file:fast-graphics/588-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/589|title:Keep up|image-file:fast-graphics/589-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/590|title:Hold Your Breath|image-file:fast-graphics/590-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!|image-file:fast-graphics/592-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/593|title:Swim you fools!|image-file:fast-graphics/593-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/594|title:Bad breath|image-file:fast-graphics/594-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks|image-file:fast-graphics/595-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/599|title:Don't hold your breath|image-file:fast-graphics/599-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!|image-file:fast-graphics/605-entry.jpg
+author:(author hidden until results)|pms-id:asm14/fast_graphics/606|title:Blub|image-file:fast-graphics/606-entry.png
+author:(author hidden until results)|pms-id:asm14/fast_graphics/607|title:Poison|image-file:fast-graphics/607-entry.png
 
 
 :section Winter
