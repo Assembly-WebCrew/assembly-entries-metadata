@@ -54,6 +54,7 @@ for item in items:
     titles = get_languaged_tag(item, "title")
     title = titles.get('en', titles.get('fi', 'UNKNOWN TITLE'))
     descriptions = get_languaged_tag(item, "description")
+    description = descriptions.get('en', descriptions.get("fi", ""))
     guid = item.getElementsByTagName("guid")[0].firstChild.nodeValue
     guid = guid.replace("http://elaine.assembly.org/programs/", "")
 
@@ -122,7 +123,6 @@ for item in items:
             entry_data['guid'] = guid
             if youtube:
                 entry_data['youtube'] = youtube
-            description = descriptions.get('en') or ""
             entry_data['description'] = description.strip() or None
         elif re.match(r"\d\d\d\d Seminars", category):
             year, _ = category.split(" ")
@@ -142,6 +142,7 @@ for item in items:
             entry_data['title'] = title
             entry_data['media'] = url
             entry_data['guid'] = guid
+            entry_data['description'] = description.strip() or None
             if youtube:
                 entry_data['youtube'] = youtube
 
