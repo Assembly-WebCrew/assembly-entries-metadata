@@ -164,13 +164,17 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 :section Seminars
 
+author:AssemblyTV seminars|guid:1696|title:Epic TV - What, Why & How|youtube:97AXPm3Tyjo
+author:AssemblyTV seminars|guid:1718|title:Open, hack, bend, rewire, fork, and mod|youtube:ZBCFBbxtBAw
+author:AssemblyTV seminars|guid:1719|title:Parcel: How I Learned to Stop Worrying and Love the Box|youtube:RHo-V_fAJ4g
+author:AssemblyTV seminars|guid:1720|title:Art and style of indie mobile game Pako|youtube:X3y5p6_AqLc
 
 
 :section AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
-author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo
+author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo|youtube:Q71To05HYnE
 
 
 :section Hearthstone
