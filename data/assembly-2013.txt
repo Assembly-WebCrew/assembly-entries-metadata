@@ -262,6 +262,23 @@ author:AssemblyTV|guid:1626|media:/vod/2013/AssemblyTV/1626_CreaterriaInterview.
 author:AssemblyTV|guid:1640|media:/vod/2013/AssemblyTV/1640_Asus_Interview.mp4|title:Asus Interview|youtube:n2pKOBQBVnA
 author:AssemblyTV|guid:1641|media:/vod/2013/AssemblyTV/1641_Asus-ROG.mp4|title:Asus ROG Interview|youtube:yMw7evLpuNY
 author:AssemblyTV|title:Dismantling AssemblyTV 2013 timelapse|youtube:UTEfSs9f9GI
+author:AssemblyTV|guid:1536|media:/vod/2013/AssemblyTV/1536_SuperSound_of_Video_Games.mp4|title:Assembly Concerts: Super Sound of Video Games
+author:AssemblyTV|guid:1560|media:/vod/2012/AssemblyTV/1402_Fast_music_compostudio.mp4|title:Fast music compostudio
+author:AssemblyTV|guid:1562|title:Fast graphics compostudio
+author:AssemblyTV|guid:1571|media:/vod/2013/AssemblyTV/1571_Kepes_mode_concert.mp4|title:Assembly concerts: Kepes mode
+author:AssemblyTV|guid:1572|media:/vod/2013/AssemblyTV/1572_Kebu_concert.mp4|title:Assembly concerts: Kebu
+author:AssemblyTV|description:Samuli Torssonen and Jarmo Puskala from the Iron Sky team share some of their war stories in this interview. (In Finnish)|guid:1573|title:War stories from Iron Sky (Fin)
+author:AssemblyTV|guid:1608|media:/vod/2013/AssemblyTV/1608_osu.mp4|title:Visitor Interview - OSU
+author:AssemblyTV|guid:1609|media:/vod/2013/AssemblyTV/1609_jimms.mp4|title:Jimm's sponsor interview
+author:AssemblyTV|guid:1610|media:/vod/2013/AssemblyTV/1610_OrkesterinHaastattelu.mp4|title:Orkesterin haastattelu
+author:AssemblyTV|guid:1611|media:/vod/2013/AssemblyTV/1611_ElektroniikkaKokkausta.mp4|title:Elektroniikkakokkaus
+author:AssemblyTV|guid:1612|media:/vod/2013/AssemblyTV/1612_SeminaarivetajanHaastattelu.mp4|title:Seminaarivetäjän haastattelu
+author:AssemblyTV|guid:1613|media:/vod/2013/AssemblyTV/1613_Kokkausnurkassa.mp4|title:Kokkausnurkka
+author:AssemblyTV|guid:1621|media:/vod/2013/AssemblyTV/1621_Elektroniikkakokkausta2.mp4|title:Elektroniikkakokkaus 2
+author:AssemblyTV|guid:1622|media:/vod/2013/AssemblyTV/1622_RovioInterview.mp4|title:Rovio sponsor interview
+author:AssemblyTV|guid:1654|media:/vod/2013/AssemblyTV/1654_Late_night_kaikki_mausteet_snack_with_Thoron.mp4|title:Late night snack with Thoron (kaikilla mausteilla)
+author:AssemblyTV|guid:1655|media:/vod/2013/AssemblyTV/1655_Late_night_noname_snack.mp4|title:Late night snack presents blank
+author:AssemblyTV|guid:1686|title:Steelseries Interview
 
 
 :section Winter
@@ -277,6 +294,7 @@ author:AssemblyTV|description:Tunnelmia lauantailta.|title:Lauantain tunnelmia|y
 author:AssemblyTV|description:Kävijöiden haastatteluja lauantailta ja perjantailta.|title:Kävijähaastatteluja|youtube:1HyhGdNtLpg
 author:AssemblyTV|description:Henri ja Susanna kohtasivat barbaarien kolmiottelussa Ruoholahdessa 23. helmikuuta 2013. Selostajina Ulfgar Rautanyrkki ja Conan Virtanen.|title:Barbaari-cup|youtube:P4DNmlDRNBA
 author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|title:Assembly Harlem Shake|youtube:WRIPFiHYxGA
+
 
 :section Photos winter
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2013/
