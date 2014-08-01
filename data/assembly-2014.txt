@@ -127,6 +127,28 @@ author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagasca
 :ongoing true
 :public false
 
+author:(author hidden until results)|image-file:graphics/417-entry.png|pms-id:asm14/graphics/417|title:Just like cats 'n' dogs
+author:(author hidden until results)|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|title:Gryphon Healer
+author:(author hidden until results)|image-file:graphics/426-entry.jpg|pms-id:asm14/graphics/426|title:Its about to get cheesy
+author:(author hidden until results)|image-file:graphics/435-entry.jpg|pms-id:asm14/graphics/435|title:The ancient tentacleforest of magical floating bubbles
+author:(author hidden until results)|image-file:graphics/440-entry.jpg|pms-id:asm14/graphics/440|title:The Hunting Party
+author:(author hidden until results)|image-file:graphics/438-entry.png|pms-id:asm14/graphics/442|title:The best place to observe
+author:(author hidden until results)|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|title:Ancient god awakens
+author:(author hidden until results)|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|title:Thieving Trolls
+author:(author hidden until results)|image-file:graphics/449-entry.png|pms-id:asm14/graphics/449|title:Monitoring Life
+author:(author hidden until results)|image-file:graphics/455-entry.jpg|pms-id:asm14/graphics/455|title:Bells & Whistles
+author:(author hidden until results)|image-file:graphics/472-entry.jpg|pms-id:asm14/graphics/472|title:Under The Dome
+author:(author hidden until results)|image-file:graphics/475-entry.jpg|pms-id:asm14/graphics/475|title:Forest Village
+author:(author hidden until results)|image-file:graphics/476-entry.jpg|pms-id:asm14/graphics/476|title:Don't mess with me
+author:(author hidden until results)|image-file:graphics/477-entry.jpg|pms-id:asm14/graphics/477|title:Freedom
+author:(author hidden until results)|image-file:graphics/492-entry.png|pms-id:asm14/graphics/492|title:Playground
+author:(author hidden until results)|image-file:graphics/508-entry.jpg|pms-id:asm14/graphics/508|title:Creator of Worlds
+author:(author hidden until results)|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|title:At your service
+author:(author hidden until results)|image-file:graphics/545-entry.jpg|pms-id:asm14/graphics/545|title:Shock Troops
+author:(author hidden until results)|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|title:Carnivore
+author:(author hidden until results)|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|title:Home
+author:(author hidden until results)|image-file:graphics/566-entry.jpg|pms-id:asm14/graphics/566|title:Desert Dweller
+author:(author hidden until results)|image-file:graphics/591-entry.png|pms-id:asm14/graphics/591|title:Parks and Recreation
 
 
 :section Fast graphics
@@ -134,21 +156,21 @@ author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagasca
 :description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics|image-file:fast-graphics/556-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/564|title:Gas chambers|image-file:fast-graphics/564-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath|image-file:fast-graphics/570-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE|image-file:fast-graphics/579-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/588|title:Fractured|image-file:fast-graphics/588-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/589|title:Keep up|image-file:fast-graphics/589-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/590|title:Hold Your Breath|image-file:fast-graphics/590-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!|image-file:fast-graphics/592-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/593|title:Swim you fools!|image-file:fast-graphics/593-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/594|title:Bad breath|image-file:fast-graphics/594-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks|image-file:fast-graphics/595-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/599|title:Don't hold your breath|image-file:fast-graphics/599-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!|image-file:fast-graphics/605-entry.jpg
-author:(author hidden until results)|pms-id:asm14/fast_graphics/606|title:Blub|image-file:fast-graphics/606-entry.png
-author:(author hidden until results)|pms-id:asm14/fast_graphics/607|title:Poison|image-file:fast-graphics/607-entry.png
+author:(author hidden until results)|image-file:fast-graphics/556-entry.jpg|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
+author:(author hidden until results)|image-file:fast-graphics/564-entry.jpg|pms-id:asm14/fast_graphics/564|title:Gas chambers
+author:(author hidden until results)|image-file:fast-graphics/570-entry.png|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
+author:(author hidden until results)|image-file:fast-graphics/579-entry.png|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
+author:(author hidden until results)|image-file:fast-graphics/588-entry.png|pms-id:asm14/fast_graphics/588|title:Fractured
+author:(author hidden until results)|image-file:fast-graphics/589-entry.png|pms-id:asm14/fast_graphics/589|title:Keep up
+author:(author hidden until results)|image-file:fast-graphics/590-entry.jpg|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
+author:(author hidden until results)|image-file:fast-graphics/592-entry.jpg|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
+author:(author hidden until results)|image-file:fast-graphics/593-entry.png|pms-id:asm14/fast_graphics/593|title:Swim you fools!
+author:(author hidden until results)|image-file:fast-graphics/594-entry.png|pms-id:asm14/fast_graphics/594|title:Bad breath
+author:(author hidden until results)|image-file:fast-graphics/595-entry.jpg|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
+author:(author hidden until results)|image-file:fast-graphics/599-entry.jpg|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
+author:(author hidden until results)|image-file:fast-graphics/605-entry.jpg|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
+author:(author hidden until results)|image-file:fast-graphics/606-entry.png|pms-id:asm14/fast_graphics/606|title:Blub
+author:(author hidden until results)|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/607|title:Poison
 
 
 :section Winter
@@ -224,3 +246,4 @@ author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media
 author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
 author:AssemblyTV|description:Haastattelimme Hearthstone-finalisti Savjzia ennen finaalipelin alkua.|title:ASSEMBLY Summer 2014: Haastattelussa Hearthstone-finalisti Savjz|youtube:RSivY_a3mgw
 author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän parhaan joukkoon sijoittunutta Ari "Arirmind" Tukiaista 31.7.2014.|title:ASSEMBLY Summer 2014: Haastateltavana Hearthstone-pelaaja Arirmind|youtube:6Bbzl0ZfJks
+
