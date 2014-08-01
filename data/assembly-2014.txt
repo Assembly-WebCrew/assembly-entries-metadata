@@ -241,6 +241,7 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 :section Seminars
 :youtube-playlist PLJO4AtxKJiFOsyXRGI1-m0KMM2C-zHS1z
+:elaine-category 2014 Seminars
 
 author:AssemblyTV seminars|description:Jukka Niittymaa from Elisa describes why and how EpicTV is going to be the ultimate hub for the best extreme sports videos on the planet. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1696|title:Epic TV - What, Why & How|youtube:97AXPm3Tyjo
 author:AssemblyTV seminars|description:Forest Oliphant is talking about programming and how it is not just writing code, it is the power to combine tools to get something done. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1718|title:Open, hack, bend, rewire, fork, and mod|youtube:ZBCFBbxtBAw
@@ -253,6 +254,7 @@ author:AssemblyTV seminars|description:Dr. Gavin Wood will introduce the Ethereu
 :section AssemblyTV
 :youtube-playlist PLJO4AtxKJiFMW8laMoJwKsf4E2eLNKgA_
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:elaine-category 2014 AssemblyTV
 
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
 author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo|youtube:Q71To05HYnE
@@ -261,6 +263,7 @@ author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media
 :section Hearthstone
 :youtube-playlist PLJO4AtxKJiFMy5OtFLx6HyLKq-ApVAHA3
 :description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> during Assembly Summer 2014.</p>
+:elaine-category 2014 HearthStone
 
 author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
 author:AssemblyTV|description:Haastattelimme Hearthstone-finalisti Savjzia ennen finaalipelin alkua.|title:ASSEMBLY Summer 2014: Haastattelussa Hearthstone-finalisti Savjz|youtube:RSivY_a3mgw
@@ -270,6 +273,17 @@ author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän pa
 :section Starcraft 2
 :youtube-playlist PLJO4AtxKJiFMA-BjiwyUtR81DcgjYM8Cu
 :description <p>This section includes videos related to <a href="http://eu.battle.net/sc2/">Starcraft 2</a> during Assembly Summer 2014.</p>
+:elaine-category 2014 StarCraft 2
 
 author:AssemblyTV|description:Kävimme haastattelemassa Samuli 'elfi' Sihvosta ennen StarCraft II IeSF Qualifier -turnauksen alkua.|title:ASSEMBLY Summer 2014: Haastattelussa StarCraft 2 -pelaaja elfi.|youtube:f6OVK7kpql8
 
+
+:section CS:GO (ASUS ROG)
+:youtube-playlist PLJO4AtxKJiFPkIMpmwLUcwySK6IURbWe9
+:elaine-category 2014 CS:GO (ASUS ROG)
+
+author:AssemblyTV|title:ASSEMBLY Summer 2014: Haastateltavana CS:GO joukkue RCTICin kapteeni el_miQuel.|youtube:1PIKzognq58
+
+
+:section Dota 2
+:elaine-category 2014 DOTA2

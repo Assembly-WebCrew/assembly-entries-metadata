@@ -292,6 +292,13 @@ def parse_file(file_handle):
                 section['sceneorg'] = value
             elif data_type == ":galleriafi":
                 section['galleriafi'] = value
+            elif data_type == ":elaine-category":
+                # Categories can only be under section.
+                assert section is not None
+                # Only one elaine category per section is allowed.
+                assert 'elaine-category' not in section
+                if len(value):
+                    section['elaine-category'] = value
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
@@ -325,6 +332,8 @@ def print_metadata(outfile, year_entry_data):
                 ":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
         if 'pms-category' in section:
             outfile.write(":pms-category %s\n" % section['pms-category'])
+        if 'elaine-category' in section:
+            outfile.write(":elaine-category %s\n" % section['elaine-category'])
         if 'description' in section:
             outfile.write(
                 ":description %s\n" % section['description'].encode("utf-8"))
