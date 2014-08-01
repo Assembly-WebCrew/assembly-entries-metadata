@@ -223,4 +223,5 @@ author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media
 :description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> related events during Assembly Summer 2014.</p>
 
 author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
-
+author:AssemblyTV|description:Haastattelimme Hearthstone-finalisti Savjzia ennen finaalipelin alkua.|title:ASSEMBLY Summer 2014: Haastattelussa Hearthstone-finalisti Savjz|youtube:RSivY_a3mgw
+author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän parhaan joukkoon sijoittunutta Ari "Arirmind" Tukiaista 31.7.2014.|title:ASSEMBLY Summer 2014: Haastateltavana Hearthstone-pelaaja Arirmind|youtube:6Bbzl0ZfJks
