@@ -119,18 +119,18 @@ author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagasca
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm14/dance_music/445|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/447|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/450|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/463|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/464|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/465|title:Neil|video-file:dance-music/09_17neil.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/530|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/547|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/551|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/573|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/581|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4
-author:(author hidden until results)|pms-id:asm14/dance_music/603|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4
+author:(author hidden until results)|pms-id:asm14/dance_music/445|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4|youtube:i2S4JTBWYkw
+author:(author hidden until results)|pms-id:asm14/dance_music/447|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4|youtube:7jIo73qGWLo
+author:(author hidden until results)|pms-id:asm14/dance_music/450|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4|youtube:bzsgpa9fRZs
+author:(author hidden until results)|pms-id:asm14/dance_music/463|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4|youtube:ladbArilnbY
+author:(author hidden until results)|pms-id:asm14/dance_music/464|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4|youtube:cf4A6j3fykA
+author:(author hidden until results)|pms-id:asm14/dance_music/465|title:Neil|video-file:dance-music/09_17neil.flac.mp4|youtube:Z-LOfRZX8a4
+author:(author hidden until results)|pms-id:asm14/dance_music/530|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4|youtube:NYCR7i-lJeY
+author:(author hidden until results)|pms-id:asm14/dance_music/547|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4|youtube:Ub1f66zdYEA
+author:(author hidden until results)|pms-id:asm14/dance_music/551|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4|youtube:IP61Wg84gvA
+author:(author hidden until results)|pms-id:asm14/dance_music/573|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4|youtube:ULKBV_8R7Qw
+author:(author hidden until results)|pms-id:asm14/dance_music/581|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4|youtube:WexbZZWbgcY
+author:(author hidden until results)|pms-id:asm14/dance_music/603|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4|youtube:H-W8QGiOP54
 
 
 :section Graphics
