@@ -77,19 +77,19 @@ author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of T
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/459|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/461|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/470|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/479|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/487|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/495|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/499|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/559|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/560|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/567|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4
-author:(author hidden until results)|pms-id:asm14/listening_music/583|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4
+author:(author hidden until results)|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
+author:(author hidden until results)|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
+author:(author hidden until results)|pms-id:asm14/listening_music/459|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4|youtube:sP4GmVolGZI
+author:(author hidden until results)|pms-id:asm14/listening_music/461|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4|youtube:PXEwpY6WQaU
+author:(author hidden until results)|pms-id:asm14/listening_music/470|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4|youtube:qq1SVXix8eg
+author:(author hidden until results)|pms-id:asm14/listening_music/479|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4|youtube:6D50yOnykIk
+author:(author hidden until results)|pms-id:asm14/listening_music/487|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4|youtube:hxbRT_AIjng
+author:(author hidden until results)|pms-id:asm14/listening_music/495|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4|youtube:a5iskElI8aI
+author:(author hidden until results)|pms-id:asm14/listening_music/499|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4|youtube:8VkDnLNikRE
+author:(author hidden until results)|pms-id:asm14/listening_music/559|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4|youtube:LJlJxS5-j4I
+author:(author hidden until results)|pms-id:asm14/listening_music/560|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4|youtube:N06OQ_lFAhM
+author:(author hidden until results)|pms-id:asm14/listening_music/567|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4|youtube:qAEkRYNN1os
+author:(author hidden until results)|pms-id:asm14/listening_music/583|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4|youtube:BBsv607UVlw
 
 
 :section Fast music
