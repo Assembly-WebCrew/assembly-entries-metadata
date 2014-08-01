@@ -85,21 +85,21 @@ author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of T
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm14/fast_music/510|title:Race to 80's space
-author:(author hidden until results)|pms-id:asm14/fast_music/512|title:Bilepaku
-author:(author hidden until results)|pms-id:asm14/fast_music/513|title:puolentunnin espärinät
-author:(author hidden until results)|pms-id:asm14/fast_music/519|title:Softakanki
-author:(author hidden until results)|pms-id:asm14/fast_music/521|title:Johan Pumppasi
-author:(author hidden until results)|pms-id:asm14/fast_music/522|title:german beer spa
-author:(author hidden until results)|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV
-author:(author hidden until results)|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta
-author:(author hidden until results)|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers
-author:(author hidden until results)|pms-id:asm14/fast_music/534|title:Serenity
-author:(author hidden until results)|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään
-author:(author hidden until results)|pms-id:asm14/fast_music/537|title:Indigo Dreams
-author:(author hidden until results)|pms-id:asm14/fast_music/539|title:F**k That
-author:(author hidden until results)|pms-id:asm14/fast_music/540|title:Love
-author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagascar
+author:(author hidden until results)|pms-id:asm14/fast_music/510|title:Race to 80's space|video-file:fast-music/02_race to 80 s space.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/512|title:Bilepaku|video-file:fast-music/05_bilepaku.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/513|title:puolentunnin espärinät|video-file:fast-music/13_puolentunnin espärinät.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/519|title:Softakanki|video-file:fast-music/14_Yzi - Softakanki.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/521|title:Johan Pumppasi|video-file:fast-music/06_johan pumppasi.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/522|title:german beer spa|video-file:fast-music/07_german beer spa.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV|video-file:fast-music/03_Thousand Nights of Tinnitus - Tinnitus Suite Op_ 5 Part IV.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta|video-file:fast-music/08_ulinaa ulkoavaruudesta.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers|video-file:fast-music/10_piknik trip stickers.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/534|title:Serenity|video-file:fast-music/01_serenity.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään|video-file:fast-music/11_no eihän tästä nyt tule mitään.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/537|title:Indigo Dreams|video-file:fast-music/04_indigo dreams.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/539|title:F**k That|video-file:fast-music/09_f  k that.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/540|title:Love|video-file:fast-music/15_love.flac.avi
+author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagascar|video-file:fast-music/12_radagascar.flac.avi
 
 
 :section Dance music
