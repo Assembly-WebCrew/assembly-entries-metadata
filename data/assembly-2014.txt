@@ -85,6 +85,21 @@ author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of T
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm14/fast_music/510|title:Race to 80's space
+author:(author hidden until results)|pms-id:asm14/fast_music/512|title:Bilepaku
+author:(author hidden until results)|pms-id:asm14/fast_music/513|title:puolentunnin espärinät
+author:(author hidden until results)|pms-id:asm14/fast_music/519|title:Softakanki
+author:(author hidden until results)|pms-id:asm14/fast_music/521|title:Johan Pumppasi
+author:(author hidden until results)|pms-id:asm14/fast_music/522|title:german beer spa
+author:(author hidden until results)|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV
+author:(author hidden until results)|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta
+author:(author hidden until results)|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers
+author:(author hidden until results)|pms-id:asm14/fast_music/534|title:Serenity
+author:(author hidden until results)|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään
+author:(author hidden until results)|pms-id:asm14/fast_music/537|title:Indigo Dreams
+author:(author hidden until results)|pms-id:asm14/fast_music/539|title:F**k That
+author:(author hidden until results)|pms-id:asm14/fast_music/540|title:Love
+author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagascar
 
 
 :section Dance music
@@ -164,10 +179,10 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 :section Seminars
 
-author:AssemblyTV seminars|guid:1696|title:Epic TV - What, Why & How|youtube:97AXPm3Tyjo
-author:AssemblyTV seminars|guid:1718|title:Open, hack, bend, rewire, fork, and mod|youtube:ZBCFBbxtBAw
-author:AssemblyTV seminars|guid:1719|title:Parcel: How I Learned to Stop Worrying and Love the Box|youtube:RHo-V_fAJ4g
-author:AssemblyTV seminars|guid:1720|title:Art and style of indie mobile game Pako|youtube:X3y5p6_AqLc
+author:AssemblyTV seminars|description:Jukka Niittymaa from Elisa describes why and how EpicTV is going to be the ultimate hub for the best extreme sports videos on the planet. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1696|title:Epic TV - What, Why & How|youtube:97AXPm3Tyjo
+author:AssemblyTV seminars|description:Forest Oliphant is talking about programming and how it is not just writing code, it is the power to combine tools to get something done. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1718|title:Open, hack, bend, rewire, fork, and mod|youtube:ZBCFBbxtBAw
+author:AssemblyTV seminars|description:Pyry Takkunen from Polar Bunny is presenting Parcel, a cyberpunk multi-character puzzle game, scheduled for release in 2015, that recently blazed through Steam Greenlight. However, there have been times when the puzzling future hasn't looked as bright as|guid:1719|title:Parcel: How I Learned to Stop Worrying and Love the Box|youtube:RHo-V_fAJ4g
+author:AssemblyTV seminars|description:Tree Men Games Creative director Heikki Sillanpää tells about creation of the audiovisual style of car chase game Pako. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1720|title:Art and style of indie mobile game Pako|youtube:X3y5p6_AqLc
 
 
 :section AssemblyTV
