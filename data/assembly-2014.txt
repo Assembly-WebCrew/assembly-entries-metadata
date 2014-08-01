@@ -124,6 +124,21 @@ author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagasca
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
+author:(author hidden until results)|pms-id:asm14/fast_graphics/564|title:Gas chambers
+author:(author hidden until results)|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
+author:(author hidden until results)|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
+author:(author hidden until results)|pms-id:asm14/fast_graphics/588|title:Fractured
+author:(author hidden until results)|pms-id:asm14/fast_graphics/589|title:Keep up
+author:(author hidden until results)|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
+author:(author hidden until results)|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
+author:(author hidden until results)|pms-id:asm14/fast_graphics/593|title:Swim you fools!
+author:(author hidden until results)|pms-id:asm14/fast_graphics/594|title:Bad breath
+author:(author hidden until results)|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
+author:(author hidden until results)|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
+author:(author hidden until results)|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
+author:(author hidden until results)|pms-id:asm14/fast_graphics/606|title:Blub
+author:(author hidden until results)|pms-id:asm14/fast_graphics/607|title:Poison
 
 
 :section Winter
@@ -183,6 +198,7 @@ author:AssemblyTV seminars|description:Jukka Niittymaa from Elisa describes why 
 author:AssemblyTV seminars|description:Forest Oliphant is talking about programming and how it is not just writing code, it is the power to combine tools to get something done. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1718|title:Open, hack, bend, rewire, fork, and mod|youtube:ZBCFBbxtBAw
 author:AssemblyTV seminars|description:Pyry Takkunen from Polar Bunny is presenting Parcel, a cyberpunk multi-character puzzle game, scheduled for release in 2015, that recently blazed through Steam Greenlight. However, there have been times when the puzzling future hasn't looked as bright as|guid:1719|title:Parcel: How I Learned to Stop Worrying and Love the Box|youtube:RHo-V_fAJ4g
 author:AssemblyTV seminars|description:Tree Men Games Creative director Heikki Sillanpää tells about creation of the audiovisual style of car chase game Pako. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1720|title:Art and style of indie mobile game Pako|youtube:X3y5p6_AqLc
+author:AssemblyTV seminars|description:Joel Lehtonen from Koodilehto is talking about their new upcoming experiment: two months when bitcoin transaction data is broadcast nationwide in Finland using DVB-T technology. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with|guid:1721|title:Broadcasting Bitcoin transaction data on DVB-T|youtube:CudtV-NvO1Y
 
 
 :section AssemblyTV
