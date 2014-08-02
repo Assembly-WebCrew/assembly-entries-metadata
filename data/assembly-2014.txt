@@ -295,14 +295,15 @@ author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän pa
 :description <p>This section includes videos related to <a href="http://eu.battle.net/sc2/">Starcraft 2</a> during Assembly Summer 2014.</p>
 
 author:AssemblyTV|description:Kävimme haastattelemassa Samuli 'elfi' Sihvosta ennen StarCraft II IeSF Qualifier -turnauksen alkua.|title:ASSEMBLY Summer 2014: Haastattelussa StarCraft 2 -pelaaja elfi.|youtube:f6OVK7kpql8
+author:AssemblyTV|description:Haastattelimme 1.8.2014 illalla SC2-pelaaja Vesa 'Welmu' Hovista.|title:ASSEMBLY Summer 2014: Haastateltavana StarCraft 2 -pelaaja Welmu|youtube:NT8lIGONjrk
 
 
 :section CS:GO (ASUS ROG)
 :youtube-playlist PLJO4AtxKJiFPkIMpmwLUcwySK6IURbWe9
 :elaine-category 2014 CS:GO (ASUS ROG)
 
-author:AssemblyTV|title:ASSEMBLY Summer 2014: Haastateltavana CS:GO joukkue RCTICin kapteeni el_miQuel.|youtube:1PIKzognq58
-
+author:AssemblyTV|description:Kävimme haastattelemassa CS:GO joukkue RCTICin kapteenia Mikko 'el_miQuel' Kontturia.|title:ASSEMBLY Summer 2014: Haastateltavana CS:GO joukkue RCTICin kapteeni el_miQuel|youtube:1PIKzognq58
+author:AssemblyTV|description:We interviewed CS:GO player apEX from team Nostalgie 1.8.2014.|title:ASSEMBLY Summer 2014: Interview with CS:GO player apEX from team Nostalgie|youtube:H99BeBksUQ8
 
 :section Dota 2
 :elaine-category 2014 DOTA2
