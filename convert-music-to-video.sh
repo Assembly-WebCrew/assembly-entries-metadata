@@ -15,5 +15,5 @@ for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3,*.flac}; do
     [[ -f "$MUSIC_FILE" ]] || continue
     TARGET_FILE="$MUSIC_FILE".mp4
 
-    avconv -loop 1 -r 10 -i "$MUSIC_BACKGROUND" -i "$MUSIC_FILE" -strict experimental -acodec aac -b:a 256k -vcodec libx264 -r 10 -me_method zero -crf 4 -preset ultrafast -shortest -y "$TARGET_FILE"
+    $FFMPEG -loop 1 -r 10 -i "$MUSIC_BACKGROUND" -i "$MUSIC_FILE" -strict experimental -acodec aac -b:a 256k -vcodec libx264 -r 10 -me_method zero -crf 4 -preset ultrafast -shortest -y "$TARGET_FILE"
 done

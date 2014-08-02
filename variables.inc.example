@@ -29,3 +29,4 @@ ELAINE_PMS_VODLIST=vodlist
 MUSIC_BACKGROUND="$FILES_ROOT"/music-background-assembly-"$YEAR".png
 
 PYTHON=python
+FFMPEG=ffmpeg
