@@ -184,27 +184,27 @@ author:Happopumppu|platform:Acid|pms-id:asm14/dance_music/581|position:12|techni
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:Darkki|image-file:graphics/455-entry.jpg|platform:PC|pms-id:asm14/graphics/455|techniques:3dsmax, Photoshop|title:Bells & Whistles
-author:Valtteri / HBC|image-file:graphics/435-entry.jpg|platform:PC|pms-id:asm14/graphics/435|techniques:Photoshop, ass sweat|title:The ancient tentacleforest of magical floating bubbles
-author:Charlotta Tiuri|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|techniques:Photoshop CS5|title:Gryphon Healer
-author:Vablo|image-file:graphics/475-entry.jpg|platform:PC|pms-id:asm14/graphics/475|techniques:Blender, Photoshop CC|title:Forest Village
-author:EVM|image-file:graphics/492-entry.png|platform:PC|pms-id:asm14/graphics/492|techniques:Digital painting in Photoshop|title:Playground
-author:Nina i.|image-file:graphics/426-entry.jpg|platform:PC|pms-id:asm14/graphics/426|techniques:Blender + Photoshop|title:Its about to get cheesy
-author:Mazor/Fairlight|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|techniques:Mac, Wacom & Photoshop|title:Carnivore
-author:Vablo|image-file:graphics/472-entry.jpg|platform:PC|pms-id:asm14/graphics/472|techniques:Blender, Photoshop CC|title:Under The Dome
-author:Partikle|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|techniques:Photoshop CS6, Cintiq 22HD|title:Ancient god awakens
-author:Plasticbunny|image-file:graphics/438-entry.png|platform:Mac|pms-id:asm14/graphics/442|techniques:3D,digital painting|title:The best place to observe
-author:maxon / HBC|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|techniques:Blender, Gimp, Krita in Linux (Ubuntu GNOME)|title:At your service
-author:Jacobo|image-file:graphics/477-entry.jpg|platform:PC|pms-id:asm14/graphics/477|techniques:3D modeling|title:Freedom
-author:Juhani Jokinen|image-file:graphics/440-entry.jpg|platform:PC|pms-id:asm14/graphics/440|techniques:painting + stock photos + 3d|title:The Hunting Party
-author:Osmic/Unknown Artists|image-file:graphics/508-entry.jpg|platform:x86-64|pms-id:asm14/graphics/508|techniques:3DS Max, Photoshop = kaikki muu on turhaa!|title:Creator of Worlds
-author:Venni|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|techniques:3D in Blender + 2D in Photoshop|title:Home
-author:Surround|image-file:graphics/545-entry.jpg|platform:Pc näyttö|pms-id:asm14/graphics/545|techniques:maksi ja photari|title:Shock Troops
-author:SirRandom|image-file:graphics/417-entry.png|platform:PC|pms-id:asm14/graphics/417|techniques:3ds Max + Photoshop|title:Just like cats 'n' dogs
-author:sssampo/Pistoke|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|techniques:Zbrush, Blender, Cycles, Photoshop|title:Thieving Trolls
-author:Silvy|image-file:graphics/476-entry.jpg|platform:-|pms-id:asm14/graphics/476|techniques:Acrylic on canvas|title:Don't mess with me
-author:Caffeine!|image-file:graphics/566-entry.jpg|platform:PC|pms-id:asm14/graphics/566|techniques:Blender - Zbrush - Photoshop|title:Desert Dweller
-author:Niina Javanainen|image-file:graphics/449-entry.png|platform:PC|pms-id:asm14/graphics/449|techniques:Photoshop CS6, Wacom Intuos 5|title:Monitoring Life
+author:Darkki|image-file:graphics/455-entry.jpg|platform:PC|pms-id:asm14/graphics/455|position:1|techniques:3dsmax, Photoshop|title:Bells & Whistles
+author:Valtteri / HBC|image-file:graphics/435-entry.jpg|platform:PC|pms-id:asm14/graphics/435|position:2|techniques:Photoshop, ass sweat|title:The ancient tentacleforest of magical floating bubbles
+author:Vablo|image-file:graphics/475-entry.jpg|platform:PC|pms-id:asm14/graphics/475|position:3|techniques:Blender, Photoshop CC|title:Forest Village
+author:EVM|image-file:graphics/492-entry.png|platform:PC|pms-id:asm14/graphics/492|position:4|techniques:Digital painting in Photoshop|title:Playground
+author:Charlotta Tiuri|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|position:5|techniques:Photoshop CS5|title:Gryphon Healer
+author:Nina i.|image-file:graphics/426-entry.jpg|platform:PC|pms-id:asm14/graphics/426|position:6|techniques:Blender + Photoshop|title:Its about to get cheesy
+author:Vablo|image-file:graphics/472-entry.jpg|platform:PC|pms-id:asm14/graphics/472|position:7|techniques:Blender, Photoshop CC|title:Under The Dome
+author:Mazor/Fairlight|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|position:8|techniques:Mac, Wacom & Photoshop|title:Carnivore
+author:Partikle|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|position:9|techniques:Photoshop CS6, Cintiq 22HD|title:Ancient god awakens
+author:Plasticbunny|image-file:graphics/438-entry.png|platform:Mac|pms-id:asm14/graphics/442|position:10|techniques:3D,digital painting|title:The best place to observe
+author:maxon / HBC|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|position:11|techniques:Blender, Gimp, Krita in Linux (Ubuntu GNOME)|title:At your service
+author:Jacobo|image-file:graphics/477-entry.jpg|platform:PC|pms-id:asm14/graphics/477|position:12|techniques:3D modeling|title:Freedom
+author:Juhani Jokinen|image-file:graphics/440-entry.jpg|platform:PC|pms-id:asm14/graphics/440|position:13|techniques:painting + stock photos + 3d|title:The Hunting Party
+author:Osmic/Unknown Artists|image-file:graphics/508-entry.jpg|platform:x86-64|pms-id:asm14/graphics/508|position:14|techniques:3DS Max, Photoshop = kaikki muu on turhaa!|title:Creator of Worlds
+author:Surround|image-file:graphics/545-entry.jpg|platform:Pc näyttö|pms-id:asm14/graphics/545|position:15|techniques:maksi ja photari|title:Shock Troops
+author:Venni|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|position:16|techniques:3D in Blender + 2D in Photoshop|title:Home
+author:SirRandom|image-file:graphics/417-entry.png|platform:PC|pms-id:asm14/graphics/417|position:17|techniques:3ds Max + Photoshop|title:Just like cats 'n' dogs
+author:sssampo/Pistoke|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|position:18|techniques:Zbrush, Blender, Cycles, Photoshop|title:Thieving Trolls
+author:Silvy|image-file:graphics/476-entry.jpg|platform:-|pms-id:asm14/graphics/476|position:19|techniques:Acrylic on canvas|title:Don't mess with me
+author:Caffeine!|image-file:graphics/566-entry.jpg|platform:PC|pms-id:asm14/graphics/566|position:20|techniques:Blender - Zbrush - Photoshop|title:Desert Dweller
+author:Niina Javanainen|image-file:graphics/449-entry.png|platform:PC|pms-id:asm14/graphics/449|position:21|techniques:Photoshop CS6, Wacom Intuos 5|title:Monitoring Life
 
 
 :section Fast graphics
