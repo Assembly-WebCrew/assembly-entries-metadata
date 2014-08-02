@@ -54,7 +54,6 @@ author:npli|guid:1789|pms-id:asm14/oldskool_demo/550|title:Project Manager|youtu
 :youtube-playlist PLJO4AtxKJiFOHHkvfAUhdtmH21VJVN1Z_
 :pms-category game_development
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:ongoing true
 
 author:Itchi / Lonely Coders|guid:1769|pms-id:asm14/game_development/371|title:Demoscene Pinball|youtube:nGndkyS_UBM
 author:CubeForm Labs|guid:1770|pms-id:asm14/game_development/372|title:2048 FPS|youtube:mLyFM1c2n_E
@@ -80,113 +79,108 @@ author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of T
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
-author:(author hidden until results)|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
-author:(author hidden until results)|pms-id:asm14/listening_music/459|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4|youtube:sP4GmVolGZI
-author:(author hidden until results)|pms-id:asm14/listening_music/461|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4|youtube:PXEwpY6WQaU
-author:(author hidden until results)|pms-id:asm14/listening_music/470|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4|youtube:qq1SVXix8eg
-author:(author hidden until results)|pms-id:asm14/listening_music/479|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4|youtube:6D50yOnykIk
-author:(author hidden until results)|pms-id:asm14/listening_music/487|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4|youtube:hxbRT_AIjng
-author:(author hidden until results)|pms-id:asm14/listening_music/495|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4|youtube:a5iskElI8aI
-author:(author hidden until results)|pms-id:asm14/listening_music/499|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4|youtube:8VkDnLNikRE
-author:(author hidden until results)|pms-id:asm14/listening_music/559|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4|youtube:LJlJxS5-j4I
-author:(author hidden until results)|pms-id:asm14/listening_music/560|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4|youtube:N06OQ_lFAhM
-author:(author hidden until results)|pms-id:asm14/listening_music/567|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4|youtube:qAEkRYNN1os
-author:(author hidden until results)|pms-id:asm14/listening_music/583|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4|youtube:BBsv607UVlw
+author:T-101 / Darklite|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
+author:Paokala|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
+author:ruuvari/aspekt|pms-id:asm14/listening_music/459|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4|youtube:sP4GmVolGZI
+author:Byproduct|pms-id:asm14/listening_music/461|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4|youtube:PXEwpY6WQaU
+author:Mice & Buzzer / Brainstorm|pms-id:asm14/listening_music/470|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4|youtube:qq1SVXix8eg
+author:NUUSiKA|pms-id:asm14/listening_music/479|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4|youtube:6D50yOnykIk
+author:Aikapallo|pms-id:asm14/listening_music/487|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4|youtube:hxbRT_AIjng
+author:NinjaBaka|pms-id:asm14/listening_music/495|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4|youtube:a5iskElI8aI
+author:SandEar|pms-id:asm14/listening_music/499|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4|youtube:8VkDnLNikRE
+author:Ultra Crab Force|pms-id:asm14/listening_music/559|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4|youtube:LJlJxS5-j4I
+author:Duality Vile|pms-id:asm14/listening_music/560|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4|youtube:N06OQ_lFAhM
+author:Icchan & many friends|pms-id:asm14/listening_music/567|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4|youtube:qAEkRYNN1os
+author:Loigor|pms-id:asm14/listening_music/583|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4|youtube:BBsv607UVlw
 
 
 :section Fast music
 :youtube-playlist PLJO4AtxKJiFMYDkwr01ByFKJHUcAEu088
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:ongoing true
 
-author:(author hidden until results)|pms-id:asm14/fast_music/510|title:Race to 80's space|video-file:fast-music/02_race to 80 s space.flac.mp4|youtube:VP6TfgiMll8
-author:(author hidden until results)|pms-id:asm14/fast_music/512|title:Bilepaku|video-file:fast-music/05_bilepaku.flac.mp4|youtube:Klx4YhH-Y9s
-author:(author hidden until results)|pms-id:asm14/fast_music/513|title:puolentunnin espärinät|video-file:fast-music/13_puolentunnin espärinät.flac.mp4|youtube:XJXoUkxr1ao
-author:(author hidden until results)|pms-id:asm14/fast_music/519|title:Softakanki|video-file:fast-music/14_Yzi - Softakanki.flac.mp4|youtube:qMm6yWe1OFQ
-author:(author hidden until results)|pms-id:asm14/fast_music/521|title:Johan Pumppasi|video-file:fast-music/06_johan pumppasi.flac.mp4|youtube:pahy8VpCL0A
-author:(author hidden until results)|pms-id:asm14/fast_music/522|title:german beer spa|video-file:fast-music/07_german beer spa.flac.mp4|youtube:EqTD1gbXyEk
-author:(author hidden until results)|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV|video-file:fast-music/03_Thousand Nights of Tinnitus - Tinnitus Suite Op_ 5 Part IV.flac.mp4|youtube:unHFdDP8LHc
-author:(author hidden until results)|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta|video-file:fast-music/08_ulinaa ulkoavaruudesta.flac.mp4|youtube:2NoEqAx_T70
-author:(author hidden until results)|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers|video-file:fast-music/10_piknik trip stickers.flac.mp4|youtube:ZNNtKw195tE
-author:(author hidden until results)|pms-id:asm14/fast_music/534|title:Serenity|video-file:fast-music/01_serenity.flac.mp4|youtube:iKcEHjGCfhg
-author:(author hidden until results)|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään|video-file:fast-music/11_no eihän tästä nyt tule mitään.flac.mp4|youtube:hVlK44vi_X4
-author:(author hidden until results)|pms-id:asm14/fast_music/537|title:Indigo Dreams|video-file:fast-music/04_indigo dreams.flac.mp4|youtube:ckJVloW6ksk
-author:(author hidden until results)|pms-id:asm14/fast_music/539|title:F**k That|video-file:fast-music/09_f  k that.flac.mp4|youtube:MrsJD98ozlg
-author:(author hidden until results)|pms-id:asm14/fast_music/540|title:Love|video-file:fast-music/15_love.flac.mp4|youtube:bK2E4xc1jhs
-author:(author hidden until results)|pms-id:asm14/fast_music/541|title:Radagascar|video-file:fast-music/12_radagascar.flac.mp4|youtube:7dildivupXg
+author:Rajunen|pms-id:asm14/fast_music/510|title:Race to 80's space|video-file:fast-music/02_race to 80 s space.flac.mp4|youtube:VP6TfgiMll8
+author:Melodïcore|pms-id:asm14/fast_music/512|title:Bilepaku|video-file:fast-music/05_bilepaku.flac.mp4|youtube:Klx4YhH-Y9s
+author:Zode|pms-id:asm14/fast_music/513|title:puolentunnin espärinät|video-file:fast-music/13_puolentunnin espärinät.flac.mp4|youtube:XJXoUkxr1ao
+author:Yzi/Fit|pms-id:asm14/fast_music/519|title:Softakanki|video-file:fast-music/14_Yzi - Softakanki.flac.mp4|youtube:qMm6yWe1OFQ
+author:Galaksinvartija|pms-id:asm14/fast_music/521|title:Johan Pumppasi|video-file:fast-music/06_johan pumppasi.flac.mp4|youtube:pahy8VpCL0A
+author:tArzAn|pms-id:asm14/fast_music/522|title:german beer spa|video-file:fast-music/07_german beer spa.flac.mp4|youtube:EqTD1gbXyEk
+author:Thousand Nights of Tinnitus|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV|video-file:fast-music/03_Thousand Nights of Tinnitus - Tinnitus Suite Op_ 5 Part IV.flac.mp4|youtube:unHFdDP8LHc
+author:Ketonen|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta|video-file:fast-music/08_ulinaa ulkoavaruudesta.flac.mp4|youtube:2NoEqAx_T70
+author:cce|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers|video-file:fast-music/10_piknik trip stickers.flac.mp4|youtube:ZNNtKw195tE
+author:exla|pms-id:asm14/fast_music/534|title:Serenity|video-file:fast-music/01_serenity.flac.mp4|youtube:iKcEHjGCfhg
+author:NUUSiKA|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään|video-file:fast-music/11_no eihän tästä nyt tule mitään.flac.mp4|youtube:hVlK44vi_X4
+author:Orbis|pms-id:asm14/fast_music/537|title:Indigo Dreams|video-file:fast-music/04_indigo dreams.flac.mp4|youtube:ckJVloW6ksk
+author:Little Bitchard|pms-id:asm14/fast_music/539|title:F**k That|video-file:fast-music/09_f  k that.flac.mp4|youtube:MrsJD98ozlg
+author:Rayjan / Pyrotec|pms-id:asm14/fast_music/540|title:Love|video-file:fast-music/15_love.flac.mp4|youtube:bK2E4xc1jhs
+author:Santur|pms-id:asm14/fast_music/541|title:Radagascar|video-file:fast-music/12_radagascar.flac.mp4|youtube:7dildivupXg
 
 
 :section Dance music
 :youtube-playlist PLJO4AtxKJiFNZ0bTl0FpyiaCNn-wpHmZm
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
-:ongoing true
 
-author:(author hidden until results)|pms-id:asm14/dance_music/445|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4|youtube:i2S4JTBWYkw
-author:(author hidden until results)|pms-id:asm14/dance_music/447|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4|youtube:7jIo73qGWLo
-author:(author hidden until results)|pms-id:asm14/dance_music/450|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4|youtube:bzsgpa9fRZs
-author:(author hidden until results)|pms-id:asm14/dance_music/463|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4|youtube:ladbArilnbY
-author:(author hidden until results)|pms-id:asm14/dance_music/464|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4|youtube:cf4A6j3fykA
-author:(author hidden until results)|pms-id:asm14/dance_music/465|title:Neil|video-file:dance-music/09_17neil.flac.mp4|youtube:Z-LOfRZX8a4
-author:(author hidden until results)|pms-id:asm14/dance_music/530|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4|youtube:NYCR7i-lJeY
-author:(author hidden until results)|pms-id:asm14/dance_music/547|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4|youtube:Ub1f66zdYEA
-author:(author hidden until results)|pms-id:asm14/dance_music/551|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4|youtube:IP61Wg84gvA
-author:(author hidden until results)|pms-id:asm14/dance_music/573|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4|youtube:ULKBV_8R7Qw
-author:(author hidden until results)|pms-id:asm14/dance_music/581|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4|youtube:WexbZZWbgcY
-author:(author hidden until results)|pms-id:asm14/dance_music/603|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4|youtube:H-W8QGiOP54
+author:King Thrill / Tekotuotanto|pms-id:asm14/dance_music/445|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4|youtube:i2S4JTBWYkw
+author:Maulwurf ft. Elli Luukkainen|pms-id:asm14/dance_music/447|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4|youtube:7jIo73qGWLo
+author:Man with no Nickname|pms-id:asm14/dance_music/450|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4|youtube:bzsgpa9fRZs
+author:Yzi/Fit|pms-id:asm14/dance_music/463|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4|youtube:ladbArilnbY
+author:Alek Szahala|pms-id:asm14/dance_music/464|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4|youtube:cf4A6j3fykA
+author:signal|pms-id:asm14/dance_music/465|title:Neil|video-file:dance-music/09_17neil.flac.mp4|youtube:Z-LOfRZX8a4
+author:microdots|pms-id:asm14/dance_music/530|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4|youtube:NYCR7i-lJeY
+author:shoK|pms-id:asm14/dance_music/547|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4|youtube:Ub1f66zdYEA
+author:ukimies|pms-id:asm14/dance_music/551|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4|youtube:IP61Wg84gvA
+author:Oskill8|pms-id:asm14/dance_music/573|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4|youtube:ULKBV_8R7Qw
+author:Happopumppu|pms-id:asm14/dance_music/581|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4|youtube:WexbZZWbgcY
+author:Rarro/ASDF|pms-id:asm14/dance_music/603|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4|youtube:H-W8QGiOP54
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-:ongoing true
 
-author:(author hidden until results)|image-file:graphics/417-entry.png|pms-id:asm14/graphics/417|title:Just like cats 'n' dogs
-author:(author hidden until results)|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|title:Gryphon Healer
-author:(author hidden until results)|image-file:graphics/426-entry.jpg|pms-id:asm14/graphics/426|title:Its about to get cheesy
-author:(author hidden until results)|image-file:graphics/435-entry.jpg|pms-id:asm14/graphics/435|title:The ancient tentacleforest of magical floating bubbles
-author:(author hidden until results)|image-file:graphics/440-entry.jpg|pms-id:asm14/graphics/440|title:The Hunting Party
-author:(author hidden until results)|image-file:graphics/438-entry.png|pms-id:asm14/graphics/442|title:The best place to observe
-author:(author hidden until results)|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|title:Ancient god awakens
-author:(author hidden until results)|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|title:Thieving Trolls
-author:(author hidden until results)|image-file:graphics/449-entry.png|pms-id:asm14/graphics/449|title:Monitoring Life
-author:(author hidden until results)|image-file:graphics/455-entry.jpg|pms-id:asm14/graphics/455|title:Bells & Whistles
-author:(author hidden until results)|image-file:graphics/472-entry.jpg|pms-id:asm14/graphics/472|title:Under The Dome
-author:(author hidden until results)|image-file:graphics/475-entry.jpg|pms-id:asm14/graphics/475|title:Forest Village
-author:(author hidden until results)|image-file:graphics/476-entry.jpg|pms-id:asm14/graphics/476|title:Don't mess with me
-author:(author hidden until results)|image-file:graphics/477-entry.jpg|pms-id:asm14/graphics/477|title:Freedom
-author:(author hidden until results)|image-file:graphics/492-entry.png|pms-id:asm14/graphics/492|title:Playground
-author:(author hidden until results)|image-file:graphics/508-entry.jpg|pms-id:asm14/graphics/508|title:Creator of Worlds
-author:(author hidden until results)|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|title:At your service
-author:(author hidden until results)|image-file:graphics/545-entry.jpg|pms-id:asm14/graphics/545|title:Shock Troops
-author:(author hidden until results)|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|title:Carnivore
-author:(author hidden until results)|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|title:Home
-author:(author hidden until results)|image-file:graphics/566-entry.jpg|pms-id:asm14/graphics/566|title:Desert Dweller
-author:(author hidden until results)|image-file:graphics/591-entry.png|pms-id:asm14/graphics/591|title:Parks and Recreation
+author:SirRandom|image-file:graphics/417-entry.png|pms-id:asm14/graphics/417|title:Just like cats 'n' dogs
+author:Charlotta Tiuri|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|title:Gryphon Healer
+author:Nina i.|image-file:graphics/426-entry.jpg|pms-id:asm14/graphics/426|title:Its about to get cheesy
+author:Valtteri / HBC|image-file:graphics/435-entry.jpg|pms-id:asm14/graphics/435|title:The ancient tentacleforest of magical floating bubbles
+author:Juhani Jokinen|image-file:graphics/440-entry.jpg|pms-id:asm14/graphics/440|title:The Hunting Party
+author:Plasticbunny|image-file:graphics/438-entry.png|pms-id:asm14/graphics/442|title:The best place to observe
+author:Partikle|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|title:Ancient god awakens
+author:sssampo/Pistoke|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|title:Thieving Trolls
+author:Niina Javanainen|image-file:graphics/449-entry.png|pms-id:asm14/graphics/449|title:Monitoring Life
+author:Darkki|image-file:graphics/455-entry.jpg|pms-id:asm14/graphics/455|title:Bells & Whistles
+author:Vablo|image-file:graphics/472-entry.jpg|pms-id:asm14/graphics/472|title:Under The Dome
+author:Vablo|image-file:graphics/475-entry.jpg|pms-id:asm14/graphics/475|title:Forest Village
+author:Silvy|image-file:graphics/476-entry.jpg|pms-id:asm14/graphics/476|title:Don't mess with me
+author:Jacobo|image-file:graphics/477-entry.jpg|pms-id:asm14/graphics/477|title:Freedom
+author:EVM|image-file:graphics/492-entry.png|pms-id:asm14/graphics/492|title:Playground
+author:Osmic/Unknown Artists|image-file:graphics/508-entry.jpg|pms-id:asm14/graphics/508|title:Creator of Worlds
+author:maxon / HBC|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|title:At your service
+author:Surround|image-file:graphics/545-entry.jpg|pms-id:asm14/graphics/545|title:Shock Troops
+author:Mazor/Fairlight|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|title:Carnivore
+author:Venni|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|title:Home
+author:Caffeine!|image-file:graphics/566-entry.jpg|pms-id:asm14/graphics/566|title:Desert Dweller
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
-:ongoing true
 
-author:(author hidden until results)|image-file:fast-graphics/556-entry.jpg|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
-author:(author hidden until results)|image-file:fast-graphics/564-entry.jpg|pms-id:asm14/fast_graphics/564|title:Gas chambers
-author:(author hidden until results)|image-file:fast-graphics/570-entry.png|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
-author:(author hidden until results)|image-file:fast-graphics/579-entry.png|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
-author:(author hidden until results)|image-file:fast-graphics/588-entry.png|pms-id:asm14/fast_graphics/588|title:Fractured
-author:(author hidden until results)|image-file:fast-graphics/589-entry.png|pms-id:asm14/fast_graphics/589|title:Keep up
-author:(author hidden until results)|image-file:fast-graphics/590-entry.jpg|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
-author:(author hidden until results)|image-file:fast-graphics/592-entry.jpg|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
-author:(author hidden until results)|image-file:fast-graphics/593-entry.png|pms-id:asm14/fast_graphics/593|title:Swim you fools!
-author:(author hidden until results)|image-file:fast-graphics/594-entry.png|pms-id:asm14/fast_graphics/594|title:Bad breath
-author:(author hidden until results)|image-file:fast-graphics/595-entry.jpg|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
-author:(author hidden until results)|image-file:fast-graphics/599-entry.jpg|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
-author:(author hidden until results)|image-file:fast-graphics/605-entry.jpg|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
-author:(author hidden until results)|image-file:fast-graphics/606-entry.png|pms-id:asm14/fast_graphics/606|title:Blub
-author:(author hidden until results)|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/607|title:Poison
+author:MacGywer / npli|image-file:fast-graphics/556-entry.jpg|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
+author:Surround|image-file:fast-graphics/564-entry.jpg|pms-id:asm14/fast_graphics/564|title:Gas chambers
+author:EVM|image-file:fast-graphics/570-entry.png|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
+author:minelo|image-file:fast-graphics/579-entry.png|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
+author:john peeba|image-file:fast-graphics/588-entry.png|pms-id:asm14/fast_graphics/588|title:Fractured
+author:maxon / HBC|image-file:fast-graphics/589-entry.png|pms-id:asm14/fast_graphics/589|title:Keep up
+author:Vablo|image-file:fast-graphics/590-entry.jpg|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
+author:korpi / HBC|image-file:fast-graphics/592-entry.jpg|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
+author:Charlotta Tiuri|image-file:fast-graphics/593-entry.png|pms-id:asm14/fast_graphics/593|title:Swim you fools!
+author:Nappu|image-file:fast-graphics/594-entry.png|pms-id:asm14/fast_graphics/594|title:Bad breath
+author:Hiski|image-file:fast-graphics/595-entry.jpg|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
+author:sssampo / Pistoke|image-file:fast-graphics/599-entry.jpg|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
+author:Valtteri / HBC|image-file:fast-graphics/605-entry.jpg|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
+author:Neko-Maya|image-file:fast-graphics/606-entry.png|pms-id:asm14/fast_graphics/606|title:Blub
+author:Felor|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/607|title:Poison
 
 
 :section Winter
