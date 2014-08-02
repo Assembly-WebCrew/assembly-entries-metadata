@@ -6,17 +6,17 @@
 :ongoing true
 :public false
 
-author:Epoch|pms-id:asm14/demo/612|title:Entropy
-author:Quadtrip|pms-id:asm14/demo/616|title:Rahkasammalten sielunvaellus
-author:Subsquare & Kevin Kerttunen|pms-id:asm14/demo/617|title:Colored Glass
-author:Farbrausch|pms-id:asm14/demo/618|title:fr-070: Trained
-author:Hedelmae|pms-id:asm14/demo/624|title:Snug
-author:Armada|pms-id:asm14/demo/625|title:frutos do mar
-author:Division|pms-id:asm14/demo/628|title:Jitter
-author:Pyrotech|pms-id:asm14/demo/629|title:Nuclei
-author:One Studio Off|pms-id:asm14/demo/633|title:Black And White Lies
-author:Wide Load|pms-id:asm14/demo/634|title:Prosesseja
-author:Paraguay|pms-id:asm14/demo/635|title:Last Day of Escapism
+author:Epoch|platform:Windows|pms-id:asm14/demo/612|techniques:We are not sorry|title:Entropy
+author:Quadtrip|platform:Browser|pms-id:asm14/demo/616|techniques:WebGL shaders and JS software synth|title:Rahkasammalten sielunvaellus
+author:Subsquare & Kevin Kerttunen|platform:Windows|pms-id:asm14/demo/617|techniques:Unity3d, C#, DX11|title:Colored Glass
+author:Farbrausch|platform:Windows|pms-id:asm14/demo/618|techniques:Werkzeug4|title:fr-070: Trained
+author:Hedelmae|platform:PC|pms-id:asm14/demo/624|techniques:OpenGL|title:Snug
+author:Armada|platform:Windows PC|pms-id:asm14/demo/625|techniques:Unity, Leap Motion, Oculus Rift, Photosynth, Memento|title:frutos do mar
+author:Division|platform:Windows|pms-id:asm14/demo/628|techniques:DX9|title:Jitter
+author:Pyrotech|platform:PC|pms-id:asm14/demo/629|techniques:DirectX 9|title:Nuclei
+author:One Studio Off|platform:PC|pms-id:asm14/demo/633|techniques:ATK|title:Black And White Lies
+author:Wide Load|platform:Webgl|pms-id:asm14/demo/634|techniques:Three.js / Webgl|title:Prosesseja
+author:Paraguay|platform:WebGL|pms-id:asm14/demo/635|techniques:Three.js, L-systems, Google|title:Last Day of Escapism
 
 
 :section 4k intro
@@ -25,16 +25,16 @@ author:Paraguay|pms-id:asm14/demo/635|title:Last Day of Escapism
 :ongoing true
 :public false
 
-author:mystran|pms-id:asm14/4k/506|title:my first intro
-author:Faemiyah|pms-id:asm14/4k/608|title:Whisky in a Tube
-author:Digimind & Keen|pms-id:asm14/4k/610|title:Planet Honey
-author:Digimind & Silent|pms-id:asm14/4k/611|title:Beats in motion
-author:lucid|pms-id:asm14/4k/619|title:Stupid Air Rally
-author:oo|pms-id:asm14/4k/620|title:Inside Ink Drops
-author:adapt|pms-id:asm14/4k/621|title:Commander Perlin
-author:Jontte, JDruid, cyndis|pms-id:asm14/4k/627|title:Neopterygii
-author:Unknown Artists|pms-id:asm14/4k/631|title:Splash
-author:qma|pms-id:asm14/4k/637|title:Epätoivoinen teko sponsoritiskin nurkassa perjantai-iltana
+author:mystran|platform:Win32/D3D9|pms-id:asm14/4k/506|techniques:crinkler and c++ template metaprogramming|title:my first intro
+author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm14/4k/608|techniques:C++, OpenGL 2, SDL, dnload.py|title:Whisky in a Tube
+author:Digimind & Keen|platform:PC|pms-id:asm14/4k/610|techniques:Crinkler, 4klang|title:Planet Honey
+author:Digimind & Silent|platform:PC|pms-id:asm14/4k/611|techniques:Crinkler, 4klang|title:Beats in motion
+author:lucid|platform:Microsoft Windows PC|pms-id:asm14/4k/619|techniques:Crinkler|title:Stupid Air Rally
+author:oo|platform:PC|pms-id:asm14/4k/620|techniques:C++, OpenGL, GLSL, 4klang, Rocket|title:Inside Ink Drops
+author:adapt|platform:windous|pms-id:asm14/4k/621|techniques:glsl,crinkler,shader minifier, roder, speedy size coding, rocknroll and lotsa laav|title:Commander Perlin
+author:Jontte, JDruid, cyndis|platform:Linux|pms-id:asm14/4k/627|techniques:Assembly, GLSL, 4klang|title:Neopterygii
+author:Unknown Artists|platform:Windows|pms-id:asm14/4k/631|techniques:dx11|title:Splash
+author:qma|platform:Linux|pms-id:asm14/4k/637|techniques:GLSL, SDL|title:Epätoivoinen teko sponsoritiskin nurkassa perjantai-iltana
 
 
 :section 1k intro
@@ -43,18 +43,18 @@ author:qma|pms-id:asm14/4k/637|title:Epätoivoinen teko sponsoritiskin nurkassa 
 :ongoing true
 :public false
 
-author:TDA|pms-id:asm14/1k/422|title:Superstructure
-author:Traction + Fit|pms-id:asm14/1k/432|title:Stellar Driftwood
-author:Marken|pms-id:asm14/1k/453|title:Kajastus
-author:rlx|pms-id:asm14/1k/454|title:glenzy
-author:Optimus|pms-id:asm14/1k/467|title:Hatching
-author:XZM|pms-id:asm14/1k/478|title:MC-Scape
-author:Peisik|pms-id:asm14/1k/486|title:crimson
-author:p01/ribbon|pms-id:asm14/1k/493|title:VANTA
-author:oo|pms-id:asm14/1k/502|title:This Is How They Breed
-author:the royal elite ninjas inc.|pms-id:asm14/1k/505|title:black and white roach
-author:Digimind|pms-id:asm14/1k/538|title:Voxelerator
-author:adapt|pms-id:asm14/1k/604|title:porthania
+author:TDA|platform:MacOS X|pms-id:asm14/1k/422|techniques:Cocoa + GLSL|title:Superstructure
+author:Traction + Fit|platform:PC|pms-id:asm14/1k/432|techniques:glsl, x86 asm|title:Stellar Driftwood
+author:Marken|platform:PC|pms-id:asm14/1k/453|techniques:OpenGL|title:Kajastus
+author:rlx|platform:PC - Win32|pms-id:asm14/1k/454|techniques:OpenGL, Midi & Crinkler|title:glenzy
+author:Optimus|platform:PC, Windows, OpenGL|pms-id:asm14/1k/467|techniques:Using iq's 1k framework|title:Hatching
+author:XZM|platform:Windows|pms-id:asm14/1k/478|techniques:C++|title:MC-Scape
+author:Peisik|platform:Windows|pms-id:asm14/1k/486|techniques:NASM, OpenGL, Crinkler|title:crimson
+author:p01/ribbon|platform:web|pms-id:asm14/1k/493|techniques:JavaScript, 2D Canvas|title:VANTA
+author:oo|platform:PC|pms-id:asm14/1k/502|techniques:C++, OpenGL, GLSL|title:This Is How They Breed
+author:the royal elite ninjas inc.|platform:Javascript + WebGL|pms-id:asm14/1k/505|techniques:modified pngnator and some skills|title:black and white roach
+author:Digimind|platform:PC|pms-id:asm14/1k/538|techniques:Visual C++, Crinkler|title:Voxelerator
+author:adapt|platform:windous|pms-id:asm14/1k/604|techniques:speed and sizecoding, crinkler and lotsa love!|title:porthania
 
 
 :section Real wild demo
@@ -63,12 +63,12 @@ author:adapt|pms-id:asm14/1k/604|title:porthania
 :ongoing true
 :public false
 
-author:Paradise & Reality|pms-id:asm14/real_wild_demo/614|title:Aona
-author:SBA|pms-id:asm14/real_wild_demo/623|title:greetings'n f*ckings
-author:Perskarhunen Bros.|pms-id:asm14/real_wild_demo/630|title:100x7
-author:PWP|pms-id:asm14/real_wild_demo/632|title:Warning
-author:oobc|pms-id:asm14/real_wild_demo/636|title:We Are Computers
-author:ASDF|pms-id:asm14/real_wild_demo/638|title:Vika slaissi
+author:Paradise & Reality|platform:Sega Dreamcast|pms-id:asm14/real_wild_demo/614|techniques:Too slow 2d stuff|title:Aona
+author:SBA|platform:Commodore PET model 200 (aka. cbm 8032-sk)|pms-id:asm14/real_wild_demo/623|techniques:Commodore Basic 4.0|title:greetings'n f*ckings
+author:Perskarhunen Bros.|platform:100x7 led matrix with shift registers|pms-id:asm14/real_wild_demo/630|techniques:partycoding, vim, python, renoise, paint, eväsleivät|title:100x7
+author:PWP|platform:Commodore VIC-20|pms-id:asm14/real_wild_demo/632|techniques:Assembler & 12 hours of partytime|title:Warning
+author:oobc|platform:CBM 8032|pms-id:asm14/real_wild_demo/636|techniques:1 pulse wave, no custom characters|title:We Are Computers
+author:ASDF|platform:Pure Data / Mac|pms-id:asm14/real_wild_demo/638|techniques:Novation Launchpad controlled by Pure Data|title:Vika slaissi
 
 
 :section Oldskool demo
@@ -77,8 +77,8 @@ author:ASDF|pms-id:asm14/real_wild_demo/638|title:Vika slaissi
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
 
-author:Dekadence|guid:1788|pms-id:asm14/oldskool_demo/457|title:Sliced & Diced|youtube:iXo9TYY1XOQ
-author:npli|guid:1789|pms-id:asm14/oldskool_demo/550|title:Project Manager|youtube:54R0ZIPSoB4
+author:Dekadence|guid:1788|platform:Amiga 500|pms-id:asm14/oldskool_demo/457|position:1|techniques:Hard skills|title:Sliced & Diced|youtube:iXo9TYY1XOQ
+author:npli|guid:1789|platform:Amiga 500|pms-id:asm14/oldskool_demo/550|position:2|techniques:Vodka|title:Project Manager|youtube:54R0ZIPSoB4
 
 
 :section Short film
@@ -87,147 +87,142 @@ author:npli|guid:1789|pms-id:asm14/oldskool_demo/550|title:Project Manager|youtu
 :ongoing true
 :public false
 
-author:Randomheads|pms-id:asm14/short_film/418|title:Tekniikan Pakoputki
+author:Randomheads|platform:PC master race|pms-id:asm14/short_film/418|techniques:Premiere, After Effects, 3ds Max & Reason|title:Tekniikan Pakoputki
 author:Jorge Fuentes|pms-id:asm14/short_film/466|title:It's Not About the Money
-author:Team Plastastic|pms-id:asm14/short_film/609|title:Plastastic
-author:npli|pms-id:asm14/short_film/613|title:tuut
-author:Tekotuotanto|pms-id:asm14/short_film/615|title:Kitchen
-author:SBA|pms-id:asm14/short_film/622|title:Business Trip
-author:KorpisotuRiT|pms-id:asm14/short_film/626|title:Demonsceners
-author:A2R / AEM|pms-id:asm14/short_film/639|title:266 Aline
+author:Team Plastastic|platform:PC|pms-id:asm14/short_film/609|techniques:Animation and modeling done in Autodesk Maya|title:Plastastic
+author:npli|pms-id:asm14/short_film/613|techniques:Premiere, Illustrator, GoPro|title:tuut
+author:Tekotuotanto|platform:PC|pms-id:asm14/short_film/615|techniques:3dsmax, Fusion, After effects, Q-base|title:Kitchen
+author:SBA|pms-id:asm14/short_film/622|techniques:Hard Work|title:Business Trip
+author:KorpisotuRiT|platform:PC|pms-id:asm14/short_film/626|techniques:Flash, skill, Soundation|title:Demonsceners
+author:A2R / AEM|pms-id:asm14/short_film/639|techniques:Houdini, Sunvox|title:266 Aline
 
 
 :section Gamedev
-:youtube-playlist PLJO4AtxKJiFOHHkvfAUhdtmH21VJVN1Z_
 :pms-category game_development
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Itchi / Lonely Coders|guid:1769|pms-id:asm14/game_development/371|title:Demoscene Pinball|youtube:nGndkyS_UBM
-author:CubeForm Labs|guid:1770|pms-id:asm14/game_development/372|title:2048 FPS|youtube:mLyFM1c2n_E
-author:Rayhouse Productions|guid:1771|pms-id:asm14/game_development/376|title:Neurotron|youtube:JdZwH3Eq9Pc
-author:Jonzki|guid:1772|pms-id:asm14/game_development/377|title:Supar Choppah (Simulator)|youtube:sj2JRitVilE
-author:Limba|guid:1773|pms-id:asm14/game_development/381|title:Run Nerd Run|youtube:qRGyZvMptfA
-author:Isoaha|guid:1774|pms-id:asm14/game_development/382|title:Diarrhea|youtube:GPiG-5AA5Rg
-author:petokeksi|guid:1775|pms-id:asm14/game_development/387|title:Fedora Fabio|youtube:OiD86N1nDqM
-author:Kalle Hiltunen, Joonatan Koponen|guid:1776|pms-id:asm14/game_development/391|title:Sauna Champion|youtube:sP_J696MAtc
-author:moziz, Raattis|guid:1777|pms-id:asm14/game_development/392|title:Frack Grenade|youtube:Ve5ims31s08
-author:Pimiö|guid:1778|pms-id:asm14/game_development/393|title:Stardust Galaxy Warriors 2|youtube:FBN6d0Wu1CI
-author:Evantaur|guid:1779|pms-id:asm14/game_development/394|title:Contain It|youtube:ujf_xlKL6dE
-author:spriteBatch|guid:1780|pms-id:asm14/game_development/396|title:Bad Dreams|youtube:cCxL4TxbMzA
-author:Tekotuotanto|guid:1781|pms-id:asm14/game_development/398|title:Office Rage Simulator|youtube:_6AeZLFKwl8
-author:Cavy|guid:1782|pms-id:asm14/game_development/400|title:Gaslight Wiener|youtube:54BV0RBMjH4
-author:Kayaman|guid:1783|pms-id:asm14/game_development/412|title:Booze Bunny|youtube:JCdIZ8lCzN4
-author:Team Tensia|guid:1784|pms-id:asm14/game_development/413|title:Knight of Tensia|youtube:dfb-nXEod38
+author:Tekotuotanto|guid:1781|platform:Windows|pms-id:asm14/game_development/398|position:1|techniques:Unity, 3ds Max, Blender, Photoshop, furniture|title:Office Rage Simulator|youtube:_6AeZLFKwl8
+author:Pimiö|guid:1778|platform:Windows|pms-id:asm14/game_development/393|position:2|title:Stardust Galaxy Warriors 2|youtube:FBN6d0Wu1CI
+author:moziz, Raattis|guid:1777|platform:Windows, Linux|pms-id:asm14/game_development/392|position:3|techniques:Unity|title:Frack Grenade|youtube:Ve5ims31s08
+author:Itchi / Lonely Coders|guid:1769|platform:Windows, Linux, OS X|pms-id:asm14/game_development/371|position:4|techniques:OpenGL|title:Demoscene Pinball|youtube:nGndkyS_UBM
+author:CubeForm Labs|guid:1770|platform:PC / Windows|pms-id:asm14/game_development/372|position:5|techniques:Everything is handmade|title:2048 FPS|youtube:mLyFM1c2n_E
+author:Cavy|guid:1782|platform:PC|pms-id:asm14/game_development/400|position:6|techniques:Unity, Photoshop CC|title:Gaslight Wiener|youtube:54BV0RBMjH4
+author:Kalle Hiltunen, Joonatan Koponen|guid:1776|platform:Windows|pms-id:asm14/game_development/391|position:7|techniques:Unity, Blender, Photoshop|title:Sauna Champion|youtube:sP_J696MAtc
+author:spriteBatch|guid:1780|platform:PC|pms-id:asm14/game_development/396|position:8|techniques:Unity|title:Bad Dreams|youtube:cCxL4TxbMzA
+author:Isoaha|guid:1774|platform:Android|pms-id:asm14/game_development/382|position:9|techniques:Java /  LibGDX, Maitohappobakteerit, Too much time|title:Diarrhea|youtube:GPiG-5AA5Rg
+author:Evantaur|guid:1779|platform:windows/linux|pms-id:asm14/game_development/394|position:10|techniques:HTML5/node webkit|title:Contain It|youtube:ujf_xlKL6dE
+author:Rayhouse Productions|guid:1771|platform:PC|pms-id:asm14/game_development/376|position:11|techniques:Multimedia Fusion 2 Developer, Photoshop, 3ds Max, Audacity, Reason|title:Neurotron|youtube:JdZwH3Eq9Pc
+author:Kayaman|guid:1783|platform:Android|pms-id:asm14/game_development/412|position:12|techniques:Outdated Corona SDK|title:Booze Bunny|youtube:JCdIZ8lCzN4
+author:Team Tensia|guid:1784|platform:Windows,MacOSX,Linux,Android|pms-id:asm14/game_development/413|position:13|techniques:Unity,Audacity,Photoshop,Paint.NET,Soundnation,UnityFrustration|title:Knight of Tensia|youtube:dfb-nXEod38
+author:Limba|guid:1773|platform:Windows|pms-id:asm14/game_development/381|position:14|techniques:Unity + Fuse|title:Run Nerd Run|youtube:qRGyZvMptfA
+author:Jonzki|guid:1772|platform:PC (Xbox Controller required)|pms-id:asm14/game_development/377|position:15|techniques:Unity, C#, Blender|title:Supar Choppah (Simulator)|youtube:sj2JRitVilE
+author:petokeksi|guid:1775|platform:Android|pms-id:asm14/game_development/387|position:16|techniques:Unity3D|title:Fedora Fabio|youtube:OiD86N1nDqM
 
 
 :section Listening music
-:youtube-playlist PLJO4AtxKJiFPYXSc4KW0ON8fVQBA5YAIc
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
-:ongoing true
 
-author:T-101 / Darklite|pms-id:asm14/listening_music/441|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
-author:Paokala|pms-id:asm14/listening_music/456|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
-author:ruuvari/aspekt|pms-id:asm14/listening_music/459|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4|youtube:sP4GmVolGZI
-author:Byproduct|pms-id:asm14/listening_music/461|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4|youtube:PXEwpY6WQaU
-author:Mice & Buzzer / Brainstorm|pms-id:asm14/listening_music/470|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4|youtube:qq1SVXix8eg
-author:NUUSiKA|pms-id:asm14/listening_music/479|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4|youtube:6D50yOnykIk
-author:Aikapallo|pms-id:asm14/listening_music/487|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4|youtube:hxbRT_AIjng
-author:NinjaBaka|pms-id:asm14/listening_music/495|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4|youtube:a5iskElI8aI
-author:SandEar|pms-id:asm14/listening_music/499|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4|youtube:8VkDnLNikRE
-author:Ultra Crab Force|pms-id:asm14/listening_music/559|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4|youtube:LJlJxS5-j4I
-author:Duality Vile|pms-id:asm14/listening_music/560|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4|youtube:N06OQ_lFAhM
-author:Icchan & many friends|pms-id:asm14/listening_music/567|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4|youtube:qAEkRYNN1os
-author:Loigor|pms-id:asm14/listening_music/583|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4|youtube:BBsv607UVlw
+author:Icchan & many friends|platform:PC|pms-id:asm14/listening_music/567|position:1|techniques:Reaper 4.x, Violin, Guitar, Keyboards|title:Lands of Green|video-file:listening-music/0012_567_icchan-lands_of_green.flac.mp4|youtube:qAEkRYNN1os
+author:ruuvari/aspekt|platform:Ears|pms-id:asm14/listening_music/459|position:2|techniques:Cubase, VST-plugins|title:Bermuda Triangle|video-file:listening-music/0007_459_ruuvari-bermuda_triangle.flac.mp4|youtube:sP4GmVolGZI
+author:Duality Vile|platform:I LOVE YOU HANNE <3|pms-id:asm14/listening_music/560|position:3|techniques:ENGL, IBANEZ, SHURE|title:Aeginan Andromeda Stage|video-file:listening-music/0006_560_duality_vile-aeginan_andromeda_stage.flac.mp4|youtube:N06OQ_lFAhM
+author:Aikapallo|platform:PC|pms-id:asm14/listening_music/487|position:4|techniques:Cubase + plugins, Lime long drink and Old No.7|title:Meadows of Oblivion|video-file:listening-music/0010_487_aikapallo-meadows_of_oblivion.flac.mp4|youtube:hxbRT_AIjng
+author:Mice & Buzzer / Brainstorm|platform:PC|pms-id:asm14/listening_music/470|position:5|techniques:Reason|title:Miami Spice|video-file:listening-music/0002_470_mice&buzzer-miami_spice.flac.mp4|youtube:qq1SVXix8eg
+author:Ultra Crab Force|platform:Mac & PC powers combined!|pms-id:asm14/listening_music/559|position:6|techniques:Slaavirapukyykky|title:OMG ITS A CRAB!|video-file:listening-music/0011_559_ultra_crab_force-omg_its_a_crab_.flac.mp4|youtube:LJlJxS5-j4I
+author:Paokala|platform:PC|pms-id:asm14/listening_music/456|position:7|techniques:Reason 4, FL|title:Galatian March|video-file:listening-music/0001_456_paokala-galatian_march.flac.mp4|youtube:HnXv97hqkOo
+author:T-101 / Darklite|platform:PC Reaper, Line6, Toxic, etc|pms-id:asm14/listening_music/441|position:8|techniques:From Elysium, via Valhalla|title:Avalon|video-file:listening-music/0013_441_T-101_-_Avalon.flac.mp4|youtube:1td4tPlANM0
+author:NinjaBaka|platform:PC|pms-id:asm14/listening_music/495|position:9|techniques:Cakewalk Sonar|title:Taiga|video-file:listening-music/0008_495_ninjabaka-taiga.flac.mp4|youtube:a5iskElI8aI
+author:Byproduct|platform:PC|pms-id:asm14/listening_music/461|position:10|techniques:FL Studio, Lumia, Valtion Rakettitiet|title:Underwater Things|video-file:listening-music/0009_461_byproduct-underwater_things.flac.mp4|youtube:PXEwpY6WQaU
+author:NUUSiKA|platform:Universal|pms-id:asm14/listening_music/479|position:11|techniques:FL Studio & guitar|title:Muusika|video-file:listening-music/0004_479_nuusika-muusika.flac.mp4|youtube:6D50yOnykIk
+author:Loigor|platform:rsn7|pms-id:asm14/listening_music/583|position:12|techniques:pure luck|title:AI Soul|video-file:listening-music/0005_583_loigor-ai_soul.flac.mp4|youtube:BBsv607UVlw
+author:SandEar|platform:PC|pms-id:asm14/listening_music/499|position:13|techniques:Ableton Live, FM8|title:Apart From This|video-file:listening-music/0003_499_sandear-apart_from_this.flac.mp4|youtube:8VkDnLNikRE
 
 
 :section Fast music
-:youtube-playlist PLJO4AtxKJiFMYDkwr01ByFKJHUcAEu088
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:Rajunen|pms-id:asm14/fast_music/510|title:Race to 80's space|video-file:fast-music/02_race to 80 s space.flac.mp4|youtube:VP6TfgiMll8
-author:Melodïcore|pms-id:asm14/fast_music/512|title:Bilepaku|video-file:fast-music/05_bilepaku.flac.mp4|youtube:Klx4YhH-Y9s
-author:Zode|pms-id:asm14/fast_music/513|title:puolentunnin espärinät|video-file:fast-music/13_puolentunnin espärinät.flac.mp4|youtube:XJXoUkxr1ao
-author:Yzi/Fit|pms-id:asm14/fast_music/519|title:Softakanki|video-file:fast-music/14_Yzi - Softakanki.flac.mp4|youtube:qMm6yWe1OFQ
-author:Galaksinvartija|pms-id:asm14/fast_music/521|title:Johan Pumppasi|video-file:fast-music/06_johan pumppasi.flac.mp4|youtube:pahy8VpCL0A
-author:tArzAn|pms-id:asm14/fast_music/522|title:german beer spa|video-file:fast-music/07_german beer spa.flac.mp4|youtube:EqTD1gbXyEk
-author:Thousand Nights of Tinnitus|pms-id:asm14/fast_music/525|title:Tinnitus Suite op. 5 Part IV|video-file:fast-music/03_Thousand Nights of Tinnitus - Tinnitus Suite Op_ 5 Part IV.flac.mp4|youtube:unHFdDP8LHc
-author:Ketonen|pms-id:asm14/fast_music/529|title:Ulinaa Ulkoavaruudesta|video-file:fast-music/08_ulinaa ulkoavaruudesta.flac.mp4|youtube:2NoEqAx_T70
-author:cce|pms-id:asm14/fast_music/531|title:Piknik Trip Stickers|video-file:fast-music/10_piknik trip stickers.flac.mp4|youtube:ZNNtKw195tE
-author:exla|pms-id:asm14/fast_music/534|title:Serenity|video-file:fast-music/01_serenity.flac.mp4|youtube:iKcEHjGCfhg
-author:NUUSiKA|pms-id:asm14/fast_music/536|title:No eihän tästä nyt tule mitään|video-file:fast-music/11_no eihän tästä nyt tule mitään.flac.mp4|youtube:hVlK44vi_X4
-author:Orbis|pms-id:asm14/fast_music/537|title:Indigo Dreams|video-file:fast-music/04_indigo dreams.flac.mp4|youtube:ckJVloW6ksk
-author:Little Bitchard|pms-id:asm14/fast_music/539|title:F**k That|video-file:fast-music/09_f  k that.flac.mp4|youtube:MrsJD98ozlg
-author:Rayjan / Pyrotec|pms-id:asm14/fast_music/540|title:Love|video-file:fast-music/15_love.flac.mp4|youtube:bK2E4xc1jhs
-author:Santur|pms-id:asm14/fast_music/541|title:Radagascar|video-file:fast-music/12_radagascar.flac.mp4|youtube:7dildivupXg
+author:Ketonen|platform:Läppäri ilman hiirtä (!)|pms-id:asm14/fast_music/529|position:1|techniques:Ableton live|title:Ulinaa Ulkoavaruudesta|video-file:fast-music/08_ulinaa ulkoavaruudesta.flac.mp4|youtube:2NoEqAx_T70
+author:Melodïcore|platform:PC|pms-id:asm14/fast_music/512|position:2|techniques:FL Studio 11|title:Bilepaku|video-file:fast-music/05_bilepaku.flac.mp4|youtube:Klx4YhH-Y9s
+author:Rajunen|platform:PC I guess|pms-id:asm14/fast_music/510|position:3|techniques:FL Studio 10 & Cheesy space synths|title:Race to 80's space|video-file:fast-music/02_race to 80 s space.flac.mp4|youtube:VP6TfgiMll8
+author:Thousand Nights of Tinnitus|platform:9Front|pms-id:asm14/fast_music/525|position:4|techniques:Real instruments|title:Tinnitus Suite op. 5 Part IV|video-file:fast-music/03_Thousand Nights of Tinnitus - Tinnitus Suite Op_ 5 Part IV.flac.mp4|youtube:unHFdDP8LHc
+author:Little Bitchard|platform:Win|pms-id:asm14/fast_music/539|position:5|techniques:Ableton Live|title:F**k That|video-file:fast-music/09_f  k that.flac.mp4|youtube:MrsJD98ozlg
+author:Yzi/Fit|platform:Mac|pms-id:asm14/fast_music/519|position:6|techniques:Ableton Live + NI plugins|title:Softakanki|video-file:fast-music/14_Yzi - Softakanki.flac.mp4|youtube:qMm6yWe1OFQ
+author:NUUSiKA|platform:Universal|pms-id:asm14/fast_music/536|position:7|techniques:FL Studio, KIIRE!|title:No eihän tästä nyt tule mitään|video-file:fast-music/11_no eihän tästä nyt tule mitään.flac.mp4|youtube:hVlK44vi_X4
+author:Santur|platform:PC|pms-id:asm14/fast_music/541|position:8|techniques:Sonar X3|title:Radagascar|video-file:fast-music/12_radagascar.flac.mp4|youtube:7dildivupXg
+author:tArzAn|platform:PC|pms-id:asm14/fast_music/522|position:9|techniques:Schism Tracker|title:german beer spa|video-file:fast-music/07_german beer spa.flac.mp4|youtube:EqTD1gbXyEk
+author:Galaksinvartija|platform:Korva|pms-id:asm14/fast_music/521|position:10|techniques:Ei ole.|title:Johan Pumppasi|video-file:fast-music/06_johan pumppasi.flac.mp4|youtube:pahy8VpCL0A
+author:Zode|platform:pc kait|pms-id:asm14/fast_music/513|position:11|techniques:smashing keys while recording|title:puolentunnin espärinät|video-file:fast-music/13_puolentunnin espärinät.flac.mp4|youtube:XJXoUkxr1ao
+author:Rayjan / Pyrotec|platform:Pc|pms-id:asm14/fast_music/540|position:12|techniques:Love|title:Love|video-file:fast-music/15_love.flac.mp4|youtube:bK2E4xc1jhs
+author:exla|platform:PC/wav/ableton live 8|pms-id:asm14/fast_music/534|position:13|techniques:point&click|title:Serenity|video-file:fast-music/01_serenity.flac.mp4|youtube:iKcEHjGCfhg
+author:cce|platform:PC|pms-id:asm14/fast_music/531|position:14|techniques:FL Studio 11|title:Piknik Trip Stickers|video-file:fast-music/10_piknik trip stickers.flac.mp4|youtube:ZNNtKw195tE
+author:Orbis|platform:PC|pms-id:asm14/fast_music/537|position:15|techniques:Guitar Pro 6|title:Indigo Dreams|video-file:fast-music/04_indigo dreams.flac.mp4|youtube:ckJVloW6ksk
 
 
 :section Dance music
-:youtube-playlist PLJO4AtxKJiFNZ0bTl0FpyiaCNn-wpHmZm
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
-author:King Thrill / Tekotuotanto|pms-id:asm14/dance_music/445|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4|youtube:i2S4JTBWYkw
-author:Maulwurf ft. Elli Luukkainen|pms-id:asm14/dance_music/447|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4|youtube:7jIo73qGWLo
-author:Man with no Nickname|pms-id:asm14/dance_music/450|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4|youtube:bzsgpa9fRZs
-author:Yzi/Fit|pms-id:asm14/dance_music/463|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4|youtube:ladbArilnbY
-author:Alek Szahala|pms-id:asm14/dance_music/464|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4|youtube:cf4A6j3fykA
-author:signal|pms-id:asm14/dance_music/465|title:Neil|video-file:dance-music/09_17neil.flac.mp4|youtube:Z-LOfRZX8a4
-author:microdots|pms-id:asm14/dance_music/530|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4|youtube:NYCR7i-lJeY
-author:shoK|pms-id:asm14/dance_music/547|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4|youtube:Ub1f66zdYEA
-author:ukimies|pms-id:asm14/dance_music/551|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4|youtube:IP61Wg84gvA
-author:Oskill8|pms-id:asm14/dance_music/573|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4|youtube:ULKBV_8R7Qw
-author:Happopumppu|pms-id:asm14/dance_music/581|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4|youtube:WexbZZWbgcY
-author:Rarro/ASDF|pms-id:asm14/dance_music/603|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4|youtube:H-W8QGiOP54
+author:Man with no Nickname|platform:PC|pms-id:asm14/dance_music/450|position:1|techniques:Schism Tracker with NES samples and -effects only|title:Crazy NES DanceMix|video-file:dance-music/02_crazy_nes_dancemix.flac.mp4|youtube:bzsgpa9fRZs
+author:Oskill8|platform:Game Boy DMG-01|pms-id:asm14/dance_music/573|position:2|techniques:LSDJ|title:Spark Complex|video-file:dance-music/06_spark_complex.flac.mp4|youtube:ULKBV_8R7Qw
+author:Alek Szahala|platform:PC|pms-id:asm14/dance_music/464|position:3|techniques:FL. No wobbles, pryda snares or pitch bender.|title:Bermuda Square|video-file:dance-music/04_Bermuda_square.flac.mp4|youtube:cf4A6j3fykA
+author:King Thrill / Tekotuotanto|platform:PC|pms-id:asm14/dance_music/445|position:4|techniques:Reaper|title:Guru Meditation|video-file:dance-music/10_Guru_Meditation.flac.mp4|youtube:i2S4JTBWYkw
+author:signal|platform:Cubase|pms-id:asm14/dance_music/465|position:5|techniques:sleep deprivation|title:Neil|video-file:dance-music/09_17neil.flac.mp4|youtube:Z-LOfRZX8a4
+author:Rarro/ASDF|platform:PC|pms-id:asm14/dance_music/603|position:6|techniques:Propellerheads Reason, Ableton Live, Roland Juno-106, Yamaha TX7|title:Yleisessä Saunassa|video-file:dance-music/12_yleisessa_saunassa.flac.mp4|youtube:H-W8QGiOP54
+author:Maulwurf ft. Elli Luukkainen|platform:PC|pms-id:asm14/dance_music/447|position:7|techniques:FL 11, 80+ working hours divided between 3 computers and 8 project files,kofeiini & ankara v*tutus.|title:Nevermore|video-file:dance-music/11_18nevermore_edit.flac.mp4|youtube:7jIo73qGWLo
+author:Yzi/Fit|platform:Mac|pms-id:asm14/dance_music/463|position:8|techniques:Ableton Live + NI plugins|title:Greetings to Buzzer|video-file:dance-music/05_Greetings_to_Buzzer.flac.mp4|youtube:ladbArilnbY
+author:shoK|platform:PC|pms-id:asm14/dance_music/547|position:9|techniques:Ableton|title:Vanadis|video-file:dance-music/08_Vanadis_edit.flac.mp4|youtube:Ub1f66zdYEA
+author:ukimies|platform:PC/Mac|pms-id:asm14/dance_music/551|position:10|techniques:Ableton Live, Mountain Dew|title:The Hall Is Thataway|video-file:dance-music/01_The_Hal_ Is_Thataway.flac.mp4|youtube:IP61Wg84gvA
+author:microdots|platform:PC|pms-id:asm14/dance_music/530|position:11|techniques:Renoise|title:cloud city|video-file:dance-music/03_cloud_city.flac.mp4|youtube:NYCR7i-lJeY
+author:Happopumppu|platform:Acid|pms-id:asm14/dance_music/581|position:12|techniques:Roland TR-8, TR-606, Xoxbox, FB-01, EM-1, PX7, MPC1000|title:Solid Groover (Short Version)|video-file:dance-music/07_solid_groover.flac.mp4|youtube:WexbZZWbgcY
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:SirRandom|image-file:graphics/417-entry.png|pms-id:asm14/graphics/417|title:Just like cats 'n' dogs
-author:Charlotta Tiuri|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|title:Gryphon Healer
-author:Nina i.|image-file:graphics/426-entry.jpg|pms-id:asm14/graphics/426|title:Its about to get cheesy
-author:Valtteri / HBC|image-file:graphics/435-entry.jpg|pms-id:asm14/graphics/435|title:The ancient tentacleforest of magical floating bubbles
-author:Juhani Jokinen|image-file:graphics/440-entry.jpg|pms-id:asm14/graphics/440|title:The Hunting Party
-author:Plasticbunny|image-file:graphics/438-entry.png|pms-id:asm14/graphics/442|title:The best place to observe
-author:Partikle|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|title:Ancient god awakens
-author:sssampo/Pistoke|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|title:Thieving Trolls
-author:Niina Javanainen|image-file:graphics/449-entry.png|pms-id:asm14/graphics/449|title:Monitoring Life
-author:Darkki|image-file:graphics/455-entry.jpg|pms-id:asm14/graphics/455|title:Bells & Whistles
-author:Vablo|image-file:graphics/472-entry.jpg|pms-id:asm14/graphics/472|title:Under The Dome
-author:Vablo|image-file:graphics/475-entry.jpg|pms-id:asm14/graphics/475|title:Forest Village
-author:Silvy|image-file:graphics/476-entry.jpg|pms-id:asm14/graphics/476|title:Don't mess with me
-author:Jacobo|image-file:graphics/477-entry.jpg|pms-id:asm14/graphics/477|title:Freedom
-author:EVM|image-file:graphics/492-entry.png|pms-id:asm14/graphics/492|title:Playground
-author:Osmic/Unknown Artists|image-file:graphics/508-entry.jpg|pms-id:asm14/graphics/508|title:Creator of Worlds
-author:maxon / HBC|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|title:At your service
-author:Surround|image-file:graphics/545-entry.jpg|pms-id:asm14/graphics/545|title:Shock Troops
-author:Mazor/Fairlight|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|title:Carnivore
-author:Venni|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|title:Home
-author:Caffeine!|image-file:graphics/566-entry.jpg|pms-id:asm14/graphics/566|title:Desert Dweller
+author:Darkki|image-file:graphics/455-entry.jpg|platform:PC|pms-id:asm14/graphics/455|position:1|techniques:3dsmax, Photoshop|title:Bells & Whistles
+author:Valtteri / HBC|image-file:graphics/435-entry.jpg|platform:PC|pms-id:asm14/graphics/435|position:2|techniques:Photoshop, ass sweat|title:The ancient tentacleforest of magical floating bubbles
+author:Charlotta Tiuri|image-file:graphics/424-entry.png|pms-id:asm14/graphics/424|position:3|techniques:Photoshop CS5|title:Gryphon Healer
+author:Vablo|image-file:graphics/475-entry.jpg|platform:PC|pms-id:asm14/graphics/475|position:4|techniques:Blender, Photoshop CC|title:Forest Village
+author:EVM|image-file:graphics/492-entry.png|platform:PC|pms-id:asm14/graphics/492|position:5|techniques:Digital painting in Photoshop|title:Playground
+author:Nina i.|image-file:graphics/426-entry.jpg|platform:PC|pms-id:asm14/graphics/426|position:6|techniques:Blender + Photoshop|title:Its about to get cheesy
+author:Mazor/Fairlight|image-file:graphics/555-entry.png|pms-id:asm14/graphics/555|position:7|techniques:Mac, Wacom & Photoshop|title:Carnivore
+author:Vablo|image-file:graphics/472-entry.jpg|platform:PC|pms-id:asm14/graphics/472|position:8|techniques:Blender, Photoshop CC|title:Under The Dome
+author:Partikle|image-file:graphics/443-entry.jpg|pms-id:asm14/graphics/443|position:9|techniques:Photoshop CS6, Cintiq 22HD|title:Ancient god awakens
+author:Plasticbunny|image-file:graphics/438-entry.png|platform:Mac|pms-id:asm14/graphics/442|position:10|techniques:3D,digital painting|title:The best place to observe
+author:maxon / HBC|image-file:graphics/542-entry.png|pms-id:asm14/graphics/542|position:11|techniques:Blender, Gimp, Krita in Linux (Ubuntu GNOME)|title:At your service
+author:Jacobo|image-file:graphics/477-entry.jpg|platform:PC|pms-id:asm14/graphics/477|position:12|techniques:3D modeling|title:Freedom
+author:Juhani Jokinen|image-file:graphics/440-entry.jpg|platform:PC|pms-id:asm14/graphics/440|position:13|techniques:painting + stock photos + 3d|title:The Hunting Party
+author:Osmic/Unknown Artists|image-file:graphics/508-entry.jpg|platform:x86-64|pms-id:asm14/graphics/508|position:14|techniques:3DS Max, Photoshop = kaikki muu on turhaa!|title:Creator of Worlds
+author:Venni|image-file:graphics/557-entry.png|pms-id:asm14/graphics/557|position:15|techniques:3D in Blender + 2D in Photoshop|title:Home
+author:Surround|image-file:graphics/545-entry.jpg|platform:Pc näyttö|pms-id:asm14/graphics/545|position:16|techniques:maksi ja photari|title:Shock Troops
+author:SirRandom|image-file:graphics/417-entry.png|platform:PC|pms-id:asm14/graphics/417|position:17|techniques:3ds Max + Photoshop|title:Just like cats 'n' dogs
+author:sssampo/Pistoke|image-file:graphics/444-entry.jpg|pms-id:asm14/graphics/444|position:18|techniques:Zbrush, Blender, Cycles, Photoshop|title:Thieving Trolls
+author:Silvy|image-file:graphics/476-entry.jpg|platform:-|pms-id:asm14/graphics/476|position:19|techniques:Acrylic on canvas|title:Don't mess with me
+author:Caffeine!|image-file:graphics/566-entry.jpg|platform:PC|pms-id:asm14/graphics/566|position:20|techniques:Blender - Zbrush - Photoshop|title:Desert Dweller
+author:Niina Javanainen|image-file:graphics/449-entry.png|platform:PC|pms-id:asm14/graphics/449|position:21|techniques:Photoshop CS6, Wacom Intuos 5|title:Monitoring Life
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
 
-author:MacGywer / npli|image-file:fast-graphics/556-entry.jpg|pms-id:asm14/fast_graphics/556|title:Don't Whine about physics
-author:Surround|image-file:fast-graphics/564-entry.jpg|pms-id:asm14/fast_graphics/564|title:Gas chambers
-author:EVM|image-file:fast-graphics/570-entry.png|pms-id:asm14/fast_graphics/570|title:No sound, not even a breath
-author:minelo|image-file:fast-graphics/579-entry.png|pms-id:asm14/fast_graphics/579|title:PUKKI TULEE
-author:john peeba|image-file:fast-graphics/588-entry.png|pms-id:asm14/fast_graphics/588|title:Fractured
-author:maxon / HBC|image-file:fast-graphics/589-entry.png|pms-id:asm14/fast_graphics/589|title:Keep up
-author:Vablo|image-file:fast-graphics/590-entry.jpg|pms-id:asm14/fast_graphics/590|title:Hold Your Breath
-author:korpi / HBC|image-file:fast-graphics/592-entry.jpg|pms-id:asm14/fast_graphics/592|title:Take a deeep breath!
-author:Charlotta Tiuri|image-file:fast-graphics/593-entry.png|pms-id:asm14/fast_graphics/593|title:Swim you fools!
-author:Nappu|image-file:fast-graphics/594-entry.png|pms-id:asm14/fast_graphics/594|title:Bad breath
-author:Hiski|image-file:fast-graphics/595-entry.jpg|pms-id:asm14/fast_graphics/595|title:Cloudy with a chance of rocks
-author:sssampo / Pistoke|image-file:fast-graphics/599-entry.jpg|pms-id:asm14/fast_graphics/599|title:Don't hold your breath
-author:Valtteri / HBC|image-file:fast-graphics/605-entry.jpg|pms-id:asm14/fast_graphics/605|title:Hey, let's try the new ride at the fun fair!
-author:Neko-Maya|image-file:fast-graphics/606-entry.png|pms-id:asm14/fast_graphics/606|title:Blub
-author:Felor|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/607|title:Poison
+author:korpi / HBC|image-file:fast-graphics/592-entry.jpg|platform:PC|pms-id:asm14/fast_graphics/592|position:1|techniques:Wacom, Photoshop|title:Take a deeep breath!
+author:Vablo|image-file:fast-graphics/590-entry.jpg|platform:PC|pms-id:asm14/fast_graphics/590|position:2|techniques:Photoshop CC|title:Hold Your Breath
+author:EVM|image-file:fast-graphics/570-entry.png|platform:PC|pms-id:asm14/fast_graphics/570|position:3|techniques:Photoshop|title:No sound, not even a breath
+author:sssampo / Pistoke|image-file:fast-graphics/599-entry.jpg|pms-id:asm14/fast_graphics/599|position:4|techniques:Blender, Zbrush|title:Don't hold your breath
+author:Charlotta Tiuri|image-file:fast-graphics/593-entry.png|pms-id:asm14/fast_graphics/593|position:5|techniques:Photoshop + Mac|title:Swim you fools!
+author:Hiski|image-file:fast-graphics/595-entry.jpg|platform:PC|pms-id:asm14/fast_graphics/595|position:6|techniques:Photoshop, digital painting|title:Cloudy with a chance of rocks
+author:john peeba|image-file:fast-graphics/588-entry.png|platform:iPad|pms-id:asm14/fast_graphics/588|position:7|techniques:iPad, Procreate, Adonit Jot Touch Pixelpoint|title:Fractured
+author:Valtteri / HBC|image-file:fast-graphics/605-entry.jpg|platform:PC|pms-id:asm14/fast_graphics/605|position:8|techniques:Photoshop|title:Hey, let's try the new ride at the fun fair!
+author:minelo|image-file:fast-graphics/579-entry.png|pms-id:asm14/fast_graphics/579|position:9|techniques:Photoshop|title:PUKKI TULEE
+author:maxon / HBC|image-file:fast-graphics/589-entry.png|pms-id:asm14/fast_graphics/589|position:10|techniques:Blender, Krita in Linux (Ubuntu GNOME)|title:Keep up
+author:Nappu|image-file:fast-graphics/594-entry.png|pms-id:asm14/fast_graphics/594|position:11|techniques:Photoshop|title:Bad breath
+author:Neko-Maya|image-file:fast-graphics/606-entry.png|pms-id:asm14/fast_graphics/606|position:12|techniques:Krita 2.8|title:Blub
+author:MacGywer / npli|image-file:fast-graphics/556-entry.jpg|pms-id:asm14/fast_graphics/556|position:13|techniques:Photoshop, no pre-modeled stuff|title:Don't Whine about physics
+author:Surround|image-file:fast-graphics/564-entry.jpg|platform:Hiekka|pms-id:asm14/fast_graphics/564|position:14|techniques:Rikkikaasut|title:Gas chambers
+author:Felor|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/607|position:15|techniques:Silo, Blender, Krita|title:Poison
 
 
 :section Winter

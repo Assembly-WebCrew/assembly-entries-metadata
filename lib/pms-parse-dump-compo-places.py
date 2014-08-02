@@ -15,14 +15,15 @@ iddata = {}
 
 for entry in entries:
     entry_id = entry.getAttribute("id")
-    entry_position = entry.getAttribute("place")
+    entry_position_str = entry.getAttribute("place") or '0'
     techniques = entry.getAttribute("techniques")
     if len(techniques) == 0:
         techniques = None
     platform = entry.getAttribute("platform")
     if len(platform) == 0:
         platform = None
-    iddata[entry_id] = (int(entry_position), techniques, platform)
+    entry_position = int(entry_position_str) or None
+    iddata[entry_id] = (entry_position, techniques, platform)
 
 import asmmetadata
 
