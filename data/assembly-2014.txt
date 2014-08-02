@@ -1,38 +1,40 @@
 :year 2014
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFOAHEA306lvUYVzpPxaFMsj
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2014 PC computer.</p>
 :ongoing true
 
-author:Epoch|platform:Windows|pms-id:asm14/demo/612|techniques:We are not sorry|title:Entropy
-author:Quadtrip|platform:Browser|pms-id:asm14/demo/616|techniques:WebGL shaders and JS software synth|title:Rahkasammalten sielunvaellus
-author:Subsquare & Kevin Kerttunen|platform:Windows|pms-id:asm14/demo/617|techniques:Unity3d, C#, DX11|title:Colored Glass
-author:Farbrausch|platform:Windows|pms-id:asm14/demo/618|techniques:Werkzeug4|title:fr-070: Trained
-author:Hedelmae|platform:PC|pms-id:asm14/demo/624|techniques:OpenGL|title:Snug
-author:Armada|platform:Windows PC|pms-id:asm14/demo/625|techniques:Unity, Leap Motion, Oculus Rift, Photosynth, Memento|title:frutos do mar
-author:Division|platform:Windows|pms-id:asm14/demo/628|techniques:DX9|title:Jitter
-author:Pyrotech|platform:PC|pms-id:asm14/demo/629|techniques:DirectX 9|title:Nuclei
-author:One Studio Off|platform:PC|pms-id:asm14/demo/633|techniques:ATK|title:Black And White Lies
-author:Wide Load|platform:Webgl|pms-id:asm14/demo/634|techniques:Three.js / Webgl|title:Prosesseja
-author:Paraguay|platform:WebGL|pms-id:asm14/demo/635|techniques:Three.js, L-systems, Google|title:Last Day of Escapism
+author:Epoch|guid:1827|platform:Windows|pms-id:asm14/demo/612|techniques:We are not sorry|title:Entropy|youtube:9uMKKmsPLRs
+author:Quadtrip|guid:1828|platform:Browser|pms-id:asm14/demo/616|techniques:WebGL shaders and JS software synth|title:Rahkasammalten sielunvaellus|youtube:L7AysSLaJvE
+author:Subsquare & Kevin Kerttunen|guid:1829|platform:Windows|pms-id:asm14/demo/617|techniques:Unity3d, C#, DX11|title:Colored Glass|youtube:QuEYN-VYHlw
+author:Farbrausch|guid:1830|platform:Windows|pms-id:asm14/demo/618|techniques:Werkzeug4|title:fr-070: Trained|youtube:ztopTs-G6fE
+author:Hedelmae|guid:1831|platform:PC|pms-id:asm14/demo/624|techniques:OpenGL|title:Snug|youtube:hM6Dr-iIryE
+author:Armada|guid:1832|platform:Windows PC|pms-id:asm14/demo/625|techniques:Unity, Leap Motion, Oculus Rift, Photosynth, Memento|title:frutos do mar|youtube:XaYfspoSQ0k
+author:Division|guid:1833|platform:Windows|pms-id:asm14/demo/628|techniques:DX9|title:Jitter|youtube:BCg37ny__1Y
+author:Pyrotech|guid:1834|platform:PC|pms-id:asm14/demo/629|techniques:DirectX 9|title:Nuclei|youtube:aYZL29p8Rgc
+author:One Studio Off|guid:1835|platform:PC|pms-id:asm14/demo/633|techniques:ATK|title:Black And White Lies|youtube:8YnH-moDloA
+author:Wide Load|guid:1836|platform:Webgl|pms-id:asm14/demo/634|techniques:Three.js / Webgl|title:Prosesseja|youtube:R4eVuo5xvzQ
+author:Paraguay|guid:1837|platform:WebGL|pms-id:asm14/demo/635|techniques:Three.js, L-systems, Google|title:Last Day of Escapism|youtube:fydLbvyIGis
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFMPRDdNVEVau0HBlKY9dmUL
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2014 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 
-author:mystran|platform:Win32/D3D9|pms-id:asm14/4k/506|techniques:crinkler and c++ template metaprogramming|title:my first intro
-author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm14/4k/608|techniques:C++, OpenGL 2, SDL, dnload.py|title:Whisky in a Tube
-author:Digimind & Keen|platform:PC|pms-id:asm14/4k/610|techniques:Crinkler, 4klang|title:Planet Honey
-author:Digimind & Silent|platform:PC|pms-id:asm14/4k/611|techniques:Crinkler, 4klang|title:Beats in motion
-author:lucid|platform:Microsoft Windows PC|pms-id:asm14/4k/619|techniques:Crinkler|title:Stupid Air Rally
-author:oo|platform:PC|pms-id:asm14/4k/620|techniques:C++, OpenGL, GLSL, 4klang, Rocket|title:Inside Ink Drops
-author:adapt|platform:windous|pms-id:asm14/4k/621|techniques:glsl,crinkler,shader minifier, roder, speedy size coding, rocknroll and lotsa laav|title:Commander Perlin
-author:Jontte, JDruid, cyndis|platform:Linux|pms-id:asm14/4k/627|techniques:Assembly, GLSL, 4klang|title:Neopterygii
-author:Unknown Artists|platform:Windows|pms-id:asm14/4k/631|techniques:dx11|title:Splash
-author:qma|platform:Linux|pms-id:asm14/4k/637|techniques:GLSL, SDL|title:Epätoivoinen teko sponsoritiskin nurkassa perjantai-iltana
+author:mystran|guid:1817|platform:Win32/D3D9|pms-id:asm14/4k/506|techniques:crinkler and c++ template metaprogramming|title:my first intro|youtube:rCkCItuD-e8
+author:Faemiyah|guid:1818|platform:FreeBSD-ia32|pms-id:asm14/4k/608|techniques:C++, OpenGL 2, SDL, dnload.py|title:Whisky in a Tube|youtube:BHgf8ygW1Vk
+author:Digimind & Keen|guid:1819|platform:PC|pms-id:asm14/4k/610|techniques:Crinkler, 4klang|title:Planet Honey|youtube:llFQ1XgEUIw
+author:Digimind & Silent|guid:1820|platform:PC|pms-id:asm14/4k/611|techniques:Crinkler, 4klang|title:Beats in motion|youtube:d76N8aXdaEc
+author:lucid|guid:1821|platform:Microsoft Windows PC|pms-id:asm14/4k/619|techniques:Crinkler|title:Stupid Air Rally|youtube:pieV7sY6DkM
+author:oo|guid:1822|platform:PC|pms-id:asm14/4k/620|techniques:C++, OpenGL, GLSL, 4klang, Rocket|title:Inside Ink Drops|youtube:eZBT8l6bbAk
+author:adapt|guid:1823|platform:windous|pms-id:asm14/4k/621|techniques:glsl,crinkler,shader minifier, roder, speedy size coding, rocknroll and lotsa laav|title:Commander Perlin|youtube:z-FsYCothsk
+author:Jontte, JDruid, cyndis|guid:1824|platform:Linux|pms-id:asm14/4k/627|techniques:Assembly, GLSL, 4klang|title:Neopterygii|youtube:oK13WxsynlE
+author:Unknown Artists|guid:1825|platform:Windows|pms-id:asm14/4k/631|techniques:dx11|title:Splash|youtube:J-earqeOji0
+author:qma|guid:1826|platform:Linux|pms-id:asm14/4k/637|techniques:GLSL, SDL|title:Epätoivoinen teko sponsoritiskin nurkassa perjantai-iltana|youtube:3qsXMZQEY10
 
 
 :section 1k intro
@@ -55,16 +57,17 @@ author:adapt|guid:1802|platform:windous|pms-id:asm14/1k/604|techniques:speed and
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFMmwEoQ9a9SOa7z1MJx5at4
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
 
-author:Paradise & Reality|platform:Sega Dreamcast|pms-id:asm14/real_wild_demo/614|techniques:Too slow 2d stuff|title:Aona
-author:SBA|platform:Commodore PET model 200 (aka. cbm 8032-sk)|pms-id:asm14/real_wild_demo/623|techniques:Commodore Basic 4.0|title:greetings'n f*ckings
-author:Perskarhunen Bros.|platform:100x7 led matrix with shift registers|pms-id:asm14/real_wild_demo/630|techniques:partycoding, vim, python, renoise, paint, eväsleivät|title:100x7
-author:PWP|platform:Commodore VIC-20|pms-id:asm14/real_wild_demo/632|techniques:Assembler & 12 hours of partytime|title:Warning
-author:oobc|platform:CBM 8032|pms-id:asm14/real_wild_demo/636|techniques:1 pulse wave, no custom characters|title:We Are Computers
-author:ASDF|platform:Pure Data / Mac|pms-id:asm14/real_wild_demo/638|techniques:Novation Launchpad controlled by Pure Data|title:Vika slaissi
+author:Paradise & Reality|guid:1811|platform:Sega Dreamcast|pms-id:asm14/real_wild_demo/614|techniques:Too slow 2d stuff|title:Aona|youtube:rCIeBMkvKc8
+author:SBA|guid:1812|platform:Commodore PET model 200 (aka. cbm 8032-sk)|pms-id:asm14/real_wild_demo/623|techniques:Commodore Basic 4.0|title:greetings'n f*ckings|youtube:oltmIOb0tzE
+author:Perskarhunen Bros.|guid:1813|platform:100x7 led matrix with shift registers|pms-id:asm14/real_wild_demo/630|techniques:partycoding, vim, python, renoise, paint, eväsleivät|title:100x7|youtube:iQPL_22qzdo
+author:PWP|guid:1814|platform:Commodore VIC-20|pms-id:asm14/real_wild_demo/632|techniques:Assembler & 12 hours of partytime|title:Warning|youtube:V2QbKKWlvBY
+author:oobc|guid:1815|platform:CBM 8032|pms-id:asm14/real_wild_demo/636|techniques:1 pulse wave, no custom characters|title:We Are Computers|youtube:MuKmyQGZlkg
+author:ASDF|guid:1816|platform:Pure Data / Mac|pms-id:asm14/real_wild_demo/638|techniques:Novation Launchpad controlled by Pure Data|title:Vika slaissi|youtube:oA10bsirVRE
 
 
 :section Oldskool demo
@@ -78,18 +81,19 @@ author:npli|guid:1789|platform:Amiga 500|pms-id:asm14/oldskool_demo/550|position
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFMi9xxRS2gYGGUdysyIPks8
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
 
-author:Randomheads|platform:PC master race|pms-id:asm14/short_film/418|techniques:Premiere, After Effects, 3ds Max & Reason|title:Tekniikan Pakoputki
-author:Jorge Fuentes|pms-id:asm14/short_film/466|title:It's Not About the Money
-author:Team Plastastic|platform:PC|pms-id:asm14/short_film/609|techniques:Animation and modeling done in Autodesk Maya|title:Plastastic
-author:npli|pms-id:asm14/short_film/613|techniques:Premiere, Illustrator, GoPro|title:tuut
-author:Tekotuotanto|platform:PC|pms-id:asm14/short_film/615|techniques:3dsmax, Fusion, After effects, Q-base|title:Kitchen
-author:SBA|pms-id:asm14/short_film/622|techniques:Hard Work|title:Business Trip
-author:KorpisotuRiT|platform:PC|pms-id:asm14/short_film/626|techniques:Flash, skill, Soundation|title:Demonsceners
-author:A2R / AEM|pms-id:asm14/short_film/639|techniques:Houdini, Sunvox|title:266 Aline
+author:Randomheads|guid:1803|platform:PC master race|pms-id:asm14/short_film/418|techniques:Premiere, After Effects, 3ds Max & Reason|title:Tekniikan Pakoputki|youtube:ypDzir5NWKA
+author:Jorge Fuentes|guid:1804|pms-id:asm14/short_film/466|title:It's Not About the Money|youtube:6jQh5EFBxPA
+author:Team Plastastic|guid:1805|platform:PC|pms-id:asm14/short_film/609|techniques:Animation and modeling done in Autodesk Maya|title:Plastastic|youtube:XGptwZdxzrA
+author:npli|guid:1806|pms-id:asm14/short_film/613|techniques:Premiere, Illustrator, GoPro|title:tuut|youtube:H6GquKwQb5k
+author:Tekotuotanto|guid:1807|platform:PC|pms-id:asm14/short_film/615|techniques:3dsmax, Fusion, After effects, Q-base|title:Kitchen|youtube:Wk_uzQpEcUk
+author:SBA|guid:1808|pms-id:asm14/short_film/622|techniques:Hard Work|title:Business Trip|youtube:JFhcb9tN6co
+author:KorpisotuRiT|guid:1809|platform:PC|pms-id:asm14/short_film/626|techniques:Flash, skill, Soundation|title:Demonsceners|youtube:pbbYMlhtJXc
+author:A2R / AEM|guid:1810|pms-id:asm14/short_film/639|techniques:Houdini, Sunvox|title:266 Aline|youtube:fdsi04xyN4M
 
 
 :section Gamedev
@@ -293,6 +297,7 @@ author:AssemblyTV seminars|description:Olli Sinerma from Mindfield Games present
 author:AssemblyTV seminars|description:Sakari Lehtonen is introing GeoKone.NET, a Recursive Geometry Generator software. Talking about natural geometry and how creating it can affect our consciousness. Demoing tech-demo version of our upcoming software built specifically for the Oculus Rift. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1731|media:/vod/2014/Seminars/1731_dive_into_recursive_geometry.mp4|title:Dive into recursive geometry!|youtube:2A_Z_Xm4010
 author:AssemblyTV seminars|description:Tuomas Karmakallio's talk will take in a broad view of the devices utilized in Virtual and Augmented Reality, from Head Mounted Displays, Head's Up Displays, various interface devices, exoskeletons, wall projectors, and body augmentations. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1732|media:/vod/2014/Seminars/1732_virtual_reality_growth_rings.mp4|title:Virtual Reality Growth Rings|youtube:vG1-gFrfZNU
 author:AssemblyTV seminars|description:Samuli Jääskeläinen's speak is about how to effectively use rapid game development to explore the possibilities of virtual reality. Four quick post mortems of four very different weekend long VR game projects.  Presented to you at Assembly Summer ARTtech|guid:1733|media:/vod/2014/Seminars/1733_jamming_in_the_rift.mp4|title:Jamming in the Rift|youtube:HJmS64lJHm8
+author:AssemblyTV seminars|description:For the year 2014 Petri Purho decided to make board game every month. I'll be presenting the games made so far and talking about what he have learned from them. There will be inspiration and tips about how to make your own board / card games.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1728|title:Making a board game every month
 
 
 :section AssemblyTV
@@ -313,6 +318,10 @@ author:AssemblyTV|guid:1787|media:/vod/2014/AssemblyTV/1787_elisa-haastattelu.mp
 author:AssemblyTV|guid:1790|title:Trololo|youtube:pqmD9HnkZj8
 author:AssemblyTV|description:Expert opinion and helpful tips for aspiring game developers at the after-compo studio discussion|guid:1689|media:/vod/2014/AssemblyTV/1689_GameDev_Compostudio.mp4|title:GameDev compo studio|youtube:Q71To05HYnE
 author:AssemblyTV|description:OJJ is still a newcomer in the chiptune circles, but his music has stirred a lot of positive attention in different music scenes and media! Using Nintendo Gameboy consoles he creates energetic an psychedelic bass music that guarantees the mood from the fi|guid:1703|media:/vod/2014/AssemblyTV/.x/1703_OJJ_Konsertti.mp4|title:Concert - OJJ |youtube:pb7VPDNgR0o
+author:AssemblyTV|description:Prize ceremony for Fridays competitions and game development compo|guid:1704|media:/vod/2014/AssemblyTV/1704_Price_Ceremony_1.mp4|title:Prize ceremony 1|youtube:gPVSJc8tyuE
+author:AssemblyTV|description:Will our studio guests go wild after real wild demos? How about you?|guid:1710|media:/vod/2013/AssemblyTV/1582_Realwild_compostudio.mp4|title:Real wild demo compo studio
+author:AssemblyTV|description:Studio discussions about short film compo|guid:1745|media:/vod/2013/AssemblyTV/1580_Shortfilm_compostudio.mp4|title:Short film compo studio|youtube:hQwlcSXqFRQ
+author:AssemblyTV|guid:1838|title:Blastromen -haastattelu|youtube:WzlveK2XFWY
 
 
 :section Hearthstone
