@@ -33,12 +33,13 @@
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFPMMMto1573O3hhoLPNgJzX
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
 
-author:Dekadence|pms-id:asm14/oldskool_demo/457|title:Sliced & Diced
-author:npli|pms-id:asm14/oldskool_demo/550|title:Project Manager
+author:Dekadence|guid:1788|pms-id:asm14/oldskool_demo/457|title:Sliced & Diced|youtube:iXo9TYY1XOQ
+author:npli|guid:1789|pms-id:asm14/oldskool_demo/550|title:Project Manager|youtube:54R0ZIPSoB4
 
 
 :section Short film
@@ -249,21 +250,39 @@ author:AssemblyTV seminars|description:Pyry Takkunen from Polar Bunny is present
 author:AssemblyTV seminars|description:Tree Men Games Creative director Heikki Sillanpää tells about creation of the audiovisual style of car chase game Pako. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1720|title:Art and style of indie mobile game Pako|youtube:X3y5p6_AqLc
 author:AssemblyTV seminars|description:Joel Lehtonen from Koodilehto is talking about their new upcoming experiment: two months when bitcoin transaction data is broadcast nationwide in Finland using DVB-T technology. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with|guid:1721|title:Broadcasting Bitcoin transaction data on DVB-T|youtube:CudtV-NvO1Y
 author:AssemblyTV seminars|description:Dr. Gavin Wood will introduce the Ethereum computation environment including the Ethereum Virtual Machine & contracts within Ethereum. He'll then give a brief walk-through of development of a basic contract and talk around integration possibilities. Prese|guid:1722|title:Programming Society with Asm: An Introduction to Contract Development within Ethereum|youtube:xO1AxsYAkU8
+author:AssemblyTV seminars|description:Jeremias Kangas from LocalBitcoins.com is presenting about  how using Bitcoin securely is simple in most cases, but if you want to develop a more advanced service, there can be many pitfalls. In this talk, Jeremias will go through of his story as a bitcoin entrepreneur and hacker from technical, business and legal perspective. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1723|title:How to Run a Bitcoin Startup Without Constantly Shitting Your Pants|youtube:CgcK3xZpjdI
+author:AssemblyTV seminars|description:Andy Touch from Unity Technologies will give a hands-on, in-editor demonstration covering many of the varied improvements that Unity has made to it’s engine for it’s next major release. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1724|title:Hands-On with Unity 5: Physical-Based Shading, Reflection Probes, WebGL and more!|youtube:9DmRNlIJIp0
+author:AssemblyTV seminars|description:Miro Vesterinen is presenting PBR a new standard in the games industry. It redefines how we create and and render 3D art. This presentation will cover the basics of what PBR is, shines some light on the theory behind PBR and points out some of the biggest workflow differences between traditional and PBR systems. This talk is from artist to artist and won't include too deep technical details or programming. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1725|title:Physically Based Rendering for 3D artists|youtube:wSqca5dfLbc
+author:AssemblyTV seminars|description:Patty Toledo's present is about how there is a need for music business to see games as a new form of broadcast, more positive and interactive than TV and Radio will ever be. And game developers need to understand the power of music and soundtrack for the success of their products. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1727|title:Games and Music: friends or foes?|youtube:hfpXT00wj_c
+author:AssemblyTV seminars|description:Olli Sinerma from Mindfield Games presents how Virtual Reality has become a hot topic with promise to revolutionize how we play games, watch movies and communicate in the coming years. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1730|title:Virtual reality revolutionize the way we play games|youtube:YUZYq7LIIUs
+author:AssemblyTV seminars|description:Sakari Lehtonen is introing GeoKone.NET, a Recursive Geometry Generator software. Talking about natural geometry and how creating it can affect our consciousness. Demoing tech-demo version of our upcoming software built specifically for the Oculus Rift. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1731|title:Dive into recursive geometry!|youtube:2A_Z_Xm4010
+author:AssemblyTV seminars|description:Tuomas Karmakallio's talk will take in a broad view of the devices utilized in Virtual and Augmented Reality, from Head Mounted Displays, Head's Up Displays, various interface devices, exoskeletons, wall projectors, and body augmentations. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1732|title:Virtual Reality Growth Rings|youtube:vG1-gFrfZNU
+author:AssemblyTV seminars|description:Samuli Jääskeläinen's speak is about how to effectively use rapid game development to explore the possibilities of virtual reality. Four quick post mortems of four very different weekend long VR game projects.  Presented to you at Assembly Summer ARTtech|guid:1733|title:Jamming in the Rift|youtube:HJmS64lJHm8
 
 
 :section AssemblyTV
 :youtube-playlist PLJO4AtxKJiFMW8laMoJwKsf4E2eLNKgA_
-:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 :elaine-category 2014 AssemblyTV
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
 author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo|youtube:Q71To05HYnE
+author:AssemblyTV|description:What are the feelings after compo? Did we hear great new music?|guid:1692|title:Fast music compo studio|youtube:tLAAgFQLO9c
+author:AssemblyTV|description:Faster! Harder! Fast graphics compostudio!|guid:1694|title:Fast graphics compo studio|youtube:GL3oGdBwN3U
+author:AssemblyTV|description:Did music make you feel happy or sad? Listen what our compo studio guests think.|guid:1697|title:Listening music compo studio|youtube:5cabaXBVYmM
+author:AssemblyTV|description:Which art piece was the best? Do you agree with our studio guests?|guid:1699|media:/vod/2012/AssemblyTV/1406_Graphics_compostudio.mp4|title:Graphics compo studio|youtube:XSeG7e6puDM
+author:AssemblyTV|description:Our studio guests will discuss about this compo. And hopefully they are feeling like dancing!|guid:1701|title:Dance music compo studio|youtube:8ZrQfr_zFsA
+author:AssemblyTV|description:Was oldskool demos as oldskool like they should be? Our experts discussing about it.|guid:1743|title:Oldskool demo compo studio|youtube:NEcCynEaeNg
+author:AssemblyTV|guid:1785|title:Intro + Instagram|youtube:2QLRcroh2P4
+author:AssemblyTV|guid:1786|title:Aamudisketti|youtube:V8QRXQiTpDY
+author:AssemblyTV|guid:1787|title:Elisa-haastattelu|youtube:5HZC-RcDBxA
+author:AssemblyTV|guid:1790|title:Trololo|youtube:pqmD9HnkZj8
 
 
 :section Hearthstone
 :youtube-playlist PLJO4AtxKJiFMy5OtFLx6HyLKq-ApVAHA3
-:description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> during Assembly Summer 2014.</p>
 :elaine-category 2014 HearthStone
+:description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> during Assembly Summer 2014.</p>
 
 author:AssemblyTV|description:Kävimme haastattelemassa Hearthstone IeSF Qualifier -turnauksen selostajia Ville '1mustfall' Tuomistoa ja Joonas 'Jka' Kapiasta ennen turnauksen alkua.|title:ASSEMBLY Summer 2014: Hearthstone-selostajien haastattelu|youtube:aRqaifiKLDI
 author:AssemblyTV|description:Haastattelimme Hearthstone-finalisti Savjzia ennen finaalipelin alkua.|title:ASSEMBLY Summer 2014: Haastattelussa Hearthstone-finalisti Savjz|youtube:RSivY_a3mgw
@@ -272,8 +291,8 @@ author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän pa
 
 :section Starcraft 2
 :youtube-playlist PLJO4AtxKJiFMA-BjiwyUtR81DcgjYM8Cu
-:description <p>This section includes videos related to <a href="http://eu.battle.net/sc2/">Starcraft 2</a> during Assembly Summer 2014.</p>
 :elaine-category 2014 StarCraft 2
+:description <p>This section includes videos related to <a href="http://eu.battle.net/sc2/">Starcraft 2</a> during Assembly Summer 2014.</p>
 
 author:AssemblyTV|description:Kävimme haastattelemassa Samuli 'elfi' Sihvosta ennen StarCraft II IeSF Qualifier -turnauksen alkua.|title:ASSEMBLY Summer 2014: Haastattelussa StarCraft 2 -pelaaja elfi.|youtube:f6OVK7kpql8
 
@@ -287,3 +306,5 @@ author:AssemblyTV|title:ASSEMBLY Summer 2014: Haastateltavana CS:GO joukkue RCTI
 
 :section Dota 2
 :elaine-category 2014 DOTA2
+
+
