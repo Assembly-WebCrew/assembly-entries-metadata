@@ -72,7 +72,7 @@ author:ASDF|platform:Pure Data / Mac|pms-id:asm14/real_wild_demo/638|techniques:
 
 
 :section Oldskool demo
-:youtube-playlist PLJO4AtxKJiFPMMMto1573O3hhoLPNgJzX
+:youtube-playlist PLJO4AtxKJiFNuxntoNTa2Sspi6Menmx48
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
@@ -98,6 +98,7 @@ author:A2R / AEM|pms-id:asm14/short_film/639|techniques:Houdini, Sunvox|title:26
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFNedcyd9Iv0ezHT1H_sf6gy
 :pms-category game_development
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -120,6 +121,7 @@ author:petokeksi|guid:1775|platform:Android|pms-id:asm14/game_development/387|po
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFMkCUlw3E2aY2XAlcCVCuoA
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
@@ -139,6 +141,7 @@ author:SandEar|platform:PC|pms-id:asm14/listening_music/499|position:13|techniqu
 
 
 :section Fast music
+:youtube-playlist PLJO4AtxKJiFMNMrq1eK0L4lvzyETRn-Q2
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -160,6 +163,7 @@ author:Orbis|platform:PC|pms-id:asm14/fast_music/537|position:15|techniques:Guit
 
 
 :section Dance music
+:youtube-playlist PLJO4AtxKJiFMILNYw83wL1xBLKDmNyD-P
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
