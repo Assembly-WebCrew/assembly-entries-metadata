@@ -6,6 +6,17 @@
 :ongoing true
 :public false
 
+author:Epoch|pms-id:asm14/demo/612|title:Entropy
+author:Quadtrip|pms-id:asm14/demo/616|title:Rahkasammalten sielunvaellus
+author:Subsquare & Kevin Kerttunen|pms-id:asm14/demo/617|title:Colored Glass
+author:Farbrausch|pms-id:asm14/demo/618|title:fr-070: Trained
+author:Hedelmae|pms-id:asm14/demo/624|title:Snug
+author:Armada|pms-id:asm14/demo/625|title:frutos do mar
+author:Division|pms-id:asm14/demo/628|title:Jitter
+author:Pyrotech|pms-id:asm14/demo/629|title:Nuclei
+author:One Studio Off|pms-id:asm14/demo/633|title:Black And White Lies
+author:Wide Load|pms-id:asm14/demo/634|title:Prosesseja
+author:Paraguay|pms-id:asm14/demo/635|title:Last Day of Escapism
 
 
 :section 4k intro
@@ -14,6 +25,16 @@
 :ongoing true
 :public false
 
+author:mystran|pms-id:asm14/4k/506|title:my first intro
+author:Faemiyah|pms-id:asm14/4k/608|title:Whisky in a Tube
+author:Digimind & Keen|pms-id:asm14/4k/610|title:Planet Honey
+author:Digimind & Silent|pms-id:asm14/4k/611|title:Beats in motion
+author:lucid|pms-id:asm14/4k/619|title:Stupid Air Rally
+author:oo|pms-id:asm14/4k/620|title:Inside Ink Drops
+author:adapt|pms-id:asm14/4k/621|title:Commander Perlin
+author:Jontte, JDruid, cyndis|pms-id:asm14/4k/627|title:Neopterygii
+author:Unknown Artists|pms-id:asm14/4k/631|title:Splash
+author:qma|pms-id:asm14/4k/637|title:Epätoivoinen teko sponsoritiskin nurkassa perjantai-iltana
 
 
 :section 1k intro
@@ -22,14 +43,32 @@
 :ongoing true
 :public false
 
+author:TDA|pms-id:asm14/1k/422|title:Superstructure
+author:Traction + Fit|pms-id:asm14/1k/432|title:Stellar Driftwood
+author:Marken|pms-id:asm14/1k/453|title:Kajastus
+author:rlx|pms-id:asm14/1k/454|title:glenzy
+author:Optimus|pms-id:asm14/1k/467|title:Hatching
+author:XZM|pms-id:asm14/1k/478|title:MC-Scape
+author:Peisik|pms-id:asm14/1k/486|title:crimson
+author:p01/ribbon|pms-id:asm14/1k/493|title:VANTA
+author:oo|pms-id:asm14/1k/502|title:This Is How They Breed
+author:the royal elite ninjas inc.|pms-id:asm14/1k/505|title:black and white roach
+author:Digimind|pms-id:asm14/1k/538|title:Voxelerator
+author:adapt|pms-id:asm14/1k/604|title:porthania
 
 
 :section Real wild demo
-:pms-category real_wild demo
+:pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
 :public false
 
+author:Paradise & Reality|pms-id:asm14/real_wild_demo/614|title:Aona
+author:SBA|pms-id:asm14/real_wild_demo/623|title:greetings'n f*ckings
+author:Perskarhunen Bros.|pms-id:asm14/real_wild_demo/630|title:100x7
+author:PWP|pms-id:asm14/real_wild_demo/632|title:Warning
+author:oobc|pms-id:asm14/real_wild_demo/636|title:We Are Computers
+author:ASDF|pms-id:asm14/real_wild_demo/638|title:Vika slaissi
 
 
 :section Oldskool demo
@@ -48,6 +87,14 @@ author:npli|guid:1789|pms-id:asm14/oldskool_demo/550|title:Project Manager|youtu
 :ongoing true
 :public false
 
+author:Randomheads|pms-id:asm14/short_film/418|title:Tekniikan Pakoputki
+author:Jorge Fuentes|pms-id:asm14/short_film/466|title:It's Not About the Money
+author:Team Plastastic|pms-id:asm14/short_film/609|title:Plastastic
+author:npli|pms-id:asm14/short_film/613|title:tuut
+author:Tekotuotanto|pms-id:asm14/short_film/615|title:Kitchen
+author:SBA|pms-id:asm14/short_film/622|title:Business Trip
+author:KorpisotuRiT|pms-id:asm14/short_film/626|title:Demonsceners
+author:A2R / AEM|pms-id:asm14/short_film/639|title:266 Aline
 
 
 :section Gamedev
