@@ -266,7 +266,6 @@ author:AssemblyTV seminars|description:Samuli Jääskeläinen's speak is about h
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:2014 Assembly Summer opening ceremony|guid:1687|media:/vod/2012/AssemblyTV/1375_Opening_ceremony.mp4|title:Opening ceremony|youtube:em7bjxAIpGg
-author:AssemblyTV|description:2014 Assembly Summer GameDev compo|guid:1688|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo|youtube:Q71To05HYnE
 author:AssemblyTV|description:What are the feelings after compo? Did we hear great new music?|guid:1692|title:Fast music compo studio|youtube:tLAAgFQLO9c
 author:AssemblyTV|description:Faster! Harder! Fast graphics compostudio!|guid:1694|title:Fast graphics compo studio|youtube:GL3oGdBwN3U
 author:AssemblyTV|description:Did music make you feel happy or sad? Listen what our compo studio guests think.|guid:1697|title:Listening music compo studio|youtube:5cabaXBVYmM
@@ -277,6 +276,7 @@ author:AssemblyTV|guid:1785|title:Intro + Instagram|youtube:2QLRcroh2P4
 author:AssemblyTV|guid:1786|title:Aamudisketti|youtube:V8QRXQiTpDY
 author:AssemblyTV|guid:1787|title:Elisa-haastattelu|youtube:5HZC-RcDBxA
 author:AssemblyTV|guid:1790|title:Trololo|youtube:pqmD9HnkZj8
+author:AssemblyTV|description:Expert opinion and helpful tips for aspiring game developers at the after-compo studio discussion|guid:1689|media:/vod/2013/AssemblyTV/1535_Gamedev_Compostudio.mp4|title:GameDev compo studio|youtube:Q71To05HYnE
 
 
 :section Hearthstone
@@ -304,6 +304,7 @@ author:AssemblyTV|description:Haastattelimme 1.8.2014 illalla SC2-pelaaja Vesa '
 
 author:AssemblyTV|description:Kävimme haastattelemassa CS:GO joukkue RCTICin kapteenia Mikko 'el_miQuel' Kontturia.|title:ASSEMBLY Summer 2014: Haastateltavana CS:GO joukkue RCTICin kapteeni el_miQuel|youtube:1PIKzognq58
 author:AssemblyTV|description:We interviewed CS:GO player apEX from team Nostalgie 1.8.2014.|title:ASSEMBLY Summer 2014: Interview with CS:GO player apEX from team Nostalgie|youtube:H99BeBksUQ8
+
 
 :section Dota 2
 :elaine-category 2014 DOTA2
