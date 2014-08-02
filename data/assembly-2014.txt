@@ -298,6 +298,8 @@ author:AssemblyTV seminars|description:Sakari Lehtonen is introing GeoKone.NET, 
 author:AssemblyTV seminars|description:Tuomas Karmakallio's talk will take in a broad view of the devices utilized in Virtual and Augmented Reality, from Head Mounted Displays, Head's Up Displays, various interface devices, exoskeletons, wall projectors, and body augmentations. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1732|media:/vod/2014/Seminars/1732_virtual_reality_growth_rings.mp4|title:Virtual Reality Growth Rings|youtube:vG1-gFrfZNU
 author:AssemblyTV seminars|description:Samuli Jääskeläinen's speak is about how to effectively use rapid game development to explore the possibilities of virtual reality. Four quick post mortems of four very different weekend long VR game projects.  Presented to you at Assembly Summer ARTtech|guid:1733|media:/vod/2014/Seminars/1733_jamming_in_the_rift.mp4|title:Jamming in the Rift|youtube:HJmS64lJHm8
 author:AssemblyTV seminars|description:For the year 2014 Petri Purho decided to make board game every month. I'll be presenting the games made so far and talking about what he have learned from them. There will be inspiration and tips about how to make your own board / card games.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1728|title:Making a board game every month
+author:AssemblyTV seminars|description:Find out everything about the four key regional hubs of IGDA Finland in as they do battle in the seminar stage!  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1734|title:Battle of IGDA Finland hubs
+author:AssemblyTV seminars|description:Pablo Fontoura will present what is behind the project Biophilia by Bjork and the app album she launched in 2011. Other than that he will comment on some other companies that are using art as a brand guide, such as Louis Vuitton’s art, fashion and architecture & Google’ s Cultural Institute, both in Paris. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1735|title:Art mindset influence on business and brand innovation|youtube:dP-aEf5e7PA
 
 
 :section AssemblyTV
@@ -322,6 +324,7 @@ author:AssemblyTV|description:Prize ceremony for Fridays competitions and game d
 author:AssemblyTV|description:Will our studio guests go wild after real wild demos? How about you?|guid:1710|media:/vod/2013/AssemblyTV/1582_Realwild_compostudio.mp4|title:Real wild demo compo studio
 author:AssemblyTV|description:Studio discussions about short film compo|guid:1745|media:/vod/2013/AssemblyTV/1580_Shortfilm_compostudio.mp4|title:Short film compo studio|youtube:hQwlcSXqFRQ
 author:AssemblyTV|guid:1838|title:Blastromen -haastattelu|youtube:WzlveK2XFWY
+author:AssemblyTV|guid:1839|title:Laniromantiikka - Summer Edition|youtube:EkGG6YeLs5E
 
 
 :section Hearthstone

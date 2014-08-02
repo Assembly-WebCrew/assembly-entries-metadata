@@ -247,7 +247,27 @@ author:FruitieX|platform:PC|pms-id:asm13/fast_music/148|position:21|techniques:r
 
 
 :section Seminars
+:youtube-playlist PLJO4AtxKJiFMPM_ebrfzorofplBk-7wGz
 
+author:AssemblyTV seminars|description:Thoughts about starting a concept art studio and how to fill a market gap in a way that everyone wins. Kraffit is on a mission to bring concept art available to game studios of all sizes, to find work for promising artist and have some fun on the side. Co|guid:1537|media:/vod/2013/Seminars/1537_Concept_art.mp4|title:ARTtech seminars: Concept Art for Everyone|youtube:7zqkye0RABc
+author:AssemblyTV seminars|description:Going through the process of monster character painting. How to start with your ideas by using thumbnail and silhouette painting process and work from there to a finalized monster character.|guid:1538|media:/vod/2013/Seminars/1538_Painting_monsters.mp4|title:ARTtech seminars: Concepting and painting monster characters in Photoshop|youtube:DgRzFFhJxg4
+author:AssemblyTV seminars|guid:1539|media:/vod/2013/Seminars/1539_Bringing_dreams_come_true.mp4|title:ARTtech seminars: Bringing dreams come true: from demoscene to founding own game dev studio|youtube:--Q-PeqpueA
+author:AssemblyTV seminars|guid:1540|media:/vod/2013/Seminars/1540_Life_is_too_short_for_building_engines.mp4|title:ARTtech seminars: Life is too short for building Engines...|youtube:0SONqFMg5Qw
+author:AssemblyTV seminars|guid:1541|media:/vod/2013/Seminars/1541_Unity_Tips_and_Tricks.mp4|title:ARTtech seminars: Unity - Tips and Tricks for beginners and more advanced users|youtube:1tlvTrzCm1k
+author:AssemblyTV seminars|guid:1542|media:/vod/2013/Seminars/1542_Unity_mobile_development.mp4|title:ARTtech seminars: Unity - Intro to Mobile Development for IOS and Android|youtube:jpPvpytWhoo
+author:AssemblyTV seminars|guid:1543|media:/vod/2013/Seminars/1543_SIGGRAPH.mp4|title:ARTtech seminars: Hot off the press: our recent results from SIGGRAPH 2013|youtube:Rh95p-i775M
+author:AssemblyTV seminars|guid:1544|media:/vod/2013/Seminars/1544_Challenges_in_Supernauts.mp4|title:ARTtech seminars: Challenges and Innovations in The Supernauts Graphics Technology|youtube:WQ8eUuao2s0
+author:AssemblyTV seminars|guid:1546|media:/vod/2013/Seminars/1546_Dissecting_shaders.mp4|title:ARTtech seminars: Dissecting Shaders|youtube:7oobpiUaChE
+author:AssemblyTV seminars|guid:1547|media:/vod/2013/Seminars/1547_Want_to_start_game_studio.mp4|title:ARTtech seminars: Want to start a game studio? Prepare to be f'd|youtube:fXXGs_ociyE
+author:AssemblyTV seminars|guid:1548|media:/vod/2013/Seminars/1548_History_of_web_browser_demos.mp4|title:ARTtech seminars: History of web browser demos|youtube:KxJ0RzR6zEM
+author:AssemblyTV seminars|guid:1549|media:/vod/2013/Seminars/1549_EFFI_Meita_valvotaan.mp4|title:ARTtech seminars: EFFI - Hei, meitä valvotaan!|youtube:IhRSEGluC8E
+author:AssemblyTV seminars|guid:1550|media:/vod/2013/Seminars/1550_Trials_evolution_post_mortem.mp4|title:ARTtech seminars: Trials Evolution technical post-mortem|youtube:JVDU5SHHZEQ
+author:AssemblyTV seminars|guid:1551|media:/vod/2013/Seminars/1551_The_sounds_of_BADLAND.mp4|title:ARTtech seminars: The sounds of Badland|youtube:r0AmU4Vi2Vw
+author:AssemblyTV seminars|guid:1552|media:/vod/2013/Seminars/1552_How_not_to_suck_at_pinball.mp4|title:ARTtech seminars: How not to suck at pinball|youtube:Bpa52AZ6JYo
+author:AssemblyTV seminars|guid:1553|media:/vod/2013/Seminars/1553_Strange_days_in_the_Rift.mp4|title:ARTtech seminars: Strange Days in the Rift|youtube:pr9AaCLbZYw
+author:AssemblyTV seminars|guid:1554|media:/vod/2013/Seminars/1554_VJ_is_the_new_DJ.mp4|title:ARTtech seminars: The VJ is the new DJ: Introducing Z Vector|youtube:4MEZWgCkQB4
+author:AssemblyTV seminars|guid:1555|media:/vod/2013/Seminars/1555_Using_emerging_hw_and_sw.mp4|title:ARTtech seminars: Using Emerging Hardware & Software for Inspiration|youtube:W-8ff2shJdE
+author:AssemblyTV seminars|guid:1556|media:/vod/2013/Seminars/1556_Robosota.mp4|title:ARTtech seminars: Robo Wars|youtube:jca74HokIh4
 
 
 :section AssemblyTV
@@ -262,12 +282,12 @@ author:AssemblyTV|guid:1626|media:/vod/2013/AssemblyTV/1626_CreaterriaInterview.
 author:AssemblyTV|guid:1640|media:/vod/2013/AssemblyTV/1640_Asus_Interview.mp4|title:Asus Interview|youtube:n2pKOBQBVnA
 author:AssemblyTV|guid:1641|media:/vod/2013/AssemblyTV/1641_Asus-ROG.mp4|title:Asus ROG Interview|youtube:yMw7evLpuNY
 author:AssemblyTV|title:Dismantling AssemblyTV 2013 timelapse|youtube:UTEfSs9f9GI
-author:AssemblyTV|guid:1536|media:/vod/2013/AssemblyTV/1536_SuperSound_of_Video_Games.mp4|title:Assembly Concerts: Super Sound of Video Games
-author:AssemblyTV|guid:1560|media:/vod/2012/AssemblyTV/1402_Fast_music_compostudio.mp4|title:Fast music compostudio
-author:AssemblyTV|guid:1562|title:Fast graphics compostudio
-author:AssemblyTV|guid:1571|media:/vod/2013/AssemblyTV/1571_Kepes_mode_concert.mp4|title:Assembly concerts: Kepes mode
-author:AssemblyTV|guid:1572|media:/vod/2013/AssemblyTV/1572_Kebu_concert.mp4|title:Assembly concerts: Kebu
-author:AssemblyTV|description:Samuli Torssonen and Jarmo Puskala from the Iron Sky team share some of their war stories in this interview. (In Finnish)|guid:1573|title:War stories from Iron Sky (Fin)
+author:AssemblyTV|guid:1536|media:/vod/2013/.concerts/1536_SuperSound_of_Video_Games.mp4|title:Assembly Concerts: Super Sound of Video Games
+author:AssemblyTV|guid:1560|media:/vod/2013/AssemblyTV/1560_Fast_music_compostudio.mp4|title:Fast music compostudio|youtube:2LoYIdSa-b8
+author:AssemblyTV|guid:1562|media:/vod/2013/AssemblyTV/1562_Fast_graphics_compostudio.mp4|title:Fast graphics compostudio|youtube:6G5gCIGn1bY
+author:AssemblyTV|guid:1571|media:/vod/2013/.concerts/1571_Kepes_mode_concert.mp4|title:Assembly concerts: Kepes mode
+author:AssemblyTV|guid:1572|media:/vod/2013/.concerts/1572_Kebu_concert.mp4|title:Assembly concerts: Kebu
+author:AssemblyTV|description:Samuli Torssonen and Jarmo Puskala from the Iron Sky team share some of their war stories in this interview. (In Finnish)|guid:1573|media:/vod/2013/AssemblyTV/1573_War_stories_from_Iron_Sky.mp4|title:War stories from Iron Sky (Fin)|youtube:oqKamFG8P00
 author:AssemblyTV|guid:1608|media:/vod/2013/AssemblyTV/1608_osu.mp4|title:Visitor Interview - OSU
 author:AssemblyTV|guid:1609|media:/vod/2013/AssemblyTV/1609_jimms.mp4|title:Jimm's sponsor interview
 author:AssemblyTV|guid:1610|media:/vod/2013/AssemblyTV/1610_OrkesterinHaastattelu.mp4|title:Orkesterin haastattelu
@@ -276,9 +296,23 @@ author:AssemblyTV|guid:1612|media:/vod/2013/AssemblyTV/1612_SeminaarivetajanHaas
 author:AssemblyTV|guid:1613|media:/vod/2013/AssemblyTV/1613_Kokkausnurkassa.mp4|title:Kokkausnurkka
 author:AssemblyTV|guid:1621|media:/vod/2013/AssemblyTV/1621_Elektroniikkakokkausta2.mp4|title:Elektroniikkakokkaus 2
 author:AssemblyTV|guid:1622|media:/vod/2013/AssemblyTV/1622_RovioInterview.mp4|title:Rovio sponsor interview
-author:AssemblyTV|guid:1654|media:/vod/2013/AssemblyTV/1654_Late_night_kaikki_mausteet_snack_with_Thoron.mp4|title:Late night snack with Thoron (kaikilla mausteilla)
-author:AssemblyTV|guid:1655|media:/vod/2013/AssemblyTV/1655_Late_night_noname_snack.mp4|title:Late night snack presents blank
-author:AssemblyTV|guid:1686|title:Steelseries Interview
+author:AssemblyTV|guid:1654|media:/vod/2013/AssemblyTV/1654_Late_night_kaikki_mausteet_snack_with_Thoron.mp4|title:Late night snack with Thoron (kaikilla mausteilla)|youtube:qdob6eJWRWg
+author:AssemblyTV|guid:1655|media:/vod/2013/AssemblyTV/1655_Late_night_noname_snack.mp4|title:Late night snack presents blank|youtube:913MJ8nYuPQ
+author:AssemblyTV|guid:1686|media:/vod/2013/AssemblyTV/1686_Steelseries.mp4|title:Steelseries Interview|youtube:QBoUfoonB9I
+author:AssemblyTV|description:In Finnish. Your eyes at the arena.|guid:1518|media:/vod/2013/AssemblyTV/1518_Assembly_Today_Thu.mp4|title:Assembly today 2013 - Thursday (Fin)|youtube:TQYP3cChV-4
+author:AssemblyTV|description:Assembly Today show for Friday|guid:1520|media:/vod/2013/AssemblyTV/1520_Assembly_Today_Fri.mp4|title:Assembly Today 2013 - Friday (Fin)|youtube:wzUj8GiE7bM
+author:AssemblyTV|guid:1521|media:/vod/2013/AssemblyTV/1521_Assembly_Today_Sat.mp4|title:Assembly Today 2013 - Saturday (Fin)|youtube:jheEmYyBlEc
+author:AssemblyTV|description:In Finnish. Your eyes at the arena.|guid:1522|media:/vod/2013/AssemblyTV/1522_Assembly_Today_Sun.mp4|title:Assembly Today 2013 - Sunday (Fin)|youtube:CZ4XN5it9ls
+author:AssemblyTV|description:Assembly opening ceremony 2013|guid:1532|media:/vod/2014/AssemblyTV/1687_Opening_Ceremony.mp4|title:Opening Ceremony|youtube:lEQ7guVx8Kw
+author:AssemblyTV|guid:1568|media:/vod/2013/AssemblyTV/1568_Dance_music_compostudio.mp4|title:Dance music compostudio|youtube:ozfeTTQY8Kk
+author:AssemblyTV|guid:1570|media:/vod/2013/AssemblyTV/1570_Oldskool_compostudio.mp4|title:Oldschool demo compostudio|youtube:xIp3vuhonXM
+author:AssemblyTV|guid:1574|media:/vod/2013/AssemblyTV/1574_Robosota_finals.mp4|title:Robot wars final|youtube:TZMACY_Qw08
+author:AssemblyTV|guid:1576|media:/vod/2013/AssemblyTV/1576_Prize_ceremony_1.mp4|title:Prize ceremony 1|youtube:ZsTAc8nVJ3Y
+author:AssemblyTV|guid:1578|media:/vod/2013/AssemblyTV/1578_1k_compostudio.mp4|title:1k intro compostudio|youtube:JVQpEWCuUUk
+author:AssemblyTV|guid:1584|media:/vod/2013/AssemblyTV/1584_4k_compostudio.mp4|title:4k intro compostudio|youtube:nE9NzqIKe08
+author:AssemblyTV|guid:1586|media:/vod/2013/AssemblyTV/1586_Demo_compostudio.mp4|title:Demo compostudio|youtube:ZudmVFjctRs
+author:AssemblyTV|guid:1588|media:/vod/2013/AssemblyTV/1588_Prize_ceremony_2.mp4|title:Prize ceremony 2|youtube:pJ7vkIrH0_Q
+author:AssemblyTV|guid:1589|media:/vod/2013/AssemblyTV/1589_Closing_ceremony.mp4|title:Closing ceremony|youtube:SWyy_nfhDLI
 
 
 :section Winter
