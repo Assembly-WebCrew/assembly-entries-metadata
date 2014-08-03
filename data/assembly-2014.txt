@@ -1,7 +1,7 @@
 :year 2014
 
 :section Demo
-:youtube-playlist PLJO4AtxKJiFOAHEA306lvUYVzpPxaFMsj
+:youtube-playlist PLJO4AtxKJiFNjuWiUo8EZjRDb4FS_pRoR
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2014 PC computer.</p>
 
@@ -19,7 +19,7 @@ author:Quadtrip|guid:1828|platform:Browser|pms-id:asm14/demo/616|position:11|tec
 
 
 :section 4k intro
-:youtube-playlist PLJO4AtxKJiFMPRDdNVEVau0HBlKY9dmUL
+:youtube-playlist PLJO4AtxKJiFOxWIVVqjUSz-gbm15mFmyn
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2014 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
@@ -36,7 +36,7 @@ author:qma|guid:1826|platform:Linux|pms-id:asm14/4k/637|position:10|techniques:G
 
 
 :section 1k intro
-:youtube-playlist PLJO4AtxKJiFPwu1UC7o9t_MgWhjteB1FC
+:youtube-playlist PLJO4AtxKJiFPunqkitAfww-H8y0nn2IR4
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2014 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
@@ -54,7 +54,7 @@ author:oo|guid:1799|platform:PC|pms-id:asm14/1k/502|position:11|techniques:C++, 
 
 
 :section Real wild demo
-:youtube-playlist PLJO4AtxKJiFMmwEoQ9a9SOa7z1MJx5at4
+:youtube-playlist PLJO4AtxKJiFOGoHD4EQX1-5xMIkIpAymP
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
@@ -76,7 +76,7 @@ author:npli|guid:1789|platform:Amiga 500|pms-id:asm14/oldskool_demo/550|position
 
 
 :section Short film
-:youtube-playlist PLJO4AtxKJiFMi9xxRS2gYGGUdysyIPks8
+:youtube-playlist PLJO4AtxKJiFMBkAYqV_ugCsnbh_dcynTY
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
