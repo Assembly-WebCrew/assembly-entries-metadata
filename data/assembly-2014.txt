@@ -4,26 +4,24 @@
 :youtube-playlist PLJO4AtxKJiFOAHEA306lvUYVzpPxaFMsj
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2014 PC computer.</p>
-:ongoing true
 
-author:Epoch|guid:1827|platform:Windows|pms-id:asm14/demo/612|techniques:We are not sorry|title:Entropy|youtube:9uMKKmsPLRs
-author:Quadtrip|guid:1828|platform:Browser|pms-id:asm14/demo/616|techniques:WebGL shaders and JS software synth|title:Rahkasammalten sielunvaellus|youtube:L7AysSLaJvE
-author:Subsquare & Kevin Kerttunen|guid:1829|platform:Windows|pms-id:asm14/demo/617|techniques:Unity3d, C#, DX11|title:Colored Glass|youtube:QuEYN-VYHlw
-author:Farbrausch|guid:1830|platform:Windows|pms-id:asm14/demo/618|techniques:Werkzeug4|title:fr-070: Trained|youtube:ztopTs-G6fE
-author:Hedelmae|guid:1831|platform:PC|pms-id:asm14/demo/624|techniques:OpenGL|title:Snug|youtube:hM6Dr-iIryE
-author:Armada|guid:1832|platform:Windows PC|pms-id:asm14/demo/625|techniques:Unity, Leap Motion, Oculus Rift, Photosynth, Memento|title:frutos do mar|youtube:XaYfspoSQ0k
-author:Division|guid:1833|platform:Windows|pms-id:asm14/demo/628|techniques:DX9|title:Jitter|youtube:BCg37ny__1Y
-author:Pyrotech|guid:1834|platform:PC|pms-id:asm14/demo/629|techniques:DirectX 9|title:Nuclei|youtube:aYZL29p8Rgc
-author:One Studio Off|guid:1835|platform:PC|pms-id:asm14/demo/633|techniques:ATK|title:Black And White Lies|youtube:8YnH-moDloA
-author:Wide Load|guid:1836|platform:Webgl|pms-id:asm14/demo/634|techniques:Three.js / Webgl|title:Prosesseja|youtube:R4eVuo5xvzQ
-author:Paraguay|guid:1837|platform:WebGL|pms-id:asm14/demo/635|techniques:Three.js, L-systems, Google|title:Last Day of Escapism|youtube:fydLbvyIGis
+author:Epoch|guid:1827|platform:Windows|pms-id:asm14/demo/612|techniques:We are not sorry|title:Entropy|youtube:jRr2NO3SsW0
+author:Quadtrip|guid:1828|platform:Browser|pms-id:asm14/demo/616|techniques:WebGL shaders and JS software synth|title:Rahkasammalten sielunvaellus|youtube:GjnKwhw1GPU
+author:Subsquare & Kevin Kerttunen|guid:1829|platform:Windows|pms-id:asm14/demo/617|techniques:Unity3d, C#, DX11|title:Colored Glass|youtube:xzWzfRRMEJg
+author:Farbrausch|guid:1830|platform:Windows|pms-id:asm14/demo/618|techniques:Werkzeug4|title:fr-070: Trained|youtube:jUwoKXspk5A
+author:Hedelmae|guid:1831|platform:PC|pms-id:asm14/demo/624|techniques:OpenGL|title:Snug|youtube:bigY3oJZmvY
+author:Armada|guid:1832|platform:Windows PC|pms-id:asm14/demo/625|techniques:Unity, Leap Motion, Oculus Rift, Photosynth, Memento|title:frutos do mar|youtube:vtFrhOz4TiU
+author:Division|guid:1833|platform:Windows|pms-id:asm14/demo/628|techniques:DX9|title:Jitter|youtube:8Ysd3PuagBs
+author:Pyrotech|guid:1834|platform:PC|pms-id:asm14/demo/629|techniques:DirectX 9|title:Nuclei|youtube:or9p-8enhK4
+author:One Studio Off|guid:1835|platform:PC|pms-id:asm14/demo/633|techniques:ATK|title:Black And White Lies|youtube:THRJAq-9rSk
+author:Wide Load|guid:1836|platform:Webgl|pms-id:asm14/demo/634|techniques:Three.js / Webgl|title:Prosesseja|youtube:RpOp2BpuG2M
+author:Paraguay|guid:1837|platform:WebGL|pms-id:asm14/demo/635|techniques:Three.js, L-systems, Google|title:Last Day of Escapism|youtube:38bV2etO89g
 
 
 :section 4k intro
 :youtube-playlist PLJO4AtxKJiFMPRDdNVEVau0HBlKY9dmUL
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2014 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
 
 author:mystran|guid:1817|platform:Win32/D3D9|pms-id:asm14/4k/506|techniques:crinkler and c++ template metaprogramming|title:my first intro|youtube:rCkCItuD-e8
 author:Faemiyah|guid:1818|platform:FreeBSD-ia32|pms-id:asm14/4k/608|techniques:C++, OpenGL 2, SDL, dnload.py|title:Whisky in a Tube|youtube:BHgf8ygW1Vk
@@ -41,7 +39,6 @@ author:qma|guid:1826|platform:Linux|pms-id:asm14/4k/637|techniques:GLSL, SDL|tit
 :youtube-playlist PLJO4AtxKJiFPwu1UC7o9t_MgWhjteB1FC
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2014 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 
 author:TDA|guid:1791|platform:MacOS X|pms-id:asm14/1k/422|techniques:Cocoa + GLSL|title:Superstructure|youtube:oQ29yntYzR4
 author:Traction + Fit|guid:1792|platform:PC|pms-id:asm14/1k/432|techniques:glsl, x86 asm|title:Stellar Driftwood|youtube:7khc24t6ims
@@ -60,7 +57,6 @@ author:adapt|guid:1802|platform:windous|pms-id:asm14/1k/604|techniques:speed and
 :youtube-playlist PLJO4AtxKJiFMmwEoQ9a9SOa7z1MJx5at4
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
 
 author:Paradise & Reality|guid:1811|platform:Sega Dreamcast|pms-id:asm14/real_wild_demo/614|techniques:Too slow 2d stuff|title:Aona|youtube:rCIeBMkvKc8
 author:SBA|guid:1812|platform:Commodore PET model 200 (aka. cbm 8032-sk)|pms-id:asm14/real_wild_demo/623|techniques:Commodore Basic 4.0|title:greetings'n f*ckings|youtube:oltmIOb0tzE
@@ -74,7 +70,6 @@ author:ASDF|guid:1816|platform:Pure Data / Mac|pms-id:asm14/real_wild_demo/638|t
 :youtube-playlist PLJO4AtxKJiFNuxntoNTa2Sspi6Menmx48
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 
 author:Dekadence|guid:1788|platform:Amiga 500|pms-id:asm14/oldskool_demo/457|position:1|techniques:Hard skills|title:Sliced & Diced|youtube:iXo9TYY1XOQ
 author:npli|guid:1789|platform:Amiga 500|pms-id:asm14/oldskool_demo/550|position:2|techniques:Vodka|title:Project Manager|youtube:54R0ZIPSoB4
@@ -84,7 +79,6 @@ author:npli|guid:1789|platform:Amiga 500|pms-id:asm14/oldskool_demo/550|position
 :youtube-playlist PLJO4AtxKJiFMi9xxRS2gYGGUdysyIPks8
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
 
 author:Randomheads|guid:1803|platform:PC master race|pms-id:asm14/short_film/418|techniques:Premiere, After Effects, 3ds Max & Reason|title:Tekniikan Pakoputki|youtube:ypDzir5NWKA
 author:Jorge Fuentes|guid:1804|pms-id:asm14/short_film/466|title:It's Not About the Money|youtube:6jQh5EFBxPA
@@ -297,9 +291,16 @@ author:AssemblyTV seminars|description:Olli Sinerma from Mindfield Games present
 author:AssemblyTV seminars|description:Sakari Lehtonen is introing GeoKone.NET, a Recursive Geometry Generator software. Talking about natural geometry and how creating it can affect our consciousness. Demoing tech-demo version of our upcoming software built specifically for the Oculus Rift. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1731|media:/vod/2014/Seminars/1731_dive_into_recursive_geometry.mp4|title:Dive into recursive geometry!|youtube:2A_Z_Xm4010
 author:AssemblyTV seminars|description:Tuomas Karmakallio's talk will take in a broad view of the devices utilized in Virtual and Augmented Reality, from Head Mounted Displays, Head's Up Displays, various interface devices, exoskeletons, wall projectors, and body augmentations. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1732|media:/vod/2014/Seminars/1732_virtual_reality_growth_rings.mp4|title:Virtual Reality Growth Rings|youtube:vG1-gFrfZNU
 author:AssemblyTV seminars|description:Samuli Jääskeläinen's speak is about how to effectively use rapid game development to explore the possibilities of virtual reality. Four quick post mortems of four very different weekend long VR game projects.  Presented to you at Assembly Summer ARTtech|guid:1733|media:/vod/2014/Seminars/1733_jamming_in_the_rift.mp4|title:Jamming in the Rift|youtube:HJmS64lJHm8
-author:AssemblyTV seminars|description:For the year 2014 Petri Purho decided to make board game every month. I'll be presenting the games made so far and talking about what he have learned from them. There will be inspiration and tips about how to make your own board / card games.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1728|title:Making a board game every month|youtube:dfzu-GKwmk4
-author:AssemblyTV seminars|description:Find out everything about the four key regional hubs of IGDA Finland in as they do battle in the seminar stage!  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1734|title:Battle of IGDA Finland hubs|youtube:fGvsgmMOTf0
-author:AssemblyTV seminars|description:Pablo Fontoura will present what is behind the project Biophilia by Bjork and the app album she launched in 2011. Other than that he will comment on some other companies that are using art as a brand guide, such as Louis Vuitton’s art, fashion and architecture & Google’ s Cultural Institute, both in Paris. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1735|title:Art mindset influence on business and brand innovation|youtube:dP-aEf5e7PA
+author:AssemblyTV seminars|description:For the year 2014 Petri Purho decided to make board game every month. I'll be presenting the games made so far and talking about what he have learned from them. There will be inspiration and tips about how to make your own board / card games.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1728|media:/vod/2014/Seminars/1728_board_game.mp4|title:Making a board game every month|youtube:dfzu-GKwmk4
+author:AssemblyTV seminars|description:Find out everything about the four key regional hubs of IGDA Finland in as they do battle in the seminar stage!  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1734|media:/vod/2014/Seminars/1734_igda_finland.mp4|title:Battle of IGDA Finland hubs|youtube:fGvsgmMOTf0
+author:AssemblyTV seminars|description:Pablo Fontoura will present what is behind the project Biophilia by Bjork and the app album she launched in 2011. Other than that he will comment on some other companies that are using art as a brand guide, such as Louis Vuitton’s art, fashion and architecture & Google’ s Cultural Institute, both in Paris. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1735|media:/vod/2014/Seminars/1735_art_mindset_influence.mp4|title:Art mindset influence on business and brand innovation|youtube:dP-aEf5e7PA
+author:AssemblyTV seminars|description:Harri Manninen from Shark Punch is talking about how Shark Punch's The Masterplan got Greenlit on Steam after only 9 days. I will talk about the game and our Greenlight campaign, as well as what factors we think played a role in getting greenlit.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1726|media:/vod/2014/Seminars/1726_shark_punch.mp4|title:Shark Punch's Masterplan: How we blazed through Steam Greenlight in 9 days|youtube:1O8m7Imq-fU
+author:AssemblyTV seminars|description:Paavo Happonen's presentation is about the definition and perceived status of VR. Personal frustrations and research in VR interaction and empathy.  Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1729|media:/vod/2014/Seminars/1729_false_realities.mp4|title:False Realities: Lost somewhere between a gimmick and The Matrix|youtube:2u3q4pda4VE
+author:AssemblyTV seminars|description:In this talk Perttu Hämäläinen allows us to take a look at how this may be changing thanks to new motion synthesis and control methods developed by animation and robotics researchers. The talk will also include demos of the procedural animation technology developed at Aalto university, to be published later in August at SIGGRAPH 2014. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1736|media:/vod/2014/Seminars/1736_beyond_ragdolls.mp4|title:Beyond Ragdolls and Clumsy Ninjas - State of the Art and Near Future of Physically Based Character Motion
+author:AssemblyTV seminars|description:If a poem was generated based on you brain waves, what would it say? How would you feel, if you were being remote controlled using electrodes placed on your head, or if you could see the physical world reacting to your brain? Brains on Art will present a series of case studies in merging the worlds of science and art. We will go through the techniques used, results and reactions observed, and challenges faced during the last year. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1737|media:/vod/2014/Seminars/1737_brainpoetry.mp4|title:Brainpoetry|youtube:jpUScCdLSlM
+author:AssemblyTV seminars|description:Reidar Wasenius from BRIIM will talk about how human brains are increasingly directly being connected to computers.Exactly what is happening today and what might happen tomorrow? How do we need to prepare ourselves as human beings for what is coming? Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1738|media:/vod/2014/Seminars/1738_brains_and_machines_.mp4|title:Brains and machines|youtube:1mfmewGxPLA
+author:AssemblyTV seminars|description:Robosota ry's chairman Eemu Bertling gives presentations about Finnish robot combat. When and how all started and what is the situation of robot combat now (in Finland). Combat rules and practice. How to build first robot and how to participate. This presentation is aimed for Finn audience and is spoken in Finnish. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1739|media:/vod/2014/Seminars/1739_robosota.mp4|title:Robosota|youtube:xi18Ooiu1tg
+author:AssemblyTV seminars|description:Jouni Mannonen's session will detail the creative process of games at Mountain Sheep, where ideas for games originate, and how old ideas combine to form new games. Presented to you at Assembly Summer ARTtech seminars 2014 in cooperation with IGDA Finland.|guid:1762|media:/vod/2014/Seminars/1762_mountain_sheep.mp4|title:On the shoulders of giants: elements of design at Mountain Sheep|youtube:6LQdUG8UWxE
 
 
 :section AssemblyTV
@@ -319,12 +320,15 @@ author:AssemblyTV|guid:1786|media:/vod/2014/AssemblyTV/1786_aamudisketti.mp4|tit
 author:AssemblyTV|guid:1787|media:/vod/2014/AssemblyTV/1787_elisa-haastattelu.mp4|title:Elisa-haastattelu|youtube:5HZC-RcDBxA
 author:AssemblyTV|guid:1790|title:Trololo|youtube:pqmD9HnkZj8
 author:AssemblyTV|description:Expert opinion and helpful tips for aspiring game developers at the after-compo studio discussion|guid:1689|media:/vod/2014/AssemblyTV/1689_GameDev_Compostudio.mp4|title:GameDev compo studio|youtube:Q71To05HYnE
-author:AssemblyTV|description:OJJ is still a newcomer in the chiptune circles, but his music has stirred a lot of positive attention in different music scenes and media! Using Nintendo Gameboy consoles he creates energetic an psychedelic bass music that guarantees the mood from the fi|guid:1703|media:/vod/2014/AssemblyTV/.x/1703_OJJ_Konsertti.mp4|title:Concert - OJJ |youtube:pb7VPDNgR0o
+author:AssemblyTV|description:OJJ is still a newcomer in the chiptune circles, but his music has stirred a lot of positive attention in different music scenes and media! Using Nintendo Gameboy consoles he creates energetic an psychedelic bass music that guarantees the mood from the fi|guid:1703|media:/vod/2014/AssemblyTV/1703_OJJ_Konsertti.mp4|title:Concert - OJJ |youtube:pb7VPDNgR0o
 author:AssemblyTV|description:Prize ceremony for Fridays competitions and game development compo|guid:1704|media:/vod/2014/AssemblyTV/1704_Price_Ceremony_1.mp4|title:Prize ceremony 1|youtube:gPVSJc8tyuE
-author:AssemblyTV|description:Will our studio guests go wild after real wild demos? How about you?|guid:1710|media:/vod/2013/AssemblyTV/1582_Realwild_compostudio.mp4|title:Real wild demo compo studio|youtube:LtvLw1ZPe_o
-author:AssemblyTV|description:Studio discussions about short film compo|guid:1745|media:/vod/2013/AssemblyTV/1580_Shortfilm_compostudio.mp4|title:Short film compo studio|youtube:hQwlcSXqFRQ
-author:AssemblyTV|guid:1838|title:Blastromen -haastattelu|youtube:WzlveK2XFWY
+author:AssemblyTV|description:Will our studio guests go wild after real wild demos? How about you?|guid:1710|media:/vod/2014/AssemblyTV/1710_RealWild_Compostudio.mp4|title:Real wild demo compo studio|youtube:LtvLw1ZPe_o
+author:AssemblyTV|description:Studio discussions about short film compo|guid:1745|media:/vod/2014/AssemblyTV/1745_ShortFilm_Compostudio.mp4|title:Short film compo studio|youtube:hQwlcSXqFRQ
+author:AssemblyTV|guid:1838|media:/vod/2014/AssemblyTV/1838_BLASTROMEN-HAASTIS.mp4|title:Blastromen -haastattelu|youtube:WzlveK2XFWY
 author:AssemblyTV|guid:1839|title:Laniromantiikka - Summer Edition|youtube:EkGG6YeLs5E
+author:AssemblyTV|description:Discussions about 4k intro compo. Did competitors made impression to studio crew.|guid:1712|media:/vod/2014/AssemblyTV/1712_4k_Compostudio.mp4|title:4k intro compo studio|youtube:18TQTfR3tWQ
+author:AssemblyTV|description:How was this years demo compo? Did we have any new trends? Or did competitors use more oldskool technics?|guid:1714|media:/vod/2014/AssemblyTV/1714_Demo_Compostudio.mp4|title:Demo compo studio|youtube:9cbiXaxUIgo
+author:AssemblyTV|description:Blastromen is a dark and futuristic electronic music producing duo from Finland by Mika Rosenberg and Sami Koskivaara. They mix oldschool and modern electronic sounds together saluting the past and greeting the future. Blastromen's musical themes drif|guid:1715|media:/vod/2014/AssemblyTV/1715_Blastromen_Consert.mp4|title:Concert - Blastromen |youtube:y1U7cKKq5IY
 
 
 :section Hearthstone
