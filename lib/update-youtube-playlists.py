@@ -32,6 +32,31 @@ def create_playlist(yt_service, entry_data, section):
     return None
 
 
+def fetch_youtube_playlist_entries(yt_service, playlist_id):
+    youtube_entries = []
+    create_playlist = True
+    playlist_request = {'playlist_id': playlist_id}
+
+    while create_playlist:
+        create_playlist = False
+        playlist_video_feed = yt_service.GetYouTubePlaylistVideoFeed(
+            **playlist_request)
+
+        for playlist_video_entry in playlist_video_feed.entry:
+            player_url = playlist_video_entry.media.player.url
+            query = urlparse.urlparse(player_url).query
+            query_params = urlparse.parse_qs(query)
+            video_id, = query_params['v']
+            youtube_entries.append(video_id)
+
+        next_link = playlist_video_feed.GetNextLink()
+        if next_link:
+            print "Getting next page of multi-page playlist"
+            playlist_request = {'uri': next_link.href}
+            create_playlist = True
+    return playlist_video_feed, youtube_entries
+
+
 def update_youtube_playlists(yt_service, entry_data):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
@@ -45,34 +70,24 @@ def update_youtube_playlists(yt_service, entry_data):
                 yt_service, entry_data, section)
             time.sleep(5)
 
-        playlist_video_feed = yt_service.GetYouTubePlaylistVideoFeed(
-            playlist_id=section['youtube-playlist'])
-
         section_entries = map(
             str,
-            filter(lambda x : x is not None,
-                   (entry.get('youtube', None) for entry in section['entries'])))
-
-        youtube_entries = []
-        for playlist_video_entry in playlist_video_feed.entry:
-            player_url = playlist_video_entry.media.player.url
-            query = urlparse.urlparse(player_url).query
-            query_params = urlparse.parse_qs(query)
-            video_id, = query_params['v']
-            youtube_entries.append(video_id)
-
-        if len(youtube_entries) >= 25:
-            print "MAX gdata API default entries (25) exceeded on playlist!"
-            continue
-
+            filter(lambda x: x is not None,
+                   (entry.get('youtube', None)
+                    for entry in section['entries'])))
         section_entries_set = set(section_entries)
+
+        playlist_video_feed, youtube_entries = fetch_youtube_playlist_entries(
+            yt_service, section['youtube-playlist'])
         youtube_entries_set = set(youtube_entries)
 
         missing_playlist_items = section_entries_set - youtube_entries_set
 
         missing_entries = []
 
-        sorted_entries = sorted(section['entries'], lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+        sorted_entries = sorted(
+            section['entries'],
+            lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
         for entry in sorted_entries:
             if str(entry.get('youtube', '')) in missing_playlist_items:
                 missing_entries.append(entry)
@@ -84,10 +99,10 @@ def update_youtube_playlists(yt_service, entry_data):
             playlist_video_entry = yt_service.AddPlaylistVideoEntryToPlaylist(
                 playlist_uri, video_id=youtube_id
                 )
-            if not isinstance(playlist_video_entry, gdata.youtube.YouTubePlaylistVideoEntry):
+            if not isinstance(playlist_video_entry,
+                              gdata.youtube.YouTubePlaylistVideoEntry):
                 print "Failed to add."
             time.sleep(1)
-        time.sleep(2)
 
 
 def main(args=sys.argv):
