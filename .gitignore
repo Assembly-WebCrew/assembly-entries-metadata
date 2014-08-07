@@ -1,3 +1,11 @@
+bin/
+.installed.cfg
+parts/
+develop-eggs/
+eggs/
+downloads/
+assembly_entries_metadata.egg-info/
+
 build/
 variables.inc
 
