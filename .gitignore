@@ -7,6 +7,6 @@ downloads/
 assembly_entries_metadata.egg-info/
 
 build/
-variables.inc
+variables.inc.sh
 
 *.pyc

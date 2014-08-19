@@ -1,6 +1,6 @@
 #!/bin/sh
 
-source "$(dirname "$0")"/variables.inc
+source "$(dirname "$0")"/variables.inc.sh
 
 COMPO_CATEGORY="$1"
 shift

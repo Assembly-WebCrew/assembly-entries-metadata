@@ -3,7 +3,7 @@
 set -e
 set -u
 
-source "$(dirname "$0")"/variables.inc
+source "$(dirname "$0")"/variables.inc.sh
 
 MERGE_TEMPFILE="$DATAFILE"-merged.txt
 

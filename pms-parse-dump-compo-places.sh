@@ -3,7 +3,7 @@
 set -u
 set -e
 
-source "$(dirname "$0")"/variables.inc
+source "$(dirname "$0")"/variables.inc.sh
 
 PMS_COMPO_DUMP="$1"
 

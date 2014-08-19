@@ -3,7 +3,7 @@
 set -e
 set -u
 
-. ./variables.inc
+. ./variables.inc.sh
 
 DATAFILE="${1:-$DATAFILE}"
 DATAFILE_TMP="$(basename "$DATAFILE" .txt)-$(date +%Y%m%d%H%M%S).txt"
