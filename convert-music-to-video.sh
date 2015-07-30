@@ -1,7 +1,6 @@
 #!/bin/bash
 
-set -e
-set -u
+set -eu
 
 source "$(dirname "$0")"/variables.inc.sh
 

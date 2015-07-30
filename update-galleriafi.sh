@@ -1,11 +1,13 @@
-#!/bin/sh
+#!/bin/bash
+
+set -eu
+
+source "$(dirname "$0")"/variables.sh
 
 if test -z "$1" || test -z "$2"; then
     echo "Usage: $0 photo-category gallery-base-url"
     exit 1
 fi
-
-. ./variables.sh
 
 # photos-winter or photos-summer
 PHOTO_CATEGORY="$1"

@@ -1,6 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
-. "$(dirname "$0")"/variables.inc.sh
+set -eu
+
+source "$(dirname "$0")"/variables.inc.sh
 
 IMPORT_FILE="$1"
 if test -z "$IMPORT_FILE"; then
