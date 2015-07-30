@@ -32,9 +32,9 @@
 
 
 
-:section Oldskool demo
-:pms-category oldskool_demo
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:section Amiga demo
+:pms-category amiga
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In this demo competitions demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
 :ongoing true
 :public false
 
@@ -112,6 +112,12 @@
 :section AssemblyTV
 :elaine-category 2015 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:public false
+
+
+
+:section eSports
+:elaine-category 2015 Games
 :public false
 
 
