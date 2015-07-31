@@ -118,8 +118,20 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
 :ongoing true
-:public false
 
+
+author:(author hidden until results)|pms-id:asm15/fast_graphics/851|title:hidden|image-file:fast-graphics/hidden.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/865|title:Right at my seat|image-file:fast-graphics/right-at-my-seat.png
+author:(author hidden until results)|pms-id:asm15/fast_graphics/867|title:Bending the birdy rules|image-file:fast-graphics/birdy-rules-nosig.png
+author:(author hidden until results)|pms-id:asm15/fast_graphics/870|title:I have very good idea of what I'm doing|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png
+author:(author hidden until results)|pms-id:asm15/fast_graphics/884|title:The party is upstairs...but which way is up?|image-file:fast-graphics/the-partys-upstars-nosig.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/885|title:My Totally Legit C64|image-file:fast-graphics/my-totally-legit-c64.png
+author:(author hidden until results)|pms-id:asm15/fast_graphics/888|title:No man-sized speakers|image-file:no-man-sized-speakers.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/890|title:Cream whipper|image-file:fast-graphics/cream-whipper.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/895|title:It's art|image-file:fast-graphics/art-nosig.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/896|title:How Not to Train Your Dragon|image-file:fast-graphics/how-not-to-train-your-dragon.png
+author:(author hidden until results)|pms-id:asm15/fast_graphics/899|title:King size|image-file:fast-graphics/king-size-nosig.jpg
+author:(author hidden until results)|pms-id:asm15/fast_graphics/901|title:Technology Brings Uninterrupted Guage Experience|image-file:fast-graphics/guaget-nosig.png
 
 
 :section Seminars
