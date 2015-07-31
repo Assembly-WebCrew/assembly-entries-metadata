@@ -124,6 +124,17 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm15/dance_music/718|title:Eleven Suns
+author:(author hidden until results)|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes
+author:(author hidden until results)|pms-id:asm15/dance_music/729|title:Adrenaline Junkie
+author:(author hidden until results)|pms-id:asm15/dance_music/745|title:Macho Banana
+author:(author hidden until results)|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)
+author:(author hidden until results)|pms-id:asm15/dance_music/761|title:Let my NES Move You
+author:(author hidden until results)|pms-id:asm15/dance_music/775|title:twisted world
+author:(author hidden until results)|pms-id:asm15/dance_music/777|title:Runaway A.I.
+author:(author hidden until results)|pms-id:asm15/dance_music/842|title:Tom Cruiser
+author:(author hidden until results)|pms-id:asm15/dance_music/863|title:The Era of Roboman
+author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no mai
 
 
 :section Graphics
