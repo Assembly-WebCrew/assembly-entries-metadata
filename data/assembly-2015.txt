@@ -116,22 +116,21 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with "Hold your breath" theme.</p>
+:description <p>Competitors had 1.5 hours to create an image with "Bending the party rules" theme.</p>
 :ongoing true
 
-
-author:(author hidden until results)|pms-id:asm15/fast_graphics/851|title:hidden|image-file:fast-graphics/hidden.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/865|title:Right at my seat|image-file:fast-graphics/right-at-my-seat.png
-author:(author hidden until results)|pms-id:asm15/fast_graphics/867|title:Bending the birdy rules|image-file:fast-graphics/birdy-rules-nosig.png
-author:(author hidden until results)|pms-id:asm15/fast_graphics/870|title:I have very good idea of what I'm doing|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png
-author:(author hidden until results)|pms-id:asm15/fast_graphics/884|title:The party is upstairs...but which way is up?|image-file:fast-graphics/the-partys-upstars-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/885|title:My Totally Legit C64|image-file:fast-graphics/my-totally-legit-c64.png
-author:(author hidden until results)|pms-id:asm15/fast_graphics/888|title:No man-sized speakers|image-file:no-man-sized-speakers.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/890|title:Cream whipper|image-file:fast-graphics/cream-whipper.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/895|title:It's art|image-file:fast-graphics/art-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/896|title:How Not to Train Your Dragon|image-file:fast-graphics/how-not-to-train-your-dragon.png
-author:(author hidden until results)|pms-id:asm15/fast_graphics/899|title:King size|image-file:fast-graphics/king-size-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/fast_graphics/901|title:Technology Brings Uninterrupted Guage Experience|image-file:fast-graphics/guaget-nosig.png
+author:(author hidden until results)|image-file:fast-graphics/hidden.jpg|pms-id:asm15/fast_graphics/851|title:hidden
+author:(author hidden until results)|image-file:fast-graphics/right-at-my-seat.png|pms-id:asm15/fast_graphics/865|title:Right at my seat
+author:(author hidden until results)|image-file:fast-graphics/birdy-rules-nosig.png|pms-id:asm15/fast_graphics/867|title:Bending the birdy rules
+author:(author hidden until results)|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png|pms-id:asm15/fast_graphics/870|title:I have very good idea of what I'm doing
+author:(author hidden until results)|image-file:fast-graphics/the-partys-upstars-nosig.jpg|pms-id:asm15/fast_graphics/884|title:The party is upstairs...but which way is up?
+author:(author hidden until results)|image-file:fast-graphics/my-totally-legit-c64.png|pms-id:asm15/fast_graphics/885|title:My Totally Legit C64
+author:(author hidden until results)|image-file:no-man-sized-speakers.jpg|pms-id:asm15/fast_graphics/888|title:No man-sized speakers
+author:(author hidden until results)|image-file:fast-graphics/cream-whipper.jpg|pms-id:asm15/fast_graphics/890|title:Cream whipper
+author:(author hidden until results)|image-file:fast-graphics/art-nosig.jpg|pms-id:asm15/fast_graphics/895|title:It's art
+author:(author hidden until results)|image-file:fast-graphics/how-not-to-train-your-dragon.png|pms-id:asm15/fast_graphics/896|title:How Not to Train Your Dragon
+author:(author hidden until results)|image-file:fast-graphics/king-size-nosig.jpg|pms-id:asm15/fast_graphics/899|title:King size
+author:(author hidden until results)|image-file:fast-graphics/guaget-nosig.png|pms-id:asm15/fast_graphics/901|title:Technology Brings Uninterrupted Guage Experience
 
 
 :section Seminars
@@ -150,6 +149,9 @@ author:AssemblyTV|description:Welcome to ASM. Let's make an unforgettable story 
 author:AssemblyTV|guid:1916|media:/vod/2015/AssemblyTV/1916_alkufiiliksia.mp4|title:Feelings in the beginning|youtube:xIMX0RKaz80
 author:AssemblyTV|guid:1919|media:/vod/2015/AssemblyTV/1919_asm15_suunta.mp4|title:Suunta Panel Discussion|youtube:4r-LOO8A0Ao
 author:AssemblyTV|guid:1920|media:/vod/2015/AssemblyTV/1920_asm15_jyu.mp4|title:Game Education in Jyväskylä|youtube:0IP4P6HtrR4
+author:AssemblyTV|description:Discussion about the entries of the GameDev compo|guid:1855|media:/vod/2015/AssemblyTV/1855_GameDev_compostudio.mp4|title:GameDev compo compostudio|youtube:i_MIHyuHtTI
+author:AssemblyTV|description:Discussion about the entries of the Fast music compo|guid:1863|media:/vod/2015/AssemblyTV/1863_Fast_Music_compostudio.mp4|title:Fast music compo compostudio|youtube:J-t-SWmIpzA
+author:AssemblyTV|guid:1931|media:/vod/2015/AssemblyTV/1931_Asmtitu.mp4|title:Instagram competition with ROCCAT|youtube:6GOAVtG7LFc
 
 
 :section eSports
