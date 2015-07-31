@@ -77,6 +77,19 @@ author:Sandy Entertainment|pms-id:asm15/gamedev/698|title:Pogo Mad
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm15/listeningmusic/708|title:R-Syke
+author:(author hidden until results)|pms-id:asm15/listeningmusic/748|title:Pluto Flyby
+author:(author hidden until results)|pms-id:asm15/listeningmusic/751|title:All My Itch Go AAAAAAAAHHHH
+author:(author hidden until results)|pms-id:asm15/listeningmusic/753|title:Morsae Fundamentae (Lehmipojan Lauantaikebab)
+author:(author hidden until results)|pms-id:asm15/listeningmusic/759|title:Oldskool Elevator Ride
+author:(author hidden until results)|pms-id:asm15/listeningmusic/766|title:Mighty Dragons of Blœrgh'ol
+author:(author hidden until results)|pms-id:asm15/listeningmusic/787|title:Paraversum
+author:(author hidden until results)|pms-id:asm15/listeningmusic/833|title:Spirit Portal
+author:(author hidden until results)|pms-id:asm15/listeningmusic/836|title:Bannockburn Blood
+author:(author hidden until results)|pms-id:asm15/listeningmusic/837|title:Level Complete
+author:(author hidden until results)|pms-id:asm15/listeningmusic/875|title:frequences to outer space
+author:(author hidden until results)|pms-id:asm15/listeningmusic/883|title:Mr.Crabster Shockman
+author:(author hidden until results)|pms-id:asm15/listeningmusic/894|title:Machairodontinae Kill Stage
 
 
 :section Fast music
@@ -126,19 +139,19 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :pms-category photo_compo
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm15/photo_compo/703|title:megablast|image-file:photo/megablast.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/704|title:Ex Machina|image-file:photo/ex-machina.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/710|title:Calm|image-file:photo/calm.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/715|title:Neon Lights of Nature|image-file:photo/neon-lights-of-nature.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/717|title:Water Drops|image-file:photo/the-lights-of-kerava.jpeg
-author:(author hidden until results)|pms-id:asm15/photo_compo/731|title:Gower Street|image-file:photo/gower-street.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/743|title:DJ Feline|image-file:photo/djfeline.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/750|title:Is It A Bird Is It A Plane No It Is Bono The Superdog|image-file:photo/is_it_a_bird_is_it_a_plane_no_it_is_bono_the_superdog.jpeg
-author:(author hidden until results)|pms-id:asm15/photo_compo/764|title:Resistance Is Futile|image-file:photo/resistance-is-futile.png
-author:(author hidden until results)|pms-id:asm15/photo_compo/765|title:Real-time raytracing|image-file:photo/real-time-raytracing.jpeg
-author:(author hidden until results)|pms-id:asm15/photo_compo/779|title:Plumber Cafe|image-file:photo/plumber-cafe.jpg
-author:(author hidden until results)|pms-id:asm15/photo_compo/853|title:The Lights of Kerava|image-file:photo/the-lights-of-kerava.jpeg
-author:(author hidden until results)|pms-id:asm15/photo_compo/855|title:Lokki|image-file:photo/lokki.jpg
+author:(author hidden until results)|image-file:photo/megablast.png|pms-id:asm15/photo_compo/703|title:megablast
+author:(author hidden until results)|image-file:photo/ex-machina.png|pms-id:asm15/photo_compo/704|title:Ex Machina
+author:(author hidden until results)|image-file:photo/calm.png|pms-id:asm15/photo_compo/710|title:Calm
+author:(author hidden until results)|image-file:photo/neon-lights-of-nature.png|pms-id:asm15/photo_compo/715|title:Neon Lights of Nature
+author:(author hidden until results)|image-file:photo/the-lights-of-kerava.jpeg|pms-id:asm15/photo_compo/717|title:Water Drops
+author:(author hidden until results)|image-file:photo/gower-street.png|pms-id:asm15/photo_compo/731|title:Gower Street
+author:(author hidden until results)|image-file:photo/djfeline.png|pms-id:asm15/photo_compo/743|title:DJ Feline
+author:(author hidden until results)|image-file:photo/is_it_a_bird_is_it_a_plane_no_it_is_bono_the_superdog.jpeg|pms-id:asm15/photo_compo/750|title:Is It A Bird Is It A Plane No It Is Bono The Superdog
+author:(author hidden until results)|image-file:photo/resistance-is-futile.png|pms-id:asm15/photo_compo/764|title:Resistance Is Futile
+author:(author hidden until results)|image-file:photo/real-time-raytracing.jpeg|pms-id:asm15/photo_compo/765|title:Real-time raytracing
+author:(author hidden until results)|image-file:photo/plumber-cafe.jpg|pms-id:asm15/photo_compo/779|title:Plumber Cafe
+author:(author hidden until results)|image-file:photo/the-lights-of-kerava.jpeg|pms-id:asm15/photo_compo/853|title:The Lights of Kerava
+author:(author hidden until results)|image-file:photo/lokki.jpg|pms-id:asm15/photo_compo/855|title:Lokki
 
 
 :section Fast graphics
