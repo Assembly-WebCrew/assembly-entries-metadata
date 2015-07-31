@@ -195,8 +195,21 @@ author:AssemblyTV|description:Discussion about the entries of the Fast graphics 
 
 :section eSports
 :elaine-category 2015 Games
-:public false
 
+author:AssemblyTV|guid:1921|media:/vod/2015/Games/1921_teaser.mp4|title:Assembly Summer 2015 eSports coverage teaser|youtube:7CPKsLlwUWA
+author:AssemblyTV|guid:1922|media:/vod/2015/Games/1922_snute_haastis.mp4|title:ASUS ROG Summer 2015 - Pre-tournament interview with Team Liquid Snute|youtube:DzvJtN9dfAc
+author:AssemblyTV|guid:1923|media:/vod/2015/Games/1923_denver_haastis.mp4|title:Assembly Summer 2015 Hearthstone: interview with denver|youtube:A5TYocv8ems
+author:AssemblyTV|guid:1924|media:/vod/2015/Games/1924_huk_haastis.mp4|title:Assembly Summer 2015 StarCraft II: Pre tournament interview with Huk|youtube:dqiPuwoSWIM
+author:AssemblyTV|guid:1925|media:/vod/2015/Games/1925_sjow.mp4|title:Assembly Summer 2015 Hearthstone: Pre tournament interview with Sjow|youtube:p5cQTNQAFqw
+author:AssemblyTV|guid:1926|media:/vod/2015/Games/1926_mortalp_kufdon_hs.mp4|title:Assembly Summer 2015 Hearthstone: Pre tournament interview with mortalp and kufdon|youtube:3oEO5HkrtQQ
+author:AssemblyTV|guid:1927|media:/vod/2015/Games/1927_hyun.mp4|title:Assembly Summer 2015 StarCraft II: Group A winner interview with HyuN|youtube:yYU_Ilb6i9U
+author:AssemblyTV|guid:1928|media:/vod/2015/Games/1928_Eugene_Neirea_Shumilin.mp4|title:Assembly Summer 2015 Hearthstone: Pre tournament interview with Neirea|youtube:Pos50NDv6NM
+author:AssemblyTV|guid:1929|media:/vod/2015/Games/1929_bunny.mp4|title:Assembly Summer 2015 StarCraft II: Group A winner interview with Bunny|youtube:xWSaVDTHzGg
+author:AssemblyTV|guid:1930|media:/vod/2015/Games/1930_tlo.mp4|title:Assembly Summer 2015 StarCraft II: Interview with TLO|youtube:XLd-jkRTQWs
+author:AssemblyTV|guid:1932|media:/vod/2015/Games/1932_welmu.mp4|title:Assembly Summer 2015: Welmu after second group stage.|youtube:8VSZ24TR_JI
+author:AssemblyTV|guid:1933|media:/vod/2015/Games/1933_sunny.mp4|title:AMD #CSGO Summer Challenge: Interview with Roccat suNny after group stage.|youtube:AYc9XqVnb7M
+author:AssemblyTV|guid:1934|media:/vod/2015/Games/1934_peet.mp4|title:AMD #CSGO Summer Challenge: Interview with eBettle peet.|youtube:O5Jo-l6C4S4
+author:AssemblyTV|guid:1935|media:/vod/2015/Games/1935_sc_casual_voittaja_hymy.mp4|title:StarCraft II casual tournament winner Hymy interview|youtube:MwyoSADK9v8
 
 
 :section Winter
