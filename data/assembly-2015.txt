@@ -52,7 +52,6 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
-:public false
 
 author:BitByByte Creations|guid:1945|pms-id:asm15/gamedev/669|title:Project Planetshock|youtube:izBGuxh4_T0
 author:Tuiske Productions|pms-id:asm15/gamedev/671|title:Armadillo Adventure: Draw & Roll
