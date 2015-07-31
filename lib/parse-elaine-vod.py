@@ -49,6 +49,7 @@ def get_entry_by_guid(guid, section):
 current_year = event_data.year
 section_seminars = event_data.createSection("Seminars")
 section_assemblytv = event_data.createSection("AssemblyTV")
+section_games = event_data.createSection("eSports")
 
 for item in items:
     titles = get_languaged_tag(item, "title")
@@ -141,6 +142,26 @@ for item in items:
             else:
                 entry_data = entry
             title = title.replace("ARTtech seminars - ", "")
+            entry_data['title'] = title
+            entry_data['media'] = url
+            entry_data['guid'] = guid
+            entry_data['description'] = description
+            if youtube:
+                entry_data['youtube'] = youtube
+        elif re.match(r"\d\d\d\d Games", category):
+            year, _ = category.split(" ")
+            year = int(year)
+            if year != event_data.year:
+                continue
+
+            entry = get_entry_by_guid(guid, section_games)
+            if entry is None:
+                entry_data = {
+                    'author': "AssemblyTV",
+                }
+                event_data.addEntry(section_games, entry_data)
+            else:
+                entry_data = entry
             entry_data['title'] = title
             entry_data['media'] = url
             entry_data['guid'] = guid
