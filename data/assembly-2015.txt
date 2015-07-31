@@ -20,18 +20,17 @@
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2015 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public false
 
-author:laastine|pms-id:asm15/1k_intro/712|title:Fast evolution
-author:Exca/Wide Load|pms-id:asm15/1k_intro/728|title:Säteilyvaara
-author:felixbade|pms-id:asm15/1k_intro/732|title:Vanha tuttu
-author:knl, Ishy|pms-id:asm15/1k_intro/734|title:aW50cm8=
-author:TDA|pms-id:asm15/1k_intro/752|title:V for Voronoi
-author:oo|pms-id:asm15/1k_intro/783|title:Hello Assembly!
-author:Digimind|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation
-author:Traction/FIT|pms-id:asm15/1k_intro/848|title:Gravity Haze
-author:p01 / ribbon|pms-id:asm15/1k_intro/868|title:BLCK4777
-author:The Usual Suspects|pms-id:asm15/1k_intro/900|title:Varifrån 763
+author:laastine|guid:1971|pms-id:asm15/1k_intro/712|title:Fast evolution|youtube:zNvqPGbnS3c
+author:Exca/Wide Load|guid:1972|pms-id:asm15/1k_intro/728|title:Säteilyvaara|youtube:VrJ069C69fM
+author:felixbade|guid:1973|pms-id:asm15/1k_intro/732|title:Vanha tuttu|youtube:xB8M1XgiRxw
+author:knl, Ishy|guid:1974|pms-id:asm15/1k_intro/734|title:aW50cm8=|youtube:Ltq91PsAF80
+author:TDA|guid:1975|pms-id:asm15/1k_intro/752|title:V for Voronoi|youtube:jkpqifiSYsE
+author:oo|guid:1976|pms-id:asm15/1k_intro/783|title:Hello Assembly!|youtube:-ITPLJKoRjI
+author:Digimind|guid:1977|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation|youtube:bRhmORqyW-E
+author:Traction/FIT|guid:1978|pms-id:asm15/1k_intro/848|title:Gravity Haze|youtube:7o85vwuX4QA
+author:p01 / ribbon|guid:1979|pms-id:asm15/1k_intro/868|title:BLCK4777|youtube:NnZUUSdpt-k
+author:The Usual Suspects|guid:1980|pms-id:asm15/1k_intro/900|title:Varifrån 763|youtube:nRcxrUAWqrg
 
 
 :section Real wild demo
@@ -81,7 +80,7 @@ author:Team Nr. 5|guid:1949|pms-id:asm15/gamedev/675|title:The Flattening|youtub
 author:One Nerd Army|guid:1950|pms-id:asm15/gamedev/676|title:Starcore|youtube:_t69PF3SNLw
 author:Verkel, Faeriel + Team Mäyris|guid:1951|pms-id:asm15/gamedev/678|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
 author:Major Game Company|guid:1952|pms-id:asm15/gamedev/683|title:Combat Racers|youtube:dsW3MX65yEg
-author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|pms-id:asm15/gamedev/684|title:Billion Feet Above
+author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|pms-id:asm15/gamedev/684|title:Billion Feet Above|youtube:20ej8skfPQE
 author:Worldspawn, Shreddingdragon, Szabi|guid:1954|pms-id:asm15/gamedev/687|title:RoboSmash|youtube:p3NG2BAN340
 author:Team LiteLight: Hisoka, Khenirtha|guid:1955|pms-id:asm15/gamedev/690|title:Ratchinery|youtube:Renhigfxbb0
 author:BoxFort|guid:1956|pms-id:asm15/gamedev/693|title:Cavengers|youtube:ZPnwyCBsDP4
@@ -241,6 +240,7 @@ author:AssemblyTV|description:Discussion about the entries of the Fast graphics 
 author:AssemblyTV|description:Discussion about the entries of the Photo compo|guid:1871|media:/vod/2015/AssemblyTV/1871_Photo_compo_compostudio.mp4|title:Photo compo compostudio|youtube:tc5SBWBFO-4
 author:AssemblyTV|description:Discussion about the entries of the Listening music compo|guid:1873|media:/vod/2015/AssemblyTV/1873_Listening_music_compostudio.mp4|title:Listening music compo compostudio|youtube:MQXBNC1B25o
 author:AssemblyTV|description:Discussion about the entries of the Graphics compo|guid:1878|media:/vod/2015/AssemblyTV/1878_Graphics_compostudio.mp4|title:Graphics compo compostudio|youtube:qOQLm1sFI1w
+author:AssemblyTV|description:We Are Here. Check out, who make this happen.Musiikki: Ketonen – Ulinaa Ulkoavaruudesta (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:1970|title:We Are Here|youtube:JrFEKjevex0
 
 
 :section eSports
@@ -262,6 +262,8 @@ author:AssemblyTV|guid:1934|media:/vod/2015/Games/1934_peet.mp4|title:AMD #CSGO 
 author:AssemblyTV|guid:1935|media:/vod/2015/Games/1935_sc_casual_voittaja_hymy.mp4|title:StarCraft II casual tournament winner Hymy interview|youtube:MwyoSADK9v8
 author:AssemblyTV|guid:1936|media:/vod/2015/Games/1936_ASUS_ROG_Summer_2015_SC2__Welmu_vs_Gamja.mp4|title: ASUS ROG Summer 2015 SC2 - Welmu vs. Gamja|youtube:mpfVdYIuOBw
 author:AssemblyTV|guid:1937|media:/vod/2015/Games/1937_ASUS_ROG_Summer_2015_SC2__LiquidBunny_vs_Welmu.mp4|title:ASUS ROG Summer 2015 SC2 - LiquidBunny vs. Welmu|youtube:qsE4icYRcIQ
+author:AssemblyTV|guid:1938|title:ASUS ROG Summer 2015 SC2 - Welmu vs. StarNaN|youtube:RKsFW5xH9sU
+author:AssemblyTV|guid:1939|title:ASUS ROG Summer 2015 SC2 - LiquidTLO vs. True|youtube:fHcAUiyd0Dw
 
 
 :section Winter
