@@ -77,19 +77,19 @@ author:Sandy Entertainment|pms-id:asm15/gamedev/698|title:Pogo Mad
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm15/listeningmusic/708|title:R-Syke|video-file:listening-music/r-syke.flac.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/748|title:Pluto Flyby|video-file:listening-music/pluto_flyby.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/751|title:All My Itch Go AAAAAAAAHHHH|video-file:listening-music/Serpent Buzzer and DJ Joge - All My Itch Go AAAAAAAAHHHH.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/753|title:Morsae Fundamentae (Lehmipojan Lauantaikebab)|video-file:listening-music/morsae_fundamentae_(lehmipojan_lauantaikebab).flac.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/759|title:Oldskool Elevator Ride|video-file:listening-music/oldskool_elevator_ride.wav.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/766|title:Mighty Dragons of Blœrgh'ol|video-file:listening-music/mighty_dragons_of_blœrgh_ol.wav.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/787|title:Paraversum|video-file:listening-music/paraversum.aif.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/833|title:Spirit Portal|video-file:listening-music/spirit_portal.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/836|title:Bannockburn Blood|video-file:listening-music/bannockburn_blood.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/837|title:Level Complete|video-file:listening-music/level_complete.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/875|title:frequences to outer space|video-file:listening-music/frequences_to_outer_space.wav.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/883|title:Mr.Crabster Shockman|video-file:listening-music/mr.crabster_shockman.wav.mp4
-author:(author hidden until results)|pms-id:asm15/listeningmusic/894|title:Machairodontinae Kill Stage|video-file:listening-music/machairodontinae_kill_stage.wav.mp4
+author:(author hidden until results)|pms-id:asm15/listeningmusic/708|title:R-Syke|video-file:listening-music/r-syke.flac.mp4|youtube:ZzNlwOLhGGA
+author:(author hidden until results)|pms-id:asm15/listeningmusic/748|title:Pluto Flyby|video-file:listening-music/pluto_flyby.mp3.mp4|youtube:lplQCBt34b4
+author:(author hidden until results)|pms-id:asm15/listeningmusic/751|title:All My Itch Go AAAAAAAAHHHH|video-file:listening-music/Serpent Buzzer and DJ Joge - All My Itch Go AAAAAAAAHHHH.mp3.mp4|youtube:zO4gGSShgjA
+author:(author hidden until results)|pms-id:asm15/listeningmusic/753|title:Morsae Fundamentae (Lehmipojan Lauantaikebab)|video-file:listening-music/morsae_fundamentae_(lehmipojan_lauantaikebab).flac.mp4|youtube:kB-HCh1B1GQ
+author:(author hidden until results)|pms-id:asm15/listeningmusic/759|title:Oldskool Elevator Ride|video-file:listening-music/oldskool_elevator_ride.wav.mp4|youtube:rlpHG2j7Igk
+author:(author hidden until results)|pms-id:asm15/listeningmusic/766|title:Mighty Dragons of Blœrgh'ol|video-file:listening-music/mighty_dragons_of_blœrgh_ol.wav.mp4|youtube:I8UVY1arnog
+author:(author hidden until results)|pms-id:asm15/listeningmusic/787|title:Paraversum|video-file:listening-music/paraversum.aif.mp4|youtube:-PtM9XEyb1Y
+author:(author hidden until results)|pms-id:asm15/listeningmusic/833|title:Spirit Portal|video-file:listening-music/spirit_portal.mp3.mp4|youtube:YcRAZf8bEg4
+author:(author hidden until results)|pms-id:asm15/listeningmusic/836|title:Bannockburn Blood|video-file:listening-music/bannockburn_blood.mp3.mp4|youtube:8dihbBwIq6A
+author:(author hidden until results)|pms-id:asm15/listeningmusic/837|title:Level Complete|video-file:listening-music/level_complete.mp3.mp4|youtube:kp3ah0wS7Oo
+author:(author hidden until results)|pms-id:asm15/listeningmusic/875|title:frequences to outer space|video-file:listening-music/frequences_to_outer_space.wav.mp4|youtube:ClVg_psqpWg
+author:(author hidden until results)|pms-id:asm15/listeningmusic/883|title:Mr.Crabster Shockman|video-file:listening-music/mr.crabster_shockman.wav.mp4|youtube:ZXX76HwxYoY
+author:(author hidden until results)|pms-id:asm15/listeningmusic/894|title:Machairodontinae Kill Stage|video-file:listening-music/machairodontinae_kill_stage.wav.mp4|youtube:mrn7rT-XZGs
 
 
 :section Fast music
