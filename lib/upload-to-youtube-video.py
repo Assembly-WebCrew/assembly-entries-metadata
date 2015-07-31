@@ -31,9 +31,10 @@ unlisted_video = commandline_args.unlisted
 
 
 def call_and_capture_output_real(args):
-    p = subprocess.Popen(args, stdout=subprocess.PIPE)
+    p = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, errors = p.communicate()
     outlines = output.strip().split("\n")
+    outlines.extend(errors.strip().split("\n"))
     return outlines
 
 
@@ -160,15 +161,14 @@ for line in sys.stdin:
 
     args = [
         'youtube-upload',
-        '--email', email,
-        '--password', password,
         '--category', category,
-        '--keywords', tags,
+        '--tags', tags,
         '--title', youtube_title,
         '--description', description,
+        '--credentials-file', 'client_secrets.json',
         video_file]
     if unlisted_video:
-        args.append("--unlisted")
+        args.append("--privacy=unlisted")
     upload_success = False
     youtube_id = ''
     upload_trials = 1
@@ -184,7 +184,7 @@ for line in sys.stdin:
             upload_success = True
             youtube_http_id = outlines[-1]
             youtube_http_id = re.sub(
-                r"https?://www\.youtube\.com/watch\?v=", "", youtube_http_id)
+                r"^(.+?)https?://www\.youtube\.com/watch\?v=", "", youtube_http_id)
             youtube_id = "|youtube:" + youtube_http_id
             failures = 0
         else:
@@ -203,6 +203,6 @@ for line in sys.stdin:
         failures += 1
     print (line + youtube_id).encode('utf-8')
     sys.stdout.flush()
-    sys.stderr.write("done\n")
+    sys.stderr.write("%s - %s done\n" % (youtube_title, youtube_id))
     # 61 seconds delay between sends is OK, 57 is not.
     sleep_function(61)
