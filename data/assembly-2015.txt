@@ -75,7 +75,6 @@ author:Sandy Entertainment|pms-id:asm15/gamedev/698|title:Pogo Mad
 :pms-category listeningmusic
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm15/listeningmusic/708|title:R-Syke|video-file:listening-music/r-syke.flac.mp4|youtube:ZzNlwOLhGGA
 author:(author hidden until results)|pms-id:asm15/listeningmusic/748|title:Pluto Flyby|video-file:listening-music/pluto_flyby.mp3.mp4|youtube:lplQCBt34b4
