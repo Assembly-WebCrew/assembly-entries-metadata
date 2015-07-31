@@ -22,6 +22,16 @@
 :ongoing true
 :public false
 
+author:laastine|pms-id:asm15/1k_intro/712|title:Fast evolution
+author:Exca/Wide Load|pms-id:asm15/1k_intro/728|title:Säteilyvaara
+author:felixbade|pms-id:asm15/1k_intro/732|title:Vanha tuttu
+author:knl, Ishy|pms-id:asm15/1k_intro/734|title:aW50cm8=
+author:TDA|pms-id:asm15/1k_intro/752|title:V for Voronoi
+author:oo|pms-id:asm15/1k_intro/783|title:Hello Assembly!
+author:Digimind|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation
+author:Traction/FIT|pms-id:asm15/1k_intro/848|title:Gravity Haze
+author:p01 / ribbon|pms-id:asm15/1k_intro/868|title:BLCK4777
+author:The Usual Suspects|pms-id:asm15/1k_intro/900|title:Varifrån 763
 
 
 :section Real wild demo
@@ -38,6 +48,16 @@
 :ongoing true
 :public false
 
+author:Dekadence|pms-id:asm15/amiga/714|title:Carbon Based
+author:dA JoRMaS|pms-id:asm15/amiga/721|title:Käyrä Soiro
+author:Desire|pms-id:asm15/amiga/727|title:Master Control Program
+author:Zenon|pms-id:asm15/amiga/746|title:Scored
+author:exec|pms-id:asm15/amiga/768|title:10 AMAZING CAT FACTS
+author:Quadtrip|pms-id:asm15/amiga/770|title:See Forever
+author:Spaceballs|pms-id:asm15/amiga/799|title:DATASKULL
+author:npli|pms-id:asm15/amiga/807|title:30th
+author:Traktor, Nature & Fatzone|pms-id:asm15/amiga/845|title:Gerp invitation
+author:Software Failure|pms-id:asm15/amiga/887|title:Short-Circuited
 
 
 :section Short film
