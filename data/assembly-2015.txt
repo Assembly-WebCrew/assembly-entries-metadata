@@ -143,26 +143,26 @@ author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no 
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm15/graphics/707|title:wet tweet|image-file:graphics/wet-tweet-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/719|title:Panda in Bamboo Forest|image-file:graphics/panda-in-bamboo-forest-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/733|title:Critical Flaw|image-file:graphics/critical-flaw-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/737|title:Lure them here!|image-file:graphics/lure-them-here-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/739|title:Abandoned now just like the war|image-file:graphics/abandoned_now_just_like_the_war_nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/740|title:Kill All Audio and Lights|image-file:graphics/kill-all-audio-and-lights-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/757|title:High Octane Rampage|image-file:graphics/high-octane-rampage-nosig.jpeg
-author:(author hidden until results)|pms-id:asm15/graphics/760|title:Amerac Mons|image-file:graphics/amerac-mons-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/767|title:Sad Cab|image-file:graphics/sad-cab-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/785|title:Three Pistons Lodge|image-file:graphics/three-pistons-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/786|title:Spirit Springs|image-file:graphics/spirit-springs-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/793|title:Wood Song|image-file:graphics/woodsong-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/798|title:Snake in a river|image-file:graphics/snake-in-a-river-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/805|title:Afternoon tea|image-file:graphics/afternoon-tea-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/839|title:Beneath the orange sky|image-file:graphics/beneath-the-orange-sky-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/860|title:Fox Spirit|image-file:graphics/fox-spirit-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/872|title:Occupational hazards of lumberjacks: tree zombies|image-file:graphics/occupational-hazards-of-lumberjacks-nosig.png
-author:(author hidden until results)|pms-id:asm15/graphics/880|title:Forest Bacchanal|image-file:graphics/forest-bacchanal-nosig.jpg
-author:(author hidden until results)|pms-id:asm15/graphics/892|title:A chat with the Death God|image-file:graphics/a_chat_with_the_death_god.jpeg
-author:(author hidden until results)|pms-id:asm15/graphics/906|title:Twin Dragon|image-file:graphics/twin-dragon-nosig.png
+author:(author hidden until results)|image-file:graphics/wet-tweet-nosig.jpg|pms-id:asm15/graphics/707|title:wet tweet
+author:(author hidden until results)|image-file:graphics/panda-in-bamboo-forest-nosig.png|pms-id:asm15/graphics/719|title:Panda in Bamboo Forest
+author:(author hidden until results)|image-file:graphics/critical-flaw-nosig.jpg|pms-id:asm15/graphics/733|title:Critical Flaw
+author:(author hidden until results)|image-file:graphics/lure-them-here-nosig.png|pms-id:asm15/graphics/737|title:Lure them here!
+author:(author hidden until results)|image-file:graphics/abandoned_now_just_like_the_war_nosig.jpg|pms-id:asm15/graphics/739|title:Abandoned now just like the war
+author:(author hidden until results)|image-file:graphics/kill-all-audio-and-lights-nosig.png|pms-id:asm15/graphics/740|title:Kill All Audio and Lights
+author:(author hidden until results)|image-file:graphics/high-octane-rampage-nosig.jpeg|pms-id:asm15/graphics/757|title:High Octane Rampage
+author:(author hidden until results)|image-file:graphics/amerac-mons-nosig.png|pms-id:asm15/graphics/760|title:Amerac Mons
+author:(author hidden until results)|image-file:graphics/sad-cab-nosig.jpg|pms-id:asm15/graphics/767|title:Sad Cab
+author:(author hidden until results)|image-file:graphics/three-pistons-nosig.jpg|pms-id:asm15/graphics/785|title:Three Pistons Lodge
+author:(author hidden until results)|image-file:graphics/spirit-springs-nosig.png|pms-id:asm15/graphics/786|title:Spirit Springs
+author:(author hidden until results)|image-file:graphics/woodsong-nosig.jpg|pms-id:asm15/graphics/793|title:Wood Song
+author:(author hidden until results)|image-file:graphics/snake-in-a-river-nosig.png|pms-id:asm15/graphics/798|title:Snake in a river
+author:(author hidden until results)|image-file:graphics/afternoon-tea-nosig.jpg|pms-id:asm15/graphics/805|title:Afternoon tea
+author:(author hidden until results)|image-file:graphics/beneath-the-orange-sky-nosig.png|pms-id:asm15/graphics/839|title:Beneath the orange sky
+author:(author hidden until results)|image-file:graphics/fox-spirit-nosig.jpg|pms-id:asm15/graphics/860|title:Fox Spirit
+author:(author hidden until results)|image-file:graphics/occupational-hazards-of-lumberjacks-nosig.png|pms-id:asm15/graphics/872|title:Occupational hazards of lumberjacks: tree zombies
+author:(author hidden until results)|image-file:graphics/forest-bacchanal-nosig.jpg|pms-id:asm15/graphics/880|title:Forest Bacchanal
+author:(author hidden until results)|image-file:graphics/a_chat_with_the_death_god.jpeg|pms-id:asm15/graphics/892|title:A chat with the Death God
+author:(author hidden until results)|image-file:graphics/twin-dragon-nosig.png|pms-id:asm15/graphics/906|title:Twin Dragon
 
 
 :section Photo
