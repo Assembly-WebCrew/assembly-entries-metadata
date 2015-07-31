@@ -54,6 +54,21 @@
 :ongoing true
 :public false
 
+author:BitByByte Creations|pms-id:asm15/gamedev/669|title:Project Planetshock
+author:Tuiske Productions|pms-id:asm15/gamedev/671|title:Armadillo Adventure: Draw & Roll
+author:BanaaniPojat|pms-id:asm15/gamedev/673|title:Mayhem Punch
+author:Roistot|pms-id:asm15/gamedev/674|title:Casual Mercs
+author:Team Nr. 5|pms-id:asm15/gamedev/675|title:The Flattening
+author:One Nerd Army|pms-id:asm15/gamedev/676|title:Starcore
+author:Verkel, Faeriel + Team Mäyris|pms-id:asm15/gamedev/678|title:Hot Doggety! / Mäyris
+author:Major Game Company|pms-id:asm15/gamedev/683|title:Combat Racers
+author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|pms-id:asm15/gamedev/684|title:Billion Feet Above
+author:Worldspawn, Shreddingdragon, Szabi|pms-id:asm15/gamedev/687|title:RoboSmash
+author:Team LiteLight: Hisoka, Khenirtha|pms-id:asm15/gamedev/690|title:Ratchinery
+author:BoxFort|pms-id:asm15/gamedev/693|title:Cavengers
+author:Kaljameri Games|pms-id:asm15/gamedev/695|title:Running Beer
+author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|pms-id:asm15/gamedev/697|title:Office Rampage
+author:Sandy Entertainment|pms-id:asm15/gamedev/698|title:Pogo Mad
 
 
 :section Listening music
@@ -125,7 +140,7 @@ author:(author hidden until results)|image-file:fast-graphics/birdy-rules-nosig.
 author:(author hidden until results)|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png|pms-id:asm15/fast_graphics/870|title:I have very good idea of what I'm doing
 author:(author hidden until results)|image-file:fast-graphics/the-partys-upstars-nosig.jpg|pms-id:asm15/fast_graphics/884|title:The party is upstairs...but which way is up?
 author:(author hidden until results)|image-file:fast-graphics/my-totally-legit-c64.png|pms-id:asm15/fast_graphics/885|title:My Totally Legit C64
-author:(author hidden until results)|image-file:no-man-sized-speakers.jpg|pms-id:asm15/fast_graphics/888|title:No man-sized speakers
+author:(author hidden until results)|image-file:fast-graphics/no-man-sized-speakers.jpg|pms-id:asm15/fast_graphics/888|title:No man-sized speakers
 author:(author hidden until results)|image-file:fast-graphics/cream-whipper.jpg|pms-id:asm15/fast_graphics/890|title:Cream whipper
 author:(author hidden until results)|image-file:fast-graphics/art-nosig.jpg|pms-id:asm15/fast_graphics/895|title:It's art
 author:(author hidden until results)|image-file:fast-graphics/how-not-to-train-your-dragon.png|pms-id:asm15/fast_graphics/896|title:How Not to Train Your Dragon
@@ -135,7 +150,6 @@ author:(author hidden until results)|image-file:fast-graphics/guaget-nosig.png|p
 
 :section Seminars
 :elaine-category 2015 Seminars
-:public false
 
 author:AssemblyTV seminars|description:Our journey through acquisition and about building communities|guid:1846|title:ARTtech: Our journey through acquisition and about building communities|youtube:eNuTp00LnKw
 
@@ -143,7 +157,6 @@ author:AssemblyTV seminars|description:Our journey through acquisition and about
 :section AssemblyTV
 :elaine-category 2015 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
-:public false
 
 author:AssemblyTV|description:Welcome to ASM. Let's make an unforgettable story together.|guid:1913|media:/vod/2015/AssemblyTV/1913_welcome_to_assembly.mp4|title:Welcome to ASM|youtube:nyZFYNGQYqQ
 author:AssemblyTV|guid:1916|media:/vod/2015/AssemblyTV/1916_alkufiiliksia.mp4|title:Feelings in the beginning|youtube:xIMX0RKaz80
