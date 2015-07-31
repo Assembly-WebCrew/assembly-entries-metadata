@@ -69,9 +69,9 @@
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm15/fast_music/806|title:weary traveler|video-file:fast-music/weary_traveler.wav.mp4
-author:(author hidden until results)|pms-id:asm15/fast_music/808|title:lyijyompelukone - lead singer|video-file:fast-music/lyijyompelukone_leadsinger.wav.mp4
-author:(author hidden until results)|pms-id:asm15/fast_music/809|title:Am I Late?|video-file:fast-music/am_i_late_.wav.mp4
+author:(author hidden until results)|pms-id:asm15/fast_music/806|title:weary traveler|video-file:fast-music/weary_traveler.wav.mp4|youtube:O7eGhYmK1bw
+author:(author hidden until results)|pms-id:asm15/fast_music/808|title:lyijyompelukone - lead singer|video-file:fast-music/lyijyompelukone_leadsinger.wav.mp4|youtube:-w4Z0T5f-X0
+author:(author hidden until results)|pms-id:asm15/fast_music/809|title:Am I Late?|video-file:fast-music/am_i_late_.wav.mp4|youtube:mY9vsoHJfEQ
 author:(author hidden until results)|pms-id:asm15/fast_music/811|title:Magick|video-file:fast-music/magick.wav.mp4
 author:(author hidden until results)|pms-id:asm15/fast_music/813|title:Sunshine in a dark cave|video-file:fast-music/sunshine_in_a_dark_cave.wav.mp4
 author:(author hidden until results)|pms-id:asm15/fast_music/814|title:Rokkiponit Megahyper|video-file:fast-music/rokkiponit_megahyper.wav.mp4
