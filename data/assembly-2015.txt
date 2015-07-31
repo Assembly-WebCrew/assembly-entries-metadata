@@ -125,8 +125,20 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :section Photo
 :pms-category photo_compo
 :ongoing true
-:public false
 
+author:(author hidden until results)|pms-id:asm15/photo_compo/703|title:megablast|image-file:photo/megablast.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/704|title:Ex Machina|image-file:photo/ex-machina.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/710|title:Calm|image-file:photo/calm.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/715|title:Neon Lights of Nature|image-file:photo/neon-lights-of-nature.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/717|title:Water Drops|image-file:photo/the-lights-of-kerava.jpeg
+author:(author hidden until results)|pms-id:asm15/photo_compo/731|title:Gower Street|image-file:photo/gower-street.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/743|title:DJ Feline|image-file:photo/djfeline.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/750|title:Is It A Bird Is It A Plane No It Is Bono The Superdog|image-file:photo/is_it_a_bird_is_it_a_plane_no_it_is_bono_the_superdog.jpeg
+author:(author hidden until results)|pms-id:asm15/photo_compo/764|title:Resistance Is Futile|image-file:photo/resistance-is-futile.png
+author:(author hidden until results)|pms-id:asm15/photo_compo/765|title:Real-time raytracing|image-file:photo/real-time-raytracing.jpeg
+author:(author hidden until results)|pms-id:asm15/photo_compo/779|title:Plumber Cafe|image-file:photo/plumber-cafe.jpg
+author:(author hidden until results)|pms-id:asm15/photo_compo/853|title:The Lights of Kerava|image-file:photo/the-lights-of-kerava.jpeg
+author:(author hidden until results)|pms-id:asm15/photo_compo/855|title:Lokki|image-file:photo/lokki.jpg
 
 
 :section Fast graphics
