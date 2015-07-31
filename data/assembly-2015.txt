@@ -124,24 +124,23 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm15/dance_music/718|title:Eleven Suns|video-file:dance-music/eleven_suns.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes|video-file:dance-music/elektron_speed_stripes.wav.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/729|title:Adrenaline Junkie|video-file:dance-music/adrenaline_junkie.wav.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/745|title:Macho Banana|video-file:dance-music/macho_banana.wav.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)|video-file:dance-music/flying_through_hyperspace_(assembly_cut).mp3.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/761|title:Let my NES Move You|video-file:dance-music/let_my_nes_move_you.wav.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/775|title:twisted world|video-file:dance-music/twisted_world.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/777|title:Runaway A.I.|video-file:dance-music/runaway_a.i..wav.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/842|title:Tom Cruiser|video-file:dance-music/tom_cruiser.aif.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/863|title:The Era of Roboman|video-file:dance-music/the_era_of_roboman.mp3.mp4
-author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no mai|video-file:dance-music/mori_no_mai.wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/718|title:Eleven Suns|video-file:dance-music/eleven_suns.mp3.mp4|youtube:zfAIdhJs6zQ
+author:(author hidden until results)|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes|video-file:dance-music/elektron_speed_stripes.wav.mp4|youtube:6QxQ9ESuZfY
+author:(author hidden until results)|pms-id:asm15/dance_music/729|title:Adrenaline Junkie|video-file:dance-music/adrenaline_junkie.wav.mp4|youtube:ljzuq-3YwyU
+author:(author hidden until results)|pms-id:asm15/dance_music/745|title:Macho Banana|video-file:dance-music/macho_banana.wav.mp4|youtube:sehWbpbnREE
+author:(author hidden until results)|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)|video-file:dance-music/flying_through_hyperspace_(assembly_cut).mp3.mp4|youtube:GWIptjUdMfY
+author:(author hidden until results)|pms-id:asm15/dance_music/761|title:Let my NES Move You|video-file:dance-music/let_my_nes_move_you.wav.mp4|youtube:HKk_XvWU2dE
+author:(author hidden until results)|pms-id:asm15/dance_music/775|title:twisted world|video-file:dance-music/twisted_world.mp3.mp4|youtube:WvA-uIrtkxM
+author:(author hidden until results)|pms-id:asm15/dance_music/777|title:Runaway A.I.|video-file:dance-music/runaway_a.i..wav.mp4|youtube:M8UEUkR6eQU
+author:(author hidden until results)|pms-id:asm15/dance_music/842|title:Tom Cruiser|video-file:dance-music/tom_cruiser.aif.mp4|youtube:520snJwVdME
+author:(author hidden until results)|pms-id:asm15/dance_music/863|title:The Era of Roboman|video-file:dance-music/the_era_of_roboman.mp3.mp4|youtube:aOfExyYmFwc
+author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no mai|video-file:dance-music/mori_no_mai.wav.mp4|youtube:NiRSp4uR7Yc
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|image-file:graphics/wet-tweet-nosig.jpg|pms-id:asm15/graphics/707|title:wet tweet
 author:(author hidden until results)|image-file:graphics/panda-in-bamboo-forest-nosig.png|pms-id:asm15/graphics/719|title:Panda in Bamboo Forest
