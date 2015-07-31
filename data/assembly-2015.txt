@@ -54,21 +54,21 @@
 :ongoing true
 :public false
 
-author:BitByByte Creations|pms-id:asm15/gamedev/669|title:Project Planetshock
+author:BitByByte Creations|guid:1945|pms-id:asm15/gamedev/669|title:Project Planetshock|youtube:izBGuxh4_T0
 author:Tuiske Productions|pms-id:asm15/gamedev/671|title:Armadillo Adventure: Draw & Roll
-author:BanaaniPojat|pms-id:asm15/gamedev/673|title:Mayhem Punch
-author:Roistot|pms-id:asm15/gamedev/674|title:Casual Mercs
-author:Team Nr. 5|pms-id:asm15/gamedev/675|title:The Flattening
-author:One Nerd Army|pms-id:asm15/gamedev/676|title:Starcore
-author:Verkel, Faeriel + Team Mäyris|pms-id:asm15/gamedev/678|title:Hot Doggety! / Mäyris
-author:Major Game Company|pms-id:asm15/gamedev/683|title:Combat Racers
-author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|pms-id:asm15/gamedev/684|title:Billion Feet Above
-author:Worldspawn, Shreddingdragon, Szabi|pms-id:asm15/gamedev/687|title:RoboSmash
+author:BanaaniPojat|guid:1947|pms-id:asm15/gamedev/673|title:Mayhem Punch|youtube:ca3XBtsM6F8
+author:Roistot|guid:1948|pms-id:asm15/gamedev/674|title:Casual Mercs|youtube:WKFD0aWY44c
+author:Team Nr. 5|guid:1949|pms-id:asm15/gamedev/675|title:The Flattening|youtube:xz-BSeHVVpg
+author:One Nerd Army|guid:1950|pms-id:asm15/gamedev/676|title:Starcore|youtube:_t69PF3SNLw
+author:Verkel, Faeriel + Team Mäyris|guid:1951|pms-id:asm15/gamedev/678|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
+author:Major Game Company|guid:1952|pms-id:asm15/gamedev/683|title:Combat Racers|youtube:dsW3MX65yEg
+author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|pms-id:asm15/gamedev/684|title:Billion Feet Above
+author:Worldspawn, Shreddingdragon, Szabi|guid:1954|pms-id:asm15/gamedev/687|title:RoboSmash|youtube:p3NG2BAN340
 author:Team LiteLight: Hisoka, Khenirtha|pms-id:asm15/gamedev/690|title:Ratchinery
 author:BoxFort|pms-id:asm15/gamedev/693|title:Cavengers
-author:Kaljameri Games|pms-id:asm15/gamedev/695|title:Running Beer
-author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|pms-id:asm15/gamedev/697|title:Office Rampage
-author:Sandy Entertainment|pms-id:asm15/gamedev/698|title:Pogo Mad
+author:Kaljameri Games|guid:1957|pms-id:asm15/gamedev/695|title:Running Beer|youtube:wSfFMsXTyto
+author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|guid:1958|pms-id:asm15/gamedev/697|title:Office Rampage|youtube:StV0WZHrKDg
+author:Sandy Entertainment|guid:1959|pms-id:asm15/gamedev/698|title:Pogo Mad|youtube:vcdzkVI2SPo
 
 
 :section Listening music
@@ -124,17 +124,17 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :ongoing true
 :public false
 
-author:(author hidden until results)|pms-id:asm15/dance_music/718|title:Eleven Suns
-author:(author hidden until results)|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes
-author:(author hidden until results)|pms-id:asm15/dance_music/729|title:Adrenaline Junkie
-author:(author hidden until results)|pms-id:asm15/dance_music/745|title:Macho Banana
-author:(author hidden until results)|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)
-author:(author hidden until results)|pms-id:asm15/dance_music/761|title:Let my NES Move You
-author:(author hidden until results)|pms-id:asm15/dance_music/775|title:twisted world
-author:(author hidden until results)|pms-id:asm15/dance_music/777|title:Runaway A.I.
-author:(author hidden until results)|pms-id:asm15/dance_music/842|title:Tom Cruiser
-author:(author hidden until results)|pms-id:asm15/dance_music/863|title:The Era of Roboman
-author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no mai
+author:(author hidden until results)|pms-id:asm15/dance_music/718|title:Eleven Suns|video-file:dance-music/eleven_suns.mp3.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes|video-file:dance-music/elektron_speed_stripes.wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/729|title:Adrenaline Junkie|video-file:dance-music/adrenaline_junkie.wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/745|title:Macho Banana|video-file:dance-music/macho_banana.wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)|video-file:dance-music/flying_through_hyperspace_(assembly_cut).mp3.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/761|title:Let my NES Move You|video-file:dance-music/let_my_nes_move_you.wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/775|title:twisted world|video-file:dance-music/twisted_world.mp3.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/777|title:Runaway A.I.|video-file:dance-music/runaway_a.i..wav.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/842|title:Tom Cruiser|video-file:dance-music/tom_cruiser.aif.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/863|title:The Era of Roboman|video-file:dance-music/the_era_of_roboman.mp3.mp4
+author:(author hidden until results)|pms-id:asm15/dance_music/869|title:Mori no mai|video-file:dance-music/mori_no_mai.wav.mp4
 
 
 :section Graphics
@@ -221,6 +221,7 @@ author:AssemblyTV|description:Discussion about the entries of the GameDev compo|
 author:AssemblyTV|description:Discussion about the entries of the Fast music compo|guid:1863|media:/vod/2015/AssemblyTV/1863_Fast_Music_compostudio.mp4|title:Fast music compo compostudio|youtube:J-t-SWmIpzA
 author:AssemblyTV|guid:1931|media:/vod/2015/AssemblyTV/1931_Asmtitu.mp4|title:Instagram competition with ROCCAT|youtube:6GOAVtG7LFc
 author:AssemblyTV|description:Discussion about the entries of the Fast graphics compo|guid:1867|media:/vod/2015/AssemblyTV/1867_Fast_graphics_compo_compostudio.mp4|title:Fast graphics compo compostudio|youtube:KLjWxMKw5H4
+author:AssemblyTV|description:Discussion about the entries of the Photo compo|guid:1871|media:/vod/2015/AssemblyTV/1871_Photo_compo_compostudio.mp4|title:Photo compo compostudio|youtube:tc5SBWBFO-4
 
 
 :section eSports
@@ -240,6 +241,7 @@ author:AssemblyTV|guid:1932|media:/vod/2015/Games/1932_welmu.mp4|title:Assembly 
 author:AssemblyTV|guid:1933|media:/vod/2015/Games/1933_sunny.mp4|title:AMD #CSGO Summer Challenge: Interview with Roccat suNny after group stage.|youtube:AYc9XqVnb7M
 author:AssemblyTV|guid:1934|media:/vod/2015/Games/1934_peet.mp4|title:AMD #CSGO Summer Challenge: Interview with eBettle peet.|youtube:O5Jo-l6C4S4
 author:AssemblyTV|guid:1935|media:/vod/2015/Games/1935_sc_casual_voittaja_hymy.mp4|title:StarCraft II casual tournament winner Hymy interview|youtube:MwyoSADK9v8
+author:AssemblyTV|guid:1936|media:/vod/2015/Games/1936_ASUS_ROG_Summer_2015_SC2__Welmu_vs_Gamja.mp4|title: ASUS ROG Summer 2015 SC2 - Welmu vs. Gamja|youtube:mpfVdYIuOBw
 
 
 :section Winter
