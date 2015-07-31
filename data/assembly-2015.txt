@@ -132,6 +132,26 @@ author:(author hidden until results)|pms-id:asm15/fast_music/832|title:Mission T
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm15/graphics/707|title:wet tweet
+author:(author hidden until results)|pms-id:asm15/graphics/719|title:Panda in Bamboo Forest
+author:(author hidden until results)|pms-id:asm15/graphics/733|title:Critical Flaw
+author:(author hidden until results)|pms-id:asm15/graphics/737|title:Lure them here!
+author:(author hidden until results)|pms-id:asm15/graphics/739|title:Abandoned now just like the war
+author:(author hidden until results)|pms-id:asm15/graphics/740|title:Kill All Audio and Lights
+author:(author hidden until results)|pms-id:asm15/graphics/757|title:High Octane Rampage
+author:(author hidden until results)|pms-id:asm15/graphics/760|title:Amerac Mons
+author:(author hidden until results)|pms-id:asm15/graphics/767|title:Sad Cab
+author:(author hidden until results)|pms-id:asm15/graphics/785|title:Three Pistons Lodge
+author:(author hidden until results)|pms-id:asm15/graphics/786|title:Spirit Springs
+author:(author hidden until results)|pms-id:asm15/graphics/793|title:Wood Song
+author:(author hidden until results)|pms-id:asm15/graphics/798|title:Snake in a river
+author:(author hidden until results)|pms-id:asm15/graphics/805|title:Afternoon tea
+author:(author hidden until results)|pms-id:asm15/graphics/839|title:Beneath the orange sky
+author:(author hidden until results)|pms-id:asm15/graphics/860|title:Fox Spirit
+author:(author hidden until results)|pms-id:asm15/graphics/872|title:Occupational hazards of lumberjacks: tree zombies
+author:(author hidden until results)|pms-id:asm15/graphics/880|title:Forest Bacchanal
+author:(author hidden until results)|pms-id:asm15/graphics/892|title:A chat with the Death God
+author:(author hidden until results)|pms-id:asm15/graphics/906|title:Twin Dragon
 
 
 :section Photo
