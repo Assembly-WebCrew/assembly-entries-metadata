@@ -69,145 +69,145 @@ author:Software Failure|guid:1969|pms-id:asm15/amiga/887|title:Short-Circuited|y
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:BitByByte Creations|guid:1945|pms-id:asm15/gamedev/669|title:Project Planetshock|youtube:izBGuxh4_T0
-author:Tuiske Productions|guid:1946|pms-id:asm15/gamedev/671|title:Armadillo Adventure: Draw & Roll|youtube:iLAgEyqTA5g
-author:BanaaniPojat|guid:1947|pms-id:asm15/gamedev/673|title:Mayhem Punch|youtube:ca3XBtsM6F8
-author:Roistot|guid:1948|pms-id:asm15/gamedev/674|title:Casual Mercs|youtube:WKFD0aWY44c
-author:Team Nr. 5|guid:1949|pms-id:asm15/gamedev/675|title:The Flattening|youtube:xz-BSeHVVpg
-author:One Nerd Army|guid:1950|pms-id:asm15/gamedev/676|title:Starcore|youtube:_t69PF3SNLw
-author:Verkel, Faeriel + Team Mäyris|guid:1951|pms-id:asm15/gamedev/678|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
-author:Major Game Company|guid:1952|pms-id:asm15/gamedev/683|title:Combat Racers|youtube:dsW3MX65yEg
-author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|pms-id:asm15/gamedev/684|title:Billion Feet Above|youtube:20ej8skfPQE
-author:Worldspawn, Shreddingdragon, Szabi|guid:1954|pms-id:asm15/gamedev/687|title:RoboSmash|youtube:p3NG2BAN340
-author:Team LiteLight: Hisoka, Khenirtha|guid:1955|pms-id:asm15/gamedev/690|title:Ratchinery|youtube:Renhigfxbb0
-author:BoxFort|guid:1956|pms-id:asm15/gamedev/693|title:Cavengers|youtube:ZPnwyCBsDP4
-author:Kaljameri Games|guid:1957|pms-id:asm15/gamedev/695|title:Running Beer|youtube:wSfFMsXTyto
-author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|guid:1958|pms-id:asm15/gamedev/697|title:Office Rampage|youtube:StV0WZHrKDg
-author:Sandy Entertainment|guid:1959|pms-id:asm15/gamedev/698|title:Pogo Mad|youtube:vcdzkVI2SPo
+author:Kaljameri Games|guid:1957|platform:PC|pms-id:asm15/gamedev/695|position:1|techniques:Unreal Engine|title:Running Beer|youtube:wSfFMsXTyto
+author:Verkel, Faeriel + Team Mäyris|guid:1951|platform:Android, Windows|pms-id:asm15/gamedev/678|position:2|techniques:Unity, Blender|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
+author:Tuiske Productions|guid:1946|platform:iOS, Android|pms-id:asm15/gamedev/671|position:3|techniques:Unity3d|title:Armadillo Adventure: Draw & Roll|youtube:iLAgEyqTA5g
+author:Sandy Entertainment|guid:1959|platform:Android|pms-id:asm15/gamedev/698|position:4|techniques:Scrum, skill|title:Pogo Mad|youtube:vcdzkVI2SPo
+author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|guid:1958|platform:PC|pms-id:asm15/gamedev/697|position:5|techniques:Unity, Blender & Copious amounts of caffeine|title:Office Rampage|youtube:StV0WZHrKDg
+author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|platform:Windows|pms-id:asm15/gamedev/684|position:6|techniques:Unity, C#|title:Billion Feet Above|youtube:20ej8skfPQE
+author:Team LiteLight: Hisoka, Khenirtha|guid:1955|platform:Android|pms-id:asm15/gamedev/690|position:7|techniques:Unity, Maya, Photoshop|title:Ratchinery|youtube:Renhigfxbb0
+author:One Nerd Army|guid:1950|platform:PC|pms-id:asm15/gamedev/676|position:8|techniques:Unity3D|title:Starcore|youtube:_t69PF3SNLw
+author:BoxFort|guid:1956|platform:PC|pms-id:asm15/gamedev/693|position:9|techniques:Unreal Engine 4|title:Cavengers|youtube:ZPnwyCBsDP4
+author:Worldspawn, Shreddingdragon, Szabi|guid:1954|platform:PC|pms-id:asm15/gamedev/687|position:10|techniques:Unitü|title:RoboSmash|youtube:p3NG2BAN340
+author:BitByByte Creations|guid:1945|platform:PC|pms-id:asm15/gamedev/669|position:11|techniques:Unity C#|title:Project Planetshock|youtube:izBGuxh4_T0
+author:Major Game Company|guid:1952|platform:PC|pms-id:asm15/gamedev/683|position:12|techniques:Unreal Engine 4, Mad racing skills|title:Combat Racers|youtube:dsW3MX65yEg
+author:Team Nr. 5|guid:1949|platform:PC|pms-id:asm15/gamedev/675|position:13|techniques:Unity, 3Ds Max, Photoshop|title:The Flattening|youtube:xz-BSeHVVpg
+author:BanaaniPojat|guid:1947|platform:PC|pms-id:asm15/gamedev/673|position:14|techniques:Unreal Engine 4|title:Mayhem Punch|youtube:ca3XBtsM6F8
+author:Roistot|guid:1948|platform:PC|pms-id:asm15/gamedev/674|position:15|techniques:Unreal Engine 4|title:Casual Mercs|youtube:WKFD0aWY44c
 
 
 :section Listening music
 :pms-category listeningmusic
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
-author:Buzzer/Brainstorm|pms-id:asm15/listeningmusic/708|title:R-Syke|video-file:listening-music/r-syke.flac.mp4|youtube:ZzNlwOLhGGA
-author:ruuvari/aspekt|pms-id:asm15/listeningmusic/748|title:Pluto Flyby|video-file:listening-music/pluto_flyby.mp3.mp4|youtube:lplQCBt34b4
-author:Serpent + Buzzer + DJ Joge / Brainstorm|pms-id:asm15/listeningmusic/751|title:All My Itch Go AAAAAAAAHHHH|video-file:listening-music/Serpent Buzzer and DJ Joge - All My Itch Go AAAAAAAAHHHH.mp3.mp4|youtube:zO4gGSShgjA
-author:Tinnitus Duo|pms-id:asm15/listeningmusic/753|title:Morsae Fundamentae (Lehmipojan Lauantaikebab)|video-file:listening-music/morsae_fundamentae_(lehmipojan_lauantaikebab).flac.mp4|youtube:kB-HCh1B1GQ
-author:Man with no Nickname|pms-id:asm15/listeningmusic/759|title:Oldskool Elevator Ride|video-file:listening-music/oldskool_elevator_ride.wav.mp4|youtube:rlpHG2j7Igk
-author:Paul J. Morton (feat. Petter Mårtensen)|pms-id:asm15/listeningmusic/766|title:Mighty Dragons of Blœrgh'ol|video-file:listening-music/mighty_dragons_of_blœrgh_ol.wav.mp4|youtube:I8UVY1arnog
-author:V-1000|pms-id:asm15/listeningmusic/787|title:Paraversum|video-file:listening-music/paraversum.aif.mp4|youtube:-PtM9XEyb1Y
-author:r00t3d|pms-id:asm15/listeningmusic/833|title:Spirit Portal|video-file:listening-music/spirit_portal.mp3.mp4|youtube:YcRAZf8bEg4
-author:Aikapallo|pms-id:asm15/listeningmusic/836|title:Bannockburn Blood|video-file:listening-music/bannockburn_blood.mp3.mp4|youtube:8dihbBwIq6A
-author:ukimies|pms-id:asm15/listeningmusic/837|title:Level Complete|video-file:listening-music/level_complete.mp3.mp4|youtube:kp3ah0wS7Oo
-author:nuusika|pms-id:asm15/listeningmusic/875|title:frequences to outer space|video-file:listening-music/frequences_to_outer_space.wav.mp4|youtube:ClVg_psqpWg
-author:Ultra Crab Force|pms-id:asm15/listeningmusic/883|title:Mr.Crabster Shockman|video-file:listening-music/mr.crabster_shockman.wav.mp4|youtube:ZXX76HwxYoY
-author:Duality Vile|pms-id:asm15/listeningmusic/894|title:Machairodontinae Kill Stage|video-file:listening-music/machairodontinae_kill_stage.wav.mp4|youtube:mrn7rT-XZGs
+author:Aikapallo|platform:PC|pms-id:asm15/listeningmusic/836|position:1|techniques:Cubase, guitar, synths, vsti|title:Bannockburn Blood|video-file:listening-music/bannockburn_blood.mp3.mp4|youtube:8dihbBwIq6A
+author:Man with no Nickname|platform:PC|pms-id:asm15/listeningmusic/759|position:2|techniques:Schism Tracker with NES samples and -effects only|title:Oldskool Elevator Ride|video-file:listening-music/oldskool_elevator_ride.wav.mp4|youtube:rlpHG2j7Igk
+author:Serpent + Buzzer + DJ Joge / Brainstorm|platform:Amigaaaaaaaaaaaaaaaaaaaaaah|pms-id:asm15/listeningmusic/751|position:3|techniques:Protracker|title:All My Itch Go AAAAAAAAHHHH|video-file:listening-music/Serpent Buzzer and DJ Joge - All My Itch Go AAAAAAAAHHHH.mp3.mp4|youtube:zO4gGSShgjA
+author:ruuvari/aspekt|platform:ears|pms-id:asm15/listeningmusic/748|position:4|techniques:Cubase 8, Nobelaner 3|title:Pluto Flyby|video-file:listening-music/pluto_flyby.mp3.mp4|youtube:lplQCBt34b4
+author:Duality Vile|platform:PC/MAC|pms-id:asm15/listeningmusic/894|position:5|techniques:Reaper, Logic|title:Machairodontinae Kill Stage|video-file:listening-music/machairodontinae_kill_stage.wav.mp4|youtube:mrn7rT-XZGs
+author:V-1000|platform:PC|pms-id:asm15/listeningmusic/787|position:6|techniques:Logic Pro & Vienna Ensamble Pro|title:Paraversum|video-file:listening-music/paraversum.aif.mp4|youtube:-PtM9XEyb1Y
+author:Buzzer/Brainstorm|platform:PC-Reason|pms-id:asm15/listeningmusic/708|position:7|techniques:no skill, just luck|title:R-Syke|video-file:listening-music/r-syke.flac.mp4|youtube:ZzNlwOLhGGA
+author:Paul J. Morton (feat. Petter Mårtensen)|platform:PC|pms-id:asm15/listeningmusic/766|position:8|techniques:Cubase, Komplete, Colossus, Sinn, Inabez|title:Mighty Dragons of Blœrgh'ol|video-file:listening-music/mighty_dragons_of_blœrgh_ol.wav.mp4|youtube:I8UVY1arnog
+author:Ultra Crab Force|platform:PC/MAC pow4rs c0mb1n3d|pms-id:asm15/listeningmusic/883|position:9|techniques:pakasterapuja|title:Mr.Crabster Shockman|video-file:listening-music/mr.crabster_shockman.wav.mp4|youtube:ZXX76HwxYoY
+author:ukimies|platform:PC|pms-id:asm15/listeningmusic/837|position:10|techniques:Ableton Live, Guitar|title:Level Complete|video-file:listening-music/level_complete.mp3.mp4|youtube:kp3ah0wS7Oo
+author:Tinnitus Duo|platform:Haitara|pms-id:asm15/listeningmusic/753|position:11|techniques:L. casei defensis|title:Morsae Fundamentae (Lehmipojan Lauantaikebab)|video-file:listening-music/morsae_fundamentae_(lehmipojan_lauantaikebab).flac.mp4|youtube:kB-HCh1B1GQ
+author:nuusika|platform:Universal|pms-id:asm15/listeningmusic/875|position:12|techniques:FL Studio, G, Drums ja Kiippari tiettyuitar, Bass|title:frequences to outer space|video-file:listening-music/frequences_to_outer_space.wav.mp4|youtube:ClVg_psqpWg
+author:r00t3d|platform:FLStudio 11|pms-id:asm15/listeningmusic/833|position:13|techniques:Magick|title:Spirit Portal|video-file:listening-music/spirit_portal.mp3.mp4|youtube:YcRAZf8bEg4
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:florist|pms-id:asm15/fast_music/806|title:weary traveler|video-file:fast-music/weary_traveler.wav.mp4|youtube:O7eGhYmK1bw
-author:tArzAn/tAAt|pms-id:asm15/fast_music/808|title:lyijyompelukone - lead singer|video-file:fast-music/lyijyompelukone_leadsinger.wav.mp4|youtube:-w4Z0T5f-X0
-author:Melodïcore|pms-id:asm15/fast_music/809|title:Am I Late?|video-file:fast-music/am_i_late_.wav.mp4|youtube:mY9vsoHJfEQ
-author:r00t3d|pms-id:asm15/fast_music/811|title:Magick|video-file:fast-music/magick.wav.mp4|youtube:cYb-zQfLYoE
-author:EpicNoob|pms-id:asm15/fast_music/813|title:Sunshine in a dark cave|video-file:fast-music/sunshine_in_a_dark_cave.wav.mp4|youtube:2kxjOQgUq8I
-author:King Thrill / Tekotuotanto|pms-id:asm15/fast_music/814|title:Rokkiponit Megahyper|video-file:fast-music/rokkiponit_megahyper.wav.mp4|youtube:lBiQFm-gD10
-author:NinjaBaka|pms-id:asm15/fast_music/816|title:Hikari|video-file:fast-music/hikari.mp3.mp4|youtube:RgW4gSe_U80
-author:Rayjan / Pyrotech|pms-id:asm15/fast_music/817|title:Lost in time again|video-file:fast-music/lost_in_time_again.mp3.mp4|youtube:5Q0qsaMcFB8
-author:Premium/Paradise^TRSi|pms-id:asm15/fast_music/818|title:Lost in DMG|video-file:fast-music/lost_in_dmg.mp3.mp4|youtube:w_1BWYvwEQo
-author:Orbis|pms-id:asm15/fast_music/819|title:Twisted Afternoon|video-file:fast-music/twisted_afternoon.wav.mp4|youtube:zRbIForOLDU
-author:JoonasD6|pms-id:asm15/fast_music/820|title:Pro Scientia|video-file:fast-music/pro_scientia.aiff.mp4|youtube:yNIemUnMYoM
-author:LUIKERO|pms-id:asm15/fast_music/821|title:Utuisa merisää|video-file:fast-music/utuisa_merisää.mp3.mp4|youtube:bcv8LaMafMU
-author:BETTINGS_CLAN|pms-id:asm15/fast_music/823|title:Demoscene RIP|video-file:fast-music/demoscene_rip.mp3.mp4|youtube:PC_YftRWjKI
-author:Aliens|pms-id:asm15/fast_music/824|title:After Assembly|video-file:fast-music/after_assembly.wav.mp4|youtube:fvY_gqN-kbQ
-author:microdots|pms-id:asm15/fast_music/825|title:underground party|video-file:fast-music/underground_party.mp3.mp4|youtube:zP10tXMIhgk
-author:b. o. w. / Division|pms-id:asm15/fast_music/826|title:Robotics|video-file:fast-music/robotics.flac.mp4|youtube:pr-Ns0jYMC0
-author:Yzi|pms-id:asm15/fast_music/828|title:Please Have Mercy And Do Not Upload This To Necta|video-file:fast-music/please_have_mercy_and_do_not_upload_this_to_necta.mp3.mp4|youtube:yeuMeb9swO0
-author:nuusika|pms-id:asm15/fast_music/829|title:vettä sataa ja kaikki fantasioi assemblyillä|video-file:fast-music/vettä_sataa_ja_kaikki_fantasioi_assemblyillä.wav.mp4|youtube:wXRgSBySGf0
-author:exla|pms-id:asm15/fast_music/831|title:Tranquility|video-file:fast-music/tranquility.wav.mp4|youtube:IGSM8aBMK8s
-author:Le-Veli|pms-id:asm15/fast_music/832|title:Mission Tom Cruiser|video-file:fast-music/mission_tom_cruiser.aif.mp4|youtube:SN7J0J7yi2g
+author:Le-Veli|platform:PC|pms-id:asm15/fast_music/832|position:1|techniques:Logic Pro|title:Mission Tom Cruiser|video-file:fast-music/mission_tom_cruiser.aif.mp4|youtube:SN7J0J7yi2g
+author:King Thrill / Tekotuotanto|platform:PC|pms-id:asm15/fast_music/814|position:2|techniques:Reaper & bilberries picked from the forest|title:Rokkiponit Megahyper|video-file:fast-music/rokkiponit_megahyper.wav.mp4|youtube:lBiQFm-gD10
+author:microdots|platform:PC|pms-id:asm15/fast_music/825|position:3|techniques:Renoise 2.8.2 & VST Plugins|title:underground party|video-file:fast-music/underground_party.mp3.mp4|youtube:zP10tXMIhgk
+author:Melodïcore|platform:PC|pms-id:asm15/fast_music/809|position:4|techniques:FL Studio 12 and 30 minutes|title:Am I Late?|video-file:fast-music/am_i_late_.wav.mp4|youtube:mY9vsoHJfEQ
+author:Yzi|platform:Computer|pms-id:asm15/fast_music/828|position:5|techniques:Ableton Live 9|title:Please Have Mercy And Do Not Upload This To Necta|video-file:fast-music/please_have_mercy_and_do_not_upload_this_to_necta.mp3.mp4|youtube:yeuMeb9swO0
+author:r00t3d|platform:FLStudio 11|pms-id:asm15/fast_music/811|position:6|techniques:Magick|title:Magick|video-file:fast-music/magick.wav.mp4|youtube:cYb-zQfLYoE
+author:Rayjan / Pyrotech|platform:PC|pms-id:asm15/fast_music/817|position:7|title:Lost in time again|video-file:fast-music/lost_in_time_again.mp3.mp4|youtube:5Q0qsaMcFB8
+author:NinjaBaka|platform:PC, Windows|pms-id:asm15/fast_music/816|position:8|techniques:SONAR X3, Rapture, Dimension Pro|title:Hikari|video-file:fast-music/hikari.mp3.mp4|youtube:RgW4gSe_U80
+author:BETTINGS_CLAN|platform:PC|pms-id:asm15/fast_music/823|position:9|techniques:FL + ES|title:Demoscene RIP|video-file:fast-music/demoscene_rip.mp3.mp4|youtube:PC_YftRWjKI
+author:nuusika|pms-id:asm15/fast_music/829|position:10|techniques:FL Studio, Guitar & Kiippari|title:vettä sataa ja kaikki fantasioi assemblyillä|video-file:fast-music/vettä_sataa_ja_kaikki_fantasioi_assemblyillä.wav.mp4|youtube:wXRgSBySGf0
+author:Premium/Paradise^TRSi|platform:Game boy DMG-01|pms-id:asm15/fast_music/818|position:11|techniques:Mad skillz + LSDj|title:Lost in DMG|video-file:fast-music/lost_in_dmg.mp3.mp4|youtube:w_1BWYvwEQo
+author:LUIKERO|pms-id:asm15/fast_music/821|position:12|techniques:Äbletön und fckdup' mssiah|title:Utuisa merisää|video-file:fast-music/utuisa_merisää.mp3.mp4|youtube:bcv8LaMafMU
+author:JoonasD6|platform:whatevs|pms-id:asm15/fast_music/820|position:13|techniques:Sibelius 7|title:Pro Scientia|video-file:fast-music/pro_scientia.aiff.mp4|youtube:yNIemUnMYoM
+author:tArzAn/tAAt|platform:PC|pms-id:asm15/fast_music/808|position:14|techniques:Psycle|title:lyijyompelukone - lead singer|video-file:fast-music/lyijyompelukone_leadsinger.wav.mp4|youtube:-w4Z0T5f-X0
+author:b. o. w. / Division|platform:PC|pms-id:asm15/fast_music/826|position:14|techniques:MAGIX Music Maker 2014|title:Robotics|video-file:fast-music/robotics.flac.mp4|youtube:pr-Ns0jYMC0
+author:exla|platform:PC/ableton live 8|pms-id:asm15/fast_music/831|position:16|techniques:Hakkasin midikiipparia puoltoista tuntia|title:Tranquility|video-file:fast-music/tranquility.wav.mp4|youtube:IGSM8aBMK8s
+author:EpicNoob|platform:PC|pms-id:asm15/fast_music/813|position:17|techniques:Sense of rhytm|title:Sunshine in a dark cave|video-file:fast-music/sunshine_in_a_dark_cave.wav.mp4|youtube:2kxjOQgUq8I
+author:Aliens|pms-id:asm15/fast_music/824|position:18|techniques:Fl studio|title:After Assembly|video-file:fast-music/after_assembly.wav.mp4|youtube:fvY_gqN-kbQ
+author:Orbis|platform:PC|pms-id:asm15/fast_music/819|position:19|techniques:Guitar Pro 6, a sick mind|title:Twisted Afternoon|video-file:fast-music/twisted_afternoon.wav.mp4|youtube:zRbIForOLDU
+author:florist|platform:Logic|pms-id:asm15/fast_music/806|position:20|techniques:10 sormea|title:weary traveler|video-file:fast-music/weary_traveler.wav.mp4|youtube:O7eGhYmK1bw
 
 
 :section Dance music
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
-author:Alek Szahala|pms-id:asm15/dance_music/718|title:Eleven Suns|video-file:dance-music/eleven_suns.mp3.mp4|youtube:zfAIdhJs6zQ
-author:HuuHaa|pms-id:asm15/dance_music/723|title:Elektron Speed Stripes|video-file:dance-music/elektron_speed_stripes.wav.mp4|youtube:6QxQ9ESuZfY
-author:Maulwurf|pms-id:asm15/dance_music/729|title:Adrenaline Junkie|video-file:dance-music/adrenaline_junkie.wav.mp4|youtube:ljzuq-3YwyU
-author:Melodïcore|pms-id:asm15/dance_music/745|title:Macho Banana|video-file:dance-music/macho_banana.wav.mp4|youtube:sehWbpbnREE
-author:DJ Joge / Brainstorm|pms-id:asm15/dance_music/747|title:Flying Through Hyperspace (Assembly Cut)|video-file:dance-music/flying_through_hyperspace_(assembly_cut).mp3.mp4|youtube:GWIptjUdMfY
-author:Man with no Nickname|pms-id:asm15/dance_music/761|title:Let my NES Move You|video-file:dance-music/let_my_nes_move_you.wav.mp4|youtube:HKk_XvWU2dE
-author:microdots|pms-id:asm15/dance_music/775|title:twisted world|video-file:dance-music/twisted_world.mp3.mp4|youtube:WvA-uIrtkxM
-author:Byproduct / SceneSat|pms-id:asm15/dance_music/777|title:Runaway A.I.|video-file:dance-music/runaway_a.i..wav.mp4|youtube:M8UEUkR6eQU
-author:LeVeli|pms-id:asm15/dance_music/842|title:Tom Cruiser|video-file:dance-music/tom_cruiser.aif.mp4|youtube:520snJwVdME
-author:Hybrid Control|pms-id:asm15/dance_music/863|title:The Era of Roboman|video-file:dance-music/the_era_of_roboman.mp3.mp4|youtube:aOfExyYmFwc
-author:joopeti|pms-id:asm15/dance_music/869|title:Mori no mai|video-file:dance-music/mori_no_mai.wav.mp4|youtube:NiRSp4uR7Yc
+author:Man with no Nickname|platform:PC|pms-id:asm15/dance_music/761|position:1|techniques:Schism Tracker with NES samples and -effects only|title:Let my NES Move You|video-file:dance-music/let_my_nes_move_you.wav.mp4|youtube:HKk_XvWU2dE
+author:Byproduct / SceneSat|platform:PC|pms-id:asm15/dance_music/777|position:2|techniques:FL Studio 12,  ╲(｡◕‿◕｡)╱|title:Runaway A.I.|video-file:dance-music/runaway_a.i..wav.mp4|youtube:M8UEUkR6eQU
+author:DJ Joge / Brainstorm|platform:PC|pms-id:asm15/dance_music/747|position:3|techniques:Renoise|title:Flying Through Hyperspace (Assembly Cut)|video-file:dance-music/flying_through_hyperspace_(assembly_cut).mp3.mp4|youtube:GWIptjUdMfY
+author:LeVeli|platform:PC|pms-id:asm15/dance_music/842|position:4|techniques:Logic Pro|title:Tom Cruiser|video-file:dance-music/tom_cruiser.aif.mp4|youtube:520snJwVdME
+author:Alek Szahala|platform:PC|pms-id:asm15/dance_music/718|position:5|techniques:Hedelmäiset 11|title:Eleven Suns|video-file:dance-music/eleven_suns.mp3.mp4|youtube:zfAIdhJs6zQ
+author:Maulwurf|platform:PC|pms-id:asm15/dance_music/729|position:6|techniques:Nokia 3310, 70 working hours & OP Protoss|title:Adrenaline Junkie|video-file:dance-music/adrenaline_junkie.wav.mp4|youtube:ljzuq-3YwyU
+author:joopeti|platform:Windows|pms-id:asm15/dance_music/869|position:7|techniques:ableton live 9|title:Mori no mai|video-file:dance-music/mori_no_mai.wav.mp4|youtube:NiRSp4uR7Yc
+author:microdots|platform:PC|pms-id:asm15/dance_music/775|position:8|techniques:Renoise 2.8.2 & VST Plugins|title:twisted world|video-file:dance-music/twisted_world.mp3.mp4|youtube:WvA-uIrtkxM
+author:Hybrid Control|platform:Windows|pms-id:asm15/dance_music/863|position:9|techniques:Fruity Loops|title:The Era of Roboman|video-file:dance-music/the_era_of_roboman.mp3.mp4|youtube:aOfExyYmFwc
+author:Melodïcore|platform:PC|pms-id:asm15/dance_music/745|position:10|techniques:FL Studio 12 that is not pirated for once|title:Macho Banana|video-file:dance-music/macho_banana.wav.mp4|youtube:sehWbpbnREE
+author:HuuHaa|platform:PC|pms-id:asm15/dance_music/723|position:11|techniques:FL Studio|title:Elektron Speed Stripes|video-file:dance-music/elektron_speed_stripes.wav.mp4|youtube:6QxQ9ESuZfY
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:Elukka|image-file:graphics/wet-tweet-nosig.jpg|pms-id:asm15/graphics/707|title:wet tweet
-author:Milja Kemppinen|image-file:graphics/panda-in-bamboo-forest-nosig.png|pms-id:asm15/graphics/719|title:Panda in Bamboo Forest
-author:Osmic/Unknown Artists|image-file:graphics/critical-flaw-nosig.jpg|pms-id:asm15/graphics/733|title:Critical Flaw
-author:Plasticbunny|image-file:graphics/lure-them-here-nosig.png|pms-id:asm15/graphics/737|title:Lure them here!
-author:Valtteri|image-file:graphics/abandoned_now_just_like_the_war_nosig.jpg|pms-id:asm15/graphics/739|title:Abandoned now just like the war
-author:Neotheta|image-file:graphics/kill-all-audio-and-lights-nosig.png|pms-id:asm15/graphics/740|title:Kill All Audio and Lights
-author:Darkki / Tekotuotanto|image-file:graphics/high-octane-rampage-nosig.jpeg|pms-id:asm15/graphics/757|title:High Octane Rampage
-author:SirRandom|image-file:graphics/amerac-mons-nosig.png|pms-id:asm15/graphics/760|title:Amerac Mons
-author:maxon / HBC|image-file:graphics/sad-cab-nosig.jpg|pms-id:asm15/graphics/767|title:Sad Cab
-author:Juhani Jokinen|image-file:graphics/three-pistons-nosig.jpg|pms-id:asm15/graphics/785|title:Three Pistons Lodge
-author:Charlotta Tiuri|image-file:graphics/spirit-springs-nosig.png|pms-id:asm15/graphics/786|title:Spirit Springs
-author:EVM|image-file:graphics/woodsong-nosig.jpg|pms-id:asm15/graphics/793|title:Wood Song
-author:Surround/TT|image-file:graphics/snake-in-a-river-nosig.png|pms-id:asm15/graphics/798|title:Snake in a river
-author:Amelié|image-file:graphics/afternoon-tea-nosig.jpg|pms-id:asm15/graphics/805|title:Afternoon tea
-author:pikamau5|image-file:graphics/beneath-the-orange-sky-nosig.png|pms-id:asm15/graphics/839|title:Beneath the orange sky
-author:Eepox|image-file:graphics/fox-spirit-nosig.jpg|pms-id:asm15/graphics/860|title:Fox Spirit
-author:Kinnerean|image-file:graphics/occupational-hazards-of-lumberjacks-nosig.png|pms-id:asm15/graphics/872|title:Occupational hazards of lumberjacks: tree zombies
-author:Partikle|image-file:graphics/forest-bacchanal-nosig.jpg|pms-id:asm15/graphics/880|title:Forest Bacchanal
-author:Vablo|image-file:graphics/a_chat_with_the_death_god.jpeg|pms-id:asm15/graphics/892|title:A chat with the Death God
-author:Mazor|image-file:graphics/twin-dragon-nosig.png|pms-id:asm15/graphics/906|title:Twin Dragon
+author:Darkki / Tekotuotanto|image-file:graphics/high-octane-rampage-nosig.jpeg|platform:PC|pms-id:asm15/graphics/757|position:1|techniques:3dsmax, photoshop.|title:High Octane Rampage
+author:Vablo|image-file:graphics/a_chat_with_the_death_god.jpeg|platform:PC|pms-id:asm15/graphics/892|position:2|techniques:Photoshop|title:A chat with the Death God
+author:Kinnerean|image-file:graphics/occupational-hazards-of-lumberjacks-nosig.png|platform:PC|pms-id:asm15/graphics/872|position:3|techniques:Digital painting with photoshop|title:Occupational hazards of lumberjacks: tree zombies
+author:Plasticbunny|image-file:graphics/lure-them-here-nosig.png|platform:Mac|pms-id:asm15/graphics/737|position:4|techniques:zBrush, Cinema4D, Photoshop|title:Lure them here!
+author:Osmic/Unknown Artists|image-file:graphics/critical-flaw-nosig.jpg|platform:Kaikki värinäytöt|pms-id:asm15/graphics/733|position:5|techniques:3DS Max 2010 ja Photoshop CS3 ;D|title:Critical Flaw
+author:Juhani Jokinen|image-file:graphics/three-pistons-nosig.jpg|platform:PC|pms-id:asm15/graphics/785|position:6|techniques:photoshop|title:Three Pistons Lodge
+author:Surround/TT|image-file:graphics/snake-in-a-river-nosig.png|platform:Pc|pms-id:asm15/graphics/798|position:7|techniques:Photoshoppen och en wakom pen|title:Snake in a river
+author:Neotheta|image-file:graphics/kill-all-audio-and-lights-nosig.png|platform:PC, Debian|pms-id:asm15/graphics/740|position:8|techniques:Krita 2.9|title:Kill All Audio and Lights
+author:Elukka|image-file:graphics/wet-tweet-nosig.jpg|platform:pc|pms-id:asm15/graphics/707|position:9|techniques:wacom + photoshop|title:wet tweet
+author:Mazor|image-file:graphics/twin-dragon-nosig.png|platform:Photoshop CC + Wacom Cintiq 13" Companion Hybrid|pms-id:asm15/graphics/906|position:10|techniques:Photoshop CC + Wacom Cintiq 13" Companion Hybrid|title:Twin Dragon
+author:Valtteri|image-file:graphics/abandoned_now_just_like_the_war_nosig.jpg|platform:PC|pms-id:asm15/graphics/739|position:11|techniques:Photoshop + Ruotsi|title:Abandoned now just like the war
+author:Milja Kemppinen|image-file:graphics/panda-in-bamboo-forest-nosig.png|platform:table|pms-id:asm15/graphics/719|position:12|techniques:watercolors + ink + adobe potoshop cc|title:Panda in Bamboo Forest
+author:Amelié|image-file:graphics/afternoon-tea-nosig.jpg|platform:Canvas/Mac|pms-id:asm15/graphics/805|position:13|techniques:Acrylic on canvas, Photoshop|title:Afternoon tea
+author:Partikle|image-file:graphics/forest-bacchanal-nosig.jpg|platform:PC|pms-id:asm15/graphics/880|position:14|techniques:Photoshop CS6|title:Forest Bacchanal
+author:Eepox|image-file:graphics/fox-spirit-nosig.jpg|platform:PC|pms-id:asm15/graphics/860|position:15|techniques:Digital painting|title:Fox Spirit
+author:EVM|image-file:graphics/woodsong-nosig.jpg|platform:PC|pms-id:asm15/graphics/793|position:16|techniques:Photoshop digital painting|title:Wood Song
+author:pikamau5|image-file:graphics/beneath-the-orange-sky-nosig.png|platform:pc|pms-id:asm15/graphics/839|position:17|techniques:3ds Max, uUnreal 4, Photoshop|title:Beneath the orange sky
+author:Charlotta Tiuri|image-file:graphics/spirit-springs-nosig.png|platform:RGB display device|pms-id:asm15/graphics/786|position:18|techniques:Mostly Photoshop, Zbrush for sketching buildings|title:Spirit Springs
+author:SirRandom|image-file:graphics/amerac-mons-nosig.png|platform:PC|pms-id:asm15/graphics/760|position:19|techniques:Photoshop + 3ds Max|title:Amerac Mons
+author:maxon / HBC|image-file:graphics/sad-cab-nosig.jpg|platform:PC|pms-id:asm15/graphics/767|position:20|techniques:Blender, Xubuntu|title:Sad Cab
 
 
 :section Photo
 :pms-category photo_compo
 
-author:Jmagic/Complex|image-file:photo/megablast.png|pms-id:asm15/photo_compo/703|title:megablast
-author:H7 / Accession & TRSI|image-file:photo/ex-machina.png|pms-id:asm15/photo_compo/704|title:Ex Machina
-author:Rage / Defcon5|image-file:photo/calm.png|pms-id:asm15/photo_compo/710|title:Calm
-author:bracket / accession ^ dekadence|image-file:photo/neon-lights-of-nature.png|pms-id:asm15/photo_compo/715|title:Neon Lights of Nature
-author:Blinden|image-file:photo/water-drops.png|pms-id:asm15/photo_compo/717|title:Water Drops
-author:Mazor/Fairlight|image-file:photo/gower-street.png|pms-id:asm15/photo_compo/731|title:Gower Street
-author:Neotheta, Kahvikello, MooMoo|image-file:photo/djfeline.png|pms-id:asm15/photo_compo/743|title:DJ Feline
-author:DJ Joge / Brainstorm|image-file:photo/is_it_a_bird_is_it_a_plane_no_it_is_bono_the_superdog.jpeg|pms-id:asm15/photo_compo/750|title:Is It A Bird Is It A Plane No It Is Bono The Superdog
-author:b. o. w. / Division|image-file:photo/resistance-is-futile.png|pms-id:asm15/photo_compo/764|title:Resistance Is Futile
-author:biini / damones|image-file:photo/real-time-raytracing.jpeg|pms-id:asm15/photo_compo/765|title:Real-time raytracing
-author:After Work Teatime|image-file:photo/plumber-cafe.jpg|pms-id:asm15/photo_compo/779|title:Plumber Cafe
-author:Subwoofered|image-file:photo/the-lights-of-kerava.jpeg|pms-id:asm15/photo_compo/853|title:The Lights of Kerava
-author:Myssi|image-file:photo/lokki.jpg|pms-id:asm15/photo_compo/855|title:Lokki
+author:biini / damones|image-file:photo/real-time-raytracing.jpeg|platform:Anything goes|pms-id:asm15/photo_compo/765|position:1|techniques:Canon 1D3, 100mm f/2.8 macro, speedlite 430ex, some booze|title:Real-time raytracing
+author:bracket / accession ^ dekadence|image-file:photo/neon-lights-of-nature.png|platform:-|pms-id:asm15/photo_compo/715|position:2|techniques:Nikon D7000 Sigma F/2.8 50mm macro, ISO 200,  5 second exposure, one awesome bug and ~20 killed mosqitoes|title:Neon Lights of Nature
+author:Subwoofered|image-file:photo/the-lights-of-kerava.jpeg|platform:From Kerava with LOVE <33|pms-id:asm15/photo_compo/853|position:3|techniques:Nikon D90 - Lens: 18.0-200.0 mm|title:The Lights of Kerava
+author:After Work Teatime|image-file:photo/plumber-cafe.jpg|platform:Camera|pms-id:asm15/photo_compo/779|position:4|techniques:Using a Camera|title:Plumber Cafe
+author:Jmagic/Complex|image-file:photo/megablast.png|platform:Photo|pms-id:asm15/photo_compo/703|position:5|techniques:Strobe in abandoned warehouse.  Olympus E-M5, 12mm, f/22, 6s, ISO 400|title:megablast
+author:DJ Joge / Brainstorm|image-file:photo/is_it_a_bird_is_it_a_plane_no_it_is_bono_the_superdog.jpeg|platform:Sony DSLR A300|pms-id:asm15/photo_compo/750|position:6|techniques:Miniature pincsher with a mad skillz and superb energy|title:Is It A Bird Is It A Plane No It Is Bono The Superdog
+author:Myssi|image-file:photo/lokki.jpg|platform:Iphone 4s|pms-id:asm15/photo_compo/855|position:7|techniques:Handheld|title:Lokki
+author:Neotheta, Kahvikello, MooMoo|image-file:photo/djfeline.png|platform:Plan 9|pms-id:asm15/photo_compo/743|position:8|techniques:Photograph|title:DJ Feline
+author:H7 / Accession & TRSI|image-file:photo/ex-machina.png|platform:Photo|pms-id:asm15/photo_compo/704|position:9|techniques:Canon 5D Mark II with 16-35/2.8L II|title:Ex Machina
+author:Mazor/Fairlight|image-file:photo/gower-street.png|platform:Camera|pms-id:asm15/photo_compo/731|position:10|techniques:Olympus E-P1, 20mm, f/5, 1/4s, ISO 400|title:Gower Street
+author:Blinden|image-file:photo/water-drops.png|platform:Canon EOS 600D|pms-id:asm15/photo_compo/717|position:11|techniques:55 mm, f/36|title:Water Drops
+author:b. o. w. / Division|image-file:photo/resistance-is-futile.png|platform:PC|pms-id:asm15/photo_compo/764|position:12|techniques:Canon EOS 450D and SIGMA 70-300mm F4-5.6 DG MACRO, cropping in Adobe Photoshop Lightroom 5|title:Resistance Is Futile
+author:Rage / Defcon5|image-file:photo/calm.png|platform:?|pms-id:asm15/photo_compo/710|position:13|techniques:Lumia 925, Photoshop 5 color curve|title:Calm
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Bending the party rules" theme.</p>
 
-author:Elukka|image-file:fast-graphics/hidden.jpg|pms-id:asm15/fast_graphics/851|title:hidden
-author:Neotheta|image-file:fast-graphics/right-at-my-seat.png|pms-id:asm15/fast_graphics/865|title:Right at my seat
-author:NiJ|image-file:fast-graphics/birdy-rules-nosig.png|pms-id:asm15/fast_graphics/867|title:Bending the birdy rules
-author:EVM|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png|pms-id:asm15/fast_graphics/870|title:I have very good idea of what I'm doing
-author:Amelié|image-file:fast-graphics/the-partys-upstars-nosig.jpg|pms-id:asm15/fast_graphics/884|title:The party is upstairs...but which way is up?
-author:Felor^HBC|image-file:fast-graphics/my-totally-legit-c64.png|pms-id:asm15/fast_graphics/885|title:My Totally Legit C64
-author:Jasu|image-file:fast-graphics/no-man-sized-speakers.jpg|pms-id:asm15/fast_graphics/888|title:No man-sized speakers
-author:MacGywer/npli|image-file:fast-graphics/cream-whipper.jpg|pms-id:asm15/fast_graphics/890|title:Cream whipper
-author:Valtteri|image-file:fast-graphics/art-nosig.jpg|pms-id:asm15/fast_graphics/895|title:It's art
-author:Charlotta Tiuri|image-file:fast-graphics/how-not-to-train-your-dragon.png|pms-id:asm15/fast_graphics/896|title:How Not to Train Your Dragon
-author:Darkki / Tekotuotanto|image-file:fast-graphics/king-size-nosig.jpg|pms-id:asm15/fast_graphics/899|title:King size
-author:Irah|image-file:fast-graphics/guaget-nosig.png|pms-id:asm15/fast_graphics/901|title:Technology Brings Uninterrupted Guage Experience
+author:EVM|image-file:fast-graphics/i-have-very-good-idea-of-what-i-m-doing.png|platform:PC|pms-id:asm15/fast_graphics/870|position:1|techniques:Photoshop painting|title:I have very good idea of what I'm doing
+author:Neotheta|image-file:fast-graphics/right-at-my-seat.png|platform:PC, Debian|pms-id:asm15/fast_graphics/865|position:2|techniques:Krita 2.9|title:Right at my seat
+author:Charlotta Tiuri|image-file:fast-graphics/how-not-to-train-your-dragon.png|platform:RGB Display Device|pms-id:asm15/fast_graphics/896|position:3|techniques:Photoshop|title:How Not to Train Your Dragon
+author:Darkki / Tekotuotanto|image-file:fast-graphics/king-size-nosig.jpg|platform:pc|pms-id:asm15/fast_graphics/899|position:4|techniques:3dsmax, photoshop.|title:King size
+author:NiJ|image-file:fast-graphics/birdy-rules-nosig.png|platform:PC|pms-id:asm15/fast_graphics/867|position:5|techniques:Photoshop CS6 + Deathadder|title:Bending the birdy rules
+author:Jasu|image-file:fast-graphics/no-man-sized-speakers.jpg|platform:SketchBook Pro|pms-id:asm15/fast_graphics/888|position:6|techniques:SketchBook Pro|title:No man-sized speakers
+author:Valtteri|image-file:fast-graphics/art-nosig.jpg|platform:PC|pms-id:asm15/fast_graphics/895|position:7|techniques:Photoshop taide|title:It's art
+author:Felor^HBC|image-file:fast-graphics/my-totally-legit-c64.png|platform:PC|pms-id:asm15/fast_graphics/885|position:8|techniques:3D + 2D|title:My Totally Legit C64
+author:Irah|image-file:fast-graphics/guaget-nosig.png|platform:PC|pms-id:asm15/fast_graphics/901|position:9|techniques:digital art|title:Technology Brings Uninterrupted Guage Experience
+author:Elukka|image-file:fast-graphics/hidden.jpg|platform:pc|pms-id:asm15/fast_graphics/851|position:10|techniques:wacom + photoshop|title:hidden
+author:Amelié|image-file:fast-graphics/the-partys-upstars-nosig.jpg|platform:Canvas/Mac|pms-id:asm15/fast_graphics/884|position:11|techniques:Acrylic on canvas + Photoshop|title:The party is upstairs...but which way is up?
+author:MacGywer/npli|image-file:fast-graphics/cream-whipper.jpg|platform:12g capsules|pms-id:asm15/fast_graphics/890|position:12|techniques:Drawn (PS)|title:Cream whipper
 
 
 :section Seminars
