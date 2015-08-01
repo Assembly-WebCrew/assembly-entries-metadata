@@ -168,6 +168,9 @@ for item in items:
             entry_data['description'] = description
             if youtube:
                 entry_data['youtube'] = youtube
+        # Compo entries from PMS:
+        elif entry:
+            entry['media'] = url
 
 
 temporary_output = tempfile.NamedTemporaryFile(delete=False)
