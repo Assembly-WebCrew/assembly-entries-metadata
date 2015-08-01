@@ -47,16 +47,16 @@ author:Walther|pms-id:asm15/4k_intro/929|title:clrfl shdr
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2015 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
 
-author:laastine|guid:1971|pms-id:asm15/1k_intro/712|title:Fast evolution|youtube:zNvqPGbnS3c
-author:Exca/Wide Load|guid:1972|pms-id:asm15/1k_intro/728|title:Säteilyvaara|youtube:VrJ069C69fM
-author:felixbade|guid:1973|pms-id:asm15/1k_intro/732|title:Vanha tuttu|youtube:xB8M1XgiRxw
-author:knl, Ishy|guid:1974|pms-id:asm15/1k_intro/734|title:aW50cm8=|youtube:Ltq91PsAF80
-author:TDA|guid:1975|pms-id:asm15/1k_intro/752|title:V for Voronoi|youtube:jkpqifiSYsE
-author:oo|guid:1976|pms-id:asm15/1k_intro/783|title:Hello Assembly!|youtube:-ITPLJKoRjI
-author:Digimind|guid:1977|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation|youtube:bRhmORqyW-E
-author:Traction/FIT|guid:1978|pms-id:asm15/1k_intro/848|title:Gravity Haze|youtube:7o85vwuX4QA
-author:p01 / ribbon|guid:1979|pms-id:asm15/1k_intro/868|title:BLCK4777|youtube:NnZUUSdpt-k
-author:The Usual Suspects|guid:1980|pms-id:asm15/1k_intro/900|title:Varifrån 763|youtube:nRcxrUAWqrg
+author:laastine|guid:1971|media:/vod/2015/Compos/1971_1k_Fast_evolution_by_laastine.mp4|pms-id:asm15/1k_intro/712|title:Fast evolution|youtube:zNvqPGbnS3c
+author:Exca/Wide Load|guid:1972|media:/vod/2015/Compos/1972_1k_Sateilyvaara_by_ExcaWide_Load.mp4|pms-id:asm15/1k_intro/728|title:Säteilyvaara|youtube:VrJ069C69fM
+author:felixbade|guid:1973|media:/vod/2015/Compos/1973_1k_Vanha_tuttu_by_felixbade.mp4|pms-id:asm15/1k_intro/732|title:Vanha tuttu|youtube:xB8M1XgiRxw
+author:knl, Ishy|guid:1974|media:/vod/2015/Compos/1974_1k_aW50cm8_by_knl_Ishy.mp4|pms-id:asm15/1k_intro/734|title:aW50cm8=|youtube:Ltq91PsAF80
+author:TDA|guid:1975|media:/vod/2015/Compos/1975_1k_V_for_Voronoi_by_TDA.mp4|pms-id:asm15/1k_intro/752|title:V for Voronoi|youtube:jkpqifiSYsE
+author:oo|guid:1976|media:/vod/2015/Compos/1976_1k_Hello_Assembly_by_oo.mp4|pms-id:asm15/1k_intro/783|title:Hello Assembly!|youtube:-ITPLJKoRjI
+author:Digimind|guid:1977|media:/vod/2015/Compos/1977_1k_Monster_Truck_Presentation_by_Digimind.mp4|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation|youtube:bRhmORqyW-E
+author:Traction/FIT|guid:1978|media:/vod/2015/Compos/1978_1k_Gravity_Haze_by_TractionFIT.mp4|pms-id:asm15/1k_intro/848|title:Gravity Haze|youtube:7o85vwuX4QA
+author:p01 / ribbon|guid:1979|media:/vod/2015/Compos/1979_1k_BLCK4777_by_p01__ribbon.mp4|pms-id:asm15/1k_intro/868|title:BLCK4777|youtube:NnZUUSdpt-k
+author:The Usual Suspects|guid:1980|media:/vod/2015/Compos/1980_1k_Varifran_763_by_The_Usual_Suspects.mp4|pms-id:asm15/1k_intro/900|title:Varifrån 763|youtube:nRcxrUAWqrg
 
 
 :section Real wild demo
@@ -65,25 +65,25 @@ author:The Usual Suspects|guid:1980|pms-id:asm15/1k_intro/900|title:Varifrån 76
 :ongoing true
 :public-after 2015-08-01 19:00+0300
 
-author:NOOP|pms-id:asm15/real_wild_demo/755|title:Pimp My Bento
-author:Mehu|pms-id:asm15/real_wild_demo/840|title:The Future
-author:Limba|pms-id:asm15/real_wild_demo/911|title:Night Coding
-author:Gormio, O/Troika Pump|pms-id:asm15/real_wild_demo/917|title:Apeshit
+author:NOOP|guid:2023|media:/vod/2015/Compos/2023_Realwild_Pimp_My_Bento_by_NOOP.mp4|pms-id:asm15/real_wild_demo/755|title:Pimp My Bento|youtube:SG0K7mNIIzU
+author:Mehu|guid:2024|media:/vod/2015/Compos/2024_Realwild_The_Future_by_Mehu.mp4|pms-id:asm15/real_wild_demo/840|title:The Future|youtube:WUEJ30QdHz4
+author:Limba|guid:2025|media:/vod/2015/Compos/2025_RealWild_Night_Coding_by_Limba.mp4|pms-id:asm15/real_wild_demo/911|title:Night Coding|youtube:B43j6hlT5i4
+author:Gormio, O/Troika Pump|guid:2026|media:/vod/2015/Compos/2026_Realwild_Apeshit_by_Gormio_OTroika_Pump.mp4|pms-id:asm15/real_wild_demo/917|title:Apeshit|youtube:_Z8DYTdo-vQ
 
 
 :section Amiga demo
 :pms-category amiga
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In this demo competitions demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
 
-author:Dekadence|guid:1960|pms-id:asm15/amiga/714|title:Carbon Based|youtube:5EIyoTzdWOs
-author:dA JoRMaS|guid:1961|pms-id:asm15/amiga/721|title:Käyrä Soiro|youtube:ddrrxCUxbfs
-author:Desire|guid:1962|pms-id:asm15/amiga/727|title:Master Control Program|youtube:h8PHmaLrNk0
-author:Zenon|guid:1963|pms-id:asm15/amiga/746|title:Scored|youtube:ZVGH3keXNko
-author:exec|guid:1964|pms-id:asm15/amiga/768|title:10 AMAZING CAT FACTS|youtube:KiGpnEeyTl4
-author:Quadtrip|guid:1965|pms-id:asm15/amiga/770|title:See Forever|youtube:xqd9NnBgyPM
-author:Spaceballs|guid:1966|pms-id:asm15/amiga/799|title:DATASKULL|youtube:LxPkLtGekhE
-author:npli|guid:1967|pms-id:asm15/amiga/807|title:30th|youtube:rKeg3HK-1W0
-author:Traktor, Nature & Fatzone|guid:1968|pms-id:asm15/amiga/845|title:Gerp invitation|youtube:vPNp13oG8dU
+author:Dekadence|guid:1960|media:/vod/2015/Compos/1960_Oldskool_Carbon_Based_by_Dekadence.mp4|pms-id:asm15/amiga/714|title:Carbon Based|youtube:5EIyoTzdWOs
+author:dA JoRMaS|guid:1961|media:/vod/2015/Compos/1961_Oldskool_Kayra_Soiro_by_dA_JoRMaS.mp4|pms-id:asm15/amiga/721|title:Käyrä Soiro|youtube:ddrrxCUxbfs
+author:Desire|guid:1962|media:/vod/2015/Compos/1962_Oldskool_Master_Control_Program_by_Desire.mp4|pms-id:asm15/amiga/727|title:Master Control Program|youtube:h8PHmaLrNk0
+author:Zenon|guid:1963|media:/vod/2015/Compos/1963_Oldskool_Scored_by_Zenon.mp4|pms-id:asm15/amiga/746|title:Scored|youtube:ZVGH3keXNko
+author:exec|guid:1964|media:/vod/2015/Compos/1964_Oldskool_10_AMAZING_CAT_FACTS_by_exec.mp4|pms-id:asm15/amiga/768|title:10 AMAZING CAT FACTS|youtube:KiGpnEeyTl4
+author:Quadtrip|guid:1965|media:/vod/2015/Compos/1965_Oldskool_See_Forever_by_Quadtrip.mp4|pms-id:asm15/amiga/770|title:See Forever|youtube:xqd9NnBgyPM
+author:Spaceballs|guid:1966|media:/vod/2015/Compos/1966_Oldskool_DATASKULL_by_Spaceballs.mp4|pms-id:asm15/amiga/799|title:DATASKULL|youtube:LxPkLtGekhE
+author:npli|guid:1967|media:/vod/2015/Compos/1967_Oldskool_30th_by_npli.mp4|pms-id:asm15/amiga/807|title:30th|youtube:rKeg3HK-1W0
+author:Traktor, Nature & Fatzone|guid:1968|media:/vod/2015/Compos/1968_Oldskool_Gerp_invitation_by_Traktor_Nature_Fatzone.mp4|pms-id:asm15/amiga/845|title:Gerp invitation|youtube:vPNp13oG8dU
 author:Software Failure|guid:1969|pms-id:asm15/amiga/887|title:Short-Circuited|youtube:qhKokUxfqfw
 
 
@@ -92,32 +92,32 @@ author:Software Failure|guid:1969|pms-id:asm15/amiga/887|title:Short-Circuited|y
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
 
-author:ableRex358|guid:2015|pms-id:asm15/short_film/724|title:Wrath of the Cat|youtube:rxfJC6Z-5pI
-author:Randomheads|guid:2016|pms-id:asm15/short_film/758|title:My kotivideo quota is full|youtube:sHIqvf8HuEY
-author:Pistoke|guid:2017|pms-id:asm15/short_film/801|title:Jogging|youtube:o2VwFamiUZk
-author:SBA|guid:2018|pms-id:asm15/short_film/910|title:TIMEOUT|youtube:WOVmrl1AdTk
-author:Rustbloom|guid:2019|pms-id:asm15/short_film/916|title:cay/decay|youtube:s5Dt8Fzsoyc
+author:ableRex358|guid:2015|media:/vod/2015/Compos/2015_Shortfilm_Wrath_of_the_Cat_by_ableRex358.mp4|pms-id:asm15/short_film/724|title:Wrath of the Cat|youtube:rxfJC6Z-5pI
+author:Randomheads|guid:2016|media:/vod/2015/Compos/2016_Shortfilm_My_kotivideo_quota_is_full_by_Randomheads.mp4|pms-id:asm15/short_film/758|title:My kotivideo quota is full|youtube:sHIqvf8HuEY
+author:Pistoke|guid:2017|media:/vod/2015/Compos/2017_Shortfilm_Jogging_by_Pistoke.mp4|pms-id:asm15/short_film/801|title:Jogging|youtube:o2VwFamiUZk
+author:SBA|guid:2018|media:/vod/2015/Compos/2018_Shortfilm_TIMEOUT_by_SBA.mp4|pms-id:asm15/short_film/910|title:TIMEOUT|youtube:WOVmrl1AdTk
+author:Rustbloom|guid:2019|media:/vod/2015/Compos/2019_Shortfilm_caydecay_by_Rustbloom.mp4|pms-id:asm15/short_film/916|title:cay/decay|youtube:s5Dt8Fzsoyc
 
 
 :section Gamedev
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Kaljameri Games|guid:1957|platform:PC|pms-id:asm15/gamedev/695|position:1|techniques:Unreal Engine|title:Running Beer|youtube:wSfFMsXTyto
-author:Verkel, Faeriel + Team Mäyris|guid:1951|platform:Android, Windows|pms-id:asm15/gamedev/678|position:2|techniques:Unity, Blender|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
-author:Tuiske Productions|guid:1946|platform:iOS, Android|pms-id:asm15/gamedev/671|position:3|techniques:Unity3d|title:Armadillo Adventure: Draw & Roll|youtube:iLAgEyqTA5g
-author:Sandy Entertainment|guid:1959|platform:Android|pms-id:asm15/gamedev/698|position:4|techniques:Scrum, skill|title:Pogo Mad|youtube:vcdzkVI2SPo
-author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|guid:1958|platform:PC|pms-id:asm15/gamedev/697|position:5|techniques:Unity, Blender & Copious amounts of caffeine|title:Office Rampage|youtube:StV0WZHrKDg
-author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|platform:Windows|pms-id:asm15/gamedev/684|position:6|techniques:Unity, C#|title:Billion Feet Above|youtube:20ej8skfPQE
-author:Team LiteLight: Hisoka, Khenirtha|guid:1955|platform:Android|pms-id:asm15/gamedev/690|position:7|techniques:Unity, Maya, Photoshop|title:Ratchinery|youtube:Renhigfxbb0
-author:One Nerd Army|guid:1950|platform:PC|pms-id:asm15/gamedev/676|position:8|techniques:Unity3D|title:Starcore|youtube:_t69PF3SNLw
-author:BoxFort|guid:1956|platform:PC|pms-id:asm15/gamedev/693|position:9|techniques:Unreal Engine 4|title:Cavengers|youtube:ZPnwyCBsDP4
-author:Worldspawn, Shreddingdragon, Szabi|guid:1954|platform:PC|pms-id:asm15/gamedev/687|position:10|techniques:Unitü|title:RoboSmash|youtube:p3NG2BAN340
-author:BitByByte Creations|guid:1945|platform:PC|pms-id:asm15/gamedev/669|position:11|techniques:Unity C#|title:Project Planetshock|youtube:izBGuxh4_T0
-author:Major Game Company|guid:1952|platform:PC|pms-id:asm15/gamedev/683|position:12|techniques:Unreal Engine 4, Mad racing skills|title:Combat Racers|youtube:dsW3MX65yEg
-author:Team Nr. 5|guid:1949|platform:PC|pms-id:asm15/gamedev/675|position:13|techniques:Unity, 3Ds Max, Photoshop|title:The Flattening|youtube:xz-BSeHVVpg
-author:BanaaniPojat|guid:1947|platform:PC|pms-id:asm15/gamedev/673|position:14|techniques:Unreal Engine 4|title:Mayhem Punch|youtube:ca3XBtsM6F8
-author:Roistot|guid:1948|platform:PC|pms-id:asm15/gamedev/674|position:15|techniques:Unreal Engine 4|title:Casual Mercs|youtube:WKFD0aWY44c
+author:Kaljameri Games|guid:1957|media:/vod/2015/Compos/1957_Gamedev_Running_Beer_by_Kaljameri_Games.mp4|platform:PC|pms-id:asm15/gamedev/695|position:1|techniques:Unreal Engine|title:Running Beer|youtube:wSfFMsXTyto
+author:Verkel, Faeriel + Team Mäyris|guid:1951|media:/vod/2015/Compos/1951_Gamedev_Hot_Doggety_by_Team_Mayris.mp4|platform:Android, Windows|pms-id:asm15/gamedev/678|position:2|techniques:Unity, Blender|title:Hot Doggety! / Mäyris|youtube:3mt2ODZXhBU
+author:Tuiske Productions|guid:1946|media:/vod/2015/Compos/1946_Gamedev_Armadillo_Adventure_Draw__Roll_by_Tuiske_Productions.mp4|platform:iOS, Android|pms-id:asm15/gamedev/671|position:3|techniques:Unity3d|title:Armadillo Adventure: Draw & Roll|youtube:iLAgEyqTA5g
+author:Sandy Entertainment|guid:1959|media:/vod/2015/Compos/1959_Gamedev_Pogo_Mad_by_Sandy_Entertainment.mp4|platform:Android|pms-id:asm15/gamedev/698|position:4|techniques:Scrum, skill|title:Pogo Mad|youtube:vcdzkVI2SPo
+author:N Heinonen, J Salonen, T Ruuskanen & M Seidler|guid:1958|media:/vod/2015/Compos/1958_Gamedev_Office_Rampage_by_N_Heinonen_et_all.mp4|platform:PC|pms-id:asm15/gamedev/697|position:5|techniques:Unity, Blender & Copious amounts of caffeine|title:Office Rampage|youtube:StV0WZHrKDg
+author:Acid Weasel Entertainment (Valtteri Järvinen, Hanna Nivala, Sami Hoppula, Marko Ruotsalainen, Tuomas Pakkanen, Manu Mäkinen)|guid:1953|media:/vod/2015/Compos/1953_Gamedev_Billion_Feet_Above_by_Acid_Weasel_Entertainment.mp4|platform:Windows|pms-id:asm15/gamedev/684|position:6|techniques:Unity, C#|title:Billion Feet Above|youtube:20ej8skfPQE
+author:Team LiteLight: Hisoka, Khenirtha|guid:1955|media:/vod/2015/Compos/1955_Gamedev_Ratchinery_by_Team_LiteLight_Hisoka_Khenirtha.mp4|platform:Android|pms-id:asm15/gamedev/690|position:7|techniques:Unity, Maya, Photoshop|title:Ratchinery|youtube:Renhigfxbb0
+author:One Nerd Army|guid:1950|media:/vod/2015/Compos/1950_Gamedev_Starcore_by_One_Nerd_Army.mp4|platform:PC|pms-id:asm15/gamedev/676|position:8|techniques:Unity3D|title:Starcore|youtube:_t69PF3SNLw
+author:BoxFort|guid:1956|media:/vod/2015/Compos/1956_Gamedev_Cavengers_by_BoxFort.mp4|platform:PC|pms-id:asm15/gamedev/693|position:9|techniques:Unreal Engine 4|title:Cavengers|youtube:ZPnwyCBsDP4
+author:Worldspawn, Shreddingdragon, Szabi|guid:1954|media:/vod/2015/Compos/1954_Gamedev_RoboSmash_by_Worldspawn_Shreddingdragon_Szabi.mp4|platform:PC|pms-id:asm15/gamedev/687|position:10|techniques:Unitü|title:RoboSmash|youtube:p3NG2BAN340
+author:BitByByte Creations|guid:1945|media:/vod/2015/Compos/1945_Gamedev_Project_Planetshock_by_BitByByte_Creations.mp4|platform:PC|pms-id:asm15/gamedev/669|position:11|techniques:Unity C#|title:Project Planetshock|youtube:izBGuxh4_T0
+author:Major Game Company|guid:1952|media:/vod/2015/Compos/1952_Gamedev_Combat_Racers_by_Major_Game_Company.mp4|platform:PC|pms-id:asm15/gamedev/683|position:12|techniques:Unreal Engine 4, Mad racing skills|title:Combat Racers|youtube:dsW3MX65yEg
+author:Team Nr. 5|guid:1949|media:/vod/2015/Compos/1949_Gamedev_The_Flattening_by_Team_Nr_5.mp4|platform:PC|pms-id:asm15/gamedev/675|position:13|techniques:Unity, 3Ds Max, Photoshop|title:The Flattening|youtube:xz-BSeHVVpg
+author:BanaaniPojat|guid:1947|media:/vod/2015/Compos/1947_Gamedev_Mayhem_Punch_by_BanaaniPojat.mp4|platform:PC|pms-id:asm15/gamedev/673|position:14|techniques:Unreal Engine 4|title:Mayhem Punch|youtube:ca3XBtsM6F8
+author:Roistot|guid:1948|media:/vod/2015/Compos/1948_Gamedev_Casual_Mercs_by_Roistot.mp4|platform:PC|pms-id:asm15/gamedev/674|position:15|techniques:Unreal Engine 4|title:Casual Mercs|youtube:WKFD0aWY44c
 
 
 :section Listening music
@@ -250,8 +250,10 @@ author:MacGywer/npli|image-file:fast-graphics/cream-whipper.jpg|platform:12g cap
 author:AssemblyTV seminars|description:Our journey through acquisition and about building communities|guid:1846|title:ARTtech: Our journey through acquisition and about building communities|youtube:eNuTp00LnKw
 author:AssemblyTV seminars|description:How to drive Ahead! In gaming|guid:1849|media:/vod/2015/Seminars/1849_ARTtech_How_to_drive_Ahead_In_gaming_2.mp4|title:ARTtech: How to drive Ahead! In gaming|youtube:fEsNKB9yFrA
 author:AssemblyTV seminars|description:Gaming for the career panel|guid:1856|media:/vod/2015/Seminars/1856_ARTtech_Gaming_for.mp4|title:ARTtech: Gaming for the career panel|youtube:UPs6sZcSjiM
-author:AssemblyTV seminars|description:eSports and youth work|guid:1857|title:ARTtech: eSports and youth work|youtube:BR29RTNRw2w
-author:AssemblyTV seminars|description:Revising academic curricula for game research|guid:1858|title:ARTtech: Revising academic curricula for game research|youtube:sD28rV11mFw
+author:AssemblyTV seminars|description:eSports and youth work|guid:1857|media:/vod/2015/Seminars/1857_ARTtech_eSports_and_youth_work.mp4|title:ARTtech: eSports and youth work|youtube:BR29RTNRw2w
+author:AssemblyTV seminars|description:Revising academic curricula for game research|guid:1858|media:/vod/2015/Seminars/1858_ARTtech_Revising_academic_curricula_for_game_research.mp4|title:ARTtech: Revising academic curricula for game research|youtube:sD28rV11mFw
+author:AssemblyTV seminars|description:Modern 3D game art workflow demo|guid:1860|media:/vod/2015/Seminars/1860_ARTtech_Modern_3D_game_art_workflow_demo.mp4|title:ARTtech: Modern 3D game art workflow demo|youtube:xo_NvkusX00
+author:AssemblyTV seminars|description:Rendering of virtual reality in Pollen|guid:1874|media:/vod/2015/Seminars/1874_ARTtech_Rendering_of_virtual_reality_in_Pollen.mp4|title:ARTtech: Rendering of virtual reality in Pollen|youtube:Yu3a3QoJJ60
 
 
 :section AssemblyTV
@@ -276,9 +278,10 @@ author:AssemblyTV|description:Discussion about the entries of the Dance music co
 author:AssemblyTV|guid:2000|media:/vod/2015/AssemblyTV/2000_asmtitu_voittaja.mp4|title:Instagram competition winner announcement|youtube:FucGi8I4fCk
 author:AssemblyTV|description:Oldskool demo compostudio|guid:1918|title:Oldskool demo compostudio|youtube:JLrWnN6Xwyk
 author:AssemblyTV|guid:2009|media:/vod/2015/AssemblyTV/2009_asmfiilikset.mp4|title:Instagram competition #2|youtube:Hdge7Am-6FE
-author:AssemblyTV|guid:1892|media:/vod/2013/AssemblyTV/1576_Prize_ceremony_1.mp4|title:Prize ceremony 1|youtube:vXPl7c42P7o
-author:AssemblyTV|description:The Game is ON! This is how the AMD CS:GO Challenge arenas look like.Music: Zode - puolentunnin espärinät (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2020|title:The game is on|youtube:bM4_ouvPyMI
-author:AssemblyTV|guid:2021|title:ASM Game Jam 2015|youtube:jQPs1W_uSGo
+author:AssemblyTV|guid:1892|media:/vod/2015/AssemblyTV/1892_Prize_ceremony_1.mp4|title:Prize ceremony 1|youtube:vXPl7c42P7o
+author:AssemblyTV|description:The Game is ON! This is how the AMD CS:GO Challenge arenas look like.Music: Zode - puolentunnin espärinät (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2020|media:/vod/2015/AssemblyTV/2020_thegameison.mp4|title:The game is on|youtube:bM4_ouvPyMI
+author:AssemblyTV|guid:2021|media:/vod/2015/AssemblyTV/2021_asmgamejam.mp4|title:ASM Game Jam 2015|youtube:jQPs1W_uSGo
+author:AssemblyTV|description:Discussion about the entries of the Short film compo|guid:1896|media:/vod/2015/AssemblyTV/1896_Short_film_compostudio.mp4|title:Short film compo compostudio|youtube:l0Bl9JYIH20
 
 
 :section eSports
@@ -324,10 +327,11 @@ author:AssemblyTV|guid:1996|media:/vod/2015/Games/1996_ASUS_ROG_Summer_2015_HS__
 author:AssemblyTV|guid:1997|media:/vod/2015/Games/1997_ASUS_ROG_Summer_2015_HS__ThijsNL_vs_Shoop.mp4|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Shoop|youtube:VGKpv4mn6F8
 author:AssemblyTV|guid:1998|media:/vod/2015/Games/1998_ASUS_ROG_Summer_2015_HS__Gameking_vs_Hoej.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Hoej|youtube:TaxvqvKzx0s
 author:AssemblyTV|guid:1999|media:/vod/2015/Games/1999_ASUS_ROG_Summer_2015_HS__Gameking_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Tom60229|youtube:F12pLUh_WmA
-author:AssemblyTV|guid:2001|title:ASUS ROG Summer 2015 HS - Lifecoach vs. Powder|youtube:P58BFnvaPRc
-author:AssemblyTV|guid:2002|title:Late Night Snack|youtube:Sx6aTw1eqvw
-author:AssemblyTV|guid:2010|title:ASUS ROG Summer 2015 HS - Hoej vs. Martincreek|youtube:OioXjuDG8YI
-author:AssemblyTV|guid:2013|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Vortex|youtube:-lWHf0HOkYA
+author:AssemblyTV|guid:2001|media:/vod/2015/Games/2001_ASUS_ROG_Summer_2015_HS__Lifecoach_vs_Powder.mp4|title:ASUS ROG Summer 2015 HS - Lifecoach vs. Powder|youtube:P58BFnvaPRc
+author:AssemblyTV|guid:2002|media:/vod/2015/Games/2002_Late_Night_Snack.mp4|title:Late Night Snack|youtube:Sx6aTw1eqvw
+author:AssemblyTV|guid:2010|media:/vod/2015/Games/2010_ASUS_ROG_Summer_2015_HS__Hoej_vs_Martincreek.mp4|title:ASUS ROG Summer 2015 HS - Hoej vs. Martincreek|youtube:OioXjuDG8YI
+author:AssemblyTV|guid:2013|media:/vod/2015/Games/2013_ASUS_ROG_Summer_2015_HS__ThijsNL_vs_Vortex.mp4|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Vortex|youtube:-lWHf0HOkYA
+author:AssemblyTV|guid:2014|media:/vod/2015/Games/2014_ASUS_ROG_Summer_2015_HS__Ostkaka_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Ostkaka vs. Tom60229|youtube:_OMdUb2kumc
 
 
 :section Winter
