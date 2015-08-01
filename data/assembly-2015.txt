@@ -4,7 +4,7 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2015 PC computer.</p>
 :ongoing true
-:public false
+:public-after 2015-08-02 01:30+0300
 
 
 
@@ -12,7 +12,7 @@
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2015 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public false
+:public-after 2015-08-01 20:15+0300
 
 
 
@@ -37,8 +37,7 @@ author:The Usual Suspects|guid:1980|pms-id:asm15/1k_intro/900|title:Varifrån 76
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public false
-
+:public-after 2015-08-01 19:00+0300
 
 
 :section Amiga demo
@@ -61,8 +60,12 @@ author:Software Failure|guid:1969|pms-id:asm15/amiga/887|title:Short-Circuited|y
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public false
 
+author:ableRex358|guid:2015|pms-id:asm15/short_film/724|title:Wrath of the Cat|youtube:rxfJC6Z-5pI
+author:Randomheads|guid:2016|pms-id:asm15/short_film/758|title:My kotivideo quota is full|youtube:sHIqvf8HuEY
+author:Pistoke|guid:2017|pms-id:asm15/short_film/801|title:Jogging|youtube:o2VwFamiUZk
+author:SBA|guid:2018|pms-id:asm15/short_film/910|title:TIMEOUT|youtube:WOVmrl1AdTk
+author:Rustbloom|guid:2019|pms-id:asm15/short_film/916|title:cay/decay|youtube:s5Dt8Fzsoyc
 
 
 :section Gamedev
@@ -242,6 +245,9 @@ author:AssemblyTV|description:Discussion about the entries of the Dance music co
 author:AssemblyTV|guid:2000|media:/vod/2015/AssemblyTV/2000_asmtitu_voittaja.mp4|title:Instagram competition winner announcement|youtube:FucGi8I4fCk
 author:AssemblyTV|description:Oldskool demo compostudio|guid:1918|title:Oldskool demo compostudio|youtube:JLrWnN6Xwyk
 author:AssemblyTV|guid:2009|media:/vod/2015/AssemblyTV/2009_asmfiilikset.mp4|title:Instagram competition #2|youtube:Hdge7Am-6FE
+author:AssemblyTV|guid:1892|media:/vod/2013/AssemblyTV/1576_Prize_ceremony_1.mp4|title:Prize ceremony 1|youtube:vXPl7c42P7o
+author:AssemblyTV|description:The Game is ON! This is how the AMD CS:GO Challenge arenas look like.Music: Zode - puolentunnin espärinät (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2020|title:The game is on|youtube:bM4_ouvPyMI
+author:AssemblyTV|guid:2021|title:ASM Game Jam 2015|youtube:jQPs1W_uSGo
 
 
 :section eSports
@@ -288,7 +294,9 @@ author:AssemblyTV|guid:1997|media:/vod/2015/Games/1997_ASUS_ROG_Summer_2015_HS__
 author:AssemblyTV|guid:1998|media:/vod/2015/Games/1998_ASUS_ROG_Summer_2015_HS__Gameking_vs_Hoej.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Hoej|youtube:TaxvqvKzx0s
 author:AssemblyTV|guid:1999|media:/vod/2015/Games/1999_ASUS_ROG_Summer_2015_HS__Gameking_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Tom60229|youtube:F12pLUh_WmA
 author:AssemblyTV|guid:2001|title:ASUS ROG Summer 2015 HS - Lifecoach vs. Powder|youtube:P58BFnvaPRc
-author:AssemblyTV|guid:2002|title:Late Night Snack
+author:AssemblyTV|guid:2002|title:Late Night Snack|youtube:Sx6aTw1eqvw
+author:AssemblyTV|guid:2010|title:ASUS ROG Summer 2015 HS - Hoej vs. Martincreek|youtube:OioXjuDG8YI
+author:AssemblyTV|guid:2013|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Vortex|youtube:-lWHf0HOkYA
 
 
 :section Winter
