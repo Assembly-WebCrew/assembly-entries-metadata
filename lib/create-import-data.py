@@ -4,7 +4,9 @@ import argparse
 import asmmetadata
 import base64
 import cgi
+import datetime
 import os.path
+import pytz
 import re
 import sys
 import time
@@ -384,8 +386,12 @@ music_thumbnail_asset = """
 asset_data_str = music_thumbnail_asset.encode("utf-8")
 print asset_data_str
 
+now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
+
 for section in entry_data.sections:
     if section.get('public', True) is False:
+        continue
+    if section.get('public-after', now) > now:
         continue
     if len(section['entries']) == 0 and not create_empty_sections:
         continue

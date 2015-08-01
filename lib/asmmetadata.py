@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import cgi
+import dateutil.parser
 import hashlib
 import re
 import urllib
@@ -288,6 +289,8 @@ def parse_file(file_handle):
             elif data_type == ":public":
                 if value.lower() == "false":
                     section['public'] = False
+            elif data_type == ":public-after":
+                section['public-after'] = dateutil.parser.parse(value)
             elif data_type == ":sceneorg":
                 section['sceneorg'] = value
             elif data_type == ":galleriafi":
@@ -350,6 +353,9 @@ def print_metadata(outfile, year_entry_data):
             if section['public'] is False:
                 public_text = "false"
             outfile.write(":public %s\n" % public_text)
+        if 'public-after' in section:
+            public_after_text = section['public-after'].strftime("%Y-%m-%d %H:%M%z")
+            outfile.write(":public-after %s\n" % public_after_text)
         if 'galleriafi' in section:
             outfile.write(":galleriafi %s\n" % section['galleriafi'])
 
