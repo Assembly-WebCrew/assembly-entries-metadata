@@ -222,8 +222,10 @@ author:(author hidden until results)|image-file:fast-graphics/guaget-nosig.png|p
 :elaine-category 2015 Seminars
 
 author:AssemblyTV seminars|description:Our journey through acquisition and about building communities|guid:1846|title:ARTtech: Our journey through acquisition and about building communities|youtube:eNuTp00LnKw
-author:AssemblyTV seminars|description:How to drive Ahead! In gaming|guid:1849|title:ARTtech: How to drive Ahead! In gaming|youtube:fEsNKB9yFrA
-author:AssemblyTV seminars|description:Gaming for the career panel|guid:1856|title:ARTtech: Gaming for the career panel|youtube:UPs6sZcSjiM
+author:AssemblyTV seminars|description:How to drive Ahead! In gaming|guid:1849|media:/vod/2015/Seminars/1849_ARTtech_How_to_drive_Ahead_In_gaming_2.mp4|title:ARTtech: How to drive Ahead! In gaming|youtube:fEsNKB9yFrA
+author:AssemblyTV seminars|description:Gaming for the career panel|guid:1856|media:/vod/2015/Seminars/1856_ARTtech_Gaming_for.mp4|title:ARTtech: Gaming for the career panel|youtube:UPs6sZcSjiM
+author:AssemblyTV seminars|description:eSports and youth work|guid:1857|title:ARTtech: eSports and youth work|youtube:BR29RTNRw2w
+author:AssemblyTV seminars|description:Revising academic curricula for game research|guid:1858|title:ARTtech: Revising academic curricula for game research|youtube:sD28rV11mFw
 
 
 :section AssemblyTV
@@ -244,8 +246,10 @@ author:AssemblyTV|description:Discussion about the entries of the Graphics compo
 author:AssemblyTV|description:We Are Here. Check out, who make this happen.Musiikki: Ketonen – Ulinaa Ulkoavaruudesta (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:1970|media:/vod/2015/AssemblyTV/1970_Assembly-Wearehere.mp4|title:We Are Here|youtube:JrFEKjevex0
 author:AssemblyTV|description:Discussion about the entries of the 1k intro compo|guid:1884|media:/vod/2015/AssemblyTV/1884_1k_intro_compostudio.mp4|title:1k intro compo compostudio|youtube:zTeYiOqyLrc
 author:AssemblyTV|description:Finland vs Sweden on table hockey arena by ElisaMusic: King Thrill / Tekotuotanto – The March of the Wicked (Assembly 2013 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:1985|media:/vod/2015/AssemblyTV/1985_poytalatkaa_by_elisa.mp4|title:Table Hockey by Elisa|youtube:5xLnGvRmUxU
-author:AssemblyTV|description:Discussion about the entries of the Dance music compo|guid:1880|media:/vod/2013/AssemblyTV/1568_Dance_music_compostudio.mp4|title:Dance music compo compostudio|youtube:TgSft3ATfMk
-author:AssemblyTV|guid:2000|title:Instagram competition winner announcement|youtube:FucGi8I4fCk
+author:AssemblyTV|description:Discussion about the entries of the Dance music compo|guid:1880|media:/vod/2015/AssemblyTV/1880_Dance_music_compostudio.mp4|title:Dance music compo compostudio|youtube:TgSft3ATfMk
+author:AssemblyTV|guid:2000|media:/vod/2015/AssemblyTV/2000_asmtitu_voittaja.mp4|title:Instagram competition winner announcement|youtube:FucGi8I4fCk
+author:AssemblyTV|description:Oldskool demo compostudio|guid:1918|title:Oldskool demo compostudio|youtube:JLrWnN6Xwyk
+author:AssemblyTV|guid:2009|media:/vod/2015/AssemblyTV/2009_asmfiilikset.mp4|title:Instagram competition #2|youtube:Hdge7Am-6FE
 
 
 :section eSports
@@ -270,27 +274,29 @@ author:AssemblyTV|guid:1937|media:/vod/2015/Games/1937_ASUS_ROG_Summer_2015_SC2_
 author:AssemblyTV|guid:1938|media:/vod/2015/Games/1938_ASUS_ROG_Summer_2015_SC2__Welmu_vs_StarNaN.mp4|title:ASUS ROG Summer 2015 SC2 - Welmu vs. StarNaN|youtube:RKsFW5xH9sU
 author:AssemblyTV|guid:1939|media:/vod/2015/Games/1939_ASUS_ROG_Summer_2015_SC2__LiquidTLO_vs_True.mp4|title:ASUS ROG Summer 2015 SC2 - LiquidTLO vs. True|youtube:fHcAUiyd0Dw
 author:AssemblyTV|guid:1940|media:/vod/2015/Games/1940_ASUS_ROG_Summer_2015_SC2__FanTaSy_vs_Lilbow.mp4|title:ASUS ROG Summer 2015 SC2 - FanTaSy vs. Lilbow|youtube:Yr-j2SngYM0
-author:AssemblyTV|guid:1941|title:ASUS ROG Summer 2015 SC2 - FanTaSy vs. True|youtube:naAMi8qX4lk
-author:AssemblyTV|guid:1942|title:ASUS ROG Summer 2015 SC2 - LiquidTLO vs. Lilbow|youtube:g81OtLtpDy0
-author:AssemblyTV|guid:1943|title:ASUS ROG Summer 2015 SC2 - Lilbow vs. True|youtube:GC7jYS1C77g
-author:AssemblyTV|guid:1981|title:ASUS ROG Summer 2015 HS -  Dizdemon vs. ThijsNL|youtube:HrqFNF1rmsc
-author:AssemblyTV|guid:1982|title:ASUS ROG Summer 2015 HS -  Swissking vs. Vortex|youtube:Qa-d0CooTMQ
-author:AssemblyTV|guid:1983|title:ASUS ROG Summer 2015 HS - Fabinouze vs. Gaara|youtube:RdLxhFk43k8
-author:AssemblyTV|guid:1984|title:ASUS ROG Summer 2015 HS - Mortalp vs. Lifecoach|youtube:z5UEjwD9_vg
-author:AssemblyTV|guid:1986|title:ASUS ROG Summer 2015 HS - Hoej vs. Lifecoach|youtube:-9yjI8fabOo
-author:AssemblyTV|guid:1987|title:ASUS ROG Summer 2015 HS - Neirea vs. Shoop|youtube:fRQDPwTRjwk
-author:AssemblyTV|guid:1988|title:ASUS ROG Summer 2015 SC2 -  Apocalypse vs. PtitDrogo|youtube:_QggJ7V5BLA
-author:AssemblyTV|guid:1989|title:ASUS ROG Summer 2015 SC2 -  True vs. Hyun|youtube:H6KLXEqIG5s
-author:AssemblyTV|guid:1990|title:ASUS ROG Summer 2015 SC2 -  BBoongBBoong vs. FanTaSy|youtube:4MmlnfXz1ZQ
-author:AssemblyTV|guid:1991|title:ASUS ROG Summer 2015 SC2 -  KeeN vs. Losira|youtube:jDGV6f9dAqw
-author:AssemblyTV|guid:1992|title:ASUS ROG Summer 2015 SC2 -  PtitDrogo vs. Hyun|youtube:U-BMXfPOiNU
-author:AssemblyTV|guid:1993|title:ASUS ROG Summer 2015 SC2 -  Losira vs. BBoongBBoong|youtube:RbUdzcds0ws
-author:AssemblyTV|guid:1994|title:ASUS ROG Summer 2015 SC2 -  PtitDrogo vs. Losira|youtube:adXJtFPzDkU
-author:AssemblyTV|guid:1995|title:ASUS ROG Summer 2015 HS - Ostkaka vs. Rdu|youtube:vfkqofgpGp4
-author:AssemblyTV|guid:1996|title:ASUS ROG Summer 2015 HS - Powder vs. Rdu|youtube:VEC7bXQLUJs
-author:AssemblyTV|guid:1997|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Shoop|youtube:VGKpv4mn6F8
-author:AssemblyTV|guid:1998|title:ASUS ROG Summer 2015 HS - Gameking vs. Hoej|youtube:TaxvqvKzx0s
-author:AssemblyTV|guid:1999|title:ASUS ROG Summer 2015 HS - Gameking vs. Tom60229|youtube:F12pLUh_WmA
+author:AssemblyTV|guid:1941|media:/vod/2015/Games/1941_ASUS_ROG_Summer_2015_SC2__FanTaSy_vs_True.mp4|title:ASUS ROG Summer 2015 SC2 - FanTaSy vs. True|youtube:naAMi8qX4lk
+author:AssemblyTV|guid:1942|media:/vod/2015/Games/1942_ASUS_ROG_Summer_2015_SC2__LiquidTLO_vs_Lilbow.mp4|title:ASUS ROG Summer 2015 SC2 - LiquidTLO vs. Lilbow|youtube:g81OtLtpDy0
+author:AssemblyTV|guid:1943|media:/vod/2015/Games/1943_ASUS_ROG_Summer_2015_SC2__Lilbow_vs_True.mp4|title:ASUS ROG Summer 2015 SC2 - Lilbow vs. True|youtube:GC7jYS1C77g
+author:AssemblyTV|guid:1981|media:/vod/2015/Games/1981_ASUS_ROG_Summer_2015_HS___Dizdemon_vs_ThijsNL.mp4|title:ASUS ROG Summer 2015 HS -  Dizdemon vs. ThijsNL|youtube:HrqFNF1rmsc
+author:AssemblyTV|guid:1982|media:/vod/2015/Games/1982_ASUS_ROG_Summer_2015_HS___Swissking_vs_Vortex.mp4|title:ASUS ROG Summer 2015 HS -  Swissking vs. Vortex|youtube:Qa-d0CooTMQ
+author:AssemblyTV|guid:1983|media:/vod/2015/Games/1983_ASUS_ROG_Summer_2015_HS__Fabinouze_vs_Gaara.mp4|title:ASUS ROG Summer 2015 HS - Fabinouze vs. Gaara|youtube:RdLxhFk43k8
+author:AssemblyTV|guid:1984|media:/vod/2015/Games/1984_ASUS_ROG_Summer_2015_HS__Mortalp_vs_Lifecoach.mp4|title:ASUS ROG Summer 2015 HS - Mortalp vs. Lifecoach|youtube:z5UEjwD9_vg
+author:AssemblyTV|guid:1986|media:/vod/2015/Games/1986_ASUS_ROG_Summer_2015_HS__Hoej_vs_Lifecoach.mp4|title:ASUS ROG Summer 2015 HS - Hoej vs. Lifecoach|youtube:-9yjI8fabOo
+author:AssemblyTV|guid:1987|media:/vod/2015/Games/1987_ASUS_ROG_Summer_2015_HS__Neirea_vs_Shoop.mp4|title:ASUS ROG Summer 2015 HS - Neirea vs. Shoop|youtube:fRQDPwTRjwk
+author:AssemblyTV|guid:1988|media:/vod/2015/Games/1988_ASUS_ROG_Summer_2015_SC2___Apocalypse_vs_PtitDrogo.mp4|title:ASUS ROG Summer 2015 SC2 -  Apocalypse vs. PtitDrogo|youtube:_QggJ7V5BLA
+author:AssemblyTV|guid:1989|media:/vod/2015/Games/1989_ASUS_ROG_Summer_2015_SC2___True_vs_Hyun.mp4|title:ASUS ROG Summer 2015 SC2 -  True vs. Hyun|youtube:H6KLXEqIG5s
+author:AssemblyTV|guid:1990|media:/vod/2015/Games/1990_ASUS_ROG_Summer_2015_SC2___BBoongBBoong_vs_FanTaSy.mp4|title:ASUS ROG Summer 2015 SC2 -  BBoongBBoong vs. FanTaSy|youtube:4MmlnfXz1ZQ
+author:AssemblyTV|guid:1991|media:/vod/2015/Games/1991_ASUS_ROG_Summer_2015_SC2___KeeN_vs_Losira.mp4|title:ASUS ROG Summer 2015 SC2 -  KeeN vs. Losira|youtube:jDGV6f9dAqw
+author:AssemblyTV|guid:1992|media:/vod/2015/Games/1992_ASUS_ROG_Summer_2015_SC2___PtitDrogo_vs_Hyun.mp4|title:ASUS ROG Summer 2015 SC2 -  PtitDrogo vs. Hyun|youtube:U-BMXfPOiNU
+author:AssemblyTV|guid:1993|media:/vod/2015/Games/1993_ASUS_ROG_Summer_2015_SC2___Losira_vs_BBoongBBoong.mp4|title:ASUS ROG Summer 2015 SC2 -  Losira vs. BBoongBBoong|youtube:RbUdzcds0ws
+author:AssemblyTV|guid:1994|media:/vod/2015/Games/1994_ASUS_ROG_Summer_2015_SC2___PtitDrogo_vs_Losira.mp4|title:ASUS ROG Summer 2015 SC2 -  PtitDrogo vs. Losira|youtube:adXJtFPzDkU
+author:AssemblyTV|guid:1995|media:/vod/2015/Games/1995_ASUS_ROG_Summer_2015_HS__Ostkaka_vs_Rdu.mp4|title:ASUS ROG Summer 2015 HS - Ostkaka vs. Rdu|youtube:vfkqofgpGp4
+author:AssemblyTV|guid:1996|media:/vod/2015/Games/1996_ASUS_ROG_Summer_2015_HS__Powder_vs_Rdu.mp4|title:ASUS ROG Summer 2015 HS - Powder vs. Rdu|youtube:VEC7bXQLUJs
+author:AssemblyTV|guid:1997|media:/vod/2015/Games/1997_ASUS_ROG_Summer_2015_HS__ThijsNL_vs_Shoop.mp4|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Shoop|youtube:VGKpv4mn6F8
+author:AssemblyTV|guid:1998|media:/vod/2015/Games/1998_ASUS_ROG_Summer_2015_HS__Gameking_vs_Hoej.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Hoej|youtube:TaxvqvKzx0s
+author:AssemblyTV|guid:1999|media:/vod/2015/Games/1999_ASUS_ROG_Summer_2015_HS__Gameking_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Tom60229|youtube:F12pLUh_WmA
+author:AssemblyTV|guid:2001|title:ASUS ROG Summer 2015 HS - Lifecoach vs. Powder|youtube:P58BFnvaPRc
+author:AssemblyTV|guid:2002|title:Late Night Snack
 
 
 :section Winter
