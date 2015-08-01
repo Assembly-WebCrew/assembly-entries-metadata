@@ -29,17 +29,17 @@ author:Ekspert|pms-id:asm15/demo/930|title:DEMO2
 :ongoing true
 :public-after 2015-08-01 20:15+0300
 
-author:rimina / Paraguay|guid:2027|pms-id:asm15/4k_intro/709|title:Dreaming Surrealist|youtube:fHwbxuMVPDI
-author:Faemiyah|guid:2028|pms-id:asm15/4k_intro/742|title:Ghosts of Mars|youtube:mu8r_z13Tv8
-author:oo|guid:2029|pms-id:asm15/4k_intro/776|title:Beyond The Border|youtube:Wt35Gg8ecII
-author:TDA|guid:2030|pms-id:asm15/4k_intro/778|title:Recede|youtube:BOXTYZ5-_yw
-author:provod/yolp|guid:2031|pms-id:asm15/4k_intro/902|title:unzoom|youtube:BG25vV_G1fU
-author:diedos|guid:2032|pms-id:asm15/4k_intro/905|title:Hello World|youtube:4jA4bR4rJ4I
-author:Jontte, cyndis, jnalanko|guid:2033|pms-id:asm15/4k_intro/908|title:Strata|youtube:swjn-PoQK2o
-author:lucid|guid:2034|pms-id:asm15/4k_intro/920|title:Cube Demolition|youtube:8CtwqYunC_8
-author:Prismbeings|guid:2035|pms-id:asm15/4k_intro/922|title:Hydrokinetics|youtube:tbdmm2ZOBmg
-author:Unknown Artists|guid:2036|pms-id:asm15/4k_intro/924|title:Void Radiant|youtube:PB3szUW7278
-author:Walther|guid:2037|pms-id:asm15/4k_intro/929|title:clrfl shdr|youtube:qP0YmQYt-Qw
+author:rimina / Paraguay|guid:2027|media:/vod/2015/Compos/2027_4k_Dreaming_Surrealist_by_rimina__Paraguay.mp4|pms-id:asm15/4k_intro/709|title:Dreaming Surrealist|youtube:fHwbxuMVPDI
+author:Faemiyah|guid:2028|media:/vod/2015/Compos/2028_4k_Ghosts_of_Mars_by_Faemiyah.mp4|pms-id:asm15/4k_intro/742|title:Ghosts of Mars|youtube:mu8r_z13Tv8
+author:oo|guid:2029|media:/vod/2015/Compos/2029_4k_Beyond_The_Border_by_oo.mp4|pms-id:asm15/4k_intro/776|title:Beyond The Border|youtube:Wt35Gg8ecII
+author:TDA|guid:2030|media:/vod/2015/Compos/2030_4k_Recede_by_TDA.mp4|pms-id:asm15/4k_intro/778|title:Recede|youtube:BOXTYZ5-_yw
+author:provod/yolp|guid:2031|media:/vod/2015/Compos/2031_4k_unzoom_by_provodyolp.mp4|pms-id:asm15/4k_intro/902|title:unzoom|youtube:BG25vV_G1fU
+author:diedos|guid:2032|media:/vod/2015/Compos/2032_4k_Hello_World_by_diedos.mp4|pms-id:asm15/4k_intro/905|title:Hello World|youtube:4jA4bR4rJ4I
+author:Jontte, cyndis, jnalanko|guid:2033|media:/vod/2015/Compos/2033_4k_Strata_by_Jontte_cyndis_jnalanko.mp4|pms-id:asm15/4k_intro/908|title:Strata|youtube:swjn-PoQK2o
+author:lucid|guid:2034|media:/vod/2015/Compos/2034_4k_Cube_Demolition_by_lucid.mp4|pms-id:asm15/4k_intro/920|title:Cube Demolition|youtube:8CtwqYunC_8
+author:Prismbeings|guid:2035|media:/vod/2015/Compos/2035_4k_Hydrokinetics_by_Prismbeings.mp4|pms-id:asm15/4k_intro/922|title:Hydrokinetics|youtube:tbdmm2ZOBmg
+author:Unknown Artists|guid:2036|media:/vod/2015/Compos/2036_4k_Void_Radiant_by_Unknown_Artists.mp4|pms-id:asm15/4k_intro/924|title:Void Radiant|youtube:PB3szUW7278
+author:Walther|guid:2037|media:/vod/2015/Compos/2037_4k_clrfl_shdr_by_Walther.mp4|pms-id:asm15/4k_intro/929|title:clrfl shdr|youtube:qP0YmQYt-Qw
 
 
 :section 1k intro
@@ -254,7 +254,7 @@ author:AssemblyTV seminars|description:eSports and youth work|guid:1857|media:/v
 author:AssemblyTV seminars|description:Revising academic curricula for game research|guid:1858|media:/vod/2015/Seminars/1858_ARTtech_Revising_academic_curricula_for_game_research.mp4|title:ARTtech: Revising academic curricula for game research|youtube:sD28rV11mFw
 author:AssemblyTV seminars|description:Modern 3D game art workflow demo|guid:1860|media:/vod/2015/Seminars/1860_ARTtech_Modern_3D_game_art_workflow_demo.mp4|title:ARTtech: Modern 3D game art workflow demo|youtube:xo_NvkusX00
 author:AssemblyTV seminars|description:Rendering of virtual reality in Pollen|guid:1874|media:/vod/2015/Seminars/1874_ARTtech_Rendering_of_virtual_reality_in_Pollen.mp4|title:ARTtech: Rendering of virtual reality in Pollen|youtube:Yu3a3QoJJ60
-author:AssemblyTV seminars|description:8 (or more) steps to making your next Assembly demo|guid:1882|title:ARTtech: 8 (or more) steps to making your next Assembly demo|youtube:smVx6AlXcwM
+author:AssemblyTV seminars|description:8 (or more) steps to making your next Assembly demo|guid:1882|media:/vod/2015/Seminars/1882_ARTtech_8_or_more_steps_to_making_your_next_Assembly_demo.mp4|title:ARTtech: 8 (or more) steps to making your next Assembly demo|youtube:smVx6AlXcwM
 
 
 :section AssemblyTV
@@ -283,9 +283,9 @@ author:AssemblyTV|guid:1892|media:/vod/2015/AssemblyTV/1892_Prize_ceremony_1.mp4
 author:AssemblyTV|description:The Game is ON! This is how the AMD CS:GO Challenge arenas look like.Music: Zode - puolentunnin espärinät (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2020|media:/vod/2015/AssemblyTV/2020_thegameison.mp4|title:The game is on|youtube:bM4_ouvPyMI
 author:AssemblyTV|guid:2021|media:/vod/2015/AssemblyTV/2021_asmgamejam.mp4|title:ASM Game Jam 2015|youtube:jQPs1W_uSGo
 author:AssemblyTV|description:Discussion about the entries of the Short film compo|guid:1896|media:/vod/2015/AssemblyTV/1896_Short_film_compostudio.mp4|title:Short film compo compostudio|youtube:l0Bl9JYIH20
-author:AssemblyTV|description:Discussion about the entries of the Real wild demo compo|guid:1902|title:Real wild demo compo compostudio|youtube:6LN0fDtjknU
-author:AssemblyTV|description:Robots fighting at AssemblyMusic: Duality Vile – Alloy Lantern Stage (Assembly 2012 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2022|title:Robot Fight!|youtube:lk-__4NFGwY
-author:AssemblyTV|guid:2038|title:What games are played in ASM'15|youtube:fgSOlHiCfko
+author:AssemblyTV|description:Discussion about the entries of the Real wild demo compo|guid:1902|media:/vod/2015/AssemblyTV/1902_Real_Wild_compostudio.mp4|title:Real wild demo compo compostudio|youtube:6LN0fDtjknU
+author:AssemblyTV|description:Robots fighting at AssemblyMusic: Duality Vile – Alloy Lantern Stage (Assembly 2012 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2022|media:/vod/2015/AssemblyTV/2022_robotfight.mp4|title:Robot Fight!|youtube:lk-__4NFGwY
+author:AssemblyTV|guid:2038|media:/vod/2015/AssemblyTV/2038_asm15_mita_pelataan.mp4|title:What games are played in ASM'15|youtube:fgSOlHiCfko
 
 
 :section eSports
