@@ -6,21 +6,21 @@
 :ongoing true
 :public-after 2015-08-02 01:30+0300
 
-author:Quadtrip|pms-id:asm15/demo/705|title:Divination
-author:KoomaDot|pms-id:asm15/demo/904|title:T.U.B.E.S
-author:Andromeda Software Development|pms-id:asm15/demo/909|title:Monolith
-author:JUGI/JUGZ|pms-id:asm15/demo/912|title:MINISTRY SOUND
-author:Primitive|pms-id:asm15/demo/914|title:I Want To See Small Worlds
-author:the Royal Elite Ninjas inc.|pms-id:asm15/demo/915|title:Encore
-author:CNCD & Fairlight|pms-id:asm15/demo/918|title:Hold-And-Modify
-author:Pyrotech|pms-id:asm15/demo/919|title:Ratavah
-author:Epoch ft. Trio Tampere|pms-id:asm15/demo/921|title:EMIX
-author:Wide Load|pms-id:asm15/demo/923|title:Air to Ground
-author:Paraguay|pms-id:asm15/demo/925|title:No Fear
-author:HACKERS|pms-id:asm15/demo/926|title:Cyber-Virtual Life Form
-author:the not yet rusty collective|pms-id:asm15/demo/927|title:Watercolour space
+author:Quadtrip|guid:2043|pms-id:asm15/demo/705|title:Divination|youtube:1UNS9VcUoug
+author:KoomaDot|guid:2044|pms-id:asm15/demo/904|title:T.U.B.E.S|youtube:RNxp022GZgk
+author:Andromeda Software Development|guid:2045|pms-id:asm15/demo/909|title:Monolith|youtube:VD8c8XagJms
+author:JUGI/JUGZ|guid:2046|pms-id:asm15/demo/912|title:MINISTRY SOUND|youtube:WMZLLlWT1nQ
+author:Primitive|guid:2047|pms-id:asm15/demo/914|title:I Want To See Small Worlds|youtube:HKx516FbA44
+author:the Royal Elite Ninjas inc.|guid:2048|pms-id:asm15/demo/915|title:Encore|youtube:7L9OEsQD-XY
+author:CNCD & Fairlight|guid:2049|pms-id:asm15/demo/918|title:Hold-And-Modify|youtube:idOK0JlRhZY
+author:Pyrotech|guid:2050|pms-id:asm15/demo/919|title:Ratavah|youtube:GAG8GTXQEVo
+author:Epoch ft. Trio Tampere|guid:2051|pms-id:asm15/demo/921|title:EMIX|youtube:SYG9zU_bd6U
+author:Wide Load|guid:2052|pms-id:asm15/demo/923|title:Air to Ground|youtube:anJpNhGalc0
+author:Paraguay|guid:2053|pms-id:asm15/demo/925|title:No Fear|youtube:b0QbQ6op4pM
+author:HACKERS|guid:2054|pms-id:asm15/demo/926|title:Cyber-Virtual Life Form|youtube:sEng6Xq3mxU
+author:the not yet rusty collective|guid:2055|pms-id:asm15/demo/927|title:Watercolour space|youtube:uSG6D_znukI
 author:adapt|pms-id:asm15/demo/928|title:<DRiLLER
-author:Ekspert|pms-id:asm15/demo/930|title:DEMO2
+author:Ekspert|guid:2057|pms-id:asm15/demo/930|title:DEMO2|youtube:wzMmzqio9sA
 
 
 :section 4k intro
@@ -38,7 +38,7 @@ author:diedos|guid:2032|media:/vod/2015/Compos/2032_4k_Hello_World_by_diedos.mp4
 author:Jontte, cyndis, jnalanko|guid:2033|media:/vod/2015/Compos/2033_4k_Strata_by_Jontte_cyndis_jnalanko.mp4|pms-id:asm15/4k_intro/908|title:Strata|youtube:swjn-PoQK2o
 author:lucid|guid:2034|media:/vod/2015/Compos/2034_4k_Cube_Demolition_by_lucid.mp4|pms-id:asm15/4k_intro/920|title:Cube Demolition|youtube:8CtwqYunC_8
 author:Prismbeings|guid:2035|media:/vod/2015/Compos/2035_4k_Hydrokinetics_by_Prismbeings.mp4|pms-id:asm15/4k_intro/922|title:Hydrokinetics|youtube:tbdmm2ZOBmg
-author:Unknown Artists|guid:2036|media:/vod/2015/Compos/2036_4k_Void_Radiant_by_Unknown_Artists.mp4|pms-id:asm15/4k_intro/924|title:Void Radiant|youtube:PB3szUW7278
+author:Unknown Artists|guid:2036|media:/vod/2015/Compos/2036_4k_Void_Radiant_by_Unknown_Artists.mp4|pms-id:asm15/4k_intro/924|title:Void Radiant|youtube:R4edk-ohXZY
 author:Walther|guid:2037|media:/vod/2015/Compos/2037_4k_clrfl_shdr_by_Walther.mp4|pms-id:asm15/4k_intro/929|title:clrfl shdr|youtube:qP0YmQYt-Qw
 
 
@@ -255,6 +255,8 @@ author:AssemblyTV seminars|description:Revising academic curricula for game rese
 author:AssemblyTV seminars|description:Modern 3D game art workflow demo|guid:1860|media:/vod/2015/Seminars/1860_ARTtech_Modern_3D_game_art_workflow_demo.mp4|title:ARTtech: Modern 3D game art workflow demo|youtube:xo_NvkusX00
 author:AssemblyTV seminars|description:Rendering of virtual reality in Pollen|guid:1874|media:/vod/2015/Seminars/1874_ARTtech_Rendering_of_virtual_reality_in_Pollen.mp4|title:ARTtech: Rendering of virtual reality in Pollen|youtube:Yu3a3QoJJ60
 author:AssemblyTV seminars|description:8 (or more) steps to making your next Assembly demo|guid:1882|media:/vod/2015/Seminars/1882_ARTtech_8_or_more_steps_to_making_your_next_Assembly_demo.mp4|title:ARTtech: 8 (or more) steps to making your next Assembly demo|youtube:smVx6AlXcwM
+author:AssemblyTV seminars|description:Arranging, orchestrating and recording Final Fantasy VII music|guid:1887|media:/vod/2015/Seminars/1887_ARTtech_Arranging_orchestrating_and_recording_Final_Fantasy_VII_music.mp4|title:ARTtech: Arranging, orchestrating and recording Final Fantasy VII music|youtube:fiFGY_Fd2Jk
+author:AssemblyTV seminars|description:Interplanetary postmortem - from students to indie game developers|guid:1894|title:ARTtech: Interplanetary postmortem - from students to indie game developers|youtube:SBcGGfSXkmM
 
 
 :section AssemblyTV
@@ -286,6 +288,7 @@ author:AssemblyTV|description:Discussion about the entries of the Short film com
 author:AssemblyTV|description:Discussion about the entries of the Real wild demo compo|guid:1902|media:/vod/2015/AssemblyTV/1902_Real_Wild_compostudio.mp4|title:Real wild demo compo compostudio|youtube:6LN0fDtjknU
 author:AssemblyTV|description:Robots fighting at AssemblyMusic: Duality Vile – Alloy Lantern Stage (Assembly 2012 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2022|media:/vod/2015/AssemblyTV/2022_robotfight.mp4|title:Robot Fight!|youtube:lk-__4NFGwY
 author:AssemblyTV|guid:2038|media:/vod/2015/AssemblyTV/2038_asm15_mita_pelataan.mp4|title:What games are played in ASM'15|youtube:fgSOlHiCfko
+author:AssemblyTV|description:Discussion about the entries of the the 4k intro compo|guid:1904|media:/vod/2015/AssemblyTV/1904_4k_compostudio.mp4|title:4k intro compo compostudio|youtube:JLYF4v-feAo
 
 
 :section eSports
@@ -336,6 +339,10 @@ author:AssemblyTV|guid:2002|media:/vod/2015/Games/2002_Late_Night_Snack.mp4|titl
 author:AssemblyTV|guid:2010|media:/vod/2015/Games/2010_ASUS_ROG_Summer_2015_HS__Hoej_vs_Martincreek.mp4|title:ASUS ROG Summer 2015 HS - Hoej vs. Martincreek|youtube:OioXjuDG8YI
 author:AssemblyTV|guid:2013|media:/vod/2015/Games/2013_ASUS_ROG_Summer_2015_HS__ThijsNL_vs_Vortex.mp4|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Vortex|youtube:-lWHf0HOkYA
 author:AssemblyTV|guid:2014|media:/vod/2015/Games/2014_ASUS_ROG_Summer_2015_HS__Ostkaka_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Ostkaka vs. Tom60229|youtube:_OMdUb2kumc
+author:AssemblyTV|guid:2039|media:/vod/2015/Games/2039_Natu_vs_world.mp4|title:Natu vs. world|youtube:oYsp8wLXX3c
+author:AssemblyTV|guid:2040|media:/vod/2015/Games/2040_ASUS_ROG_Summer_2015_HS__Powder_vs_Hoej.mp4|title:ASUS ROG Summer 2015 HS - Powder vs. Hoej|youtube:_PPpYJMjqls
+author:AssemblyTV|guid:2041|media:/vod/2015/Games/2041_ASUS_ROG_Summer_2015_HS__Vortex_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Vortex vs. Tom60229|youtube:5fpe7j5or4I
+author:AssemblyTV|guid:2042|media:/vod/2015/Games/2042_ASUS_ROG_Summer_2015_HS__Powder_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Powder vs. Tom60229|youtube:dnJs4ofFnKo
 
 
 :section Winter
