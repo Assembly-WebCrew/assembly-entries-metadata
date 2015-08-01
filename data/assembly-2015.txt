@@ -6,6 +6,21 @@
 :ongoing true
 :public-after 2015-08-02 01:30+0300
 
+author:Quadtrip|pms-id:asm15/demo/705|title:Divination
+author:KoomaDot|pms-id:asm15/demo/904|title:T.U.B.E.S
+author:Andromeda Software Development|pms-id:asm15/demo/909|title:Monolith
+author:JUGI/JUGZ|pms-id:asm15/demo/912|title:MINISTRY SOUND
+author:Primitive|pms-id:asm15/demo/914|title:I Want To See Small Worlds
+author:the Royal Elite Ninjas inc.|pms-id:asm15/demo/915|title:Encore
+author:CNCD & Fairlight|pms-id:asm15/demo/918|title:Hold-And-Modify
+author:Pyrotech|pms-id:asm15/demo/919|title:Ratavah
+author:Epoch ft. Trio Tampere|pms-id:asm15/demo/921|title:EMIX
+author:Wide Load|pms-id:asm15/demo/923|title:Air to Ground
+author:Paraguay|pms-id:asm15/demo/925|title:No Fear
+author:HACKERS|pms-id:asm15/demo/926|title:Cyber-Virtual Life Form
+author:the not yet rusty collective|pms-id:asm15/demo/927|title:Watercolour space
+author:adapt|pms-id:asm15/demo/928|title:<DRiLLER
+author:Ekspert|pms-id:asm15/demo/930|title:DEMO2
 
 
 :section 4k intro
@@ -14,6 +29,17 @@
 :ongoing true
 :public-after 2015-08-01 20:15+0300
 
+author:rimina / Paraguay|pms-id:asm15/4k_intro/709|title:Dreaming Surrealist
+author:Faemiyah|pms-id:asm15/4k_intro/742|title:Ghosts of Mars
+author:oo|pms-id:asm15/4k_intro/776|title:Beyond The Border
+author:TDA|pms-id:asm15/4k_intro/778|title:Recede
+author:provod/yolp|pms-id:asm15/4k_intro/902|title:unzoom
+author:diedos|pms-id:asm15/4k_intro/905|title:Hello World
+author:Jontte, cyndis, jnalanko|pms-id:asm15/4k_intro/908|title:Strata
+author:lucid|pms-id:asm15/4k_intro/920|title:Cube Demolition
+author:Prismbeings|pms-id:asm15/4k_intro/922|title:Hydrokinetics
+author:Unknown Artists|pms-id:asm15/4k_intro/924|title:Void Radiant
+author:Walther|pms-id:asm15/4k_intro/929|title:clrfl shdr
 
 
 :section 1k intro
@@ -38,6 +64,11 @@ author:The Usual Suspects|guid:1980|pms-id:asm15/1k_intro/900|title:Varifrån 76
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
 :public-after 2015-08-01 19:00+0300
+
+author:NOOP|pms-id:asm15/real_wild_demo/755|title:Pimp My Bento
+author:Mehu|pms-id:asm15/real_wild_demo/840|title:The Future
+author:Limba|pms-id:asm15/real_wild_demo/911|title:Night Coding
+author:Gormio, O/Troika Pump|pms-id:asm15/real_wild_demo/917|title:Apeshit
 
 
 :section Amiga demo
