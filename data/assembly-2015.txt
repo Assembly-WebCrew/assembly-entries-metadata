@@ -3,72 +3,65 @@
 :section Demo
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2015 PC computer.</p>
-:ongoing true
-:public-after 2015-08-02 01:30+0300
 
-author:Quadtrip|guid:2043|pms-id:asm15/demo/705|title:Divination|youtube:1UNS9VcUoug
-author:KoomaDot|guid:2044|pms-id:asm15/demo/904|title:T.U.B.E.S|youtube:RNxp022GZgk
-author:Andromeda Software Development|guid:2045|pms-id:asm15/demo/909|title:Monolith|youtube:VD8c8XagJms
-author:JUGI/JUGZ|guid:2046|pms-id:asm15/demo/912|title:MINISTRY SOUND|youtube:WMZLLlWT1nQ
-author:Primitive|guid:2047|pms-id:asm15/demo/914|title:I Want To See Small Worlds|youtube:HKx516FbA44
-author:the Royal Elite Ninjas inc.|guid:2048|pms-id:asm15/demo/915|title:Encore|youtube:7L9OEsQD-XY
-author:CNCD & Fairlight|guid:2049|pms-id:asm15/demo/918|title:Hold-And-Modify|youtube:idOK0JlRhZY
-author:Pyrotech|guid:2050|pms-id:asm15/demo/919|title:Ratavah|youtube:GAG8GTXQEVo
-author:Epoch ft. Trio Tampere|guid:2051|pms-id:asm15/demo/921|title:EMIX|youtube:SYG9zU_bd6U
-author:Wide Load|guid:2052|pms-id:asm15/demo/923|title:Air to Ground|youtube:anJpNhGalc0
-author:Paraguay|guid:2053|pms-id:asm15/demo/925|title:No Fear|youtube:b0QbQ6op4pM
-author:HACKERS|guid:2054|pms-id:asm15/demo/926|title:Cyber-Virtual Life Form|youtube:sEng6Xq3mxU
-author:the not yet rusty collective|guid:2055|pms-id:asm15/demo/927|title:Watercolour space|youtube:uSG6D_znukI
-author:adapt|guid:2056|pms-id:asm15/demo/928|title:<DRiLLER|youtube:dotXUxXwhOA
-author:Ekspert|guid:2057|pms-id:asm15/demo/930|title:DEMO2|youtube:wzMmzqio9sA
+author:Andromeda Software Development|guid:2045|platform:Windows|pms-id:asm15/demo/909|position:1|techniques:  |title:Monolith|youtube:VD8c8XagJms
+author:Ekspert|guid:2057|platform:PC|pms-id:asm15/demo/930|position:2|techniques:UE4|title:DEMO2|youtube:wzMmzqio9sA
+author:CNCD & Fairlight|guid:2049|platform:PC|pms-id:asm15/demo/918|position:3|techniques:skill|title:Hold-And-Modify|youtube:idOK0JlRhZY
+author:Pyrotech|guid:2050|platform:PC|pms-id:asm15/demo/919|position:4|techniques:DX9|title:Ratavah|youtube:GAG8GTXQEVo
+author:Epoch ft. Trio Tampere|guid:2051|platform:Computer|pms-id:asm15/demo/921|position:5|techniques:aegis vs. noby vs. ruuvari|title:EMIX|youtube:SYG9zU_bd6U
+author:Primitive|guid:2047|platform:WebGL|pms-id:asm15/demo/914|position:6|techniques:three.js|title:I Want To See Small Worlds|youtube:HKx516FbA44
+author:adapt|guid:2056|platform:PC|pms-id:asm15/demo/928|position:7|techniques:adapted GNU Rocket originally by Kusma and Skrebbel (Kusma, deepr will send you teh mods!),  OpenGL 4.x, QT/QML Scripting, Rodeo and deep driller <3 love.|title:<DRiLLER|youtube:dotXUxXwhOA
+author:the not yet rusty collective|guid:2055|platform:PC|pms-id:asm15/demo/927|position:8|techniques:C++, watercolours, reaper|title:Watercolour space|youtube:uSG6D_znukI
+author:JUGI/JUGZ|guid:2046|platform:Windows 8.1|pms-id:asm15/demo/912|position:9|techniques:Secret Techniques.|title:MINISTRY SOUND|youtube:WMZLLlWT1nQ
+author:the Royal Elite Ninjas inc.|guid:2048|platform:WebGL|pms-id:asm15/demo/915|position:10|techniques:WebGL|title:Encore|youtube:7L9OEsQD-XY
+author:Quadtrip|guid:2043|platform:Browser|pms-id:asm15/demo/705|position:11|techniques:HTML5 + WebGL + JP emoji + (−)-trans-Δ9-tetrahydrocannabinol + tape loops + toy synths + drum machines + series of flashcards|title:Divination|youtube:1UNS9VcUoug
+author:KoomaDot|guid:2044|platform:PC|pms-id:asm15/demo/904|position:12|techniques:Photoshop, Fusion2.5 and "skills"|title:T.U.B.E.S|youtube:RNxp022GZgk
+author:Wide Load|guid:2052|platform:Browser|pms-id:asm15/demo/923|position:13|techniques:Webgl, Threejs, Glsl|title:Air to Ground|youtube:anJpNhGalc0
+author:Paraguay|guid:2053|platform:WebGL, Three.js|pms-id:asm15/demo/925|position:14|techniques:deadline driven development|title:No Fear|youtube:b0QbQ6op4pM
+author:HACKERS|guid:2054|platform:Win/Linux/OSX Nvidia/AMD/Intel|pms-id:asm15/demo/926|position:15|techniques:SDL, OpenGL, |title:Cyber-Virtual Life Form|youtube:sEng6Xq3mxU
 
 
 :section 4k intro
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2015 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
-:public-after 2015-08-01 20:15+0300
 
-author:rimina / Paraguay|guid:2027|media:/vod/2015/Compos/2027_4k_Dreaming_Surrealist_by_rimina__Paraguay.mp4|pms-id:asm15/4k_intro/709|title:Dreaming Surrealist|youtube:fHwbxuMVPDI
-author:Faemiyah|guid:2028|media:/vod/2015/Compos/2028_4k_Ghosts_of_Mars_by_Faemiyah.mp4|pms-id:asm15/4k_intro/742|title:Ghosts of Mars|youtube:mu8r_z13Tv8
-author:oo|guid:2029|media:/vod/2015/Compos/2029_4k_Beyond_The_Border_by_oo.mp4|pms-id:asm15/4k_intro/776|title:Beyond The Border|youtube:Wt35Gg8ecII
-author:TDA|guid:2030|media:/vod/2015/Compos/2030_4k_Recede_by_TDA.mp4|pms-id:asm15/4k_intro/778|title:Recede|youtube:BOXTYZ5-_yw
-author:provod/yolp|guid:2031|media:/vod/2015/Compos/2031_4k_unzoom_by_provodyolp.mp4|pms-id:asm15/4k_intro/902|title:unzoom|youtube:BG25vV_G1fU
-author:diedos|guid:2032|media:/vod/2015/Compos/2032_4k_Hello_World_by_diedos.mp4|pms-id:asm15/4k_intro/905|title:Hello World|youtube:4jA4bR4rJ4I
-author:Jontte, cyndis, jnalanko|guid:2033|media:/vod/2015/Compos/2033_4k_Strata_by_Jontte_cyndis_jnalanko.mp4|pms-id:asm15/4k_intro/908|title:Strata|youtube:swjn-PoQK2o
-author:lucid|guid:2034|media:/vod/2015/Compos/2034_4k_Cube_Demolition_by_lucid.mp4|pms-id:asm15/4k_intro/920|title:Cube Demolition|youtube:8CtwqYunC_8
-author:Prismbeings|guid:2035|media:/vod/2015/Compos/2035_4k_Hydrokinetics_by_Prismbeings.mp4|pms-id:asm15/4k_intro/922|title:Hydrokinetics|youtube:tbdmm2ZOBmg
-author:Unknown Artists|guid:2036|media:/vod/2015/Compos/2036_4k_Void_Radiant_by_Unknown_Artists.mp4|pms-id:asm15/4k_intro/924|title:Void Radiant|youtube:R4edk-ohXZY
-author:Walther|guid:2037|media:/vod/2015/Compos/2037_4k_clrfl_shdr_by_Walther.mp4|pms-id:asm15/4k_intro/929|title:clrfl shdr|youtube:qP0YmQYt-Qw
+author:Prismbeings|guid:2035|media:/vod/2015/Compos/2035_4k_Hydrokinetics_by_Prismbeings.mp4|platform:Windows|pms-id:asm15/4k_intro/922|position:1|techniques:Physical Lipschitz-continuous tracing, optimal stack-operator synthesizer, probabilistic context-modelling information compactor|title:Hydrokinetics|youtube:tbdmm2ZOBmg
+author:Unknown Artists|guid:2036|media:/vod/2015/Compos/2036_4k_Void_Radiant_by_Unknown_Artists.mp4|platform:Windows|pms-id:asm15/4k_intro/924|position:2|techniques:dx11|title:Void Radiant|youtube:R4edk-ohXZY
+author:TDA|guid:2030|media:/vod/2015/Compos/2030_4k_Recede_by_TDA.mp4|platform:MacOS X|pms-id:asm15/4k_intro/778|position:3|techniques:Cocoa, GLSL|title:Recede|youtube:BOXTYZ5-_yw
+author:Faemiyah|guid:2028|media:/vod/2015/Compos/2028_4k_Ghosts_of_Mars_by_Faemiyah.mp4|platform:FreeBSD-ia32|pms-id:asm15/4k_intro/742|position:4|techniques:C++, OpenGL 4.3, SDL2, dnload.py|title:Ghosts of Mars|youtube:mu8r_z13Tv8
+author:Jontte, cyndis, jnalanko|guid:2033|media:/vod/2015/Compos/2033_4k_Strata_by_Jontte_cyndis_jnalanko.mp4|platform:Linux|pms-id:asm15/4k_intro/908|position:5|techniques:GLSL|title:Strata|youtube:swjn-PoQK2o
+author:lucid|guid:2034|media:/vod/2015/Compos/2034_4k_Cube_Demolition_by_lucid.mp4|platform:Microsoft Windows PC|pms-id:asm15/4k_intro/920|position:6|techniques:Crinkler|title:Cube Demolition|youtube:8CtwqYunC_8
+author:oo|guid:2029|media:/vod/2015/Compos/2029_4k_Beyond_The_Border_by_oo.mp4|platform:PC/Windows|pms-id:asm15/4k_intro/776|position:7|techniques:C++, 4klang, Crinkler, GNU Rocket|title:Beyond The Border|youtube:Wt35Gg8ecII
+author:rimina / Paraguay|guid:2027|media:/vod/2015/Compos/2027_4k_Dreaming_Surrealist_by_rimina__Paraguay.mp4|platform:WebGL|pms-id:asm15/4k_intro/709|position:8|techniques:GLSL, Sonant-js, jsExe|title:Dreaming Surrealist|youtube:fHwbxuMVPDI
+author:provod/yolp|guid:2031|media:/vod/2015/Compos/2031_4k_unzoom_by_provodyolp.mp4|platform:pc (win32, linux, osx)|pms-id:asm15/4k_intro/902|position:9|techniques:tried to be physically correct where practical|title:unzoom|youtube:BG25vV_G1fU
+author:Walther|guid:2037|media:/vod/2015/Compos/2037_4k_clrfl_shdr_by_Walther.mp4|platform:PC / Web browser|pms-id:asm15/4k_intro/929|position:10|techniques:JS, WebGL, pnginator|title:clrfl shdr|youtube:qP0YmQYt-Qw
+author:diedos|guid:2032|media:/vod/2015/Compos/2032_4k_Hello_World_by_diedos.mp4|platform:webgl|pms-id:asm15/4k_intro/905|position:11|techniques:procrastination|title:Hello World|youtube:4jA4bR4rJ4I
 
 
 :section 1k intro
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2015 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 
-author:laastine|guid:1971|media:/vod/2015/Compos/1971_1k_Fast_evolution_by_laastine.mp4|pms-id:asm15/1k_intro/712|title:Fast evolution|youtube:zNvqPGbnS3c
-author:Exca/Wide Load|guid:1972|media:/vod/2015/Compos/1972_1k_Sateilyvaara_by_ExcaWide_Load.mp4|pms-id:asm15/1k_intro/728|title:Säteilyvaara|youtube:VrJ069C69fM
-author:felixbade|guid:1973|media:/vod/2015/Compos/1973_1k_Vanha_tuttu_by_felixbade.mp4|pms-id:asm15/1k_intro/732|title:Vanha tuttu|youtube:xB8M1XgiRxw
-author:knl, Ishy|guid:1974|media:/vod/2015/Compos/1974_1k_aW50cm8_by_knl_Ishy.mp4|pms-id:asm15/1k_intro/734|title:aW50cm8=|youtube:Ltq91PsAF80
-author:TDA|guid:1975|media:/vod/2015/Compos/1975_1k_V_for_Voronoi_by_TDA.mp4|pms-id:asm15/1k_intro/752|title:V for Voronoi|youtube:jkpqifiSYsE
-author:oo|guid:1976|media:/vod/2015/Compos/1976_1k_Hello_Assembly_by_oo.mp4|pms-id:asm15/1k_intro/783|title:Hello Assembly!|youtube:-ITPLJKoRjI
-author:Digimind|guid:1977|media:/vod/2015/Compos/1977_1k_Monster_Truck_Presentation_by_Digimind.mp4|pms-id:asm15/1k_intro/792|title:Monster Truck Presentation|youtube:bRhmORqyW-E
-author:Traction/FIT|guid:1978|media:/vod/2015/Compos/1978_1k_Gravity_Haze_by_TractionFIT.mp4|pms-id:asm15/1k_intro/848|title:Gravity Haze|youtube:7o85vwuX4QA
-author:p01 / ribbon|guid:1979|media:/vod/2015/Compos/1979_1k_BLCK4777_by_p01__ribbon.mp4|pms-id:asm15/1k_intro/868|title:BLCK4777|youtube:NnZUUSdpt-k
-author:The Usual Suspects|guid:1980|media:/vod/2015/Compos/1980_1k_Varifran_763_by_The_Usual_Suspects.mp4|pms-id:asm15/1k_intro/900|title:Varifrån 763|youtube:nRcxrUAWqrg
+author:p01 / ribbon|guid:1979|media:/vod/2015/Compos/1979_1k_BLCK4777_by_p01__ribbon.mp4|platform:JavaScript|pms-id:asm15/1k_intro/868|position:1|techniques:JavaScript|title:BLCK4777|youtube:NnZUUSdpt-k
+author:Traction/FIT|guid:1978|media:/vod/2015/Compos/1978_1k_Gravity_Haze_by_TractionFIT.mp4|platform:PC|pms-id:asm15/1k_intro/848|position:2|techniques:-|title:Gravity Haze|youtube:7o85vwuX4QA
+author:Digimind|guid:1977|media:/vod/2015/Compos/1977_1k_Monster_Truck_Presentation_by_Digimind.mp4|platform:PC|pms-id:asm15/1k_intro/792|position:3|techniques:Visual C++, Crinkler|title:Monster Truck Presentation|youtube:bRhmORqyW-E
+author:TDA|guid:1975|media:/vod/2015/Compos/1975_1k_V_for_Voronoi_by_TDA.mp4|platform:MacOS X|pms-id:asm15/1k_intro/752|position:4|techniques:Cocoa, GLSL|title:V for Voronoi|youtube:jkpqifiSYsE
+author:knl, Ishy|guid:1974|media:/vod/2015/Compos/1974_1k_aW50cm8_by_knl_Ishy.mp4|platform:pc|pms-id:asm15/1k_intro/734|position:5|techniques:hlsl, nasm, crinkler|title:aW50cm8=|youtube:Ltq91PsAF80
+author:felixbade|guid:1973|media:/vod/2015/Compos/1973_1k_Vanha_tuttu_by_felixbade.mp4|platform:OS X Yosemite|pms-id:asm15/1k_intro/732|position:6|techniques:glsl + midi + laturi|title:Vanha tuttu|youtube:xB8M1XgiRxw
+author:laastine|guid:1971|media:/vod/2015/Compos/1971_1k_Fast_evolution_by_laastine.mp4|platform:Javascript|pms-id:asm15/1k_intro/712|position:7|techniques:JS & WebGL|title:Fast evolution|youtube:zNvqPGbnS3c
+author:The Usual Suspects|guid:1980|media:/vod/2015/Compos/1980_1k_Varifran_763_by_The_Usual_Suspects.mp4|platform:Windows|pms-id:asm15/1k_intro/900|position:8|techniques:the usual stuf|title:Varifrån 763|youtube:nRcxrUAWqrg
+author:oo|guid:1976|media:/vod/2015/Compos/1976_1k_Hello_Assembly_by_oo.mp4|platform:PC/Windows|pms-id:asm15/1k_intro/783|position:9|techniques:C++|title:Hello Assembly!|youtube:-ITPLJKoRjI
+author:Exca/Wide Load|guid:1972|media:/vod/2015/Compos/1972_1k_Sateilyvaara_by_ExcaWide_Load.mp4|platform:Browser|pms-id:asm15/1k_intro/728|position:10|techniques:Webgl, jsexe, closure, uglify, raymarching|title:Säteilyvaara|youtube:VrJ069C69fM
 
 
 :section Real wild demo
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
-:public-after 2015-08-01 19:00+0300
 
-author:NOOP|guid:2023|media:/vod/2015/Compos/2023_Realwild_Pimp_My_Bento_by_NOOP.mp4|pms-id:asm15/real_wild_demo/755|title:Pimp My Bento|youtube:SG0K7mNIIzU
-author:Mehu|guid:2024|media:/vod/2015/Compos/2024_Realwild_The_Future_by_Mehu.mp4|pms-id:asm15/real_wild_demo/840|title:The Future|youtube:WUEJ30QdHz4
-author:Limba|guid:2025|media:/vod/2015/Compos/2025_RealWild_Night_Coding_by_Limba.mp4|pms-id:asm15/real_wild_demo/911|title:Night Coding|youtube:B43j6hlT5i4
-author:Gormio, O/Troika Pump|guid:2026|media:/vod/2015/Compos/2026_Realwild_Apeshit_by_Gormio_OTroika_Pump.mp4|pms-id:asm15/real_wild_demo/917|title:Apeshit|youtube:_Z8DYTdo-vQ
+author:NOOP|guid:2023|media:/vod/2015/Compos/2023_Realwild_Pimp_My_Bento_by_NOOP.mp4|platform:C-64|pms-id:asm15/real_wild_demo/755|position:1|techniques:KickAssembler, Caffeine, Tentacles|title:Pimp My Bento|youtube:SG0K7mNIIzU
+author:Mehu|guid:2024|media:/vod/2015/Compos/2024_Realwild_The_Future_by_Mehu.mp4|platform:Raspberry Pi|pms-id:asm15/real_wild_demo/840|position:2|techniques:C++, OpenGL ES 2.0, Linux, hard work|title:The Future|youtube:WUEJ30QdHz4
+author:Gormio, O/Troika Pump|guid:2026|media:/vod/2015/Compos/2026_Realwild_Apeshit_by_Gormio_OTroika_Pump.mp4|platform:Sailfish OS/Jolla phone|pms-id:asm15/real_wild_demo/917|position:3|techniques:Qt/QML, GLSL, Schism Tracker, Wacom, mouse|title:Apeshit|youtube:_Z8DYTdo-vQ
+author:Limba|guid:2025|media:/vod/2015/Compos/2025_RealWild_Night_Coding_by_Limba.mp4|platform:Mikromedia Stellaris|pms-id:asm15/real_wild_demo/911|position:4|techniques:C and TFT library (No GPU)|title:Night Coding|youtube:B43j6hlT5i4
 
 
 :section Amiga demo
@@ -90,13 +83,12 @@ author:Software Failure|guid:1969|platform:A1200 AGA/060 (6k intro)|pms-id:asm15
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
 
-author:ableRex358|guid:2015|media:/vod/2015/Compos/2015_Shortfilm_Wrath_of_the_Cat_by_ableRex358.mp4|pms-id:asm15/short_film/724|title:Wrath of the Cat|youtube:rxfJC6Z-5pI
-author:Randomheads|guid:2016|media:/vod/2015/Compos/2016_Shortfilm_My_kotivideo_quota_is_full_by_Randomheads.mp4|pms-id:asm15/short_film/758|title:My kotivideo quota is full|youtube:sHIqvf8HuEY
-author:Pistoke|guid:2017|media:/vod/2015/Compos/2017_Shortfilm_Jogging_by_Pistoke.mp4|pms-id:asm15/short_film/801|title:Jogging|youtube:o2VwFamiUZk
-author:SBA|guid:2018|media:/vod/2015/Compos/2018_Shortfilm_TIMEOUT_by_SBA.mp4|pms-id:asm15/short_film/910|title:TIMEOUT|youtube:WOVmrl1AdTk
-author:Rustbloom|guid:2019|media:/vod/2015/Compos/2019_Shortfilm_caydecay_by_Rustbloom.mp4|pms-id:asm15/short_film/916|title:cay/decay|youtube:s5Dt8Fzsoyc
+author:SBA|guid:2018|media:/vod/2015/Compos/2018_Shortfilm_TIMEOUT_by_SBA.mp4|platform:ja anteeks|pms-id:asm15/short_film/910|position:1|techniques:kiitos|title:TIMEOUT|youtube:WOVmrl1AdTk
+author:Rustbloom|guid:2019|media:/vod/2015/Compos/2019_Shortfilm_caydecay_by_Rustbloom.mp4|platform:PC|pms-id:asm15/short_film/916|position:2|techniques:Unity|title:cay/decay|youtube:s5Dt8Fzsoyc
+author:Pistoke|guid:2017|media:/vod/2015/Compos/2017_Shortfilm_Jogging_by_Pistoke.mp4|platform:-|pms-id:asm15/short_film/801|position:3|techniques:Blender, After Effects, Hurry|title:Jogging|youtube:o2VwFamiUZk
+author:Randomheads|guid:2016|media:/vod/2015/Compos/2016_Shortfilm_My_kotivideo_quota_is_full_by_Randomheads.mp4|platform:PC|pms-id:asm15/short_film/758|position:4|techniques:Premiere, After Effects, mash-up & potatoes |title:My kotivideo quota is full|youtube:sHIqvf8HuEY
+author:ableRex358|guid:2015|media:/vod/2015/Compos/2015_Shortfilm_Wrath_of_the_Cat_by_ableRex358.mp4|platform:PC|pms-id:asm15/short_film/724|position:5|techniques:Blender/Gimp|title:Wrath of the Cat|youtube:rxfJC6Z-5pI
 
 
 :section Gamedev
