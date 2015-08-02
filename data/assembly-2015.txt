@@ -75,16 +75,16 @@ author:Gormio, O/Troika Pump|guid:2026|media:/vod/2015/Compos/2026_Realwild_Apes
 :pms-category amiga
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In this demo competitions demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
 
-author:Dekadence|guid:1960|media:/vod/2015/Compos/1960_Oldskool_Carbon_Based_by_Dekadence.mp4|pms-id:asm15/amiga/714|title:Carbon Based|youtube:5EIyoTzdWOs
-author:dA JoRMaS|guid:1961|media:/vod/2015/Compos/1961_Oldskool_Kayra_Soiro_by_dA_JoRMaS.mp4|pms-id:asm15/amiga/721|title:Käyrä Soiro|youtube:ddrrxCUxbfs
-author:Desire|guid:1962|media:/vod/2015/Compos/1962_Oldskool_Master_Control_Program_by_Desire.mp4|pms-id:asm15/amiga/727|title:Master Control Program|youtube:h8PHmaLrNk0
-author:Zenon|guid:1963|media:/vod/2015/Compos/1963_Oldskool_Scored_by_Zenon.mp4|pms-id:asm15/amiga/746|title:Scored|youtube:ZVGH3keXNko
-author:exec|guid:1964|media:/vod/2015/Compos/1964_Oldskool_10_AMAZING_CAT_FACTS_by_exec.mp4|pms-id:asm15/amiga/768|title:10 AMAZING CAT FACTS|youtube:KiGpnEeyTl4
-author:Quadtrip|guid:1965|media:/vod/2015/Compos/1965_Oldskool_See_Forever_by_Quadtrip.mp4|pms-id:asm15/amiga/770|title:See Forever|youtube:xqd9NnBgyPM
-author:Spaceballs|guid:1966|media:/vod/2015/Compos/1966_Oldskool_DATASKULL_by_Spaceballs.mp4|pms-id:asm15/amiga/799|title:DATASKULL|youtube:LxPkLtGekhE
-author:npli|guid:1967|media:/vod/2015/Compos/1967_Oldskool_30th_by_npli.mp4|pms-id:asm15/amiga/807|title:30th|youtube:rKeg3HK-1W0
-author:Traktor, Nature & Fatzone|guid:1968|media:/vod/2015/Compos/1968_Oldskool_Gerp_invitation_by_Traktor_Nature_Fatzone.mp4|pms-id:asm15/amiga/845|title:Gerp invitation|youtube:vPNp13oG8dU
-author:Software Failure|guid:1969|pms-id:asm15/amiga/887|title:Short-Circuited|youtube:qhKokUxfqfw
+author:Dekadence|guid:1960|media:/vod/2015/Compos/1960_Oldskool_Carbon_Based_by_Dekadence.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/714|position:1|techniques:Amigaaaaaah!|title:Carbon Based|youtube:5EIyoTzdWOs
+author:Desire|guid:1962|media:/vod/2015/Compos/1962_Oldskool_Master_Control_Program_by_Desire.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/727|position:2|techniques:AGA, triangles, lines, subpixel acc dots, voxels, GNU rocket, etc.|title:Master Control Program|youtube:h8PHmaLrNk0
+author:Spaceballs|guid:1966|media:/vod/2015/Compos/1966_Oldskool_DATASKULL_by_Spaceballs.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/799|position:3|techniques:True Norwegian Realtime|title:DATASKULL|youtube:LxPkLtGekhE
+author:exec|guid:1964|media:/vod/2015/Compos/1964_Oldskool_10_AMAZING_CAT_FACTS_by_exec.mp4|platform:A500 OCS|pms-id:asm15/amiga/768|position:4|techniques:Cats and bitplanes|title:10 AMAZING CAT FACTS|youtube:KiGpnEeyTl4
+author:dA JoRMaS|guid:1961|media:/vod/2015/Compos/1961_Oldskool_Kayra_Soiro_by_dA_JoRMaS.mp4|platform:A3000 ECS 68030/25|pms-id:asm15/amiga/721|position:5|techniques:-|title:Käyrä Soiro|youtube:ddrrxCUxbfs
+author:Zenon|guid:1963|media:/vod/2015/Compos/1963_Oldskool_Scored_by_Zenon.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/746|position:6|techniques:amiga 68k, protracker, asmone|title:Scored|youtube:ZVGH3keXNko
+author:npli|guid:1967|media:/vod/2015/Compos/1967_Oldskool_30th_by_npli.mp4|platform:A500 OCS 512kB|pms-id:asm15/amiga/807|position:7|techniques:Only bad techniques|title:30th|youtube:rKeg3HK-1W0
+author:Traktor, Nature & Fatzone|guid:1968|media:/vod/2015/Compos/1968_Oldskool_Gerp_invitation_by_Traktor_Nature_Fatzone.mp4|platform:Amiga 500 512 chip + 512 fast|pms-id:asm15/amiga/845|position:8|techniques:Asm-Pro, Protracker v3.18, Dpaint|title:Gerp invitation|youtube:vPNp13oG8dU
+author:Quadtrip|guid:1965|media:/vod/2015/Compos/1965_Oldskool_See_Forever_by_Quadtrip.mp4|platform:A500 OCS|pms-id:asm15/amiga/770|position:9|techniques:Protracker + ccr's "gfxconv"|title:See Forever|youtube:xqd9NnBgyPM
+author:Software Failure|guid:1969|platform:A1200 AGA/060 (6k intro)|pms-id:asm15/amiga/887|position:10|techniques:680x0 assembler, Protracker, Cinter synth|title:Short-Circuited|youtube:qhKokUxfqfw
 
 
 :section Short film
