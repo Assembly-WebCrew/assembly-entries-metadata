@@ -89,6 +89,9 @@ Do this during the event and either add ":public true" ":public false"
 and ":ongoing true" ":ongoing false" fields to different compo
 categories.
 
+"Export compos" link.
+https://pms.paeae.fi/asm15/compos/admin/export/
+
 ## Process for Elaine based data
 
 # Library

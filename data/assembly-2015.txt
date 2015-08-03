@@ -276,7 +276,7 @@ author:AssemblyTV|description:Discussion about the entries of the 1k intro compo
 author:AssemblyTV|description:Finland vs Sweden on table hockey arena by ElisaMusic: King Thrill / Tekotuotanto – The March of the Wicked (Assembly 2013 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:1985|media:/vod/2015/AssemblyTV/1985_poytalatkaa_by_elisa.mp4|title:Table Hockey by Elisa|youtube:5xLnGvRmUxU
 author:AssemblyTV|description:Discussion about the entries of the Dance music compo|guid:1880|media:/vod/2015/AssemblyTV/1880_Dance_music_compostudio.mp4|title:Dance music compo compostudio|youtube:TgSft3ATfMk
 author:AssemblyTV|guid:2000|media:/vod/2015/AssemblyTV/2000_asmtitu_voittaja.mp4|title:Instagram competition winner announcement|youtube:FucGi8I4fCk
-author:AssemblyTV|description:Oldskool demo compostudio|guid:1918|title:Oldskool demo compostudio|youtube:JLrWnN6Xwyk
+author:AssemblyTV|description:Oldskool demo compostudio|guid:1918|media:/vod/2015/AssemblyTV/1918_Amiga_compostudio.mp4|title:Oldskool demo compostudio|youtube:JLrWnN6Xwyk
 author:AssemblyTV|guid:2009|media:/vod/2015/AssemblyTV/2009_asmfiilikset.mp4|title:Instagram competition #2|youtube:Hdge7Am-6FE
 author:AssemblyTV|guid:1892|media:/vod/2015/AssemblyTV/1892_Prize_ceremony_1.mp4|title:Prize ceremony 1|youtube:vXPl7c42P7o
 author:AssemblyTV|description:The Game is ON! This is how the AMD CS:GO Challenge arenas look like.Music: Zode - puolentunnin espärinät (Assembly 2014 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2020|media:/vod/2015/AssemblyTV/2020_thegameison.mp4|title:The game is on|youtube:bM4_ouvPyMI
@@ -286,7 +286,7 @@ author:AssemblyTV|description:Discussion about the entries of the Real wild demo
 author:AssemblyTV|description:Robots fighting at AssemblyMusic: Duality Vile – Alloy Lantern Stage (Assembly 2012 Music Competition)Video: Bonzu (www.bonzustories.com)|guid:2022|media:/vod/2015/AssemblyTV/2022_robotfight.mp4|title:Robot Fight!|youtube:lk-__4NFGwY
 author:AssemblyTV|guid:2038|media:/vod/2015/AssemblyTV/2038_asm15_mita_pelataan.mp4|title:What games are played in ASM'15|youtube:fgSOlHiCfko
 author:AssemblyTV|description:Discussion about the entries of the the 4k intro compo|guid:1904|media:/vod/2015/AssemblyTV/1904_4k_compostudio.mp4|title:4k intro compo compostudio|youtube:JLYF4v-feAo
-author:AssemblyTV|description:Discussion about the entries of the Demo compo|guid:1909|title:Demo compo compostudio|youtube:RAZ4Be7eVdU
+author:AssemblyTV|description:Discussion about the entries of the Demo compo|guid:1909|media:/vod/2015/AssemblyTV/1909_Demo_compo_studio.mp4|title:Demo compo compostudio|youtube:RAZ4Be7eVdU
 author:AssemblyTV|guid:2058|media:/vod/2015/AssemblyTV/2058_kajaanigamescene.mp4|title:Why Kajaani Always Wins|youtube:QV7TRkEHKu0
 author:AssemblyTV|guid:2059|media:/vod/2015/AssemblyTV/2059_asmfiilisvoittaja.mp4|title:Instagram competition #2 winner announcement|youtube:joQ_dt_cpDA
 
@@ -344,7 +344,7 @@ author:AssemblyTV|guid:2040|media:/vod/2015/Games/2040_ASUS_ROG_Summer_2015_HS__
 author:AssemblyTV|guid:2041|media:/vod/2015/Games/2041_ASUS_ROG_Summer_2015_HS__Vortex_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Vortex vs. Tom60229|youtube:5fpe7j5or4I
 author:AssemblyTV|guid:2042|media:/vod/2015/Games/2042_ASUS_ROG_Summer_2015_HS__Powder_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Powder vs. Tom60229|youtube:dnJs4ofFnKo
 author:AssemblyTV|guid:2060|media:/vod/2015/Games/2060_Demokompo_esittely.mp4|title:Demokompo esittely|youtube:oPfeIY0vgzk
-author:AssemblyTV|guid:2061|title:Democompo suomistudio|youtube:g1i3SYhCvqI
+author:AssemblyTV|guid:2061|media:/vod/2015/Games/2061_Demo_compostudio_1.mp4|title:Democompo suomistudio|youtube:g1i3SYhCvqI
 
 
 :section Winter
