@@ -4,21 +4,21 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2015 PC computer.</p>
 
-author:Andromeda Software Development|guid:2045|platform:Windows|pms-id:asm15/demo/909|position:1|techniques:  |title:Monolith|youtube:VD8c8XagJms
-author:Ekspert|guid:2057|platform:PC|pms-id:asm15/demo/930|position:2|techniques:UE4|title:DEMO2|youtube:wzMmzqio9sA
-author:CNCD & Fairlight|guid:2049|platform:PC|pms-id:asm15/demo/918|position:3|techniques:skill|title:Hold-And-Modify|youtube:idOK0JlRhZY
-author:Pyrotech|guid:2050|platform:PC|pms-id:asm15/demo/919|position:4|techniques:DX9|title:Ratavah|youtube:GAG8GTXQEVo
-author:Epoch ft. Trio Tampere|guid:2051|platform:Computer|pms-id:asm15/demo/921|position:5|techniques:aegis vs. noby vs. ruuvari|title:EMIX|youtube:SYG9zU_bd6U
-author:Primitive|guid:2047|platform:WebGL|pms-id:asm15/demo/914|position:6|techniques:three.js|title:I Want To See Small Worlds|youtube:HKx516FbA44
-author:adapt|guid:2056|platform:PC|pms-id:asm15/demo/928|position:7|techniques:adapted GNU Rocket originally by Kusma and Skrebbel (Kusma, deepr will send you teh mods!),  OpenGL 4.x, QT/QML Scripting, Rodeo and deep driller <3 love.|title:<DRiLLER|youtube:dotXUxXwhOA
-author:the not yet rusty collective|guid:2055|platform:PC|pms-id:asm15/demo/927|position:8|techniques:C++, watercolours, reaper|title:Watercolour space|youtube:uSG6D_znukI
-author:JUGI/JUGZ|guid:2046|platform:Windows 8.1|pms-id:asm15/demo/912|position:9|techniques:Secret Techniques.|title:MINISTRY SOUND|youtube:WMZLLlWT1nQ
-author:the Royal Elite Ninjas inc.|guid:2048|platform:WebGL|pms-id:asm15/demo/915|position:10|techniques:WebGL|title:Encore|youtube:7L9OEsQD-XY
-author:Quadtrip|guid:2043|platform:Browser|pms-id:asm15/demo/705|position:11|techniques:HTML5 + WebGL + JP emoji + (−)-trans-Δ9-tetrahydrocannabinol + tape loops + toy synths + drum machines + series of flashcards|title:Divination|youtube:1UNS9VcUoug
-author:KoomaDot|guid:2044|platform:PC|pms-id:asm15/demo/904|position:12|techniques:Photoshop, Fusion2.5 and "skills"|title:T.U.B.E.S|youtube:RNxp022GZgk
-author:Wide Load|guid:2052|platform:Browser|pms-id:asm15/demo/923|position:13|techniques:Webgl, Threejs, Glsl|title:Air to Ground|youtube:anJpNhGalc0
-author:Paraguay|guid:2053|platform:WebGL, Three.js|pms-id:asm15/demo/925|position:14|techniques:deadline driven development|title:No Fear|youtube:b0QbQ6op4pM
-author:HACKERS|guid:2054|platform:Win/Linux/OSX Nvidia/AMD/Intel|pms-id:asm15/demo/926|position:15|techniques:SDL, OpenGL, |title:Cyber-Virtual Life Form|youtube:sEng6Xq3mxU
+author:Andromeda Software Development|guid:2045|media:/vod/2015/Compos/2045_Demo_Monolith_by_Andromeda_Software_Development.mp4|platform:Windows|pms-id:asm15/demo/909|position:1|techniques:  |title:Monolith|youtube:VD8c8XagJms
+author:Ekspert|guid:2057|media:/vod/2015/Compos/2057_Demo_DEMO2_by_Ekspert.mp4|platform:PC|pms-id:asm15/demo/930|position:2|techniques:UE4|title:DEMO2|youtube:wzMmzqio9sA
+author:CNCD & Fairlight|guid:2049|media:/vod/2015/Compos/2049_Demo_HoldAndModify_by_CNCD__Fairlight.mp4|platform:PC|pms-id:asm15/demo/918|position:3|techniques:skill|title:Hold-And-Modify|youtube:idOK0JlRhZY
+author:Pyrotech|guid:2050|media:/vod/2015/Compos/2050_Demo_Ratavah_by_Pyrotech.mp4|platform:PC|pms-id:asm15/demo/919|position:4|techniques:DX9|title:Ratavah|youtube:GAG8GTXQEVo
+author:Epoch ft. Trio Tampere|guid:2051|media:/vod/2015/Compos/2051_Demo_EMIX_by_Epoch_ft_Trio_Tampere.mp4|platform:Computer|pms-id:asm15/demo/921|position:5|techniques:aegis vs. noby vs. ruuvari|title:EMIX|youtube:SYG9zU_bd6U
+author:Primitive|guid:2047|media:/vod/2015/Compos/2047_Demo_I_Want_To_See_Small_Worlds_by_Primitive.mp4|platform:WebGL|pms-id:asm15/demo/914|position:6|techniques:three.js|title:I Want To See Small Worlds|youtube:HKx516FbA44
+author:adapt|guid:2056|media:/vod/2015/Compos/2056_Demo_DRiLLER_by_adapt.mp4|platform:PC|pms-id:asm15/demo/928|position:7|techniques:adapted GNU Rocket originally by Kusma and Skrebbel (Kusma, deepr will send you teh mods!),  OpenGL 4.x, QT/QML Scripting, Rodeo and deep driller <3 love.|title:<DRiLLER|youtube:dotXUxXwhOA
+author:the not yet rusty collective|guid:2055|media:/vod/2015/Compos/2055_Demo_Watercolour_space_by_the_not_yet_rusty_collective.mp4|platform:PC|pms-id:asm15/demo/927|position:8|techniques:C++, watercolours, reaper|title:Watercolour space|youtube:uSG6D_znukI
+author:JUGI/JUGZ|guid:2046|media:/vod/2015/Compos/2046_Demo_MINISTRY_SOUND_by_JUGIJUGZ.mp4|platform:Windows 8.1|pms-id:asm15/demo/912|position:9|techniques:Secret Techniques.|title:MINISTRY SOUND|youtube:WMZLLlWT1nQ
+author:the Royal Elite Ninjas inc.|guid:2048|media:/vod/2015/Compos/2048_Demo_Encore_by_the_Royal_Elite_Ninjas_inc.mp4|platform:WebGL|pms-id:asm15/demo/915|position:10|techniques:WebGL|title:Encore|youtube:7L9OEsQD-XY
+author:Quadtrip|guid:2043|media:/vod/2015/Compos/2043_Demo_Divination_by_Quadtrip.mp4|platform:Browser|pms-id:asm15/demo/705|position:11|techniques:HTML5 + WebGL + JP emoji + (−)-trans-Δ9-tetrahydrocannabinol + tape loops + toy synths + drum machines + series of flashcards|title:Divination|youtube:1UNS9VcUoug
+author:KoomaDot|guid:2044|media:/vod/2015/Compos/2044_Demo_TUBES_by_KoomaDot.mp4|platform:PC|pms-id:asm15/demo/904|position:12|techniques:Photoshop, Fusion2.5 and "skills"|title:T.U.B.E.S|youtube:RNxp022GZgk
+author:Wide Load|guid:2052|media:/vod/2015/Compos/2052_Demo_Air_to_Ground_by_Wide_Load.mp4|platform:Browser|pms-id:asm15/demo/923|position:13|techniques:Webgl, Threejs, Glsl|title:Air to Ground|youtube:anJpNhGalc0
+author:Paraguay|guid:2053|media:/vod/2015/Compos/2053_Demo_No_Fear_by_Paraguay.mp4|platform:WebGL, Three.js|pms-id:asm15/demo/925|position:14|techniques:deadline driven development|title:No Fear|youtube:b0QbQ6op4pM
+author:HACKERS|guid:2054|media:/vod/2015/Compos/2054_Demo_CyberVirtual_Life_Form_by_HACKERS.mp4|platform:Win/Linux/OSX Nvidia/AMD/Intel|pms-id:asm15/demo/926|position:15|techniques:SDL, OpenGL, |title:Cyber-Virtual Life Form|youtube:sEng6Xq3mxU
 
 
 :section 4k intro
@@ -289,6 +289,8 @@ author:AssemblyTV|description:Discussion about the entries of the the 4k intro c
 author:AssemblyTV|description:Discussion about the entries of the Demo compo|guid:1909|media:/vod/2015/AssemblyTV/1909_Demo_compo_studio.mp4|title:Demo compo compostudio|youtube:RAZ4Be7eVdU
 author:AssemblyTV|guid:2058|media:/vod/2015/AssemblyTV/2058_kajaanigamescene.mp4|title:Why Kajaani Always Wins|youtube:QV7TRkEHKu0
 author:AssemblyTV|guid:2059|media:/vod/2015/AssemblyTV/2059_asmfiilisvoittaja.mp4|title:Instagram competition #2 winner announcement|youtube:joQ_dt_cpDA
+author:AssemblyTV|guid:2060|media:/vod/2015/AssemblyTV/2060_Demokompo_esittely.mp4|title:Demokompo esittely|youtube:oPfeIY0vgzk
+author:AssemblyTV|guid:2061|media:/vod/2015/AssemblyTV/2061_Demo_compostudio_1.mp4|title:Democompo suomistudio|youtube:g1i3SYhCvqI
 
 
 :section eSports
@@ -335,7 +337,7 @@ author:AssemblyTV|guid:1997|media:/vod/2015/Games/1997_ASUS_ROG_Summer_2015_HS__
 author:AssemblyTV|guid:1998|media:/vod/2015/Games/1998_ASUS_ROG_Summer_2015_HS__Gameking_vs_Hoej.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Hoej|youtube:TaxvqvKzx0s
 author:AssemblyTV|guid:1999|media:/vod/2015/Games/1999_ASUS_ROG_Summer_2015_HS__Gameking_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Gameking vs. Tom60229|youtube:F12pLUh_WmA
 author:AssemblyTV|guid:2001|media:/vod/2015/Games/2001_ASUS_ROG_Summer_2015_HS__Lifecoach_vs_Powder.mp4|title:ASUS ROG Summer 2015 HS - Lifecoach vs. Powder|youtube:P58BFnvaPRc
-author:AssemblyTV|guid:2002|media:/vod/2015/Games/2002_Late_Night_Snack.mp4|title:Late Night Snack|youtube:Sx6aTw1eqvw
+author:AssemblyTV|guid:2002|media:/vod/2015/AssemblyTV/2002_Late_Night_Snack.mp4|title:Late Night Snack|youtube:Sx6aTw1eqvw
 author:AssemblyTV|guid:2010|media:/vod/2015/Games/2010_ASUS_ROG_Summer_2015_HS__Hoej_vs_Martincreek.mp4|title:ASUS ROG Summer 2015 HS - Hoej vs. Martincreek|youtube:OioXjuDG8YI
 author:AssemblyTV|guid:2013|media:/vod/2015/Games/2013_ASUS_ROG_Summer_2015_HS__ThijsNL_vs_Vortex.mp4|title:ASUS ROG Summer 2015 HS - ThijsNL vs. Vortex|youtube:-lWHf0HOkYA
 author:AssemblyTV|guid:2014|media:/vod/2015/Games/2014_ASUS_ROG_Summer_2015_HS__Ostkaka_vs_Tom60229.mp4|title:ASUS ROG Summer 2015 HS - Ostkaka vs. Tom60229|youtube:_OMdUb2kumc
