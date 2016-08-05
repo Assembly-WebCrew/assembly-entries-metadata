@@ -45,8 +45,20 @@
 :section Listening music
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
-:public false
 
+author:(author hidden until results)|pms-id:asm16/listening_music/57|title:Hillbilly Facing Gondor for Golden Fries Techno|video-file:listening-music/04_hillbilly_facing_gondor_for_golden_fries_techno.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/71|title:Savior of Worlds|video-file:listening-music/03_savior_of_worlds.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/75|title:Just Another Quick Match (in Heroes of the Storm)|video-file:listening-music/07_just_another_quick_match_(in_heroes_of_the_storm).flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/92|title:Gouraud|video-file:listening-music/09_gouraud.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/104|title:Wax On Wax Off|video-file:listening-music/08_Wax On Wax Off.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/125|title:Dream of High Score|video-file:listening-music/12_dream_of_high_score.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/127|title:Surf The Planet (インターネット世代)|video-file:listening-music/01_surftheplanet.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/132|title:Leveling Music|video-file:listening-music/13_Leveling Music.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/133|title:Noah's Urk|video-file:listening-music/10_Noah's Urk.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/146|title:NIGHTS|video-file:listening-music/02_nights.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/147|title:Distress Signal Near The Home Planet|video-file:listening-music/05_distress_signal_near_the_home_planet.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/154|title:No Way Out|video-file:listening-music/06_No Way Out.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon Light Coronatus Stage|video-file:listening-music/11_neon_light_coronatus_stage.flac.mp4
 
 
 :section Fast music
@@ -86,62 +98,62 @@ author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdote
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:(author hidden until results)|pms-id:asm16/graphics/51|title:You came to the wrong pond|image-file:graphics/02.you-came-to-the-wrong-pond_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/52|title:Sunset City|image-file:graphics/05.sunset_city_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes|image-file:graphics/08.the-mythical-shrine-of-the-garden-gnomes_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!|image-file:graphics/03.leipaa_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/84|title:Legendary Punatulkku|image-file:graphics/15.legendary_punatulkku_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/107|title:Flowersea|image-file:graphics/06.flowersea_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/111|title:Close to the Sun|image-file:graphics/12.Close_to_the_Sun_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow|image-file:graphics/16.Grove_of_the_Pilgrim Hollow_nosig.jpg
-author:(author hidden until results)|pms-id:asm16/graphics/128|title:Bounty buddies|image-file:graphics/10.bounty_buddies_nosig.jpg
-author:(author hidden until results)|pms-id:asm16/graphics/129|title:Pew Pew|image-file:graphics/07.Pewpew.png
-author:(author hidden until results)|pms-id:asm16/graphics/136|title:Cheese Attack|image-file:graphics/09.cheese_attack_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/138|title:Will-o'-wisp|image-file:graphics/04.Will-o'-wisp_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/139|title:Honey I am Sorry|image-file:graphics/01.honey_i_am_sorry.png
-author:(author hidden until results)|pms-id:asm16/graphics/145|title:Dragon Slayer|image-file:graphics/13.dragon_slayer_nosig.png
-author:(author hidden until results)|pms-id:asm16/graphics/152|title:Ascii Walley|image-file:graphics/11.Ascii_Walley_NoSig.png
-author:(author hidden until results)|pms-id:asm16/graphics/153|title:At The Docks|image-file:graphics/14.AtTheDocks_NoSig.jpg
+author:(author hidden until results)|image-file:graphics/02-you-came-to-the-wrong-pond_nosig.png|pms-id:asm16/graphics/51|title:You came to the wrong pond
+author:(author hidden until results)|image-file:graphics/05-sunset_city_nosig.png|pms-id:asm16/graphics/52|title:Sunset City
+author:(author hidden until results)|image-file:graphics/08-the-mythical-shrine-of-the-garden-gnomes_nosig.png|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes
+author:(author hidden until results)|image-file:graphics/03-leipaa_nosig.png|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!
+author:(author hidden until results)|image-file:graphics/15-legendary_punatulkku_nosig.png|pms-id:asm16/graphics/84|title:Legendary Punatulkku
+author:(author hidden until results)|image-file:graphics/06-flowersea_nosig.png|pms-id:asm16/graphics/107|title:Flowersea
+author:(author hidden until results)|image-file:graphics/12-Close_to_the_Sun_nosig.png|pms-id:asm16/graphics/111|title:Close to the Sun
+author:(author hidden until results)|image-file:graphics/16-Grove_of_the_Pilgrim Hollow_nosig.jpg|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow
+author:(author hidden until results)|image-file:graphics/10-bounty_buddies_nosig.jpg|pms-id:asm16/graphics/128|title:Bounty buddies
+author:(author hidden until results)|image-file:graphics/07-Pewpew.png|pms-id:asm16/graphics/129|title:Pew Pew
+author:(author hidden until results)|image-file:graphics/09-cheese_attack_nosig.png|pms-id:asm16/graphics/136|title:Cheese Attack
+author:(author hidden until results)|image-file:graphics/04-Will-o'-wisp_nosig.png|pms-id:asm16/graphics/138|title:Will-o'-wisp
+author:(author hidden until results)|image-file:graphics/01-honey_i_am_sorry.png|pms-id:asm16/graphics/139|title:Honey I am Sorry
+author:(author hidden until results)|image-file:graphics/13-dragon_slayer_nosig.png|pms-id:asm16/graphics/145|title:Dragon Slayer
+author:(author hidden until results)|image-file:graphics/11-Ascii_Walley_NoSig.png|pms-id:asm16/graphics/152|title:Ascii Walley
+author:(author hidden until results)|image-file:graphics/14-AtTheDocks_NoSig.jpg|pms-id:asm16/graphics/153|title:At The Docks
 
 
 :section Photo
 :pms-category photo
 
-author:(author hidden until results)|pms-id:asm16/photo/33|title:Real-time raytracing II|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg
-author:(author hidden until results)|pms-id:asm16/photo/42|title:Aragog's second cousin|image-file:photo/01_aragog_s_second_cousin.jpg
-author:(author hidden until results)|pms-id:asm16/photo/43|title:Gotcha!|image-file:photo/10_gotcha_.jpg
-author:(author hidden until results)|pms-id:asm16/photo/56|title:Unique Symmetry|image-file:photo/14_unique_symmetry.jpg
-author:(author hidden until results)|pms-id:asm16/photo/58|title:Onward|image-file:photo/13_Onward_by_Tethys_(FullHD_crop).png
-author:(author hidden until results)|pms-id:asm16/photo/64|title:seeds of jury|image-file:photo/05_seeds_of_jury.png
-author:(author hidden until results)|pms-id:asm16/photo/68|title:Chiba City Console Cowboy|image-file:photo/15_chiba-city-console-cowgirl.png
-author:(author hidden until results)|pms-id:asm16/photo/78|title:Is it a cold world out there?|image-file:photo/06_is it cold out there.jpg
-author:(author hidden until results)|pms-id:asm16/photo/95|title:Onwards... to glory!!!|image-file:photo/07_onwards_to_glory.jpg
-author:(author hidden until results)|pms-id:asm16/photo/99|title:Frigiliana|image-file:photo/09_frigiliana-nosig.png
-author:(author hidden until results)|pms-id:asm16/photo/101|title:aglais.io/dorsal|image-file:photo/08_aglais_io_dorsal.png
-author:(author hidden until results)|pms-id:asm16/photo/118|title:Fractal Lifeform|image-file:photo/04_Fractal_Lifeform.jpg
-author:(author hidden until results)|pms-id:asm16/photo/123|title:Slippy Joe|image-file:photo/11_slippy_joe.jpg
-author:(author hidden until results)|pms-id:asm16/photo/134|title:Gotcha!|image-file:photo/12_gotcha_169.jpg
-author:(author hidden until results)|pms-id:asm16/photo/143|title:Harley Quinn|image-file:photo/02_harley-quinn.jpg
-author:(author hidden until results)|pms-id:asm16/photo/144|title:Cloudwarp|image-file:photo/03_cloudwarp.png
+author:(author hidden until results)|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg|pms-id:asm16/photo/33|title:Real-time raytracing II
+author:(author hidden until results)|image-file:photo/01_aragog_s_second_cousin.jpg|pms-id:asm16/photo/42|title:Aragog's second cousin
+author:(author hidden until results)|image-file:photo/12_gotcha_169.jpg|pms-id:asm16/photo/43|title:12 Gotcha!
+author:(author hidden until results)|image-file:photo/14_unique_symmetry.jpg|pms-id:asm16/photo/56|title:Unique Symmetry
+author:(author hidden until results)|image-file:photo/13_Onward_by_Tethys_(FullHD_crop).png|pms-id:asm16/photo/58|title:Onward
+author:(author hidden until results)|image-file:photo/05_seeds_of_jury.png|pms-id:asm16/photo/64|title:seeds of jury
+author:(author hidden until results)|image-file:photo/15_chiba-city-console-cowgirl.png|pms-id:asm16/photo/68|title:Chiba City Console Cowboy
+author:(author hidden until results)|image-file:photo/06_is it cold out there.jpg|pms-id:asm16/photo/78|title:Is it a cold world out there?
+author:(author hidden until results)|image-file:photo/07_onwards_to_glory.jpg|pms-id:asm16/photo/95|title:Onwards... to glory!!!
+author:(author hidden until results)|image-file:photo/09_frigiliana-nosig.png|pms-id:asm16/photo/99|title:Frigiliana
+author:(author hidden until results)|image-file:photo/08_aglais_io_dorsal.png|pms-id:asm16/photo/101|title:aglais.io/dorsal
+author:(author hidden until results)|image-file:photo/04_Fractal_Lifeform.jpg|pms-id:asm16/photo/118|title:Fractal Lifeform
+author:(author hidden until results)|image-file:photo/11_slippy_joe.jpg|pms-id:asm16/photo/123|title:Slippy Joe
+author:(author hidden until results)|image-file:photo/10_gotcha_.jpg|pms-id:asm16/photo/134|title:10 Gotcha!
+author:(author hidden until results)|image-file:photo/02_harley-quinn.jpg|pms-id:asm16/photo/143|title:Harley Quinn
+author:(author hidden until results)|image-file:photo/03_cloudwarp.png|pms-id:asm16/photo/144|title:Cloudwarp
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Beyond repair" theme.</p>
 
-author:(author hidden until results)|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg|image-file:fast-graphics/13.i_m_sorry__we_have_to_lose_the_leg.jpg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/168|title:No way out|image-file:fast-graphics/06.nowayout_nosig.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/171|title:Beyond repair|image-file:fast-graphics/10.beyond_repair_1.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries|image-file:fast-graphics/02.sibling_rivalries.jpeg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet|image-file:fast-graphics/03.scene_is_not_dead_yet.jpg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts|image-file:fast-graphics/12.Looking_for_spare_parts_by_darkki_nosig.jpg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/175|title:Broken|image-file:fast-graphics/07.broken.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/177|title:Rude sandstorm|image-file:fast-graphics/11.rude_sandstorm.jpg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/179|title:It Hit the Fan|image-file:fast-graphics/08.it_hit_the_fan.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/181|title:That's life|image-file:fast-graphics/04.that_s_life.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/182|title:Show must go on...|image-file:fast-graphics/09.show_must_go_on....png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/183|title:Beyond Repair|image-file:fast-graphics/05.beyond_repair_2.png
-author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyooooooo!|image-file:fast-graphics/01.nyooooooo_.jpg
+author:(author hidden until results)|image-file:fast-graphics/13-i_m_sorry__we_have_to_lose_the_leg.jpg|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg
+author:(author hidden until results)|image-file:fast-graphics/06-nowayout_nosig.png|pms-id:asm16/fast_graphics/168|title:No way out
+author:(author hidden until results)|image-file:fast-graphics/10-beyond_repair_1.png|pms-id:asm16/fast_graphics/171|title:10 Beyond repair
+author:(author hidden until results)|image-file:fast-graphics/02-sibling_rivalries.jpeg|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries
+author:(author hidden until results)|image-file:fast-graphics/03-scene_is_not_dead_yet.jpg|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet
+author:(author hidden until results)|image-file:fast-graphics/12-Looking_for_spare_parts_by_darkki_nosig.jpg|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts
+author:(author hidden until results)|image-file:fast-graphics/07-broken.png|pms-id:asm16/fast_graphics/175|title:Broken
+author:(author hidden until results)|image-file:fast-graphics/11-rude_sandstorm.jpg|pms-id:asm16/fast_graphics/177|title:Rude sandstorm
+author:(author hidden until results)|image-file:fast-graphics/08-it_hit_the_fan.png|pms-id:asm16/fast_graphics/179|title:It Hit the Fan
+author:(author hidden until results)|image-file:fast-graphics/04-that_s_life.png|pms-id:asm16/fast_graphics/181|title:That's life
+author:(author hidden until results)|image-file:fast-graphics/09-show_must_go_on.png|pms-id:asm16/fast_graphics/182|title:Show must go on...
+author:(author hidden until results)|image-file:fast-graphics/05-beyond_repair_2.png|pms-id:asm16/fast_graphics/183|title:05 Beyond Repair
+author:(author hidden until results)|image-file:fast-graphics/01-nyooooooo_.jpg|pms-id:asm16/fast_graphics/185|title:Nyooooooo!
 
 
 :section Seminars
