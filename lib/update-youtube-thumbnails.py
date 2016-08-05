@@ -21,7 +21,9 @@ def create_thumbnail(source, width, height, target_jpeg, target_png):
 
     if not os.path.exists(target_png):
         subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_png])
-        subprocess.call(['optipng', '-o7', target_png])
+        temporary_png = "%s.zpng" % target_png
+        subprocess.call(['zopflipng', '-m', target_png, temporary_png])
+        subprocess.call(['mv', temporary_png, target_png])
 
 
 def link_to_missing_thumbnail(target_jpeg, target_png):
