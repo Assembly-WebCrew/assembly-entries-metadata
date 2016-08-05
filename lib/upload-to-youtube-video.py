@@ -31,6 +31,7 @@ unlisted_video = commandline_args.unlisted
 
 
 def call_and_capture_output_real(args):
+    sys.stderr.write("%s\n" % args)
     p = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, errors = p.communicate()
     outlines = output.strip().split("\n")
