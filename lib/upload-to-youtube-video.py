@@ -161,12 +161,12 @@ for line in sys.stdin:
     tags = ",".join(tag_list)
 
     args = [
-        'youtube-upload',
+        '/home/jussi/.local/bin/youtube-upload',
         '--category', category,
         '--tags', tags,
         '--title', youtube_title,
         '--description', description,
-        '--credentials-file', 'client_secrets.json',
+#        '--credentials-file', 'client_secrets.json',
         video_file]
     if unlisted_video:
         args.append("--privacy=unlisted")

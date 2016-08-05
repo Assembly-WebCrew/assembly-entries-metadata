@@ -46,52 +46,52 @@
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
-author:(author hidden until results)|pms-id:asm16/listening_music/57|title:Hillbilly Facing Gondor for Golden Fries Techno|video-file:listening-music/04_hillbilly_facing_gondor_for_golden_fries_techno.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/71|title:Savior of Worlds|video-file:listening-music/03_savior_of_worlds.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/75|title:Just Another Quick Match (in Heroes of the Storm)|video-file:listening-music/07_just_another_quick_match_(in_heroes_of_the_storm).flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/92|title:Gouraud|video-file:listening-music/09_gouraud.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/104|title:Wax On Wax Off|video-file:listening-music/08_Wax On Wax Off.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/125|title:Dream of High Score|video-file:listening-music/12_dream_of_high_score.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/127|title:Surf The Planet (インターネット世代)|video-file:listening-music/01_surftheplanet.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/132|title:Leveling Music|video-file:listening-music/13_Leveling Music.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/133|title:Noah's Urk|video-file:listening-music/10_Noah's Urk.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/146|title:NIGHTS|video-file:listening-music/02_nights.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/147|title:Distress Signal Near The Home Planet|video-file:listening-music/05_distress_signal_near_the_home_planet.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/154|title:No Way Out|video-file:listening-music/06_No Way Out.flac.mp4
-author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon Light Coronatus Stage|video-file:listening-music/11_neon_light_coronatus_stage.flac.mp4
+author:(author hidden until results)|pms-id:asm16/listening_music/57|title:Hillbilly Facing Gondor for Golden Fries Techno|video-file:listening-music/04_hillbilly_facing_gondor_for_golden_fries_techno.flac.mp4|youtube:uFrzCFZD7Xc
+author:(author hidden until results)|pms-id:asm16/listening_music/71|title:Savior of Worlds|video-file:listening-music/03_savior_of_worlds.flac.mp4|youtube:R2TPa2aDoXo
+author:(author hidden until results)|pms-id:asm16/listening_music/75|title:Just Another Quick Match (in Heroes of the Storm)|video-file:listening-music/07_just_another_quick_match_(in_heroes_of_the_storm).flac.mp4|youtube:VEExROxxIaI
+author:(author hidden until results)|pms-id:asm16/listening_music/92|title:Gouraud|video-file:listening-music/09_gouraud.flac.mp4|youtube:StIo-4s0Esg
+author:(author hidden until results)|pms-id:asm16/listening_music/104|title:Wax On Wax Off|video-file:listening-music/08_Wax On Wax Off.flac.mp4|youtube:wffqMcitAhM
+author:(author hidden until results)|pms-id:asm16/listening_music/125|title:Dream of High Score|video-file:listening-music/12_dream_of_high_score.flac.mp4|youtube:mMcsYJblcd8
+author:(author hidden until results)|pms-id:asm16/listening_music/127|title:Surf The Planet (インターネット世代)|video-file:listening-music/01_surftheplanet.flac.mp4|youtube:3PkA7sT4RPE
+author:(author hidden until results)|pms-id:asm16/listening_music/132|title:Leveling Music|video-file:listening-music/13_Leveling Music.flac.mp4|youtube:uBPfzXEdOs4
+author:(author hidden until results)|pms-id:asm16/listening_music/133|title:Noah's Urk|video-file:listening-music/10_Noah's Urk.flac.mp4|youtube:q1G7l3dg7n8
+author:(author hidden until results)|pms-id:asm16/listening_music/146|title:NIGHTS|video-file:listening-music/02_nights.flac.mp4|youtube:SycdJ4Y5hGk
+author:(author hidden until results)|pms-id:asm16/listening_music/147|title:Distress Signal Near The Home Planet|video-file:listening-music/05_distress_signal_near_the_home_planet.flac.mp4|youtube:a3EJMSR-QKk
+author:(author hidden until results)|pms-id:asm16/listening_music/154|title:No Way Out|video-file:listening-music/06_No Way Out.flac.mp4|youtube:AFM-BeMWXuU
+author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon Light Coronatus Stage|video-file:listening-music/11_neon_light_coronatus_stage.flac.mp4|youtube:BCGrDCnZefQ
 
 
 :section Fast music
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:(author hidden until results)|pms-id:asm16/fast_music/229|title:Translative Figure|video-file:fast-music/07translative_figure.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/230|title:Muutama risu|video-file:fast-music/05muutama_risu.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät|video-file:fast-music/06jukke-pupun_eläkepäivät.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/232|title:Juhkun Villapaita|video-file:fast-music/08juhkun_villapaita.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/233|title:Almost|video-file:fast-music/02almost.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/234|title:Bunny Boogie|video-file:fast-music/04bunny_boogie.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/235|title:it's fast|video-file:fast-music/09it_s_fast.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/236|title:Happy Day|video-file:fast-music/03happy_day.flac.mp4
-author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that fast (140)|video-file:fast-music/01not_that_fast_(140).flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/229|title:Translative Figure|video-file:fast-music/07translative_figure.flac.mp4|youtube:K-OJ5pIpimY
+author:(author hidden until results)|pms-id:asm16/fast_music/230|title:Muutama risu|video-file:fast-music/05muutama_risu.flac.mp4|youtube:ydxXEjJBp_E
+author:(author hidden until results)|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät|video-file:fast-music/06jukke-pupun_eläkepäivät.flac.mp4|youtube:50ADeevZYRY
+author:(author hidden until results)|pms-id:asm16/fast_music/232|title:Juhkun Villapaita|video-file:fast-music/08juhkun_villapaita.flac.mp4|youtube:PecT0rQch7A
+author:(author hidden until results)|pms-id:asm16/fast_music/233|title:Almost|video-file:fast-music/02almost.flac.mp4|youtube:PCUYvoJ9NZU
+author:(author hidden until results)|pms-id:asm16/fast_music/234|title:Bunny Boogie|video-file:fast-music/04bunny_boogie.flac.mp4|youtube:m4yJIYnHrRQ
+author:(author hidden until results)|pms-id:asm16/fast_music/235|title:it's fast|video-file:fast-music/09it_s_fast.flac.mp4|youtube:b5KaqhoXi_U
+author:(author hidden until results)|pms-id:asm16/fast_music/236|title:Happy Day|video-file:fast-music/03happy_day.flac.mp4|youtube:h2gz4rVIdPw
+author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that fast (140)|video-file:fast-music/01not_that_fast_(140).flac.mp4|youtube:nqPFujkXGBM
 
 
 :section Dance music
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
-author:(author hidden until results)|pms-id:asm16/dance_music/46|title:Ibiza Sunrise|video-file:dance-music/09ibiza_sunrise.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/49|title:BLIP|video-file:dance-music/05blip_edit.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/65|title:Yin Yang|video-file:dance-music/03yin_yang_edit.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/70|title:Spellhaunt|video-file:dance-music/06spellhaunt.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/72|title:With You|video-file:dance-music/13with_you.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/80|title:Dance for the Robot Overlords|video-file:dance-music/02Dance_for_the_Robot_Overlords.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/103|title:Piña Colada|video-file:dance-music/08pinacolada.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/106|title:Rave Network Overscan|video-file:dance-music/10rave_network_overscan.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/126|title:Let My NES Move You 2|video-file:dance-music/11let_my_nes_move_you_2.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/148|title:outer space|video-file:dance-music/12outer_space.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/149|title:Deadline trauma|video-file:dance-music/07deadlinetrauma.flac.mp4
-author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdotetaan|video-file:dance-music/04spurdotetaan_edit.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/46|title:Ibiza Sunrise|video-file:dance-music/09ibiza_sunrise.flac.mp4|youtube:o8zrue1c6aw
+author:(author hidden until results)|pms-id:asm16/dance_music/49|title:BLIP|video-file:dance-music/05blip_edit.flac.mp4|youtube:iwDrXkT_dNc
+author:(author hidden until results)|pms-id:asm16/dance_music/65|title:Yin Yang|video-file:dance-music/03yin_yang_edit.flac.mp4|youtube:IGrXTmkF2H8
+author:(author hidden until results)|pms-id:asm16/dance_music/70|title:Spellhaunt|video-file:dance-music/06spellhaunt.flac.mp4|youtube:GBB0DHPxWfc
+author:(author hidden until results)|pms-id:asm16/dance_music/72|title:With You|video-file:dance-music/13with_you.flac.mp4|youtube:xXo3hQqNB3I
+author:(author hidden until results)|pms-id:asm16/dance_music/80|title:Dance for the Robot Overlords|video-file:dance-music/02Dance_for_the_Robot_Overlords.flac.mp4|youtube:Vxwj52ivjQM
+author:(author hidden until results)|pms-id:asm16/dance_music/103|title:Piña Colada|video-file:dance-music/08pinacolada.flac.mp4|youtube:fDl5030mKpw
+author:(author hidden until results)|pms-id:asm16/dance_music/106|title:Rave Network Overscan|video-file:dance-music/10rave_network_overscan.flac.mp4|youtube:FAd2y-7q0oQ
+author:(author hidden until results)|pms-id:asm16/dance_music/126|title:Let My NES Move You 2|video-file:dance-music/11let_my_nes_move_you_2.flac.mp4|youtube:MedXYxZOQxs
+author:(author hidden until results)|pms-id:asm16/dance_music/148|title:outer space|video-file:dance-music/12outer_space.flac.mp4|youtube:Qh9FA6UWr4A
+author:(author hidden until results)|pms-id:asm16/dance_music/149|title:Deadline trauma|video-file:dance-music/07deadlinetrauma.flac.mp4|youtube:cAV-8KuRsfk
+author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdotetaan|video-file:dance-music/04spurdotetaan_edit.flac.mp4|youtube:fSVH_LxOdIc
 
 
 :section Graphics
