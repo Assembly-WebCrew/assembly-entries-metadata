@@ -24,11 +24,24 @@
 :section Real wild demo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:public false
 
 author:sssampo/pistoke|pms-id:asm16/real_wild/81|title:snek
 author:Paraguay|pms-id:asm16/real_wild/91|title:Teletext 40 years
 author:Juippi, Trilkk, Warma / Faemiyah|pms-id:asm16/real_wild/115|title:My Mistress the Leviathan
+
+
+:section Oldskool demo
+:pms-category oldskool_demo
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:public false
+
+author:Quadtrip|pms-id:asm16/oldskool_demo/7|title:Alllegory
+author:BooZombies|pms-id:asm16/oldskool_demo/63|title:Psychosis
+author:Alpha Design|pms-id:asm16/oldskool_demo/69|title:Blockhead
+author:Saksalainen Laatu|pms-id:asm16/oldskool_demo/108|title:I would rather
+author:Peisik|pms-id:asm16/oldskool_demo/121|title:Daybreak
+author:Byterapers|pms-id:asm16/oldskool_demo/124|title:Malf*cktion
+author:Fiture Crew Lamer Section|pms-id:asm16/oldskool_demo/135|title:Amica Mackig
 
 
 :section Short film
