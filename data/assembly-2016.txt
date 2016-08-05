@@ -106,43 +106,42 @@ author:(author hidden until results)|pms-id:asm16/graphics/153|title:At The Dock
 
 :section Photo
 :pms-category photo
-:public false
 
-author:(author hidden until results)|pms-id:asm16/photo/33|title:Real-time raytracing II|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/42|title:Aragog's second cousin|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/43|title:Gotcha!|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/56|title:Unique Symmetry|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/58|title:Onward|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/64|title:seeds of jury|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/68|title:Chiba City Console Cowboy|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/78|title:Is it a cold world out there?|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/95|title:Onwards... to glory!!!|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/99|title:Frigiliana|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/101|title:aglais.io/dorsal|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/118|title:Fractal Lifeform|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/123|title:Slippy Joe|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/134|title:Gotcha!|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/143|title:Harley Quinn|image-file:photo/
-author:(author hidden until results)|pms-id:asm16/photo/144|title:Cloudwarp|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/33|title:Real-time raytracing II|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg
+author:(author hidden until results)|pms-id:asm16/photo/42|title:Aragog's second cousin|image-file:photo/01_aragog_s_second_cousin.jpg
+author:(author hidden until results)|pms-id:asm16/photo/43|title:Gotcha!|image-file:photo/10_gotcha_.jpg
+author:(author hidden until results)|pms-id:asm16/photo/56|title:Unique Symmetry|image-file:photo/14_unique_symmetry.jpg
+author:(author hidden until results)|pms-id:asm16/photo/58|title:Onward|image-file:photo/13_Onward_by_Tethys_(FullHD_crop).png
+author:(author hidden until results)|pms-id:asm16/photo/64|title:seeds of jury|image-file:photo/05_seeds_of_jury.png
+author:(author hidden until results)|pms-id:asm16/photo/68|title:Chiba City Console Cowboy|image-file:photo/15_chiba-city-console-cowgirl.png
+author:(author hidden until results)|pms-id:asm16/photo/78|title:Is it a cold world out there?|image-file:photo/06_is it cold out there.jpg
+author:(author hidden until results)|pms-id:asm16/photo/95|title:Onwards... to glory!!!|image-file:photo/07_onwards_to_glory.jpg
+author:(author hidden until results)|pms-id:asm16/photo/99|title:Frigiliana|image-file:photo/09_frigiliana-nosig.png
+author:(author hidden until results)|pms-id:asm16/photo/101|title:aglais.io/dorsal|image-file:photo/08_aglais_io_dorsal.png
+author:(author hidden until results)|pms-id:asm16/photo/118|title:Fractal Lifeform|image-file:photo/04_Fractal_Lifeform.jpg
+author:(author hidden until results)|pms-id:asm16/photo/123|title:Slippy Joe|image-file:photo/11_slippy_joe.jpg
+author:(author hidden until results)|pms-id:asm16/photo/134|title:Gotcha!|image-file:photo/12_gotcha_169.jpg
+author:(author hidden until results)|pms-id:asm16/photo/143|title:Harley Quinn|image-file:photo/02_harley-quinn.jpg
+author:(author hidden until results)|pms-id:asm16/photo/144|title:Cloudwarp|image-file:photo/03_cloudwarp.png
 
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with "Bending the party rules" theme.</p>
+:description <p>Competitors had 1.5 hours to create an image with "Beyond repair" theme.</p>
 
-author:(author hidden until results)|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/168|title:No way out|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/171|title:Beyond repair|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/175|title:Broken|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/177|title:Rude sandstorm|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/179|title:It Hit the Fan|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/181|title:That's life|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/182|title:Show must go on...|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/183|title:Beyond Repair|image-file:fast-graphics/
-author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyooooooo!|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg|image-file:fast-graphics/13.i_m_sorry__we_have_to_lose_the_leg.jpg
+author:(author hidden until results)|pms-id:asm16/fast_graphics/168|title:No way out|image-file:fast-graphics/06.nowayout_nosig.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/171|title:Beyond repair|image-file:fast-graphics/10.beyond_repair_1.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries|image-file:fast-graphics/02.sibling_rivalries.jpeg
+author:(author hidden until results)|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet|image-file:fast-graphics/03.scene_is_not_dead_yet.jpg
+author:(author hidden until results)|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts|image-file:fast-graphics/12.Looking_for_spare_parts_by_darkki_nosig.jpg
+author:(author hidden until results)|pms-id:asm16/fast_graphics/175|title:Broken|image-file:fast-graphics/07.broken.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/177|title:Rude sandstorm|image-file:fast-graphics/11.rude_sandstorm.jpg
+author:(author hidden until results)|pms-id:asm16/fast_graphics/179|title:It Hit the Fan|image-file:fast-graphics/08.it_hit_the_fan.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/181|title:That's life|image-file:fast-graphics/04.that_s_life.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/182|title:Show must go on...|image-file:fast-graphics/09.show_must_go_on....png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/183|title:Beyond Repair|image-file:fast-graphics/05.beyond_repair_2.png
+author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyooooooo!|image-file:fast-graphics/01.nyooooooo_.jpg
 
 
 :section Seminars
