@@ -19,13 +19,13 @@ for D in "$@" ; do
             convert -resize 640x10000 "$I" thumbnails/large/"$D"/"$BASE".jpeg
             jpegoptim --strip-all thumbnails/large/"$D"/"$BASE".jpeg
             convert -resize 640x10000 "$I" thumbnails/large/"$D"/"$BASE".png
-            optipng -o7 thumbnails/large/"$D"/"$BASE".png
+            zopflipng -m thumbnails/large/"$D"/"$BASE".png thumbnails/large/"$D"/"$BASE".png.z && mv thumbnails/large/"$D"/"$BASE".png.z thumbnails/large/"$D"/"$BASE".png
 
             convert "$I" -resize 160x5000 resized.png
             convert -gravity Center -crop 160x90+0+0 +repage resized.png thumbnails/small/"$D"/"$BASE".jpeg
             jpegoptim --strip-all thumbnails/small/"$D"/"$BASE".jpeg
             convert -gravity Center -crop 160x90+0+0 +repage resized.png thumbnails/small/"$D"/"$BASE".png
-            optipng -o7 thumbnails/small/"$D"/"$BASE".png
+            zopflipng -m thumbnails/small/"$D"/"$BASE".png thumbnails/small/"$D"/"$BASE".png.z && mv thumbnails/small/"$D"/"$BASE".png.z thumbnails/small/"$D"/"$BASE".png
         done
     done
 done
