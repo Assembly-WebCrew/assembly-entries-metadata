@@ -53,85 +53,96 @@
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:(author hidden until results)|pms-id:asm16/fast_music/229|title:Translative Figure
-author:(author hidden until results)|pms-id:asm16/fast_music/230|title:Muutama risu
-author:(author hidden until results)|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät
-author:(author hidden until results)|pms-id:asm16/fast_music/232|title:Juhkun Villapaita
-author:(author hidden until results)|pms-id:asm16/fast_music/233|title:Almost
-author:(author hidden until results)|pms-id:asm16/fast_music/234|title:Bunny Boogie
-author:(author hidden until results)|pms-id:asm16/fast_music/235|title:it's fast
-author:(author hidden until results)|pms-id:asm16/fast_music/236|title:Happy Day
-author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that fast (140)
+author:(author hidden until results)|pms-id:asm16/fast_music/229|title:Translative Figure|video-file:fast-music/07translative_figure.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/230|title:Muutama risu|video-file:fast-music/05muutama_risu.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät|video-file:fast-music/06jukke-pupun_eläkepäivät.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/232|title:Juhkun Villapaita|video-file:fast-music/08juhkun_villapaita.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/233|title:Almost|video-file:fast-music/02almost.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/234|title:Bunny Boogie|video-file:fast-music/04bunny_boogie.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/235|title:it's fast|video-file:fast-music/09it_s_fast.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/236|title:Happy Day|video-file:fast-music/03happy_day.flac.mp4
+author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that fast (140)|video-file:fast-music/01not_that_fast_(140).flac.mp4
 
 
 :section Dance music
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
-:public false
 
+author:(author hidden until results)|pms-id:asm16/dance_music/46|title:Ibiza Sunrise|video-file:dance-music/09ibiza_sunrise.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/49|title:BLIP|video-file:dance-music/05blip_edit.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/65|title:Yin Yang|video-file:dance-music/03yin_yang_edit.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/70|title:Spellhaunt|video-file:dance-music/06spellhaunt.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/72|title:With You|video-file:dance-music/13with_you.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/80|title:Dance for the Robot Overlords|video-file:dance-music/02Dance_for_the_Robot_Overlords.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/103|title:Piña Colada|video-file:dance-music/08pinacolada.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/106|title:Rave Network Overscan|video-file:dance-music/10rave_network_overscan.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/126|title:Let My NES Move You 2|video-file:dance-music/11let_my_nes_move_you_2.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/148|title:outer space|video-file:dance-music/12outer_space.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/149|title:Deadline trauma|video-file:dance-music/07deadlinetrauma.flac.mp4
+author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdotetaan|video-file:dance-music/04spurdotetaan_edit.flac.mp4
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:(author hidden until results)|pms-id:asm16/graphics/51|title:You came to the wrong pond
-author:(author hidden until results)|pms-id:asm16/graphics/52|title:Sunset City
-author:(author hidden until results)|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes
-author:(author hidden until results)|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!
-author:(author hidden until results)|pms-id:asm16/graphics/84|title:Legendary Punatulkku
-author:(author hidden until results)|pms-id:asm16/graphics/107|title:Flowersea
-author:(author hidden until results)|pms-id:asm16/graphics/111|title:Close to the Sun
-author:(author hidden until results)|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow
-author:(author hidden until results)|pms-id:asm16/graphics/128|title:Bounty buddies
-author:(author hidden until results)|pms-id:asm16/graphics/129|title:Pew Pew
-author:(author hidden until results)|pms-id:asm16/graphics/136|title:Cheese Attack
-author:(author hidden until results)|pms-id:asm16/graphics/138|title:Will-o'-wisp
-author:(author hidden until results)|pms-id:asm16/graphics/139|title:Honey I am Sorry
-author:(author hidden until results)|pms-id:asm16/graphics/145|title:Dragon Slayer
-author:(author hidden until results)|pms-id:asm16/graphics/152|title:Ascii Walley
-author:(author hidden until results)|pms-id:asm16/graphics/153|title:At The Docks
+author:(author hidden until results)|pms-id:asm16/graphics/51|title:You came to the wrong pond|image-file:graphics/02.you-came-to-the-wrong-pond_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/52|title:Sunset City|image-file:graphics/05.sunset_city_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes|image-file:graphics/08.the-mythical-shrine-of-the-garden-gnomes_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!|image-file:graphics/03.leipaa_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/84|title:Legendary Punatulkku|image-file:graphics/15.legendary_punatulkku_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/107|title:Flowersea|image-file:graphics/06.flowersea_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/111|title:Close to the Sun|image-file:graphics/12.Close_to_the_Sun_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow|image-file:graphics/16.Grove_of_the_Pilgrim Hollow_nosig.jpg
+author:(author hidden until results)|pms-id:asm16/graphics/128|title:Bounty buddies|image-file:graphics/10.bounty_buddies_nosig.jpg
+author:(author hidden until results)|pms-id:asm16/graphics/129|title:Pew Pew|image-file:graphics/07.Pewpew.png
+author:(author hidden until results)|pms-id:asm16/graphics/136|title:Cheese Attack|image-file:graphics/09.cheese_attack_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/138|title:Will-o'-wisp|image-file:graphics/04.Will-o'-wisp_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/139|title:Honey I am Sorry|image-file:graphics/01.honey_i_am_sorry.png
+author:(author hidden until results)|pms-id:asm16/graphics/145|title:Dragon Slayer|image-file:graphics/13.dragon_slayer_nosig.png
+author:(author hidden until results)|pms-id:asm16/graphics/152|title:Ascii Walley|image-file:graphics/11.Ascii_Walley_NoSig.png
+author:(author hidden until results)|pms-id:asm16/graphics/153|title:At The Docks|image-file:graphics/14.AtTheDocks_NoSig.jpg
 
 
 :section Photo
 :pms-category photo
 :public false
 
-author:(author hidden until results)|pms-id:asm16/photo/33|title:Real-time raytracing II
-author:(author hidden until results)|pms-id:asm16/photo/42|title:Aragog's second cousin
-author:(author hidden until results)|pms-id:asm16/photo/43|title:Gotcha!
-author:(author hidden until results)|pms-id:asm16/photo/56|title:Unique Symmetry
-author:(author hidden until results)|pms-id:asm16/photo/58|title:Onward
-author:(author hidden until results)|pms-id:asm16/photo/64|title:seeds of jury
-author:(author hidden until results)|pms-id:asm16/photo/68|title:Chiba City Console Cowboy
-author:(author hidden until results)|pms-id:asm16/photo/78|title:Is it a cold world out there?
-author:(author hidden until results)|pms-id:asm16/photo/95|title:Onwards... to glory!!!
-author:(author hidden until results)|pms-id:asm16/photo/99|title:Frigiliana
-author:(author hidden until results)|pms-id:asm16/photo/101|title:aglais.io/dorsal
-author:(author hidden until results)|pms-id:asm16/photo/118|title:Fractal Lifeform
-author:(author hidden until results)|pms-id:asm16/photo/123|title:Slippy Joe
-author:(author hidden until results)|pms-id:asm16/photo/134|title:Gotcha!
-author:(author hidden until results)|pms-id:asm16/photo/143|title:Harley Quinn
-author:(author hidden until results)|pms-id:asm16/photo/144|title:Cloudwarp
+author:(author hidden until results)|pms-id:asm16/photo/33|title:Real-time raytracing II|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/42|title:Aragog's second cousin|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/43|title:Gotcha!|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/56|title:Unique Symmetry|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/58|title:Onward|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/64|title:seeds of jury|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/68|title:Chiba City Console Cowboy|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/78|title:Is it a cold world out there?|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/95|title:Onwards... to glory!!!|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/99|title:Frigiliana|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/101|title:aglais.io/dorsal|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/118|title:Fractal Lifeform|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/123|title:Slippy Joe|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/134|title:Gotcha!|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/143|title:Harley Quinn|image-file:photo/
+author:(author hidden until results)|pms-id:asm16/photo/144|title:Cloudwarp|image-file:photo/
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Bending the party rules" theme.</p>
 
-author:(author hidden until results)|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg
-author:(author hidden until results)|pms-id:asm16/fast_graphics/168|title:No way out
-author:(author hidden until results)|pms-id:asm16/fast_graphics/171|title:Beyond repair
-author:(author hidden until results)|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries
-author:(author hidden until results)|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet
-author:(author hidden until results)|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts
-author:(author hidden until results)|pms-id:asm16/fast_graphics/175|title:Broken
-author:(author hidden until results)|pms-id:asm16/fast_graphics/177|title:Rude sandstorm
-author:(author hidden until results)|pms-id:asm16/fast_graphics/179|title:It Hit the Fan
-author:(author hidden until results)|pms-id:asm16/fast_graphics/181|title:That's life
-author:(author hidden until results)|pms-id:asm16/fast_graphics/182|title:Show must go on...
-author:(author hidden until results)|pms-id:asm16/fast_graphics/183|title:Beyond Repair
-author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyooooooo!
+author:(author hidden until results)|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/168|title:No way out|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/171|title:Beyond repair|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/175|title:Broken|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/177|title:Rude sandstorm|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/179|title:It Hit the Fan|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/181|title:That's life|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/182|title:Show must go on...|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/183|title:Beyond Repair|image-file:fast-graphics/
+author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyooooooo!|image-file:fast-graphics/
 
 
 :section Seminars
@@ -143,13 +154,11 @@ author:(author hidden until results)|pms-id:asm16/fast_graphics/185|title:Nyoooo
 :section AssemblyTV
 :elaine-category 2016 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
-:public false
 
 
 
 :section eSports
-:elaine-category 2015 Games
-:public false
+:elaine-category 2016 Games
 
 
 
