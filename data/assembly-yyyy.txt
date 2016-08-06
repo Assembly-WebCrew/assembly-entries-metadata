@@ -199,12 +199,15 @@ author:(author hidden until results)|image-file:fast-graphics/01-nyooooooo_.jpg|
 
 :section Seminars
 :public false
+:ranked false
 :elaine-category YYYY Seminars
 
 
 
 :section AssemblyTV
 :public false
+:ranked false
+:author-in-title false
 :elaine-category YYYY AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -212,9 +215,13 @@ author:(author hidden until results)|image-file:fast-graphics/01-nyooooooo_.jpg|
 
 :section eSports
 :public false
+:ranked false
+:author-in-title false
 :elaine-category YYYY Games
 
 
 :section Winter
 :public false
+:ranked false
+:author-in-title false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter YYYY.</p>

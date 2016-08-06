@@ -47,9 +47,9 @@ def get_entry_by_guid(guid, section):
     return None
 
 current_year = event_data.year
-section_seminars = event_data.createSection("Seminars")
-section_assemblytv = event_data.createSection("AssemblyTV")
-section_games = event_data.createSection("eSports")
+section_seminars = event_data.createSection(u"Seminars")
+section_assemblytv = event_data.createSection(u"AssemblyTV")
+section_games = event_data.createSection(u"eSports")
 
 for item in items:
     titles = get_languaged_tag(item, "title")

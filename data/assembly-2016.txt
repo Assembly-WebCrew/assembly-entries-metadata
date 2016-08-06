@@ -4,24 +4,57 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :ongoing true
-:public false
+:public-after 2016-08-07 01:00
 
+author:KoomaDot|pms-id:asm16/demo/89|title:Lines
+author:Humane|pms-id:asm16/demo/160|title:Planet creator device
+author:Super Grand|pms-id:asm16/demo/244|title:Deep Down
+author:Vihannes|pms-id:asm16/demo/252|title:Rhododendron
+author:Quite vs T-Rex|pms-id:asm16/demo/254|title:Gestalt
+author:Pyrotech|pms-id:asm16/demo/259|title:Antimon
+author:Vaerkki|pms-id:asm16/demo/264|title:Exploding Buddha
+author:TRBL|pms-id:asm16/demo/268|title:Stereo
+author:Wide Load|pms-id:asm16/demo/269|title:Kide
+author:Paraguay|pms-id:asm16/demo/270|title:Absurdius Maximus
+author:____blnk|pms-id:asm16/demo/271|title:GAZE
+author:adapt|pms-id:asm16/demo/273|title:liquiXion: the demo man
+author:Demoaces|pms-id:asm16/demo/275|title:Voyage
 
 
 :section 4k intro
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public false
+:public-after 2016-08-06 23:30
 
+author:Ananasmurska|pms-id:asm16/4k_intro/246|title:Subterranean
+author:mystran|pms-id:asm16/4k_intro/250|title:Mansikkojäätelön Iltalento
+author:Luminaire|pms-id:asm16/4k_intro/251|title:Mount Torii
+author:oo|pms-id:asm16/4k_intro/256|title:Chaotic Games Dot Nu
+author:lucid|pms-id:asm16/4k_intro/263|title:Breakthrough
+author:XZM|pms-id:asm16/4k_intro/265|title:Voro Nope
+author:Unknown Artists|pms-id:asm16/4k_intro/274|title:Outcast
 
 
 :section 1k intro
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public false
+:public-after 2016-08-06 23:00
 
+author:Neper|pms-id:asm16/1k_intro/9|title:Divergent
+author:TDA|pms-id:asm16/1k_intro/30|title:Affinity
+author:oo|pms-id:asm16/1k_intro/224|title:Blending Colors Makes Mess
+author:qma|pms-id:asm16/1k_intro/240|title:Fuzzdealer
+author:Exca/Wide Load|pms-id:asm16/1k_intro/242|title:Smooth Des(s)ert
+author:Digimind|pms-id:asm16/1k_intro/245|title:Ghosts in Paradise
+author:Prismbeings|pms-id:asm16/1k_intro/248|title:Eraserhead
+author:p01 / ribbon|pms-id:asm16/1k_intro/249|title:ASTRA
+author:Irah|pms-id:asm16/1k_intro/255|title:Anubiksen Aamumenettelyt
+author:Walther|pms-id:asm16/1k_intro/257|title:Escher's sugar collection
+author:Seven/Fulcrum|pms-id:asm16/1k_intro/258|title:Escape through subspace 1K
+author:The Usual Suspects|pms-id:asm16/1k_intro/262|title:1k-introvertti
+author:dcf|pms-id:asm16/1k_intro/266|title:Brotgasm
 
 
 :section Real wild demo
