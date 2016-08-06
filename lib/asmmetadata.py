@@ -4,6 +4,7 @@ import cgi
 import dateutil.parser
 import hashlib
 import re
+import unicodedata
 import urllib
 
 
@@ -167,6 +168,7 @@ def get_long_section_name(section_name):
 
 def normalize_key(value):
     normalized = value.strip().lower()
+    normalized = unicodedata.normalize('NFKC', normalized)
     normalized = normalized.replace(u"ä", u"a")
     normalized = normalized.replace(u"ö", u"o")
     normalized = normalized.replace(u"å", u"a")
