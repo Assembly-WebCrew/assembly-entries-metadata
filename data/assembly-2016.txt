@@ -4,7 +4,7 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :ongoing true
-:public-after 2016-08-07 01:00+0300
+:public-after 2016-08-07 01:30+0300
 
 author:KoomaDot|pms-id:asm16/demo/89|title:Lines
 author:Humane|pms-id:asm16/demo/160|title:Planet creator device
@@ -25,7 +25,6 @@ author:Demoaces|pms-id:asm16/demo/275|title:Voyage
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public-after 2016-08-06 23:30+0300
 
 author:Ananasmurska|pms-id:asm16/4k_intro/246|title:Subterranean
 author:mystran|pms-id:asm16/4k_intro/250|title:Mansikkojäätelön Iltalento
@@ -40,7 +39,6 @@ author:Unknown Artists|pms-id:asm16/4k_intro/274|title:Outcast
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public-after 2016-08-06 23:00+0300
 
 author:Neper|pms-id:asm16/1k_intro/9|title:Divergent
 author:TDA|pms-id:asm16/1k_intro/30|title:Affinity
@@ -238,25 +236,25 @@ author:Greetings to Hukka, Hoppu and Angelon Häntä|image-file:fast-graphics/01
 :section Seminars
 :elaine-category 2016 Seminars
 
-title:6.8.2016 at 10:00 EEST Pelastakaa lapset: The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
-title:6.8.2016 at 11:00 EEST | Veli-Pekka Piirainen: Critical Ops - the first FPS game for mobile eSports|youtube:B-QWfjYE488
-title:6.8.2016 at 12:00 EEST | Sampsa Kuha: TRIAL AND ERROR - lessons learned developing for GearVR|youtube:PxqXKDS1u-k
-title:6.8.2016 at 13:00 EEST | Tuomas Karmakallio: All your retina are belong to us|youtube:tZ_kDc4Pyu8
-title:6.8.2016 at 14:00 EEST | Tuukka Takala: Staying Ahead of the Curve in Virtual Reality|youtube:sKCYiNK9-LE
-title:6.8.2016 at 15:00 EEST | Miro Vesterinen: Custom vertex normals & the "Medium-poly" workflow|youtube:DBLLCBujdp8
-title:6.8.2016 at 16:00 EEST | Jere Sanisalo: Modern GPU particle systems in Alienation (PS4)|youtube:s3h9WaSgt0s
-title:6.8.2016 at 17:00 EEST | Tatu Aalto: Rendering Quantum Break|youtube:L0mhZQcCgrE
-title:ARTtech seminar: Erkka Nurmi, Milla Pystynen: VR Game Development on a University Course|youtube:pubz9Rg_EGw
-title:ARTtech seminar: Juhani Eronen: Your privacy is protected by .. what exactly?|youtube:-51nIz8pz08
-title:ARTtech seminar: Jussi Kyrönseppä: Design approach to IP in video games|youtube:JdzQVlSJkKE
-title:ARTtech seminar: Kadri Ugand: From Game to Studio to Business|youtube:26kwn9Z_NtE
-title:ARTtech seminar: Kirsi Ihalainen: Generative Sound Design|youtube:p89XUsqpUDA
-title:ARTtech seminar: Ville Sorsa: Designing sound for time bending Quantum Break|youtube:0V4hKv-E5mA
-title:ARTtech seminar: Perttu Hämäläinen: The Augmented Climbing Wall: designing augmented reality sports|youtube:lel8-xYEu28
-title:6.8.2016 at 18:00 EEST | Timo Heinäpurola: Mobile Game Engine Development at Reforged Studios|youtube:eeWJenGc4R0
-title:6.8.2016 at 19:00 EEST | Joona Heinikoski: Tools for creating successful  alien invasion|youtube:5k-sgGx_-vA
-title:6.8.2016 at 20 :00 EEST | Juska Teittinen: Introduction to design|youtube:VI8_6Hrua5E
-title:ARTtech seminar: Sampsa Kuha: Trial and Error - Lessons learned developing for GearVR|youtube:rLWohOtkmuQ
+author:Pelastakaa lapset|title:The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
+author:Veli-Pekka Piirainen|title:Critical Ops - the first FPS game for mobile eSports|youtube:B-QWfjYE488
+author:Sampsa Kuha|title:TRIAL AND ERROR - lessons learned developing for GearVR|youtube:PxqXKDS1u-k
+author:Tuomas Karmakallio|title:All your retina are belong to us|youtube:tZ_kDc4Pyu8
+author:Tuukka Takala|title:Staying Ahead of the Curve in Virtual Reality|youtube:sKCYiNK9-LE
+author:Miro Vesterinen|title:Custom vertex normals & the "Medium-poly" workflow|youtube:DBLLCBujdp8
+author:Jere Sanisalo|title:Modern GPU particle systems in Alienation (PS4)|youtube:s3h9WaSgt0s
+author:Tatu Aalto|title:Rendering Quantum Break|youtube:L0mhZQcCgrE
+author:Erkka Nurmi, Milla Pystynen|title:VR Game Development on a University Course|youtube:pubz9Rg_EGw
+author:Juhani Eronen|title:Your privacy is protected by .. what exactly?|youtube:-51nIz8pz08
+author:Jussi Kyrönseppä|title:Design approach to IP in video games|youtube:JdzQVlSJkKE
+author:Kadri Ugand|title:From Game to Studio to Business|youtube:26kwn9Z_NtE
+author:Kirsi Ihalainen|title:Generative Sound Design|youtube:p89XUsqpUDA
+author:Ville Sorsa|title:Designing sound for time bending Quantum Break|youtube:0V4hKv-E5mA
+author:Perttu Hämäläinen|title:The Augmented Climbing Wall: designing augmented reality sports|youtube:lel8-xYEu28
+author:Timo Heinäpurola|title:Mobile Game Engine Development at Reforged Studios|youtube:eeWJenGc4R0
+author:Joona Heinikoski|title:Tools for creating successful  alien invasion|youtube:5k-sgGx_-vA
+author:Juska Teittinen|title:Introduction to design|youtube:VI8_6Hrua5E
+author:Sampsa Kuha|title:Trial and Error - Lessons learned developing for GearVR|youtube:rLWohOtkmuQ
 
 :section AssemblyTV
 :elaine-category 2016 AssemblyTV
@@ -310,48 +308,48 @@ title:Tänään Liero Retroturnauksessa!|description:ebin|youtube:Bd9ac6pft64
 :section eSports
 :elaine-category 2016 Games
 
-title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|youtube:FY2scLnf9TE
-title:eSM StarCraft II Summer 2016 Final|youtube:CMDsC0Y1Tjo
-title:eSM Hearthstone Summer 2016 Final|youtube:0EDznNL1r9A
-title:Retroturnaus - Minebombers karsinta 1|youtube:oxJlWIZJvjk
-title:Retroturnaus - Minebombers karsinta 2|youtube:gOXw5A3GLc4
-title:Retroturnaus - Minebombers karsinta 3|youtube:vQrL0rskhOs
-title:Retroturnaus - Minebombers karsinta 4|youtube:BQm8m3RLDmo
-title:Retroturnaus - Minebombers finaali|youtube:uJkaquc99hU
-title:Assembly 2016 Summer - Clash Royale turnaus|youtube:qgD3YfKYeaU
-title:G2A-kisailua|description:G2A Assembly 2016 Summer tapahtuman kisailua.|youtube:_4rFZdTypmA
-title:eSM CS:GO Final|youtube:YLDoi9o4AGM
-title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #1|youtube:jk1Q2f6DSi8
-title:ASUS-kisailu|description:ASUS järjestää tiukkaa kilpailua.|youtube:aEFX2o1mn_g
-title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #2|youtube:yrXnwKWB7fo
-title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #3|youtube:heoo2QKgY7M
-title:ASUS ROG CS:GO Qualifiers Escape Gaming - LGR|youtube:0FS2FaW8ugs
-title:ASUS ROG CS:GO Qualifiers Millenium - Escape Gaming|youtube:imP0KBmkpVo
-title:ASUS ROG CS:GO Qualifiers Space Soldiers - ENCE|youtube:4l7RowcsyMk
-title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports|youtube:jRS_w_CTjok
-title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports #2|youtube:TNWE6m2evDw
+author:AssemblyTV|title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|youtube:FY2scLnf9TE
+author:AssemblyTV|title:eSM StarCraft II Summer 2016 Final|youtube:CMDsC0Y1Tjo
+author:AssemblyTV|title:eSM Hearthstone Summer 2016 Final|youtube:0EDznNL1r9A
+author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 1|youtube:oxJlWIZJvjk
+author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 2|youtube:gOXw5A3GLc4
+author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 3|youtube:vQrL0rskhOs
+author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 4|youtube:BQm8m3RLDmo
+author:AssemblyTV|title:Retroturnaus - Minebombers finaali|youtube:uJkaquc99hU
+author:AssemblyTV|title:Assembly 2016 Summer - Clash Royale turnaus|youtube:qgD3YfKYeaU
+author:AssemblyTV|title:G2A-kisailua|description:G2A Assembly 2016 Summer tapahtuman kisailua.|youtube:_4rFZdTypmA
+author:AssemblyTV|title:eSM CS:GO Final|youtube:YLDoi9o4AGM
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #1|youtube:jk1Q2f6DSi8
+author:AssemblyTV|title:ASUS-kisailu|description:ASUS järjestää tiukkaa kilpailua.|youtube:aEFX2o1mn_g
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #2|youtube:yrXnwKWB7fo
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #3|youtube:heoo2QKgY7M
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Escape Gaming - LGR|youtube:0FS2FaW8ugs
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Millenium - Escape Gaming|youtube:imP0KBmkpVo
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - ENCE|youtube:4l7RowcsyMk
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports|youtube:jRS_w_CTjok
+author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports #2|youtube:TNWE6m2evDw
 
 :section Winter
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2016.</p>
 
-title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M
-title:Assembly Winter 2016 Thursday building timelapse|youtube:8pht56dXVKk
-title:Täällä taas! -  Assembly Winter 2016|description:Assembly Winter tapahtuma on täällä ja sen mukana entistä laadukkaampi coverage! Tästä lähtee huippukova peliviikonloppu käyntiin. <br/>Kerro meille kommenteissa mitä haluaisit viikonlopun aikana nähdä meidän tekevän!|youtube:HI5h-rUgynw
-title:Assembly Winter 2016 - Fiiliskierros!|description:Assemblytv kävi tarkastamassa tapahtuman ensimmäisiä fiiliksiä kävijöiltä, mutta mitä he mahtoivatkaan löytää?|youtube:QJY3JMyDtRE
-title:Assembly Winter 2016 - SC 2 admin erani haastattelussa.|description:Haastattelimme yhtä StarCraft II turnauksen admineista. Tsekkaa millä fiiliksillä erani lähti tapahtumaan!|youtube:fmjOqxentIY
-title:Assembly Winter 2016 - Prote haastattelu!|description:Haastattelimme SEUL ry:n puheenjohtaja Erkka "Prote" Joustetta Winter Assembly 2016 tapahtumassa! Tsekkaa, mitä sanottavaa Protella oli.|youtube:M8vRZ5pEIkI
-title:Winter Assembly 2016 - Fuzer!|description:Kohtasimme perjantain sc2 turnauksen päätyttyä Samuli "Fuzer" Romppasen, joka on siirtynyt tähän turnaukseen pelikentiltä selostajan pöydän taakse.|youtube:wMURAeZ0Dww
-title:Herbalisti ja Lakko AssemblyTV:n illassa|youtube:0H_rPyRebrk
-title:Assembly Winter 2016 - Hearthstone Head Admin Olodyn haastattelussa|youtube:RQIwfV5YyR0
-title:Assembly Winter 2016 - Päivä pulkassa feat. Pelaajalounge|youtube:pL5wV6PCdTM
-title:Assembly Winter 2016 - Reynor haasttattelussa|youtube:4_lhEWKjTpY
-title:Assembly Winter 2016 - Welmu haastattelussa|youtube:c55ep18kW3w
-title:Assembly Winter -  gilnor haastattelussa|description:Winter Assemblyjen tubecornerista löysimme dota 2 pelaaja gilnorin.|youtube:wmdk0G0KDWo
-title:EPIC PRANK REACTION TECHNICAL FAIL CRINGEWORTHY  {o.o}|description:What is going on at Assembly Winter 2016? #Sitäsaamitätilaa|youtube:FYSNdi-vgyE
-title:Assembly Winter 2016 - xartE (ENCE eSports) haastattelu|description:Haastattelimme xartEa ENCE:n semifinaali ottelun jälkeen.|youtube:1yMNLrRLsbM
-title:Assembly Winter 2016 Friday timelapse|youtube:TcVUvWG9Www
-title:Assembly Winter 2016 - Onnittelut ASUS ROG CS:GO turnauksen voittajalle!|description:This wraps up our coverage of Winter Assembly 2016, thanks for watching!|youtube:LZfu2HGozt0
-title:Assembly Winter 2016 - Studiossa Starcraft II -voittaja Serral|youtube:h36SrQ4BLQ0
-title:Assembly Winter 2016 - Haastattelussa Hearthstone -pelaaja Synthetic|youtube:a6va81kHbEY
-title:Juuri sinä Assembly Summerelle 2016?|description:Haluatko konepaikan Assembly summereilta 2016 sinulle ja kaverillesi? Ai MIKSI? Perustele videolla miksi juuri sinun pitäisi saada konepaikka, Video saa kestää enintään 1,5 minuuttia ja sillä saa näkyä ja/tai kuulua enintään 5 sanaa! Arvovaltainen raatimme valitsee voittajavideon nokkeluuden, visuaalisuuden ja parhaan perustelun perusteella.</p><p>Parhaan videon tekijä voi voittaa itselleen ja kaverilleen konepaikat summereilta 2016!</p><p>Muistakaa käyttää hashtageja:<br/>‪#‎asmparty‬ ‪#‎awesome‬ ‪#‎awesomeness‬ ‪#‎assyvideokilpailu‬</p><p>(HUOM! KUHA TEKEE PAREMMAN KUIN PIKAPLÄJÄYS)<br/>Mahtia meininkiä toivottelee: somecrew/Assembly</p><p>--</p><p>Do you want a computerplace from Assembly Summer 2016? WHY? Tell us with a video why YOU should get a computerplace. The video can be max.1,5 min and there can be only 5 words (visible or spoken)! Our prestegious jury will choose the winning video based on ingenuity, visuality and based on the best explanation.</p><p>The best video will win 2 computerplaces to Assembly Summer 2016! <br/>Use the hashtags displayed above.<br/>Sincerely yours: somecrew/Assembly|youtube:6lgaAVlgThY
-title:Assembly Winter 2016 Sunday dismantling timelapse|youtube:2jG3LEupXaE
+author:AssemblyTV|title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M
+author:AssemblyTV|title:Assembly Winter 2016 Thursday building timelapse|youtube:8pht56dXVKk
+author:AssemblyTV|title:Täällä taas! -  Assembly Winter 2016|description:Assembly Winter tapahtuma on täällä ja sen mukana entistä laadukkaampi coverage! Tästä lähtee huippukova peliviikonloppu käyntiin. <br/>Kerro meille kommenteissa mitä haluaisit viikonlopun aikana nähdä meidän tekevän!|youtube:HI5h-rUgynw
+author:AssemblyTV|title:Assembly Winter 2016 - Fiiliskierros!|description:Assemblytv kävi tarkastamassa tapahtuman ensimmäisiä fiiliksiä kävijöiltä, mutta mitä he mahtoivatkaan löytää?|youtube:QJY3JMyDtRE
+author:AssemblyTV|title:Assembly Winter 2016 - SC 2 admin erani haastattelussa.|description:Haastattelimme yhtä StarCraft II turnauksen admineista. Tsekkaa millä fiiliksillä erani lähti tapahtumaan!|youtube:fmjOqxentIY
+author:AssemblyTV|title:Assembly Winter 2016 - Prote haastattelu!|description:Haastattelimme SEUL ry:n puheenjohtaja Erkka "Prote" Joustetta Winter Assembly 2016 tapahtumassa! Tsekkaa, mitä sanottavaa Protella oli.|youtube:M8vRZ5pEIkI
+author:AssemblyTV|title:Winter Assembly 2016 - Fuzer!|description:Kohtasimme perjantain sc2 turnauksen päätyttyä Samuli "Fuzer" Romppasen, joka on siirtynyt tähän turnaukseen pelikentiltä selostajan pöydän taakse.|youtube:wMURAeZ0Dww
+author:AssemblyTV|title:Herbalisti ja Lakko AssemblyTV:n illassa|youtube:0H_rPyRebrk
+author:AssemblyTV|title:Assembly Winter 2016 - Hearthstone Head Admin Olodyn haastattelussa|youtube:RQIwfV5YyR0
+author:AssemblyTV|title:Assembly Winter 2016 - Päivä pulkassa feat. Pelaajalounge|youtube:pL5wV6PCdTM
+author:AssemblyTV|title:Assembly Winter 2016 - Reynor haasttattelussa|youtube:4_lhEWKjTpY
+author:AssemblyTV|title:Assembly Winter 2016 - Welmu haastattelussa|youtube:c55ep18kW3w
+author:AssemblyTV|title:Assembly Winter -  gilnor haastattelussa|description:Winter Assemblyjen tubecornerista löysimme dota 2 pelaaja gilnorin.|youtube:wmdk0G0KDWo
+author:AssemblyTV|title:EPIC PRANK REACTION TECHNICAL FAIL CRINGEWORTHY  {o.o}|description:What is going on at Assembly Winter 2016? #Sitäsaamitätilaa|youtube:FYSNdi-vgyE
+author:AssemblyTV|title:Assembly Winter 2016 - xartE (ENCE eSports) haastattelu|description:Haastattelimme xartEa ENCE:n semifinaali ottelun jälkeen.|youtube:1yMNLrRLsbM
+author:AssemblyTV|title:Assembly Winter 2016 Friday timelapse|youtube:TcVUvWG9Www
+author:AssemblyTV|title:Assembly Winter 2016 - Onnittelut ASUS ROG CS:GO turnauksen voittajalle!|description:This wraps up our coverage of Winter Assembly 2016, thanks for watching!|youtube:LZfu2HGozt0
+author:AssemblyTV|title:Assembly Winter 2016 - Studiossa Starcraft II -voittaja Serral|youtube:h36SrQ4BLQ0
+author:AssemblyTV|title:Assembly Winter 2016 - Haastattelussa Hearthstone -pelaaja Synthetic|youtube:a6va81kHbEY
+author:AssemblyTV|title:Juuri sinä Assembly Summerelle 2016?|description:Haluatko konepaikan Assembly summereilta 2016 sinulle ja kaverillesi? Ai MIKSI? Perustele videolla miksi juuri sinun pitäisi saada konepaikka, Video saa kestää enintään 1,5 minuuttia ja sillä saa näkyä ja/tai kuulua enintään 5 sanaa! Arvovaltainen raatimme valitsee voittajavideon nokkeluuden, visuaalisuuden ja parhaan perustelun perusteella.</p><p>Parhaan videon tekijä voi voittaa itselleen ja kaverilleen konepaikat summereilta 2016!</p><p>Muistakaa käyttää hashtageja:<br/>‪#‎asmparty‬ ‪#‎awesome‬ ‪#‎awesomeness‬ ‪#‎assyvideokilpailu‬</p><p>(HUOM! KUHA TEKEE PAREMMAN KUIN PIKAPLÄJÄYS)<br/>Mahtia meininkiä toivottelee: somecrew/Assembly</p><p>--</p><p>Do you want a computerplace from Assembly Summer 2016? WHY? Tell us with a video why YOU should get a computerplace. The video can be max.1,5 min and there can be only 5 words (visible or spoken)! Our prestegious jury will choose the winning video based on ingenuity, visuality and based on the best explanation.</p><p>The best video will win 2 computerplaces to Assembly Summer 2016! <br/>Use the hashtags displayed above.<br/>Sincerely yours: somecrew/Assembly|youtube:6lgaAVlgThY
+author:AssemblyTV|title:Assembly Winter 2016 Sunday dismantling timelapse|youtube:2jG3LEupXaE
