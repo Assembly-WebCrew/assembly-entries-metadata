@@ -20,6 +20,7 @@ parser.add_argument("files_root", metavar="files-root")
 parser.add_argument("--no-empty", dest="noempty", action="store_true",
                   help="Prevent empty sections from going to import data.")
 parser.add_argument("--pms-vote-template", default="https://pms.assembly.org/asmxx/compos/%s/vote/")
+parser.add_argument("--only-sections", default="")
 
 args = parser.parse_args()
 FILEROOT = args.files_root
@@ -394,6 +395,8 @@ for section in entry_data.sections:
     if section.get('public-after', now) > now:
         continue
     if len(section['entries']) == 0 and not create_empty_sections:
+        continue
+    if len(args.only_sections) and section['key'] not in args.only_sections.split(","):
         continue
     section_description = generate_section_description(
         section, args.pms_vote_template)

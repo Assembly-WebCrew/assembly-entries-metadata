@@ -4,7 +4,6 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :ongoing true
-:public-after 2016-08-07 01:30+0300
 
 author:KoomaDot|pms-id:asm16/demo/89|title:Lines
 author:Humane|pms-id:asm16/demo/160|title:Planet creator device
@@ -26,13 +25,13 @@ author:Demoaces|pms-id:asm16/demo/275|title:Voyage
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 
-author:Ananasmurska|pms-id:asm16/4k_intro/246|title:Subterranean
-author:mystran|pms-id:asm16/4k_intro/250|title:Mansikkojäätelön Iltalento
-author:Luminaire|pms-id:asm16/4k_intro/251|title:Mount Torii
-author:oo|pms-id:asm16/4k_intro/256|title:Chaotic Games Dot Nu
-author:lucid|pms-id:asm16/4k_intro/263|title:Breakthrough
-author:XZM|pms-id:asm16/4k_intro/265|title:Voro Nope
-author:Unknown Artists|pms-id:asm16/4k_intro/274|title:Outcast
+author:Ananasmurska|guid:2119|media:/vod/2016/Compos/2119_Subterranean_by_Ananasmurska.mp4|pms-id:asm16/4k_intro/246|title:Subterranean|youtube:IzvQVNQNcj0
+author:mystran|guid:2120|media:/vod/2016/Compos/2120_Mansikkojteln_Iltalento_by_mystran.mp4|pms-id:asm16/4k_intro/250|title:Mansikkojäätelön Iltalento|youtube:PfewNNcKRjk
+author:Luminaire|guid:2121|media:/vod/2016/Compos/2121_Mount_Torii_by_Luminaire.mp4|pms-id:asm16/4k_intro/251|title:Mount Torii|youtube:mA_jF70ssYA
+author:oo|guid:2122|media:/vod/2016/Compos/2122_Chaotic_Games_Dot_Nu_by_oo.mp4|pms-id:asm16/4k_intro/256|title:Chaotic Games Dot Nu|youtube:O2Y6kmq9WXw
+author:lucid|guid:2123|media:/vod/2016/Compos/2123_Breakthrough_by_lucid.mp4|pms-id:asm16/4k_intro/263|title:Breakthrough|youtube:bM4GbSMB6UI
+author:XZM|guid:2124|media:/vod/2016/Compos/2124_Voro_Nope_by_XZM.mp4|pms-id:asm16/4k_intro/265|title:Voro Nope|youtube:06AsiIwcock
+author:Unknown Artists|guid:2125|media:/vod/2016/Compos/2125_Outcast_by_Unknown_Artists.mp4|pms-id:asm16/4k_intro/274|title:Outcast|youtube:rOub2J80Was
 
 
 :section 1k intro
@@ -40,19 +39,19 @@ author:Unknown Artists|pms-id:asm16/4k_intro/274|title:Outcast
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
 
-author:Neper|pms-id:asm16/1k_intro/9|title:Divergent
-author:TDA|pms-id:asm16/1k_intro/30|title:Affinity
-author:oo|pms-id:asm16/1k_intro/224|title:Blending Colors Makes Mess
-author:qma|pms-id:asm16/1k_intro/240|title:Fuzzdealer
-author:Exca/Wide Load|pms-id:asm16/1k_intro/242|title:Smooth Des(s)ert
-author:Digimind|pms-id:asm16/1k_intro/245|title:Ghosts in Paradise
-author:Prismbeings|pms-id:asm16/1k_intro/248|title:Eraserhead
-author:p01 / ribbon|pms-id:asm16/1k_intro/249|title:ASTRA
-author:Irah|pms-id:asm16/1k_intro/255|title:Anubiksen Aamumenettelyt
-author:Walther|pms-id:asm16/1k_intro/257|title:Escher's sugar collection
-author:Seven/Fulcrum|pms-id:asm16/1k_intro/258|title:Escape through subspace 1K
-author:The Usual Suspects|pms-id:asm16/1k_intro/262|title:1k-introvertti
-author:dcf|pms-id:asm16/1k_intro/266|title:Brotgasm
+author:Neper|guid:2105|media:/vod/2016/Compos/2105_Divergent_by_Neper.mp4|pms-id:asm16/1k_intro/9|title:Divergent|youtube:TAjy_NGxfWc
+author:TDA|guid:2106|media:/vod/2016/Compos/2106_Affinity_by_TDA.mp4|pms-id:asm16/1k_intro/30|title:Affinity|youtube:yRwjnnVgajc
+author:oo|guid:2107|media:/vod/2016/Compos/2107_Blending_Colors_Makes_Mess_by_oo.mp4|pms-id:asm16/1k_intro/224|title:Blending Colors Makes Mess|youtube:q3aclG-nOc0
+author:qma|guid:2108|media:/vod/2016/Compos/2108_Fuzzdealer_by_qma.mp4|pms-id:asm16/1k_intro/240|title:Fuzzdealer|youtube:BhYKyId7SLw
+author:Exca/Wide Load|guid:2109|media:/vod/2016/Compos/2109_Smooth_Dessert_by_ExcaWide_Load.mp4|pms-id:asm16/1k_intro/242|title:Smooth Des(s)ert|youtube:y8Nio6MDUPo
+author:Digimind|guid:2110|media:/vod/2016/Compos/2110_Ghosts_in_Paradise_by_Digimind.mp4|pms-id:asm16/1k_intro/245|title:Ghosts in Paradise|youtube:2_ySrOG0kzY
+author:Prismbeings|guid:2111|media:/vod/2016/Compos/2111_Eraserhead_by_Prismbeings.mp4|pms-id:asm16/1k_intro/248|title:Eraserhead|youtube:0eqS1gb738w
+author:p01 / ribbon|guid:2112|media:/vod/2016/Compos/2112_ASTRA_by_p01__ribbon.mp4|pms-id:asm16/1k_intro/249|title:ASTRA|youtube:JOC7L91CxyU
+author:Irah|guid:2113|media:/vod/2016/Compos/2113_Anubiksen_Aamumenettelyt_by_Irah.mp4|pms-id:asm16/1k_intro/255|title:Anubiksen Aamumenettelyt|youtube:FRsdU2wgpd4
+author:Walther|guid:2114|media:/vod/2016/Compos/2114_Eschers_sugar_collection_by_Walther.mp4|pms-id:asm16/1k_intro/257|title:Escher's sugar collection|youtube:Mnb0xxJ1kQQ
+author:Seven/Fulcrum|guid:2115|media:/vod/2016/Compos/2115_Escape_through_subspace_1K_by_SevenFulcrum.mp4|pms-id:asm16/1k_intro/258|title:Escape through subspace 1K|youtube:d3GrsKWFKFY
+author:The Usual Suspects|guid:2116|media:/vod/2016/Compos/2116_1kintrovertti_by_The_Usual_Suspects.mp4|pms-id:asm16/1k_intro/262|title:1k-introvertti|youtube:jEjFPxA8Fes
+author:dcf|guid:2117|media:/vod/2016/Compos/2117_Brotgasm_by_dcf.mp4|pms-id:asm16/1k_intro/266|title:Brotgasm|youtube:_d6rcVZDicc
 
 
 :section Real wild demo
@@ -238,12 +237,12 @@ author:Greetings to Hukka, Hoppu and Angelon Häntä|image-file:fast-graphics/01
 
 author:Pelastakaa lapset|title:The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
 author:Veli-Pekka Piirainen|title:Critical Ops - the first FPS game for mobile eSports|youtube:B-QWfjYE488
-author:Sampsa Kuha|title:TRIAL AND ERROR - lessons learned developing for GearVR|youtube:PxqXKDS1u-k
+author:Sampsa Kuha|title:Trial and Error - Lessons learned developing for GearVR|youtube:rLWohOtkmuQ
 author:Tuomas Karmakallio|title:All your retina are belong to us|youtube:tZ_kDc4Pyu8
 author:Tuukka Takala|title:Staying Ahead of the Curve in Virtual Reality|youtube:sKCYiNK9-LE
 author:Miro Vesterinen|title:Custom vertex normals & the "Medium-poly" workflow|youtube:DBLLCBujdp8
 author:Jere Sanisalo|title:Modern GPU particle systems in Alienation (PS4)|youtube:s3h9WaSgt0s
-author:Tatu Aalto|title:Rendering Quantum Break|youtube:L0mhZQcCgrE
+author:Tatu Aalto|title:Rendering Quantum Break|youtube:nVDGKgeUq4g
 author:Erkka Nurmi, Milla Pystynen|title:VR Game Development on a University Course|youtube:pubz9Rg_EGw
 author:Juhani Eronen|title:Your privacy is protected by .. what exactly?|youtube:-51nIz8pz08
 author:Jussi Kyrönseppä|title:Design approach to IP in video games|youtube:JdzQVlSJkKE
@@ -251,64 +250,64 @@ author:Kadri Ugand|title:From Game to Studio to Business|youtube:26kwn9Z_NtE
 author:Kirsi Ihalainen|title:Generative Sound Design|youtube:p89XUsqpUDA
 author:Ville Sorsa|title:Designing sound for time bending Quantum Break|youtube:0V4hKv-E5mA
 author:Perttu Hämäläinen|title:The Augmented Climbing Wall: designing augmented reality sports|youtube:lel8-xYEu28
-author:Timo Heinäpurola|title:Mobile Game Engine Development at Reforged Studios|youtube:eeWJenGc4R0
-author:Joona Heinikoski|title:Tools for creating successful  alien invasion|youtube:5k-sgGx_-vA
+author:Timo Heinäpurola|title:Mobile Game Engine Development at Reforged Studios|youtube:q3k3M5RHRNo
 author:Juska Teittinen|title:Introduction to design|youtube:VI8_6Hrua5E
-author:Sampsa Kuha|title:Trial and Error - Lessons learned developing for GearVR|youtube:rLWohOtkmuQ
+author:Joona Heinikoski|title:Tools for creating successful alien invasion|youtube:ClOCOcPvUuo
+
 
 :section AssemblyTV
 :elaine-category 2016 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
-title:Assembly Summer 2016 startti!|description:Assembly Summer 2016 starttaa huomenna torstaina 4.8.2016. Löydät meidät sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|youtube:ObtMQKWcQb8
-title:Haastattelussa Somecrewn Outi|description:Löydät Assemblyn sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|youtube:Cs5aPcuXpAE
-title:Assembly 2016 Summer - Infopiste - Käytännön asiat reilaan|description:Heti kun alkaa kummastuttaa, älä pelkää pistäytyä infopisteellä, ne tietää kaiken.|youtube:xpCwKRGiptg
-title:Assembly 2016 Summer - Torstaina tapahtuu...|description:http://www.assembly.org/summer16/schedule/<br/>Lyhyt kuvaus siitä mitä Assembly 2016 Summer tapahtumassa tapahtuu torstaina. mm. Seminaarit - VR - Esports ja lisää|youtube:5uWaaHY118E
-title:Assembly 2016 Summer - Jimms haastattelu|description:Tsekkaa huikeet messutarjoukset: https://www.jimms.fi/Pages/Assembly|youtube:x5cYOFQGYGc
-title:Fireside chat with Juhani Eronen|youtube:I_zQa0atqkk
-title:Assembly 2016 Summer - Haastattelussa wabbit|youtube:1ucLZ_fEwzk
-title:Assembly 2016 Summer - Hacklab|youtube:DEi9e_i22hk
-title:Fireside chat with Kadri Ugand|youtube:VxNSnfTnUhE
-title:Assembly 2016 Summer - Haastattelussa Assembly Shop|description:Battery lavaa meneee|youtube:_W9C8seApso
-title:Fireside chat with Kirsi Ihalainen|youtube:EqmFyf6YCYc
-title:Assembly 2016 Summer - Haastattelussa Domezi Tubecornerista|youtube:aN21BKQjX8Y
-title:Opening ceremony|youtube:YZEmcQlIk3Y
-title:Fireside chat with Andy Pyro|youtube:SvW306scPjY
-title:Fireside chat with Ville Sorsa|youtube:06FyZEAo-7Y
-title:Pelastakaa Lapset Ry Sonja Ahtiainen|description:via YouTube Capture|youtube:YQwtWAscnpY
-title:Huomenta Assembly perjantai|youtube:1lp9vhSkePQ
-title:Fast graphics & music compostudio|youtube:-xOCmRVK2O4
-title:Photo & Graphics compostudio|youtube:w6YSUnm_fwM
-title:FIVR VR-seikkailua|description:Keith checks out our VR-stand.|youtube:XJSjLkjFBos
-title:Battery kisat|description:Assembly 2016 Summer tapahtuman Battery kisat.|youtube:dNBUrWPjWa0
-title:Assembly 2016 Summer - Haastattelussa tanssipelaaja hippaheikki|youtube:_AH8z0Bn5Gw
-title:Assembly 2016 Summer - Elisa drone racing - Haastattelussa dronekuski Antti Jäppinen|youtube:qvj2wLcgkEg
-title:Assembly 2016 Summer - Jimms VR -haastattelu|youtube:5BephEi6Pf0
-title:GameDev compostudio|youtube:MWDfNPp5vhs
-title:Late night with Tekotuotanto talk show (short film compo studio)|youtube:gN108zXcwmM
-title:Listening music compostudio|youtube:NPbIu8d0uu4
-title:Oldskool compostudio|youtube:xaLXNw9QNYk
-title:Real Wild compostudio|youtube:xWpRgfj4RJE
-title:Assembly 2016 Summer - Lauantaistartti|description:Assemblyjen viimeinen kokonainen päivä|youtube:SfIc_bWxpXA
-title:Robosodat|description:Pelti paukkuu Robosodassa.|youtube:1EWieSBi7YU
-title:Huomenta Assembly lauantai|youtube:CDFxyOzgDCk
-title:Late night snack|youtube:PnXCuYzLW1M
-title:Dance music compostudio|youtube:hizmm7lZLI4
-title:Assembly 2016 Summer - Cosplayerit esittäytyy|description:Tapahtumassa kiertäneet cosplayerit esittäytyy. Muista tulla katsomaan lauantaina klo 20:00 streamcorneriin!|youtube:vgZCKVLlYMM
-title:Assembly 2016 Summer - Space Soldiers TuGuX Haastattelu|youtube:jPkhSRdfByM
-title:Assembly 2016 Summer - Pokemon GO vai CS GO ?|description:Elämän isompii kyssäreit|youtube:g8lbBqKqm_w
-title:Jimm's Assyilla|description:Jimm'sillä tapahtuu.|youtube:PlC0trMJB9k
-title:Jimm's Assyilla|description:Jimm'sillä tapahtuu.|youtube:Nwi_f_wfuf0
-title:Fireside chat with Herra Mustikka|youtube:VhdGFBPGfyU
-title:Fireside chat with Sampsa Kuha|youtube:kMqGvs9B3Sc
-title:Fireside chat with TurunMarkku|youtube:ewk5d0UE2TA
-title:Fireside chat with Tuukka Takala|youtube:unEtocIg_b4
-title:Tänään Liero Retroturnauksessa!|description:ebin|youtube:Bd9ac6pft64
+author:AssemblyTV|description:Assembly Summer 2016 starttaa huomenna torstaina 4.8.2016. Löydät meidät sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|title:Assembly Summer 2016 startti!|youtube:ObtMQKWcQb8
+author:AssemblyTV|description:Löydät Assemblyn sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|title:Haastattelussa Somecrewn Outi|youtube:Cs5aPcuXpAE
+author:AssemblyTV|description:Heti kun alkaa kummastuttaa, älä pelkää pistäytyä infopisteellä, ne tietää kaiken.|title:Assembly 2016 Summer - Infopiste - Käytännön asiat reilaan|youtube:xpCwKRGiptg
+author:AssemblyTV|description:http://www.assembly.org/summer16/schedule/<br/>Lyhyt kuvaus siitä mitä Assembly 2016 Summer tapahtumassa tapahtuu torstaina. mm. Seminaarit - VR - Esports ja lisää|title:Assembly 2016 Summer - Torstaina tapahtuu...|youtube:5uWaaHY118E
+author:AssemblyTV|description:Tsekkaa huikeet messutarjoukset: https://www.jimms.fi/Pages/Assembly|title:Assembly 2016 Summer - Jimms haastattelu|youtube:x5cYOFQGYGc
+author:AssemblyTV|title:Fireside chat with Juhani Eronen|youtube:I_zQa0atqkk
+author:AssemblyTV|title:Assembly 2016 Summer - Haastattelussa wabbit|youtube:1ucLZ_fEwzk
+author:AssemblyTV|title:Assembly 2016 Summer - Hacklab|youtube:DEi9e_i22hk
+author:AssemblyTV|title:Fireside chat with Kadri Ugand|youtube:VxNSnfTnUhE
+author:AssemblyTV|description:Battery lavaa meneee|title:Assembly 2016 Summer - Haastattelussa Assembly Shop|youtube:_W9C8seApso
+author:AssemblyTV|title:Fireside chat with Kirsi Ihalainen|youtube:EqmFyf6YCYc
+author:AssemblyTV|title:Assembly 2016 Summer - Haastattelussa Domezi Tubecornerista|youtube:aN21BKQjX8Y
+author:AssemblyTV|title:Opening ceremony|youtube:YZEmcQlIk3Y
+author:AssemblyTV|title:Fireside chat with Andy Pyro|youtube:SvW306scPjY
+author:AssemblyTV|title:Fireside chat with Ville Sorsa|youtube:06FyZEAo-7Y
+author:AssemblyTV|description:via YouTube Capture|title:Pelastakaa Lapset Ry Sonja Ahtiainen|youtube:YQwtWAscnpY
+author:AssemblyTV|title:Huomenta Assembly perjantai|youtube:1lp9vhSkePQ
+author:AssemblyTV|title:Fast graphics & music compostudio|youtube:-xOCmRVK2O4
+author:AssemblyTV|title:Photo & Graphics compostudio|youtube:w6YSUnm_fwM
+author:AssemblyTV|description:Keith checks out our VR-stand.|title:FIVR VR-seikkailua|youtube:XJSjLkjFBos
+author:AssemblyTV|description:Assembly 2016 Summer tapahtuman Battery kisat.|title:Battery kisat|youtube:dNBUrWPjWa0
+author:AssemblyTV|title:Assembly 2016 Summer - Haastattelussa tanssipelaaja hippaheikki|youtube:_AH8z0Bn5Gw
+author:AssemblyTV|title:Assembly 2016 Summer - Elisa drone racing - Haastattelussa dronekuski Antti Jäppinen|youtube:qvj2wLcgkEg
+author:AssemblyTV|title:Assembly 2016 Summer - Jimms VR -haastattelu|youtube:5BephEi6Pf0
+author:AssemblyTV|title:GameDev compostudio|youtube:MWDfNPp5vhs
+author:AssemblyTV|title:Late night with Tekotuotanto talk show (short film compo studio)|youtube:gN108zXcwmM
+author:AssemblyTV|title:Listening music compostudio|youtube:NPbIu8d0uu4
+author:AssemblyTV|title:Oldskool compostudio|youtube:xaLXNw9QNYk
+author:AssemblyTV|title:Real Wild compostudio|youtube:xWpRgfj4RJE
+author:AssemblyTV|description:Assemblyjen viimeinen kokonainen päivä|title:Assembly 2016 Summer - Lauantaistartti|youtube:SfIc_bWxpXA
+author:AssemblyTV|description:Pelti paukkuu Robosodassa.|title:Robosodat|youtube:1EWieSBi7YU
+author:AssemblyTV|title:Huomenta Assembly lauantai|youtube:CDFxyOzgDCk
+author:AssemblyTV|title:Late night snack|youtube:PnXCuYzLW1M
+author:AssemblyTV|title:Dance music compostudio|youtube:hizmm7lZLI4
+author:AssemblyTV|description:Tapahtumassa kiertäneet cosplayerit esittäytyy. Muista tulla katsomaan lauantaina klo 20:00 streamcorneriin!|title:Assembly 2016 Summer - Cosplayerit esittäytyy|youtube:vgZCKVLlYMM
+author:AssemblyTV|title:Assembly 2016 Summer - Space Soldiers TuGuX Haastattelu|youtube:jPkhSRdfByM
+author:AssemblyTV|description:Elämän isompii kyssäreit|title:Assembly 2016 Summer - Pokemon GO vai CS GO ?|youtube:g8lbBqKqm_w
+author:AssemblyTV|description:Jimm'sillä tapahtuu.|title:Jimm's Assyilla|youtube:Nwi_f_wfuf0
+author:AssemblyTV|title:Fireside chat with Herra Mustikka|youtube:VhdGFBPGfyU
+author:AssemblyTV|title:Fireside chat with Sampsa Kuha|youtube:kMqGvs9B3Sc
+author:AssemblyTV|title:Fireside chat with TurunMarkku|youtube:ewk5d0UE2TA
+author:AssemblyTV|title:Fireside chat with Tuukka Takala|youtube:unEtocIg_b4
+author:AssemblyTV|description:ebin|title:Tänään Liero Retroturnauksessa!|youtube:Bd9ac6pft64
+
 
 :section eSports
 :elaine-category 2016 Games
 
-author:AssemblyTV|title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|youtube:FY2scLnf9TE
+author:AssemblyTV|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|youtube:FY2scLnf9TE
 author:AssemblyTV|title:eSM StarCraft II Summer 2016 Final|youtube:CMDsC0Y1Tjo
 author:AssemblyTV|title:eSM Hearthstone Summer 2016 Final|youtube:0EDznNL1r9A
 author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 1|youtube:oxJlWIZJvjk
@@ -317,10 +316,10 @@ author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 3|youtube:vQrL0rskhO
 author:AssemblyTV|title:Retroturnaus - Minebombers karsinta 4|youtube:BQm8m3RLDmo
 author:AssemblyTV|title:Retroturnaus - Minebombers finaali|youtube:uJkaquc99hU
 author:AssemblyTV|title:Assembly 2016 Summer - Clash Royale turnaus|youtube:qgD3YfKYeaU
-author:AssemblyTV|title:G2A-kisailua|description:G2A Assembly 2016 Summer tapahtuman kisailua.|youtube:_4rFZdTypmA
+author:AssemblyTV|description:G2A Assembly 2016 Summer tapahtuman kisailua.|title:G2A-kisailua|youtube:_4rFZdTypmA
 author:AssemblyTV|title:eSM CS:GO Final|youtube:YLDoi9o4AGM
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #1|youtube:jk1Q2f6DSi8
-author:AssemblyTV|title:ASUS-kisailu|description:ASUS järjestää tiukkaa kilpailua.|youtube:aEFX2o1mn_g
+author:AssemblyTV|description:ASUS järjestää tiukkaa kilpailua.|title:ASUS-kisailu|youtube:aEFX2o1mn_g
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #2|youtube:yrXnwKWB7fo
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #3|youtube:heoo2QKgY7M
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Escape Gaming - LGR|youtube:0FS2FaW8ugs
@@ -329,27 +328,29 @@ author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - ENCE|youtube:
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports|youtube:jRS_w_CTjok
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports #2|youtube:TNWE6m2evDw
 
+
 :section Winter
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2016.</p>
 
 author:AssemblyTV|title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M
 author:AssemblyTV|title:Assembly Winter 2016 Thursday building timelapse|youtube:8pht56dXVKk
-author:AssemblyTV|title:Täällä taas! -  Assembly Winter 2016|description:Assembly Winter tapahtuma on täällä ja sen mukana entistä laadukkaampi coverage! Tästä lähtee huippukova peliviikonloppu käyntiin. <br/>Kerro meille kommenteissa mitä haluaisit viikonlopun aikana nähdä meidän tekevän!|youtube:HI5h-rUgynw
-author:AssemblyTV|title:Assembly Winter 2016 - Fiiliskierros!|description:Assemblytv kävi tarkastamassa tapahtuman ensimmäisiä fiiliksiä kävijöiltä, mutta mitä he mahtoivatkaan löytää?|youtube:QJY3JMyDtRE
-author:AssemblyTV|title:Assembly Winter 2016 - SC 2 admin erani haastattelussa.|description:Haastattelimme yhtä StarCraft II turnauksen admineista. Tsekkaa millä fiiliksillä erani lähti tapahtumaan!|youtube:fmjOqxentIY
-author:AssemblyTV|title:Assembly Winter 2016 - Prote haastattelu!|description:Haastattelimme SEUL ry:n puheenjohtaja Erkka "Prote" Joustetta Winter Assembly 2016 tapahtumassa! Tsekkaa, mitä sanottavaa Protella oli.|youtube:M8vRZ5pEIkI
-author:AssemblyTV|title:Winter Assembly 2016 - Fuzer!|description:Kohtasimme perjantain sc2 turnauksen päätyttyä Samuli "Fuzer" Romppasen, joka on siirtynyt tähän turnaukseen pelikentiltä selostajan pöydän taakse.|youtube:wMURAeZ0Dww
+author:AssemblyTV|description:Assembly Winter tapahtuma on täällä ja sen mukana entistä laadukkaampi coverage! Tästä lähtee huippukova peliviikonloppu käyntiin. <br/>Kerro meille kommenteissa mitä haluaisit viikonlopun aikana nähdä meidän tekevän!|title:Täällä taas! -  Assembly Winter 2016|youtube:HI5h-rUgynw
+author:AssemblyTV|description:Assemblytv kävi tarkastamassa tapahtuman ensimmäisiä fiiliksiä kävijöiltä, mutta mitä he mahtoivatkaan löytää?|title:Assembly Winter 2016 - Fiiliskierros!|youtube:QJY3JMyDtRE
+author:AssemblyTV|description:Haastattelimme yhtä StarCraft II turnauksen admineista. Tsekkaa millä fiiliksillä erani lähti tapahtumaan!|title:Assembly Winter 2016 - SC 2 admin erani haastattelussa.|youtube:fmjOqxentIY
+author:AssemblyTV|description:Haastattelimme SEUL ry:n puheenjohtaja Erkka "Prote" Joustetta Winter Assembly 2016 tapahtumassa! Tsekkaa, mitä sanottavaa Protella oli.|title:Assembly Winter 2016 - Prote haastattelu!|youtube:M8vRZ5pEIkI
+author:AssemblyTV|description:Kohtasimme perjantain sc2 turnauksen päätyttyä Samuli "Fuzer" Romppasen, joka on siirtynyt tähän turnaukseen pelikentiltä selostajan pöydän taakse.|title:Winter Assembly 2016 - Fuzer!|youtube:wMURAeZ0Dww
 author:AssemblyTV|title:Herbalisti ja Lakko AssemblyTV:n illassa|youtube:0H_rPyRebrk
 author:AssemblyTV|title:Assembly Winter 2016 - Hearthstone Head Admin Olodyn haastattelussa|youtube:RQIwfV5YyR0
 author:AssemblyTV|title:Assembly Winter 2016 - Päivä pulkassa feat. Pelaajalounge|youtube:pL5wV6PCdTM
 author:AssemblyTV|title:Assembly Winter 2016 - Reynor haasttattelussa|youtube:4_lhEWKjTpY
 author:AssemblyTV|title:Assembly Winter 2016 - Welmu haastattelussa|youtube:c55ep18kW3w
-author:AssemblyTV|title:Assembly Winter -  gilnor haastattelussa|description:Winter Assemblyjen tubecornerista löysimme dota 2 pelaaja gilnorin.|youtube:wmdk0G0KDWo
-author:AssemblyTV|title:EPIC PRANK REACTION TECHNICAL FAIL CRINGEWORTHY  {o.o}|description:What is going on at Assembly Winter 2016? #Sitäsaamitätilaa|youtube:FYSNdi-vgyE
-author:AssemblyTV|title:Assembly Winter 2016 - xartE (ENCE eSports) haastattelu|description:Haastattelimme xartEa ENCE:n semifinaali ottelun jälkeen.|youtube:1yMNLrRLsbM
+author:AssemblyTV|description:Winter Assemblyjen tubecornerista löysimme dota 2 pelaaja gilnorin.|title:Assembly Winter -  gilnor haastattelussa|youtube:wmdk0G0KDWo
+author:AssemblyTV|description:What is going on at Assembly Winter 2016? #Sitäsaamitätilaa|title:EPIC PRANK REACTION TECHNICAL FAIL CRINGEWORTHY  {o.o}|youtube:FYSNdi-vgyE
+author:AssemblyTV|description:Haastattelimme xartEa ENCE:n semifinaali ottelun jälkeen.|title:Assembly Winter 2016 - xartE (ENCE eSports) haastattelu|youtube:1yMNLrRLsbM
 author:AssemblyTV|title:Assembly Winter 2016 Friday timelapse|youtube:TcVUvWG9Www
-author:AssemblyTV|title:Assembly Winter 2016 - Onnittelut ASUS ROG CS:GO turnauksen voittajalle!|description:This wraps up our coverage of Winter Assembly 2016, thanks for watching!|youtube:LZfu2HGozt0
+author:AssemblyTV|description:This wraps up our coverage of Winter Assembly 2016, thanks for watching!|title:Assembly Winter 2016 - Onnittelut ASUS ROG CS:GO turnauksen voittajalle!|youtube:LZfu2HGozt0
 author:AssemblyTV|title:Assembly Winter 2016 - Studiossa Starcraft II -voittaja Serral|youtube:h36SrQ4BLQ0
 author:AssemblyTV|title:Assembly Winter 2016 - Haastattelussa Hearthstone -pelaaja Synthetic|youtube:a6va81kHbEY
-author:AssemblyTV|title:Juuri sinä Assembly Summerelle 2016?|description:Haluatko konepaikan Assembly summereilta 2016 sinulle ja kaverillesi? Ai MIKSI? Perustele videolla miksi juuri sinun pitäisi saada konepaikka, Video saa kestää enintään 1,5 minuuttia ja sillä saa näkyä ja/tai kuulua enintään 5 sanaa! Arvovaltainen raatimme valitsee voittajavideon nokkeluuden, visuaalisuuden ja parhaan perustelun perusteella.</p><p>Parhaan videon tekijä voi voittaa itselleen ja kaverilleen konepaikat summereilta 2016!</p><p>Muistakaa käyttää hashtageja:<br/>‪#‎asmparty‬ ‪#‎awesome‬ ‪#‎awesomeness‬ ‪#‎assyvideokilpailu‬</p><p>(HUOM! KUHA TEKEE PAREMMAN KUIN PIKAPLÄJÄYS)<br/>Mahtia meininkiä toivottelee: somecrew/Assembly</p><p>--</p><p>Do you want a computerplace from Assembly Summer 2016? WHY? Tell us with a video why YOU should get a computerplace. The video can be max.1,5 min and there can be only 5 words (visible or spoken)! Our prestegious jury will choose the winning video based on ingenuity, visuality and based on the best explanation.</p><p>The best video will win 2 computerplaces to Assembly Summer 2016! <br/>Use the hashtags displayed above.<br/>Sincerely yours: somecrew/Assembly|youtube:6lgaAVlgThY
+author:AssemblyTV|description:Haluatko konepaikan Assembly summereilta 2016 sinulle ja kaverillesi? Ai MIKSI? Perustele videolla miksi juuri sinun pitäisi saada konepaikka, Video saa kestää enintään 1,5 minuuttia ja sillä saa näkyä ja/tai kuulua enintään 5 sanaa! Arvovaltainen raatimme valitsee voittajavideon nokkeluuden, visuaalisuuden ja parhaan perustelun perusteella.</p><p>Parhaan videon tekijä voi voittaa itselleen ja kaverilleen konepaikat summereilta 2016!</p><p>Muistakaa käyttää hashtageja:<br/>#asmparty #awesome #awesomeness #assyvideokilpailu</p><p>(HUOM! KUHA TEKEE PAREMMAN KUIN PIKAPLÄJÄYS)<br/>Mahtia meininkiä toivottelee: somecrew/Assembly</p><p>--</p><p>Do you want a computerplace from Assembly Summer 2016? WHY? Tell us with a video why YOU should get a computerplace. The video can be max.1,5 min and there can be only 5 words (visible or spoken)! Our prestegious jury will choose the winning video based on ingenuity, visuality and based on the best explanation.</p><p>The best video will win 2 computerplaces to Assembly Summer 2016! <br/>Use the hashtags displayed above.<br/>Sincerely yours: somecrew/Assembly|title:Juuri sinä Assembly Summerelle 2016?|youtube:6lgaAVlgThY
 author:AssemblyTV|title:Assembly Winter 2016 Sunday dismantling timelapse|youtube:2jG3LEupXaE
+
