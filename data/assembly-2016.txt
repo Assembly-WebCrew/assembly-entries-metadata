@@ -1,6 +1,8 @@
 :year 2016
 
 :section Demo
+:ongoing true
+:public false
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :public false
@@ -8,6 +10,8 @@
 
 
 :section 4k intro
+:ongoing true
+:public false
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :public false
@@ -15,6 +19,8 @@
 
 
 :section 1k intro
+:ongoing true
+:public false
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :public false
@@ -22,40 +28,43 @@
 
 
 :section Real wild demo
+:ongoing true
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
-author:sssampo/pistoke|pms-id:asm16/real_wild/81|title:snek
-author:Paraguay|pms-id:asm16/real_wild/91|title:Teletext 40 years
-author:Juippi, Trilkk, Warma / Faemiyah|pms-id:asm16/real_wild/115|title:My Mistress the Leviathan
+author:sssampo/pistoke|guid:2095|media:/vod/2016/Compos/2095_snek_by_sssampopistoke.mp4|pms-id:asm16/real_wild/81|title:snek|youtube:a2B52mHEutA
+author:Paraguay|guid:2096|media:/vod/2016/Compos/2096_Teletext_40_years_by_Paraguay.mp4|pms-id:asm16/real_wild/91|title:Teletext 40 years|youtube:_To2TwIrWqQ
+author:Juippi, Trilkk, Warma / Faemiyah|guid:2097|media:/vod/2016/Compos/2097_My_Mistress_the_Leviathan_by_Juippi_Trilkk_Warma__Faemiyah.mp4|pms-id:asm16/real_wild/115|title:My Mistress the Leviathan|youtube:eDjhmQzZMaw
 
 
 :section Oldskool demo
+:ongoing true
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:public false
 
-author:Quadtrip|pms-id:asm16/oldskool_demo/7|title:Alllegory
-author:BooZombies|pms-id:asm16/oldskool_demo/63|title:Psychosis
-author:Alpha Design|pms-id:asm16/oldskool_demo/69|title:Blockhead
-author:Saksalainen Laatu|pms-id:asm16/oldskool_demo/108|title:I would rather
-author:Peisik|pms-id:asm16/oldskool_demo/121|title:Daybreak
-author:Byterapers|pms-id:asm16/oldskool_demo/124|title:Malf*cktion
-author:Fiture Crew Lamer Section|pms-id:asm16/oldskool_demo/135|title:Amica Mackig
+author:Quadtrip|guid:2087|media:/vod/2016/Compos/2087_Alllegory_by_Quadtrip.mp4|pms-id:asm16/oldskool_demo/7|title:Alllegory|youtube:mpnvmA4F27s
+author:BooZombies|guid:2088|media:/vod/2016/Compos/2088_Psychosis_by_BooZombies.mp4|pms-id:asm16/oldskool_demo/63|title:Psychosis|youtube:OQHgKZjKxj0
+author:Alpha Design|guid:2089|media:/vod/2016/Compos/2089_Blockhead_by_Alpha_Design.mp4|pms-id:asm16/oldskool_demo/69|title:Blockhead|youtube:goqDt_8t7Fs
+author:Saksalainen Laatu|guid:2090|media:/vod/2016/Compos/2090_I_would_rather_by_Saksalainen_Laatu.mp4|pms-id:asm16/oldskool_demo/108|title:I would rather|youtube:i8gcWqGxRM8
+author:Peisik|guid:2091|media:/vod/2016/Compos/2091_Daybreak_by_Peisik.mp4|pms-id:asm16/oldskool_demo/121|title:Daybreak|youtube:y6JgZ8xcZNA
+author:Byterapers|guid:2092|media:/vod/2016/Compos/2092_Malfcktion_by_Byterapers.mp4|pms-id:asm16/oldskool_demo/124|title:Malf*cktion|youtube:w1Gsr03ujqA
+author:Fiture Crew Lamer Section|guid:2093|media:/vod/2016/Compos/2093_Amica_Mackig_by_Fiture_Crew_Lamer_Section.mp4|pms-id:asm16/oldskool_demo/135|title:Amica Mackig|youtube:m2pgZmSh70o
 
 
 :section Short film
+:ongoing true
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
 author:pumpuli|guid:2099|media:/vod/2016/Compos/2099_Instanssi_2017_Invitation_by_pumpuli.mp4|pms-id:asm16/short_film/45|title:Instanssi 2017 Invitation|youtube:YcYpAoDaako
 author:HBC|guid:2100|media:/vod/2016/Compos/2100_HBC__00015_SubSurface_by_HBC.mp4|pms-id:asm16/short_film/50|title:HBC - 00015: SubSurface|youtube:UdxIyhwZ-Wc
-author:SBA|guid:2101|media:/vod/2016/Compos/2101_Phantom_of_the_Scootera_by_SBA.mp4|pms-id:asm16/short_film/82|title:Phantom of the Scootera
+author:SBA|guid:2101|media:/vod/2016/Compos/2101_Phantom_of_the_Scootera_by_SBA.mp4|pms-id:asm16/short_film/82|title:Phantom of the Scootera|youtube:FRb2QW0ePb4
 author:The Scene Standards Committee|guid:2102|media:/vod/2016/Compos/2102_Calibration_by_The_Scene_Standards_Committee.mp4|pms-id:asm16/short_film/119|title:Calibration|youtube:tMDBu6d_wco
-author:Sans Provinces|guid:2103|media:/vod/2016/Compos/2103_Everyday_by_Sans_Provinces.mp4|pms-id:asm16/short_film/141|title:Everyday
+author:Sans Provinces|guid:2103|media:/vod/2016/Compos/2103_Everyday_by_Sans_Provinces.mp4|pms-id:asm16/short_film/141|title:Everyday|youtube:kLz5KSL-QeI
 
 
 :section Gamedev
+:ongoing true
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -68,7 +77,7 @@ author:Team Moonatees|guid:2076|media:/vod/2016/Compos/2076_Moonatees_by_Team_Mo
 author:Juvenext|guid:2077|media:/vod/2016/Compos/2077_Minor_Problems_by_Juvenext.mp4|pms-id:asm16/gamedev/15|title:Minor Problems|youtube:SI4U1RlH30g
 author:Atomic Reindeer Games|guid:2078|media:/vod/2016/Compos/2078_Source_of_Light_by_Atomic_Reindeer_Games.mp4|pms-id:asm16/gamedev/16|title:Source of Light|youtube:OmeXW4n9MZI
 author:Joonas Pylvinen, Olli Korhonen, Kalle Pesonen|guid:2079|media:/vod/2016/Compos/2079_ThisIsHarma_by_Joonas_Pylvinen_Olli_Korhonen_Kalle_Pesonen.mp4|pms-id:asm16/gamedev/17|title:ThisIsHarma|youtube:iZgC4iDIdLY
-author:Kersseli, BlazeAce, Euphorgan, DriftQueen, Bleson, Vegetabbel, Setsuna, Neppari|guid:2080|media:/vod/2016/Compos/2080_Nemesis_Perspective_by_Kersseli_et_all.mp4|pms-id:asm16/gamedev/18|title:Nemesis Perspective
+author:Kersseli, BlazeAce, Euphorgan, DriftQueen, Bleson, Vegetabbel, Setsuna, Neppari|guid:2080|media:/vod/2016/Compos/2080_Nemesis_Perspective_by_Kersseli_et_all.mp4|pms-id:asm16/gamedev/18|title:Nemesis Perspective|youtube:wExa7niBEoA
 author:Höpö & Visto|guid:2081|media:/vod/2016/Compos/2081_Saunamajuri_by_Hp_Visto.mp4|pms-id:asm16/gamedev/20|title:Saunamajuri|youtube:AlnJ5-LSHAA
 author:Bent|guid:2082|media:/vod/2016/Compos/2082_Palju_by_Bent.mp4|pms-id:asm16/gamedev/21|title:Palju|youtube:IfRq3leDhO0
 author:Team Albrosia|guid:2083|media:/vod/2016/Compos/2083_Redd_by_Team_Albrosia.mp4|pms-id:asm16/gamedev/26|title:Redd|youtube:lw2-WdCHFO4
@@ -77,6 +86,7 @@ author:Rabbodirect|guid:2085|media:/vod/2016/Compos/2085_Backdoor_Golf_by_Rabbod
 
 
 :section Listening music
+:ongoing true
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
@@ -96,6 +106,7 @@ author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon
 
 
 :section Fast music
+:ongoing true
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -111,6 +122,7 @@ author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that 
 
 
 :section Dance music
+:ongoing true
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
@@ -129,6 +141,7 @@ author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdote
 
 
 :section Graphics
+:ongoing true
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
@@ -151,6 +164,7 @@ author:(author hidden until results)|image-file:graphics/14-AtTheDocks_NoSig.jpg
 
 
 :section Photo
+:ongoing true
 :pms-category photo
 
 author:(author hidden until results)|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg|pms-id:asm16/photo/33|title:Real-time raytracing II
@@ -172,6 +186,7 @@ author:(author hidden until results)|image-file:photo/03_cloudwarp.png|pms-id:as
 
 
 :section Fast graphics
+:ongoing true
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Beyond repair" theme.</p>
 
