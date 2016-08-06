@@ -4,7 +4,7 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :ongoing true
-:public-after 2016-08-07 01:00
+:public-after 2016-08-07 01:00+0300
 
 author:KoomaDot|pms-id:asm16/demo/89|title:Lines
 author:Humane|pms-id:asm16/demo/160|title:Planet creator device
@@ -25,7 +25,7 @@ author:Demoaces|pms-id:asm16/demo/275|title:Voyage
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public-after 2016-08-06 23:30
+:public-after 2016-08-06 23:30+0300
 
 author:Ananasmurska|pms-id:asm16/4k_intro/246|title:Subterranean
 author:mystran|pms-id:asm16/4k_intro/250|title:Mansikkojäätelön Iltalento
@@ -40,7 +40,7 @@ author:Unknown Artists|pms-id:asm16/4k_intro/274|title:Outcast
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public-after 2016-08-06 23:00
+:public-after 2016-08-06 23:00+0300
 
 author:Neper|pms-id:asm16/1k_intro/9|title:Divergent
 author:TDA|pms-id:asm16/1k_intro/30|title:Affinity
@@ -120,19 +120,19 @@ author:Rabbodirect|guid:2085|media:/vod/2016/Compos/2085_Backdoor_Golf_by_Rabbod
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm16/listening_music/57|title:Hillbilly Facing Gondor for Golden Fries Techno|video-file:listening-music/04_hillbilly_facing_gondor_for_golden_fries_techno.flac.mp4|youtube:uFrzCFZD7Xc
-author:(author hidden until results)|pms-id:asm16/listening_music/71|title:Savior of Worlds|video-file:listening-music/03_savior_of_worlds.flac.mp4|youtube:R2TPa2aDoXo
-author:(author hidden until results)|pms-id:asm16/listening_music/75|title:Just Another Quick Match (in Heroes of the Storm)|video-file:listening-music/07_just_another_quick_match_(in_heroes_of_the_storm).flac.mp4|youtube:VEExROxxIaI
-author:(author hidden until results)|pms-id:asm16/listening_music/92|title:Gouraud|video-file:listening-music/09_gouraud.flac.mp4|youtube:StIo-4s0Esg
-author:(author hidden until results)|pms-id:asm16/listening_music/104|title:Wax On Wax Off|video-file:listening-music/08_Wax On Wax Off.flac.mp4|youtube:wffqMcitAhM
-author:(author hidden until results)|pms-id:asm16/listening_music/125|title:Dream of High Score|video-file:listening-music/12_dream_of_high_score.flac.mp4|youtube:mMcsYJblcd8
-author:(author hidden until results)|pms-id:asm16/listening_music/127|title:Ｓｕｒｆ  Ｔｈｅ  Ｐｌａｎｅｔ (インターネット世代)|video-file:listening-music/01_surftheplanet.flac.mp4|youtube:3PkA7sT4RPE
-author:(author hidden until results)|pms-id:asm16/listening_music/132|title:Leveling Music|video-file:listening-music/13_Leveling Music.flac.mp4|youtube:uBPfzXEdOs4
-author:(author hidden until results)|pms-id:asm16/listening_music/133|title:Noah's Urk|video-file:listening-music/10_Noah's Urk.flac.mp4|youtube:q1G7l3dg7n8
-author:(author hidden until results)|pms-id:asm16/listening_music/146|title:NIGHTS|video-file:listening-music/02_nights.flac.mp4|youtube:SycdJ4Y5hGk
-author:(author hidden until results)|pms-id:asm16/listening_music/147|title:Distress Signal Near The Home Planet|video-file:listening-music/05_distress_signal_near_the_home_planet.flac.mp4|youtube:a3EJMSR-QKk
-author:(author hidden until results)|pms-id:asm16/listening_music/154|title:No Way Out|video-file:listening-music/06_No Way Out.flac.mp4|youtube:AFM-BeMWXuU
-author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon Light Coronatus Stage|video-file:listening-music/11_neon_light_coronatus_stage.flac.mp4|youtube:BCGrDCnZefQ
+author:Tolpero & Helppu/Off Productions|pms-id:asm16/listening_music/57|title:Hillbilly Facing Gondor for Golden Fries Techno|video-file:listening-music/04_hillbilly_facing_gondor_for_golden_fries_techno.flac.mp4|youtube:uFrzCFZD7Xc
+author:Melodïcore feat. Mom|pms-id:asm16/listening_music/71|title:Savior of Worlds|video-file:listening-music/03_savior_of_worlds.flac.mp4|youtube:R2TPa2aDoXo
+author:calmah & or4n|pms-id:asm16/listening_music/75|title:Just Another Quick Match (in Heroes of the Storm)|video-file:listening-music/07_just_another_quick_match_(in_heroes_of_the_storm).flac.mp4|youtube:VEExROxxIaI
+author:Roz/Fit^Byterapers^RNO|pms-id:asm16/listening_music/92|title:Gouraud|video-file:listening-music/09_gouraud.flac.mp4|youtube:StIo-4s0Esg
+author:Aikapallo|pms-id:asm16/listening_music/104|title:Wax On Wax Off|video-file:listening-music/08_Wax On Wax Off.flac.mp4|youtube:wffqMcitAhM
+author:Man with no Nickname|pms-id:asm16/listening_music/125|title:Dream of High Score|video-file:listening-music/12_dream_of_high_score.flac.mp4|youtube:mMcsYJblcd8
+author:ＷＩＮＡＰＩ-サーファー|pms-id:asm16/listening_music/127|title:Ｓｕｒｆ  Ｔｈｅ  Ｐｌａｎｅｔ (インターネット世代)|video-file:listening-music/01_surftheplanet.flac.mp4|youtube:3PkA7sT4RPE
+author:Byproduct / SceneSat|pms-id:asm16/listening_music/132|title:Leveling Music|video-file:listening-music/13_Leveling Music.flac.mp4|youtube:uBPfzXEdOs4
+author:Paokala|pms-id:asm16/listening_music/133|title:Noah's Urk|video-file:listening-music/10_Noah's Urk.flac.mp4|youtube:q1G7l3dg7n8
+author:TomiRuuska|pms-id:asm16/listening_music/146|title:NIGHTS|video-file:listening-music/02_nights.flac.mp4|youtube:SycdJ4Y5hGk
+author:ruuvari/aspekt|pms-id:asm16/listening_music/147|title:Distress Signal Near The Home Planet|video-file:listening-music/05_distress_signal_near_the_home_planet.flac.mp4|youtube:a3EJMSR-QKk
+author:Jarskie|pms-id:asm16/listening_music/154|title:No Way Out|video-file:listening-music/06_No Way Out.flac.mp4|youtube:AFM-BeMWXuU
+author:Duality Vile|pms-id:asm16/listening_music/155|title:Neon Light Coronatus Stage|video-file:listening-music/11_neon_light_coronatus_stage.flac.mp4|youtube:BCGrDCnZefQ
 
 
 :section Fast music
@@ -140,15 +140,15 @@ author:(author hidden until results)|pms-id:asm16/listening_music/155|title:Neon
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm16/fast_music/229|title:Translative Figure|video-file:fast-music/07translative_figure.flac.mp4|youtube:K-OJ5pIpimY
-author:(author hidden until results)|pms-id:asm16/fast_music/230|title:Muutama risu|video-file:fast-music/05muutama_risu.flac.mp4|youtube:ydxXEjJBp_E
-author:(author hidden until results)|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät|video-file:fast-music/06jukke-pupun_eläkepäivät.flac.mp4|youtube:50ADeevZYRY
-author:(author hidden until results)|pms-id:asm16/fast_music/232|title:Juhkun Villapaita|video-file:fast-music/08juhkun_villapaita.flac.mp4|youtube:PecT0rQch7A
-author:(author hidden until results)|pms-id:asm16/fast_music/233|title:Almost|video-file:fast-music/02almost.flac.mp4|youtube:PCUYvoJ9NZU
-author:(author hidden until results)|pms-id:asm16/fast_music/234|title:Bunny Boogie|video-file:fast-music/04bunny_boogie.flac.mp4|youtube:m4yJIYnHrRQ
-author:(author hidden until results)|pms-id:asm16/fast_music/235|title:it's fast|video-file:fast-music/09it_s_fast.flac.mp4|youtube:b5KaqhoXi_U
-author:(author hidden until results)|pms-id:asm16/fast_music/236|title:Happy Day|video-file:fast-music/03happy_day.flac.mp4|youtube:h2gz4rVIdPw
-author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that fast (140)|video-file:fast-music/01not_that_fast_(140).flac.mp4|youtube:nqPFujkXGBM
+author:Melodïcore|pms-id:asm16/fast_music/229|title:Translative Figure|video-file:fast-music/07translative_figure.flac.mp4|youtube:K-OJ5pIpimY
+author:dusthillguy of Monsquaz crew|pms-id:asm16/fast_music/230|title:Muutama risu|video-file:fast-music/05muutama_risu.flac.mp4|youtube:ydxXEjJBp_E
+author:Paopao|pms-id:asm16/fast_music/231|title:Jukke-Pupun eläkepäivät|video-file:fast-music/06jukke-pupun_eläkepäivät.flac.mp4|youtube:50ADeevZYRY
+author:Jarskie|pms-id:asm16/fast_music/232|title:Juhkun Villapaita|video-file:fast-music/08juhkun_villapaita.flac.mp4|youtube:PecT0rQch7A
+author:Rayjan / Pyrotech|pms-id:asm16/fast_music/233|title:Almost|video-file:fast-music/02almost.flac.mp4|youtube:PCUYvoJ9NZU
+author:JoonasD6|pms-id:asm16/fast_music/234|title:Bunny Boogie|video-file:fast-music/04bunny_boogie.flac.mp4|youtube:m4yJIYnHrRQ
+author:Luks|pms-id:asm16/fast_music/235|title:it's fast|video-file:fast-music/09it_s_fast.flac.mp4|youtube:b5KaqhoXi_U
+author:Avenum|pms-id:asm16/fast_music/236|title:Happy Day|video-file:fast-music/03happy_day.flac.mp4|youtube:h2gz4rVIdPw
+author:doggun2k666/mehu|pms-id:asm16/fast_music/237|title:not that fast (140)|video-file:fast-music/01not_that_fast_(140).flac.mp4|youtube:nqPFujkXGBM
 
 
 :section Dance music
@@ -156,18 +156,18 @@ author:(author hidden until results)|pms-id:asm16/fast_music/237|title:not that 
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm16/dance_music/46|title:Ibiza Sunrise|video-file:dance-music/09ibiza_sunrise.flac.mp4|youtube:o8zrue1c6aw
-author:(author hidden until results)|pms-id:asm16/dance_music/49|title:BLIP|video-file:dance-music/05blip_edit.flac.mp4|youtube:iwDrXkT_dNc
-author:(author hidden until results)|pms-id:asm16/dance_music/65|title:Yin Yang|video-file:dance-music/03yin_yang_edit.flac.mp4|youtube:IGrXTmkF2H8
-author:(author hidden until results)|pms-id:asm16/dance_music/70|title:Spellhaunt|video-file:dance-music/06spellhaunt.flac.mp4|youtube:GBB0DHPxWfc
-author:(author hidden until results)|pms-id:asm16/dance_music/72|title:With You|video-file:dance-music/13with_you.flac.mp4|youtube:xXo3hQqNB3I
-author:(author hidden until results)|pms-id:asm16/dance_music/80|title:Dance for the Robot Overlords|video-file:dance-music/02Dance_for_the_Robot_Overlords.flac.mp4|youtube:Vxwj52ivjQM
-author:(author hidden until results)|pms-id:asm16/dance_music/103|title:Piña Colada|video-file:dance-music/08pinacolada.flac.mp4|youtube:fDl5030mKpw
-author:(author hidden until results)|pms-id:asm16/dance_music/106|title:Rave Network Overscan|video-file:dance-music/10rave_network_overscan.flac.mp4|youtube:FAd2y-7q0oQ
-author:(author hidden until results)|pms-id:asm16/dance_music/126|title:Let My NES Move You 2|video-file:dance-music/11let_my_nes_move_you_2.flac.mp4|youtube:MedXYxZOQxs
-author:(author hidden until results)|pms-id:asm16/dance_music/148|title:outer space|video-file:dance-music/12outer_space.flac.mp4|youtube:Qh9FA6UWr4A
-author:(author hidden until results)|pms-id:asm16/dance_music/149|title:Deadline trauma|video-file:dance-music/07deadlinetrauma.flac.mp4|youtube:cAV-8KuRsfk
-author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdotetaan|video-file:dance-music/04spurdotetaan_edit.flac.mp4|youtube:fSVH_LxOdIc
+author:DJ Joge of Brainstorm|pms-id:asm16/dance_music/46|title:Ibiza Sunrise|video-file:dance-music/09ibiza_sunrise.flac.mp4|youtube:o8zrue1c6aw
+author:Maulwurf|pms-id:asm16/dance_music/49|title:BLIP|video-file:dance-music/05blip_edit.flac.mp4|youtube:iwDrXkT_dNc
+author:Dj KnV|pms-id:asm16/dance_music/65|title:Yin Yang|video-file:dance-music/03yin_yang_edit.flac.mp4|youtube:IGrXTmkF2H8
+author:Alek Szahala|pms-id:asm16/dance_music/70|title:Spellhaunt|video-file:dance-music/06spellhaunt.flac.mp4|youtube:GBB0DHPxWfc
+author:Melodïcore|pms-id:asm16/dance_music/72|title:With You|video-file:dance-music/13with_you.flac.mp4|youtube:xXo3hQqNB3I
+author:Byproduct / SceneSat|pms-id:asm16/dance_music/80|title:Dance for the Robot Overlords|video-file:dance-music/02Dance_for_the_Robot_Overlords.flac.mp4|youtube:Vxwj52ivjQM
+author:Mafia Pineapple|pms-id:asm16/dance_music/103|title:Piña Colada|video-file:dance-music/08pinacolada.flac.mp4|youtube:fDl5030mKpw
+author:Roz/Fit^Byterapers^RNO|pms-id:asm16/dance_music/106|title:Rave Network Overscan|video-file:dance-music/10rave_network_overscan.flac.mp4|youtube:FAd2y-7q0oQ
+author:Man with no Nickname|pms-id:asm16/dance_music/126|title:Let My NES Move You 2|video-file:dance-music/11let_my_nes_move_you_2.flac.mp4|youtube:MedXYxZOQxs
+author:microdots|pms-id:asm16/dance_music/148|title:outer space|video-file:dance-music/12outer_space.flac.mp4|youtube:Qh9FA6UWr4A
+author:Jaakkovaa|pms-id:asm16/dance_music/149|title:Deadline trauma|video-file:dance-music/07deadlinetrauma.flac.mp4|youtube:cAV-8KuRsfk
+author:Dankemon|pms-id:asm16/dance_music/157|title:Spurdotetaan|video-file:dance-music/04spurdotetaan_edit.flac.mp4|youtube:fSVH_LxOdIc
 
 
 :section Graphics
@@ -175,44 +175,44 @@ author:(author hidden until results)|pms-id:asm16/dance_music/157|title:Spurdote
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:graphics/02-you-came-to-the-wrong-pond_nosig.png|pms-id:asm16/graphics/51|title:You came to the wrong pond
-author:(author hidden until results)|image-file:graphics/05-sunset_city_nosig.png|pms-id:asm16/graphics/52|title:Sunset City
-author:(author hidden until results)|image-file:graphics/08-the-mythical-shrine-of-the-garden-gnomes_nosig.png|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes
-author:(author hidden until results)|image-file:graphics/03-leipaa_nosig.png|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!
-author:(author hidden until results)|image-file:graphics/15-legendary_punatulkku_nosig.png|pms-id:asm16/graphics/84|title:Legendary Punatulkku
-author:(author hidden until results)|image-file:graphics/06-flowersea_nosig.png|pms-id:asm16/graphics/107|title:Flowersea
-author:(author hidden until results)|image-file:graphics/12-Close_to_the_Sun_nosig.png|pms-id:asm16/graphics/111|title:Close to the Sun
-author:(author hidden until results)|image-file:graphics/16-Grove_of_the_Pilgrim Hollow_nosig.jpg|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow
-author:(author hidden until results)|image-file:graphics/10-bounty_buddies_nosig.jpg|pms-id:asm16/graphics/128|title:Bounty buddies
-author:(author hidden until results)|image-file:graphics/07-Pewpew.png|pms-id:asm16/graphics/129|title:Pew Pew
-author:(author hidden until results)|image-file:graphics/09-cheese_attack_nosig.png|pms-id:asm16/graphics/136|title:Cheese Attack
-author:(author hidden until results)|image-file:graphics/04-Will-o'-wisp_nosig.png|pms-id:asm16/graphics/138|title:Will-o'-wisp
-author:(author hidden until results)|image-file:graphics/01-honey_i_am_sorry.png|pms-id:asm16/graphics/139|title:Honey I am Sorry
-author:(author hidden until results)|image-file:graphics/13-dragon_slayer_nosig.png|pms-id:asm16/graphics/145|title:Dragon Slayer
-author:(author hidden until results)|image-file:graphics/11-Ascii_Walley_NoSig.png|pms-id:asm16/graphics/152|title:Ascii Walley
-author:(author hidden until results)|image-file:graphics/14-AtTheDocks_NoSig.jpg|pms-id:asm16/graphics/153|title:At The Docks
+author:aarnis|image-file:graphics/02-you-came-to-the-wrong-pond_nosig.png|pms-id:asm16/graphics/51|title:You came to the wrong pond
+author:NinjaBaka|image-file:graphics/05-sunset_city_nosig.png|pms-id:asm16/graphics/52|title:Sunset City
+author:Janne Peippo|image-file:graphics/08-the-mythical-shrine-of-the-garden-gnomes_nosig.png|pms-id:asm16/graphics/62|title:The Mythical Shrine of the Garden Gnomes
+author:Neotheta|image-file:graphics/03-leipaa_nosig.png|pms-id:asm16/graphics/74|title:My Wonderful Glorious Treasure!
+author:Charlotta Tiuri|image-file:graphics/15-legendary_punatulkku_nosig.png|pms-id:asm16/graphics/84|title:Legendary Punatulkku
+author:EVM|image-file:graphics/06-flowersea_nosig.png|pms-id:asm16/graphics/107|title:Flowersea
+author:Plasticbunny|image-file:graphics/12-Close_to_the_Sun_nosig.png|pms-id:asm16/graphics/111|title:Close to the Sun
+author:Darkki|image-file:graphics/16-Grove_of_the_Pilgrim Hollow_nosig.jpg|pms-id:asm16/graphics/120|title:Grove of the Pilgrim Hollow
+author:Valtteri|image-file:graphics/10-bounty_buddies_nosig.jpg|pms-id:asm16/graphics/128|title:Bounty buddies
+author:HD|image-file:graphics/07-Pewpew.png|pms-id:asm16/graphics/129|title:Pew Pew
+author:maxon / HBC|image-file:graphics/09-cheese_attack_nosig.png|pms-id:asm16/graphics/136|title:Cheese Attack
+author:Surround / Tekotuotanto|image-file:graphics/04-Will-o'-wisp_nosig.png|pms-id:asm16/graphics/138|title:Will-o'-wisp
+author:Pia L|image-file:graphics/01-honey_i_am_sorry.png|pms-id:asm16/graphics/139|title:Honey I am Sorry
+author:Veera|image-file:graphics/13-dragon_slayer_nosig.png|pms-id:asm16/graphics/145|title:Dragon Slayer
+author:Mazor / Fairlight|image-file:graphics/11-Ascii_Walley_NoSig.png|pms-id:asm16/graphics/152|title:Ascii Walley
+author:Partikle|image-file:graphics/14-AtTheDocks_NoSig.jpg|pms-id:asm16/graphics/153|title:At The Docks
 
 
 :section Photo
 :pms-category photo
 :ongoing true
 
-author:(author hidden until results)|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg|pms-id:asm16/photo/33|title:Real-time raytracing II
-author:(author hidden until results)|image-file:photo/01_aragog_s_second_cousin.jpg|pms-id:asm16/photo/42|title:Aragog's second cousin
-author:(author hidden until results)|image-file:photo/12_gotcha_169.jpg|pms-id:asm16/photo/43|title:12 Gotcha!
-author:(author hidden until results)|image-file:photo/14_unique_symmetry.jpg|pms-id:asm16/photo/56|title:Unique Symmetry
-author:(author hidden until results)|image-file:photo/13_Onward_by_Tethys_(FullHD_crop).png|pms-id:asm16/photo/58|title:Onward
-author:(author hidden until results)|image-file:photo/05_seeds_of_jury.png|pms-id:asm16/photo/64|title:seeds of jury
-author:(author hidden until results)|image-file:photo/15_chiba-city-console-cowgirl.png|pms-id:asm16/photo/68|title:Chiba City Console Cowboy
-author:(author hidden until results)|image-file:photo/06_is it cold out there.jpg|pms-id:asm16/photo/78|title:Is it a cold world out there?
-author:(author hidden until results)|image-file:photo/07_onwards_to_glory.jpg|pms-id:asm16/photo/95|title:Onwards... to glory!!!
-author:(author hidden until results)|image-file:photo/09_frigiliana-nosig.png|pms-id:asm16/photo/99|title:Frigiliana
-author:(author hidden until results)|image-file:photo/08_aglais_io_dorsal.png|pms-id:asm16/photo/101|title:aglais.io/dorsal
-author:(author hidden until results)|image-file:photo/04_Fractal_Lifeform.jpg|pms-id:asm16/photo/118|title:Fractal Lifeform
-author:(author hidden until results)|image-file:photo/11_slippy_joe.jpg|pms-id:asm16/photo/123|title:Slippy Joe
-author:(author hidden until results)|image-file:photo/10_gotcha_.jpg|pms-id:asm16/photo/134|title:10 Gotcha!
-author:(author hidden until results)|image-file:photo/02_harley-quinn.jpg|pms-id:asm16/photo/143|title:Harley Quinn
-author:(author hidden until results)|image-file:photo/03_cloudwarp.png|pms-id:asm16/photo/144|title:Cloudwarp
+author:biini / damones|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg|pms-id:asm16/photo/33|title:Real-time raytracing II
+author:florist|image-file:photo/01_aragog_s_second_cousin.jpg|pms-id:asm16/photo/42|title:Aragog's second cousin
+author:Wode / Doomsday|image-file:photo/12_gotcha_169.jpg|pms-id:asm16/photo/43|title:Gotcha!
+author:AK^|image-file:photo/14_unique_symmetry.jpg|pms-id:asm16/photo/56|title:Unique Symmetry
+author:Tethys|image-file:photo/13_Onward_by_Tethys_(FullHD_crop).png|pms-id:asm16/photo/58|title:Onward
+author:jmagic|image-file:photo/05_seeds_of_jury.png|pms-id:asm16/photo/64|title:seeds of jury
+author:Janne Peippo|image-file:photo/15_chiba-city-console-cowgirl.png|pms-id:asm16/photo/68|title:Chiba City Console Cowboy
+author:Insert coin here|image-file:photo/06_is it cold out there.jpg|pms-id:asm16/photo/78|title:Is it a cold world out there?
+author:After Work Teatime|image-file:photo/07_onwards_to_glory.jpg|pms-id:asm16/photo/95|title:Onwards... to glory!!!
+author:Roz/Fit^Byterapers^RNO|image-file:photo/09_frigiliana-nosig.png|pms-id:asm16/photo/99|title:Frigiliana
+author:tonic|image-file:photo/08_aglais_io_dorsal.png|pms-id:asm16/photo/101|title:aglais.io/dorsal
+author:Darkki|image-file:photo/04_Fractal_Lifeform.jpg|pms-id:asm16/photo/118|title:Fractal Lifeform
+author:Division|image-file:photo/11_slippy_joe.jpg|pms-id:asm16/photo/123|title:Slippy Joe
+author:Foxmagon|image-file:photo/10_gotcha_.jpg|pms-id:asm16/photo/134|title:Gotcha!
+author:Mikko Karsisto|image-file:photo/02_harley-quinn.jpg|pms-id:asm16/photo/143|title:Harley Quinn
+author:Big Buddha / HiRMU|image-file:photo/03_cloudwarp.png|pms-id:asm16/photo/144|title:Cloudwarp
 
 
 :section Fast graphics
@@ -220,40 +220,138 @@ author:(author hidden until results)|image-file:photo/03_cloudwarp.png|pms-id:as
 :description <p>Competitors had 1.5 hours to create an image with "Beyond repair" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:fast-graphics/13-i_m_sorry__we_have_to_lose_the_leg.jpg|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg
-author:(author hidden until results)|image-file:fast-graphics/06-nowayout_nosig.png|pms-id:asm16/fast_graphics/168|title:No way out
-author:(author hidden until results)|image-file:fast-graphics/10-beyond_repair_1.png|pms-id:asm16/fast_graphics/171|title:10 Beyond repair
-author:(author hidden until results)|image-file:fast-graphics/02-sibling_rivalries.jpeg|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries
-author:(author hidden until results)|image-file:fast-graphics/03-scene_is_not_dead_yet.jpg|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet
-author:(author hidden until results)|image-file:fast-graphics/12-Looking_for_spare_parts_by_darkki_nosig.jpg|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts
-author:(author hidden until results)|image-file:fast-graphics/07-broken.png|pms-id:asm16/fast_graphics/175|title:Broken
-author:(author hidden until results)|image-file:fast-graphics/11-rude_sandstorm.jpg|pms-id:asm16/fast_graphics/177|title:Rude sandstorm
-author:(author hidden until results)|image-file:fast-graphics/08-it_hit_the_fan.png|pms-id:asm16/fast_graphics/179|title:It Hit the Fan
-author:(author hidden until results)|image-file:fast-graphics/04-that_s_life.png|pms-id:asm16/fast_graphics/181|title:That's life
-author:(author hidden until results)|image-file:fast-graphics/09-show_must_go_on.png|pms-id:asm16/fast_graphics/182|title:Show must go on...
-author:(author hidden until results)|image-file:fast-graphics/05-beyond_repair_2.png|pms-id:asm16/fast_graphics/183|title:05 Beyond Repair
-author:(author hidden until results)|image-file:fast-graphics/01-nyooooooo_.jpg|pms-id:asm16/fast_graphics/185|title:Nyooooooo!
+author:Valtteri|image-file:fast-graphics/13-i_m_sorry__we_have_to_lose_the_leg.jpg|pms-id:asm16/fast_graphics/167|title:I'm sorry, we have to lose the leg
+author:Neotheta|image-file:fast-graphics/06-nowayout_nosig.png|pms-id:asm16/fast_graphics/168|title:No way out
+author:aarnis|image-file:fast-graphics/10-beyond_repair_1.png|pms-id:asm16/fast_graphics/171|title:Beyond repair
+author:JasuM|image-file:fast-graphics/02-sibling_rivalries.jpeg|pms-id:asm16/fast_graphics/172|title:Sibling Rivalries
+author:gNNg|image-file:fast-graphics/03-scene_is_not_dead_yet.jpg|pms-id:asm16/fast_graphics/173|title:Scene is not dead yet
+author:Darkki|image-file:fast-graphics/12-Looking_for_spare_parts_by_darkki_nosig.jpg|pms-id:asm16/fast_graphics/174|title:Looking for Spare parts
+author:Antti|image-file:fast-graphics/07-broken.png|pms-id:asm16/fast_graphics/175|title:Broken
+author:Surround/Tekotuotanto|image-file:fast-graphics/11-rude_sandstorm.jpg|pms-id:asm16/fast_graphics/177|title:Rude sandstorm
+author:Charlotta Tiuri|image-file:fast-graphics/08-it_hit_the_fan.png|pms-id:asm16/fast_graphics/179|title:It Hit the Fan
+author:maxon / HBC|image-file:fast-graphics/04-that_s_life.png|pms-id:asm16/fast_graphics/181|title:That's life
+author:Ceirque|image-file:fast-graphics/09-show_must_go_on.png|pms-id:asm16/fast_graphics/182|title:Show must go on...
+author:Plasticbunny|image-file:fast-graphics/05-beyond_repair_2.png|pms-id:asm16/fast_graphics/183|title:Beyond Repair
+author:Greetings to Hukka, Hoppu and Angelon Häntä|image-file:fast-graphics/01-nyooooooo_.jpg|pms-id:asm16/fast_graphics/185|title:Nyooooooo!
 
 
 :section Seminars
 :elaine-category 2016 Seminars
-:public false
 
-
+title:6.8.2016 at 10:00 EEST Pelastakaa lapset: The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
+title:6.8.2016 at 11:00 EEST | Veli-Pekka Piirainen: Critical Ops - the first FPS game for mobile eSports|youtube:B-QWfjYE488
+title:6.8.2016 at 12:00 EEST | Sampsa Kuha: TRIAL AND ERROR - lessons learned developing for GearVR|youtube:PxqXKDS1u-k
+title:6.8.2016 at 13:00 EEST | Tuomas Karmakallio: All your retina are belong to us|youtube:tZ_kDc4Pyu8
+title:6.8.2016 at 14:00 EEST | Tuukka Takala: Staying Ahead of the Curve in Virtual Reality|youtube:sKCYiNK9-LE
+title:6.8.2016 at 15:00 EEST | Miro Vesterinen: Custom vertex normals & the "Medium-poly" workflow|youtube:DBLLCBujdp8
+title:6.8.2016 at 16:00 EEST | Jere Sanisalo: Modern GPU particle systems in Alienation (PS4)|youtube:s3h9WaSgt0s
+title:6.8.2016 at 17:00 EEST | Tatu Aalto: Rendering Quantum Break|youtube:L0mhZQcCgrE
+title:ARTtech seminar: Erkka Nurmi, Milla Pystynen: VR Game Development on a University Course|youtube:pubz9Rg_EGw
+title:ARTtech seminar: Juhani Eronen: Your privacy is protected by .. what exactly?|youtube:-51nIz8pz08
+title:ARTtech seminar: Jussi Kyrönseppä: Design approach to IP in video games|youtube:JdzQVlSJkKE
+title:ARTtech seminar: Kadri Ugand: From Game to Studio to Business|youtube:26kwn9Z_NtE
+title:ARTtech seminar: Kirsi Ihalainen: Generative Sound Design|youtube:p89XUsqpUDA
+title:ARTtech seminar: Ville Sorsa: Designing sound for time bending Quantum Break|youtube:0V4hKv-E5mA
+title:ARTtech seminar: Perttu Hämäläinen: The Augmented Climbing Wall: designing augmented reality sports|youtube:lel8-xYEu28
+title:6.8.2016 at 18:00 EEST | Timo Heinäpurola: Mobile Game Engine Development at Reforged Studios|youtube:eeWJenGc4R0
+title:6.8.2016 at 19:00 EEST | Joona Heinikoski: Tools for creating successful  alien invasion|youtube:5k-sgGx_-vA
+title:6.8.2016 at 20 :00 EEST | Juska Teittinen: Introduction to design|youtube:VI8_6Hrua5E
+title:ARTtech seminar: Sampsa Kuha: Trial and Error - Lessons learned developing for GearVR|youtube:rLWohOtkmuQ
 
 :section AssemblyTV
 :elaine-category 2016 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
-
+title:Assembly Summer 2016 startti!|description:Assembly Summer 2016 starttaa huomenna torstaina 4.8.2016. Löydät meidät sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|youtube:ObtMQKWcQb8
+title:Haastattelussa Somecrewn Outi|description:Löydät Assemblyn sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|youtube:Cs5aPcuXpAE
+title:Assembly 2016 Summer - Infopiste - Käytännön asiat reilaan|description:Heti kun alkaa kummastuttaa, älä pelkää pistäytyä infopisteellä, ne tietää kaiken.|youtube:xpCwKRGiptg
+title:Assembly 2016 Summer - Torstaina tapahtuu...|description:http://www.assembly.org/summer16/schedule/<br/>Lyhyt kuvaus siitä mitä Assembly 2016 Summer tapahtumassa tapahtuu torstaina. mm. Seminaarit - VR - Esports ja lisää|youtube:5uWaaHY118E
+title:Assembly 2016 Summer - Jimms haastattelu|description:Tsekkaa huikeet messutarjoukset: https://www.jimms.fi/Pages/Assembly|youtube:x5cYOFQGYGc
+title:Fireside chat with Juhani Eronen|youtube:I_zQa0atqkk
+title:Assembly 2016 Summer - Haastattelussa wabbit|youtube:1ucLZ_fEwzk
+title:Assembly 2016 Summer - Hacklab|youtube:DEi9e_i22hk
+title:Fireside chat with Kadri Ugand|youtube:VxNSnfTnUhE
+title:Assembly 2016 Summer - Haastattelussa Assembly Shop|description:Battery lavaa meneee|youtube:_W9C8seApso
+title:Fireside chat with Kirsi Ihalainen|youtube:EqmFyf6YCYc
+title:Assembly 2016 Summer - Haastattelussa Domezi Tubecornerista|youtube:aN21BKQjX8Y
+title:Opening ceremony|youtube:YZEmcQlIk3Y
+title:Fireside chat with Andy Pyro|youtube:SvW306scPjY
+title:Fireside chat with Ville Sorsa|youtube:06FyZEAo-7Y
+title:Pelastakaa Lapset Ry Sonja Ahtiainen|description:via YouTube Capture|youtube:YQwtWAscnpY
+title:Huomenta Assembly perjantai|youtube:1lp9vhSkePQ
+title:Fast graphics & music compostudio|youtube:-xOCmRVK2O4
+title:Photo & Graphics compostudio|youtube:w6YSUnm_fwM
+title:FIVR VR-seikkailua|description:Keith checks out our VR-stand.|youtube:XJSjLkjFBos
+title:Battery kisat|description:Assembly 2016 Summer tapahtuman Battery kisat.|youtube:dNBUrWPjWa0
+title:Assembly 2016 Summer - Haastattelussa tanssipelaaja hippaheikki|youtube:_AH8z0Bn5Gw
+title:Assembly 2016 Summer - Elisa drone racing - Haastattelussa dronekuski Antti Jäppinen|youtube:qvj2wLcgkEg
+title:Assembly 2016 Summer - Jimms VR -haastattelu|youtube:5BephEi6Pf0
+title:GameDev compostudio|youtube:MWDfNPp5vhs
+title:Late night with Tekotuotanto talk show (short film compo studio)|youtube:gN108zXcwmM
+title:Listening music compostudio|youtube:NPbIu8d0uu4
+title:Oldskool compostudio|youtube:xaLXNw9QNYk
+title:Real Wild compostudio|youtube:xWpRgfj4RJE
+title:Assembly 2016 Summer - Lauantaistartti|description:Assemblyjen viimeinen kokonainen päivä|youtube:SfIc_bWxpXA
+title:Robosodat|description:Pelti paukkuu Robosodassa.|youtube:1EWieSBi7YU
+title:Huomenta Assembly lauantai|youtube:CDFxyOzgDCk
+title:Late night snack|youtube:PnXCuYzLW1M
+title:Dance music compostudio|youtube:hizmm7lZLI4
+title:Assembly 2016 Summer - Cosplayerit esittäytyy|description:Tapahtumassa kiertäneet cosplayerit esittäytyy. Muista tulla katsomaan lauantaina klo 20:00 streamcorneriin!|youtube:vgZCKVLlYMM
+title:Assembly 2016 Summer - Space Soldiers TuGuX Haastattelu|youtube:jPkhSRdfByM
+title:Assembly 2016 Summer - Pokemon GO vai CS GO ?|description:Elämän isompii kyssäreit|youtube:g8lbBqKqm_w
+title:Jimm's Assyilla|description:Jimm'sillä tapahtuu.|youtube:PlC0trMJB9k
+title:Jimm's Assyilla|description:Jimm'sillä tapahtuu.|youtube:Nwi_f_wfuf0
+title:Fireside chat with Herra Mustikka|youtube:VhdGFBPGfyU
+title:Fireside chat with Sampsa Kuha|youtube:kMqGvs9B3Sc
+title:Fireside chat with TurunMarkku|youtube:ewk5d0UE2TA
+title:Fireside chat with Tuukka Takala|youtube:unEtocIg_b4
+title:Tänään Liero Retroturnauksessa!|description:ebin|youtube:Bd9ac6pft64
 
 :section eSports
 :elaine-category 2016 Games
 
-
+title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|youtube:FY2scLnf9TE
+title:eSM StarCraft II Summer 2016 Final|youtube:CMDsC0Y1Tjo
+title:eSM Hearthstone Summer 2016 Final|youtube:0EDznNL1r9A
+title:Retroturnaus - Minebombers karsinta 1|youtube:oxJlWIZJvjk
+title:Retroturnaus - Minebombers karsinta 2|youtube:gOXw5A3GLc4
+title:Retroturnaus - Minebombers karsinta 3|youtube:vQrL0rskhOs
+title:Retroturnaus - Minebombers karsinta 4|youtube:BQm8m3RLDmo
+title:Retroturnaus - Minebombers finaali|youtube:uJkaquc99hU
+title:Assembly 2016 Summer - Clash Royale turnaus|youtube:qgD3YfKYeaU
+title:G2A-kisailua|description:G2A Assembly 2016 Summer tapahtuman kisailua.|youtube:_4rFZdTypmA
+title:eSM CS:GO Final|youtube:YLDoi9o4AGM
+title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #1|youtube:jk1Q2f6DSi8
+title:ASUS-kisailu|description:ASUS järjestää tiukkaa kilpailua.|youtube:aEFX2o1mn_g
+title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #2|youtube:yrXnwKWB7fo
+title:ASUS ROG CS:GO Qualifiers Epsilon - Escape Gaming #3|youtube:heoo2QKgY7M
+title:ASUS ROG CS:GO Qualifiers Escape Gaming - LGR|youtube:0FS2FaW8ugs
+title:ASUS ROG CS:GO Qualifiers Millenium - Escape Gaming|youtube:imP0KBmkpVo
+title:ASUS ROG CS:GO Qualifiers Space Soldiers - ENCE|youtube:4l7RowcsyMk
+title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports|youtube:jRS_w_CTjok
+title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports #2|youtube:TNWE6m2evDw
 
 :section Winter
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2016.</p>
-:public false
 
-
+title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M
+title:Assembly Winter 2016 Thursday building timelapse|youtube:8pht56dXVKk
+title:Täällä taas! -  Assembly Winter 2016|description:Assembly Winter tapahtuma on täällä ja sen mukana entistä laadukkaampi coverage! Tästä lähtee huippukova peliviikonloppu käyntiin. <br/>Kerro meille kommenteissa mitä haluaisit viikonlopun aikana nähdä meidän tekevän!|youtube:HI5h-rUgynw
+title:Assembly Winter 2016 - Fiiliskierros!|description:Assemblytv kävi tarkastamassa tapahtuman ensimmäisiä fiiliksiä kävijöiltä, mutta mitä he mahtoivatkaan löytää?|youtube:QJY3JMyDtRE
+title:Assembly Winter 2016 - SC 2 admin erani haastattelussa.|description:Haastattelimme yhtä StarCraft II turnauksen admineista. Tsekkaa millä fiiliksillä erani lähti tapahtumaan!|youtube:fmjOqxentIY
+title:Assembly Winter 2016 - Prote haastattelu!|description:Haastattelimme SEUL ry:n puheenjohtaja Erkka "Prote" Joustetta Winter Assembly 2016 tapahtumassa! Tsekkaa, mitä sanottavaa Protella oli.|youtube:M8vRZ5pEIkI
+title:Winter Assembly 2016 - Fuzer!|description:Kohtasimme perjantain sc2 turnauksen päätyttyä Samuli "Fuzer" Romppasen, joka on siirtynyt tähän turnaukseen pelikentiltä selostajan pöydän taakse.|youtube:wMURAeZ0Dww
+title:Herbalisti ja Lakko AssemblyTV:n illassa|youtube:0H_rPyRebrk
+title:Assembly Winter 2016 - Hearthstone Head Admin Olodyn haastattelussa|youtube:RQIwfV5YyR0
+title:Assembly Winter 2016 - Päivä pulkassa feat. Pelaajalounge|youtube:pL5wV6PCdTM
+title:Assembly Winter 2016 - Reynor haasttattelussa|youtube:4_lhEWKjTpY
+title:Assembly Winter 2016 - Welmu haastattelussa|youtube:c55ep18kW3w
+title:Assembly Winter -  gilnor haastattelussa|description:Winter Assemblyjen tubecornerista löysimme dota 2 pelaaja gilnorin.|youtube:wmdk0G0KDWo
+title:EPIC PRANK REACTION TECHNICAL FAIL CRINGEWORTHY  {o.o}|description:What is going on at Assembly Winter 2016? #Sitäsaamitätilaa|youtube:FYSNdi-vgyE
+title:Assembly Winter 2016 - xartE (ENCE eSports) haastattelu|description:Haastattelimme xartEa ENCE:n semifinaali ottelun jälkeen.|youtube:1yMNLrRLsbM
+title:Assembly Winter 2016 Friday timelapse|youtube:TcVUvWG9Www
+title:Assembly Winter 2016 - Onnittelut ASUS ROG CS:GO turnauksen voittajalle!|description:This wraps up our coverage of Winter Assembly 2016, thanks for watching!|youtube:LZfu2HGozt0
+title:Assembly Winter 2016 - Studiossa Starcraft II -voittaja Serral|youtube:h36SrQ4BLQ0
+title:Assembly Winter 2016 - Haastattelussa Hearthstone -pelaaja Synthetic|youtube:a6va81kHbEY
+title:Juuri sinä Assembly Summerelle 2016?|description:Haluatko konepaikan Assembly summereilta 2016 sinulle ja kaverillesi? Ai MIKSI? Perustele videolla miksi juuri sinun pitäisi saada konepaikka, Video saa kestää enintään 1,5 minuuttia ja sillä saa näkyä ja/tai kuulua enintään 5 sanaa! Arvovaltainen raatimme valitsee voittajavideon nokkeluuden, visuaalisuuden ja parhaan perustelun perusteella.</p><p>Parhaan videon tekijä voi voittaa itselleen ja kaverilleen konepaikat summereilta 2016!</p><p>Muistakaa käyttää hashtageja:<br/>‪#‎asmparty‬ ‪#‎awesome‬ ‪#‎awesomeness‬ ‪#‎assyvideokilpailu‬</p><p>(HUOM! KUHA TEKEE PAREMMAN KUIN PIKAPLÄJÄYS)<br/>Mahtia meininkiä toivottelee: somecrew/Assembly</p><p>--</p><p>Do you want a computerplace from Assembly Summer 2016? WHY? Tell us with a video why YOU should get a computerplace. The video can be max.1,5 min and there can be only 5 words (visible or spoken)! Our prestegious jury will choose the winning video based on ingenuity, visuality and based on the best explanation.</p><p>The best video will win 2 computerplaces to Assembly Summer 2016! <br/>Use the hashtags displayed above.<br/>Sincerely yours: somecrew/Assembly|youtube:6lgaAVlgThY
+title:Assembly Winter 2016 Sunday dismantling timelapse|youtube:2jG3LEupXaE
