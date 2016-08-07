@@ -5,19 +5,19 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 :ongoing true
 
-author:KoomaDot|pms-id:asm16/demo/89|title:Lines
-author:Humane|pms-id:asm16/demo/160|title:Planet creator device
-author:Super Grand|pms-id:asm16/demo/244|title:Deep Down
-author:Vihannes|pms-id:asm16/demo/252|title:Rhododendron
-author:Quite vs T-Rex|pms-id:asm16/demo/254|title:Gestalt
-author:Pyrotech|pms-id:asm16/demo/259|title:Antimon
-author:Vaerkki|pms-id:asm16/demo/264|title:Exploding Buddha
-author:TRBL|pms-id:asm16/demo/268|title:Stereo
-author:Wide Load|pms-id:asm16/demo/269|title:Kide
-author:Paraguay|pms-id:asm16/demo/270|title:Absurdius Maximus
-author:____blnk|pms-id:asm16/demo/271|title:GAZE
-author:adapt|pms-id:asm16/demo/273|title:liquiXion: the demo man
-author:Demoaces|pms-id:asm16/demo/275|title:Voyage
+author:KoomaDot|guid:2127|media:/vod/2016/Compos/2127_Lines_by_KoomaDot.mp4|pms-id:asm16/demo/89|title:Lines|youtube:nw5Fbh1dLEc
+author:Humane|guid:2128|media:/vod/2016/Compos/2128_Planet_creator_device_by_Humane.mp4|pms-id:asm16/demo/160|title:Planet creator device|youtube:zu34G0vsa_A
+author:Super Grand|guid:2129|media:/vod/2016/Compos/2129_Deep_Down_by_Super_Grand.mp4|pms-id:asm16/demo/244|title:Deep Down|youtube:FsWb2Nw2wkU
+author:Vihannes|guid:2130|media:/vod/2016/Compos/2130_Rhododendron_by_Vihannes.mp4|pms-id:asm16/demo/252|title:Rhododendron|youtube:bUIrEBoJV8o
+author:Quite vs T-Rex|guid:2131|media:/vod/2016/Compos/2131_Gestalt_by_Quite_vs_TRex.mp4|pms-id:asm16/demo/254|title:Gestalt|youtube:fCvxu5f4PeA
+author:Pyrotech|guid:2132|media:/vod/2016/Compos/2132_Antimon_by_Pyrotech.mp4|pms-id:asm16/demo/259|title:Antimon|youtube:dLA6LOmFlNg
+author:Vaerkki|guid:2133|media:/vod/2016/Compos/2133_Exploding_Buddha_by_Vaerkki.mp4|pms-id:asm16/demo/264|title:Exploding Buddha|youtube:EdhnjJ7g6lg
+author:TRBL|guid:2134|media:/vod/2016/Compos/2134_Stereo_by_TRBL.mp4|pms-id:asm16/demo/268|title:Stereo|youtube:ByvXjhwt5-8
+author:Wide Load|guid:2135|media:/vod/2016/Compos/2135_Kide_by_Wide_Load.mp4|pms-id:asm16/demo/269|title:Kide|youtube:WKfK2R3Fc_s
+author:Paraguay|guid:2136|media:/vod/2016/Compos/2136_Absurdius_Maximus_by_Paraguay.mp4|pms-id:asm16/demo/270|title:Absurdius Maximus|youtube:L5kKkDYegYs
+author:____blnk|guid:2137|media:/vod/2016/Compos/2137_GAZE_by_blnk.mp4|pms-id:asm16/demo/271|title:GAZE|youtube:YOwoYBAa0eI
+author:adapt|guid:2138|media:/vod/2016/Compos/2138_liquiXion_the_demo_man_by_adapt.mp4|pms-id:asm16/demo/273|title:liquiXion: the demo man|youtube:iC1YhP34bT4
+author:Demoaces|guid:2139|media:/vod/2016/Compos/2139_Voyage_by_Demoaces.mp4|pms-id:asm16/demo/275|title:Voyage|youtube:AZ57RkQj_n8
 
 
 :section 4k intro
@@ -251,7 +251,7 @@ author:Kirsi Ihalainen|title:Generative Sound Design|youtube:p89XUsqpUDA
 author:Ville Sorsa|title:Designing sound for time bending Quantum Break|youtube:0V4hKv-E5mA
 author:Perttu Hämäläinen|title:The Augmented Climbing Wall: designing augmented reality sports|youtube:lel8-xYEu28
 author:Timo Heinäpurola|title:Mobile Game Engine Development at Reforged Studios|youtube:q3k3M5RHRNo
-author:Juska Teittinen|title:Introduction to design|youtube:VI8_6Hrua5E
+author:Juska Teittinen|title:Introduction to design|youtube:XaGLMhYSIBc
 author:Joona Heinikoski|title:Tools for creating successful alien invasion|youtube:ClOCOcPvUuo
 
 
@@ -302,6 +302,17 @@ author:AssemblyTV|title:Fireside chat with Sampsa Kuha|youtube:kMqGvs9B3Sc
 author:AssemblyTV|title:Fireside chat with TurunMarkku|youtube:ewk5d0UE2TA
 author:AssemblyTV|title:Fireside chat with Tuukka Takala|youtube:unEtocIg_b4
 author:AssemblyTV|description:ebin|title:Tänään Liero Retroturnauksessa!|youtube:Bd9ac6pft64
+author:AssemblyTV|title:Assembly 2016 Summer - Loppufiiliksiä|youtube:f0JvNbtmCDY
+author:AssemblyTV|description:Haastattelussa mies jota kiitämme päivittäisestä e-sports annoksestamme Azhrak|title:Assembly 2016 Summer - Haastattelussa Azhrak|youtube:ZPl7aPx2XgQ
+author:AssemblyTV|title:Fireside Chat with Anniinap|youtube:D5N74ISLRq8
+author:AssemblyTV|title:Prize Ceremony #1|youtube:rORB3fOSURQ
+author:AssemblyTV|title:Fireside Chat with Tuomas Karmakallio|youtube:z97uKzF02wM
+author:AssemblyTV|title:Fireside Chat with Joona Heinikoski and Jere Sanisalo|youtube:0J-rycXHuO4
+author:AssemblyTV|title:Retropeliturnaus - Liero|youtube:sHchAQpztx0
+author:AssemblyTV|title:Retroturnaus - Slicks'n'slide|youtube:yPgcDG0LQZc
+author:AssemblyTV|title:Demo compo studio|youtube:Yc-zAwi-BAg
+author:AssemblyTV|title:1k & 4k compostudio|youtube:DpYZiO68gmI
+author:AssemblyTV|title:Fireside Chat with Eeddspeaks|youtube:j87p-USH934
 
 
 :section eSports
@@ -327,6 +338,13 @@ author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Millenium - Escape Gaming|yout
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - ENCE|youtube:4l7RowcsyMk
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports|youtube:jRS_w_CTjok
 author:AssemblyTV|title:ASUS ROG CS:GO Qualifiers Space Soldiers - Tricked eSports #2|youtube:TNWE6m2evDw
+author:AssemblyTV|title:ASUS ROG CS:GO Final Space Soldiers - Epsilon #2|youtube:CYaIMtn0NCg
+author:AssemblyTV|title:ASUS ROG CS:GO Final Space Soldiers - Epsilon #1|youtube:X1B6uYMUDYM
+author:AssemblyTV|title:ASUS ROG CS:GO Semifinal Space Soldies - Millenium #2|youtube:NVnvSbpGNoU
+author:AssemblyTV|title:ASUS ROG CS:GO Semifinal Space Soldies - Millenium #1|youtube:zHGrmex7Vn8
+author:AssemblyTV|title:ASUS ROG CS:GO Semifinal ENCE - Epsilon #2|youtube:_dh2jpxC9Qk
+author:AssemblyTV|title:ASUS ROG CS:GO Semifinal ENCE - Epsilon #3|youtube:QwD-qCJ7WRo
+author:AssemblyTV|title:ASUS ROG CS:GO Semifinal ENCE - Epsilon #1|youtube:lPfAZebKWbU
 
 
 :section Winter
