@@ -7,12 +7,8 @@ OUTFILE=/tmp/assembly-"$YEAR".xml
 FILES_ROOT="$HOME"/scratch/assembly-"$YEAR"
 FILES_MAO=/media/media.assembly.org
 
-YOUTUBE_UPLOAD_OPTIONS=""
+YOUTUBE_UPLOAD_OPTIONS=()
 #YOUTUBE_UPLOAD_OPTIONS="--unlisted"
-YOUTUBE_DEVELOPER_KEY=
-YOUTUBE_USER=
-YOUTUBE_EMAIL=
-YOUTUBE_PASSWORD=
 
 PMS_ROOT=https://pms.paeae.fi/
 PMS_PARTY=asm13
@@ -28,5 +24,5 @@ ELAINE_PMS_VODLIST=vodlist
 
 MUSIC_BACKGROUND="$FILES_ROOT"/music-background-assembly-"$YEAR".png
 
-PYTHON=bin/python
-FFMPEG=ffmpeg
+PYTHON=(bin/python)
+FFMPEG=(ffmpeg)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -euo pipefail
 
 source "$(dirname "$0")"/variables.inc.sh
 
@@ -11,4 +11,5 @@ if test -z "$COMPO_CATEGORY"; then
     exit 1
 fi
 
-$PYTHON "$SCRIPTDIR"/pms-update-preview-links.py "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY"
+"${PYTHON[@]}" "$SCRIPTDIR"/pms-update-preview-links.py \
+    "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -euo pipefail
 
 source "$(dirname "$0")"/variables.inc.sh
 
@@ -13,5 +13,7 @@ fi
 
 MERGE_TEMPFILE="$DATAFILE"-merged.txt
 
-$PYTHON "$SCRIPTDIR"/merge-data-pms-archive.py "$@" "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY" > \
-    "$MERGE_TEMPFILE" && cat "$MERGE_TEMPFILE" > "$DATAFILE"
+"${PYTHON[@]}" "$SCRIPTDIR"/merge-data-pms-archive.py "$@" \
+    "$DATAFILE" "$PMS_ROOT" "$PMS_PARTY" "$PMS_LOGIN" "$PMS_PASSWORD" "$COMPO_CATEGORY" \
+    > "$MERGE_TEMPFILE"
+cat "$MERGE_TEMPFILE" > "$DATAFILE"

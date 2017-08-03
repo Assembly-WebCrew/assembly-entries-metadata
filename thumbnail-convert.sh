@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -euo pipefail
 
 source "$(dirname "$0")"/variables.inc.sh
 

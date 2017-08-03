@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu
+set -euo pipefail
 
 source "$(dirname "$0")"/variables.sh
 
@@ -16,5 +16,5 @@ PHOTOS_ROOT="$FILES_ROOT"/"$PHOTOS_ROOT"
 
 mkdir -p "$PHOTOS_ROOT"
 
-python lib/grab-galleriafi.py "$PHOTOS_ROOT" "$GALLERY_BASE_URL" > /tmp/asmphotos.txt
-python lib/grab-galleriafi.py --download "$PHOTOS_ROOT" "$GALLERY_BASE_URL" | sh
+"${PYTHON[@]}" lib/grab-galleriafi.py "$PHOTOS_ROOT" "$GALLERY_BASE_URL" > /tmp/asmphotos.txt
+"${PYTHON[@]}" lib/grab-galleriafi.py --download "$PHOTOS_ROOT" "$GALLERY_BASE_URL" | sh
