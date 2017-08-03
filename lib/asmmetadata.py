@@ -38,7 +38,6 @@ def get_party_tags(year, section_name):
 
 
 def get_entry_name(entry):
-    section_name = entry['section']['name']
     title = entry['title']
     author = entry['author']
     if entry["section"].get("author-in-title", True):
