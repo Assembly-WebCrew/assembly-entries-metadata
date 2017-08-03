@@ -2,6 +2,9 @@
 
     python bootstrap.py
     bin/buildout
+    # First get client_id.json to client_secrets.json from https://console.cloud.google.com/
+    # After that run:
+    bin/python lib/youtube-get-credentials.py
 
 # Usage
 
