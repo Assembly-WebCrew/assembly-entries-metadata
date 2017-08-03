@@ -247,6 +247,7 @@ author:FruitieX|platform:PC|pms-id:asm13/fast_music/148|position:21|techniques:r
 
 
 :section Seminars
+:ranked false
 :youtube-playlist PLJO4AtxKJiFMPM_ebrfzorofplBk-7wGz
 
 author:AssemblyTV seminars|description:Thoughts about starting a concept art studio and how to fill a market gap in a way that everyone wins. Kraffit is on a mission to bring concept art available to game studios of all sizes, to find work for promising artist and have some fun on the side. Co|guid:1537|media:/vod/2013/Seminars/1537_Concept_art.mp4|title:ARTtech seminars: Concept Art for Everyone|youtube:7zqkye0RABc
@@ -271,6 +272,7 @@ author:AssemblyTV seminars|guid:1556|media:/vod/2013/Seminars/1556_Robosota.mp4|
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist PLJO4AtxKJiFNR8dVRXai4qgeW5AxcbsuO
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -316,6 +318,7 @@ author:AssemblyTV|guid:1589|media:/vod/2013/AssemblyTV/1589_Closing_ceremony.mp4
 
 
 :section Winter
+:ranked false
 :youtube-playlist PLJO4AtxKJiFP0TiY48RUeTlkWKqQeBuqA
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2013.</p>
 
@@ -331,6 +334,7 @@ author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|tit
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2013/
 
 

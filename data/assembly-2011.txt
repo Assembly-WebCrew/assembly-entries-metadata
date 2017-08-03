@@ -211,6 +211,7 @@ author:Meatgrinder|download:http://media.assembly.org/gamedev/2011/TypeHard-Rele
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist 26C6143BB93203E6
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -249,6 +250,7 @@ author:AssemblyTV|guid:1510|media:/vod/2011/AssemblyTV/1510_hacklab_2011.mp4|tit
 
 
 :section Seminars
+:ranked false
 :youtube-playlist 9301C3279ECE36BE
 
 author:Teemu Tapanila|description:This talk will take you through the facts on what it means to develop with Kinect Windows SDK using C#. You will get some very concrete info on how to start, where to get the tools and what are the key points on developing to this new and exiting platform!|guid:1213|media:/vod/2011/Seminars/1213_arttech_seminars_wonders_of_kinect_windows_sdk_h264_1856kbit.mp4|title:Wonders of Kinect Windows SDK|youtube:RPnLJZc668o
@@ -275,6 +277,7 @@ author:Tommi Koskinen|description:Learn how to use crowdsourcing as a part of yo
 
 
 :section Winter
+:ranked false
 :youtube-playlist 290939B822F54FAB
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2011.</p>
 
@@ -284,6 +287,7 @@ author:AssemblyTV|title:Starcraft vai Warcraft?|youtube:dL_t6G5cks0
 
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2011/
 
 author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2011/Markus Saarinen/IMG_3521.jpg|title:IMG_3521.jpg
@@ -1082,6 +1086,7 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2011/Tuula Ylikorpi/7515
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2011/
 
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2011/Tuomas Siitonen/IMG_1700-Edit copy.jpg|title:IMG_1700-Edit copy.jpg

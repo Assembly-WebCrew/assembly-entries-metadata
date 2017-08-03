@@ -114,16 +114,6 @@ def print_section(year, section, description=''):
     print section_unicode.encode("utf-8")
 
 
-def get_ordinal_suffix(number):
-    suffixes = {1: 'st',
-               2: 'nd',
-               3: 'rd'}
-    suffix = suffixes.get(number % 10, 'th')
-    if number in [11, 12, 13]:
-        suffix = 'th'
-    return suffix
-
-
 def get_thumbnail_data(entry):
     thumbnail_base = asmmetadata.select_thumbnail_base(entry)
     thumbnail = None
@@ -143,6 +133,8 @@ def get_thumbnail_data(entry):
 
 def entry_position_description_factory(pms_vote_template):
     def generator(entry, position_str):
+        if not entry["section"]["ranked"]:
+            return ""
         description = ""
         if entry['section'].get('ongoing', False) is False:
             if position_str is not None:
@@ -180,8 +172,9 @@ def print_entry(year, entry, description_generator):
 
     position_str = None
 
-    if position != 0:
-        position_str = str(position) + get_ordinal_suffix(position) + " place"
+    if entry["section"]["ranked"]:
+        if position != 0:
+            position_str = str(position) + asmmetadata.get_ordinal_suffix(position) + " place"
 
     has_media = False
 

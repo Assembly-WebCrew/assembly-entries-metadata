@@ -235,6 +235,7 @@ author:Edge|position:15|sceneorg:/parties/1995/assembly95/mmul/farewell.zip|titl
 
 
 :section Misc
+:ranked false
 :youtube-playlist CBE25D9AEF073E48
 
 author:Electromotive Force|description:Assembly 1995 invitation intro.|pouet:52610|sceneorg:/pub/parties/1995/assembly95/info/asm95inv.zip|title:ASSEMBLY '95 invitation intro|youtube:MIsqPj_Fn1k

@@ -139,6 +139,7 @@ author:Dune / Humane|position:10|title:Dementic Dream
 
 
 :section Misc
+:ranked false
 :youtube-playlist 73AFA282D316963F
 
 author:Future Crew|description:Assembly 1993 invitation intro.|pouet:1281|sceneorg:/demos/groups/future_crew/intros/asm-93.zip|title:Assembly '93 invitation intro|youtube:SCqCzPCIO7M

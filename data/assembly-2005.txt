@@ -383,6 +383,7 @@ author:wAMMA|sceneorg:/parties/2005/assembly05/grfx/freestyle/roger_by_wamma.zip
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist FC280AF8A7F4466E
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -411,6 +412,7 @@ author:AssemblyTV|media:/vod/2005/assemblytv/98_kun_valot_sammuivat.avi|title:Ku
 
 
 :section Seminars
+:ranked false
 :youtube-playlist 83FC1A90978E6A18
 
 author:Matti Palosuo|media:/vod/2005/seminars/the_best_of_4k_intros_by_matti_palosuo.avi|title:Best of 4k intros|youtube:M9FDWRTuPCk
@@ -439,6 +441,7 @@ author:Richard Huddy|media:/vod/2005/seminars/ati_crossfire_by_richard_huddy.avi
 
 
 :section Photos
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+2005/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_001.JPG|title:Torstai-asm_001.JPG

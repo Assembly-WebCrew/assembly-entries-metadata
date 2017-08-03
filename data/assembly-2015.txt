@@ -237,6 +237,7 @@ author:MacGywer/npli|image-file:fast-graphics/cream-whipper.jpg|platform:12g cap
 
 
 :section Seminars
+:ranked false
 :elaine-category 2015 Seminars
 
 author:AssemblyTV seminars|description:Our journey through acquisition and about building communities|guid:1846|title:ARTtech: Our journey through acquisition and about building communities|youtube:eNuTp00LnKw
@@ -257,6 +258,7 @@ author:AssemblyTV seminars|description:Robosota|guid:1897|media:/vod/2015/Semina
 
 
 :section AssemblyTV
+:ranked false
 :elaine-category 2015 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -294,6 +296,7 @@ author:AssemblyTV|guid:2061|media:/vod/2015/AssemblyTV/2061_Demo_compostudio_1.m
 
 
 :section eSports
+:ranked false
 :elaine-category 2015 Games
 
 author:AssemblyTV|guid:1921|media:/vod/2015/Games/1921_teaser.mp4|title:Assembly Summer 2015 eSports coverage teaser|youtube:7CPKsLlwUWA
@@ -350,6 +353,7 @@ author:AssemblyTV|guid:2061|media:/vod/2015/Games/2061_Demo_compostudio_1.mp4|ti
 
 
 :section Winter
+:ranked false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2015.</p>
 :public false
 

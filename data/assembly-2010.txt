@@ -304,6 +304,7 @@ author:tzaeru|sceneorg:/parties/2010/assembly10/music/i_only_dance_with_my_gasma
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist 815BBDCA49C295B4
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -341,6 +342,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/1198|media:/vod/2010/
 
 
 :section Seminars
+:ranked false
 :youtube-playlist 5A338CFF9D4305A9
 
 author:Konstantinos Pataridis|guid:1022|media:/vod/2010/Seminars/1022_ARTtech_seminars_-_Your_next_demo_masterpiece_h264_1856kbit.mp4|title:Your next demo masterpiece|youtube:FHWakMlYYYM
@@ -369,6 +371,7 @@ author:Jarmo Puskala, Antti Hukkanen|guid:1199|media:/vod/2010/Seminars/1199_ART
 
 
 :section Winter
+:ranked false
 :youtube-playlist 00A1B5C4492BC7DC
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2010.</p>
 
@@ -383,6 +386,7 @@ author:AssemblyTV|title:Kitarasankari.net nykytilanne|youtube:GKcfBJN_ECs
 
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2010/
 
 author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2010/Taneli Kaivola/20100805_DSTL7001.jpg|title:20100805_DSTL7001.jpg
@@ -853,6 +857,7 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2010/Tuomas Siitonen/IM
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2010/
 
 author:Paula Terho|galleriafi:/kuvat/Assembly Winter 2010/Paula Terho/2-DSC-0006-Edit copy.jpg|title:2-DSC-0006-Edit copy.jpg

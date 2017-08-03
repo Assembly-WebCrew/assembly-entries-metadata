@@ -92,6 +92,7 @@ author:World Industries|pouet:28302|sceneorg:/parties/1992/assembly92/amiga/intr
 
 
 :section Misc
+:ranked false
 :youtube-playlist 7D7393353DEC38D3
 
 author:Future Crew|description:Assembly 1992 PC invitation intro.|pouet:1283|sceneorg:/demos/groups/future_crew/intros/fishtro.zip|title:Fishtro|youtube:e4FeJc_B4uk

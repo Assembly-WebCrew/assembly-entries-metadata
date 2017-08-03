@@ -254,6 +254,7 @@ author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe -
 
 
 :section Seminars
+:ranked false
 :youtube-playlist A10BAD043DC6AA60
 
 author:Henry Brade|guid:1351|media:/vod/2012/Seminars/1351_Bitcoin-The_future_of_money.mp4|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
@@ -283,6 +284,7 @@ author:Eemu Bertling|guid:1374|media:/vod/2012/Seminars/1374_Robosota_seminar.mp
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist 37A29D6973387D21
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -328,6 +330,7 @@ author:AssemblyTV|guid:1436|media:/vod/2012/AssemblyTV/1436_Amigapeli_EOB.mp4|ti
 
 
 :section Winter
+:ranked false
 :youtube-playlist 5C093FFF2C33B46A
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2012.</p>
 
@@ -344,6 +347,7 @@ author:AssemblyTV|media:/vod/2012/winter/Timelapse.mp4|title:Time Lapse|youtube:
 
 
 :section Misc
+:ranked false
 :youtube-playlist D36AAECB1BCC9598
 
 author:Ate Bit|description:Assembly Summer 2012 PC invitation intro.|download:http://media.assembly.org/summer12/atebit_asm2012invitro.zip|pouet:|title:PC invtro|youtube:hNvfRJORjck
@@ -353,6 +357,7 @@ author:FIGMA ry|description:FIGMA ry julkisti kolme vuotta sitten suomalaisen pe
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2012/
 
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0322.jpg|title:IMG_0322.jpg
@@ -593,4 +598,5 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_4016.jpg|title:_MG_4016.jpg
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2012/

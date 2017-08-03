@@ -287,6 +287,7 @@ author:tAAt|sceneorg:/parties/2008/assembly08/demo/kalvosinappi__membrane_mustar
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist B41A1955905991DC
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -299,6 +300,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/707|media:/vod/2008/A
 
 
 :section Seminars
+:ranked false
 :youtube-playlist 4CF107E30415B07E
 
 author:Marko Mäkilaakso|title:Stone's War
@@ -324,6 +326,7 @@ author:Teemu Haila|title:XNA for Aspiring Game Developers
 
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2008/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0274.jpg|title:0274.jpg
@@ -948,6 +951,7 @@ author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+winter+2008/
 
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/210.jpg|title:210.jpg

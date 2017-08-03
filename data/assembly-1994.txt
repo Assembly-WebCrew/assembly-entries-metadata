@@ -196,6 +196,7 @@ author:Orange|position:10|pouet:13764|sceneorg:/parties/1994/assembly94/in64/4ki
 
 
 :section Misc
+:ranked false
 :youtube-playlist A999393630642FCC
 
 author:Future Crew and Sonic PC|description:Assembly 1994 invitation intro.|pouet:3002|sceneorg:/pub/parties/1994/assembly94/info/asm-94.zip|title:Assembly'94 Pre-Invitation Intro

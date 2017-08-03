@@ -308,6 +308,13 @@ def parse_file(file_handle):
                 assert 'elaine-category' not in section
                 if len(value):
                     section['elaine-category'] = value
+            elif data_type == ":ranked":
+                # By default sections are ranked as they mostly
+                # represent demoscene competition results.
+                if value.lower() == "false":
+                    section['ranked'] = False
+                else:
+                    section['ranked'] = True
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
@@ -422,9 +429,10 @@ def create_merged_image_base(start, entries):
 
 
 def get_ordinal_suffix(number):
-    suffixes = {1: 'st',
-               2: 'nd',
-               3: 'rd'}
+    suffixes = {
+        1: 'st',
+        2: 'nd',
+        3: 'rd'}
     suffix = suffixes.get(number % 10, 'th')
     if number in [11, 12, 13]:
         suffix = 'th'
@@ -445,8 +453,9 @@ def get_youtube_info_data(entry):
 
     position_str = None
 
-    if position != 0:
-        position_str = str(position) + get_ordinal_suffix(position) + " place"
+    if entry["section"]["ranked"]:
+        if position != 0:
+            position_str = str(position) + get_ordinal_suffix(position) + " place"
 
     party_name = get_party_name(
         entry['section']['year'], entry['section']['name'])
@@ -456,7 +465,7 @@ def get_youtube_info_data(entry):
         pass
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
-        if not "Seminars" in section_name:
+        if not "Seminars" in section_name or not entry["section"]["ranked"]:
             description += "%s %s competition entry, " % (party_name, section_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:

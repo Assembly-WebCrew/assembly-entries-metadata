@@ -429,6 +429,7 @@ author:eufrosyne|sceneorg:/parties/1998/assembly98/pc64kint/transfor.zip|title:t
 
 
 :section Misc
+:ranked false
 
 author:The Black Lotus|description:Assembly 1998 invitation intro.|pouet:4|sceneorg:/pub/demos/groups/tbl/pc/asm98inv.zip|title:ASSEMBLY '98 quick invitation
 

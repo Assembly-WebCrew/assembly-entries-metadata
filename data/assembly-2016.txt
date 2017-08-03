@@ -220,6 +220,7 @@ author:JasuM|image-file:fast-graphics/02-sibling_rivalries.jpeg|pms-id:asm16/fas
 
 
 :section Seminars
+:ranked false
 :elaine-category 2016 Seminars
 
 author:Pelastakaa lapset|title:The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
@@ -244,6 +245,7 @@ author:Joona Heinikoski|title:Tools for creating successful alien invasion|youtu
 
 :section AssemblyTV
 :elaine-category 2016 AssemblyTV
+:ranked false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:Assembly Summer 2016 starttaa huomenna torstaina 4.8.2016. Löydät meidät sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|title:Assembly Summer 2016 startti!|youtube:ObtMQKWcQb8
@@ -303,6 +305,7 @@ author:AssemblyTV|title:Fireside Chat with Eeddspeaks|youtube:j87p-USH934
 
 
 :section eSports
+:ranked false
 :elaine-category 2016 Games
 
 author:AssemblyTV|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|youtube:FY2scLnf9TE
@@ -335,6 +338,7 @@ author:AssemblyTV|title:ASUS ROG CS:GO Semifinal ENCE - Epsilon #1|youtube:lPfAZ
 
 
 :section Winter
+:ranked false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2016.</p>
 
 author:AssemblyTV|title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M

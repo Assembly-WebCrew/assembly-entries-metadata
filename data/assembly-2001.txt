@@ -261,6 +261,7 @@ author:Storm Studios|dtv:id_file=4193&id_prod=7709&id_app=14&image=http%3A//dtv.
 
 
 :section Misc
+:ranked false
 
 author:foobug|description:Assembly 2001 invitation intro.|download:http://www.kolumbus.fi/ld0d/a01open.zip|dtv:id_file=3325&id_prod=12364&id_app=14&width=512&height=404&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3280.jpg|pouet:3280|title:Assembly 2001 opening intro
 

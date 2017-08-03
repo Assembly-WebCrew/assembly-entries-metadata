@@ -300,6 +300,7 @@ author:adapt|dtv:id_file=6096&id_prod=13837&id_app=14&image=http%3A//dtv.was.dem
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist A4796C6786187187
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -341,6 +342,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/1011|media:/vod/2009/
 
 
 :section Seminars
+:ranked false
 :youtube-playlist 9BA467888D377D21
 
 author:Mark D Grady|guid:http://elaine.assembly.org/programs/877|media:/vod/2009/Seminars/877_Distributing_and_Monetizing_Windows_Mobile_Applications_through_the_Windows_Marketplace_for_Mobile_h264_1856kbit.mp4|title:Distributing and Monetizing Windows Mobile Applications through the Windows Marketplace for Mobile|youtube:GSunRCdJ13c
@@ -370,6 +372,7 @@ author:Maria Candia|guid:http://elaine.assembly.org/programs/890|media:/vod/2009
 
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2009/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0837.jpg|title:IMG_0837.jpg
@@ -957,6 +960,7 @@ author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8244_m
 
 
 :section Photos winter
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2009/
 
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0143.jpg|title:ASMW09-0143.jpg

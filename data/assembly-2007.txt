@@ -349,6 +349,7 @@ author:ankkis / sitruslapset|sceneorg:/parties/2007/assembly07/grfx/freestyle/au
 
 
 :section AssemblyTV
+:ranked false
 :youtube-playlist 3B28A28500227216
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -376,6 +377,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/408|media:/vod/2007/S
 
 
 :section Seminars
+:ranked false
 
 author:Samuli Homanen, Petri Paananen|title:Motion Capture in Animation
 author:Kalle Happonen, Antti Pirinen|title:Grids - The world is just about enough
@@ -397,6 +399,7 @@ author:Lauri Savioja, Ari Silvennoinen|title:Computer graphics research at TKK
 
 
 :section Photos summer
+:ranked false
 :galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2007/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2007/Tuula Ylikorpi/01.jpg|title:01.jpg
