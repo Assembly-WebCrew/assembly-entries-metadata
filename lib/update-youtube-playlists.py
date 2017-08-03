@@ -1,7 +1,7 @@
 import argparse
 import asmmetadata
-import gdata.youtube
-import gdata.youtube.service
+import asmyoutube
+import os
 import re
 import sys
 import time
@@ -15,46 +15,87 @@ def has_youtube_entries(section):
     return False
 
 
-def create_playlist(yt_service, entry_data, section):
-    playlist_title = "%s %s" % (
-        asmmetadata.get_party_name(entry_data.year, section['name']),
-        asmmetadata.get_long_section_name(section['name'])
-        )
+def get_playlist_title(section):
+    return u"%s %s" % (
+        asmmetadata.get_party_name(section["year"], section['name']),
+        asmmetadata.get_long_section_name(section))
+
+
+def get_playlist_description(section):
     playlist_description = section.get('description', u'')
     playlist_description = re.sub("</p><p>", "\n\n", playlist_description)
     playlist_description = re.sub("<[^>]+>", "", playlist_description)
-
-    new_playlist = yt_service.AddPlaylist(playlist_title, playlist_description)
-    if isinstance(new_playlist, gdata.youtube.YouTubePlaylistEntry):
-        playlist_url = new_playlist.id.text
-        playlist_id = playlist_url.split("/")[-1]
-        return playlist_id
-    return None
+    return playlist_description
 
 
-def fetch_youtube_playlist_entries(yt_service, playlist_id):
-    youtube_entries = []
-    create_playlist = True
-    playlist_request = {'playlist_id': playlist_id}
+def create_playlist(yt_service, entry_data, section):
+    playlist_title = get_playlist_title(section)
+    playlist_description = get_playlist_description(section)
 
-    while create_playlist:
-        create_playlist = False
-        playlist_video_feed = yt_service.GetYouTubePlaylistVideoFeed(
-            **playlist_request)
+    new_playlist = yt_service.playlists().insert(
+        part="snippet,status",
+        body=dict(
+            snippet=dict(
+                title=playlist_title,
+                description=playlist_description
+                ),
+            status=dict(
+                privacyStatus="public"
+                )
+            )
+        ).execute()
+    return new_playlist["id"]
 
-        for playlist_video_entry in playlist_video_feed.entry:
-            player_url = playlist_video_entry.media.player.url
-            query = urlparse.urlparse(player_url).query
-            query_params = urlparse.parse_qs(query)
-            video_id, = query_params['v']
-            youtube_entries.append(video_id)
 
-        next_link = playlist_video_feed.GetNextLink()
-        if next_link:
-            print "Getting next page of multi-page playlist"
-            playlist_request = {'uri': next_link.href}
-            create_playlist = True
-    return playlist_video_feed, youtube_entries
+def get_playlist(yt_service, section):
+    playlist_id = section['youtube-playlist']
+    playlists = yt_service.playlists().list(
+        part="snippet", id=playlist_id).execute()
+    if not playlists["items"]:
+        return None
+    return playlists["items"][0]
+
+
+def fetch_youtube_playlist_entries(yt_service, section):
+    all_videos = []
+    next_page_token = ""
+    for _ in range(10):
+        new_videos = yt_service.playlistItems().list(
+            part="snippet",
+            playlistId=section["youtube-playlist"],
+            maxResults=50,
+            pageToken=next_page_token).execute()
+        if not new_videos["items"]:
+            return all_videos
+        all_videos.extend(new_videos["items"])
+        if len(new_videos["items"]) < 50:
+            return all_videos
+        next_page_token = new_videos["nextPageToken"]
+    # We probably shouldn't have over 500 videos on one playlist...
+    return all_videos
+
+
+def modify_youtube_playlist(yt_service, playlist, section):
+    playlist_snippet = playlist["snippet"]
+    update = False
+    playlist_title = get_playlist_title(section)
+    if playlist_snippet["title"] != playlist_title:
+        update = True
+        playlist_snippet["title"] = playlist_title
+    playlist_description = get_playlist_description(section)
+    if playlist_snippet["description"] != playlist_description:
+        update = True
+        playlist_snippet["description"] = playlist_description
+
+    if not update:
+        return
+    asmyoutube.try_operation(
+        "Update playlist metadata",
+        lambda: yt_service.playlists().update(
+            part="snippet",
+            body=dict(
+                snippet=playlist_snippet,
+                id=section["youtube-playlist"])).execute())
 
 
 def update_youtube_playlists(yt_service, entry_data):
@@ -69,6 +110,8 @@ def update_youtube_playlists(yt_service, entry_data):
             section['youtube-playlist'] = create_playlist(
                 yt_service, entry_data, section)
             time.sleep(5)
+        playlist = get_playlist(yt_service, section)
+        modify_youtube_playlist(yt_service, playlist, section)
 
         section_entries = map(
             str,
@@ -77,9 +120,9 @@ def update_youtube_playlists(yt_service, entry_data):
                     for entry in section['entries'])))
         section_entries_set = set(section_entries)
 
-        playlist_video_feed, youtube_entries = fetch_youtube_playlist_entries(
-            yt_service, section['youtube-playlist'])
-        youtube_entries_set = set(youtube_entries)
+        youtube_entries = fetch_youtube_playlist_entries(yt_service, section)
+
+        youtube_entries_set = set([x["snippet"]["resourceId"]["videoId"] for x in youtube_entries])
 
         missing_playlist_items = section_entries_set - youtube_entries_set
 
@@ -92,52 +135,46 @@ def update_youtube_playlists(yt_service, entry_data):
             if str(entry.get('youtube', '')) in missing_playlist_items:
                 missing_entries.append(entry)
 
-        playlist_uri = playlist_video_feed.id.text
         for entry in missing_entries:
             youtube_id = entry['youtube']
-            print u"Adding %s (%s)" % (entry['title'], youtube_id)
-            playlist_video_entry = yt_service.AddPlaylistVideoEntryToPlaylist(
-                playlist_uri, video_id=youtube_id
-                )
-            if not isinstance(playlist_video_entry,
-                              gdata.youtube.YouTubePlaylistVideoEntry):
-                print "Failed to add."
-            time.sleep(1)
+            asmyoutube.try_operation(
+                u"Adding %s (%s)" % (entry['title'], youtube_id),
+                lambda: yt_service.playlistItems().insert(
+                    part="snippet",
+                    body=dict(
+                        snippet=dict(
+                            playlistId=section["youtube-playlist"],
+                            resourceId=dict(
+                                kind="youtube#video",
+                                videoId=youtube_id)))).execute(),
+                sleep=1)
 
 
-def main(args=sys.argv):
+def main(argv=sys.argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")
-    parser.add_argument("youtube_developer_key")
-    parser.add_argument("youtube_user")
-    parser.add_argument("email")
-    parser.add_argument("password")
-    args = parser.parse_args()
-
-    yt_service = gdata.youtube.service.YouTubeService()
-
-    # The YouTube API does not currently support HTTPS/SSL access.
-    yt_service.ssl = False
-
-    yt_service.developer_key = args.youtube_developer_key
-    yt_service.client_id = 'ASM-playlist-updater'
-    yt_service.email = args.email
-    yt_service.password = args.password
-    yt_service.source = 'ASM-playlist-updater'
-    yt_service.ProgrammaticLogin()
+    parser.add_argument("--sections", default="")
+    asmyoutube.add_auth_args(parser)
+    args = parser.parse_args(argv[1:])
+    yt_service = asmyoutube.get_authenticated_service(args)
 
     entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+
+    result = os.EX_OK
 
     try:
         update_youtube_playlists(yt_service, entry_data)
     except KeyboardInterrupt:
+        result = os.DATAERR
         print "Interrupted"
     except Exception, e:
+        result = os.EX_SOFTWARE
         print "EXCEPTION Unknown exception happened: %s" % e.message
 
     fp = open(args.datafile, "wb")
     asmmetadata.print_metadata(fp, entry_data)
+    return result
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main(sys.argv))

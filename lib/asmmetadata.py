@@ -154,15 +154,15 @@ def get_content_types(section_name):
     return set(types)
 
 
-def get_long_section_name(section_name):
-    if "winter" in section_name.lower():
+def get_long_section_name(section):
+    if "winter" in section["name"].lower():
         return u"AssemblyTV"
-    elif "assemblytv" in section_name.lower():
+    elif "assemblytv" in section["name"].lower():
         return u"AssemblyTV"
-    elif "seminars" in section_name.lower():
-        return u"Seminars"
+    elif not section.get("ranked", True):
+        return section["name"]
     else:
-        return u"%s competition" % section_name
+        return u"%s competition" % section["name"]
 
 
 def normalize_key(value):
