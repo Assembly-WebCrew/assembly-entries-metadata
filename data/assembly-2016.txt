@@ -180,6 +180,7 @@ author:Pia L|image-file:graphics/01-honey_i_am_sorry.png|platform:pc|pms-id:asm1
 
 :section Photo
 :pms-category photo
+:description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 
 author:biini / damones|image-file:photo/16_asm16-realtimeraytracingII-FINAL.jpg|platform:Camera|pms-id:asm16/photo/33|position:1|techniques:Canon 1Dmk3 + 100mm macro + 3 speedlight flashguns|title:Real-time raytracing II
 author:AK^|image-file:photo/14_unique_symmetry.jpg|pms-id:asm16/photo/56|position:2|techniques:Random snowflake, Nikon D700, Micro-Nikkor 55mm/2.8, DIY macro photography contraption, frozen fingers, no snorkel|title:Unique Symmetry
