@@ -3,7 +3,7 @@ import argparse
 import os
 import sys
 import time
-import youtube
+import asmyoutube
 
 
 def try_youtube_operation(label, function, retries=3, sleep=4):
@@ -75,9 +75,9 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")
     parser.add_argument("--sections", default="")
-    youtube.add_auth_args(parser)
+    asmyoutube.add_auth_args(parser)
     args = parser.parse_args(argv[1:])
-    yt_service = youtube.get_authenticated_service(args)
+    yt_service = asmyoutube.get_authenticated_service(args)
 
     entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
 
