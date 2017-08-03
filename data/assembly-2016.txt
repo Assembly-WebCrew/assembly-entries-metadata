@@ -1,6 +1,7 @@
 :year 2016
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFNWjeZteBaHDr4xdDCWdfpp
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2016 PC computer.</p>
 
@@ -19,6 +20,7 @@ author:KoomaDot|guid:2127|media:/vod/2016/Compos/2127_Lines_by_KoomaDot.mp4|plat
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFOq5_twUboGmF9nQdAgDcYg
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2016 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
@@ -32,6 +34,7 @@ author:lucid|guid:2123|media:/vod/2016/Compos/2123_Breakthrough_by_lucid.mp4|pla
 
 
 :section 1k intro
+:youtube-playlist PLJO4AtxKJiFMfVXGVAqJe9Va5qUAr7LtH
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2016 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
@@ -51,6 +54,7 @@ author:Neper|guid:2105|media:/vod/2016/Compos/2105_Divergent_by_Neper.mp4|platfo
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFM5LSMvf7gC32DFskQwPFoo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
@@ -60,6 +64,7 @@ author:sssampo/pistoke|guid:2095|media:/vod/2016/Compos/2095_snek_by_sssampopist
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFOB_9CuYCxY5f24EpUGXfhv
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
@@ -73,6 +78,7 @@ author:Peisik|guid:2091|media:/vod/2016/Compos/2091_Daybreak_by_Peisik.mp4|platf
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFP7_yXftGUpx7AJay36pJTw
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
@@ -84,6 +90,7 @@ author:pumpuli|guid:2099|media:/vod/2016/Compos/2099_Instanssi_2017_Invitation_b
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFNaj0R2IMs13wTeYvPYX3jo
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -105,6 +112,7 @@ author:Limba|guid:2075|media:/vod/2016/Compos/2075_VR_Zombie_rush_by_Limba.mp4|p
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFPoDyQ90BoqzRbhB_mU0qHB
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
@@ -124,6 +132,7 @@ author:Jarskie|platform:PC|pms-id:asm16/listening_music/154|position:13|techniqu
 
 
 :section Fast music
+:youtube-playlist PLJO4AtxKJiFPfp4KsDhziBCDRxxY6gvAP
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -139,6 +148,7 @@ author:dusthillguy of Monsquaz crew|platform:Computer running linux|pms-id:asm16
 
 
 :section Dance music
+:youtube-playlist PLJO4AtxKJiFMtvU3U1Si3PnOJ9ICoh7_c
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
@@ -222,6 +232,7 @@ author:JasuM|image-file:fast-graphics/02-sibling_rivalries.jpeg|pms-id:asm16/fas
 :section Seminars
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFPJdNkR8O12k7n_S7OCIKve
 :elaine-category 2016 Seminars
 
 author:Pelastakaa lapset|title:The economics of gaming panel discussion|youtube:MGELuQ6Vh3M
@@ -245,9 +256,10 @@ author:Joona Heinikoski|title:Tools for creating successful alien invasion|youtu
 
 
 :section AssemblyTV
-:elaine-category 2016 AssemblyTV
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFPSBkd8diW3U242UuhgO0JI
+:elaine-category 2016 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
 author:AssemblyTV|description:Assembly Summer 2016 starttaa huomenna torstaina 4.8.2016. Löydät meidät sosiaalisesta mediasta:</p><p>Assembly Facebook: https://www.facebook.com/assemblyparty/?fref=ts</p><p>Twitter: https://twitter.com/assemblyparty</p><p>Instagram: https://www.instagram.com/assemblyparty/|title:Assembly Summer 2016 startti!|youtube:ObtMQKWcQb8
@@ -309,6 +321,7 @@ author:AssemblyTV|title:Fireside Chat with Eeddspeaks|youtube:j87p-USH934
 :section eSports
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFMPwRYrM2gDw_uOK_fH5mSi
 :elaine-category 2016 Games
 
 author:AssemblyTV|description:Haastattelussa eSM StarCraft II -turnauksen voittaja Serral, mukana zergling droppi!|title:Assembly 2016 Summer - Haastattelussa eSM StarCraft II -turnauksen voittaja Serral|youtube:FY2scLnf9TE
@@ -343,6 +356,7 @@ author:AssemblyTV|title:ASUS ROG CS:GO Semifinal ENCE - Epsilon #1|youtube:lPfAZ
 :section Winter
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFMYEuAH5yb5TEqk5vXyOQuK
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2016.</p>
 
 author:AssemblyTV|title:Assembly Winter 2016 Wednesday building timelapse|youtube:Ow-QOWENi1M
