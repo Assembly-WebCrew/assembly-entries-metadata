@@ -9,4 +9,7 @@ assembly_entries_metadata.egg-info/
 build/
 variables.inc.sh
 
+client_secrets.json
+asm-archive-youtube-updater-oauth2.json
+
 *.pyc

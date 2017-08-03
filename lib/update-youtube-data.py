@@ -1,22 +1,9 @@
 import asmmetadata
-import gdata.youtube
-import gdata.youtube.service
-import optparse
+import argparse
+import os
 import sys
 import time
-
-parser = optparse.OptionParser()
-
-(options, args) = parser.parse_args()
-if len(args) != 5:
-    parser.error(
-        "Usage: datafile developer-key youtube-username email password")
-
-(datafile,
- youtube_developer_key,
- youtube_username,
- email,
- password) = sys.argv[1:]
+import youtube
 
 
 def try_youtube_operation(label, function, retries=3, sleep=4):
@@ -37,61 +24,79 @@ def try_youtube_operation(label, function, retries=3, sleep=4):
     return None
 
 
-def update_youtube_info(yt_service, username, entry_data):
+def update_youtube_info(yt_service, entry_data):
     for entry in entry_data.entries:
-        if not 'youtube' in entry:
+        if 'youtube' not in entry:
             continue
-        update_youtube_info_entry(yt_service, username, entry)
+        update_youtube_info_entry(yt_service, entry)
 
 
-def update_youtube_info_entry(yt_service, username, entry):
+def update_youtube_info_entry(yt_service, entry):
     youtube_info = asmmetadata.get_youtube_info_data(entry)
 
-    uri = 'https://gdata.youtube.com/feeds/api/users/%s/uploads/%s' \
-        % (username, entry['youtube'])
-
-    youtube_entry = try_youtube_operation(
+    videos_list = try_youtube_operation(
         "get info for %s" % youtube_info['title'],
-        lambda: yt_service.GetYouTubeVideoEntry(uri=uri),
+        lambda: yt_service.videos().list(
+            id=entry["youtube"], part="snippet").execute(),
         sleep=1)
-    if youtube_entry is None:
+    if not videos_list["items"]:
+        print("No video found for ID %s" % entry["youtube"])
         return
 
+    video_entry = videos_list["items"][0]["snippet"]
+
     update_entry = False
-    if youtube_entry.media.title.text != youtube_info['title']:
+    if video_entry["title"] != youtube_info["title"]:
         update_entry = True
-        youtube_entry.media.title.text = youtube_info['title']
-    if youtube_entry.media.description.text != youtube_info['description'].strip():
+        video_entry["title"] = youtube_info["title"]
+    if video_entry["description"] != youtube_info['description'].strip():
         update_entry = True
-        youtube_entry.media.description.text = youtube_info['description'].strip()
+        video_entry["description"] = youtube_info['description'].strip()
     existing_tags = []
-    if youtube_entry.media.keywords.text is not None:
-        existing_tags = sorted([tag.strip().lower() for tag in youtube_entry.media.keywords.text.split(",")])
-    if existing_tags != sorted([tag.strip().lower() for tag in youtube_info['tags']]):
+    if video_entry.get("tags"):
+        existing_tags = sorted(
+            [tag.strip().lower() for tag in video_entry["tags"]])
+    if existing_tags != sorted(
+            [tag.strip().lower() for tag in youtube_info["tags"]]):
         update_entry = True
-        youtube_entry.media.keywords.text = ", ".join(youtube_info['tags'])
+        video_entry["tags"] = youtube_info["tags"]
 
     if update_entry:
         try_youtube_operation(
             "update %s" % youtube_info['title'],
-            lambda: yt_service.UpdateVideoEntry(youtube_entry))
+            lambda: yt_service.videos().update(
+                part="snippet",
+                body=dict(
+                    snippet=video_entry,
+                    id=entry["youtube"])).execute())
 
-yt_service = gdata.youtube.service.YouTubeService()
 
-# Note: SSL is not available at this time for uploads.
-yt_service.ssl = True
-#yt_service.debug = True
+def main(argv):
+    parser = argparse.ArgumentParser()
+    parser.add_argument("datafile")
+    parser.add_argument("--sections", default="")
+    youtube.add_auth_args(parser)
+    args = parser.parse_args(argv[1:])
+    yt_service = youtube.get_authenticated_service(args)
 
-yt_service.developer_key = youtube_developer_key
-yt_service.client_id = 'ASM-playlist-updater'
-yt_service.email = email
-yt_service.password = password
-yt_service.source = 'ASM-playlist-updater'
-yt_service.ProgrammaticLogin()
+    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
 
-entry_data = asmmetadata.parse_file(open(datafile, "rb"))
+    if args.sections:
+        included_sections = set(
+            [x.lower().strip() for x in args.sections.split(",")])
+        included_entries = []
+        for entry in entry_data.entries:
+            if entry["section"]["key"] in included_sections:
+                included_entries.append(entry)
+        entry_data.entries = included_entries
 
-try:
-    update_youtube_info(yt_service, youtube_username, entry_data)
-except KeyboardInterrupt, e:
-    print "Interrupted"
+    try:
+        update_youtube_info(yt_service, entry_data)
+    except KeyboardInterrupt:
+        print "Interrupted"
+        return os.EX_DATAERR
+
+    return os.EX_OK
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))

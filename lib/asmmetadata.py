@@ -44,7 +44,7 @@ def get_entry_name(entry):
     if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
         name = title
     else:
-        name = "%s by %s" % (title, author)
+        name = u"%s by %s" % (title, author)
     return name
 
 
@@ -256,7 +256,11 @@ def parse_file(file_handle):
         if line[0] == "#":
             continue
         if line[0] == ":":
-            data_type, value = line.strip().split(" ", 1)
+            try:
+                data_type, value = line.strip().split(" ", 1)
+            except ValueError:
+                print("Invalid line: %s" % line.strip())
+                raise
             if data_type == ":year":
                 assert result.year is None
                 year = int(value)
@@ -478,7 +482,7 @@ def get_youtube_info_data(entry):
     if display_author is not None:
         description += u"Author: %s\n" % display_author
 
-    description += "\n"
+    description += u"\n"
 
     pouet = entry.get('pouet', None)
     if pouet is not None:
@@ -528,8 +532,6 @@ def get_youtube_info_data(entry):
     description = description.replace("<", "-")
     description = description.replace(">", "-")
 
-    description_non_unicode = description.encode("utf-8")
-
     name = name.replace("<", "-")
     name = name.replace(">", "-")
 
@@ -538,8 +540,8 @@ def get_youtube_info_data(entry):
         category = "Tech"
 
     return {
-        'title': name[:YOUTUBE_MAX_TITLE_LENGTH].encode("utf-8"),
-        'description': description_non_unicode,
+        'title': name[:YOUTUBE_MAX_TITLE_LENGTH],
+        'description': description,
         'tags': list(tags),
         'category': category,
         }
