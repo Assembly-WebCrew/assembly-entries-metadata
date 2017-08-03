@@ -338,6 +338,7 @@ author:Max Dee|sceneorg:/parties/2006/assembly06/grfx/freestyle/alone_by_max_dee
 
 :section AssemblyTV
 :ranked false
+:author-in-title false
 :youtube-playlist C5A61F781A6BD80D
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -363,6 +364,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/207|media:/vod/2006/a
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist 25264A4CA88EBAF8
 
 author:Samuli Torssonen, Timo Vuorensola, Atte Joutsen, Jarmo Puskala|guid:http://elaine.assembly.org/programs/130|media:/vod/2006/seminars/130_seminar_keynote_star_wreck_h264_400kbps.mp4|title:Keynote: Star Wreck - and more!|youtube:VQhyXLjYv9w

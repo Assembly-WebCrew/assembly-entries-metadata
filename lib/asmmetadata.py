@@ -41,10 +41,10 @@ def get_entry_name(entry):
     section_name = entry['section']['name']
     title = entry['title']
     author = entry['author']
-    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name or "Misc" in section_name:
-        name = title
-    else:
+    if entry["section"].get("author-in-title", True):
         name = u"%s by %s" % (title, author)
+    else:
+        name = title
     return name
 
 
@@ -315,6 +315,17 @@ def parse_file(file_handle):
                     section['ranked'] = False
                 else:
                     section['ranked'] = True
+            elif data_type == ":author-in-title":
+                # By default authors are part of the title in form of:
+                # <name> by <author>
+                #
+                # Only some specific categories, like AssemblyTV,
+                # eSports, and Winter can get without displaying the
+                # author in the title.
+                if value.lower() == "false":
+                    section["author-in-title"] = False
+                else:
+                    section["author-in-title"] = True
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue
@@ -343,6 +354,18 @@ def print_metadata(outfile, year_entry_data):
     outfile.write(":year %d\n" % year_entry_data.year)
     for section in year_entry_data.sections:
         outfile.write("\n:section %s\n" % section['name'])
+        if 'ranked' in section:
+            ranked_text = "true"
+            if section["ranked"] is False:
+                ranked_text = "false"
+            outfile.write(":ranked %s\n" % ranked_text)
+        if 'author-in-title' in section:
+            author_in_title_text = "true"
+            if section["author-in-title"] is False:
+                author_in_title_text = "false"
+            outfile.write(":author-in-title %s\n" % author_in_title_text)
+        if 'galleriafi' in section:
+            outfile.write(":galleriafi %s\n" % section['galleriafi'])
         if 'youtube-playlist' in section:
             outfile.write(
                 ":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))

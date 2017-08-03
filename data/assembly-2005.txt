@@ -384,6 +384,7 @@ author:wAMMA|sceneorg:/parties/2005/assembly05/grfx/freestyle/roger_by_wamma.zip
 
 :section AssemblyTV
 :ranked false
+:author-in-title false
 :youtube-playlist FC280AF8A7F4466E
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -413,6 +414,7 @@ author:AssemblyTV|media:/vod/2005/assemblytv/98_kun_valot_sammuivat.avi|title:Ku
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist 83FC1A90978E6A18
 
 author:Matti Palosuo|media:/vod/2005/seminars/the_best_of_4k_intros_by_matti_palosuo.avi|title:Best of 4k intros|youtube:M9FDWRTuPCk

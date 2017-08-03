@@ -224,6 +224,7 @@ author:Felor|image-file:fast-graphics/607-entry.png|pms-id:asm14/fast_graphics/6
 
 :section Winter
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFNrA3olNFm5LM6G30EMztSn
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2014.</p>
 
@@ -238,6 +239,7 @@ author:AssemblyTV|description:Kun lauantaiyö koittaa (ja kun toimituksen ideat 
 
 :section Winter ASUS ROG 2 StarCraft 2
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFMo4qcA0tUTJrAdB9NCJBcd
 :description <p>ASUS ROG 2 StarCraft 2 that have been played during Assembly Winter 2014</p>
 
@@ -277,6 +279,7 @@ author:AssemblyTV|description:StarCraft 2 Grandfinal: Dear VS. San, Bo7, Map 4|t
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFOsyXRGI1-m0KMM2C-zHS1z
 :elaine-category 2014 Seminars
 
@@ -308,6 +311,7 @@ author:AssemblyTV seminars|description:Jouni Mannonen's session will detail the 
 
 :section AssemblyTV
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFMW8laMoJwKsf4E2eLNKgA_
 :elaine-category 2014 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
@@ -339,6 +343,7 @@ author:AssemblyTV|guid:1840|title:Jaffa vs Messu|youtube:_Ta6w9P9zLk
 
 :section Hearthstone
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFMy5OtFLx6HyLKq-ApVAHA3
 :elaine-category 2014 HearthStone
 :description <p>This section includes videos related to <a href="http://eu.battle.net/hearthstone/">Hearthstone</a> during Assembly Summer 2014.</p>
@@ -350,6 +355,7 @@ author:AssemblyTV|description:Haastattelimme Hearthstone-turnauksessa neljän pa
 
 :section Starcraft 2
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFMA-BjiwyUtR81DcgjYM8Cu
 :elaine-category 2014 StarCraft 2
 :description <p>This section includes videos related to <a href="http://eu.battle.net/sc2/">Starcraft 2</a> during Assembly Summer 2014.</p>
@@ -361,6 +367,7 @@ author:AssemblyTV|description:Haastattelimme StarCraft 2 -finalisti Joona 'Serra
 
 :section CS:GO (ASUS ROG)
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFPkIMpmwLUcwySK6IURbWe9
 :elaine-category 2014 CS:GO (ASUS ROG)
 
@@ -371,6 +378,7 @@ author:AssemblyTV|description:We interviewed CS:GO team myRevenge's manager Chri
 
 :section Dota 2
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFNN47NRSfvTmtDiQ7nN8x1p
 :elaine-category 2014 DOTA2
 

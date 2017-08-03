@@ -288,6 +288,7 @@ author:tAAt|sceneorg:/parties/2008/assembly08/demo/kalvosinappi__membrane_mustar
 
 :section AssemblyTV
 :ranked false
+:author-in-title false
 :youtube-playlist B41A1955905991DC
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -301,6 +302,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/707|media:/vod/2008/A
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist 4CF107E30415B07E
 
 author:Marko Mäkilaakso|title:Stone's War

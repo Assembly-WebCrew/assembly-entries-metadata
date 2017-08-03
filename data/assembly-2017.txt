@@ -102,6 +102,7 @@
 :section Seminars
 :public false
 :ranked false
+:author-in-title false
 :elaine-category 2017 Seminars
 
 

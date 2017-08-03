@@ -153,10 +153,10 @@ def print_entry(year, entry, description_generator):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
-    if "AssemblyTV" in section_name or "Seminars" in section_name or "Winter" in section_name:
-        name = title
-    else:
+    if entry["section"].get("author-in-title", True):
         name = "%s by %s" % (title, author)
+    else:
+        name = title
 
     normalized_name = asmmetadata.get_entry_key(entry)
     normalized_section = asmmetadata.normalize_key(section_name)

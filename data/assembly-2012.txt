@@ -255,6 +255,7 @@ author:red-|pms-id:asm12/fast_music/524|position:4|techniques:Reason|title:Aoe -
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist A10BAD043DC6AA60
 
 author:Henry Brade|guid:1351|media:/vod/2012/Seminars/1351_Bitcoin-The_future_of_money.mp4|title:Bitcoin - the future of money|video-file:seminars/1351_Bitcoin-The_future_of_money.mp4|youtube:EKrfZt3CGN0
@@ -285,6 +286,7 @@ author:Eemu Bertling|guid:1374|media:/vod/2012/Seminars/1374_Robosota_seminar.mp
 
 :section AssemblyTV
 :ranked false
+:author-in-title false
 :youtube-playlist 37A29D6973387D21
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
@@ -331,6 +333,7 @@ author:AssemblyTV|guid:1436|media:/vod/2012/AssemblyTV/1436_Amigapeli_EOB.mp4|ti
 
 :section Winter
 :ranked false
+:author-in-title false
 :youtube-playlist 5C093FFF2C33B46A
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2012.</p>
 
@@ -352,7 +355,7 @@ author:AssemblyTV|media:/vod/2012/winter/Timelapse.mp4|title:Time Lapse|youtube:
 
 author:Ate Bit|description:Assembly Summer 2012 PC invitation intro.|download:http://media.assembly.org/summer12/atebit_asm2012invitro.zip|pouet:|title:PC invtro|youtube:hNvfRJORjck
 author:Dekadence and Extend|description:Commodore 64 invitation intro.|download:http://media.assembly.org/summer12/asm12inv-c64.zip|pouet:|title:Commodore 64 invtro|youtube:7Hwsbn49dcQ
-author:ASSEMBLY Labs|description:Mitä tapahtuu Mignon munalle kun se keitetään? Räjähtääkö se? Valuuko suklaa pois kokonaan munasta? Onko tilanne vaarallinen? ASSEMBLY labs testasi asian koekeittiössään.|title:ASSEMBLY Labs: Mignon munan keittotesti|youtube:7t5KQLbQ0bw
+author:ASSEMBLY Labs|description:Mitä tapahtuu Mignon munalle kun se keitetään? Räjähtääkö se? Valuuko suklaa pois kokonaan munasta? Onko tilanne vaarallinen? ASSEMBLY labs testasi asian koekeittiössään.|title:Mignon munan keittotesti|youtube:7t5KQLbQ0bw
 author:FIGMA ry|description:FIGMA ry julkisti kolme vuotta sitten suomalaisen pelialan kunniamaininnan, Peliluolan. Peliluolaan kutsuttiin tänä vuonna Assembly-demotapahtuman isät Pekka Aakko ja Jussi Laakkonen. He ovat väsymättömällä työllään koonneet vuosittain pelaajat ja pelintekijät huikeaan tapahtumaan jo peräti 20 vuoden ajan.</p><p>Aikaisempina vuosina Peliluolaan kutsutut ovat Vesa Artman, Petri Lehmuskoski, Tuija Lindén, Sauli Numminen, Thomas Puha ja Ilari Kuittinen.|tags:Mignon ASSEMBLY-Labs|title:FIGMA Finnish Game Awards - peliluola "Hall of Fame" 2012|youtube:HCbDV7VnxCE
 
 
