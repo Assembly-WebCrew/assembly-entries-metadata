@@ -75,7 +75,7 @@ def fetch_youtube_playlist_entries(yt_service, section):
     return all_videos
 
 
-def modify_youtube_playlist(yt_service, playlist, section):
+def playlist_modify_info(yt_service, playlist, section):
     playlist_snippet = playlist["snippet"]
     update = False
     playlist_title = get_playlist_title(section)
@@ -98,6 +98,81 @@ def modify_youtube_playlist(yt_service, playlist, section):
                 id=section["youtube-playlist"])).execute())
 
 
+def get_section_youtube_ids(section):
+    return map(
+        str,
+        filter(lambda x: x is not None,
+               (entry.get('youtube', None)
+                for entry in section['entries'])))
+
+
+def playlist_add_new_items(yt_service, youtube_entries, section):
+    section_entries_set = set(get_section_youtube_ids(section))
+
+    youtube_entries_set = set(
+        [x["snippet"]["resourceId"]["videoId"] for x in youtube_entries])
+
+    missing_playlist_items = section_entries_set - youtube_entries_set
+
+    sorted_entries = sorted(
+        section['entries'],
+        lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+    missing_entries = []
+    for entry in sorted_entries:
+        if str(entry.get('youtube', '')) in missing_playlist_items:
+            missing_entries.append(entry)
+
+    if len(missing_entries) == 0:
+        return youtube_entries
+
+    for entry in missing_entries:
+        youtube_id = entry['youtube']
+        asmyoutube.try_operation(
+            u"Adding %s (%s)" % (entry['title'], youtube_id),
+            lambda: yt_service.playlistItems().insert(
+                part="snippet",
+                body=dict(
+                    snippet=dict(
+                        playlistId=section["youtube-playlist"],
+                        resourceId=dict(
+                            kind="youtube#video",
+                            videoId=youtube_id)))).execute(),
+            sleep=1)
+    return fetch_youtube_playlist_entries(yt_service, section)
+
+
+def playlist_remove_extra(yt_service, youtube_entries, section):
+    section_ids_set = set(get_section_youtube_ids(section))
+    known_ids = set()
+    modified = False
+    for youtube_entry in youtube_entries:
+        video_id = youtube_entry["snippet"]["resourceId"]["videoId"]
+        video_title = youtube_entry["snippet"]["title"]
+        if video_id in known_ids:
+            modified = True
+            asmyoutube.try_operation(
+                u"Removing duplicate entry %s: %s" % (video_id, video_title),
+                lambda: yt_service.playlistItems().delete(
+                    id=youtube_entry["id"]).execute())
+        known_ids.add(video_id)
+
+        if video_id not in section_ids_set:
+            modified = True
+            asmyoutube.try_operation(
+                u"Removing unknown entry %s: %s" % (video_id, video_title),
+                lambda: yt_service.playlistItems().delete(
+                    id=youtube_entry["id"]).execute())
+
+    if not modified:
+        return youtube_entries
+
+    return fetch_youtube_playlist_entries(yt_service, section)
+
+
+def playlist_reorder_entries(yt_service, youtube_entries, section):
+    return youtube_entries
+
+
 def update_youtube_playlists(yt_service, entry_data):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
@@ -111,43 +186,14 @@ def update_youtube_playlists(yt_service, entry_data):
                 yt_service, entry_data, section)
             time.sleep(5)
         playlist = get_playlist(yt_service, section)
-        modify_youtube_playlist(yt_service, playlist, section)
-
-        section_entries = map(
-            str,
-            filter(lambda x: x is not None,
-                   (entry.get('youtube', None)
-                    for entry in section['entries'])))
-        section_entries_set = set(section_entries)
-
+        playlist_modify_info(yt_service, playlist, section)
         youtube_entries = fetch_youtube_playlist_entries(yt_service, section)
-
-        youtube_entries_set = set([x["snippet"]["resourceId"]["videoId"] for x in youtube_entries])
-
-        missing_playlist_items = section_entries_set - youtube_entries_set
-
-        missing_entries = []
-
-        sorted_entries = sorted(
-            section['entries'],
-            lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
-        for entry in sorted_entries:
-            if str(entry.get('youtube', '')) in missing_playlist_items:
-                missing_entries.append(entry)
-
-        for entry in missing_entries:
-            youtube_id = entry['youtube']
-            asmyoutube.try_operation(
-                u"Adding %s (%s)" % (entry['title'], youtube_id),
-                lambda: yt_service.playlistItems().insert(
-                    part="snippet",
-                    body=dict(
-                        snippet=dict(
-                            playlistId=section["youtube-playlist"],
-                            resourceId=dict(
-                                kind="youtube#video",
-                                videoId=youtube_id)))).execute(),
-                sleep=1)
+        youtube_entries = playlist_add_new_items(
+            yt_service, youtube_entries, section)
+        youtube_entries = playlist_remove_extra(
+            yt_service, youtube_entries, section)
+        youtube_entries = playlist_reorder_entries(
+            yt_service, youtube_entries, section)
 
 
 def main(argv=sys.argv):
