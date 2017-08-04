@@ -349,6 +349,12 @@ def escape_value(value):
     return value.replace("|", "&#124;")
 
 
+def get_archive_link_entry(entry):
+    key = get_entry_key(entry)
+    return u"http://archive.assembly.org/%d/%s/%s" % (
+        entry["section"]["year"], entry["section"]["key"], key)
+
+
 def print_metadata(outfile, year_entry_data):
     outfile.write(":year %d\n" % year_entry_data.year)
     for section in year_entry_data.sections:
@@ -563,6 +569,11 @@ def get_youtube_info_data(entry):
             newlined = True
         mediavideo = entry['media']
         description += "Download high quality video: http://media.assembly.org%s\n" % mediavideo
+
+    description += u"\n"
+    if "youtube-playlist" in entry["section"]:
+        description += u"Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
+    description += u"This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
 
     tags = set(get_party_tags(
             entry['section']['year'], entry['section']['name']))
