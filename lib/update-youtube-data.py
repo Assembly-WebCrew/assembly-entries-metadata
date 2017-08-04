@@ -2,26 +2,7 @@ import asmmetadata
 import argparse
 import os
 import sys
-import time
 import asmyoutube
-
-
-def try_youtube_operation(label, function, retries=3, sleep=4):
-    success = False
-    retry_count = 0
-    while not success and retry_count < retries:
-        retry_count += 1
-        print "Try %d: %s" % (retry_count, label)
-        result = function()
-        time.sleep(sleep)
-        if result is not None:
-            success = True
-            break
-    if success:
-        return result
-    print "Failed: %s. Sleeping for 600 seconds." % label
-    time.sleep(600)
-    return None
 
 
 def update_youtube_info(yt_service, entry_data):
@@ -34,7 +15,7 @@ def update_youtube_info(yt_service, entry_data):
 def update_youtube_info_entry(yt_service, entry):
     youtube_info = asmmetadata.get_youtube_info_data(entry)
 
-    videos_list = try_youtube_operation(
+    videos_list = asmyoutube.try_operation(
         "get info for %s" % youtube_info['title'],
         lambda: yt_service.videos().list(
             id=entry["youtube"], part="snippet").execute(),
@@ -62,7 +43,7 @@ def update_youtube_info_entry(yt_service, entry):
         video_entry["tags"] = youtube_info["tags"]
 
     if update_entry:
-        try_youtube_operation(
+        asmyoutube.try_operation(
             "update %s" % youtube_info['title'],
             lambda: yt_service.videos().update(
                 part="snippet",

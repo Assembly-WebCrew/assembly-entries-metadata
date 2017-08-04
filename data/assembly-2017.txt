@@ -57,6 +57,7 @@
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFPwsH3H7_nd-wCvFqw6TruG
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
@@ -80,6 +81,7 @@ author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!|yout
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFO90t7x1dkoB258boeeuYee
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
@@ -101,6 +103,7 @@ author:(author hidden until results)|pms-id:asm17/listening_music/436|title:Conv
 
 
 :section Fast music
+:youtube-playlist PLJO4AtxKJiFMQFiMGcesp0ntvynLXNfxQ
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
@@ -126,6 +129,7 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 
 
 :section Dance music
+:youtube-playlist PLJO4AtxKJiFP9VlTNxMEOM5TQyN82SPIS
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true

@@ -17,13 +17,14 @@ parser.add_argument('files_root', metavar="files-root")
 parser.add_argument('--video-postfix', default=".mp4")
 parser.add_argument('--dry-run', action="store_true")
 parser.add_argument('--media-vod-directory')
-parser.add_argument('--unlisted', action="store_true")
+parser.add_argument(
+    '--privacy', default="public", choices=["public", "unlisted", "private"])
 commandline_args = parser.parse_args(sys.argv[1:])
 
 files_root = commandline_args.files_root
 video_postfix = commandline_args.video_postfix
 media_vod_directory = commandline_args.media_vod_directory
-unlisted_video = commandline_args.unlisted
+privacy = commandline_args.privacy
 
 
 def call_and_capture_output_real(args):
@@ -164,8 +165,7 @@ for line in sys.stdin:
         '--description', description,
 #        '--credentials-file', 'client_secrets.json',
         video_file]
-    if unlisted_video:
-        args.append("--privacy=unlisted")
+    args.append("--privacy=%s" % privacy)
     upload_success = False
     youtube_id = ''
     upload_trials = 1
