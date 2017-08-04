@@ -248,6 +248,7 @@ def parse_file(file_handle):
     year = None
     section = None
 
+    known_keys = set()
     for line in file_handle:
         line = unicode(line.strip(), "utf-8")
         if line == "":
@@ -335,6 +336,9 @@ def parse_file(file_handle):
         data_dict = parse_entry_line(line)
 
         assert 'section' not in data_dict
+        if get_entry_key(data_dict) in known_keys:
+            raise ValueError("Entry %s has a duplicate key" % data_dict)
+        known_keys.add(get_entry_key(data_dict))
 
         result.addEntry(section, data_dict)
 
@@ -493,7 +497,7 @@ def get_youtube_info_data(entry):
         pass
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
-        if not "Seminars" in section_name or not entry["section"]["ranked"]:
+        if entry["section"].get("ranked", True):
             description += "%s %s competition entry" % (party_name, section_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
@@ -501,7 +505,7 @@ def get_youtube_info_data(entry):
                 else:
                     description += u", not qualified to be shown on the big screen"
             description += u".\n\n"
-        else:
+        elif "Seminars" in section_name:
             description += u"%s seminar presentation.\n\n" % party_name
     elif "AssemblyTV" in section_name or "Winter" in section_name:
         description += u"%s AssemblyTV program.\n\n" % party_name

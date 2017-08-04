@@ -86,7 +86,7 @@ author:Teemu Miettinen|platform:Windows|pms-id:asm17/gamedev/286|title:Dark Comm
 author:Miika Pelkonen, Anniina Aarnio, Henri Jukkala|platform:Windows|pms-id:asm17/gamedev/287|title:Just Fly Dat Thing|youtube:vUPk2-flXiI
 author:Team Möns|platform:Windows & SteamVR|pms-id:asm17/gamedev/288|title:FinSummerVR|youtube:H7BeClaXY-Y
 author:Juuso Soikkeli|platform:Windows, Web|pms-id:asm17/gamedev/289|title:Shotgun Dungeon|youtube:un9dWTBWEpo
-author:FIVR AR/MR Lab|platform:Windows & SteamVR|pms-id:asm17/gamedev/290|title:UFO Shooter|youtube:QdJYQuVun94
+author:FIVR AR/MR Lab|platform:Windows & SteamVR|pms-id:asm17/gamedev/290|title:UFO Shooter|youtube:2HuW7ZlZ9V0
 author:Frans Lehmusvaara, Joa Riski, Vili Manninen|platform:Windows, OSX|pms-id:asm17/gamedev/291|title:Aamusimulaattori|youtube:YBgyEaMcnZA
 author:Team Bulldozage|platform:Android|pms-id:asm17/gamedev/292|title:Bulldozage Inc.|youtube:-LJkR6ixu60
 author:Saku Syngelmä|platform:Windows|pms-id:asm17/gamedev/293|title:Hakkur|youtube:7if9OcicvOA
@@ -230,66 +230,108 @@ author:(author hidden until results)|image-file:fast-graphics/trololoomeow.jpg|p
 :public false
 
 
+
 :section AssemblyTV
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFNmFBmK1ha-OTWsu_O5ijNS
 :description <p>This section includes clips that AssemblyTV has created.</p>
 
-title:Assembly Summer 2017: SeiSkan alkutervehdykset|youtube:ZCDdtnnIxkQ|author:AssemblyTV
-title:Haastattelussa Assemblyjärjestäjä Azhrak|youtube:e2bAwJQeFa4|author:AssemblyTV
-title:Assembly Summer 2017: Poromagia|youtube:0lu8cVXnZWk|author:AssemblyTV
-title:Assembly Summer 2017: Katsaus tapahtuma-alueeseen|youtube:Q0qfEagdbY0|author:AssemblyTV
-title:Assembly Summer 2017: Overwatch - Team Gigantin Joonas ”Zappis” Alakurtti|youtube:rE7rItsIMoI|author:AssemblyTV
-title:Opening ceremony|youtube:9epJWsNiufE|author:AssemblyTV
-title:Assembly Summer 2017: Tunnelmia rakennuspäiviltä|youtube:LWcT9Y_W7ko|author:AssemblyTV
-title:Assembly Summer 2017: Suomen lautapeliseuran Mauri Sahlberg|youtube:YfPNFUEXljg|author:AssemblyTV
-title:Assembly Summer 2017: OW selostaja Tomi "Tombha" Rinne|youtube:ggyeq1imOJQ|author:AssemblyTV
-title:Assembly Summer 2017: TiQ Bags|youtube:qoV5K1SJHuM|author:AssemblyTV
-title:Assembly Summer 2017: HR-vastaava Laura "Clara" Wallo|youtube:uBoc6Xe-YYs|author:AssemblyTV
-title:Assembly Summer 2017: Haastattelussa ENCEn Roni “lhcloudy” Tiihonen|youtube:yaruy03vOCM|author:AssemblyTV
-title:Opening ceremony|youtube:WXFOtNeGopw|author:AssemblyTV
-title:Assembly Summer 2017: Avajaispäivä|youtube:tWxhgOzMV5E|author:AssemblyTV
-title:Assembly Summer 2017: Suuri Mädäritesti!|youtube:2wX8HwYmV8Q|author:AssemblyTV
-title:Assembly Summer 2017: Haastattelussa Compo-crewn Iikka "Nisual" Pietilä|youtube:9OdXNdfDRvs|author:AssemblyTV
-title:Listening music compostudio|youtube:b-6ZbnohZ9s|author:AssemblyTV
-title:Graphics compostudio|youtube:hHftONLTzxY|author:AssemblyTV
-title:Dance music compostudio|youtube:YyuFIMlZ2gw|author:AssemblyTV
-title:Photo compostudio|youtube:-mUkn0e556o|author:AssemblyTV
-title:Fast music and graphics compostudio|youtube:ID4o2TKyXsY|author:AssemblyTV
-title:Fireside chat - Game Jam|youtube:q3SBcHQAZ70|author:AssemblyTV
-title:Fireside chat - Sami-Petteri Pukkila|youtube:GqCMfT_0HUw|author:AssemblyTV
-title:Demo show: Best of the past year by truck|youtube:viFzngCIKDI|author:AssemblyTV
-title:Gamedev compostudio|youtube:bAnGxjzH0ho|author:AssemblyTV
-title:Demo show: Overview to Intros by rimina, noby & urs|youtube:CtXxh5cQUsM|author:AssemblyTV
+author:AssemblyTV|title:Assembly Summer 2017: SeiSkan alkutervehdykset|youtube:ZCDdtnnIxkQ
+author:AssemblyTV|title:Haastattelussa Assemblyjärjestäjä Azhrak|youtube:e2bAwJQeFa4
+author:AssemblyTV|title:Assembly Summer 2017: Poromagia|youtube:0lu8cVXnZWk
+author:AssemblyTV|title:Assembly Summer 2017: Katsaus tapahtuma-alueeseen|youtube:Q0qfEagdbY0
+author:AssemblyTV|title:Assembly Summer 2017: Overwatch - Team Gigantin Joonas ”Zappis” Alakurtti|youtube:rE7rItsIMoI
+author:AssemblyTV|title:Assembly Summer 2017: Tunnelmia rakennuspäiviltä|youtube:LWcT9Y_W7ko
+author:AssemblyTV|title:Assembly Summer 2017: Suomen lautapeliseuran Mauri Sahlberg|youtube:YfPNFUEXljg
+author:AssemblyTV|title:Assembly Summer 2017: OW selostaja Tomi "Tombha" Rinne|youtube:ggyeq1imOJQ
+author:AssemblyTV|title:Assembly Summer 2017: TiQ Bags|youtube:qoV5K1SJHuM
+author:AssemblyTV|title:Assembly Summer 2017: HR-vastaava Laura "Clara" Wallo|youtube:uBoc6Xe-YYs
+author:AssemblyTV|title:Assembly Summer 2017: Haastattelussa ENCEn Roni “lhcloudy” Tiihonen|youtube:yaruy03vOCM
+author:AssemblyTV|title:Opening ceremony|youtube:WXFOtNeGopw
+author:AssemblyTV|title:Assembly Summer 2017: Avajaispäivä|youtube:tWxhgOzMV5E
+author:AssemblyTV|title:Assembly Summer 2017: Suuri Mädäritesti!|youtube:2wX8HwYmV8Q
+author:AssemblyTV|title:Assembly Summer 2017: Haastattelussa Compo-crewn Iikka "Nisual" Pietilä|youtube:9OdXNdfDRvs
+author:AssemblyTV|title:Listening music compostudio|youtube:b-6ZbnohZ9s
+author:AssemblyTV|title:Graphics compostudio|youtube:hHftONLTzxY
+author:AssemblyTV|title:Dance music compostudio|youtube:YyuFIMlZ2gw
+author:AssemblyTV|title:Photo compostudio|youtube:-mUkn0e556o
+author:AssemblyTV|title:Fast music and graphics compostudio|youtube:ID4o2TKyXsY
+author:AssemblyTV|title:Fireside chat - Game Jam|youtube:q3SBcHQAZ70
+author:AssemblyTV|title:Fireside chat - Sami-Petteri Pukkila|youtube:GqCMfT_0HUw
+author:AssemblyTV|title:Demo show: Best of the past year by truck|youtube:viFzngCIKDI
+author:AssemblyTV|title:Gamedev compostudio|youtube:bAnGxjzH0ho
+author:AssemblyTV|title:Demo show: Overview to Intros by rimina, noby & urs|youtube:CtXxh5cQUsM
+author:AssemblyTV|title:Short film compostudio|youtube:fW9sNabSdB8
+
 
 :section eSports
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFMZkpknjwqcZm9L5OtACyn_
 
-title:ASUS ROG Summer 2017 Overwatch - Group B Decider - Helsinki REDS vs NYYRIKKI Esports (English)|youtube:RGSNteEqbEM|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B Losers - Aces vs NYYRIKKI Esports (English)|youtube:-WnHiUMfkEs|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B Winners - Team Gigantti vs Helsinki REDS (English)|youtube:6on55WA8ty0|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B - Helsinki REDS vs NYYRIKKI Esports (English)|youtube:Gtg9LU4Js7I|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group A Decider - ENCE eSports vs Boom eSports (English)|youtube:bl0mxEax1Hs|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group A Losers - Boom eSports vs Rynnäkköviikset (English)|youtube:Y7vxqkwhYf4|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B Decider - Helsinki REDS vs NYYRIKKI Esports (Finnish)|youtube:VGgah8625zk|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B Losers - Aces vs NYYRIKKI Esports (Finnish)|youtube:D1sDNvr0w3w|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group B - Helsinki REDS vs NYYRIKKI Esports (Finnish)|youtube:pYWmedcg_6c|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group A Decider - ENCE eSports vs Boom eSports (Finnish)|youtube:r23mVbZ_zso|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group A Losers - Boom eSports vs Rynnäkköviikset (Finnish)|youtube:A3D_bg05s4Y|author:AssemblyTV
-title:ASUS ROG Summer 2017 Overwatch - Group A - ENCE eSports vs Rynnäkköviikset (Finnish)|youtube:qCgUIusGkBk|author:AssemblyTV
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Decider - Helsinki REDS vs NYYRIKKI Esports (English)|youtube:RGSNteEqbEM
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Losers - Aces vs NYYRIKKI Esports (English)|youtube:-WnHiUMfkEs
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Winners - Team Gigantti vs Helsinki REDS (English)|youtube:6on55WA8ty0
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B - Helsinki REDS vs NYYRIKKI Esports (English)|youtube:Gtg9LU4Js7I
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group A Decider - ENCE eSports vs Boom eSports (English)|youtube:bl0mxEax1Hs
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group A Losers - Boom eSports vs Rynnäkköviikset (English)|youtube:Y7vxqkwhYf4
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Decider - Helsinki REDS vs NYYRIKKI Esports (Finnish)|youtube:VGgah8625zk
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Losers - Aces vs NYYRIKKI Esports (Finnish)|youtube:D1sDNvr0w3w
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B - Helsinki REDS vs NYYRIKKI Esports (Finnish)|youtube:pYWmedcg_6c
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group A Decider - ENCE eSports vs Boom eSports (Finnish)|youtube:r23mVbZ_zso
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group A Losers - Boom eSports vs Rynnäkköviikset (Finnish)|youtube:A3D_bg05s4Y
+author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group A - ENCE eSports vs Rynnäkköviikset (Finnish)|youtube:qCgUIusGkBk
+
 
 :section Misc
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFPMLdwwjM3OLMQEC-FkKk14
 
-title:Assembly Summer 2017 ajo-ohjeet|youtube:esNw-ZS83D0|description:Ajo-ohjeet tapahtumapaikalle!|author:AssemblyTV
-title:Kuvakisan satoa!|youtube:Xsdfe34g2MQ|description:Assemblyjen EPIC konepaikoille oli mahdollista voittaa lippuja ikuistamalla mielenkiintoisin laniasento ilman tuolia. Tässä videolla kerättynä kunniamaininnan saaneet ja lähestulkoon yksimielisellä päätöksellä valittu voittaja.</p><p>Assembly Summer 2017 Helsingin Messukeskuksessa 3.-6.8.2017!</p><p>http://www.assembly.org/summer17</p><p></p><p><br/>Track: Elektronomia - The Other Side [NCS Release]<br/>Music provided by NoCopyrightSounds.<br/>Watch: https://youtu.be/odThebFOFVg<br/>Free Download / Stream: http://ncs.io/TheOtherSideYO|author:AssemblyTV
-title:Lipunmyynti on alkanut!|youtube:E1MM69L45D0|description:Hanki paikkasi vuoden eeppisimpään pelitapahtumaan! Liput myynnissä nyt osoitteessa www.tickets.assembly.org</p><p>Facebook, Twitter & Instagram @assemblyparty</p><p>Nähdään Summereilla ♥|author:AssemblyTV
+author:AssemblyTV|description:Ajo-ohjeet tapahtumapaikalle!|title:Assembly Summer 2017 ajo-ohjeet|youtube:esNw-ZS83D0
+author:AssemblyTV|description:Assemblyjen EPIC konepaikoille oli mahdollista voittaa lippuja ikuistamalla mielenkiintoisin laniasento ilman tuolia. Tässä videolla kerättynä kunniamaininnan saaneet ja lähestulkoon yksimielisellä päätöksellä valittu voittaja.</p><p>Assembly Summer 2017 Helsingin Messukeskuksessa 3.-6.8.2017!</p><p>http://www.assembly.org/summer17</p><p></p><p><br/>Track: Elektronomia - The Other Side [NCS Release]<br/>Music provided by NoCopyrightSounds.<br/>Watch: https://youtu.be/odThebFOFVg<br/>Free Download / Stream: http://ncs.io/TheOtherSideYO|title:Kuvakisan satoa!|youtube:Xsdfe34g2MQ
+author:AssemblyTV|description:Hanki paikkasi vuoden eeppisimpään pelitapahtumaan! Liput myynnissä nyt osoitteessa www.tickets.assembly.org</p><p>Facebook, Twitter & Instagram @assemblyparty</p><p>Nähdään Summereilla ♥|title:Lipunmyynti on alkanut!|youtube:E1MM69L45D0
+
 
 :section Winter
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFMmYmJYbdWo-g3vUj-zJQVU
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2017.</p>
-:public false
+
+author:AssemblyTV|description:Assembly Winter 2017 järjestettiin Helsingin Messukeskuksessa 3.-5.2. Videolla kooste koko tapahtumasta alusta loppuun! Assembly SomeCrew kiittää kaikkia osallistujia!|title:Assembly Winter 2017 -tapahtuma alusta loppuun!|youtube:rz2A4X7Cc3U
+author:AssemblyTV|title:Assembly Winter 2017 - Sunnuntain timelapse|youtube:0ZyCii_0g6I
+author:AssemblyTV|description:Hyvää huomenta rakkaat Assembly -kävijä! Väistämättä se sunnuntai saapui ja on aika alkaa pakkailemaan tavaroita ja lähteä kotiin odottelemaan seuraavaa tapahtumaa. Muistathan kuitenkin siivota konepaikkasi ja ottaa kaiken arvokkaan omaisuutesi mukaan!|title:Huomenta Assembly! Purkupäivän tunnelmia|youtube:465gQNdh2d0
+author:AssemblyTV|title:ASUS ROG CS:GO, Final, Outlaws vs Dizlown|youtube:0Xfd-jlaDLk
+author:AssemblyTV|title:ASUS ROG CS:GO, Semifinal, Outlaws vs Planetkey Dynamics|youtube:eyiOtj5TFLk
+author:AssemblyTV|title:ASUS ROG CS:GO, Semifinal, Dizlown vs Rynnäkköviikset|youtube:igCBG8xXZOY
+author:AssemblyTV|description:ASSEMBLY SomeCrew:n Susanna ja Outi palkitsivat parhaimmaksi valitun konepaikan. Onnea!|title:Assembly Winter 2017 - Konepaikkakisan voittajan haastattelu|youtube:mCl-PUo_Q48
+author:AssemblyTV|description:Saimme StreamCornerista haastatteluun yhden esiintyjistä|title:Assembly Winter 2017 StreamCorner INK_OWL haastattelu|youtube:Abqj4kRHZck
+author:AssemblyTV|description:Mentiin Overwatch alueelle haastattelemaan turnauksen selostanutta Tombhaa|title:Assembly Winter 2017 Overwatch selostaja Tombha haastattelussa!|youtube:OTwA2SDHD5M
+author:AssemblyTV|description:Tapahtuma alkaa olla ohi, kiitokset kaikille vieraille!|title:Assembly Winter 2017 -  Loppuuuuuu|youtube:6XrdmFcKwsU
+author:AssemblyTV|title:Assembly Winter Overwatch Final, Ninjas in Pyjamas vs Helsinki Reds|youtube:O-hUy5D1kYM
+author:AssemblyTV|title:Assembly Winter 2017 - Yllätysvieras haastattelussa!|youtube:II16jAa7m_4
+author:AssemblyTV|title:Haastattelussa ENCEn Trickwide|youtube:JAY9SlDJgio
+author:AssemblyTV|title:dizLown DarK1nG & Lambert interview|youtube:CtBJ3LeiaTQ
+author:AssemblyTV|title:Assembly Winter Overwatch LB Final, Ence eSports vs Helsinki Reds|youtube:9s2Fa1hZ4Tc
+author:AssemblyTV|title:ASUS ROG CS:GO, Ro8, LGR vs Outlaws|youtube:9XZ2FJiVT1Y
+author:AssemblyTV|title:Assembly Winter 2017 - Haastattelussa helsinki REDSin Toni "Effix" Hurme|youtube:q4GVQO-pYUc
+author:AssemblyTV|title:Assembly Winter 2017 - Haastattelussa Streamcornerin Tomi "Domezi" Suutari|youtube:4xsKAFsNoEA
+author:AssemblyTV|title:Assembly Winter 2017 - Outlaws Ivan "Rock1nG" Stratiev Interview|youtube:EzBFCYwunA8
+author:AssemblyTV|title:Assembly Winter 2017 - Rynnäkköviikset Christian "EYELESS" Bruun Interview|youtube:w2ZyYd3kZdQ
+author:AssemblyTV|title:Assembly Winter 2017 - Haastattelu: Herbalisti & Pottux|youtube:dEUFV4-LWdM
+author:AssemblyTV|title:Assembly Winter Overwatch LB, Skitlite vs Ence eSports|youtube:ifB8trjiuGs
+author:AssemblyTV|description:Olodyn tutustuu player loungeen|title:Assembly Winter 2017 - Player lounge|youtube:cyCY3Hqp9E0
+author:AssemblyTV|description:Counter-Strike: Global Offensive<br/>Haastis: EYELESS (Rynnäkköviikset)<br/>Christian "EYELESS" Bruun</p><p>Thomas "Tonttu" Tontchev|title:Assembly Winter 2017 - EYELESS Haastattelu|youtube:qwkIs9j3yzE
+author:AssemblyTV|title:ASUS ROG CS:GO, Group decider, RatsOfTheYear vs LGR|youtube:I3VwftZkBvI
+author:AssemblyTV|title:Assembly Winter 2017 - Torstain timelapse|youtube:a0J0xhFORhY
+author:AssemblyTV|title:Assembly Winter 2017 - Perjantain timelapse|youtube:ZR6zIYDitDU
+author:AssemblyTV|title:Assembly Winter 2017 - Keskiviikon timelapse|youtube:LUZRaTzFkL8
+author:AssemblyTV|title:Assembly Winter Overwatch WB, Ninjas In Pyjamas vs Helsinki Reds|youtube:YfGFfaB5KUY
+author:AssemblyTV|title:ASUS ROG CS:GO, Group match, Roty vs MnM Gaming|youtube:EzO0mg4KsPc
+author:AssemblyTV|title:ASUS ROG CS:GO, Group match, RatsOfTheYear vs Rynnäkköviikset|youtube:7jazjZvOMq8
+author:AssemblyTV|title:ASUS ROG CS:GO, Group decider, Platinium vs Conquer Gaming|youtube:kJ3BZHBbEUY
+author:AssemblyTV|title:Assembly Winter Overwatch, Skitlite vs Ninjas In Pyjamas|youtube:5DXre-nGXaM
+author:AssemblyTV|title:Assembly Winter Overwatch, Ence eSports vs Helsinki Reds|youtube:aGMROO8rimU
 
