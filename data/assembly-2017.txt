@@ -39,7 +39,7 @@
 :ongoing true
 :public-after 2017-08-04 21:45+0300
 
-author:kooma|platform:Samsung Gear S2 smartwatch|pms-id:asm17/real_wild_demo/313|techniques:Sleep deprivation, possibly shaders, Bluetooth audio|title:I Saw A Peacock, With A Fiery Tail|youtube:vGGIpe5dO5M
+author:kooma|platform:Samsung Gear S2 smartwatch|pms-id:asm17/real_wild_demo/313|techniques:Sleep deprivation, possibly shaders, Bluetooth audio|title:I Saw A Peacock, With A Fiery Tail|youtube:ircMBIkL1_M
 author:Mehu|platform:Raspberry Pi (512MB/Linux)|pms-id:asm17/real_wild_demo/324|techniques:C++11, stb libs, SDL1.2|title:dmprty|youtube:zuDQlzIyYp8
 author:pasi toska|platform:Nintendo Game Boy (DMG-01)|pms-id:asm17/real_wild_demo/336|techniques:RGBDS, GBG, GIMP, GNU Octave|title:fancy dance moves|youtube:_sYhefsMbGY
 author:Vanha Mediakunta|platform:2 * Lego EV3 robot + lego bricks + Korg|pms-id:asm17/real_wild_demo/343|techniques:Lego mastery, python, mechanical engineering|title:Technic 40|youtube:MOzYVcIxmg4
@@ -64,6 +64,13 @@ author:Ivory Labs|platform:ATMega32u4, PC|pms-id:asm17/real_wild_demo/426|techni
 :ongoing true
 :public-after 2017-08-05 22:15+0300
 
+author:sooda|pms-id:asm17/short_film/300|title:You can make a demo
+author:Extream|pms-id:asm17/short_film/306|title:Hardcoded - Tribute to Oldskool
+author:DatafoxStudios / Melodïcore feat. Iida|pms-id:asm17/short_film/338|title:Trinity
+author:Elite Dekkerz|pms-id:asm17/short_film/398|title:Jallu Vision
+author:SBA|pms-id:asm17/short_film/405|title:antivirus2017.jpg.exe
+author:Barely Coders|pms-id:asm17/short_film/457|title:huonodemo.txt
+author:B2|pms-id:asm17/short_film/463|title:Traveling to Assembly
 
 
 :section Gamedev
