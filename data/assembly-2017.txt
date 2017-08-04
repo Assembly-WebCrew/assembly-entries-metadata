@@ -118,18 +118,18 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 :ongoing true
 :public-after 2017-08-04 18:00+0300
 
-author:(author hidden until results)|pms-id:asm17/dance_music/299|title:Sunlight '06|video-file:dance-music/12 sunlight__06.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/301|title:Glitch City|video-file:dance-music/05 Glitch City.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/317|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/339|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/341|title:LAG|video-file:dance-music/01 lag.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/299|title:Sunlight '06|video-file:dance-music/12 sunlight__06.flac.mp4|youtube:B9RIg04djSg
+author:(author hidden until results)|pms-id:asm17/dance_music/301|title:Glitch City|video-file:dance-music/05 Glitch City.flac.mp4|youtube:7C8R_09Yn4I
+author:(author hidden until results)|pms-id:asm17/dance_music/317|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4|youtube:6_JsQo54uv8
+author:(author hidden until results)|pms-id:asm17/dance_music/339|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4|youtube:Pj3SXvKVduw
+author:(author hidden until results)|pms-id:asm17/dance_music/341|title:LAG|video-file:dance-music/01 lag.flac.mp4|youtube:O-4zAjpoSaE
 author:(author hidden until results)|pms-id:asm17/dance_music/366|title:Heptagoon|video-file:dance-music/07 ØÿZ - heptagoon.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/379|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/385|title:Funktio|video-file:dance-music/03 funktio.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/396|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/400|title:Answering Machine|video-file:dance-music/09 Answering Machine.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/455|title:Of These Stars, Which Shall Be My Home?|video-file:dance-music/08 of_these_stars__which_shall_be_my_home_.flac.mp4
-author:(author hidden until results)|pms-id:asm17/dance_music/476|title:Blockheadchain|video-file:dance-music/06 Blockheadchain.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/379|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4|youtube:8TAYb8QTQVc
+author:(author hidden until results)|pms-id:asm17/dance_music/385|title:Funktio|video-file:dance-music/03 funktio.flac.mp4|youtube:7D5agGMHzU4
+author:(author hidden until results)|pms-id:asm17/dance_music/396|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4|youtube:w3ffd7NHIyk
+author:(author hidden until results)|pms-id:asm17/dance_music/400|title:Answering Machine|video-file:dance-music/09 Answering Machine.flac.mp4|youtube:ysAiVOdReYo
+author:(author hidden until results)|pms-id:asm17/dance_music/455|title:Of These Stars, Which Shall Be My Home?|video-file:dance-music/08 of_these_stars__which_shall_be_my_home_.flac.mp4|youtube:0HhBKYX2mKI
+author:(author hidden until results)|pms-id:asm17/dance_music/476|title:Blockheadchain|video-file:dance-music/06 Blockheadchain.flac.mp4|youtube:WjxG_rSIZH4
 
 
 :section Graphics
@@ -152,6 +152,7 @@ author:(author hidden until results)|pms-id:asm17/graphics/482|title:Kalashnikov
 
 :section Photo
 :pms-category photo
+:ongoing true
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :public-after 2017-08-04 16:45+0300
 
