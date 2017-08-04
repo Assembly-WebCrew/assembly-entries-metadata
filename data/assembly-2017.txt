@@ -63,7 +63,7 @@ author:Ivory Labs|platform:ATMega32u4, PC|pms-id:asm17/real_wild_demo/426|techni
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public-after 2017-08-05 22:15+0300
+:public-after 2017-08-04 22:15+0300
 
 author:sooda|pms-id:asm17/short_film/300|title:You can make a demo|youtube:KvegxJbUb0Q
 author:Extream|pms-id:asm17/short_film/306|title:Hardcoded - Tribute to Oldskool|youtube:v3KntXVg5I8
