@@ -62,21 +62,21 @@
 :ongoing true
 :public-after 2017-08-03 22:00+0300
 
-author:Juhapekka Piiroinen|pms-id:asm17/gamedev/284|title:PixelMaze
-author:Juho Metsävuori|pms-id:asm17/gamedev/285|title:MidSummerSurvival
-author:Teemu Miettinen|pms-id:asm17/gamedev/286|title:Dark Commander
-author:Miika Pelkonen, Anniina Aarnio, Henri Jukkala|pms-id:asm17/gamedev/287|title:Just Fly Dat Thing
-author:Team Möns|pms-id:asm17/gamedev/288|title:FinSummerVR
-author:Juuso Soikkeli|pms-id:asm17/gamedev/289|title:Shotgun Dungeon
-author:FIVR AR/MR Lab|pms-id:asm17/gamedev/290|title:UFO Shooter
-author:Frans Lehmusvaara, Joa Riski, Vili Manninen|pms-id:asm17/gamedev/291|title:Aamusimulaattori
-author:Team Bulldozage|pms-id:asm17/gamedev/292|title:Bulldozage Inc.
-author:Saku Syngelmä|pms-id:asm17/gamedev/293|title:Hakkur
-author:Kepuli Games|pms-id:asm17/gamedev/294|title:Game of Ukkels: Japan Kaiki
-author:Pieslice Productions|pms-id:asm17/gamedev/295|title:Crisis Wing - Caravan Edition
-author:Work In Progress|pms-id:asm17/gamedev/296|title:Trauma
-author:Tikotus|pms-id:asm17/gamedev/297|title:Beach Ball Bears
-author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!
+author:Juhapekka Piiroinen|pms-id:asm17/gamedev/284|title:PixelMaze|youtube:aQuUP1tTf4o
+author:Juho Metsävuori|pms-id:asm17/gamedev/285|title:MidSummerSurvival|youtube:BQQYIwBdO_s
+author:Teemu Miettinen|pms-id:asm17/gamedev/286|title:Dark Commander|youtube:uZeDfyOAcqw
+author:Miika Pelkonen, Anniina Aarnio, Henri Jukkala|pms-id:asm17/gamedev/287|title:Just Fly Dat Thing|youtube:vUPk2-flXiI
+author:Team Möns|pms-id:asm17/gamedev/288|title:FinSummerVR|youtube:H7BeClaXY-Y
+author:Juuso Soikkeli|pms-id:asm17/gamedev/289|title:Shotgun Dungeon|youtube:un9dWTBWEpo
+author:FIVR AR/MR Lab|pms-id:asm17/gamedev/290|title:UFO Shooter|youtube:QdJYQuVun94
+author:Frans Lehmusvaara, Joa Riski, Vili Manninen|pms-id:asm17/gamedev/291|title:Aamusimulaattori|youtube:YBgyEaMcnZA
+author:Team Bulldozage|pms-id:asm17/gamedev/292|title:Bulldozage Inc.|youtube:-LJkR6ixu60
+author:Saku Syngelmä|pms-id:asm17/gamedev/293|title:Hakkur|youtube:7if9OcicvOA
+author:Kepuli Games|pms-id:asm17/gamedev/294|title:Game of Ukkels: Japan Kaiki|youtube:di8ag2rCVZc
+author:Pieslice Productions|pms-id:asm17/gamedev/295|title:Crisis Wing - Caravan Edition|youtube:g9NT4n6SA5U
+author:Work In Progress|pms-id:asm17/gamedev/296|title:Trauma|youtube:89FE7NHU_RA
+author:Tikotus|pms-id:asm17/gamedev/297|title:Beach Ball Bears|youtube:c09GJdGBIGk
+author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!|youtube:TDw7RxFfAmM
 
 
 :section Listening music
@@ -93,23 +93,23 @@ author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!
 :ongoing true
 :public-after 2017-08-04 15:45+0300
 
-author:(author hidden until results)|pms-id:asm17/fast_music/442|title:(2017-1992) + 1 = 26
-author:(author hidden until results)|pms-id:asm17/fast_music/452|title:Dry
-author:(author hidden until results)|pms-id:asm17/fast_music/453|title:Tuliputki
-author:(author hidden until results)|pms-id:asm17/fast_music/454|title:vauhdikas
-author:(author hidden until results)|pms-id:asm17/fast_music/456|title:Congratz Asm!
-author:(author hidden until results)|pms-id:asm17/fast_music/462|title:Assembly, 25 Years!
-author:(author hidden until results)|pms-id:asm17/fast_music/468|title:funcblast.wav
-author:(author hidden until results)|pms-id:asm17/fast_music/471|title:Sakarias
-author:(author hidden until results)|pms-id:asm17/fast_music/473|title:The 25th Year Assy Anthem
-author:(author hidden until results)|pms-id:asm17/fast_music/479|title:GG
-author:(author hidden until results)|pms-id:asm17/fast_music/480|title:Amplified Assembling
-author:(author hidden until results)|pms-id:asm17/fast_music/484|title:Party Hard
-author:(author hidden until results)|pms-id:asm17/fast_music/486|title:Anxiousnessembly
-author:(author hidden until results)|pms-id:asm17/fast_music/487|title:Gargamel stole my unicorn
-author:(author hidden until results)|pms-id:asm17/fast_music/488|title:neural network error
-author:(author hidden until results)|pms-id:asm17/fast_music/490|title:SuperDragonPowerTurbo
-author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar
+author:(author hidden until results)|pms-id:asm17/fast_music/442|title:(2017-1992) + 1 = 26|video-file:fast-music/02 (2017-1992) + 1 = 26.flac.mp4|youtube:2FBKHlu1hD4
+author:(author hidden until results)|pms-id:asm17/fast_music/452|title:Dry|video-file:fast-music/03 dry.flac.mp4|youtube:IVjL_KfQV1g
+author:(author hidden until results)|pms-id:asm17/fast_music/453|title:Tuliputki|video-file:fast-music/14 tuliputki.flac.mp4|youtube:DWAI6lpX-j0
+author:(author hidden until results)|pms-id:asm17/fast_music/454|title:vauhdikas|video-file:fast-music/09 vauhdikas.flac.mp4|youtube:EjUbBsJ0Aow
+author:(author hidden until results)|pms-id:asm17/fast_music/456|title:Congratz Asm!|video-file:fast-music/06 congratz_asm_.flac.mp4|youtube:W48P5UBwslg
+author:(author hidden until results)|pms-id:asm17/fast_music/462|title:Assembly, 25 Years!|video-file:fast-music/12 Assembly, 25 Years!.flac.mp4|youtube:_P2gj16NK6Q
+author:(author hidden until results)|pms-id:asm17/fast_music/468|title:funcblast.wav|video-file:fast-music/05 funcblast.wav.flac.mp4|youtube:Wonc4RGTiDM
+author:(author hidden until results)|pms-id:asm17/fast_music/471|title:Sakarias|video-file:fast-music/01 sakarias.flac.mp4|youtube:JBEGuRg3TKM
+author:(author hidden until results)|pms-id:asm17/fast_music/473|title:The 25th Year Assy Anthem|video-file:fast-music/17 The 25th assy anthem.flac.mp4|youtube:Gm-P1JoMmtI
+author:(author hidden until results)|pms-id:asm17/fast_music/479|title:GG|video-file:fast-music/10 gg.flac.mp4|youtube:lRffNuUdDEw
+author:(author hidden until results)|pms-id:asm17/fast_music/480|title:Amplified Assembling|video-file:fast-music/04 amplified_assembling.flac.mp4|youtube:-x_ULiEjUIs
+author:(author hidden until results)|pms-id:asm17/fast_music/484|title:Party Hard|video-file:fast-music/15 party_hard.flac.mp4|youtube:o0uwqrfSt4Y
+author:(author hidden until results)|pms-id:asm17/fast_music/486|title:Anxiousnessembly|video-file:fast-music/07 anxiousnessembly.flac.mp4|youtube:6anxvxEWmbw
+author:(author hidden until results)|pms-id:asm17/fast_music/487|title:Gargamel stole my unicorn|video-file:fast-music/11 gargamel_stole_my_unicorn.flac.mp4|youtube:dDFja2GplIM
+author:(author hidden until results)|pms-id:asm17/fast_music/488|title:neural network error|video-file:fast-music/13 neural_network_error.flac.mp4|youtube:0UjrmTC2xd8
+author:(author hidden until results)|pms-id:asm17/fast_music/490|title:SuperDragonPowerTurbo|video-file:fast-music/08 superdragonpowerturbo_v1.flac.mp4|youtube:-vEZmW6paWc
+author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|video-file:fast-music/16 vugar.flac.mp4|youtube:2R3NIwz_2yI
 
 
 :section Dance music
