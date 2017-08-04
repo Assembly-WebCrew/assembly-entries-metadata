@@ -13,8 +13,6 @@ UPLOAD_TRIALS = 3
 YOUTUBE_MINIMUM_SLEEP_TIME = 601
 
 parser = argparse.ArgumentParser(description='Upload videos to Youtube.')
-parser.add_argument('email')
-parser.add_argument('password')
 parser.add_argument('files_root', metavar="files-root")
 parser.add_argument('--video-postfix', default=".mp4")
 parser.add_argument('--dry-run', action="store_true")
@@ -22,8 +20,6 @@ parser.add_argument('--media-vod-directory')
 parser.add_argument('--unlisted', action="store_true")
 commandline_args = parser.parse_args(sys.argv[1:])
 
-email = commandline_args.email
-password = commandline_args.password
 files_root = commandline_args.files_root
 video_postfix = commandline_args.video_postfix
 media_vod_directory = commandline_args.media_vod_directory

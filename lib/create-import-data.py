@@ -76,7 +76,7 @@ def generate_section_description(section_data, pms_path_template):
             pms_path = pms_path_template % section['pms-category']
             description += "<p>You can vote these entries at <a href='%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:
-        description += """<p><a href="http://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
+        description += """<p><a href="https://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
 
     return description
 

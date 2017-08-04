@@ -38,7 +38,7 @@ for pms_entry in pms_entries_data:
 
     preview_link = None
     if 'youtube' in updatable_entry:
-        preview_link = u"http://www.youtube.com/watch?v=%s" % updatable_entry['youtube']
+        preview_link = u"https://www.youtube.com/watch?v=%s" % updatable_entry['youtube']
 
     if 'image-file' in updatable_entry:
         key = asmmetadata.get_entry_key(updatable_entry)
