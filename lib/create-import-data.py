@@ -133,7 +133,7 @@ def get_thumbnail_data(entry):
 
 def entry_position_description_factory(pms_vote_template):
     def generator(entry, position_str):
-        if not entry["section"]["ranked"]:
+        if not entry["section"].get("ranked", True):
             return ""
         description = ""
         if entry['section'].get('ongoing', False) is False:
@@ -169,7 +169,7 @@ def print_entry(year, entry, description_generator):
 
     position_str = None
 
-    if entry["section"]["ranked"]:
+    if entry["section"].get("ranked", True):
         if position != 0:
             position_str = str(position) + asmmetadata.get_ordinal_suffix(position) + " place"
 
