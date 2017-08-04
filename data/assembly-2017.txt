@@ -142,16 +142,16 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 :ongoing true
 :public-after 2017-08-04 16:00+0300
 
-author:(author hidden until results)|pms-id:asm17/fast_graphics/415|title:Your vote matters
-author:(author hidden until results)|pms-id:asm17/fast_graphics/420|title:Where did your vote go?
-author:(author hidden until results)|pms-id:asm17/fast_graphics/421|title:No can do
-author:(author hidden until results)|pms-id:asm17/fast_graphics/423|title:Imposter
-author:(author hidden until results)|pms-id:asm17/fast_graphics/424|title:Feline Suffrage
-author:(author hidden until results)|pms-id:asm17/fast_graphics/428|title:Bird Vote
-author:(author hidden until results)|pms-id:asm17/fast_graphics/429|title:I VOTED
-author:(author hidden until results)|pms-id:asm17/fast_graphics/431|title:The aliens already came by earlier
-author:(author hidden until results)|pms-id:asm17/fast_graphics/432|title:The Stone Effect
-author:(author hidden until results)|pms-id:asm17/fast_graphics/433|title:Trololoomeow
+author:(author hidden until results)|pms-id:asm17/fast_graphics/415|title:Your vote matters|image-file:fast-graphics/your_vote_matters.jpg
+author:(author hidden until results)|pms-id:asm17/fast_graphics/420|title:Where did your vote go?|image-file:fast-graphics/where_did_your_vote_go_.png
+author:(author hidden until results)|pms-id:asm17/fast_graphics/421|title:No can do|image-file:fast-graphics/no_can_do.png
+author:(author hidden until results)|pms-id:asm17/fast_graphics/423|title:Imposter|image-file:fast-graphics/imposter.jpg
+author:(author hidden until results)|pms-id:asm17/fast_graphics/424|title:Feline Suffrage|image-file:fast-graphics/feline_suffrage.png
+author:(author hidden until results)|pms-id:asm17/fast_graphics/428|title:Bird Vote|image-file:fast-graphics/bird_vote.png
+author:(author hidden until results)|pms-id:asm17/fast_graphics/429|title:I VOTED|image-file:fast-graphics/i_voted.jpg
+author:(author hidden until results)|pms-id:asm17/fast_graphics/431|title:The aliens already came by earlier|image-file:fast-graphics/the_aliens_already_came_by_earlier.png
+author:(author hidden until results)|pms-id:asm17/fast_graphics/432|title:The Stone Effect|image-file:fast-graphics/the_stone_effect.jpg
+author:(author hidden until results)|pms-id:asm17/fast_graphics/433|title:Trololoomeow|image-file:fast-graphics/trololoomeow.jpg
 
 
 :section Seminars
