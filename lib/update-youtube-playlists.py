@@ -170,7 +170,36 @@ def playlist_remove_extra(yt_service, youtube_entries, section):
 
 
 def playlist_reorder_entries(yt_service, youtube_entries, section):
-    return youtube_entries
+    """Reorders youtube playlist entries into a correct order
+
+    Reordering is done by using a heuristic where the item that needs to
+    be moved the most is always moved to the correct position each
+    iteration.
+    """
+
+    positions = {}
+    for position, video_id in enumerate(get_section_youtube_ids(section)):
+        positions[video_id] = position
+
+    modified = False
+    for _ in xrange(len(positions)):
+        position_changes = {}
+        for youtube_entry in youtube_entries:
+            video_id = youtube_entry["snippet"]["resourceId"]["videoId"]
+            position = youtube_entry["snippet"]["position"]
+            position_changes[video_id] = positions[video_id] - position
+
+        if max(position_changes.values()) == 0:
+            break
+
+        print("TODO doing position changes")
+        max_change_amount = 0
+        max_change_id = 0
+
+    if not modified:
+        return youtube_entries
+
+    return fetch_youtube_playlist_entries(yt_service, section)
 
 
 def update_youtube_playlists(yt_service, entry_data):
