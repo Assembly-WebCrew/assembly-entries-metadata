@@ -9,10 +9,10 @@ def set_playlist_privacy(privacy, yt_service, section):
     if "youtube-playlist" not in section:
         return
     playlist_list = asmyoutube.try_operation(
-        "playlist %s" % section["key"],
+        "playlist %s" % section["name"],
         lambda: yt_service.playlists().list(
             id=section["youtube-playlist"],
-            part="status"
+            part="snippet,status"
         ).execute(),
         sleep=1)
     if not playlist_list["items"]:
@@ -22,12 +22,15 @@ def set_playlist_privacy(privacy, yt_service, section):
     if playlist_status["privacyStatus"] == privacy:
         return
 
+    # Snippet is always required for playlist updates:
+    playlist_snippet = playlist_list["items"][0]["snippet"]
     playlist_status["privacyStatus"] = privacy
     asmyoutube.try_operation(
-        "update playlist privacy %s" % section["key"],
+        "update playlist privacy %s" % section["name"],
         lambda: yt_service.playlists().update(
-            part="status",
+            part="snippet,status",
             body=dict(
+                snippet=playlist_snippet,
                 status=playlist_status,
                 id=section["youtube-playlist"])).execute(),
         sleep=1)
