@@ -488,13 +488,13 @@ def get_youtube_info_data(entry):
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name or not entry["section"]["ranked"]:
-            description += "%s %s competition entry, " % (party_name, section_name)
+            description += "%s %s competition entry" % (party_name, section_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
-                    description += u"%s" % position_str
+                    description += u", %s" % position_str
                 else:
-                    description += u"not qualified to be shown on the big screen"
-                description += u".\n\n"
+                    description += u", not qualified to be shown on the big screen"
+            description += u".\n\n"
         else:
             description += u"%s seminar presentation.\n\n" % party_name
     elif "AssemblyTV" in section_name or "Winter" in section_name:
@@ -513,13 +513,19 @@ def get_youtube_info_data(entry):
     if display_author is not None:
         description += u"Author: %s\n" % display_author
 
-    description += u"\n"
+    newlined = False
 
     pouet = entry.get('pouet', None)
     if pouet is not None:
+        if not newlined:
+            description += u"\n"
+            newlined = True
         description += u"Pouet.net: http://pouet.net/prod.php?which=%s\n" % urllib.quote_plus(pouet.strip())
 
     if 'download' in entry:
+        if not newlined:
+            description += u"\n"
+            newlined = True
         download = entry['download']
         download_type = "Download original:"
         if "game" in section_name.lower():
@@ -527,6 +533,9 @@ def get_youtube_info_data(entry):
         description += "%s: %s\n" % (download_type, download)
 
     if 'sceneorg' in entry:
+        if not newlined:
+            description += u"\n"
+            newlined = True
         sceneorg = entry['sceneorg']
         download_type = "original"
         if "game" in section_name.lower():
@@ -543,9 +552,15 @@ def get_youtube_info_data(entry):
                 download_type, urllib.quote_plus(sceneorg))
 
     if 'sceneorgvideo' in entry:
+        if not newlined:
+            description += u"\n"
+            newlined = True
         sceneorgvideo = entry['sceneorgvideo']
         description += "Download high quality video: http://www.scene.org/file.php?file=%s\n" % urllib.quote_plus(sceneorgvideo)
     elif 'media' in entry:
+        if not newlined:
+            description += u"\n"
+            newlined = True
         mediavideo = entry['media']
         description += "Download high quality video: http://media.assembly.org%s\n" % mediavideo
 
