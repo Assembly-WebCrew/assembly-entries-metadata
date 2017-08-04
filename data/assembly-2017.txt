@@ -85,19 +85,19 @@ author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!|yout
 :ongoing true
 :public-after 2017-08-04 20:00+0300
 
-author:(author hidden until results)|pms-id:asm17/listening_music/312|title:Sanguis (Assy Edit)
-author:(author hidden until results)|pms-id:asm17/listening_music/314|title:Can't Stop Now
-author:(author hidden until results)|pms-id:asm17/listening_music/327|title:Moonshine Reggae
-author:(author hidden until results)|pms-id:asm17/listening_music/328|title:Dragons. Definitely Dragons.
-author:(author hidden until results)|pms-id:asm17/listening_music/342|title:Intro
-author:(author hidden until results)|pms-id:asm17/listening_music/344|title:Semper Invicta
-author:(author hidden until results)|pms-id:asm17/listening_music/368|title:Chips of Steel
-author:(author hidden until results)|pms-id:asm17/listening_music/371|title:Deathnought Nautilus Stage
-author:(author hidden until results)|pms-id:asm17/listening_music/373|title:Exit Dystopia
-author:(author hidden until results)|pms-id:asm17/listening_music/376|title:Bittersweet Game Over
-author:(author hidden until results)|pms-id:asm17/listening_music/383|title:Pure Bladestone
-author:(author hidden until results)|pms-id:asm17/listening_music/427|title:Oodi taidottomalle
-author:(author hidden until results)|pms-id:asm17/listening_music/436|title:Conventus Cantio
+author:(author hidden until results)|pms-id:asm17/listening_music/312|title:Sanguis (Assy Edit)|video-file:listening-music/06_sanguis_(assy_edit).flac.mp4|youtube:5Ygv5gmRT9k
+author:(author hidden until results)|pms-id:asm17/listening_music/314|title:Can't Stop Now|video-file:listening-music/08_can_t_stop_now.flac.mp4|youtube:kr3bOZ-PIZo
+author:(author hidden until results)|pms-id:asm17/listening_music/327|title:Moonshine Reggae|video-file:listening-music/03_MoonShine Reggae.flac.mp4|youtube:G_nI9NKN5Ms
+author:(author hidden until results)|pms-id:asm17/listening_music/328|title:Dragons. Definitely Dragons.|video-file:listening-music/11_dragons._definitely_dragons..flac.mp4|youtube:XMLQRMQ-Muo
+author:(author hidden until results)|pms-id:asm17/listening_music/342|title:Intro|video-file:listening-music/01_intro.flac.mp4|youtube:FP2NWW6fsRc
+author:(author hidden until results)|pms-id:asm17/listening_music/344|title:Semper Invicta|video-file:listening-music/10_Semper Invicta.flac.mp4|youtube:b3UHLSI54GE
+author:(author hidden until results)|pms-id:asm17/listening_music/368|title:Chips of Steel|video-file:listening-music/05_Chips of Steel.flac.mp4|youtube:_bn1DzBMzDM
+author:(author hidden until results)|pms-id:asm17/listening_music/371|title:Deathnought Nautilus Stage|video-file:listening-music/13_deathnought_nautilus_stage.flac.mp4|youtube:EN34Gg8xCY4
+author:(author hidden until results)|pms-id:asm17/listening_music/373|title:Exit Dystopia|video-file:listening-music/12_exit_dystopia.flac.mp4|youtube:ipCDSLxYKho
+author:(author hidden until results)|pms-id:asm17/listening_music/376|title:Bittersweet Game Over|video-file:listening-music/09_bittersweet_game_over.flac.mp4|youtube:pVL2RYoaRbY
+author:(author hidden until results)|pms-id:asm17/listening_music/383|title:Pure Bladestone|video-file:listening-music/02_pure_bladestone.flac.mp4|youtube:S4KR9KEVvL0
+author:(author hidden until results)|pms-id:asm17/listening_music/427|title:Oodi taidottomalle|video-file:listening-music/07_oodi_taidottomalle.flac.mp4|youtube:3ucL1scAQqw
+author:(author hidden until results)|pms-id:asm17/listening_music/436|title:Conventus Cantio|video-file:listening-music/04_Conventus cantio.flac.mp4|youtube:SKGe-XrI6qo
 
 
 :section Fast music
@@ -136,7 +136,7 @@ author:(author hidden until results)|pms-id:asm17/dance_music/301|title:Glitch C
 author:(author hidden until results)|pms-id:asm17/dance_music/317|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4|youtube:6_JsQo54uv8
 author:(author hidden until results)|pms-id:asm17/dance_music/339|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4|youtube:Pj3SXvKVduw
 author:(author hidden until results)|pms-id:asm17/dance_music/341|title:LAG|video-file:dance-music/01 lag.flac.mp4|youtube:O-4zAjpoSaE
-author:(author hidden until results)|pms-id:asm17/dance_music/366|title:Heptagoon|video-file:dance-music/07 ØÿZ - heptagoon.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/366|title:Heptagoon|video-file:dance-music/07-heptagoon.flac.mp4|youtube:b0YBBQPzVbQ
 author:(author hidden until results)|pms-id:asm17/dance_music/379|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4|youtube:8TAYb8QTQVc
 author:(author hidden until results)|pms-id:asm17/dance_music/385|title:Funktio|video-file:dance-music/03 funktio.flac.mp4|youtube:7D5agGMHzU4
 author:(author hidden until results)|pms-id:asm17/dance_music/396|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4|youtube:w3ffd7NHIyk
