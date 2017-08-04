@@ -118,6 +118,18 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 :ongoing true
 :public-after 2017-08-04 18:00+0300
 
+author:(author hidden until results)|pms-id:asm17/dance_music/299|title:Sunlight '06|video-file:dance-music/12 sunlight__06.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/301|title:Glitch City|video-file:dance-music/05 Glitch City.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/317|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/339|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/341|title:LAG|video-file:dance-music/01 lag.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/366|title:Heptagoon|video-file:dance-music/07 ØÿZ - heptagoon.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/379|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/385|title:Funktio|video-file:dance-music/03 funktio.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/396|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/400|title:Answering Machine|video-file:dance-music/09 Answering Machine.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/455|title:Of These Stars, Which Shall Be My Home?|video-file:dance-music/08 of_these_stars__which_shall_be_my_home_.flac.mp4
+author:(author hidden until results)|pms-id:asm17/dance_music/476|title:Blockheadchain|video-file:dance-music/06 Blockheadchain.flac.mp4
 
 
 :section Graphics
@@ -126,14 +138,36 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 :ongoing true
 :public-after 2017-08-04 18:45+0300
 
+author:(author hidden until results)|pms-id:asm17/graphics/318|title:Target ETA at Meguro District Hyperloop: 7 Minutes|image-file:graphics/target-eta-at-meguro-district-hyperloop-7-minutes_nosig.png
+author:(author hidden until results)|pms-id:asm17/graphics/322|title:Since 1942|image-file:graphics/since_1942_nosig.png
+author:(author hidden until results)|pms-id:asm17/graphics/334|title:My Lion is Dead|image-file:graphics/my_lion_is_dead_nosig.png
+author:(author hidden until results)|pms-id:asm17/graphics/356|title:Plague Brigade|image-file:graphics/Plague_Brigade_nosig.jpg
+author:(author hidden until results)|pms-id:asm17/graphics/360|title:Ruins of the ancient era|image-file:graphics/Ruins_of_the_ancient_era_no_sig.png
+author:(author hidden until results)|pms-id:asm17/graphics/362|title:Polygon Dreams|image-file:graphics/polygon_dreams_UNSIGNED.png
+author:(author hidden until results)|pms-id:asm17/graphics/389|title:Jack in the box|image-file:graphics/jack_in_the_box_nosig.jpg
+author:(author hidden until results)|pms-id:asm17/graphics/395|title:Wrong planet!!|image-file:graphics/wrong_planet_final_nosig.jpg
+author:(author hidden until results)|pms-id:asm17/graphics/404|title:Heart of the forest|image-file:graphics/Forest_Unsig.jpg
+author:(author hidden until results)|pms-id:asm17/graphics/482|title:Kalashnikov Caricature|image-file:graphics/Kalashnikov_Caricature_nosig.png
 
 
 :section Photo
 :pms-category photo
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
-:public false
-:public-after 2017-08-04 17:15+0300
+:public-after 2017-08-04 16:45+0300
 
+author:(author hidden until results)|image-file:photo/kaupungin valot compo.jpg|pms-id:asm17/photo/283|title:Kaupungin valot / City lights
+author:(author hidden until results)|image-file:photo/expedition-to-athena-prime-iv.png|pms-id:asm17/photo/315|title:Expedition to Athena Prime IV
+author:(author hidden until results)|image-file:photo/Guardian angel.jpg|pms-id:asm17/photo/323|title:Guardian Angel
+author:(author hidden until results)|image-file:photo/PinkLady.jpg|pms-id:asm17/photo/350|title:Pink Lady
+author:(author hidden until results)|image-file:photo/beam_me_up_nosig.jpg|pms-id:asm17/photo/358|title:Beam me up
+author:(author hidden until results)|image-file:photo/CrackOfDawn_SHOW_THIS.png|pms-id:asm17/photo/370|title:Crack Of Dawn
+author:(author hidden until results)|image-file:photo/Violetta.jpg|pms-id:asm17/photo/377|title:Violetta
+author:(author hidden until results)|image-file:photo/The_quest_begins.jpg|pms-id:asm17/photo/391|title:The Quest Begins
+author:(author hidden until results)|image-file:photo/Bridge_over_troubled_water.jpg|pms-id:asm17/photo/397|title:Bridge over troubled water
+author:(author hidden until results)|image-file:photo/Fiery breakfast.jpg|pms-id:asm17/photo/434|title:Fiery breakfast
+author:(author hidden until results)|image-file:photo/dont-look-through-bw-glasses.jpg|pms-id:asm17/photo/443|title:Don't look at the world through black and white glasses
+author:(author hidden until results)|image-file:photo/sormiin_sattuu.JPG|pms-id:asm17/photo/467|title:Sormiin sattuu
+author:(author hidden until results)|image-file:photo/good_morning_v1.jpg|pms-id:asm17/photo/472|title:good morning
 
 
 :section Fast graphics
@@ -142,16 +176,16 @@ author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar|vi
 :ongoing true
 :public-after 2017-08-04 16:00+0300
 
-author:(author hidden until results)|pms-id:asm17/fast_graphics/415|title:Your vote matters|image-file:fast-graphics/your_vote_matters.jpg
-author:(author hidden until results)|pms-id:asm17/fast_graphics/420|title:Where did your vote go?|image-file:fast-graphics/where_did_your_vote_go_.png
-author:(author hidden until results)|pms-id:asm17/fast_graphics/421|title:No can do|image-file:fast-graphics/no_can_do.png
-author:(author hidden until results)|pms-id:asm17/fast_graphics/423|title:Imposter|image-file:fast-graphics/imposter.jpg
-author:(author hidden until results)|pms-id:asm17/fast_graphics/424|title:Feline Suffrage|image-file:fast-graphics/feline_suffrage.png
-author:(author hidden until results)|pms-id:asm17/fast_graphics/428|title:Bird Vote|image-file:fast-graphics/bird_vote.png
-author:(author hidden until results)|pms-id:asm17/fast_graphics/429|title:I VOTED|image-file:fast-graphics/i_voted.jpg
-author:(author hidden until results)|pms-id:asm17/fast_graphics/431|title:The aliens already came by earlier|image-file:fast-graphics/the_aliens_already_came_by_earlier.png
-author:(author hidden until results)|pms-id:asm17/fast_graphics/432|title:The Stone Effect|image-file:fast-graphics/the_stone_effect.jpg
-author:(author hidden until results)|pms-id:asm17/fast_graphics/433|title:Trololoomeow|image-file:fast-graphics/trololoomeow.jpg
+author:(author hidden until results)|image-file:fast-graphics/your_vote_matters.jpg|pms-id:asm17/fast_graphics/415|title:Your vote matters
+author:(author hidden until results)|image-file:fast-graphics/where_did_your_vote_go_.png|pms-id:asm17/fast_graphics/420|title:Where did your vote go?
+author:(author hidden until results)|image-file:fast-graphics/no_can_do.png|pms-id:asm17/fast_graphics/421|title:No can do
+author:(author hidden until results)|image-file:fast-graphics/imposter.jpg|pms-id:asm17/fast_graphics/423|title:Imposter
+author:(author hidden until results)|image-file:fast-graphics/feline_suffrage.png|pms-id:asm17/fast_graphics/424|title:Feline Suffrage
+author:(author hidden until results)|image-file:fast-graphics/bird_vote.png|pms-id:asm17/fast_graphics/428|title:Bird Vote
+author:(author hidden until results)|image-file:fast-graphics/i_voted.jpg|pms-id:asm17/fast_graphics/429|title:I VOTED
+author:(author hidden until results)|image-file:fast-graphics/the_aliens_already_came_by_earlier.png|pms-id:asm17/fast_graphics/431|title:The aliens already came by earlier
+author:(author hidden until results)|image-file:fast-graphics/the_stone_effect.jpg|pms-id:asm17/fast_graphics/432|title:The Stone Effect
+author:(author hidden until results)|image-file:fast-graphics/trololoomeow.jpg|pms-id:asm17/fast_graphics/433|title:Trololoomeow
 
 
 :section Seminars
