@@ -1,130 +1,188 @@
 :year 2017
 
 :section Demo
-:ongoing true
-:public-after 2017-08-06 00:00:00+0300
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2017 PC computer.</p>
+:ongoing true
+:public-after 2017-08-06 00:00+0300
+
 
 
 :section 64k intro
-:ongoing true
-:public-after 2017-08-05 22:30:00+0300
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2017 PC computer.</p>
+:ongoing true
+:public-after 2017-08-05 22:30+0300
 
 
 
 :section 4k intro
-:ongoing true
-:public-after 2017-08-05 21:00:00+0300
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2017 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:ongoing true
+:public-after 2017-08-05 21:00+0300
+
 
 
 :section 1k intro
-:ongoing true
-:public-after 2017-08-05 20:00:00+0300
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2017 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:ongoing true
+:public-after 2017-08-05 20:00+0300
+
 
 
 :section Real wild demo
-:ongoing true
-:public-after 2017-08-04 21:45:00+0300
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+:ongoing true
+:public-after 2017-08-04 21:45+0300
+
 
 
 :section Oldskool demo
-:ongoing true
-:public-after 2017-08-05 19:00:00+0300
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:ongoing true
+:public-after 2017-08-05 19:00+0300
+
 
 
 :section Short film
-:ongoing true
-:public-after 2017-08-05 22:15:00+0300
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+:ongoing true
+:public-after 2017-08-05 22:15+0300
+
 
 
 :section Gamedev
-:ongoing true
-:public-after 2017-08-03 22:00:00+0300
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+:ongoing true
+:public-after 2017-08-03 22:00+0300
+
+author:Juhapekka Piiroinen|pms-id:asm17/gamedev/284|title:PixelMaze
+author:Juho Metsävuori|pms-id:asm17/gamedev/285|title:MidSummerSurvival
+author:Teemu Miettinen|pms-id:asm17/gamedev/286|title:Dark Commander
+author:Miika Pelkonen, Anniina Aarnio, Henri Jukkala|pms-id:asm17/gamedev/287|title:Just Fly Dat Thing
+author:Team Möns|pms-id:asm17/gamedev/288|title:FinSummerVR
+author:Juuso Soikkeli|pms-id:asm17/gamedev/289|title:Shotgun Dungeon
+author:FIVR AR/MR Lab|pms-id:asm17/gamedev/290|title:UFO Shooter
+author:Frans Lehmusvaara, Joa Riski, Vili Manninen|pms-id:asm17/gamedev/291|title:Aamusimulaattori
+author:Team Bulldozage|pms-id:asm17/gamedev/292|title:Bulldozage Inc.
+author:Saku Syngelmä|pms-id:asm17/gamedev/293|title:Hakkur
+author:Kepuli Games|pms-id:asm17/gamedev/294|title:Game of Ukkels: Japan Kaiki
+author:Pieslice Productions|pms-id:asm17/gamedev/295|title:Crisis Wing - Caravan Edition
+author:Work In Progress|pms-id:asm17/gamedev/296|title:Trauma
+author:Tikotus|pms-id:asm17/gamedev/297|title:Beach Ball Bears
+author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!
 
 
 :section Listening music
-:ongoing true
-:public-after 2017-08-04 20:00:00+0300
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
+:ongoing true
+:public-after 2017-08-04 20:00+0300
+
 
 
 :section Fast music
-:ongoing true
-:public-after 2017-08-04 15:45:00+0300
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:ongoing true
+:public-after 2017-08-04 15:45+0300
+
+author:(author hidden until results)|pms-id:asm17/fast_music/442|title:(2017-1992) + 1 = 26
+author:(author hidden until results)|pms-id:asm17/fast_music/452|title:Dry
+author:(author hidden until results)|pms-id:asm17/fast_music/453|title:Tuliputki
+author:(author hidden until results)|pms-id:asm17/fast_music/454|title:vauhdikas
+author:(author hidden until results)|pms-id:asm17/fast_music/456|title:Congratz Asm!
+author:(author hidden until results)|pms-id:asm17/fast_music/462|title:Assembly, 25 Years!
+author:(author hidden until results)|pms-id:asm17/fast_music/468|title:funcblast.wav
+author:(author hidden until results)|pms-id:asm17/fast_music/471|title:Sakarias
+author:(author hidden until results)|pms-id:asm17/fast_music/473|title:The 25th Year Assy Anthem
+author:(author hidden until results)|pms-id:asm17/fast_music/479|title:GG
+author:(author hidden until results)|pms-id:asm17/fast_music/480|title:Amplified Assembling
+author:(author hidden until results)|pms-id:asm17/fast_music/484|title:Party Hard
+author:(author hidden until results)|pms-id:asm17/fast_music/486|title:Anxiousnessembly
+author:(author hidden until results)|pms-id:asm17/fast_music/487|title:Gargamel stole my unicorn
+author:(author hidden until results)|pms-id:asm17/fast_music/488|title:neural network error
+author:(author hidden until results)|pms-id:asm17/fast_music/490|title:SuperDragonPowerTurbo
+author:(author hidden until results)|pms-id:asm17/fast_music/491|title:Vulgar
 
 
 :section Dance music
-:ongoing true
-:public-after 2017-08-04 18:00:00+0300
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
+:ongoing true
+:public-after 2017-08-04 18:00+0300
+
 
 
 :section Graphics
-:ongoing true
-:public-after 2017-08-04 18:45:00+0300
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:ongoing true
+:public-after 2017-08-04 18:45+0300
+
 
 
 :section Photo
-:public-after 2017-08-04 17:15:00+0300
-:public false
 :pms-category photo
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
+:public false
+:public-after 2017-08-04 17:15+0300
+
 
 
 :section Fast graphics
-:ongoing true
-:public-after 2017-08-04 16:00:00+0300
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Voter Fraud" theme.</p>
+:ongoing true
+:public-after 2017-08-04 16:00+0300
+
+author:(author hidden until results)|pms-id:asm17/fast_graphics/415|title:Your vote matters
+author:(author hidden until results)|pms-id:asm17/fast_graphics/420|title:Where did your vote go?
+author:(author hidden until results)|pms-id:asm17/fast_graphics/421|title:No can do
+author:(author hidden until results)|pms-id:asm17/fast_graphics/423|title:Imposter
+author:(author hidden until results)|pms-id:asm17/fast_graphics/424|title:Feline Suffrage
+author:(author hidden until results)|pms-id:asm17/fast_graphics/428|title:Bird Vote
+author:(author hidden until results)|pms-id:asm17/fast_graphics/429|title:I VOTED
+author:(author hidden until results)|pms-id:asm17/fast_graphics/431|title:The aliens already came by earlier
+author:(author hidden until results)|pms-id:asm17/fast_graphics/432|title:The Stone Effect
+author:(author hidden until results)|pms-id:asm17/fast_graphics/433|title:Trololoomeow
 
 
 :section Seminars
-:public false
 :ranked false
 :author-in-title false
 :elaine-category 2017 Seminars
+:public false
 
 
 
 :section AssemblyTV
-:public false
 :ranked false
 :author-in-title false
 :elaine-category 2017 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:public false
 
 
 
 :section eSports
-:public false
 :ranked false
 :author-in-title false
 :elaine-category 2017 Games
+:public false
+
 
 
 :section Winter
-:public false
 :ranked false
 :author-in-title false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2017.</p>
+:public false
+
+
