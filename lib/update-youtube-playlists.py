@@ -28,7 +28,7 @@ def get_playlist_description(section):
     return playlist_description
 
 
-def create_playlist(yt_service, entry_data, section):
+def create_playlist(yt_service, entry_data, section, privacy):
     playlist_title = get_playlist_title(section)
     playlist_description = get_playlist_description(section)
 
@@ -40,7 +40,7 @@ def create_playlist(yt_service, entry_data, section):
                 description=playlist_description
                 ),
             status=dict(
-                privacyStatus="public"
+                privacyStatus=privacy
                 )
             )
         ).execute()
@@ -202,7 +202,7 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
     return fetch_youtube_playlist_entries(yt_service, section)
 
 
-def update_youtube_playlists(yt_service, entry_data):
+def update_youtube_playlists(yt_service, entry_data, privacy):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
         sys.stderr.write("[ %s ]\n" % section['name'].encode("utf-8"))
@@ -212,7 +212,7 @@ def update_youtube_playlists(yt_service, entry_data):
                 continue
             print "Creating playlist"
             section['youtube-playlist'] = create_playlist(
-                yt_service, entry_data, section)
+                yt_service, entry_data, section, privacy)
             time.sleep(5)
         playlist = get_playlist(yt_service, section)
         playlist_modify_info(yt_service, playlist, section)
@@ -228,6 +228,9 @@ def update_youtube_playlists(yt_service, entry_data):
 def main(argv=sys.argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")
+    parser.add_argument(
+        "--privacy", default="public",
+        choices=["public", "private", "unlisted"])
     parser.add_argument("--sections", default="")
     asmyoutube.add_auth_args(parser)
     args = parser.parse_args(argv[1:])
@@ -238,7 +241,7 @@ def main(argv=sys.argv):
     result = os.EX_OK
 
     try:
-        update_youtube_playlists(yt_service, entry_data)
+        update_youtube_playlists(yt_service, entry_data, args.privacy)
     except KeyboardInterrupt:
         result = os.DATAERR
         print "Interrupted"
