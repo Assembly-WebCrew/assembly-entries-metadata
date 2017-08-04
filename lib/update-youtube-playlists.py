@@ -202,9 +202,11 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
     return fetch_youtube_playlist_entries(yt_service, section)
 
 
-def update_youtube_playlists(yt_service, entry_data, privacy):
+def update_youtube_playlists(yt_service, entry_data, sections, privacy):
     print "= %d =" % entry_data.year
     for section in entry_data.sections:
+        if sections and section["key"] not in sections:
+            continue
         sys.stderr.write("[ %s ]\n" % section['name'].encode("utf-8"))
 
         if 'youtube-playlist' not in section:
@@ -231,7 +233,7 @@ def main(argv=sys.argv):
     parser.add_argument(
         "--privacy", default="public",
         choices=["public", "private", "unlisted"])
-    parser.add_argument("--sections", default="")
+    parser.add_argument("--section", default="")
     asmyoutube.add_auth_args(parser)
     args = parser.parse_args(argv[1:])
     yt_service = asmyoutube.get_authenticated_service(args)
@@ -240,8 +242,11 @@ def main(argv=sys.argv):
 
     result = os.EX_OK
 
+    sections = [x.strip() for x in args.section.split(",")]
+
     try:
-        update_youtube_playlists(yt_service, entry_data, args.privacy)
+        update_youtube_playlists(
+            yt_service, entry_data, sections, args.privacy)
     except KeyboardInterrupt:
         result = os.DATAERR
         print "Interrupted"
