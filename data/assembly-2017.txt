@@ -85,6 +85,19 @@ author:Clusterloop|pms-id:asm17/gamedev/298|title:Medical Force: Overdrive!|yout
 :ongoing true
 :public-after 2017-08-04 20:00+0300
 
+author:(author hidden until results)|pms-id:asm17/listening_music/312|title:Sanguis (Assy Edit)
+author:(author hidden until results)|pms-id:asm17/listening_music/314|title:Can't Stop Now
+author:(author hidden until results)|pms-id:asm17/listening_music/327|title:Moonshine Reggae
+author:(author hidden until results)|pms-id:asm17/listening_music/328|title:Dragons. Definitely Dragons.
+author:(author hidden until results)|pms-id:asm17/listening_music/342|title:Intro
+author:(author hidden until results)|pms-id:asm17/listening_music/344|title:Semper Invicta
+author:(author hidden until results)|pms-id:asm17/listening_music/368|title:Chips of Steel
+author:(author hidden until results)|pms-id:asm17/listening_music/371|title:Deathnought Nautilus Stage
+author:(author hidden until results)|pms-id:asm17/listening_music/373|title:Exit Dystopia
+author:(author hidden until results)|pms-id:asm17/listening_music/376|title:Bittersweet Game Over
+author:(author hidden until results)|pms-id:asm17/listening_music/383|title:Pure Bladestone
+author:(author hidden until results)|pms-id:asm17/listening_music/427|title:Oodi taidottomalle
+author:(author hidden until results)|pms-id:asm17/listening_music/436|title:Conventus Cantio
 
 
 :section Fast music
@@ -138,22 +151,22 @@ author:(author hidden until results)|pms-id:asm17/dance_music/476|title:Blockhea
 :ongoing true
 :public-after 2017-08-04 18:45+0300
 
-author:(author hidden until results)|pms-id:asm17/graphics/318|title:Target ETA at Meguro District Hyperloop: 7 Minutes|image-file:graphics/target-eta-at-meguro-district-hyperloop-7-minutes_nosig.png
-author:(author hidden until results)|pms-id:asm17/graphics/322|title:Since 1942|image-file:graphics/since_1942_nosig.png
-author:(author hidden until results)|pms-id:asm17/graphics/334|title:My Lion is Dead|image-file:graphics/my_lion_is_dead_nosig.png
-author:(author hidden until results)|pms-id:asm17/graphics/356|title:Plague Brigade|image-file:graphics/Plague_Brigade_nosig.jpg
-author:(author hidden until results)|pms-id:asm17/graphics/360|title:Ruins of the ancient era|image-file:graphics/Ruins_of_the_ancient_era_no_sig.png
-author:(author hidden until results)|pms-id:asm17/graphics/362|title:Polygon Dreams|image-file:graphics/polygon_dreams_UNSIGNED.png
-author:(author hidden until results)|pms-id:asm17/graphics/389|title:Jack in the box|image-file:graphics/jack_in_the_box_nosig.jpg
-author:(author hidden until results)|pms-id:asm17/graphics/395|title:Wrong planet!!|image-file:graphics/wrong_planet_final_nosig.jpg
-author:(author hidden until results)|pms-id:asm17/graphics/404|title:Heart of the forest|image-file:graphics/Forest_Unsig.jpg
-author:(author hidden until results)|pms-id:asm17/graphics/482|title:Kalashnikov Caricature|image-file:graphics/Kalashnikov_Caricature_nosig.png
+author:(author hidden until results)|image-file:graphics/target-eta-at-meguro-district-hyperloop-7-minutes_nosig.png|pms-id:asm17/graphics/318|title:Target ETA at Meguro District Hyperloop: 7 Minutes
+author:(author hidden until results)|image-file:graphics/since_1942_nosig.png|pms-id:asm17/graphics/322|title:Since 1942
+author:(author hidden until results)|image-file:graphics/my_lion_is_dead_nosig.png|pms-id:asm17/graphics/334|title:My Lion is Dead
+author:(author hidden until results)|image-file:graphics/Plague_Brigade_nosig.jpg|pms-id:asm17/graphics/356|title:Plague Brigade
+author:(author hidden until results)|image-file:graphics/Ruins_of_the_ancient_era_no_sig.png|pms-id:asm17/graphics/360|title:Ruins of the ancient era
+author:(author hidden until results)|image-file:graphics/polygon_dreams_UNSIGNED.png|pms-id:asm17/graphics/362|title:Polygon Dreams
+author:(author hidden until results)|image-file:graphics/jack_in_the_box_nosig.jpg|pms-id:asm17/graphics/389|title:Jack in the box
+author:(author hidden until results)|image-file:graphics/wrong_planet_final_nosig.jpg|pms-id:asm17/graphics/395|title:Wrong planet!!
+author:(author hidden until results)|image-file:graphics/Forest_Unsig.jpg|pms-id:asm17/graphics/404|title:Heart of the forest
+author:(author hidden until results)|image-file:graphics/Kalashnikov_Caricature_nosig.png|pms-id:asm17/graphics/482|title:Kalashnikov Caricature
 
 
 :section Photo
 :pms-category photo
-:ongoing true
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
+:ongoing true
 :public-after 2017-08-04 16:45+0300
 
 author:(author hidden until results)|image-file:photo/kaupungin valot compo.jpg|pms-id:asm17/photo/283|title:Kaupungin valot / City lights
