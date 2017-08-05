@@ -6,14 +6,31 @@
 :ongoing true
 :public-after 2017-08-06 00:00+0300
 
+author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|techniques:Unity, bread, no sleep|title:Alternative Bread Facts
+author:Melancholy|platform:pc|pms-id:asm17/demo/506|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification
+author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|techniques:Fusion, Blender, PS|title:Attempt6
+author:Adapt|platform:Windows|pms-id:asm17/demo/515|techniques:Ill Tecniques, QT/QML, OpenGL 4.5|title:Zoomin
+author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt
+author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|techniques:threejs, haxe|title:Bit of Light
+author:CNCD Fairlight|platform:PC|pms-id:asm17/demo/522|techniques:Made with Notch|title:Sokia
+author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|techniques:DirectX|title:fuzzy MUTATIONs
+author:Rustbloom|platform:PC|pms-id:asm17/demo/532|techniques:slicing|title:de_bust funk de_lax
+author:Epoch|platform:PC|pms-id:asm17/demo/534|techniques:E are back|title:Extra
+author:JUGZ|platform:Windows|pms-id:asm17/demo/535|techniques:Unity|title:Geometry Gods
+author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|techniques:DX9|title:Alkaline
+author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|techniques:Qt and C++|title:Muumiland
 
 
 :section 64k intro
+:youtube-playlist PLJO4AtxKJiFOpBSuVXp3y55Nhyq-aurXR
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2017 PC computer.</p>
 :ongoing true
-:public-after 2017-08-05 22:30+0300
+:public-after 2017-08-05 22:15+0300
 
+author:Deluxe & Premium|platform:Windows|pms-id:asm17/64k/504|techniques:OpenGL 4.5|title:Uusimaa|youtube:gNCQsMzXEec
+author:ivory labs|platform:8k windows|pms-id:asm17/64k/533|techniques:leviathan 2.0, no crinkler|title:Down the Drain|youtube:1x_cGu8wsto
+author:Quadtrip|platform:OSX|pms-id:asm17/64k/539|techniques:gcc + upx + opengl + bytebeat + Fimpo Collier|title:F. Collier|youtube:iu7FFGgwBzQ
 
 
 :section 4k intro
