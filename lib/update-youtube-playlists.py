@@ -181,7 +181,14 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
     for position, video_id in enumerate(get_section_youtube_ids(section)):
         positions[video_id] = position
 
+    entries_video_id = {}
+    for youtube_entry in youtube_entries:
+        video_id = youtube_entry["snippet"]["resourceId"]["videoId"]
+        entries_video_id[video_id] = youtube_entry
+
     modified = False
+    # We shouldn't exceed the amount of entries when doing playlist
+    # reorderings:
     for _ in xrange(len(positions)):
         position_changes = {}
         for youtube_entry in youtube_entries:
@@ -189,12 +196,51 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
             position = youtube_entry["snippet"]["position"]
             position_changes[video_id] = positions[video_id] - position
 
-        if max(position_changes.values()) == 0:
+        max_change_abs = 0
+        max_change_id = None
+
+        # Find max position change:
+        for video_id, position_change in position_changes.items():
+            if abs(position_change) > max_change_abs:
+                max_change_abs = abs(position_change)
+                max_change_id = video_id
+        if max_change_abs == 0:
             break
 
-        print("TODO doing position changes")
-        max_change_amount = 0
-        max_change_id = 0
+        max_change_amount = position_changes[max_change_id]
+        max_change_entry = entries_video_id[max_change_id]
+        old_position = max_change_entry["snippet"]["position"]
+        new_position = old_position + max_change_amount
+
+        if max_change_amount < 0:
+            for youtube_entry in youtube_entries:
+                if youtube_entry["snippet"]["position"] > old_position:
+                    continue
+                if youtube_entry["snippet"]["position"] < new_position:
+                    continue
+                youtube_entry["snippet"]["position"] += 1
+        else:
+            for youtube_entry in youtube_entries:
+                if youtube_entry["snippet"]["position"] < old_position:
+                    continue
+                if youtube_entry["snippet"]["position"] > new_position:
+                    continue
+                youtube_entry["snippet"]["position"] -= 1
+
+        max_change_entry["snippet"]["position"] = new_position
+        asmyoutube.try_operation(
+            u"Updating position %d->%d: %s" % (
+                old_position,
+                new_position,
+                max_change_entry["snippet"]["title"]),
+            lambda: yt_service.playlistItems().update(
+                part="snippet",
+                body=dict(
+                    playlistId=section["youtube-playlist"],
+                    id=max_change_entry["id"],
+                    snippet=max_change_entry["snippet"])
+            ).execute()
+        )
 
     if not modified:
         return youtube_entries
@@ -242,7 +288,9 @@ def main(argv=sys.argv):
 
     result = os.EX_OK
 
-    sections = [x.strip() for x in args.section.split(",")]
+    sections = []
+    if args.section:
+        sections = [x.strip() for x in args.section.split(",")]
 
     try:
         update_youtube_playlists(
@@ -252,7 +300,7 @@ def main(argv=sys.argv):
         print "Interrupted"
     except Exception, e:
         result = os.EX_SOFTWARE
-        print "EXCEPTION Unknown exception happened: %s" % e.message
+        print "EXCEPTION Unknown exception happened: %s" % e
 
     fp = open(args.datafile, "wb")
     asmmetadata.print_metadata(fp, entry_data)
