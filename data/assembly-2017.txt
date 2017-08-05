@@ -61,16 +61,16 @@ author:xinux & edvind|platform:win10|pms-id:asm17/real_wild_demo/409|position:9|
 :ongoing true
 :public-after 2017-08-05 19:00+0300
 
-author:Quadtrip|pms-id:asm17/oldskool_demo/303|title:Broken
-author:V-Nom|pms-id:asm17/oldskool_demo/384|title:Silent Winds
-author:dA JoRMaS|pms-id:asm17/oldskool_demo/497|title:Kanaalin arvoitus
-author:Nah-Kolor|pms-id:asm17/oldskool_demo/508|title:The Prophecy Returns
-author:Dekadence + Mystic Bytes|pms-id:asm17/oldskool_demo/510|title:SillyVenture'17 Invitation
-author:Adapt|pms-id:asm17/oldskool_demo/514|title:GoBIT
-author:Byterapers|pms-id:asm17/oldskool_demo/517|title:My Summer Demo
-author:Zenon|pms-id:asm17/oldskool_demo/518|title:Where we are going
-author:The Fiture Crew|pms-id:asm17/oldskool_demo/525|title:Deep Hyttynen
-author:hedelmae|pms-id:asm17/oldskool_demo/526|title:XV
+author:Quadtrip|platform:C64 / 8580 SID|pms-id:asm17/oldskool_demo/303|techniques:Kick Assembler, 16 colors, lft's Spindle, emulation, not sleeping|title:Broken
+author:V-Nom|platform:Amiga AGA 68060|pms-id:asm17/oldskool_demo/384|title:Silent Winds
+author:dA JoRMaS|platform:Amiga 500|pms-id:asm17/oldskool_demo/497|techniques:68000 assembler + OCS magic|title:Kanaalin arvoitus
+author:Nah-Kolor|platform:Amiga AGA|pms-id:asm17/oldskool_demo/508|techniques:52kb of pure oldskool bytes|title:The Prophecy Returns
+author:Dekadence + Mystic Bytes|platform:Atari ST (8MHz, 16 colors)|pms-id:asm17/oldskool_demo/510|techniques:Mad Skills|title:SillyVenture'17 Invitation
+author:Adapt|platform:Pentium133|pms-id:asm17/oldskool_demo/514|techniques:Old dusty codes/music/gfx resurrected, Midas, FT2-Clone, OpenMPT, Watcom|title:GoBIT
+author:Byterapers|platform:Pentium, MCGA, GUS|pms-id:asm17/oldskool_demo/517|techniques:Vodka for Winners and Beer for the Best|title:My Summer Demo
+author:Zenon|platform:Amiga |pms-id:asm17/oldskool_demo/518|techniques:Protacker mod, personal paint pixels and some code too..|title:Where we are going
+author:The Fiture Crew|platform:PC/DOS|pms-id:asm17/oldskool_demo/525|techniques:tasm + open watcom|title:Deep Hyttynen
+author:hedelmae|platform:MSX2|pms-id:asm17/oldskool_demo/526|techniques:Our first 8bit demo!|title:XV
 
 
 :section Short film
