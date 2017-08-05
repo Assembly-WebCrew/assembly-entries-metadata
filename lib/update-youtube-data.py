@@ -24,23 +24,24 @@ def update_youtube_info_entry(yt_service, entry):
         print("No video found for ID %s" % entry["youtube"])
         return
 
-    video_entry = videos_list["items"][0]["snippet"]
+    video_item = videos_list["items"][0]
+    video_snippet = video_item["snippet"]
 
     update_entry = False
-    if video_entry["title"] != youtube_info["title"]:
+    if video_snippet["title"] != youtube_info["title"]:
         update_entry = True
-        video_entry["title"] = youtube_info["title"]
-    if video_entry["description"] != youtube_info['description'].strip():
+        video_snippet["title"] = youtube_info["title"]
+    if video_snippet["description"] != youtube_info['description'].strip():
         update_entry = True
-        video_entry["description"] = youtube_info['description'].strip()
+        video_snippet["description"] = youtube_info['description'].strip()
     existing_tags = []
-    if video_entry.get("tags"):
+    if video_snippet.get("tags"):
         existing_tags = sorted(
-            [tag.strip().lower() for tag in video_entry["tags"]])
+            [tag.strip().lower() for tag in video_snippet["tags"]])
     if existing_tags != sorted(
             [tag.strip().lower() for tag in youtube_info["tags"]]):
         update_entry = True
-        video_entry["tags"] = youtube_info["tags"]
+        video_snippet["tags"] = youtube_info["tags"]
 
     if update_entry:
         asmyoutube.try_operation(
@@ -48,8 +49,8 @@ def update_youtube_info_entry(yt_service, entry):
             lambda: yt_service.videos().update(
                 part="snippet",
                 body=dict(
-                    snippet=video_entry,
-                    id=entry["youtube"])).execute())
+                    id=entry["youtube"],
+                    snippet=video_snippet)).execute())
 
 
 def main(argv):

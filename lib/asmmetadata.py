@@ -361,6 +361,7 @@ def get_archive_link_entry(entry):
 
 def print_metadata(outfile, year_entry_data):
     outfile.write(":year %d\n" % year_entry_data.year)
+
     for section in year_entry_data.sections:
         outfile.write("\n:section %s\n" % section['name'])
         if 'ranked' in section:
@@ -373,8 +374,6 @@ def print_metadata(outfile, year_entry_data):
             if section["author-in-title"] is False:
                 author_in_title_text = "false"
             outfile.write(":author-in-title %s\n" % author_in_title_text)
-        if 'galleriafi' in section:
-            outfile.write(":galleriafi %s\n" % section['galleriafi'])
         if 'youtube-playlist' in section:
             outfile.write(
                 ":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
