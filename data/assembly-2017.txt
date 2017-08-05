@@ -36,8 +36,6 @@
 :youtube-playlist PLJO4AtxKJiFMa-xhNLNpp-URxQH-7Ka6Q
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
-:public-after 2017-08-04 21:45+0300
 
 author:kooma|platform:Samsung Gear S2 smartwatch|pms-id:asm17/real_wild_demo/313|techniques:Sleep deprivation, possibly shaders, Bluetooth audio|title:I Saw A Peacock, With A Fiery Tail|youtube:ircMBIkL1_M
 author:Mehu|platform:Raspberry Pi (512MB/Linux)|pms-id:asm17/real_wild_demo/324|techniques:C++11, stb libs, SDL1.2|title:dmprty|youtube:zuDQlzIyYp8
@@ -62,8 +60,6 @@ author:Ivory Labs|platform:ATMega32u4, PC|pms-id:asm17/real_wild_demo/426|techni
 :youtube-playlist PLJO4AtxKJiFOx5_J23UWsMuoJC4RYTDyC
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
-:public-after 2017-08-04 22:15+0300
 
 author:sooda|platform:IRL|pms-id:asm17/short_film/300|techniques:Canon EOS 700D, Cinelerra-CV|title:You can make a demo|youtube:KvegxJbUb0Q
 author:Extream|platform:Video|pms-id:asm17/short_film/306|techniques:Programming in MC68000, Cubase, Oldskool spirit|title:Hardcoded - Tribute to Oldskool|youtube:v3KntXVg5I8
@@ -78,8 +74,6 @@ author:B2|pms-id:asm17/short_film/463|techniques:Nexus 5, Premiere Pro, After Ef
 :youtube-playlist PLJO4AtxKJiFPwsH3H7_nd-wCvFqw6TruG
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:ongoing true
-:public-after 2017-08-03 22:00+0300
 
 author:Juhapekka Piiroinen|platform:iOS|pms-id:asm17/gamedev/284|title:PixelMaze|youtube:aQuUP1tTf4o
 author:Juho Metsävuori|platform:Windows|pms-id:asm17/gamedev/285|title:MidSummerSurvival|youtube:BQQYIwBdO_s
@@ -102,126 +96,114 @@ author:Clusterloop|platform:Windows, Android|pms-id:asm17/gamedev/298|title:Medi
 :youtube-playlist PLJO4AtxKJiFO90t7x1dkoB258boeeuYee
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
-:ongoing true
-:public-after 2017-08-04 20:00+0300
 
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/312|techniques:FL Studio|title:Sanguis (Assy Edit)|video-file:listening-music/06_sanguis_(assy_edit).flac.mp4|youtube:5Ygv5gmRT9k
-author:(author hidden until results)|platform:Listening Music|pms-id:asm17/listening_music/314|techniques:Made with Logic Pro 9, Jamming with Korg nano keyboard|title:Can't Stop Now|video-file:listening-music/08_can_t_stop_now.flac.mp4|youtube:kr3bOZ-PIZo
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/327|techniques:Reason, Wavelab|title:Moonshine Reggae|video-file:listening-music/03_MoonShine Reggae.flac.mp4|youtube:G_nI9NKN5Ms
-author:(author hidden until results)|platform:Ears|pms-id:asm17/listening_music/328|techniques:Cubase 9, VST|title:Dragons. Definitely Dragons.|video-file:listening-music/11_dragons._definitely_dragons..flac.mp4|youtube:XMLQRMQ-Muo
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/342|techniques:jotain mä sinne naputtelin|title:Intro|video-file:listening-music/01_intro.flac.mp4|youtube:FP2NWW6fsRc
-author:(author hidden until results)|pms-id:asm17/listening_music/344|techniques:Cubase + vsti|title:Semper Invicta|video-file:listening-music/10_Semper Invicta.flac.mp4|youtube:b3UHLSI54GE
-author:(author hidden until results)|platform:Mac|pms-id:asm17/listening_music/368|techniques:Logic X|title:Chips of Steel|video-file:listening-music/05_Chips of Steel.flac.mp4|youtube:_bn1DzBMzDM
-author:(author hidden until results)|platform:FL666|pms-id:asm17/listening_music/371|techniques:IB4N3Z-7|title:Deathnought Nautilus Stage|video-file:listening-music/13_deathnought_nautilus_stage.flac.mp4|youtube:EN34Gg8xCY4
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/373|techniques:FL11 + Byproductin tipit|title:Exit Dystopia|video-file:listening-music/12_exit_dystopia.flac.mp4|youtube:ipCDSLxYKho
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/376|techniques:Schism Tracker with NES samples and effects only|title:Bittersweet Game Over|video-file:listening-music/09_bittersweet_game_over.flac.mp4|youtube:pVL2RYoaRbY
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/383|techniques:Propellerhead Reason|title:Pure Bladestone|video-file:listening-music/02_pure_bladestone.flac.mp4|youtube:S4KR9KEVvL0
-author:(author hidden until results)|pms-id:asm17/listening_music/427|techniques:Taidot|title:Oodi taidottomalle|video-file:listening-music/07_oodi_taidottomalle.flac.mp4|youtube:3ucL1scAQqw
-author:(author hidden until results)|platform:PC|pms-id:asm17/listening_music/436|techniques:Cubase 9 feat. Alicia, Tina and Requiem|title:Conventus Cantio|video-file:listening-music/04_Conventus cantio.flac.mp4|youtube:SKGe-XrI6qo
+author:Mergente|platform:PC|pms-id:asm17/listening_music/312|techniques:FL Studio|title:Sanguis (Assy Edit)|video-file:listening-music/06_sanguis_(assy_edit).flac.mp4|youtube:5Ygv5gmRT9k
+author:Clusterloop & Tomi Ruuska|platform:Listening Music|pms-id:asm17/listening_music/314|techniques:Made with Logic Pro 9, Jamming with Korg nano keyboard|title:Can't Stop Now|video-file:listening-music/08_can_t_stop_now.flac.mp4|youtube:kr3bOZ-PIZo
+author:Buzzer/Brainstorm|platform:PC|pms-id:asm17/listening_music/327|techniques:Reason, Wavelab|title:Moonshine Reggae|video-file:listening-music/03_MoonShine Reggae.flac.mp4|youtube:G_nI9NKN5Ms
+author:Lauri Koskenniemi|platform:Ears|pms-id:asm17/listening_music/328|techniques:Cubase 9, VST|title:Dragons. Definitely Dragons.|video-file:listening-music/11_dragons._definitely_dragons..flac.mp4|youtube:XMLQRMQ-Muo
+author:Maulwurf|platform:PC|pms-id:asm17/listening_music/342|techniques:jotain mä sinne naputtelin|title:Intro|video-file:listening-music/01_intro.flac.mp4|youtube:FP2NWW6fsRc
+author:Aikapallo|pms-id:asm17/listening_music/344|techniques:Cubase + vsti|title:Semper Invicta|video-file:listening-music/10_Semper Invicta.flac.mp4|youtube:b3UHLSI54GE
+author:Skeletronic|platform:Mac|pms-id:asm17/listening_music/368|techniques:Logic X|title:Chips of Steel|video-file:listening-music/05_Chips of Steel.flac.mp4|youtube:_bn1DzBMzDM
+author:Duality Vile|platform:FL666|pms-id:asm17/listening_music/371|techniques:IB4N3Z-7|title:Deathnought Nautilus Stage|video-file:listening-music/13_deathnought_nautilus_stage.flac.mp4|youtube:EN34Gg8xCY4
+author:Paokala|platform:PC|pms-id:asm17/listening_music/373|techniques:FL11 + Byproductin tipit|title:Exit Dystopia|video-file:listening-music/12_exit_dystopia.flac.mp4|youtube:ipCDSLxYKho
+author:M.W.N.N.|platform:PC|pms-id:asm17/listening_music/376|techniques:Schism Tracker with NES samples and effects only|title:Bittersweet Game Over|video-file:listening-music/09_bittersweet_game_over.flac.mp4|youtube:pVL2RYoaRbY
+author:rawArgon|platform:PC|pms-id:asm17/listening_music/383|techniques:Propellerhead Reason|title:Pure Bladestone|video-file:listening-music/02_pure_bladestone.flac.mp4|youtube:S4KR9KEVvL0
+author:Piiska feat. Saari|pms-id:asm17/listening_music/427|techniques:Taidot|title:Oodi taidottomalle|video-file:listening-music/07_oodi_taidottomalle.flac.mp4|youtube:3ucL1scAQqw
+author:akole/npli|platform:PC|pms-id:asm17/listening_music/436|techniques:Cubase 9 feat. Alicia, Tina and Requiem|title:Conventus Cantio|video-file:listening-music/04_Conventus cantio.flac.mp4|youtube:SKGe-XrI6qo
 
 
 :section Fast music
 :youtube-playlist PLJO4AtxKJiFMQFiMGcesp0ntvynLXNfxQ
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:ongoing true
-:public-after 2017-08-04 15:45+0300
 
-author:(author hidden until results)|platform:PC|pms-id:asm17/fast_music/442|techniques:Psycle, Klattersynth TTS|title:(2017-1992) + 1 = 26|video-file:fast-music/02 (2017-1992) + 1 = 26.flac.mp4|youtube:2FBKHlu1hD4
-author:(author hidden until results)|platform:PC, FL Studio|pms-id:asm17/fast_music/452|title:Dry|video-file:fast-music/03 dry.flac.mp4|youtube:IVjL_KfQV1g
-author:(author hidden until results)|platform:FL Studio 12|pms-id:asm17/fast_music/453|techniques:Three choices, why not all?|title:Tuliputki|video-file:fast-music/14 tuliputki.flac.mp4|youtube:DWAI6lpX-j0
-author:(author hidden until results)|platform:music|pms-id:asm17/fast_music/454|techniques:Ableton Live|title:vauhdikas|video-file:fast-music/09 vauhdikas.flac.mp4|youtube:EjUbBsJ0Aow
-author:(author hidden until results)|pms-id:asm17/fast_music/456|techniques:Cubase + softsynths|title:Congratz Asm!|video-file:fast-music/06 congratz_asm_.flac.mp4|youtube:W48P5UBwslg
-author:(author hidden until results)|platform:Mac|pms-id:asm17/fast_music/462|techniques:Logic X|title:Assembly, 25 Years!|video-file:fast-music/12 Assembly, 25 Years!.flac.mp4|youtube:_P2gj16NK6Q
-author:(author hidden until results)|platform:pc|pms-id:asm17/fast_music/468|techniques:kiire ja midikiippari|title:funcblast.wav|video-file:fast-music/05 funcblast.wav.flac.mp4|youtube:Wonc4RGTiDM
-author:(author hidden until results)|platform:Protikka|pms-id:asm17/fast_music/471|techniques:Protools adn stuff|title:Sakarias|video-file:fast-music/01 sakarias.flac.mp4|youtube:JBEGuRg3TKM
-author:(author hidden until results)|platform:Audacity, real instruments, |pms-id:asm17/fast_music/473|techniques:Reipas yhteislaulu ja -soitto|title:The 25th Year Assy Anthem|video-file:fast-music/17 The 25th assy anthem.flac.mp4|youtube:Gm-P1JoMmtI
-author:(author hidden until results)|platform:PC|pms-id:asm17/fast_music/479|techniques:skill + sequencer + trackers + synths|title:GG|video-file:fast-music/10 gg.flac.mp4|youtube:lRffNuUdDEw
-author:(author hidden until results)|platform:LMMS 1.1.3|pms-id:asm17/fast_music/480|techniques:Arps, EQ, Reverb, Crusher, Pitch shift, VST Plugins, Audacity|title:Amplified Assembling|video-file:fast-music/04 amplified_assembling.flac.mp4|youtube:-x_ULiEjUIs
-author:(author hidden until results)|platform:PC|pms-id:asm17/fast_music/484|techniques:Renoise|title:Party Hard|video-file:fast-music/15 party_hard.flac.mp4|youtube:o0uwqrfSt4Y
-author:(author hidden until results)|platform:PC|pms-id:asm17/fast_music/486|techniques:Reason 9.5 + Samsung Galaxy S4 Mini|title:Anxiousnessembly|video-file:fast-music/07 anxiousnessembly.flac.mp4|youtube:6anxvxEWmbw
-author:(author hidden until results)|platform:PC|pms-id:asm17/fast_music/487|techniques:Hedelmäiset renkaat|title:Gargamel stole my unicorn|video-file:fast-music/11 gargamel_stole_my_unicorn.flac.mp4|youtube:dDFja2GplIM
-author:(author hidden until results)|platform:ReNoise, Python|pms-id:asm17/fast_music/488|techniques:neural network "composition"|title:neural network error|video-file:fast-music/13 neural_network_error.flac.mp4|youtube:0UjrmTC2xd8
-author:(author hidden until results)|platform:Lattiakaivo|pms-id:asm17/fast_music/490|techniques:One hand killing!|title:SuperDragonPowerTurbo|video-file:fast-music/08 superdragonpowerturbo_v1.flac.mp4|youtube:-vEZmW6paWc
-author:(author hidden until results)|pms-id:asm17/fast_music/491|techniques:Cubase, Reason, vsti + Yamaha acoustic guitar|title:Vulgar|video-file:fast-music/16 vugar.flac.mp4|youtube:2R3NIwz_2yI
+author:tArzAn|platform:PC|pms-id:asm17/fast_music/442|techniques:Psycle, Klattersynth TTS|title:(2017-1992) + 1 = 26|video-file:fast-music/02 (2017-1992) + 1 = 26.flac.mp4|youtube:2FBKHlu1hD4
+author:Carrox|platform:PC, FL Studio|pms-id:asm17/fast_music/452|title:Dry|video-file:fast-music/03 dry.flac.mp4|youtube:IVjL_KfQV1g
+author:Melodïcore|platform:FL Studio 12|pms-id:asm17/fast_music/453|techniques:Three choices, why not all?|title:Tuliputki|video-file:fast-music/14 tuliputki.flac.mp4|youtube:DWAI6lpX-j0
+author:Luks|platform:music|pms-id:asm17/fast_music/454|techniques:Ableton Live|title:vauhdikas|video-file:fast-music/09 vauhdikas.flac.mp4|youtube:EjUbBsJ0Aow
+author:Roz / Fit ^ Byterapers|pms-id:asm17/fast_music/456|techniques:Cubase + softsynths|title:Congratz Asm!|video-file:fast-music/06 congratz_asm_.flac.mp4|youtube:W48P5UBwslg
+author:Skeletronic aka KiWi|platform:Mac|pms-id:asm17/fast_music/462|techniques:Logic X|title:Assembly, 25 Years!|video-file:fast-music/12 Assembly, 25 Years!.flac.mp4|youtube:_P2gj16NK6Q
+author:exla|platform:pc|pms-id:asm17/fast_music/468|techniques:kiire ja midikiippari|title:funcblast.wav|video-file:fast-music/05 funcblast.wav.flac.mp4|youtube:Wonc4RGTiDM
+author:Teatime Crew|platform:Protikka|pms-id:asm17/fast_music/471|techniques:Protools adn stuff|title:Sakarias|video-file:fast-music/01 sakarias.flac.mp4|youtube:JBEGuRg3TKM
+author:Jeff, Toveri Möyhö, Egg|platform:Audacity, real instruments, |pms-id:asm17/fast_music/473|techniques:Reipas yhteislaulu ja -soitto|title:The 25th Year Assy Anthem|video-file:fast-music/17 The 25th assy anthem.flac.mp4|youtube:Gm-P1JoMmtI
+author:ihanalammas|platform:PC|pms-id:asm17/fast_music/479|techniques:skill + sequencer + trackers + synths|title:GG|video-file:fast-music/10 gg.flac.mp4|youtube:lRffNuUdDEw
+author:Riku Salminen|platform:LMMS 1.1.3|pms-id:asm17/fast_music/480|techniques:Arps, EQ, Reverb, Crusher, Pitch shift, VST Plugins, Audacity|title:Amplified Assembling|video-file:fast-music/04 amplified_assembling.flac.mp4|youtube:-x_ULiEjUIs
+author:Jarsk1e|platform:PC|pms-id:asm17/fast_music/484|techniques:Renoise|title:Party Hard|video-file:fast-music/15 party_hard.flac.mp4|youtube:o0uwqrfSt4Y
+author:rawArgon|platform:PC|pms-id:asm17/fast_music/486|techniques:Reason 9.5 + Samsung Galaxy S4 Mini|title:Anxiousnessembly|video-file:fast-music/07 anxiousnessembly.flac.mp4|youtube:6anxvxEWmbw
+author:Old Moubit|platform:PC|pms-id:asm17/fast_music/487|techniques:Hedelmäiset renkaat|title:Gargamel stole my unicorn|video-file:fast-music/11 gargamel_stole_my_unicorn.flac.mp4|youtube:dDFja2GplIM
+author:shinmai^McBB|platform:ReNoise, Python|pms-id:asm17/fast_music/488|techniques:neural network "composition"|title:neural network error|video-file:fast-music/13 neural_network_error.flac.mp4|youtube:0UjrmTC2xd8
+author:Dragon Ultra|platform:Lattiakaivo|pms-id:asm17/fast_music/490|techniques:One hand killing!|title:SuperDragonPowerTurbo|video-file:fast-music/08 superdragonpowerturbo_v1.flac.mp4|youtube:-vEZmW6paWc
+author:Vaerkki|pms-id:asm17/fast_music/491|techniques:Cubase, Reason, vsti + Yamaha acoustic guitar|title:Vulgar|video-file:fast-music/16 vugar.flac.mp4|youtube:2R3NIwz_2yI
 
 
 :section Dance music
 :youtube-playlist PLJO4AtxKJiFP9VlTNxMEOM5TQyN82SPIS
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
-:ongoing true
-:public-after 2017-08-04 18:00+0300
 
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/299|techniques:FL Studio 12|title:Sunlight '06|video-file:dance-music/12 sunlight__06.flac.mp4|youtube:B9RIg04djSg
-author:(author hidden until results)|platform:Fl Studio 12|pms-id:asm17/dance_music/301|title:Glitch City|video-file:dance-music/05 Glitch City.flac.mp4|youtube:7C8R_09Yn4I
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/317|techniques:FL Studio|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4|youtube:6_JsQo54uv8
-author:(author hidden until results)|platform:FL Studio 12|pms-id:asm17/dance_music/339|techniques:BASS BOIIIIII|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4|youtube:Pj3SXvKVduw
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/341|techniques:600ms ping, 1kbps internet speed|title:LAG|video-file:dance-music/01 lag.flac.mp4|youtube:O-4zAjpoSaE
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/366|techniques:FL11, ei taidolla vaan tuurilla|title:Heptagoon|video-file:dance-music/07-heptagoon.flac.mp4|youtube:b0YBBQPzVbQ
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/379|techniques:Schism Tracker with NES samples and effects only|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4|youtube:8TAYb8QTQVc
-author:(author hidden until results)|platform:PC Cubase|pms-id:asm17/dance_music/385|techniques:kuhan tein|title:Funktio|video-file:dance-music/03 funktio.flac.mp4|youtube:7D5agGMHzU4
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/396|techniques:Reason, MB33, guitar|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4|youtube:w3ffd7NHIyk
-author:(author hidden until results)|platform:PC|pms-id:asm17/dance_music/400|techniques:Renoise|title:Answering Machine|video-file:dance-music/09 Answering Machine.flac.mp4|youtube:ysAiVOdReYo
-author:(author hidden until results)|platform:Body and mind|pms-id:asm17/dance_music/455|techniques:Cubase 8.5 etc.|title:Of These Stars, Which Shall Be My Home?|video-file:dance-music/08 of_these_stars__which_shall_be_my_home_.flac.mp4|youtube:0HhBKYX2mKI
-author:(author hidden until results)|pms-id:asm17/dance_music/476|techniques:Epic headphone mix <3|title:Blockheadchain|video-file:dance-music/06 Blockheadchain.flac.mp4|youtube:WjxG_rSIZH4
+author:Avenum|platform:PC|pms-id:asm17/dance_music/299|techniques:FL Studio 12|title:Sunlight '06|video-file:dance-music/12 sunlight__06.flac.mp4|youtube:B9RIg04djSg
+author:Mafia Pineapple|platform:Fl Studio 12|pms-id:asm17/dance_music/301|title:Glitch City|video-file:dance-music/05 Glitch City.flac.mp4|youtube:7C8R_09Yn4I
+author:Mergente ft. Titanwire|platform:PC|pms-id:asm17/dance_music/317|techniques:FL Studio|title:Feel Alive|video-file:dance-music/10 Feel Alive.flac.mp4|youtube:6_JsQo54uv8
+author:Melodïcore|platform:FL Studio 12|pms-id:asm17/dance_music/339|techniques:BASS BOIIIIII|title:Kaasujalka|video-file:dance-music/11 kaasujalka.flac.mp4|youtube:Pj3SXvKVduw
+author:Maulwurf|platform:PC|pms-id:asm17/dance_music/341|techniques:600ms ping, 1kbps internet speed|title:LAG|video-file:dance-music/01 lag.flac.mp4|youtube:O-4zAjpoSaE
+author:Paokala|platform:PC|pms-id:asm17/dance_music/366|techniques:FL11, ei taidolla vaan tuurilla|title:Heptagoon|video-file:dance-music/07-heptagoon.flac.mp4|youtube:b0YBBQPzVbQ
+author:M.W.N.N.|platform:PC|pms-id:asm17/dance_music/379|techniques:Schism Tracker with NES samples and effects only|title:Let My NES Move You 3 - Resurrection|video-file:dance-music/02 let_my_nes_move_you_3_-_resurrection.flac.mp4|youtube:8TAYb8QTQVc
+author:Signal|platform:PC Cubase|pms-id:asm17/dance_music/385|techniques:kuhan tein|title:Funktio|video-file:dance-music/03 funktio.flac.mp4|youtube:7D5agGMHzU4
+author:Yermungandor|platform:PC|pms-id:asm17/dance_music/396|techniques:Reason, MB33, guitar|title:Latin Space Covfefe|video-file:dance-music/04 Latin Space Covfefe.flac.mp4|youtube:w3ffd7NHIyk
+author:Jarsk1e|platform:PC|pms-id:asm17/dance_music/400|techniques:Renoise|title:Answering Machine|video-file:dance-music/09 Answering Machine.flac.mp4|youtube:ysAiVOdReYo
+author:ruuvari/aspekt|platform:Body and mind|pms-id:asm17/dance_music/455|techniques:Cubase 8.5 etc.|title:Of These Stars, Which Shall Be My Home?|video-file:dance-music/08 of_these_stars__which_shall_be_my_home_.flac.mp4|youtube:0HhBKYX2mKI
+author:Proxii|pms-id:asm17/dance_music/476|techniques:Epic headphone mix <3|title:Blockheadchain|video-file:dance-music/06 Blockheadchain.flac.mp4|youtube:WjxG_rSIZH4
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-:ongoing true
-:public-after 2017-08-04 18:45+0300
 
-author:(author hidden until results)|image-file:graphics/target-eta-at-meguro-district-hyperloop-7-minutes_nosig.png|platform:PC|pms-id:asm17/graphics/318|techniques:Photoshop|title:Target ETA at Meguro District Hyperloop: 7 Minutes
-author:(author hidden until results)|image-file:graphics/since_1942_nosig.png|platform:PC, Windows|pms-id:asm17/graphics/322|techniques:3ds Max, Photoshop|title:Since 1942
-author:(author hidden until results)|image-file:graphics/my_lion_is_dead_nosig.png|pms-id:asm17/graphics/334|techniques:watercolours, ink, Photoshop CC, anxiety|title:My Lion is Dead
-author:(author hidden until results)|image-file:graphics/Plague_Brigade_nosig.jpg|platform:pc|pms-id:asm17/graphics/356|techniques:3dsmax, zbrush, substance painter, corona render, photoshop|title:Plague Brigade
-author:(author hidden until results)|image-file:graphics/Ruins_of_the_ancient_era_no_sig.png|platform:Mac|pms-id:asm17/graphics/360|techniques:Cinema 4D, Photoshop|title:Ruins of the ancient era
-author:(author hidden until results)|image-file:graphics/polygon_dreams_UNSIGNED.png|platform:PC|pms-id:asm17/graphics/362|techniques:Rendered in Modo 801 and finalized with Photoshop CC|title:Polygon Dreams
-author:(author hidden until results)|image-file:graphics/jack_in_the_box_nosig.jpg|platform:PC|pms-id:asm17/graphics/389|techniques:Sharpies & Photoshop|title:Jack in the box
-author:(author hidden until results)|image-file:graphics/wrong_planet_final_nosig.jpg|platform:pc|pms-id:asm17/graphics/395|techniques:wacom + Photoshop|title:Wrong planet!!
-author:(author hidden until results)|image-file:graphics/Forest_Unsig.jpg|pms-id:asm17/graphics/404|techniques:Photoshop, 3dcoat, 3dsmax|title:Heart of the forest
-author:(author hidden until results)|image-file:graphics/Kalashnikov_Caricature_nosig.png|pms-id:asm17/graphics/482|techniques:Blender, Photoshop|title:Kalashnikov Caricature
+author:Janne Peippo|image-file:graphics/target-eta-at-meguro-district-hyperloop-7-minutes_nosig.png|platform:PC|pms-id:asm17/graphics/318|techniques:Photoshop|title:Target ETA at Meguro District Hyperloop: 7 Minutes
+author:NinjaBaka|image-file:graphics/since_1942_nosig.png|platform:PC, Windows|pms-id:asm17/graphics/322|techniques:3ds Max, Photoshop|title:Since 1942
+author:Aurora/NYRC|image-file:graphics/my_lion_is_dead_nosig.png|pms-id:asm17/graphics/334|techniques:watercolours, ink, Photoshop CC, anxiety|title:My Lion is Dead
+author:Darkki|image-file:graphics/Plague_Brigade_nosig.jpg|platform:pc|pms-id:asm17/graphics/356|techniques:3dsmax, zbrush, substance painter, corona render, photoshop|title:Plague Brigade
+author:Plasticbunny|image-file:graphics/Ruins_of_the_ancient_era_no_sig.png|platform:Mac|pms-id:asm17/graphics/360|techniques:Cinema 4D, Photoshop|title:Ruins of the ancient era
+author:Dice / Doomsday|image-file:graphics/polygon_dreams_UNSIGNED.png|platform:PC|pms-id:asm17/graphics/362|techniques:Rendered in Modo 801 and finalized with Photoshop CC|title:Polygon Dreams
+author:Valtteri|image-file:graphics/jack_in_the_box_nosig.jpg|platform:PC|pms-id:asm17/graphics/389|techniques:Sharpies & Photoshop|title:Jack in the box
+author:Elukka|image-file:graphics/wrong_planet_final_nosig.jpg|platform:pc|pms-id:asm17/graphics/395|techniques:wacom + Photoshop|title:Wrong planet!!
+author:Partikle|image-file:graphics/Forest_Unsig.jpg|pms-id:asm17/graphics/404|techniques:Photoshop, 3dcoat, 3dsmax|title:Heart of the forest
+author:maxon / HBC|image-file:graphics/Kalashnikov_Caricature_nosig.png|pms-id:asm17/graphics/482|techniques:Blender, Photoshop|title:Kalashnikov Caricature
 
 
 :section Photo
 :pms-category photo
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
-:ongoing true
-:public-after 2017-08-04 16:45+0300
 
-author:(author hidden until results)|image-file:photo/kaupungin valot compo.jpg|pms-id:asm17/photo/283|title:Kaupungin valot / City lights
-author:(author hidden until results)|image-file:photo/expedition-to-athena-prime-iv.png|platform:Nikon|pms-id:asm17/photo/315|techniques:2x gelled flash & creative use of household objects|title:Expedition to Athena Prime IV
-author:(author hidden until results)|image-file:photo/Guardian angel.jpg|platform:Crappy Ooooold Sony Alpha DSLR-A300|pms-id:asm17/photo/323|techniques:Crop, scale, color temperature adj. in IrfanView|title:Guardian Angel
-author:(author hidden until results)|image-file:photo/PinkLady.jpg|pms-id:asm17/photo/350|techniques:Sony RX1, Bike, Google maps, Airbnb, 300km+|title:Pink Lady
-author:(author hidden until results)|image-file:photo/beam_me_up_nosig.jpg|platform: Olympus OM-D E-M10 Mark II & M.Zuiko 75mm.|pms-id:asm17/photo/358|techniques:Flashlights & optical fiber. Cropped and adjusted WB+Exposure in Lightroom. #nophotoshop|title:Beam me up
-author:(author hidden until results)|image-file:photo/CrackOfDawn_SHOW_THIS.png|platform:Camera|pms-id:asm17/photo/370|techniques:Canon EOS-1D MarkIII@ISO100, 1/200s Canon EF-100mm 2.8L macro IS @f11, 3x Canon Speedlite Flashes, lots of glasses & drinks|title:Crack Of Dawn
-author:(author hidden until results)|image-file:photo/Violetta.jpg|pms-id:asm17/photo/377|techniques:Photo taken, crop, scale, color temp, exposure in Lightroom.|title:Violetta
-author:(author hidden until results)|image-file:photo/The_quest_begins.jpg|platform:Canon EOS 550D, 60/2.8 EF-S|pms-id:asm17/photo/391|techniques:Crawling|title:The Quest Begins
-author:(author hidden until results)|image-file:photo/Bridge_over_troubled_water.jpg|pms-id:asm17/photo/397|techniques:EOS 5D Mark III + Sigma 50mm f/1.4 DG HSM ART|title:Bridge over troubled water
-author:(author hidden until results)|image-file:photo/Fiery breakfast.jpg|pms-id:asm17/photo/434|title:Fiery breakfast
-author:(author hidden until results)|image-file:photo/dont-look-through-bw-glasses.jpg|platform:IR-modified Nikon D300|pms-id:asm17/photo/443|techniques:Optical effect, no color editing! Special DIY-glasses with 850nm high pass infrared filter lenses, infrared modified Nikon D300, Samyang 14mm/2.8|title:Don't look at the world through black and white glasses
-author:(author hidden until results)|image-file:photo/sormiin_sattuu.JPG|platform:camera/pc|pms-id:asm17/photo/467|techniques:camera, lights, action|title:Sormiin sattuu
-author:(author hidden until results)|image-file:photo/good_morning_v1.jpg|platform:Canon EOS 550D|pms-id:asm17/photo/472|techniques:Eye & Hand|title:good morning
+author:H7 / Accession & TRSI & HiRMU|image-file:photo/kaupungin valot compo.jpg|pms-id:asm17/photo/283|title:Kaupungin valot / City lights
+author:Janne Peippo|image-file:photo/expedition-to-athena-prime-iv.png|platform:Nikon|pms-id:asm17/photo/315|techniques:2x gelled flash & creative use of household objects|title:Expedition to Athena Prime IV
+author:DJ Joge /Brainstorm|image-file:photo/Guardian angel.jpg|platform:Crappy Ooooold Sony Alpha DSLR-A300|pms-id:asm17/photo/323|techniques:Crop, scale, color temperature adj. in IrfanView|title:Guardian Angel
+author:B2|image-file:photo/PinkLady.jpg|pms-id:asm17/photo/350|techniques:Sony RX1, Bike, Google maps, Airbnb, 300km+|title:Pink Lady
+author:Wode / Doomsday|image-file:photo/beam_me_up_nosig.jpg|platform: Olympus OM-D E-M10 Mark II & M.Zuiko 75mm.|pms-id:asm17/photo/358|techniques:Flashlights & optical fiber. Cropped and adjusted WB+Exposure in Lightroom. #nophotoshop|title:Beam me up
+author:biini / dAMONES|image-file:photo/CrackOfDawn_SHOW_THIS.png|platform:Camera|pms-id:asm17/photo/370|techniques:Canon EOS-1D MarkIII@ISO100, 1/200s Canon EF-100mm 2.8L macro IS @f11, 3x Canon Speedlite Flashes, lots of glasses & drinks|title:Crack Of Dawn
+author:Mikko Karsisto|image-file:photo/Violetta.jpg|pms-id:asm17/photo/377|techniques:Photo taken, crop, scale, color temp, exposure in Lightroom.|title:Violetta
+author:Exca|image-file:photo/The_quest_begins.jpg|platform:Canon EOS 550D, 60/2.8 EF-S|pms-id:asm17/photo/391|techniques:Crawling|title:The Quest Begins
+author:Tethys|image-file:photo/Bridge_over_troubled_water.jpg|pms-id:asm17/photo/397|techniques:EOS 5D Mark III + Sigma 50mm f/1.4 DG HSM ART|title:Bridge over troubled water
+author:TTurrican|image-file:photo/Fiery breakfast.jpg|pms-id:asm17/photo/434|title:Fiery breakfast
+author:AK^|image-file:photo/dont-look-through-bw-glasses.jpg|platform:IR-modified Nikon D300|pms-id:asm17/photo/443|techniques:Optical effect, no color editing! Special DIY-glasses with 850nm high pass infrared filter lenses, infrared modified Nikon D300, Samyang 14mm/2.8|title:Don't look at the world through black and white glasses
+author:Foxmagon|image-file:photo/sormiin_sattuu.JPG|platform:camera/pc|pms-id:asm17/photo/467|techniques:camera, lights, action|title:Sormiin sattuu
+author:Ooper|image-file:photo/good_morning_v1.jpg|platform:Canon EOS 550D|pms-id:asm17/photo/472|techniques:Eye & Hand|title:good morning
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Voter Fraud" theme.</p>
-:ongoing true
-:public-after 2017-08-04 16:00+0300
 
-author:(author hidden until results)|image-file:fast-graphics/your_vote_matters.jpg|platform:puucee|pms-id:asm17/fast_graphics/415|techniques:3dsmax, corona renderer, photoshop, panic attack.|title:Your vote matters
-author:(author hidden until results)|image-file:fast-graphics/where_did_your_vote_go_.png|platform:Mac|pms-id:asm17/fast_graphics/420|techniques:Photoshop|title:Where did your vote go?
-author:(author hidden until results)|image-file:fast-graphics/no_can_do.png|platform:PC|pms-id:asm17/fast_graphics/421|techniques:Photoshop|title:No can do
-author:(author hidden until results)|image-file:fast-graphics/imposter.jpg|platform:OMa kone|pms-id:asm17/fast_graphics/423|techniques:Ps|title:Imposter
-author:(author hidden until results)|image-file:fast-graphics/feline_suffrage.png|platform:Trial version of Sketchbook with layers limited to 3 :'D|pms-id:asm17/fast_graphics/424|techniques:Digital painting|title:Feline Suffrage
-author:(author hidden until results)|image-file:fast-graphics/bird_vote.png|pms-id:asm17/fast_graphics/428|techniques:Blender, Krita|title:Bird Vote
-author:(author hidden until results)|image-file:fast-graphics/i_voted.jpg|platform:PC|pms-id:asm17/fast_graphics/429|techniques:Photoshop|title:I VOTED
-author:(author hidden until results)|image-file:fast-graphics/the_aliens_already_came_by_earlier.png|platform:Cycles|pms-id:asm17/fast_graphics/431|techniques:Blender|title:The aliens already came by earlier
-author:(author hidden until results)|image-file:fast-graphics/the_stone_effect.jpg|pms-id:asm17/fast_graphics/432|techniques:Blender, Photoshop|title:The Stone Effect
-author:(author hidden until results)|image-file:fast-graphics/trololoomeow.jpg|platform:PC|pms-id:asm17/fast_graphics/433|techniques:Photoshop, omg|title:Trololoomeow
+author:Darkki|image-file:fast-graphics/your_vote_matters.jpg|platform:puucee|pms-id:asm17/fast_graphics/415|techniques:3dsmax, corona renderer, photoshop, panic attack.|title:Your vote matters
+author:Plasticbunny|image-file:fast-graphics/where_did_your_vote_go_.png|platform:Mac|pms-id:asm17/fast_graphics/420|techniques:Photoshop|title:Where did your vote go?
+author:aarnis|image-file:fast-graphics/no_can_do.png|platform:PC|pms-id:asm17/fast_graphics/421|techniques:Photoshop|title:No can do
+author:Tekotuotanto|image-file:fast-graphics/imposter.jpg|platform:OMa kone|pms-id:asm17/fast_graphics/423|techniques:Ps|title:Imposter
+author:Pallosalama|image-file:fast-graphics/feline_suffrage.png|platform:Trial version of Sketchbook with layers limited to 3 :'D|pms-id:asm17/fast_graphics/424|techniques:Digital painting|title:Feline Suffrage
+author:Felor/HBC|image-file:fast-graphics/bird_vote.png|pms-id:asm17/fast_graphics/428|techniques:Blender, Krita|title:Bird Vote
+author:Yermungandor|image-file:fast-graphics/i_voted.jpg|platform:PC|pms-id:asm17/fast_graphics/429|techniques:Photoshop|title:I VOTED
+author:shinmai^McBB|image-file:fast-graphics/the_aliens_already_came_by_earlier.png|platform:Cycles|pms-id:asm17/fast_graphics/431|techniques:Blender|title:The aliens already came by earlier
+author:maxon / HBC|image-file:fast-graphics/the_stone_effect.jpg|pms-id:asm17/fast_graphics/432|techniques:Blender, Photoshop|title:The Stone Effect
+author:Thanks Asm Orga and all Oldschool peeps|image-file:fast-graphics/trololoomeow.jpg|platform:PC|pms-id:asm17/fast_graphics/433|techniques:Photoshop, omg|title:Trololoomeow
 
 
 :section Seminars
