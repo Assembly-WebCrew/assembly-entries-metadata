@@ -4,7 +4,6 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2017 PC computer.</p>
 :ongoing true
-:public-after 2017-08-06 00:00+0300
 
 author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|techniques:Unity, bread, no sleep|title:Alternative Bread Facts
 author:Melancholy|platform:pc|pms-id:asm17/demo/506|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification
@@ -26,7 +25,6 @@ author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|techniques:Qt and C++|tit
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2017 PC computer.</p>
 :ongoing true
-:public-after 2017-08-05 22:15+0300
 
 author:Deluxe & Premium|platform:Windows|pms-id:asm17/64k/504|techniques:OpenGL 4.5|title:Uusimaa|youtube:gNCQsMzXEec
 author:ivory labs|platform:8k windows|pms-id:asm17/64k/533|techniques:leviathan 2.0, no crinkler|title:Down the Drain|youtube:1x_cGu8wsto
@@ -38,7 +36,6 @@ author:Quadtrip|platform:OSX|pms-id:asm17/64k/539|techniques:gcc + upx + opengl 
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2017 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public-after 2017-08-05 21:30+0300
 
 author:Pingviinituutti & FruitieX|platform:PC|pms-id:asm17/4k/321|techniques:WebGL, Ray marching, Web Audio API, javaskribula, ES!!!6, RegPack, Renoise|title:bloody brilliant|youtube:P-TgMzZZKPM
 author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm17/4k/361|techniques:OpenGL 4.5, C++, dnload.py|title:Primordial Soup|youtube:3SFu0IHsH9g
@@ -59,7 +56,6 @@ author:warek|platform:PC|pms-id:asm17/4k/541|techniques:crinkler HLSL c++|title:
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2017 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public-after 2017-08-05 20:30+0300
 
 author:Branch ^ Ivory Labs|platform:Windows|pms-id:asm17/1k/309|techniques:Exe|title:The Sound My Windows|youtube:kUg3sSE_XLs
 author:FruitieX|platform:PC|pms-id:asm17/1k/325|techniques:WebGL, ray marching, RegPack, bytebeats, fork me on github|title:plasmifier|youtube:P0KUhUnQAwk
@@ -86,21 +82,21 @@ author:xinux & edvind|platform:win10|pms-id:asm17/real_wild_demo/409|position:9|
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFMFtQQ0IINpsZLz_3gNAPUp
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
-:public-after 2017-08-05 19:00+0300
 
-author:Quadtrip|platform:C64 / 8580 SID|pms-id:asm17/oldskool_demo/303|techniques:Kick Assembler, 16 colors, lft's Spindle, emulation, not sleeping|title:Broken
-author:V-Nom|platform:Amiga AGA 68060|pms-id:asm17/oldskool_demo/384|title:Silent Winds
-author:dA JoRMaS|platform:Amiga 500|pms-id:asm17/oldskool_demo/497|techniques:68000 assembler + OCS magic|title:Kanaalin arvoitus
-author:Nah-Kolor|platform:Amiga AGA|pms-id:asm17/oldskool_demo/508|techniques:52kb of pure oldskool bytes|title:The Prophecy Returns
-author:Dekadence + Mystic Bytes|platform:Atari ST (8MHz, 16 colors)|pms-id:asm17/oldskool_demo/510|techniques:Mad Skills|title:SillyVenture'17 Invitation
-author:Adapt|platform:Pentium133|pms-id:asm17/oldskool_demo/514|techniques:Old dusty codes/music/gfx resurrected, Midas, FT2-Clone, OpenMPT, Watcom|title:GoBIT
-author:Byterapers|platform:Pentium, MCGA, GUS|pms-id:asm17/oldskool_demo/517|techniques:Vodka for Winners and Beer for the Best|title:My Summer Demo
-author:Zenon|platform:Amiga |pms-id:asm17/oldskool_demo/518|techniques:Protacker mod, personal paint pixels and some code too..|title:Where we are going
-author:The Fiture Crew|platform:PC/DOS|pms-id:asm17/oldskool_demo/525|techniques:tasm + open watcom|title:Deep Hyttynen
-author:hedelmae|platform:MSX2|pms-id:asm17/oldskool_demo/526|techniques:Our first 8bit demo!|title:XV
+author:Quadtrip|platform:C64 / 8580 SID|pms-id:asm17/oldskool_demo/303|techniques:Kick Assembler, 16 colors, lft's Spindle, emulation, not sleeping|title:Broken|youtube:1qf_L3qo0Uc
+author:V-Nom|platform:Amiga AGA 68060|pms-id:asm17/oldskool_demo/384|title:Silent Winds|youtube:Qcweu1yxH-w
+author:dA JoRMaS|platform:Amiga 500|pms-id:asm17/oldskool_demo/497|techniques:68000 assembler + OCS magic|title:Kanaalin arvoitus|youtube:tq9Rzz5vytE
+author:Nah-Kolor|platform:Amiga AGA|pms-id:asm17/oldskool_demo/508|techniques:52kb of pure oldskool bytes|title:The Prophecy Returns|youtube:s2vEZ033IoA
+author:Dekadence + Mystic Bytes|platform:Atari ST (8MHz, 16 colors)|pms-id:asm17/oldskool_demo/510|techniques:Mad Skills|title:SillyVenture'17 Invitation|youtube:ZJnUSAuKH2Y
+author:Adapt|platform:Pentium133|pms-id:asm17/oldskool_demo/514|techniques:Old dusty codes/music/gfx resurrected, Midas, FT2-Clone, OpenMPT, Watcom|title:GoBIT|youtube:PM7gPI3E82E
+author:Byterapers|platform:Pentium, MCGA, GUS|pms-id:asm17/oldskool_demo/517|techniques:Vodka for Winners and Beer for the Best|title:My Summer Demo|youtube:5pNTlMXfDJk
+author:Zenon|platform:Amiga |pms-id:asm17/oldskool_demo/518|techniques:Protacker mod, personal paint pixels and some code too..|title:Where we are going|youtube:cga1WbxgvvM
+author:The Fiture Crew|platform:PC/DOS|pms-id:asm17/oldskool_demo/525|techniques:tasm + open watcom|title:Deep Hyttynen|youtube:zhRjf6MsRcI
+author:hedelmae|platform:MSX2|pms-id:asm17/oldskool_demo/526|techniques:Our first 8bit demo!|title:XV|youtube:_1kU1Rs6n7E
 
 
 :section Short film
