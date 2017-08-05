@@ -30,6 +30,12 @@
 :ongoing true
 :public-after 2017-08-05 20:00+0300
 
+author:Branch ^ Ivory Labs|pms-id:asm17/1k/309|title:The Sound My Windows|youtube:kUg3sSE_XLs
+author:FruitieX|pms-id:asm17/1k/325|title:plasmifier|youtube:P0KUhUnQAwk
+author:RIBBON|pms-id:asm17/1k/364|title:VOLTRA|youtube:JohZw5V4VTc
+author:Exca/Wide Load|pms-id:asm17/1k/507|title:Only entropy remains|youtube:2myi5cvomh4
+author:Fulcrum|pms-id:asm17/1k/537|title:Shoot The Core 1K|youtube:5pyIpoqpYt4
+author:Walther|pms-id:asm17/1k/540|title:Sugarcube|youtube:-yMOQeDbY4o
 
 
 :section Real wild demo
@@ -54,6 +60,16 @@ author:Ivory Labs|platform:ATMega32u4, PC|pms-id:asm17/real_wild_demo/426|techni
 :ongoing true
 :public-after 2017-08-05 19:00+0300
 
+author:Quadtrip|pms-id:asm17/oldskool_demo/303|title:Broken
+author:V-Nom|pms-id:asm17/oldskool_demo/384|title:Silent Winds
+author:dA JoRMaS|pms-id:asm17/oldskool_demo/497|title:Kanaalin arvoitus
+author:Nah-Kolor|pms-id:asm17/oldskool_demo/508|title:The Prophecy Returns
+author:Dekadence + Mystic Bytes|pms-id:asm17/oldskool_demo/510|title:SillyVenture'17 Invitation
+author:Adapt|pms-id:asm17/oldskool_demo/514|title:GoBIT
+author:Byterapers|pms-id:asm17/oldskool_demo/517|title:My Summer Demo
+author:Zenon|pms-id:asm17/oldskool_demo/518|title:Where we are going
+author:The Fiture Crew|pms-id:asm17/oldskool_demo/525|title:Deep Hyttynen
+author:hedelmae|pms-id:asm17/oldskool_demo/526|title:XV
 
 
 :section Short film
