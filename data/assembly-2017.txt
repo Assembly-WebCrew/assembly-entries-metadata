@@ -17,11 +17,24 @@
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFNcGOqtKF5CLRmyWzuGtiSA
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2017 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 :public-after 2017-08-05 21:30+0300
 
+author:Pingviinituutti & FruitieX|platform:PC|pms-id:asm17/4k/321|techniques:WebGL, Ray marching, Web Audio API, javaskribula, ES!!!6, RegPack, Renoise|title:bloody brilliant|youtube:P-TgMzZZKPM
+author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm17/4k/361|techniques:OpenGL 4.5, C++, dnload.py|title:Primordial Soup|youtube:3SFu0IHsH9g
+author:mystran|platform:win32/opengl|pms-id:asm17/4k/496|techniques:luomuyrtit|title:humppatunneli|youtube:tf286sQbFic
+author:fatsopanda|platform:PC|pms-id:asm17/4k/499|techniques:C++, GLSL, Crinkler, 4klang|title:Plasma Lamp's Dance of Freedom|youtube:k8g2xCfqZgY
+author:oo|platform:PC|pms-id:asm17/4k/512|techniques:C++, GLSL, 4klang, Crinkler, GNU Rocket|title:Golden Show ...er|youtube:-eGRdyK7Pzw
+author:papumaja|platform:PC|pms-id:asm17/4k/516|techniques:WebGL, javascript, jsexe.exe|title:EyEdiovisual|youtube:QDPHxBzEzlo
+author:Kekegroup|platform:Windows|pms-id:asm17/4k/523|techniques:Compofiller Studio|title:Musiikkia ja visuaaleja|youtube:9kDU3oxIHfg
+author:provod|platform:win32|pms-id:asm17/4k/524|techniques:ogl asm pbr dof dsp glsl wtf|title:placeholder|youtube:LsXX34pefhA
+author:McBB|platform:w32|pms-id:asm17/4k/528|techniques:GLSL, Clinkster, Crinkler, nasm|title:realtime virginity|youtube:w3hCAu60Dwo
+author:lucid|platform:Microsoft Windows PC|pms-id:asm17/4k/529|techniques:OpenGL 2|title:main|youtube:ztkMt1Fg8Ec
+author:Luminaire|platform:Linux|pms-id:asm17/4k/531|techniques:GLSL, 4klang|title:Häiriökuilu|youtube:xltY8L6KoQg
+author:warek|platform:PC|pms-id:asm17/4k/541|techniques:crinkler HLSL c++|title:Day in the life of admin|youtube:yb9mtfsKCX0
 
 
 :section 1k intro
