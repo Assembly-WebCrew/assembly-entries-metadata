@@ -65,13 +65,13 @@ author:Ivory Labs|platform:ATMega32u4, PC|pms-id:asm17/real_wild_demo/426|techni
 :ongoing true
 :public-after 2017-08-04 22:15+0300
 
-author:sooda|pms-id:asm17/short_film/300|title:You can make a demo|youtube:KvegxJbUb0Q
-author:Extream|pms-id:asm17/short_film/306|title:Hardcoded - Tribute to Oldskool|youtube:v3KntXVg5I8
-author:DatafoxStudios / Melodïcore feat. Iida|pms-id:asm17/short_film/338|title:Trinity|youtube:PfGsQ0MEU0I
-author:Elite Dekkerz|pms-id:asm17/short_film/398|title:Jallu Vision|youtube:qttVMeFuE4g
-author:SBA|pms-id:asm17/short_film/405|title:antivirus2017.jpg.exe|youtube:r9DO6isLGus
-author:Barely Coders|pms-id:asm17/short_film/457|title:huonodemo.txt|youtube:4vCbQdTm5Z4
-author:B2|pms-id:asm17/short_film/463|title:Traveling to Assembly|youtube:cHH4QECLyds
+author:sooda|platform:IRL|pms-id:asm17/short_film/300|techniques:Canon EOS 700D, Cinelerra-CV|title:You can make a demo|youtube:KvegxJbUb0Q
+author:Extream|platform:Video|pms-id:asm17/short_film/306|techniques:Programming in MC68000, Cubase, Oldskool spirit|title:Hardcoded - Tribute to Oldskool|youtube:v3KntXVg5I8
+author:DatafoxStudios / Melodïcore feat. Iida|platform:Blender, FL Studio 12, Adobe Premiere|pms-id:asm17/short_film/338|techniques:I can't model for shit|title:Trinity|youtube:PfGsQ0MEU0I
+author:Elite Dekkerz|platform:PC|pms-id:asm17/short_film/398|techniques:After Effects, Blender, Schism Tracker|title:Jallu Vision|youtube:qttVMeFuE4g
+author:SBA|platform:Xetek|pms-id:asm17/short_film/405|techniques:Skills|title:antivirus2017.jpg.exe|youtube:r9DO6isLGus
+author:Barely Coders|platform:Videocamera|pms-id:asm17/short_film/457|techniques:Trying too hard|title:huonodemo.txt|youtube:4vCbQdTm5Z4
+author:B2|pms-id:asm17/short_film/463|techniques:Nexus 5, Premiere Pro, After Effects|title:Traveling to Assembly|youtube:cHH4QECLyds
 
 
 :section Gamedev
