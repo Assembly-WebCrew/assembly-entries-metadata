@@ -485,7 +485,7 @@ def get_youtube_info_data(entry):
 
     position_str = None
 
-    if entry["section"].get("ranked"):
+    if entry["section"].get("ranked", True):
         if position != 0:
             position_str = str(position) + get_ordinal_suffix(position) + " place"
 
