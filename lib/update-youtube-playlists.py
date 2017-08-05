@@ -198,12 +198,19 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
 
         max_change_abs = 0
         max_change_id = None
+        max_change_position = -1
 
         # Find max position change:
         for video_id, position_change in position_changes.items():
-            if abs(position_change) > max_change_abs:
+            # First condition finds the one that we move the most.
+            # Second condition optimizes the movements when we move multiple
+            # playlist items.
+            if (abs(position_change) > max_change_abs or
+                (abs(position_change) == max_change_abs and
+                    positions[video_id] < max_change_position)):
                 max_change_abs = abs(position_change)
                 max_change_id = video_id
+                max_change_position = positions[video_id]
         if max_change_abs == 0:
             break
 
