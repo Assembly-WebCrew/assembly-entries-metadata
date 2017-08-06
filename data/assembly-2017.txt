@@ -4,66 +4,62 @@
 :youtube-playlist PLJO4AtxKJiFPmigR5m7SSrvT_pu291vFG
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2017 PC computer.</p>
-:ongoing true
 
-author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|techniques:Unity, bread, no sleep|title:Alternative Bread Facts|youtube:Qk0ICis0E68
-author:Melancholy|platform:pc|pms-id:asm17/demo/506|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification|youtube:Du9FNrXWy08
-author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|techniques:Fusion, Blender, PS|title:Attempt6|youtube:BQN1doA_rbw
-author:Adapt|platform:Windows|pms-id:asm17/demo/515|techniques:Ill Tecniques, QT/QML, OpenGL 4.5|title:Zoomin|youtube:v8bg4EixkFk
-author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt|youtube:0kc2xnsmnk0
-author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|techniques:threejs, haxe|title:Bit of Light|youtube:F_rzFCASuB4
-author:CNCD Fairlight|platform:PC|pms-id:asm17/demo/522|techniques:Made with Notch|title:Sokia|youtube:ilHnGKGPsy8
-author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|techniques:DirectX|title:fuzzy MUTATIONs|youtube:pKtdqdPtYh4
-author:Rustbloom|platform:PC|pms-id:asm17/demo/532|techniques:slicing|title:de_bust funk de_lax|youtube:IWOHIyl9gcY
-author:Epoch|platform:PC|pms-id:asm17/demo/534|techniques:E are back|title:Extra|youtube:VhyjJevy1ok
-author:JUGZ|platform:Windows|pms-id:asm17/demo/535|techniques:Unity|title:Geometry Gods|youtube:dCrb8uyXkv4
-author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|techniques:DX9|title:Alkaline|youtube:mBKBoaLmY6U
-author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|techniques:Qt and C++|title:Muumiland|youtube:Mastb-GH_fk
+author:Adapt|platform:Windows|pms-id:asm17/demo/515|position:1|techniques:Ill Tecniques, QT/QML, OpenGL 4.5|title:Zoomin|youtube:v8bg4EixkFk
+author:CNCD Fairlight|platform:PC|pms-id:asm17/demo/522|position:2|techniques:Made with Notch|title:Sokia|youtube:ilHnGKGPsy8
+author:JUGZ|platform:Windows|pms-id:asm17/demo/535|position:3|techniques:Unity|title:Geometry Gods|youtube:dCrb8uyXkv4
+author:Epoch|platform:PC|pms-id:asm17/demo/534|position:4|techniques:E are back|title:Extra|youtube:VhyjJevy1ok
+author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|position:5|techniques:DirectX|title:fuzzy MUTATIONs|youtube:pKtdqdPtYh4
+author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|position:6|techniques:DX9|title:Alkaline|youtube:mBKBoaLmY6U
+author:Rustbloom|platform:PC|pms-id:asm17/demo/532|position:7|techniques:slicing|title:de_bust funk de_lax|youtube:IWOHIyl9gcY
+author:Melancholy|platform:pc|pms-id:asm17/demo/506|position:8|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification|youtube:Du9FNrXWy08
+author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|position:9|techniques:threejs, haxe|title:Bit of Light|youtube:F_rzFCASuB4
+author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|position:10|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt|youtube:0kc2xnsmnk0
+author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|position:11|techniques:Unity, bread, no sleep|title:Alternative Bread Facts|youtube:Qk0ICis0E68
+author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|position:12|techniques:Fusion, Blender, PS|title:Attempt6|youtube:BQN1doA_rbw
+author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|position:13|techniques:Qt and C++|title:Muumiland|youtube:Mastb-GH_fk
 
 
 :section 64k intro
 :youtube-playlist PLJO4AtxKJiFOpBSuVXp3y55Nhyq-aurXR
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2017 PC computer.</p>
-:ongoing true
 
-author:Deluxe & Premium|platform:Windows|pms-id:asm17/64k/504|techniques:OpenGL 4.5|title:Uusimaa|youtube:gNCQsMzXEec
-author:ivory labs|platform:8k windows|pms-id:asm17/64k/533|techniques:leviathan 2.0, no crinkler|title:Down the Drain|youtube:1x_cGu8wsto
-author:Quadtrip|platform:OSX|pms-id:asm17/64k/539|techniques:gcc + upx + opengl + bytebeat + Fimpo Collier|title:F. Collier|youtube:iu7FFGgwBzQ
+author:ivory labs|platform:8k windows|pms-id:asm17/64k/533|position:1|techniques:leviathan 2.0, no crinkler|title:Down the Drain|youtube:1x_cGu8wsto
+author:Deluxe & Premium|platform:Windows|pms-id:asm17/64k/504|position:2|techniques:OpenGL 4.5|title:Uusimaa|youtube:gNCQsMzXEec
+author:Quadtrip|platform:OSX|pms-id:asm17/64k/539|position:3|techniques:gcc + upx + opengl + bytebeat + Fimpo Collier|title:F. Collier|youtube:iu7FFGgwBzQ
 
 
 :section 4k intro
 :youtube-playlist PLJO4AtxKJiFNcGOqtKF5CLRmyWzuGtiSA
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2017 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
 
-author:Pingviinituutti & FruitieX|platform:PC|pms-id:asm17/4k/321|techniques:WebGL, Ray marching, Web Audio API, javaskribula, ES!!!6, RegPack, Renoise|title:bloody brilliant|youtube:P-TgMzZZKPM
-author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm17/4k/361|techniques:OpenGL 4.5, C++, dnload.py|title:Primordial Soup|youtube:3SFu0IHsH9g
-author:mystran|platform:win32/opengl|pms-id:asm17/4k/496|techniques:luomuyrtit|title:humppatunneli|youtube:tf286sQbFic
-author:fatsopanda|platform:PC|pms-id:asm17/4k/499|techniques:C++, GLSL, Crinkler, 4klang|title:Plasma Lamp's Dance of Freedom|youtube:k8g2xCfqZgY
-author:oo|platform:PC|pms-id:asm17/4k/512|techniques:C++, GLSL, 4klang, Crinkler, GNU Rocket|title:Golden Show ...er|youtube:-eGRdyK7Pzw
-author:papumaja|platform:PC|pms-id:asm17/4k/516|techniques:WebGL, javascript, jsexe.exe|title:EyEdiovisual|youtube:QDPHxBzEzlo
-author:Kekegroup|platform:Windows|pms-id:asm17/4k/523|techniques:Compofiller Studio|title:Musiikkia ja visuaaleja|youtube:9kDU3oxIHfg
-author:provod|platform:win32|pms-id:asm17/4k/524|techniques:ogl asm pbr dof dsp glsl wtf|title:placeholder|youtube:LsXX34pefhA
-author:McBB|platform:w32|pms-id:asm17/4k/528|techniques:GLSL, Clinkster, Crinkler, nasm|title:realtime virginity|youtube:w3hCAu60Dwo
-author:lucid|platform:Microsoft Windows PC|pms-id:asm17/4k/529|techniques:OpenGL 2|title:main|youtube:ztkMt1Fg8Ec
-author:Luminaire|platform:Linux|pms-id:asm17/4k/531|techniques:GLSL, 4klang|title:Häiriökuilu|youtube:xltY8L6KoQg
-author:warek|platform:PC|pms-id:asm17/4k/541|techniques:crinkler HLSL c++|title:Day in the life of admin|youtube:yb9mtfsKCX0
+author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm17/4k/361|position:1|techniques:OpenGL 4.5, C++, dnload.py|title:Primordial Soup|youtube:3SFu0IHsH9g
+author:Pingviinituutti & FruitieX|platform:PC|pms-id:asm17/4k/321|position:2|techniques:WebGL, Ray marching, Web Audio API, javaskribula, ES!!!6, RegPack, Renoise|title:bloody brilliant|youtube:P-TgMzZZKPM
+author:mystran|platform:win32/opengl|pms-id:asm17/4k/496|position:3|techniques:luomuyrtit|title:humppatunneli|youtube:tf286sQbFic
+author:lucid|platform:Microsoft Windows PC|pms-id:asm17/4k/529|position:4|techniques:OpenGL 2|title:main|youtube:ztkMt1Fg8Ec
+author:Kekegroup|platform:Windows|pms-id:asm17/4k/523|position:5|techniques:Compofiller Studio|title:Musiikkia ja visuaaleja|youtube:9kDU3oxIHfg
+author:provod|platform:win32|pms-id:asm17/4k/524|position:6|techniques:ogl asm pbr dof dsp glsl wtf|title:placeholder|youtube:LsXX34pefhA
+author:Luminaire|platform:Linux|pms-id:asm17/4k/531|position:7|techniques:GLSL, 4klang|title:Häiriökuilu|youtube:xltY8L6KoQg
+author:oo|platform:PC|pms-id:asm17/4k/512|position:8|techniques:C++, GLSL, 4klang, Crinkler, GNU Rocket|title:Golden Show ...er|youtube:-eGRdyK7Pzw
+author:papumaja|platform:PC|pms-id:asm17/4k/516|position:9|techniques:WebGL, javascript, jsexe.exe|title:EyEdiovisual|youtube:QDPHxBzEzlo
+author:McBB|platform:w32|pms-id:asm17/4k/528|position:10|techniques:GLSL, Clinkster, Crinkler, nasm|title:realtime virginity|youtube:w3hCAu60Dwo
+author:fatsopanda|platform:PC|pms-id:asm17/4k/499|position:11|techniques:C++, GLSL, Crinkler, 4klang|title:Plasma Lamp's Dance of Freedom|youtube:k8g2xCfqZgY
+author:warek|platform:PC|pms-id:asm17/4k/541|position:12|techniques:crinkler HLSL c++|title:Day in the life of admin|youtube:yb9mtfsKCX0
 
 
 :section 1k intro
 :youtube-playlist PLJO4AtxKJiFN7LgRSjlf9oFNoZDasmLPm
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2017 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 
-author:Branch ^ Ivory Labs|platform:Windows|pms-id:asm17/1k/309|techniques:Exe|title:The Sound My Windows|youtube:kUg3sSE_XLs
-author:FruitieX|platform:PC|pms-id:asm17/1k/325|techniques:WebGL, ray marching, RegPack, bytebeats, fork me on github|title:plasmifier|youtube:P0KUhUnQAwk
-author:RIBBON|platform:Javascript|pms-id:asm17/1k/364|techniques:Lots of love and a massive circular saw|title:VOLTRA|youtube:JohZw5V4VTc
-author:Exca/Wide Load|platform:Webgl, chrome|pms-id:asm17/1k/507|techniques:Raymarching, tinymusic|title:Only entropy remains|youtube:2myi5cvomh4
-author:Fulcrum|platform:Windows PC with 1K diskspace|pms-id:asm17/1k/537|techniques:Crinkler, GLSL, ASM, custom tools, 1 month work|title:Shoot The Core 1K|youtube:5pyIpoqpYt4
-author:Walther|platform:Windows|pms-id:asm17/1k/540|techniques:Raymarch|title:Sugarcube|youtube:-yMOQeDbY4o
+author:RIBBON|platform:Javascript|pms-id:asm17/1k/364|position:1|techniques:Lots of love and a massive circular saw|title:VOLTRA|youtube:JohZw5V4VTc
+author:Fulcrum|platform:Windows PC with 1K diskspace|pms-id:asm17/1k/537|position:2|techniques:Crinkler, GLSL, ASM, custom tools, 1 month work|title:Shoot The Core 1K|youtube:5pyIpoqpYt4
+author:FruitieX|platform:PC|pms-id:asm17/1k/325|position:3|techniques:WebGL, ray marching, RegPack, bytebeats, fork me on github|title:plasmifier|youtube:P0KUhUnQAwk
+author:Exca/Wide Load|platform:Webgl, chrome|pms-id:asm17/1k/507|position:4|techniques:Raymarching, tinymusic|title:Only entropy remains|youtube:2myi5cvomh4
+author:Walther|platform:Windows|pms-id:asm17/1k/540|position:5|techniques:Raymarch|title:Sugarcube|youtube:-yMOQeDbY4o
+author:Branch ^ Ivory Labs|platform:Windows|pms-id:asm17/1k/309|position:6|techniques:Exe|title:The Sound My Windows|youtube:kUg3sSE_XLs
 
 
 :section Real wild demo
@@ -86,18 +82,17 @@ author:xinux & edvind|platform:win10|pms-id:asm17/real_wild_demo/409|position:9|
 :youtube-playlist PLJO4AtxKJiFMFtQQ0IINpsZLz_3gNAPUp
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 
-author:Quadtrip|platform:C64 / 8580 SID|pms-id:asm17/oldskool_demo/303|techniques:Kick Assembler, 16 colors, lft's Spindle, emulation, not sleeping|title:Broken|youtube:1qf_L3qo0Uc
-author:V-Nom|platform:Amiga AGA 68060|pms-id:asm17/oldskool_demo/384|title:Silent Winds|youtube:Qcweu1yxH-w
-author:dA JoRMaS|platform:Amiga 500|pms-id:asm17/oldskool_demo/497|techniques:68000 assembler + OCS magic|title:Kanaalin arvoitus|youtube:tq9Rzz5vytE
-author:Nah-Kolor|platform:Amiga AGA|pms-id:asm17/oldskool_demo/508|techniques:52kb of pure oldskool bytes|title:The Prophecy Returns|youtube:s2vEZ033IoA
-author:Dekadence + Mystic Bytes|platform:Atari ST (8MHz, 16 colors)|pms-id:asm17/oldskool_demo/510|techniques:Mad Skills|title:SillyVenture'17 Invitation|youtube:ZJnUSAuKH2Y
-author:Adapt|platform:Pentium133|pms-id:asm17/oldskool_demo/514|techniques:Old dusty codes/music/gfx resurrected, Midas, FT2-Clone, OpenMPT, Watcom|title:GoBIT|youtube:PM7gPI3E82E
-author:Byterapers|platform:Pentium, MCGA, GUS|pms-id:asm17/oldskool_demo/517|techniques:Vodka for Winners and Beer for the Best|title:My Summer Demo|youtube:5pNTlMXfDJk
-author:Zenon|platform:Amiga |pms-id:asm17/oldskool_demo/518|techniques:Protacker mod, personal paint pixels and some code too..|title:Where we are going|youtube:cga1WbxgvvM
-author:The Fiture Crew|platform:PC/DOS|pms-id:asm17/oldskool_demo/525|techniques:tasm + open watcom|title:Deep Hyttynen|youtube:zhRjf6MsRcI
-author:hedelmae|platform:MSX2|pms-id:asm17/oldskool_demo/526|techniques:Our first 8bit demo!|title:XV|youtube:_1kU1Rs6n7E
+author:Byterapers|platform:Pentium, MCGA, GUS|pms-id:asm17/oldskool_demo/517|position:1|techniques:Vodka for Winners and Beer for the Best|title:My Summer Demo|youtube:5pNTlMXfDJk
+author:Quadtrip|platform:C64 / 8580 SID|pms-id:asm17/oldskool_demo/303|position:2|techniques:Kick Assembler, 16 colors, lft's Spindle, emulation, not sleeping|title:Broken|youtube:1qf_L3qo0Uc
+author:hedelmae|platform:MSX2|pms-id:asm17/oldskool_demo/526|position:3|techniques:Our first 8bit demo!|title:XV|youtube:_1kU1Rs6n7E
+author:Dekadence + Mystic Bytes|platform:Atari ST (8MHz, 16 colors)|pms-id:asm17/oldskool_demo/510|position:4|techniques:Mad Skills|title:SillyVenture'17 Invitation|youtube:ZJnUSAuKH2Y
+author:The Fiture Crew|platform:PC/DOS|pms-id:asm17/oldskool_demo/525|position:5|techniques:tasm + open watcom|title:Deep Hyttynen|youtube:zhRjf6MsRcI
+author:Adapt|platform:Pentium133|pms-id:asm17/oldskool_demo/514|position:6|techniques:Old dusty codes/music/gfx resurrected, Midas, FT2-Clone, OpenMPT, Watcom|title:GoBIT|youtube:PM7gPI3E82E
+author:Nah-Kolor|platform:Amiga AGA|pms-id:asm17/oldskool_demo/508|position:7|techniques:52kb of pure oldskool bytes|title:The Prophecy Returns|youtube:s2vEZ033IoA
+author:Zenon|platform:Amiga |pms-id:asm17/oldskool_demo/518|position:8|techniques:Protacker mod, personal paint pixels and some code too..|title:Where we are going|youtube:cga1WbxgvvM
+author:dA JoRMaS|platform:Amiga 500|pms-id:asm17/oldskool_demo/497|position:9|techniques:68000 assembler + OCS magic|title:Kanaalin arvoitus|youtube:tq9Rzz5vytE
+author:V-Nom|platform:Amiga AGA 68060|pms-id:asm17/oldskool_demo/384|position:10|title:Silent Winds|youtube:Qcweu1yxH-w
 
 
 :section Short film
