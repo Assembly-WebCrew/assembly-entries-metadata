@@ -1,23 +1,24 @@
 :year 2017
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFPmigR5m7SSrvT_pu291vFG
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2017 PC computer.</p>
 :ongoing true
 
-author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|techniques:Unity, bread, no sleep|title:Alternative Bread Facts
-author:Melancholy|platform:pc|pms-id:asm17/demo/506|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification
-author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|techniques:Fusion, Blender, PS|title:Attempt6
-author:Adapt|platform:Windows|pms-id:asm17/demo/515|techniques:Ill Tecniques, QT/QML, OpenGL 4.5|title:Zoomin
-author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt
-author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|techniques:threejs, haxe|title:Bit of Light
-author:CNCD Fairlight|platform:PC|pms-id:asm17/demo/522|techniques:Made with Notch|title:Sokia
-author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|techniques:DirectX|title:fuzzy MUTATIONs
-author:Rustbloom|platform:PC|pms-id:asm17/demo/532|techniques:slicing|title:de_bust funk de_lax
-author:Epoch|platform:PC|pms-id:asm17/demo/534|techniques:E are back|title:Extra
-author:JUGZ|platform:Windows|pms-id:asm17/demo/535|techniques:Unity|title:Geometry Gods
-author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|techniques:DX9|title:Alkaline
-author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|techniques:Qt and C++|title:Muumiland
+author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|techniques:Unity, bread, no sleep|title:Alternative Bread Facts|youtube:Qk0ICis0E68
+author:Melancholy|platform:pc|pms-id:asm17/demo/506|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification|youtube:Du9FNrXWy08
+author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|techniques:Fusion, Blender, PS|title:Attempt6|youtube:BQN1doA_rbw
+author:Adapt|platform:Windows|pms-id:asm17/demo/515|techniques:Ill Tecniques, QT/QML, OpenGL 4.5|title:Zoomin|youtube:v8bg4EixkFk
+author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt|youtube:0kc2xnsmnk0
+author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|techniques:threejs, haxe|title:Bit of Light|youtube:F_rzFCASuB4
+author:CNCD Fairlight|platform:PC|pms-id:asm17/demo/522|techniques:Made with Notch|title:Sokia|youtube:ilHnGKGPsy8
+author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|techniques:DirectX|title:fuzzy MUTATIONs|youtube:pKtdqdPtYh4
+author:Rustbloom|platform:PC|pms-id:asm17/demo/532|techniques:slicing|title:de_bust funk de_lax|youtube:IWOHIyl9gcY
+author:Epoch|platform:PC|pms-id:asm17/demo/534|techniques:E are back|title:Extra|youtube:VhyjJevy1ok
+author:JUGZ|platform:Windows|pms-id:asm17/demo/535|techniques:Unity|title:Geometry Gods|youtube:dCrb8uyXkv4
+author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|techniques:DX9|title:Alkaline|youtube:mBKBoaLmY6U
+author:Karhoolina|platform:Linux|pms-id:asm17/demo/542|techniques:Qt and C++|title:Muumiland|youtube:Mastb-GH_fk
 
 
 :section 64k intro
