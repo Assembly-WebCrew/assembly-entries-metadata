@@ -154,7 +154,7 @@ author:Piiska feat. Saari|pms-id:asm17/listening_music/427|position:13|technique
 :section Fast music
 :youtube-playlist PLJO4AtxKJiFMQFiMGcesp0ntvynLXNfxQ
 :pms-category fast_music
-:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:description <p>Competitors had 1.5 hours to create a song that had a speech sample saying "Assembly 25 years" or "Assembly 25 vuotta" (voice sample or speechsynth accepted) and the speech had to be accompanied by either: a) C64 arps, b) Guitars, or c) Violins. Otherwise music could be created with any tools desired.</p>
 
 author:Dragon Ultra|platform:Lattiakaivo|pms-id:asm17/fast_music/490|position:1|techniques:One hand killing!|title:SuperDragonPowerTurbo|video-file:fast-music/08 superdragonpowerturbo_v1.flac.mp4|youtube:-vEZmW6paWc
 author:Jeff, Toveri Möyhö, Egg|platform:Audacity, real instruments, |pms-id:asm17/fast_music/473|position:2|techniques:Reipas yhteislaulu ja -soitto|title:The 25th Year Assy Anthem|video-file:fast-music/17 The 25th assy anthem.flac.mp4|youtube:Gm-P1JoMmtI
