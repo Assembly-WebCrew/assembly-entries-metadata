@@ -577,6 +577,7 @@ def get_youtube_info_data(entry):
     if "youtube-playlist" in entry["section"]:
         description += u"Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
     description += u"This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
+    description += u"Event website: http://www.assembly.org/\n"
 
     tags = set(get_party_tags(
             entry['section']['year'], entry['section']['name']))
