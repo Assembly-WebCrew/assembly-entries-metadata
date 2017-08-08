@@ -553,12 +553,12 @@ def get_youtube_info_data(entry):
             parts = sceneorg.split(",")
             i = 1
             for part in parts:
-                description += "Download %s part %d/%d: http://www.scene.org/file.php?file=%s\n" % (
+                description += u"Download %s part %d/%d: http://www.scene.org/file.php?file=%s\n" % (
                     download_type, i, len(parts), urllib.quote_plus(part))
                 i += 1
         else:
-            description += "Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.quote_plus(sceneorg))
+            description += u"Download %s: http://www.scene.org/file.php?file=%s\n" % (
+                download_type, urllib.quote_plus(sceneorg.encode("utf-8")))
 
     if 'sceneorgvideo' in entry:
         if not newlined:
