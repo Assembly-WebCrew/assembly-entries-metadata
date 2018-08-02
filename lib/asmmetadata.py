@@ -326,6 +326,13 @@ def parse_file(file_handle):
                     section["author-in-title"] = False
                 else:
                     section["author-in-title"] = True
+            elif data_type == ":manage-youtube-descriptions":
+                # All kinds of eSports and AssemblyTV have author
+                # added descriptions that we don't want to overwrite.
+                if value.lower() == "false":
+                    section['manage-youtube-descriptions'] = False
+                else:
+                    section['manage-youtube-descriptions'] = True
             else:
                 raise RuntimeError, "Unknown type %s." % data_type
             continue

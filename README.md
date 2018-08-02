@@ -51,7 +51,7 @@ conversion process and get uploaded to Youtube by someone else.
      that are uploaded to Youtube.
 2. API access rights to PMS.
 3. Youtube account.
-4. Address for elaine data dump (vods.xml).
+4. Address for elaine data dump (vods.xml). Not necessarily available.
 5. All the people who may upload data to Youtube.
 
 PMS access is for the fact that we need to convert images and music to
@@ -96,6 +96,8 @@ categories.
 https://pms.paeae.fi/asm15/compos/admin/export/
 
 ## Process for Elaine based data
+
+Elaine may not be working during the event.
 
 # Library
 

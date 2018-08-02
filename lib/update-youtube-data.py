@@ -9,6 +9,8 @@ def update_youtube_info(yt_service, entry_data):
     for entry in entry_data.entries:
         if 'youtube' not in entry:
             continue
+        if not entry["section"]["manage-youtube-descriptions"]:
+            continue
         update_youtube_info_entry(yt_service, entry)
 
 
