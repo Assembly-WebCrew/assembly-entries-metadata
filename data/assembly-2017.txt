@@ -13,7 +13,7 @@ author:einklang.net (pet/ronny)|platform:Windows|pms-id:asm17/demo/530|position:
 author:Pyrotech|platform:Windows|pms-id:asm17/demo/536|position:6|sceneorg:/parties/2017/assembly17/demo/alkaline_by_pyrotech.zip|techniques:DX9|title:Alkaline|youtube:mBKBoaLmY6U
 author:Rustbloom|platform:PC|pms-id:asm17/demo/532|position:7|sceneorg:/parties/2017/assembly17/demo/de_bust_funk_de_lax_by_rustbloom.zip|techniques:slicing|title:de_bust funk de_lax|youtube:IWOHIyl9gcY
 author:Melancholy|platform:pc|pms-id:asm17/demo/506|position:8|sceneorg:/parties/2017/assembly17/demo/objectification_by_melancholy.zip|techniques:opengl 2.0es, uno compiler, drums recorded at cottage 300km up North|title:Objectification|youtube:Du9FNrXWy08
-author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|position:9|sceneorg:/parties/2017/assembly17/demo/bit_of_light_by_wide_load.zip|techniques:threejs, haxe|title:Bit of Light|youtube:F_rzFCASuB4
+author:Wide Load|platform:Webgl, chrome|pms-id:asm17/demo/521|position:9|sceneorg:/parties/2017/assembly17/demo/bit_of_light_by_wide_load.zip|techniques:threejs, haxe|title:Bit of Light|youtube:iur4ZWME-58
 author:TPOLM|platform:WebVR|pms-id:asm17/demo/520|position:10|sceneorg:/parties/2017/assembly17/demo/muumiland_by_karhoolina.zip|techniques:Vizor Patches, Three.js, Google Blocks|title:Brainmelt|youtube:0kc2xnsmnk0
 author:U+1F35E|platform:Windows|pms-id:asm17/demo/505|position:11|sceneorg:/parties/2017/assembly17/demo/alternative_bread_facts_by_u+1f35e.zip|techniques:Unity, bread, no sleep|title:Alternative Bread Facts|youtube:Qk0ICis0E68
 author:KoomaDot|platform:Windows|pms-id:asm17/demo/513|position:12|sceneorg:/parties/2017/assembly17/demo/attempt6_by_koomadot.zip|techniques:Fusion, Blender, PS|title:Attempt6|youtube:BQN1doA_rbw
@@ -294,6 +294,9 @@ author:AssemblyTV|title:Assembly Summer 2017: Haastattelussa Stage host  Esa "Sn
 author:AssemblyTV|title:4k compostudio|youtube:SHxMQV9dBk0
 author:AssemblyTV|title:1k compostudio|youtube:xyk2iJzOtmM
 author:AssemblyTV|title:Oldskool compostudio|youtube:O6d84eg6AC8
+author:AssemblyTV|title:64k compostudio|youtube:SzzZqsUt6t4
+author:AssemblyTV|title:Demo compostudio|youtube:6dP8NMqeW8w
+author:AssemblyTV|title:Assembly Summer 2017: Kiitos Assembly Summer 2017!|youtube:QC1WOPhNlng
 
 
 :section eSports
@@ -334,6 +337,8 @@ author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - Alpha Gaming vs Vita
 author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Winners - Team Gigantti vs Helsinki REDS (English)|youtube:ocWsvdz5v_0
 author:AssemblyTV|title:ROG Masters CS:GO Nordic LB - Alpha Gaming vs Vitalis (Finnish)|youtube:B6rW9crKE1Y
 author:AssemblyTV|title:ROG Masters CS:GO Nordic LB - Alpha Gaming vs Vitalis (English)|youtube:0mbtgZ0B6dY
+author:AssemblyTV|title:ROG Masters CS:GO Nordic Final - HAVU Gaming vs Vitalis (Finnish)|youtube:Y6kr6CSy-pw
+author:AssemblyTV|title:ROG Masters CS:GO Nordic Final - HAVU Gaming vs Vitalis (English)|youtube:6Gvcsh9gPSo
 
 
 :section Misc
