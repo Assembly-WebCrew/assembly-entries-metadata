@@ -409,6 +409,11 @@ def print_metadata(outfile, year_entry_data):
             outfile.write(":public-after %s\n" % public_after_text)
         if 'galleriafi' in section:
             outfile.write(":galleriafi %s\n" % section['galleriafi'])
+        if 'manage-youtube-descriptions' in section:
+            manage_text = "true"
+            if section['manage-youtube-descriptions'] is False:
+                manage_text = "false"
+            outfile.write(":manage-youtube-descriptions %s\n" % manage_text)
 
         outfile.write("\n")
 

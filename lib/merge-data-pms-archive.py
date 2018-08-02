@@ -50,10 +50,13 @@ for entry in parsed_data:
         addable_data = {'section': selected_section}
 
     addable_data['pms-id'] = entry['id']
-    addable_data['title'] = entry['title']
+    addable_data['title'] = asmmetadata.escape_value(entry['title'])
     addable_data['author'] = entry.get('author', None)
     if addable_data['author'] is None:
         del addable_data['author']
+    else:
+        addable_data['author'] = asmmetadata.escape_value(addable_data['author'])
+
     section_entries.append(addable_data)
 
     # XXX why is this commented out?
