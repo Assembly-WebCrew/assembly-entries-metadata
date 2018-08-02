@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+
 import os
 import httplib2
+import re
 import time
 
 from apiclient.discovery import build
@@ -87,3 +90,15 @@ def try_operation(label, function, retries=3, sleep=4):
     print "Failed: %s. Sleeping for 600 seconds." % label
     time.sleep(600)
     return None
+
+
+URL_REGEX = re.compile(r"^(?:(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\.com)?\/.+v=)([a-zA-Z0-9_-]{11}).*")
+
+
+def get_video_id_try_url(possible_url):
+    if re.match(r"^[a-zA-Z0-9_-]{11}$", possible_url):
+        return possible_url
+    matches = URL_REGEX.match(possible_url)
+    if not matches:
+        return None
+    return matches.group(7)
