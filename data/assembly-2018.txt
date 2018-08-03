@@ -105,27 +105,27 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :ongoing true
 :public-after 2018-08-03 19:45
 
-author:(author hidden until results)|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/753|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/754|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/755|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/757|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/759|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/760|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/761|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/762|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/763|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/764|title:Beach Party|video-file:fast-music/beach_party.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/765|title:Zebra|video-file:fast-music/zebra.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/766|title:Kallio|video-file:fast-music/kallio.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/767|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/768|title:Beach Club|video-file:fast-music/beach_club.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/769|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/771|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/772|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/773|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4
-author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4
+author:(author hidden until results)|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
+author:(author hidden until results)|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
+author:(author hidden until results)|pms-id:asm18/fast_music/753|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4|youtube:BVRjS65Ikto
+author:(author hidden until results)|pms-id:asm18/fast_music/754|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4|youtube:z_dcEC6ySWQ
+author:(author hidden until results)|pms-id:asm18/fast_music/755|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4|youtube:Y8UOXFQrZ2c
+author:(author hidden until results)|pms-id:asm18/fast_music/757|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4|youtube:Z7NOqxLlzxs
+author:(author hidden until results)|pms-id:asm18/fast_music/759|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4|youtube:2KG624qt8fM
+author:(author hidden until results)|pms-id:asm18/fast_music/760|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4|youtube:1md8BX9P-L4
+author:(author hidden until results)|pms-id:asm18/fast_music/761|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4|youtube:Z_NXPE2PqlY
+author:(author hidden until results)|pms-id:asm18/fast_music/762|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4|youtube:KvqrLM-wntg
+author:(author hidden until results)|pms-id:asm18/fast_music/763|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4|youtube:lGX30v04uU8
+author:(author hidden until results)|pms-id:asm18/fast_music/764|title:Beach Party|video-file:fast-music/beach_party.flac.mp4|youtube:3hV4XYndidM
+author:(author hidden until results)|pms-id:asm18/fast_music/765|title:Zebra|video-file:fast-music/zebra.flac.mp4|youtube:pAhADob9h0E
+author:(author hidden until results)|pms-id:asm18/fast_music/766|title:Kallio|video-file:fast-music/kallio.flac.mp4|youtube:Wn1-8QAdNTM
+author:(author hidden until results)|pms-id:asm18/fast_music/767|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4|youtube:w7lSybcPk5c
+author:(author hidden until results)|pms-id:asm18/fast_music/768|title:Beach Club|video-file:fast-music/beach_club.flac.mp4|youtube:jTRm5mojfi8
+author:(author hidden until results)|pms-id:asm18/fast_music/769|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4|youtube:1DWE__QDAc0
+author:(author hidden until results)|pms-id:asm18/fast_music/771|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4|youtube:fhxhZdPfJMc
+author:(author hidden until results)|pms-id:asm18/fast_music/772|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4|youtube:i8AfGXm2WS0
+author:(author hidden until results)|pms-id:asm18/fast_music/773|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4|youtube:5jT3riCoPeY
+author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4|youtube:cBr0c7GR01w
 
 
 :section Pixel graphics
