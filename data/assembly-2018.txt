@@ -173,7 +173,9 @@ title:ARTtech seminars - Sami Heinonen: XR - Is now the time|youtube:PN0x0A2Qj0E
 :public false
 :manage-youtube-descriptions false
 
-
+title:Assembly Summer 2018 Streamcorner|youtube:0vg33P32kbE|description:Streamcorner schedule:<br/>https://www.assembly.org/summer18/program/streamcorner</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
+title:Assembly Summer 2018 OnePlus|youtube:MunU8MwlVTE|description:OnePlus: https://www.oneplus.com/fi/</p><p>Assembly some:<br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
+title:Assembly Summer 2018 Scene Lounge|youtube:yBHsWpawiYM|description:Scene Lounge:<br/>https://www.assembly.org/summer18/demoscene/scene-lounge</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
 
 :section eSports
 :ranked false
@@ -190,8 +192,6 @@ title:ARTtech seminars - Sami Heinonen: XR - Is now the time|youtube:PN0x0A2Qj0E
 
 title:Assembly Summer 2018 lähestyy!|youtube:D6msT9X5ZFw|description:Siikafest tulee taas! Jos sinulla ei ole vielä lippuja Suomen suurimpaan pelitapahtumaan, niin ne löydät täältä: https://tickets.assembly.org/MoyaWeb</p><p>ASSEMBLY arrives again! If you still don't have the tickets for the largest LAN & Gaming happening in Finland, you should grab them from here: https://tickets.assembly.org/</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
 title:Assembly Summer program|youtube:P8QjFzTKNvo|description:Just over a week and the doors to Assembly Summer 2018 are open! Once more there is tons of things to fill your plate with: Esports, Demoscene, Streamcorner, seminars and lot of other activities! We’ll see you @ Assembly!</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
-title:Assembly Summer 2018 Streamcorner|youtube:0vg33P32kbE|description:Streamcorner schedule:<br/>https://www.assembly.org/summer18/program/streamcorner</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
-title:Assembly Summer 2018 OnePlus|youtube:MunU8MwlVTE|description:OnePlus: https://www.oneplus.com/fi/</p><p>Assembly some:<br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|author:AssemblyTV
 
 
 :section Winter
