@@ -104,6 +104,21 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :ongoing true
 :public-after 2018-08-04 13:30+0300
 
+author:(author hidden until results)|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4
 
 
 :section Dance music
@@ -164,19 +179,47 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 
 
 :section Graphics
-:pms-category graphics
+:pms-category graphics_competition
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
 :public-after 2018-08-04 14:30+0300
 
+author:(author hidden until results)|image-file:graphics/04.night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
+author:(author hidden until results)|image-file:graphics/06.slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
+author:(author hidden until results)|image-file:graphics/08.wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
+author:(author hidden until results)|image-file:graphics/10.PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
+author:(author hidden until results)|image-file:graphics/13.SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
+author:(author hidden until results)|image-file:graphics/01.A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
+author:(author hidden until results)|image-file:graphics/11.First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
+author:(author hidden until results)|image-file:graphics/07.Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
+author:(author hidden until results)|image-file:graphics/05.cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
+author:(author hidden until results)|image-file:graphics/02.seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
+author:(author hidden until results)|image-file:graphics/12.trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
+author:(author hidden until results)|image-file:graphics/03.going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
+author:(author hidden until results)|image-file:graphics/09.Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
 
 
 :section Photo
-:pms-category photo
+:pms-category photo_competition
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
 :public-after 2018-08-04 14:15+0300
 
+author:(author hidden until results)|image-file:photo/it_spawns/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
+author:(author hidden until results)|image-file:photo/ball_of_love/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
+author:(author hidden until results)|image-file:photo/1200_rpm/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
+author:(author hidden until results)|image-file:photo/real-time_raytracing_iv/Real-time_raytracing_3_by_biini.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
+author:(author hidden until results)|image-file:photo/gems_for_you/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
+author:(author hidden until results)|image-file:photo/heartbeat/reflections final cropped.jpg|pms-id:asm18/photo_competition/605|title:Heartbeat
+author:(author hidden until results)|image-file:photo/your_galactic_über_is_here/Your Galactic uber Is Here_final.jpg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
+author:(author hidden until results)|image-file:photo/bubbles_of_polarity/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
+author:(author hidden until results)|image-file:photo/irregular_habitat/Irregular Habitat by tug.jpg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
+author:(author hidden until results)|image-file:photo/bohemian_rays/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
+author:(author hidden until results)|image-file:photo/gateway_to_assembly_2049/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
+author:(author hidden until results)|image-file:photo/laundry_room_demo_party/ASM18_Photo_HennaTuunainen_1920x1080_Final.jpg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
+author:(author hidden until results)|image-file:photo/cxirkauxvojo/ted_cxirkauxvojo.jpg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
+author:(author hidden until results)|image-file:photo/erasing_memories/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
+author:(author hidden until results)|image-file:photo/fire_mage_in_helsinki/P8010816.jpg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
 
 
 :section Fast graphics
