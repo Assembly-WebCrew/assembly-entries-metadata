@@ -4,7 +4,7 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2018 PC computer.</p>
 :ongoing true
-:public-after 2018-08-05 00:45
+:public-after 2018-08-05 00:45 EEST
 
 
 
@@ -12,7 +12,7 @@
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2018 PC computer.</p>
 :ongoing true
-:public-after 2018-08-04 20:00
+:public-after 2018-08-04 20:00 EEST
 
 
 
@@ -20,7 +20,7 @@
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2018 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public-after 2018-08-04 19:00
+:public-after 2018-08-04 19:00 EEST
 
 
 
@@ -28,7 +28,7 @@
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2018 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public-after 2018-08-04 18:30
+:public-after 2018-08-04 18:30 EEST
 
 
 
@@ -36,7 +36,7 @@
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public-after 2018-08-03 21:30
+:public-after 2018-08-03 21:30 EEST
 
 
 
@@ -44,7 +44,7 @@
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
-:public-after 2018-08-03 23:15
+:public-after 2018-08-03 23:15 EEST
 
 
 
@@ -52,7 +52,7 @@
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public-after 2018-08-03 22:00
+:public-after 2018-08-03 22:00 EEST
 
 
 
@@ -79,7 +79,7 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :ongoing true
-:public-after 2018-08-04 17:30
+:public-after 2018-08-04 17:30 EEST
 
 
 
@@ -87,7 +87,7 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public-after 2018-08-04 13:30
+:public-after 2018-08-04 13:30 EEST
 
 
 
@@ -95,7 +95,7 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
-:public-after 2018-08-04 00:30
+:public-after 2018-08-04 00:30 EEST
 
 
 
@@ -103,7 +103,7 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that had a theme "Miami Beach".</p>
 :ongoing true
-:public-after 2018-08-03 19:45
+:public-after 2018-08-03 19:45 EEST
 
 author:(author hidden until results)|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
 author:(author hidden until results)|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
@@ -132,7 +132,7 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :pms-category pixel_graphics
 :description <p>Pixel graphics had a limitation of 320x240 resolution with 256 colors and no animation. Otherwise there were no other limitations.</p>
 :ongoing true
-:public-after 2018-08-04 16:30
+:public-after 2018-08-04 16:30 EEST
 
 
 
@@ -140,7 +140,7 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public-after 2018-08-04 14:30
+:public-after 2018-08-04 14:30 EEST
 
 
 
@@ -148,7 +148,7 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :pms-category photo
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
-:public-after 2018-08-04 14:15
+:public-after 2018-08-04 14:15 EEST
 
 
 
@@ -156,7 +156,7 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "There’s no influence" or "X" theme.</p>
 :ongoing true
-:public-after 2018-08-03 20:30
+:public-after 2018-08-03 20:30 EEST
 
 
 
