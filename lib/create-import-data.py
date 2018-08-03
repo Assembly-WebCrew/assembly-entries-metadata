@@ -56,7 +56,7 @@ def select_smaller_thumbnail(fileprefix):
 entry_data = asmmetadata.parse_file(sys.stdin)
 
 print """<?xml version="1.0" encoding="utf-8"?>
-<import base="http://archive.assembly.org">
+<import base="https://archive.assembly.org">
   <mediagallery path="%(year)s" purge="true">
     <edition parameters="lang: workflow:public"
          title="%(year)s"

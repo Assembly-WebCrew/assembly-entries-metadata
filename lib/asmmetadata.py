@@ -362,7 +362,7 @@ def escape_value(value):
 
 def get_archive_link_entry(entry):
     key = get_entry_key(entry)
-    return u"http://archive.assembly.org/%d/%s/%s" % (
+    return u"https://archive.assembly.org/%d/%s/%s" % (
         entry["section"]["year"], entry["section"]["key"], key)
 
 
