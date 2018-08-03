@@ -60,20 +60,19 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
-:public false
 
-author:JjyKs & MakkaraHauki|pms-id:asm18/gamedev/544|title:City Bike Simulator
-author:Ask37|pms-id:asm18/gamedev/545|title:Compose It!
-author:Team Grappling Hook|pms-id:asm18/gamedev/546|title:Tanks With Hands: Armed and Treaded
-author:SirRandom feat. Taeaekkae|pms-id:asm18/gamedev/547|title:Medlab Terror
-author:Urpojugend|pms-id:asm18/gamedev/549|title:Hack The Planet
-author:Half Bent|pms-id:asm18/gamedev/550|title:Victims of Gravity
-author:Team Magic Forest|pms-id:asm18/gamedev/551|title:Frog Out!
-author:Limba|pms-id:asm18/gamedev/552|title:Drone Race PC
-author:Haxax|pms-id:asm18/gamedev/553|title:Spiduel
-author:McBurrobit|pms-id:asm18/gamedev/554|title:SummerSplash
-author:Mipelius|pms-id:asm18/gamedev/555|title:Planet A18
-author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title:C.L.A.Y.
+author:JjyKs & MakkaraHauki|pms-id:asm18/gamedev/544|title:City Bike Simulator|youtube:1HQlStAxERQ
+author:Ask37|pms-id:asm18/gamedev/545|title:Compose It!|youtube:WRnWnstIewI
+author:Team Grappling Hook|pms-id:asm18/gamedev/546|title:Tanks With Hands: Armed and Treaded|youtube:vV3taMSClGM
+author:SirRandom feat. Taeaekkae|pms-id:asm18/gamedev/547|title:Medlab Terror|youtube:d59fhN33AiM
+author:Urpojugend|pms-id:asm18/gamedev/549|title:Hack The Planet|youtube:2In36Unk7nI
+author:Half Bent|pms-id:asm18/gamedev/550|title:Victims of Gravity|youtube:Ulxa5mWuH8M
+author:Team Magic Forest|pms-id:asm18/gamedev/551|title:Frog Out!|youtube:-faJA1hYVR0
+author:Limba|pms-id:asm18/gamedev/552|title:Drone Race PC|youtube:SFq4Egv8x7M
+author:Haxax|pms-id:asm18/gamedev/553|title:Spiduel|youtube:3XBzfJLX7vs
+author:McBurrobit|pms-id:asm18/gamedev/554|title:SummerSplash|youtube:bZZZAPlhgMc
+author:Mipelius|pms-id:asm18/gamedev/555|title:Planet A18|youtube:O_LuZTl5zEc
+author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title:C.L.A.Y.|youtube:I6xbfRXdspk
 
 
 :section Tracked music
