@@ -38,9 +38,9 @@
 :ongoing true
 :public-after 2018-08-03 21:30+0300
 
-author:Satori + dA JoRMaS|pms-id:asm18/real_wild/622|title:Rave On
-author:Utfart|pms-id:asm18/real_wild/723|title:EnO saa Saunoa
-author:Hacklab.fi|pms-id:asm18/real_wild/741|title:Hacklab LED system
+author:Satori + dA JoRMaS|pms-id:asm18/real_wild/622|title:Rave On|youtube:djOYlaCJl8M
+author:Utfart|pms-id:asm18/real_wild/723|title:EnO saa Saunoa|youtube:To22jVOFhCE
+author:Hacklab.fi|pms-id:asm18/real_wild/741|title:Hacklab LED system|youtube:BDaADf2t3qE
 
 
 :section Oldskool demo
@@ -210,15 +210,25 @@ author:AssemblyTV|description:Streamcorner schedule:<br/>https://www.assembly.or
 author:AssemblyTV|description:OnePlus: https://www.oneplus.com/fi/</p><p>Assembly some:<br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 OnePlus|youtube:MunU8MwlVTE
 author:AssemblyTV|description:Scene Lounge:<br/>https://www.assembly.org/summer18/demoscene/scene-lounge</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 Scene Lounge|youtube:yBHsWpawiYM
 author:AssemblyTV|description:Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 - Bigger than EVER|youtube:19YmEFSGQB4
+title:AssemblyTV - So a Finn, a German and a Belgian walk into a demoparty|youtube:mQ9amni-nHY|author:AssemblyTV
+title:AssemblyTV Seminar - Programming with 8-bit platforms|youtube:kSKqZn3iKOM|author:AssemblyTV
+title:Fireside chat - Jon Hare|youtube:7xISg9N8HQs|author:AssemblyTV
+title:Assembly AamuTV perjantai|youtube:31XkVCqyqLo|author:AssemblyTV
+title:Telia 5G Porukat vs Porukat|youtube:kHWFLyhmbas|author:AssemblyTV
+title:AssemblyTV begins|youtube:y9CiqIUPvGA|author:AssemblyTV
+title:Assembly Summer 2018 avajaiset|youtube:34YqyuYvTU8|author:AssemblyTV
+title:AssemblyTV Seminar - Let's make a demo workshop|youtube:HkpPED5JXKc|author:AssemblyTV
+title:Fireside chat - Tatu Petersen-Jessen|youtube:70RYxPsjOM4|author:AssemblyTV
+title:Gamedev compostudio|youtube:vKf1gZqI7vM|author:AssemblyTV
+title:Gamedev compo (with commentary)|youtube:EYMOO5vNxa0|author:AssemblyTV
 
 
 :section eSports
 :ranked false
 :author-in-title false
-:public false
 :manage-youtube-descriptions false
 
-
+title:MSI Rainbow Six - Siege Showmatch|youtube:CfmKqb8GYGA|author:AssemblyTV
 
 :section Misc
 :ranked false
