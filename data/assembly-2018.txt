@@ -57,16 +57,16 @@ author:Hacklab.fi|pms-id:asm18/real_wild/741|title:Hacklab LED system|youtube:BD
 :ongoing true
 :public-after 2018-08-03 22:00+0300
 
-author:TAMIA5G/Iivo Korhonen/Axel Solimeïs|pms-id:asm18/short_film/563|title:FIDSGETS SPINNERS' CLUB V
-author:Keuhkovammaistenliitto|pms-id:asm18/short_film/581|title:Tartu
-author:Elite Dekkerz|pms-id:asm18/short_film/590|title:Pullon henki
-author:TULIMERI|pms-id:asm18/short_film/611|title:A Song for the assembly
-author:TVH animation|pms-id:asm18/short_film/647|title:Pop
-author:SBA|pms-id:asm18/short_film/673|title:Agent 404 - Gullseye
-author:Lehikoinen ja Hevoset|pms-id:asm18/short_film/674|title:Assembly is tomorrow, this we must do
-author:Randomheads|pms-id:asm18/short_film/688|title:Mainoskatko ii
-author:DatafoxStudios / Melodïcore|pms-id:asm18/short_film/740|title:NWO
-author:Studio Menestys|pms-id:asm18/short_film/743|title:Assembly: Ole Ihmisiksi
+author:TAMIA5G/Iivo Korhonen/Axel Solimeïs|pms-id:asm18/short_film/563|title:FIDSGETS SPINNERS' CLUB V|youtube:W-TlBdvN9JY
+author:Keuhkovammaistenliitto|pms-id:asm18/short_film/581|title:Tartu|youtube:bnoHnCDQL0g
+author:Elite Dekkerz|pms-id:asm18/short_film/590|title:Pullon henki|youtube:R_a1yYeoi9Q
+author:TULIMERI|pms-id:asm18/short_film/611|title:A Song for the assembly|youtube:RXSBOEPHP0M
+author:TVH animation|pms-id:asm18/short_film/647|title:Pop|youtube:C6bc8LvKUv0
+author:SBA|pms-id:asm18/short_film/673|title:Agent 404 - Gullseye|youtube:cqfKHZUENLo
+author:Lehikoinen ja Hevoset|pms-id:asm18/short_film/674|title:Assembly is tomorrow, this we must do|youtube:MnKw6km25E4
+author:Randomheads|pms-id:asm18/short_film/688|title:Mainoskatko ii|youtube:xfwq9F856-8
+author:DatafoxStudios / Melodïcore|pms-id:asm18/short_film/740|title:NWO|youtube:J2rcVzmYxaE
+author:Studio Menestys|pms-id:asm18/short_film/743|title:Assembly: Ole Ihmisiksi|youtube:KSWegO22p48
 
 
 :section Gamedev
