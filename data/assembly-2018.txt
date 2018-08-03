@@ -158,16 +158,16 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :ongoing true
 :public-after 2018-08-03 20:30+0300
 
-author:(author hidden until results)|pms-id:asm18/fast_graphics/697|title:Crossroads|image:fast-graphics/crossroads.png
-author:(author hidden until results)|pms-id:asm18/fast_graphics/698|title:Sivuoireet|image:fast-graphics/sivuoireet.png
-author:(author hidden until results)|pms-id:asm18/fast_graphics/700|title:X-mas|image:fast-graphics/x-mas_nosig.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/701|title:X lol|image:fast-graphics/x_lol.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/704|title:Ms X|image:fast-graphics/ms_x.png
-author:(author hidden until results)|pms-id:asm18/fast_graphics/708|title:Adventurers choice|image:fast-graphics/adventurers_choice.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/709|title:Pari milliä vasemmalle|image:fast-graphics/pari_milliä_vasemmalle.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/711|title:There is nothing at X|image:fast-graphics/there_is_nothing_at_x.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/713|title:Is Not Happening|image:fast-graphics/is_not_happening.jpg
-author:(author hidden until results)|pms-id:asm18/fast_graphics/715|title:I have your files|image:fast-graphics/i_have_your_files.png
+author:(author hidden until results)|pms-id:asm18/fast_graphics/697|title:Crossroads|image-file:fast-graphics/crossroads.png
+author:(author hidden until results)|pms-id:asm18/fast_graphics/698|title:Sivuoireet|image-file:fast-graphics/sivuoireet.png
+author:(author hidden until results)|pms-id:asm18/fast_graphics/700|title:X-mas|image-file:fast-graphics/x-mas_nosig.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/701|title:X lol|image-file:fast-graphics/x_lol.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/704|title:Ms X|image-file:fast-graphics/ms_x.png
+author:(author hidden until results)|pms-id:asm18/fast_graphics/708|title:Adventurers choice|image-file:fast-graphics/adventurers_choice.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/709|title:Pari milliä vasemmalle|image-file:fast-graphics/pari_milliä_vasemmalle.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/711|title:There is nothing at X|image-file:fast-graphics/there_is_nothing_at_x.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/713|title:Is Not Happening|image-file:fast-graphics/is_not_happening.jpg
+author:(author hidden until results)|pms-id:asm18/fast_graphics/715|title:I have your files|image-file:fast-graphics/i_have_your_files.png
 
 
 :section Seminars
