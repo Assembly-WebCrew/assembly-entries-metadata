@@ -16,7 +16,7 @@ for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
 
     "${FFMPEG[@]}" -loop 1 -r 10 \
         -i "$MUSIC_BACKGROUND" -i "$MUSIC_FILE" \
-        -c:a aac -b:a 256k \
+        -c:a aac -b:a 384k \
         -c:v libx264 -r 10 -crf 0 -preset ultrafast -shortest \
         -y "$TARGET_FILE"
 done
