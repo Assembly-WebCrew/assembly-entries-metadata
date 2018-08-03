@@ -110,18 +110,18 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :ongoing true
 :public-after 2018-08-04 00:30+0300
 
-author:(author hidden until results)|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/587|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/602|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/613|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/618|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/627|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/628|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/652|title:Eolian|video-file:dance-music/06_eolian.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/653|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/654|title:Throwback|video-file:dance-music/04_throwback.flac.mp4
-author:(author hidden until results)|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4
+author:(author hidden until results)|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
+author:(author hidden until results)|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
+author:(author hidden until results)|pms-id:asm18/dance_music/587|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4|youtube:Z5OtpDC0-MU
+author:(author hidden until results)|pms-id:asm18/dance_music/602|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4|youtube:YrQ-MWrGEz8
+author:(author hidden until results)|pms-id:asm18/dance_music/613|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4|youtube:-UqXcFZoPd4
+author:(author hidden until results)|pms-id:asm18/dance_music/618|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4|youtube:EnbFjpTKg54
+author:(author hidden until results)|pms-id:asm18/dance_music/627|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4|youtube:uZAwZRJPPYk
+author:(author hidden until results)|pms-id:asm18/dance_music/628|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4|youtube:Hm2Q3EjLves
+author:(author hidden until results)|pms-id:asm18/dance_music/652|title:Eolian|video-file:dance-music/06_eolian.flac.mp4|youtube:vC34dzT6myA
+author:(author hidden until results)|pms-id:asm18/dance_music/653|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4|youtube:6pXAXN5Se8c
+author:(author hidden until results)|pms-id:asm18/dance_music/654|title:Throwback|video-file:dance-music/04_throwback.flac.mp4|youtube:67-gLuKZ82Q
+author:(author hidden until results)|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4|youtube:faqRk7m7CbE
 
 
 :section Fast music
