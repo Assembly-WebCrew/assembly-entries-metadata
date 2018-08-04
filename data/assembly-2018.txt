@@ -104,21 +104,21 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :ongoing true
 :public-after 2018-08-04 13:30+0300
 
-author:(author hidden until results)|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4
-author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4
+author:(author hidden until results)|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
+author:(author hidden until results)|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
+author:(author hidden until results)|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4|youtube:gVFEQT8wpBc
+author:(author hidden until results)|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4|youtube:b_Tte0X7vUk
+author:(author hidden until results)|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4|youtube:iYD-aLZeIyM
+author:(author hidden until results)|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4|youtube:A2K19-TbjWU
+author:(author hidden until results)|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4|youtube:nGafXph5W9A
+author:(author hidden until results)|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4|youtube:QMQReo56kvM
+author:(author hidden until results)|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4|youtube:qnw5R04o0cI
+author:(author hidden until results)|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4|youtube:OoFA7o8xzko
+author:(author hidden until results)|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4|youtube:Gq56IhpaDZ4
+author:(author hidden until results)|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4|youtube:EuEz_ljUFRE
+author:(author hidden until results)|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4|youtube:vzw-LJOLtT0
+author:(author hidden until results)|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4|youtube:O048sF_q93I
+author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4|youtube:e6RfLhUt1m0
 
 
 :section Dance music
@@ -205,21 +205,21 @@ author:(author hidden until results)|image-file:graphics/09.Megaspore_Mother_Cel
 :ongoing true
 :public-after 2018-08-04 14:15+0300
 
-author:(author hidden until results)|image-file:photo/it_spawns/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
-author:(author hidden until results)|image-file:photo/ball_of_love/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
-author:(author hidden until results)|image-file:photo/1200_rpm/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
-author:(author hidden until results)|image-file:photo/real-time_raytracing_iv/Real-time_raytracing_3_by_biini.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
-author:(author hidden until results)|image-file:photo/gems_for_you/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
-author:(author hidden until results)|image-file:photo/heartbeat/reflections final cropped.jpg|pms-id:asm18/photo_competition/605|title:Heartbeat
-author:(author hidden until results)|image-file:photo/your_galactic_über_is_here/Your Galactic uber Is Here_final.jpg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
-author:(author hidden until results)|image-file:photo/bubbles_of_polarity/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
-author:(author hidden until results)|image-file:photo/irregular_habitat/Irregular Habitat by tug.jpg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
-author:(author hidden until results)|image-file:photo/bohemian_rays/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
-author:(author hidden until results)|image-file:photo/gateway_to_assembly_2049/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
-author:(author hidden until results)|image-file:photo/laundry_room_demo_party/ASM18_Photo_HennaTuunainen_1920x1080_Final.jpg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
-author:(author hidden until results)|image-file:photo/cxirkauxvojo/ted_cxirkauxvojo.jpg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
-author:(author hidden until results)|image-file:photo/erasing_memories/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
-author:(author hidden until results)|image-file:photo/fire_mage_in_helsinki/P8010816.jpg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
+author:(author hidden until results)|image-file:photo/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
+author:(author hidden until results)|image-file:photo/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
+author:(author hidden until results)|image-file:photo/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
+author:(author hidden until results)|image-file:photo/real-time-raytracing-iv.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
+author:(author hidden until results)|image-file:photo/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
+author:(author hidden until results)|image-file:photo/heartbeat.jpeg|pms-id:asm18/photo_competition/605|title:Heartbeat
+author:(author hidden until results)|image-file:photo/your-galactic-uber-is-here.jpeg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
+author:(author hidden until results)|image-file:photo/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
+author:(author hidden until results)|image-file:photo/Irregular Habitat by tug.jpg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
+author:(author hidden until results)|image-file:photo/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
+author:(author hidden until results)|image-file:photo/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
+author:(author hidden until results)|image-file:photo/laundry-room-demo-party.jpeg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
+author:(author hidden until results)|image-file:photo/cxirkauxvojo.jpeg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
+author:(author hidden until results)|image-file:photo/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
+author:(author hidden until results)|image-file:photo/fire-mage-in-helsinki.jpeg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
 
 
 :section Fast graphics
