@@ -1,5 +1,6 @@
 import argparse
 import asmmetadata
+import asmyoutube
 import compodata
 import sys
 
@@ -56,6 +57,11 @@ for entry in parsed_data:
         del addable_data['author']
     else:
         addable_data['author'] = addable_data['author']
+
+    preview_youtube_url = entry.get("preview", "")
+    youtube_id = asmyoutube.get_video_id_try_url(preview_youtube_url)
+    if youtube_id:
+        addable_data["youtube"] = youtube_id
 
     section_entries.append(addable_data)
 

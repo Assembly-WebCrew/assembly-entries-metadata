@@ -14,6 +14,13 @@
 :ongoing true
 :public-after 2018-08-04 20:00+0300
 
+author:Faemiyah|pms-id:asm18/64k/612|title:Cassini|youtube:aDzSAWdwtf0
+author:Pyrotech|pms-id:asm18/64k/800|title:Ottius Prime|youtube:TXf4Cov2u0c
+author:Saksalainen Laatu|pms-id:asm18/64k/823|title:Hardwood|youtube:QHFKi0WamXg
+author:Macau Exports|pms-id:asm18/64k/827|title:100%|youtube:Hkv5297SspI
+author:adapt|pms-id:asm18/64k/832|title:out of the box|youtube:NII2fcZOIYA
+author:And You|pms-id:asm18/64k/836|title:Coercion|youtube:M5-fKUHv-bo
+author:McBurrobit|pms-id:asm18/64k/838|title:HEW, COOL MEME|youtube:ywPcQ7GucMc
 
 
 :section 4k intro
@@ -44,19 +51,19 @@ author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory
 :ongoing true
 :public-after 2018-08-04 18:30+0300
 
-author:oo|pms-id:asm18/1k/567|title:Splashing Some Art
-author:y0bi / wAMMA|pms-id:asm18/1k/569|title:Sphere of Influence
-author:rawArgon|pms-id:asm18/1k/639|title:1karkk1mat0
-author:Exca / Wide Load ^ Konvergence|pms-id:asm18/1k/685|title:Quine Greetings
-author:FruitieX|pms-id:asm18/1k/776|title:octave
-author:Fiture Crew Lamer Section|pms-id:asm18/1k/786|title:Jazzy Scuba Adventure
-author:Fulcrum|pms-id:asm18/1k/801|title:Screen Lit Vertigo
-author:Digimind|pms-id:asm18/1k/804|title:Infiltration
-author:Jumalauta|pms-id:asm18/1k/806|title:Saksalainen vitsi 1024
-author:gib3, tix0|pms-id:asm18/1k/813|title:geelimanipulaatio
-author:knl, Ishy|pms-id:asm18/1k/825|title:goodbye
-author:DSoM|pms-id:asm18/1k/830|title:Dirigible
-author:ps|pms-id:asm18/1k/831|title:Luola
+author:oo|pms-id:asm18/1k/567|title:Splashing Some Art|youtube:okG9bLDIO3c
+author:y0bi / wAMMA|pms-id:asm18/1k/569|title:Sphere of Influence|youtube:D3dkjQSdevc
+author:rawArgon|pms-id:asm18/1k/639|title:1karkk1mat0|youtube:TBpCz59GC5U
+author:Exca / Wide Load ^ Konvergence|pms-id:asm18/1k/685|title:Quine Greetings|youtube:5Aq649kjyNc
+author:FruitieX|pms-id:asm18/1k/776|title:octave|youtube:FZx_ddbkl60
+author:Fiture Crew Lamer Section|pms-id:asm18/1k/786|title:Jazzy Scuba Adventure|youtube:7y-roC1d_Iw
+author:Fulcrum|pms-id:asm18/1k/801|title:Screen Lit Vertigo|youtube:_FDhbCAkuw4
+author:Digimind|pms-id:asm18/1k/804|title:Infiltration|youtube:vH8ogq7DeJs
+author:Jumalauta|pms-id:asm18/1k/806|title:Saksalainen vitsi 1024|youtube:uDMDfw1XIRA
+author:gib3, tix0|pms-id:asm18/1k/813|title:geelimanipulaatio|youtube:KmZPr05H5eI
+author:knl, Ishy|pms-id:asm18/1k/825|title:goodbye|youtube:XDzoF9sgCzw
+author:DSoM|pms-id:asm18/1k/830|title:Dirigible|youtube:LRkbrHr8OP8
+author:ps|pms-id:asm18/1k/831|title:Luola|youtube:6s_5JkBRnOQ
 
 
 :section Real wild demo
