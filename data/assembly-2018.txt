@@ -12,7 +12,6 @@
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2018 PC computer.</p>
 :ongoing true
-:public-after 2018-08-04 20:00+0300
 
 author:Faemiyah|pms-id:asm18/64k/612|title:Cassini|youtube:aDzSAWdwtf0
 author:Pyrotech|pms-id:asm18/64k/800|title:Ottius Prime|youtube:TXf4Cov2u0c
@@ -27,29 +26,27 @@ author:McBurrobit|pms-id:asm18/64k/838|title:HEW, COOL MEME|youtube:ywPcQ7GucMc
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2018 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public-after 2018-08-04 19:00+0300
 
-author:HBC|pms-id:asm18/4k/565|title:Core Critical
-author:oo|pms-id:asm18/4k/568|title:Psychedelic Screensaver
-author:Mielikki|pms-id:asm18/4k/577|title:CSSCity
-author:posers|pms-id:asm18/4k/588|title:Fireflies
-author:sndels|pms-id:asm18/4k/670|title:Sway
-author:tkln|pms-id:asm18/4k/781|title:By the Pond
-author:TDA feat. oo|pms-id:asm18/4k/784|title:BR4096
-author:The Usual Suspects|pms-id:asm18/4k/787|title:Dissolute Teriyaki
-author:fatsopanda|pms-id:asm18/4k/790|title:Trippin' Through
-author:fp (previously FruitieX & Pingviinituutti)|pms-id:asm18/4k/793|title:Troubled Waters
-author:mystran|pms-id:asm18/4k/798|title:flow
-author:Xywzel|pms-id:asm18/4k/819|title:Symphony of Deadline - Remastered
-author:lucid|pms-id:asm18/4k/824|title:Optic Nerve
-author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory
+author:HBC|pms-id:asm18/4k/565|title:Core Critical|youtube:n5f6jefpjE0
+author:oo|pms-id:asm18/4k/568|title:Psychedelic Screensaver|youtube:MGEVFYjv1wI
+author:Mielikki|pms-id:asm18/4k/577|title:CSSCity|youtube:_3SzC36wBhw
+author:posers|pms-id:asm18/4k/588|title:Fireflies|youtube:EjniK6U-YYY
+author:sndels|pms-id:asm18/4k/670|title:Sway|youtube:HXYcBlXqnVQ
+author:tkln|pms-id:asm18/4k/781|title:By the Pond|youtube:ztCxFmYuTzQ
+author:TDA feat. oo|pms-id:asm18/4k/784|title:BR4096|youtube:ESeOSd9joEw
+author:The Usual Suspects|pms-id:asm18/4k/787|title:Dissolute Teriyaki|youtube:i3J6yO_n5EA
+author:fatsopanda|pms-id:asm18/4k/790|title:Trippin' Through|youtube:f8Q99RCSQ3U
+author:fp (previously FruitieX & Pingviinituutti)|pms-id:asm18/4k/793|title:Troubled Waters|youtube:czxbWwS-DKQ
+author:mystran|pms-id:asm18/4k/798|title:flow|youtube:V9MPT41wVPU
+author:Xywzel|pms-id:asm18/4k/819|title:Symphony of Deadline - Remastered|youtube:o-KgwEhXxV4
+author:lucid|pms-id:asm18/4k/824|title:Optic Nerve|youtube:BhqLBzpohmM
+author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory|youtube:axbWtjv0eZU
 
 
 :section 1k intro
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2018 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public-after 2018-08-04 18:30+0300
 
 author:oo|pms-id:asm18/1k/567|title:Splashing Some Art|youtube:okG9bLDIO3c
 author:y0bi / wAMMA|pms-id:asm18/1k/569|title:Sphere of Influence|youtube:D3dkjQSdevc
@@ -70,7 +67,6 @@ author:ps|pms-id:asm18/1k/831|title:Luola|youtube:6s_5JkBRnOQ
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public-after 2018-08-03 21:30+0300
 
 author:Satori + dA JoRMaS|pms-id:asm18/real_wild/622|title:Rave On|youtube:djOYlaCJl8M
 author:Utfart|pms-id:asm18/real_wild/723|title:EnO saa Saunoa|youtube:To22jVOFhCE
@@ -91,7 +87,6 @@ author:Ivory Labs.|pms-id:asm18/oldskool_demo/643|title:Housed|youtube:EiBhHTxpF
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public-after 2018-08-03 22:00+0300
 
 author:TAMIA5G/Iivo Korhonen/Axel Solimeïs|pms-id:asm18/short_film/563|title:FIDSGETS SPINNERS' CLUB V|youtube:W-TlBdvN9JY
 author:Keuhkovammaistenliitto|pms-id:asm18/short_film/581|title:Tartu|youtube:bnoHnCDQL0g
@@ -145,7 +140,6 @@ author:Laurikka|pms-id:asm18/tracked_music/862|title:Nonbassoon|video-file:track
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public-after 2018-08-04 13:30+0300
 
 author:(author hidden until results)|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
 author:(author hidden until results)|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
@@ -168,7 +162,6 @@ author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il P
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
-:public-after 2018-08-04 00:30+0300
 
 author:(author hidden until results)|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
 author:(author hidden until results)|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
@@ -188,7 +181,6 @@ author:(author hidden until results)|pms-id:asm18/dance_music/671|title:Happy Ho
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that had a theme "Miami Beach".</p>
 :ongoing true
-:public-after 2018-08-03 19:45+0300
 
 author:(author hidden until results)|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
 author:(author hidden until results)|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
@@ -228,7 +220,6 @@ author:jemu|image-file:pixel-graphics/01 spicy.png|pms-id:asm18/pixel_graphics/8
 :pms-category graphics_competition
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public-after 2018-08-04 14:30+0300
 
 author:(author hidden until results)|image-file:graphics/04-night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
 author:(author hidden until results)|image-file:graphics/06-slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
@@ -271,7 +262,6 @@ author:(author hidden until results)|image-file:photo/fire-mage-in-helsinki.jpeg
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "There’s no influence" or "X" theme.</p>
 :ongoing true
-:public-after 2018-08-03 20:30+0300
 
 author:(author hidden until results)|image-file:fast-graphics/crossroads.png|pms-id:asm18/fast_graphics/697|title:Crossroads
 author:(author hidden until results)|image-file:fast-graphics/sivuoireet.png|pms-id:asm18/fast_graphics/698|title:Sivuoireet
@@ -283,6 +273,31 @@ author:(author hidden until results)|image-file:fast-graphics/pari_milliä_vase
 author:(author hidden until results)|image-file:fast-graphics/there_is_nothing_at_x.jpg|pms-id:asm18/fast_graphics/711|title:There is nothing at X
 author:(author hidden until results)|image-file:fast-graphics/is_not_happening.jpg|pms-id:asm18/fast_graphics/713|title:Is Not Happening
 author:(author hidden until results)|image-file:fast-graphics/i_have_your_files.png|pms-id:asm18/fast_graphics/715|title:I have your files
+
+
+:section Tuplain
+:pms-category tuplain
+:ongoing true
+
+author:Walop|pms-id:asm18/tuplain/586|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM
+author:Tethys|pms-id:asm18/tuplain/594|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM
+author:Exca / Wide Load ^ Konvergence|pms-id:asm18/tuplain/737|title:Finlandsfärja|youtube:WFuctE-BrTM
+author:mayday/hedelmae|pms-id:asm18/tuplain/783|title:PC MASTER RACE!!1!|youtube:WFuctE-BrTM
+author:mayday/hedelmae|pms-id:asm18/tuplain/785|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM
+author:JUSSI/REN|pms-id:asm18/tuplain/789|title:Janos Valmunen - Tähti [Official Music Video]|youtube:WFuctE-BrTM
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/791|title:Downwards|youtube:WFuctE-BrTM
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|title:Gotta Spin 'em all|youtube:WFuctE-BrTM
+author:sooda|pms-id:asm18/tuplain/796|title:puffball era|youtube:WFuctE-BrTM
+author:Jumalauta Färjan Committee|pms-id:asm18/tuplain/802|title:Assemblyfärjan|youtube:WFuctE-BrTM
+author:InsaneFinn|pms-id:asm18/tuplain/805|title:Vistofanttimarssi|youtube:WFuctE-BrTM
+author:♪Cirnofan♪ (≧◡≦)|pms-id:asm18/tuplain/807|title:Ekspert's Perfect Demo Class|youtube:WFuctE-BrTM
+author:visy|pms-id:asm18/tuplain/808|title:guess what|youtube:WFuctE-BrTM
+author:Adellan|pms-id:asm18/tuplain/809|title:Rölli|youtube:WFuctE-BrTM
+author:poro / Wide Load ^ Konvergence|pms-id:asm18/tuplain/811|title:Sid Elevated|youtube:WFuctE-BrTM
+author:oksaperseessä2^4 of iSO|pms-id:asm18/tuplain/812|title:Rauhan Voima|youtube:WFuctE-BrTM
+author:AND & Frank Klepacki|pms-id:asm18/tuplain/814|title:Zoom3Hellmarch|youtube:WFuctE-BrTM
+author:BJAKKE|pms-id:asm18/tuplain/817|title:EBIN KAKKU|youtube:WFuctE-BrTM
+author:kalle|pms-id:asm18/tuplain/818|title:Gummo S|youtube:WFuctE-BrTM
 
 
 :section Seminars
