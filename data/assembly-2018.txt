@@ -96,6 +96,16 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :ongoing true
 :public-after 2018-08-04 17:30+0300
 
+author:Buzzer/Zenon|pms-id:asm18/tracked_music/585|title:Let's party again|video-file:tracked-music/wavs/let_s_party_again_by_buzzer_zenon.mod.wav.mp4|youtube:ucTMxvIHRfs
+author:Jarsk1e|pms-id:asm18/tracked_music/777|title:NES Things|video-file:tracked-music/wavs/nes_things_by_jarsk1e.xm.wav.mp4|youtube:4WBKxWbyKnA
+author:la_mettrie/tsoi|pms-id:asm18/tracked_music/780|title:Very serious problems (Internet has problems)|video-file:tracked-music/wavs/very_serious_problems_(internet_has_problems)_by_la_mettrie_tsoi.it.wav.mp4|youtube:tcSIuAua84U
+author:mayday/hedelmae|pms-id:asm18/tracked_music/782|title:ignition|video-file:tracked-music/wavs/ignition_by_mayday_hedelmae.ignition.xm.wav.mp4|youtube:hWyCl3M1H9U
+author:bitch/ATW|pms-id:asm18/tracked_music/844|title:Sloppy Ho|video-file:tracked-music/wavs/sloppy_ho_by_bitch_atw.mod.wav.mp4|youtube:yl5Fxs-UImI
+author:Paokala|pms-id:asm18/tracked_music/847|title:Arpeggiojörssiä kansalle|video-file:tracked-music/wavs/arpeggiojörssiä_kansalle_by_paokala.xm.wav.mp4|youtube:pNeRx6UxQGM
+author:Roz / Fit ^ Byterapers|pms-id:asm18/tracked_music/857|title:Straightbackward|video-file:tracked-music/wavs/straightbackward_by_roz___fit_^_byterapers.xm.wav.mp4|youtube:aDmij7oqyj0
+author:dusthillguy|pms-id:asm18/tracked_music/859|title:joonix f|video-file:tracked-music/wavs/joonix_f_by_dusthillguy.it.wav.mp4|youtube:OF9oLFpxy5k
+author:beathawk|pms-id:asm18/tracked_music/861|title:oodi.mod|video-file:tracked-music/wavs/oodi.mod_by_beathawk.mod.wav.mp4|youtube:_afkAFsxgdo
+author:Laurikka|pms-id:asm18/tracked_music/862|title:Nonbassoon|video-file:tracked-music/wavs/nonbassoon_by_laurikka.mod.wav.mp4|youtube:zFgpx7qLfww
 
 
 :section Listening music
@@ -174,8 +184,11 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :pms-category pixel_graphics
 :description <p>Pixel graphics had a limitation of 320x240 resolution with 256 colors and no animation. Otherwise there were no other limitations.</p>
 :ongoing true
-:public-after 2018-08-04 16:30+0300
 
+author:Kisu|image-file:pixel-graphics/03 one_more_minute.png|pms-id:asm18/pixel_graphics/794|title:One more minute
+author:Ronsu|image-file:pixel-graphics/04 Ronsu.png|pms-id:asm18/pixel_graphics/837|title:Partikle
+author:Surround Tekotuotanto|image-file:pixel-graphics/02 un-nouveau-soleil.png|pms-id:asm18/pixel_graphics/845|title:un nouveau soleil
+author:jemu|image-file:pixel-graphics/01 spicy.png|pms-id:asm18/pixel_graphics/853|title:S P I C Y
 
 
 :section Graphics
@@ -184,26 +197,25 @@ author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jän
 :ongoing true
 :public-after 2018-08-04 14:30+0300
 
-author:(author hidden until results)|image-file:graphics/04.night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
-author:(author hidden until results)|image-file:graphics/06.slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
-author:(author hidden until results)|image-file:graphics/08.wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
-author:(author hidden until results)|image-file:graphics/10.PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
-author:(author hidden until results)|image-file:graphics/13.SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
-author:(author hidden until results)|image-file:graphics/01.A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
-author:(author hidden until results)|image-file:graphics/11.First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
-author:(author hidden until results)|image-file:graphics/07.Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
-author:(author hidden until results)|image-file:graphics/05.cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
-author:(author hidden until results)|image-file:graphics/02.seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
-author:(author hidden until results)|image-file:graphics/12.trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
-author:(author hidden until results)|image-file:graphics/03.going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
-author:(author hidden until results)|image-file:graphics/09.Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
+author:(author hidden until results)|image-file:graphics/04-night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
+author:(author hidden until results)|image-file:graphics/06-slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
+author:(author hidden until results)|image-file:graphics/08-wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
+author:(author hidden until results)|image-file:graphics/10-PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
+author:(author hidden until results)|image-file:graphics/13-SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
+author:(author hidden until results)|image-file:graphics/01-A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
+author:(author hidden until results)|image-file:graphics/11-First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
+author:(author hidden until results)|image-file:graphics/07-Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
+author:(author hidden until results)|image-file:graphics/05-cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
+author:(author hidden until results)|image-file:graphics/02-seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
+author:(author hidden until results)|image-file:graphics/12-trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
+author:(author hidden until results)|image-file:graphics/03-going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
+author:(author hidden until results)|image-file:graphics/09-Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
 
 
 :section Photo
 :pms-category photo_competition
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
-:public-after 2018-08-04 14:15+0300
 
 author:(author hidden until results)|image-file:photo/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
 author:(author hidden until results)|image-file:photo/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
@@ -213,7 +225,7 @@ author:(author hidden until results)|image-file:photo/Gems for you.jpg|pms-id:as
 author:(author hidden until results)|image-file:photo/heartbeat.jpeg|pms-id:asm18/photo_competition/605|title:Heartbeat
 author:(author hidden until results)|image-file:photo/your-galactic-uber-is-here.jpeg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
 author:(author hidden until results)|image-file:photo/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
-author:(author hidden until results)|image-file:photo/Irregular Habitat by tug.jpg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
+author:(author hidden until results)|image-file:photo/irregular-habitat.jpeg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
 author:(author hidden until results)|image-file:photo/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
 author:(author hidden until results)|image-file:photo/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
 author:(author hidden until results)|image-file:photo/laundry-room-demo-party.jpeg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
@@ -288,6 +300,18 @@ author:AssemblyTV|title:AssemblyTV Seminar - Let's make a demo workshop|youtube:
 author:AssemblyTV|title:Fireside chat - Tatu Petersen-Jessen|youtube:70RYxPsjOM4
 author:AssemblyTV|title:Gamedev compostudio|youtube:vKf1gZqI7vM
 author:AssemblyTV|title:Gamedev compo (with commentary)|youtube:EYMOO5vNxa0
+author:AssemblyTV|title:DJ Alkama & VJ Visy|youtube:mLFeygJcAso
+author:AssemblyTV|title:Dance Music compostudio|youtube:qW_McQVrEeY
+author:AssemblyTV|title:Dance Music compo|youtube:xmpb-6_mjR0
+author:AssemblyTV|title:Oldskool compo|youtube:XhRdGj6RVsI
+author:AssemblyTV|title:Oldskool compostudio|youtube:mMIviXLegRk
+author:AssemblyTV|title:Short film compostudio|youtube:zT6UWF-T9rg
+author:AssemblyTV|title:Tuplain compo|youtube:WFuctE-BrTM
+author:AssemblyTV|title:Short film compo|youtube:IHxFdoqCHzo
+author:AssemblyTV|title:Real Wild compo|youtube:OunaT2wfimU
+author:AssemblyTV|title:Fast Music compostudio|youtube:EskRGyl6krw
+author:AssemblyTV|title:Fast Music Compo|youtube:MIT9FVXb_P0
+author:AssemblyTV|title:Fast Graphics compostudio|youtube:sXJriPTnxU4
 
 
 :section eSports
@@ -296,6 +320,9 @@ author:AssemblyTV|title:Gamedev compo (with commentary)|youtube:EYMOO5vNxa0
 :manage-youtube-descriptions false
 
 author:AssemblyTV|title:MSI Rainbow Six - Siege Showmatch|youtube:CfmKqb8GYGA
+author:AssemblyTV|title:Overwatch Omen by HP - Upper Bracket - Nyyrikki vs. Trailblazers|youtube:6r_CJBIi56Q
+author:AssemblyTV|title:Overwatch Omen by HP - Playoffs - Nyyrikki vs. Team Gigantti|youtube:ct8q-RjmUdY
+author:AssemblyTV|title:Overwatch Omen by HP - Lower Bracket - Trailblazers vs ChiliMonster Gaming|youtube:H6WF5Brx1ik
 
 
 :section Misc
