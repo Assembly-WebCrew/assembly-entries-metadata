@@ -83,6 +83,34 @@ author:SMFX & Dead Hackers Society|pms-id:asm18/oldskool_demo/641|title:SMagFX #
 author:Ivory Labs.|pms-id:asm18/oldskool_demo/643|title:Housed|youtube:EiBhHTxpFZg
 
 
+:section One effect
+:pms-category one_effect
+:ongoing true
+:public false
+
+author:iiKster|pms-id:asm18/one_effect/846|title:Killing time in the scene lounge
+author:jnalanko|pms-id:asm18/one_effect/854|title:What is this I don't even
+author:JjyKs|pms-id:asm18/one_effect/856|title:Rainy Metaballs
+author:Cenon|pms-id:asm18/one_effect/860|title:Kettu
+author:Adellan|pms-id:asm18/one_effect/864|title:Quarreling cubes
+author:tArzAn / tAAt|pms-id:asm18/one_effect/865|title:hellyydenosoitin - endearment pointer
+author:Jumalauta|pms-id:asm18/one_effect/866|title:Färjan diskotek
+author:vohveli|pms-id:asm18/one_effect/867|title:happy bars
+author:KoomaDot|pms-id:asm18/one_effect/868|title:Vaerisokeus
+author:meincrab|pms-id:asm18/one_effect/869|title:Just a Bug
+author:muffintrap|pms-id:asm18/one_effect/870|title:Pink in Spaace
+author:ole|pms-id:asm18/one_effect/871|title:hereis
+author:demo workshop people!|pms-id:asm18/one_effect/872|title:kuution_neppaus
+author:into|pms-id:asm18/one_effect/873|title:tick tock
+author:Noirek|pms-id:asm18/one_effect/874|title:Humppasonni
+author:essobar/posers|pms-id:asm18/one_effect/875|title:Aku Ankka
+author:BJAKKE|pms-id:asm18/one_effect/876|title:ByteSpiral128
+author:qma|pms-id:asm18/one_effect/877|title:Rezykled
+author:name|pms-id:asm18/one_effect/878|title:*screams in visible agony*
+author:Typo|pms-id:asm18/one_effect/879|title:Organic
+author:FractalPixel, Shiera & Jirah|pms-id:asm18/one_effect/880|title:Void Garden
+
+
 :section Short film
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
@@ -278,6 +306,7 @@ author:(author hidden until results)|image-file:fast-graphics/i_have_your_files.
 :section Tuplain
 :pms-category tuplain
 :ongoing true
+:public false
 
 author:Walop|pms-id:asm18/tuplain/586|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM
 author:Tethys|pms-id:asm18/tuplain/594|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM
