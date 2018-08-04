@@ -6,6 +6,21 @@
 :ongoing true
 :public-after 2018-08-05 00:45+0300
 
+author:jnalanko|pms-id:asm18/demo/593|title:Diamonds|youtube:zHKZNlpa__U
+author:Andromeda Software Development|pms-id:asm18/demo/598|title:For your love|youtube:z4Y_2eSmc10
+author:Pyrotech|pms-id:asm18/demo/648|title:Rogue keyframes|youtube:ALR2pJPlizo
+author:mog/TRBL, dq|pms-id:asm18/demo/695|title:kolme|youtube:1439Ty5c_5w
+author:Lasi Interactive|pms-id:asm18/demo/729|title:Shimmer|youtube:mSG16dy4z2Q
+author:rustbloom|pms-id:asm18/demo/797|title:Rakka|youtube:A449cq9t7-8
+author:U+1F35E|pms-id:asm18/demo/799|title:Journey to Breadzembly: The Attack of The Low-Carb|youtube:HbQCIVQLYq4
+author:Orange|pms-id:asm18/demo/820|title:Dying Stars|youtube:BEpVt8veF-M
+author:BJAKKE|pms-id:asm18/demo/822|title:CubeText|youtube:3ZK5cdPMWz4
+author:Paraguay|pms-id:asm18/demo/828|title:Flashbacks|youtube:RG5nQw8AGvs
+author:Wide Load|pms-id:asm18/demo/833|title:Stellar Explorer|youtube:SFmk1AexVws
+author:The Crux|pms-id:asm18/demo/834|title:Kouvostoliitto|youtube:0-tqjXX7fz4
+author:adapt|pms-id:asm18/demo/840|title:eXosteriacle|youtube:4spR0vC8_78
+author:Royal Belgian Beer Squadron|pms-id:asm18/demo/841|title:RBBS-MINUS-02: Plakbazaar|youtube:eJjaSgt0xCg
+author:CNCD/Fairlight|pms-id:asm18/demo/843|title:Number one / Another one|youtube:TaEoAJw_0Zc
 
 
 :section 64k intro
