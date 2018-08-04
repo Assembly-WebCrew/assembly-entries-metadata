@@ -22,6 +22,20 @@
 :ongoing true
 :public-after 2018-08-04 19:00+0300
 
+author:HBC|pms-id:asm18/4k/565|title:Core Critical
+author:oo|pms-id:asm18/4k/568|title:Psychedelic Screensaver
+author:Mielikki|pms-id:asm18/4k/577|title:CSSCity
+author:posers|pms-id:asm18/4k/588|title:Fireflies
+author:sndels|pms-id:asm18/4k/670|title:Sway
+author:tkln|pms-id:asm18/4k/781|title:By the Pond
+author:TDA feat. oo|pms-id:asm18/4k/784|title:BR4096
+author:The Usual Suspects|pms-id:asm18/4k/787|title:Dissolute Teriyaki
+author:fatsopanda|pms-id:asm18/4k/790|title:Trippin' Through
+author:fp (previously FruitieX & Pingviinituutti)|pms-id:asm18/4k/793|title:Troubled Waters
+author:mystran|pms-id:asm18/4k/798|title:flow
+author:Xywzel|pms-id:asm18/4k/819|title:Symphony of Deadline - Remastered
+author:lucid|pms-id:asm18/4k/824|title:Optic Nerve
+author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory
 
 
 :section 1k intro
@@ -329,7 +343,12 @@ author:AssemblyTV|title:Graphics + Photo compostudio|youtube:FsDHvFBodbo
 author:AssemblyTV|description:OMEN by HP:<br/>http://www8.hp.com/fi/fi/campaigns/gamingpcs/overview.html</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 OMEN by HP|youtube:GWxjoG_RZrU
 author:AssemblyTV|title:Fireside chat - Teemu Harju|youtube:WvWam2KM1tU
 author:AssemblyTV|title:Fireside chat - Chris Norden|youtube:KVmmdP8gH7A
-author:AssemblyTV|title:Assembly AamuTV lauantai|youtube:V8aNfIZpoQM
+author:AssemblyTV|title:Tracked music compo|youtube:SEu0tw6TNdQ
+author:AssemblyTV|title:Text Mode Graphics - tutorial to ANSI & ASCII|youtube:B20ebtwcIAY
+author:AssemblyTV|title:Pixel graphics compo|youtube:bpctXUR1khg
+author:AssemblyTV|description:Telia:<br/>https://www.telia.fi/esports/esports</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 - Pekka "Pehu" Aakko ja Raakel Aaltonen, Telia|youtube:-fmlEDGdeqk
+author:AssemblyTV|title:Assembly AamuTV lauantai|youtube:Vzqr5nwqJ6o
+author:AssemblyTV|title:Listening music compostudio|youtube:c7q0EKSGSC8
 
 
 :section eSports
@@ -342,6 +361,7 @@ author:AssemblyTV|title:Overwatch Omen by HP - Upper Bracket - Nyyrikki vs. Trai
 author:AssemblyTV|title:Overwatch Omen by HP - Playoffs - Nyyrikki vs. Team Gigantti|youtube:ct8q-RjmUdY
 author:AssemblyTV|title:Overwatch Omen by HP - Lower Bracket - Trailblazers vs ChiliMonster Gaming|youtube:H6WF5Brx1ik
 author:AssemblyTV|title:Overwatch Omen by HP - Upper Bracket - Team Gigantti vs ChiliMonster Gaming|youtube:bQ3JNZoKNjE
+author:AssemblyTV|title:Assembly Summer 2018 Casual Overwatch Final - MonkaGANG vs.|youtube:4oIlBYb2r6I
 
 
 :section Misc
