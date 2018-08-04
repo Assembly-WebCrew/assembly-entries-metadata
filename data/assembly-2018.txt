@@ -94,7 +94,6 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :ongoing true
-:public-after 2018-08-04 17:30+0300
 
 author:Buzzer/Zenon|pms-id:asm18/tracked_music/585|title:Let's party again|video-file:tracked-music/wavs/let_s_party_again_by_buzzer_zenon.mod.wav.mp4|youtube:ucTMxvIHRfs
 author:Jarsk1e|pms-id:asm18/tracked_music/777|title:NES Things|video-file:tracked-music/wavs/nes_things_by_jarsk1e.xm.wav.mp4|youtube:4WBKxWbyKnA
@@ -312,6 +311,12 @@ author:AssemblyTV|title:Real Wild compo|youtube:OunaT2wfimU
 author:AssemblyTV|title:Fast Music compostudio|youtube:EskRGyl6krw
 author:AssemblyTV|title:Fast Music Compo|youtube:MIT9FVXb_P0
 author:AssemblyTV|title:Fast Graphics compostudio|youtube:sXJriPTnxU4
+author:AssemblyTV|description:Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Play Top Frag - Mia Stellberg|youtube:D_cP27jS0Kk
+author:AssemblyTV|title:Graphics + Photo compostudio|youtube:FsDHvFBodbo
+author:AssemblyTV|description:OMEN by HP:<br/>http://www8.hp.com/fi/fi/campaigns/gamingpcs/overview.html</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 OMEN by HP|youtube:GWxjoG_RZrU
+author:AssemblyTV|title:Fireside chat - Teemu Harju|youtube:WvWam2KM1tU
+author:AssemblyTV|title:Fireside chat - Chris Norden|youtube:KVmmdP8gH7A
+author:AssemblyTV|title:Assembly AamuTV lauantai|youtube:V8aNfIZpoQM
 
 
 :section eSports
@@ -323,6 +328,7 @@ author:AssemblyTV|title:MSI Rainbow Six - Siege Showmatch|youtube:CfmKqb8GYGA
 author:AssemblyTV|title:Overwatch Omen by HP - Upper Bracket - Nyyrikki vs. Trailblazers|youtube:6r_CJBIi56Q
 author:AssemblyTV|title:Overwatch Omen by HP - Playoffs - Nyyrikki vs. Team Gigantti|youtube:ct8q-RjmUdY
 author:AssemblyTV|title:Overwatch Omen by HP - Lower Bracket - Trailblazers vs ChiliMonster Gaming|youtube:H6WF5Brx1ik
+author:AssemblyTV|title:Overwatch Omen by HP - Upper Bracket - Team Gigantti vs ChiliMonster Gaming|youtube:bQ3JNZoKNjE
 
 
 :section Misc
