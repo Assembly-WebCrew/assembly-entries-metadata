@@ -119,14 +119,16 @@ def playlist_add_new_items(yt_service, youtube_entries, section):
         lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
     missing_entries = []
     for entry in sorted_entries:
-        if str(entry.get('youtube', '')) in missing_playlist_items:
+        youtube_id = asmmetadata.get_clean_youtube_id(entry)
+        youtube_id = youtube_id and youtube_id or ''
+        if youtube_id in missing_playlist_items:
             missing_entries.append(entry)
 
     if len(missing_entries) == 0:
         return youtube_entries
 
     for entry in missing_entries:
-        youtube_id = entry['youtube']
+        youtube_id = asmmetadata.get_clean_youtube_id(entry)
         asmyoutube.try_operation(
             u"Adding %s (%s)" % (entry['title'], youtube_id),
             lambda: yt_service.playlistItems().insert(

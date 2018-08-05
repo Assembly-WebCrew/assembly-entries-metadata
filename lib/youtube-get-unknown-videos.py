@@ -21,7 +21,7 @@ if __name__ == "__main__":
     entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
 
     known_video_ids = set(
-        [x["youtube"] for x in filter(
+        [asmmetadata.get_clean_youtube_id(x) for x in filter(
             lambda x: "youtube" in x, entry_data.entries)])
 
     # Retrieve the contentDetails part of the channel resource for the

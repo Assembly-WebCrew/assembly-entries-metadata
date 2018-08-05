@@ -59,7 +59,7 @@ entry_data = asmmetadata.parse_file(sys.stdin)
 for entry in entry_data.entries:
     if 'youtube' not in entry:
         continue
-    youtube_id = entry['youtube']
+    youtube_id = asmmetadata.get_clean_youtube_id(entry)
 
     target_jpeg = os.path.join(thumbnail_dir, "%s.jpeg" % youtube_id)
     target_png = os.path.join(thumbnail_dir, "%s.png" % youtube_id)

@@ -625,3 +625,13 @@ def reorder_positioned_section_entries(inout_entries):
     def _get_key(value):
         return value.get("position", 99999)
     inout_entries.sort(key=_get_key)
+
+
+def get_clean_youtube_id(entry):
+    """Clean timestamps references from a Youtube ID"""
+    youtube_id = entry.get("youtube", None)
+    if not youtube_id:
+        return None
+    cleaned = youtube_id.split("?", 1)[0]
+    cleaned = cleaned.split("#", 1)[0]
+    return cleaned

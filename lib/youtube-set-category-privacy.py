@@ -45,7 +45,7 @@ def set_section_privacy(privacy, yt_service, section):
         videos_list = asmyoutube.try_operation(
             "get %s" % entry['title'],
             lambda: yt_service.videos().list(
-                id=entry["youtube"],
+                id=asmmetadata.get_clean_youtube_id(entry),
                 part="status"
                 ).execute(),
             sleep=1)
@@ -66,7 +66,7 @@ def set_section_privacy(privacy, yt_service, section):
                 part="status",
                 body=dict(
                     status=video_status,
-                    id=entry["youtube"])).execute(),
+                    id=asmmetadata.get_clean_youtube_id(entry))).execute(),
             sleep=1)
 
 
