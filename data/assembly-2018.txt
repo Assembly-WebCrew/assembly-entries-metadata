@@ -377,9 +377,9 @@ author:Sami Heinonen|description:You'll see inspiring VR/AR cases, demos and hea
 :description <p>This section includes clips that AssemblyTV has created.</p>
 :manage-youtube-descriptions false
 
-author:AssemblyTV|description:Streamcorner schedule:<br/>https://www.assembly.org/summer18/program/streamcorner</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 Streamcorner|youtube:0vg33P32kbE
+author:AssemblyTV|description:Streamcorner schedule:<br/>https://www.assembly.org/summer18/program/streamcorner</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Streamcorner|youtube:0vg33P32kbE
 author:AssemblyTV|description:OnePlus: https://www.oneplus.com/fi/</p><p>Assembly some:<br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 OnePlus|youtube:MunU8MwlVTE
-author:AssemblyTV|description:Scene Lounge:<br/>https://www.assembly.org/summer18/demoscene/scene-lounge</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 Scene Lounge|youtube:yBHsWpawiYM
+author:AssemblyTV|description:Scene Lounge:<br/>https://www.assembly.org/summer18/demoscene/scene-lounge</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Scene Lounge|youtube:yBHsWpawiYM
 author:AssemblyTV|description:Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 - Bigger than EVER|youtube:19YmEFSGQB4
 author:AssemblyTV|title:AssemblyTV - So a Finn, a German and a Belgian walk into a demoparty|youtube:mQ9amni-nHY
 author:AssemblyTV|title:AssemblyTV Seminar - Programming with 8-bit platforms|youtube:kSKqZn3iKOM
@@ -387,7 +387,7 @@ author:AssemblyTV|title:Fireside chat - Jon Hare|youtube:7xISg9N8HQs
 author:AssemblyTV|title:Assembly AamuTV perjantai|youtube:31XkVCqyqLo
 author:AssemblyTV|title:Telia 5G Porukat vs Porukat|youtube:kHWFLyhmbas
 author:AssemblyTV|title:AssemblyTV begins|youtube:y9CiqIUPvGA
-author:AssemblyTV|title:Assembly Summer 2018 avajaiset|youtube:34YqyuYvTU8
+author:AssemblyTV|title:Avajaiset|youtube:34YqyuYvTU8
 author:AssemblyTV|title:AssemblyTV Seminar - Let's make a demo workshop|youtube:HkpPED5JXKc
 author:AssemblyTV|title:Fireside chat - Tatu Petersen-Jessen|youtube:70RYxPsjOM4
 author:AssemblyTV|title:Gamedev compostudio|youtube:vKf1gZqI7vM
@@ -406,13 +406,13 @@ author:AssemblyTV|title:Fast Music Compo|youtube:MIT9FVXb_P0
 author:AssemblyTV|title:Fast Graphics compostudio|youtube:sXJriPTnxU4
 author:AssemblyTV|description:Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Play Top Frag - Mia Stellberg|youtube:D_cP27jS0Kk
 author:AssemblyTV|title:Graphics + Photo compostudio|youtube:FsDHvFBodbo
-author:AssemblyTV|description:OMEN by HP:<br/>http://www8.hp.com/fi/fi/campaigns/gamingpcs/overview.html</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 OMEN by HP|youtube:GWxjoG_RZrU
+author:AssemblyTV|description:OMEN by HP:<br/>http://www8.hp.com/fi/fi/campaigns/gamingpcs/overview.html</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:OMEN by HP|youtube:GWxjoG_RZrU
 author:AssemblyTV|title:Fireside chat - Teemu Harju|youtube:WvWam2KM1tU
 author:AssemblyTV|title:Fireside chat - Chris Norden|youtube:KVmmdP8gH7A
 author:AssemblyTV|title:Tracked music compo|youtube:SEu0tw6TNdQ
 author:AssemblyTV|title:Text Mode Graphics - tutorial to ANSI & ASCII|youtube:B20ebtwcIAY
 author:AssemblyTV|title:Pixel graphics compo|youtube:bpctXUR1khg
-author:AssemblyTV|description:Telia:<br/>https://www.telia.fi/esports/esports</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 - Pekka "Pehu" Aakko ja Raakel Aaltonen, Telia|youtube:-fmlEDGdeqk
+author:AssemblyTV|description:Telia:<br/>https://www.telia.fi/esports/esports</p><p>Assembly some: <br/>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Pekka "Pehu" Aakko ja Raakel Aaltonen, Telia|youtube:-fmlEDGdeqk
 author:AssemblyTV|title:Assembly AamuTV lauantai|youtube:Vzqr5nwqJ6o
 author:AssemblyTV|title:Listening music compostudio|youtube:c7q0EKSGSC8
 author:AssemblyTV|title:Fireside chat - Antti Veräjäkorva|youtube:6-MHbrcd0XA
