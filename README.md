@@ -23,6 +23,17 @@ event. There are different approaches for handling published entries
 during the event and outside the event depending on if the entry
 information is available in machine-friendly format.
 
+## Preparation
+
+1. Prepare `data/assembly-<year>.txt` with new competition
+   information. Following type of attributes are usually needed during
+   the event:
+   * `:public-after 2018-01-01 10:00 EEST` or `:public false`
+   * `:ongoing true`
+2. Create playlists for first 10 competitions (summer 2018 limit for
+   playlists/day on Youtube). Create more the next day that Youtube
+   limits have gone away.
+
 # Data handling during the event
 
 During the event the main goal of Assembly Archive and videos on
