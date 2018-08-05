@@ -6,21 +6,21 @@
 :ongoing true
 :public-after 2018-08-05 00:45+0300
 
-author:jnalanko|pms-id:asm18/demo/593|title:Diamonds|youtube:zHKZNlpa__U
-author:Andromeda Software Development|pms-id:asm18/demo/598|title:For your love|youtube:z4Y_2eSmc10
-author:Pyrotech|pms-id:asm18/demo/648|title:Rogue keyframes|youtube:ALR2pJPlizo
-author:mog/TRBL, dq|pms-id:asm18/demo/695|title:kolme|youtube:1439Ty5c_5w
-author:Lasi Interactive|pms-id:asm18/demo/729|title:Shimmer|youtube:mSG16dy4z2Q
-author:rustbloom|pms-id:asm18/demo/797|title:Rakka|youtube:A449cq9t7-8
-author:U+1F35E|pms-id:asm18/demo/799|title:Journey to Breadzembly: The Attack of The Low-Carb|youtube:HbQCIVQLYq4
-author:Orange|pms-id:asm18/demo/820|title:Dying Stars|youtube:BEpVt8veF-M
-author:BJAKKE|pms-id:asm18/demo/822|title:CubeText|youtube:3ZK5cdPMWz4
-author:Paraguay|pms-id:asm18/demo/828|title:Flashbacks|youtube:RG5nQw8AGvs
-author:Wide Load|pms-id:asm18/demo/833|title:Stellar Explorer|youtube:SFmk1AexVws
-author:The Crux|pms-id:asm18/demo/834|title:Kouvostoliitto|youtube:0-tqjXX7fz4
-author:adapt|pms-id:asm18/demo/840|title:eXosteriacle|youtube:4spR0vC8_78
-author:Royal Belgian Beer Squadron|pms-id:asm18/demo/841|title:RBBS-MINUS-02: Plakbazaar|youtube:eJjaSgt0xCg
-author:CNCD/Fairlight|pms-id:asm18/demo/843|title:Number one / Another one|youtube:TaEoAJw_0Zc
+author:CNCD/Fairlight|platform:PC|pms-id:asm18/demo/843|position:1|techniques:Made with notch|title:Number one / Another one|youtube:TaEoAJw_0Zc
+author:Andromeda Software Development|platform:Windows 10|pms-id:asm18/demo/598|position:2|techniques:OpenGL|title:For your love|youtube:z4Y_2eSmc10
+author:Orange|platform:PC Nvidia|pms-id:asm18/demo/820|position:3|techniques:Mad Skills|title:Dying Stars|youtube:BEpVt8veF-M
+author:adapt|platform:windows|pms-id:asm18/demo/840|position:4|techniques:opengl, patience, alien forces, rodeo, irc, fancy shaders and open windows|title:eXosteriacle|youtube:4spR0vC8_78
+author:Pyrotech|platform:Windows 64Bit|pms-id:asm18/demo/648|position:5|techniques:DX11 Unreal Engine|title:Rogue keyframes|youtube:ALR2pJPlizo
+author:mog/TRBL, dq|platform:PC|pms-id:asm18/demo/695|position:6|techniques:tooll.io|title:kolme|youtube:1439Ty5c_5w
+author:rustbloom|platform:PC|pms-id:asm18/demo/797|position:7|techniques:Visual Studio, Unity, Oculus Touch as authoring tools|title:Rakka|youtube:A449cq9t7-8
+author:U+1F35E|platform:Windows|pms-id:asm18/demo/799|position:8|techniques:Unity|title:Journey to Breadzembly: The Attack of The Low-Carb|youtube:HbQCIVQLYq4
+author:Lasi Interactive|platform:PC|pms-id:asm18/demo/729|position:9|techniques:UE4, Blender, Gimp|title:Shimmer|youtube:mSG16dy4z2Q
+author:jnalanko|platform:PC|pms-id:asm18/demo/593|position:10|techniques:OpenGL|title:Diamonds|youtube:zHKZNlpa__U
+author:Paraguay|platform:PC, web browser|pms-id:asm18/demo/828|position:11|techniques:WebGL, JavaScript, three.js, rocket|title:Flashbacks|youtube:RG5nQw8AGvs
+author:Wide Load|platform:Browser|pms-id:asm18/demo/833|position:12|techniques:Webgl2, Haxe, KVG Engine, BabylonJS, SoundJS, TweenJS|title:Stellar Explorer|youtube:SFmk1AexVws
+author:Royal Belgian Beer Squadron|platform:Windows|pms-id:asm18/demo/841|position:13|techniques:GLSL, SDL, OpenGL|title:RBBS-MINUS-02: Plakbazaar|youtube:eJjaSgt0xCg
+author:BJAKKE|platform:PC|pms-id:asm18/demo/822|position:14|techniques:Processing, Moonlander, Minim, Rocket, LMMS, Partycoding|title:CubeText|youtube:3ZK5cdPMWz4
+author:The Crux|platform:PC|pms-id:asm18/demo/834|position:15|techniques:glsl|title:Kouvostoliitto|youtube:0-tqjXX7fz4
 
 
 :section 64k intro
@@ -28,13 +28,13 @@ author:CNCD/Fairlight|pms-id:asm18/demo/843|title:Number one / Another one|youtu
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2018 PC computer.</p>
 :ongoing true
 
-author:Faemiyah|pms-id:asm18/64k/612|title:Cassini|youtube:aDzSAWdwtf0
-author:Pyrotech|pms-id:asm18/64k/800|title:Ottius Prime|youtube:TXf4Cov2u0c
-author:Saksalainen Laatu|pms-id:asm18/64k/823|title:Hardwood|youtube:QHFKi0WamXg
-author:Macau Exports|pms-id:asm18/64k/827|title:100%|youtube:Hkv5297SspI
-author:adapt|pms-id:asm18/64k/832|title:out of the box|youtube:NII2fcZOIYA
-author:And You|pms-id:asm18/64k/836|title:Coercion|youtube:M5-fKUHv-bo
-author:McBurrobit|pms-id:asm18/64k/838|title:HEW, COOL MEME|youtube:ywPcQ7GucMc
+author:adapt|platform:windows|pms-id:asm18/64k/832|position:1|techniques:At least dx9, rocket, kkrunchy, single vertex shader to generate everything, rodeo and love!|title:out of the box|youtube:NII2fcZOIYA
+author:Macau Exports|platform:PC, Windows, NVIDIA|pms-id:asm18/64k/827|position:2|techniques:deka v2|title:100%|youtube:Hkv5297SspI
+author:Faemiyah|platform:FreeBSD-ia32|pms-id:asm18/64k/612|position:3|techniques:33k, dnload, ghostsyn|title:Cassini|youtube:aDzSAWdwtf0
+author:Pyrotech|platform:PC|pms-id:asm18/64k/800|position:4|title:Ottius Prime|youtube:TXf4Cov2u0c
+author:Saksalainen Laatu|platform:Windows|pms-id:asm18/64k/823|position:5|techniques:OpenGL|title:Hardwood|youtube:QHFKi0WamXg
+author:And You|platform:PC|pms-id:asm18/64k/836|position:6|techniques:More party coding than you can imagine, no kkrunchy, no alcoholo|title:Coercion|youtube:M5-fKUHv-bo
+author:McBurrobit|platform:Win32|pms-id:asm18/64k/838|position:7|techniques:OpenGL, Oidos, Crinkler|title:HEW, COOL MEME|youtube:ywPcQ7GucMc
 
 
 :section 4k intro
@@ -42,20 +42,20 @@ author:McBurrobit|pms-id:asm18/64k/838|title:HEW, COOL MEME|youtube:ywPcQ7GucMc
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2018 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 
-author:HBC|pms-id:asm18/4k/565|title:Core Critical|youtube:n5f6jefpjE0
-author:oo|pms-id:asm18/4k/568|title:Psychedelic Screensaver|youtube:MGEVFYjv1wI
-author:Mielikki|pms-id:asm18/4k/577|title:CSSCity|youtube:_3SzC36wBhw
-author:posers|pms-id:asm18/4k/588|title:Fireflies|youtube:EjniK6U-YYY
-author:sndels|pms-id:asm18/4k/670|title:Sway|youtube:HXYcBlXqnVQ
-author:tkln|pms-id:asm18/4k/781|title:By the Pond|youtube:ztCxFmYuTzQ
-author:TDA feat. oo|pms-id:asm18/4k/784|title:BR4096|youtube:ESeOSd9joEw
-author:The Usual Suspects|pms-id:asm18/4k/787|title:Dissolute Teriyaki|youtube:i3J6yO_n5EA
-author:fatsopanda|pms-id:asm18/4k/790|title:Trippin' Through|youtube:f8Q99RCSQ3U
-author:fp (previously FruitieX & Pingviinituutti)|pms-id:asm18/4k/793|title:Troubled Waters|youtube:czxbWwS-DKQ
-author:mystran|pms-id:asm18/4k/798|title:flow|youtube:V9MPT41wVPU
-author:Xywzel|pms-id:asm18/4k/819|title:Symphony of Deadline - Remastered|youtube:o-KgwEhXxV4
-author:lucid|pms-id:asm18/4k/824|title:Optic Nerve|youtube:BhqLBzpohmM
-author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory|youtube:axbWtjv0eZU
+author:Xywzel|platform:PC|pms-id:asm18/4k/819|techniques:C++, OpenGL, Crinkler|title:Symphony of Deadline - Remastered|youtube:o-KgwEhXxV4
+author:HBC|platform:Windows|pms-id:asm18/4k/565|position:1|techniques:Javascript / HTML / Webgl|title:Core Critical|youtube:n5f6jefpjE0
+author:Prismbeings|platform:Windows|pms-id:asm18/4k/835|position:2|techniques:No fakes|title:Final Territory|youtube:axbWtjv0eZU
+author:fp (previously FruitieX & Pingviinituutti)|platform:PC|pms-id:asm18/4k/793|position:3|techniques:Ray marching, WebGL, JavaScript, AudioWorklet|title:Troubled Waters|youtube:czxbWwS-DKQ
+author:posers|platform:Windows|pms-id:asm18/4k/588|position:4|techniques:C++, GLSL, Clinkster, trial and error|title:Fireflies|youtube:EjniK6U-YYY
+author:mystran|platform:win32/opengl|pms-id:asm18/4k/798|position:5|techniques:One ODE to rule them all.|title:flow|youtube:V9MPT41wVPU
+author:lucid|platform:Windows 7+ PC|pms-id:asm18/4k/824|position:6|techniques:OpenGL 2, C++, Crinkler etc.|title:Optic Nerve|youtube:BhqLBzpohmM
+author:TDA feat. oo|platform:macOS|pms-id:asm18/4k/784|position:7|techniques:GLSL, Komposter|title:BR4096|youtube:ESeOSd9joEw
+author:The Usual Suspects|platform:Windows, Nvidia|pms-id:asm18/4k/787|position:8|techniques:Compofiller Studio|title:Dissolute Teriyaki|youtube:i3J6yO_n5EA
+author:sndels|platform:PC|pms-id:asm18/4k/670|position:9|techniques:Leviathan 2.0, hg_sdf|title:Sway|youtube:HXYcBlXqnVQ
+author:oo|platform:PC|pms-id:asm18/4k/568|position:10|techniques:C++, GLSL, 4klang, Crinkler, GNU Rocket|title:Psychedelic Screensaver|youtube:MGEVFYjv1wI
+author:Mielikki|platform:Firefox 61.0.1|pms-id:asm18/4k/577|position:11|techniques:Pure CSS|title:CSSCity|youtube:_3SzC36wBhw
+author:tkln|platform:x86_64-pc-linux-gnu|pms-id:asm18/4k/781|position:12|techniques:SDL, OpenGL, crappy string synth|title:By the Pond|youtube:ztCxFmYuTzQ
+author:fatsopanda|platform:PC|pms-id:asm18/4k/790|position:13|techniques:glsl, 4klang, crinkler, procrastination|title:Trippin' Through|youtube:f8Q99RCSQ3U
 
 
 :section 1k intro
@@ -63,19 +63,19 @@ author:Prismbeings|pms-id:asm18/4k/835|title:Final Territory|youtube:axbWtjv0eZU
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2018 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
 
-author:oo|pms-id:asm18/1k/567|title:Splashing Some Art|youtube:okG9bLDIO3c
-author:y0bi / wAMMA|pms-id:asm18/1k/569|title:Sphere of Influence|youtube:D3dkjQSdevc
-author:rawArgon|pms-id:asm18/1k/639|title:1karkk1mat0|youtube:TBpCz59GC5U
-author:Exca / Wide Load ^ Konvergence|pms-id:asm18/1k/685|title:Quine Greetings|youtube:5Aq649kjyNc
-author:FruitieX|pms-id:asm18/1k/776|title:octave|youtube:FZx_ddbkl60
-author:Fiture Crew Lamer Section|pms-id:asm18/1k/786|title:Jazzy Scuba Adventure|youtube:7y-roC1d_Iw
-author:Fulcrum|pms-id:asm18/1k/801|title:Screen Lit Vertigo|youtube:_FDhbCAkuw4
-author:Digimind|pms-id:asm18/1k/804|title:Infiltration|youtube:vH8ogq7DeJs
-author:Jumalauta|pms-id:asm18/1k/806|title:Saksalainen vitsi 1024|youtube:uDMDfw1XIRA
-author:gib3, tix0|pms-id:asm18/1k/813|title:geelimanipulaatio|youtube:KmZPr05H5eI
-author:knl, Ishy|pms-id:asm18/1k/825|title:goodbye|youtube:XDzoF9sgCzw
-author:DSoM|pms-id:asm18/1k/830|title:Dirigible|youtube:LRkbrHr8OP8
-author:ps|pms-id:asm18/1k/831|title:Luola|youtube:6s_5JkBRnOQ
+author:gib3, tix0|platform:PC / Linux|pms-id:asm18/1k/813|position:1|techniques:nasm, GLSL, SDL2|title:geelimanipulaatio|youtube:KmZPr05H5eI
+author:Fulcrum|platform:PC|pms-id:asm18/1k/801|position:2|techniques:Crinkler, custom shader minifier, heavy path tracing|title:Screen Lit Vertigo|youtube:_FDhbCAkuw4
+author:knl, Ishy|platform:PC|pms-id:asm18/1k/825|position:3|techniques:vim|title:goodbye|youtube:XDzoF9sgCzw
+author:FruitieX|platform:PC|pms-id:asm18/1k/776|position:4|techniques:WebGL, JavaScript, PNG compression, glslmin|title:octave|youtube:FZx_ddbkl60
+author:rawArgon|platform:JavaScript|pms-id:asm18/1k/639|position:5|techniques:perseverance & pnginator|title:1karkk1mat0|youtube:TBpCz59GC5U
+author:Digimind|platform:PC|pms-id:asm18/1k/804|position:6|techniques:C++, Crinkler|title:Infiltration|youtube:vH8ogq7DeJs
+author:DSoM|platform:PC|pms-id:asm18/1k/830|position:7|techniques:C++, GLSL, Crinkler|title:Dirigible|youtube:LRkbrHr8OP8
+author:oo|platform:PC|pms-id:asm18/1k/567|position:8|techniques:C++, GLSL, Crinkler|title:Splashing Some Art|youtube:okG9bLDIO3c
+author:Fiture Crew Lamer Section|platform:Windows, Nvidia|pms-id:asm18/1k/786|position:9|techniques:Barry Harris's "sixth diminished" scale|title:Jazzy Scuba Adventure|youtube:7y-roC1d_Iw
+author:Jumalauta|platform:PC|pms-id:asm18/1k/806|position:10|techniques:Making fart noises using armpit with one arm, other arm for coding|title:Saksalainen vitsi 1024|youtube:uDMDfw1XIRA
+author:ps|platform:Browser|pms-id:asm18/1k/831|position:11|techniques:2d canvas, uglifyjs, closure compiler, pnginator|title:Luola|youtube:6s_5JkBRnOQ
+author:Exca / Wide Load ^ Konvergence|platform:Browser|pms-id:asm18/1k/685|position:12|techniques:js, 2d canvas, jsexe|title:Quine Greetings|youtube:5Aq649kjyNc
+author:y0bi / wAMMA|platform:JavaScript|pms-id:asm18/1k/569|position:13|techniques:Software rendering|title:Sphere of Influence|youtube:D3dkjQSdevc
 
 
 :section Real wild demo
@@ -83,9 +83,9 @@ author:ps|pms-id:asm18/1k/831|title:Luola|youtube:6s_5JkBRnOQ
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
 
-author:Satori + dA JoRMaS|pms-id:asm18/real_wild/622|title:Rave On|youtube:djOYlaCJl8M
-author:Utfart|pms-id:asm18/real_wild/723|title:EnO saa Saunoa|youtube:To22jVOFhCE
-author:Hacklab.fi|pms-id:asm18/real_wild/741|title:Hacklab LED system|youtube:BDaADf2t3qE
+author:Utfart|platform:DIGIC 4 / Canon EOS 5D Mark II|pms-id:asm18/real_wild/723|position:1|title:EnO saa Saunoa|youtube:To22jVOFhCE
+author:Hacklab.fi|platform:Hacklab LED system|pms-id:asm18/real_wild/741|position:2|title:Hacklab LED system|youtube:BDaADf2t3qE
+author:Satori + dA JoRMaS|platform:MS-DOS PC|pms-id:asm18/real_wild/622|position:3|techniques:software rendering, compiled with Tasm and Watcom, written in Sublime, developed in Dos-Box, music done on Amiga|title:Rave On|youtube:djOYlaCJl8M
 
 
 :section Oldskool demo
@@ -93,9 +93,9 @@ author:Hacklab.fi|pms-id:asm18/real_wild/741|title:Hacklab LED system|youtube:BD
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
 
-author:Byterapers|pms-id:asm18/oldskool_demo/633|title:Shattered Minds|youtube:7XpIGbsQE-w
-author:SMFX & Dead Hackers Society|pms-id:asm18/oldskool_demo/641|title:SMagFX #1|youtube:DYjdpSOxsKc
-author:Ivory Labs.|pms-id:asm18/oldskool_demo/643|title:Housed|youtube:EiBhHTxpFZg
+author:Byterapers|platform:PC 133Mhz GUS|pms-id:asm18/oldskool_demo/633|position:1|techniques:Sleep deprivation. Deadline is the enemy!|title:Shattered Minds|youtube:7XpIGbsQE-w
+author:SMFX & Dead Hackers Society|platform:Atari ST|pms-id:asm18/oldskool_demo/641|position:2|title:SMagFX #1|youtube:DYjdpSOxsKc
+author:Ivory Labs.|platform:MS-DOS Pentium 133 Mhz, 32MB, Sound Blaster(GUS support will come later)|pms-id:asm18/oldskool_demo/643|position:3|techniques:Streamed Polygon Streaming, Hacked Allegro|title:Housed|youtube:EiBhHTxpFZg
 
 
 :section One effect
@@ -103,27 +103,27 @@ author:Ivory Labs.|pms-id:asm18/oldskool_demo/643|title:Housed|youtube:EiBhHTxpF
 :ongoing true
 :public false
 
-author:iiKster|pms-id:asm18/one_effect/846|title:Killing time in the scene lounge
-author:jnalanko|pms-id:asm18/one_effect/854|title:What is this I don't even
-author:JjyKs|pms-id:asm18/one_effect/856|title:Rainy Metaballs
-author:Cenon|pms-id:asm18/one_effect/860|title:Kettu
-author:Adellan|pms-id:asm18/one_effect/864|title:Quarreling cubes
-author:tArzAn / tAAt|pms-id:asm18/one_effect/865|title:hellyydenosoitin - endearment pointer
-author:Jumalauta|pms-id:asm18/one_effect/866|title:Färjan diskotek
-author:vohveli|pms-id:asm18/one_effect/867|title:happy bars
-author:KoomaDot|pms-id:asm18/one_effect/868|title:Vaerisokeus
-author:meincrab|pms-id:asm18/one_effect/869|title:Just a Bug
-author:muffintrap|pms-id:asm18/one_effect/870|title:Pink in Spaace
-author:ole|pms-id:asm18/one_effect/871|title:hereis
-author:demo workshop people!|pms-id:asm18/one_effect/872|title:kuution_neppaus
-author:into|pms-id:asm18/one_effect/873|title:tick tock
-author:Noirek|pms-id:asm18/one_effect/874|title:Humppasonni
-author:essobar/posers|pms-id:asm18/one_effect/875|title:Aku Ankka
-author:BJAKKE|pms-id:asm18/one_effect/876|title:ByteSpiral128
-author:qma|pms-id:asm18/one_effect/877|title:Rezykled
-author:name|pms-id:asm18/one_effect/878|title:*screams in visible agony*
-author:Typo|pms-id:asm18/one_effect/879|title:Organic
-author:FractalPixel, Shiera & Jirah|pms-id:asm18/one_effect/880|title:Void Garden
+author:ole|platform:processing on fedora linux|pms-id:asm18/one_effect/871|techniques:none|title:hereis
+author:Cenon|platform:Windows|pms-id:asm18/one_effect/860|position:1|techniques:OpenGL, glfw|title:Kettu
+author:tArzAn / tAAt|platform:PC / Unity|pms-id:asm18/one_effect/865|position:2|techniques:Visual Studio, texture.SetPixel, no post-proc|title:hellyydenosoitin - endearment pointer
+author:FractalPixel, Shiera & Jirah|platform:PC|pms-id:asm18/one_effect/880|position:3|techniques:Processing, Fruity Loops|title:Void Garden
+author:jnalanko|platform:Linux|pms-id:asm18/one_effect/854|position:4|techniques:OpenGL: A full screen quad + raymarching.|title:What is this I don't even
+author:BJAKKE|platform:PC|pms-id:asm18/one_effect/876|position:5|techniques:Processing, source project file of 128 bytes|title:ByteSpiral128
+author:qma|platform:Browser|pms-id:asm18/one_effect/877|position:5|techniques:Javascript, WebGL, SoundBox, Closure Compiler, Pnginator, GNU tools, Emacs, 30 minutes partycoding:)|title:Rezykled
+author:JjyKs|platform:PC|pms-id:asm18/one_effect/856|position:7|techniques:Processing, Demo Making Workshop, Lacking skills, Good times|title:Rainy Metaballs
+author:Jumalauta|platform:PC|pms-id:asm18/one_effect/866|position:8|title:Färjan diskotek
+author:muffintrap|platform:PC|pms-id:asm18/one_effect/870|position:9|techniques:Processing, BeepBox|title:Pink in Spaace
+author:demo workshop people!|platform:PC|pms-id:asm18/one_effect/872|position:10|techniques:hopes and dreams|title:kuution_neppaus
+author:into|platform:processing|pms-id:asm18/one_effect/873|position:10|techniques:hurry|title:tick tock
+author:meincrab|platform:PC|pms-id:asm18/one_effect/869|position:12|techniques:Processing|title:Just a Bug
+author:Adellan|platform:PC|pms-id:asm18/one_effect/864|position:13|techniques:Processing|title:Quarreling cubes
+author:essobar/posers|platform:PC|pms-id:asm18/one_effect/875|position:13|techniques:Aku Ankka Coodaus|title:Aku Ankka
+author:Typo|platform:PC|pms-id:asm18/one_effect/879|position:15|techniques:Processing 3.4|title:Organic
+author:iiKster|pms-id:asm18/one_effect/846|position:16|techniques:JS Canvas|title:Killing time in the scene lounge
+author:KoomaDot|platform:Windows|pms-id:asm18/one_effect/868|position:17|techniques:Fusion "skills"|title:Vaerisokeus
+author:Noirek|platform:pc|pms-id:asm18/one_effect/874|position:17|techniques:No skill|title:Humppasonni
+author:name|platform:pc|pms-id:asm18/one_effect/878|position:19|techniques:opengl|title:*screams in visible agony*
+author:vohveli|pms-id:asm18/one_effect/867|position:20|title:happy bars
 
 
 :section Short film
@@ -131,16 +131,16 @@ author:FractalPixel, Shiera & Jirah|pms-id:asm18/one_effect/880|title:Void Garde
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
 
-author:TAMIA5G/Iivo Korhonen/Axel Solimeïs|pms-id:asm18/short_film/563|title:FIDSGETS SPINNERS' CLUB V|youtube:W-TlBdvN9JY
-author:Keuhkovammaistenliitto|pms-id:asm18/short_film/581|title:Tartu|youtube:bnoHnCDQL0g
-author:Elite Dekkerz|pms-id:asm18/short_film/590|title:Pullon henki|youtube:R_a1yYeoi9Q
-author:TULIMERI|pms-id:asm18/short_film/611|title:A Song for the assembly|youtube:RXSBOEPHP0M
-author:TVH animation|pms-id:asm18/short_film/647|title:Pop|youtube:C6bc8LvKUv0
-author:SBA|pms-id:asm18/short_film/673|title:Agent 404 - Gullseye|youtube:cqfKHZUENLo
-author:Lehikoinen ja Hevoset|pms-id:asm18/short_film/674|title:Assembly is tomorrow, this we must do|youtube:MnKw6km25E4
-author:Randomheads|pms-id:asm18/short_film/688|title:Mainoskatko ii|youtube:xfwq9F856-8
-author:DatafoxStudios / Melodïcore|pms-id:asm18/short_film/740|title:NWO|youtube:J2rcVzmYxaE
-author:Studio Menestys|pms-id:asm18/short_film/743|title:Assembly: Ole Ihmisiksi|youtube:KSWegO22p48
+author:Randomheads|platform:PC|pms-id:asm18/short_film/688|position:1|techniques:Premiere & AE <3|title:Mainoskatko ii|youtube:xfwq9F856-8
+author:SBA|pms-id:asm18/short_film/673|position:2|title:Agent 404 - Gullseye|youtube:cqfKHZUENLo
+author:Studio Menestys|pms-id:asm18/short_film/743|position:3|techniques:Camera Phone, Amazing first timer sfx skills|title:Assembly: Ole Ihmisiksi|youtube:KSWegO22p48
+author:DatafoxStudios / Melodïcore|platform:Blender, Premiere, FL Studio 20|pms-id:asm18/short_film/740|position:4|techniques:▲|title:NWO|youtube:J2rcVzmYxaE
+author:TAMIA5G/Iivo Korhonen/Axel Solimeïs|platform:PC |pms-id:asm18/short_film/563|position:5|techniques:chroma key|title:FIDSGETS SPINNERS' CLUB V|youtube:W-TlBdvN9JY
+author:TVH animation|platform:PC|pms-id:asm18/short_film/647|position:6|techniques:Photoshop, After effects, Garage band, Audacity|title:Pop|youtube:C6bc8LvKUv0
+author:Elite Dekkerz|platform:PC|pms-id:asm18/short_film/590|position:7|techniques:After Effects, Schism Tracker|title:Pullon henki|youtube:R_a1yYeoi9Q
+author:Keuhkovammaistenliitto|pms-id:asm18/short_film/581|position:8|techniques:Maths etc.|title:Tartu|youtube:bnoHnCDQL0g
+author:Lehikoinen ja Hevoset|platform:Instanssissa 2019 livenä lisää|pms-id:asm18/short_film/674|position:9|title:Assembly is tomorrow, this we must do|youtube:MnKw6km25E4
+author:TULIMERI|platform:PC |pms-id:asm18/short_film/611|position:10|techniques:Power director |title:A Song for the assembly|youtube:RXSBOEPHP0M
 
 
 :section Gamedev
@@ -148,18 +148,18 @@ author:Studio Menestys|pms-id:asm18/short_film/743|title:Assembly: Ole Ihmisiksi
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
 
-author:JjyKs & MakkaraHauki|pms-id:asm18/gamedev/544|title:City Bike Simulator|youtube:1HQlStAxERQ
-author:Ask37|pms-id:asm18/gamedev/545|title:Compose It!|youtube:WRnWnstIewI
-author:Team Grappling Hook|pms-id:asm18/gamedev/546|title:Tanks With Hands: Armed and Treaded|youtube:vV3taMSClGM
-author:SirRandom feat. Taeaekkae|pms-id:asm18/gamedev/547|title:Medlab Terror|youtube:d59fhN33AiM
-author:Urpojugend|pms-id:asm18/gamedev/549|title:Hack The Planet|youtube:2In36Unk7nI
-author:Half Bent|pms-id:asm18/gamedev/550|title:Victims of Gravity|youtube:Ulxa5mWuH8M
-author:Team Magic Forest|pms-id:asm18/gamedev/551|title:Frog Out!|youtube:-faJA1hYVR0
-author:Limba|pms-id:asm18/gamedev/552|title:Drone Race PC|youtube:SFq4Egv8x7M
-author:Haxax|pms-id:asm18/gamedev/553|title:Spiduel|youtube:3XBzfJLX7vs
-author:McBurrobit|pms-id:asm18/gamedev/554|title:SummerSplash|youtube:bZZZAPlhgMc
-author:Mipelius|pms-id:asm18/gamedev/555|title:Planet A18|youtube:O_LuZTl5zEc
-author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title:C.L.A.Y.|youtube:I6xbfRXdspk
+author:Team Magic Forest|platform:Windows|pms-id:asm18/gamedev/551|position:1|title:Frog Out!|youtube:-faJA1hYVR0
+author:Team Grappling Hook|platform:Windows|pms-id:asm18/gamedev/546|position:2|title:Tanks With Hands: Armed and Treaded|youtube:vV3taMSClGM
+author:Bit By Byte Creations & Red Nettle Studios|platform:Windows|pms-id:asm18/gamedev/556|position:3|title:C.L.A.Y.|youtube:I6xbfRXdspk
+author:Mipelius|platform:Windows|pms-id:asm18/gamedev/555|position:4|title:Planet A18|youtube:O_LuZTl5zEc
+author:JjyKs & MakkaraHauki|platform:Windows|pms-id:asm18/gamedev/544|position:5|title:City Bike Simulator|youtube:1HQlStAxERQ
+author:Ask37|platform:Windows, Android|pms-id:asm18/gamedev/545|position:6|title:Compose It!|youtube:WRnWnstIewI
+author:Urpojugend|platform:Windows|pms-id:asm18/gamedev/549|position:7|title:Hack The Planet|youtube:2In36Unk7nI
+author:Half Bent|platform:Windows|pms-id:asm18/gamedev/550|position:8|title:Victims of Gravity|youtube:Ulxa5mWuH8M
+author:SirRandom feat. Taeaekkae|platform:Windows|pms-id:asm18/gamedev/547|position:9|title:Medlab Terror|youtube:d59fhN33AiM
+author:Limba|platform:Windows|pms-id:asm18/gamedev/552|position:10|title:Drone Race PC|youtube:SFq4Egv8x7M
+author:Haxax|platform:Windows, Android|pms-id:asm18/gamedev/553|position:11|title:Spiduel|youtube:3XBzfJLX7vs
+author:McBurrobit|platform:Windows|pms-id:asm18/gamedev/554|position:12|title:SummerSplash|youtube:bZZZAPlhgMc
 
 
 :section Tracked music
@@ -167,16 +167,16 @@ author:Bit By Byte Creations & Red Nettle Studios|pms-id:asm18/gamedev/556|title
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :ongoing true
 
-author:Buzzer/Zenon|pms-id:asm18/tracked_music/585|title:Let's party again|video-file:tracked-music/wavs/let_s_party_again_by_buzzer_zenon.mod.wav.mp4|youtube:ucTMxvIHRfs
-author:Jarsk1e|pms-id:asm18/tracked_music/777|title:NES Things|video-file:tracked-music/wavs/nes_things_by_jarsk1e.xm.wav.mp4|youtube:4WBKxWbyKnA
-author:la_mettrie/tsoi|pms-id:asm18/tracked_music/780|title:Very serious problems (Internet has problems)|video-file:tracked-music/wavs/very_serious_problems_(internet_has_problems)_by_la_mettrie_tsoi.it.wav.mp4|youtube:tcSIuAua84U
-author:mayday/hedelmae|pms-id:asm18/tracked_music/782|title:ignition|video-file:tracked-music/wavs/ignition_by_mayday_hedelmae.ignition.xm.wav.mp4|youtube:hWyCl3M1H9U
-author:bitch/ATW|pms-id:asm18/tracked_music/844|title:Sloppy Ho|video-file:tracked-music/wavs/sloppy_ho_by_bitch_atw.mod.wav.mp4|youtube:yl5Fxs-UImI
-author:Paokala|pms-id:asm18/tracked_music/847|title:Arpeggiojörssiä kansalle|video-file:tracked-music/wavs/arpeggiojörssiä_kansalle_by_paokala.xm.wav.mp4|youtube:pNeRx6UxQGM
-author:Roz / Fit ^ Byterapers|pms-id:asm18/tracked_music/857|title:Straightbackward|video-file:tracked-music/wavs/straightbackward_by_roz___fit_^_byterapers.xm.wav.mp4|youtube:aDmij7oqyj0
-author:dusthillguy|pms-id:asm18/tracked_music/859|title:joonix f|video-file:tracked-music/wavs/joonix_f_by_dusthillguy.it.wav.mp4|youtube:OF9oLFpxy5k
-author:beathawk|pms-id:asm18/tracked_music/861|title:oodi.mod|video-file:tracked-music/wavs/oodi.mod_by_beathawk.mod.wav.mp4|youtube:_afkAFsxgdo
-author:Laurikka|pms-id:asm18/tracked_music/862|title:Nonbassoon|video-file:tracked-music/wavs/nonbassoon_by_laurikka.mod.wav.mp4|youtube:zFgpx7qLfww
+author:Roz / Fit ^ Byterapers|platform:OSX/Win10|pms-id:asm18/tracked_music/857|position:1|techniques:FT2 clone by 8BB / Roland System-8|title:Straightbackward|video-file:tracked-music/wavs/straightbackward_by_roz___fit_^_byterapers.xm.wav.mp4|youtube:aDmij7oqyj0
+author:Paokala|platform:PC|pms-id:asm18/tracked_music/847|position:2|techniques:.XM (4 channels, 30kb)|title:Arpeggiojörssiä kansalle|video-file:tracked-music/wavs/arpeggiojörssiä_kansalle_by_paokala.xm.wav.mp4|youtube:pNeRx6UxQGM
+author:mayday/hedelmae|platform:Amiga|pms-id:asm18/tracked_music/782|position:3|techniques:Protracker|title:ignition|video-file:tracked-music/wavs/ignition_by_mayday_hedelmae.ignition.xm.wav.mp4|youtube:hWyCl3M1H9U
+author:la_mettrie/tsoi|platform:PC|pms-id:asm18/tracked_music/780|position:4|techniques:WINE::OpenMPT, Youtube-dl, Audacity|title:Very serious problems (Internet has problems)|video-file:tracked-music/wavs/very_serious_problems_(internet_has_problems)_by_la_mettrie_tsoi.it.wav.mp4|youtube:tcSIuAua84U
+author:Buzzer/Zenon|platform:Amiga|pms-id:asm18/tracked_music/585|position:5|techniques:Protracker|title:Let's party again|video-file:tracked-music/wavs/let_s_party_again_by_buzzer_zenon.mod.wav.mp4|youtube:ucTMxvIHRfs
+author:beathawk|pms-id:asm18/tracked_music/861|position:6|techniques:protracker|title:oodi.mod|video-file:tracked-music/wavs/oodi.mod_by_beathawk.mod.wav.mp4|youtube:_afkAFsxgdo
+author:bitch/ATW|pms-id:asm18/tracked_music/844|position:7|techniques:Protracker and nipple clamps|title:Sloppy Ho|video-file:tracked-music/wavs/sloppy_ho_by_bitch_atw.mod.wav.mp4|youtube:yl5Fxs-UImI
+author:Jarsk1e|platform:PC|pms-id:asm18/tracked_music/777|position:8|techniques:FastTracker II|title:NES Things|video-file:tracked-music/wavs/nes_things_by_jarsk1e.xm.wav.mp4|youtube:4WBKxWbyKnA
+author:Laurikka|platform:MOD|pms-id:asm18/tracked_music/862|position:9|techniques:Protracker 2.3|title:Nonbassoon|video-file:tracked-music/wavs/nonbassoon_by_laurikka.mod.wav.mp4|youtube:zFgpx7qLfww
+author:dusthillguy|platform:PC|pms-id:asm18/tracked_music/859|position:10|techniques:OpenMPT|title:joonix f|video-file:tracked-music/wavs/joonix_f_by_dusthillguy.it.wav.mp4|youtube:OF9oLFpxy5k
 
 
 :section Listening music
@@ -184,21 +184,21 @@ author:Laurikka|pms-id:asm18/tracked_music/862|title:Nonbassoon|video-file:track
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:Buzzer/Brainstorm|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
-author:Ephmerix|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
-author:ukimies|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4|youtube:gVFEQT8wpBc
-author:Mergente|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4|youtube:b_Tte0X7vUk
-author:Byproduct / SceneSat|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4|youtube:iYD-aLZeIyM
-author:rawArgon|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4|youtube:A2K19-TbjWU
-author:Downgone / 242|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4|youtube:nGafXph5W9A
-author:Chipremacy|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4|youtube:QMQReo56kvM
-author:Aikapallo|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4|youtube:qnw5R04o0cI
-author:Zardax / Artline Designs|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4|youtube:OoFA7o8xzko
-author:Yzi|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4|youtube:Gq56IhpaDZ4
-author:ihanalammas|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4|youtube:EuEz_ljUFRE
-author:merlucin|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4|youtube:vzw-LJOLtT0
-author:GRiMM|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4|youtube:O048sF_q93I
-author:Jeff|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4|youtube:e6RfLhUt1m0
+author:Byproduct / SceneSat|platform:PC|pms-id:asm18/listening_music/625|position:1|techniques:64klang, Crinkler, 16 kilobytes, 0 samples|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4|youtube:iYD-aLZeIyM
+author:Chipremacy|platform:Mac|pms-id:asm18/listening_music/634|position:2|techniques:Logic X|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4|youtube:QMQReo56kvM
+author:Ephmerix|platform:PC|pms-id:asm18/listening_music/578|position:3|techniques:Ableton Live 10 + VSTs|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
+author:Aikapallo|platform:PC|pms-id:asm18/listening_music/661|position:4|techniques:Cubase and vsti|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4|youtube:qnw5R04o0cI
+author:GRiMM|platform:PC|pms-id:asm18/listening_music/728|position:4|techniques:REAPER, Guitar, Drums, Chipcrusher|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4|youtube:O048sF_q93I
+author:Jeff|platform:Real Instruments|pms-id:asm18/listening_music/736|position:6|techniques:Reaper|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4|youtube:e6RfLhUt1m0
+author:Buzzer/Brainstorm|platform:PC Reason|pms-id:asm18/listening_music/573|position:7|techniques:Roland keyboard|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
+author:Zardax / Artline Designs|platform:C-64|pms-id:asm18/listening_music/665|position:8|techniques:SID 8580|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4|youtube:OoFA7o8xzko
+author:ukimies|platform:PC|pms-id:asm18/listening_music/584|position:9|techniques:Ableton Live|title:kalja|video-file:listening-music/01_kalja.flac.mp4|youtube:gVFEQT8wpBc
+author:Yzi|platform:digital audio workstation|pms-id:asm18/listening_music/666|position:10|techniques:be a celt and pass me the cult|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4|youtube:Gq56IhpaDZ4
+author:Mergente|platform:FL Studio, Reaper|pms-id:asm18/listening_music/601|position:11|techniques:Various VST's, Guitar, Roland XP-30|title:ITEKI|video-file:listening-music/12iteki.flac.mp4|youtube:b_Tte0X7vUk
+author:Downgone / 242|platform:PC|pms-id:asm18/listening_music/632|position:12|techniques:FL studio, 100 plugins and the guitar wizard Ilpo|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4|youtube:nGafXph5W9A
+author:merlucin|platform:MacOS X|pms-id:asm18/listening_music/694|position:13|techniques:I always write music while being sad, and then I get happy|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4|youtube:vzw-LJOLtT0
+author:ihanalammas|platform:MP3|pms-id:asm18/listening_music/690|position:14|techniques:Kazoo-pilli, sattumanvaraiset äänilähteet|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4|youtube:EuEz_ljUFRE
+author:rawArgon|platform:PC|pms-id:asm18/listening_music/631|position:15|techniques:Reface CS et al.|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4|youtube:A2K19-TbjWU
 
 
 :section Dance music
@@ -206,18 +206,18 @@ author:Jeff|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:li
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
 
-author:ohgreat|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
-author:Buzzer/Brainstorm|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
-author:DJ Joge of Brainstorm|pms-id:asm18/dance_music/587|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4|youtube:Z5OtpDC0-MU
-author:Johanna & The Poppivehkeet|pms-id:asm18/dance_music/602|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4|youtube:YrQ-MWrGEz8
-author:The Man With Several Nicknames|pms-id:asm18/dance_music/613|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4|youtube:-UqXcFZoPd4
-author:Signal|pms-id:asm18/dance_music/618|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4|youtube:EnbFjpTKg54
-author:M.W.N.N.|pms-id:asm18/dance_music/627|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4|youtube:uZAwZRJPPYk
-author:rawArgon|pms-id:asm18/dance_music/628|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4|youtube:Hm2Q3EjLves
-author:HBR|pms-id:asm18/dance_music/652|title:Eolian|video-file:dance-music/06_eolian.flac.mp4|youtube:vC34dzT6myA
-author:Yksikkö 303|pms-id:asm18/dance_music/653|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4|youtube:6pXAXN5Se8c
-author:Mafia Pineapple|pms-id:asm18/dance_music/654|title:Throwback|video-file:dance-music/04_throwback.flac.mp4|youtube:67-gLuKZ82Q
-author:ihanalammas|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4|youtube:faqRk7m7CbE
+author:The Man With Several Nicknames|platform:PC|pms-id:asm18/dance_music/613|position:1|techniques:Hakkasin kiviä yhtee|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4|youtube:-UqXcFZoPd4
+author:HBR|platform:PC|pms-id:asm18/dance_music/652|position:2|techniques:FL Studio 20|title:Eolian|video-file:dance-music/06_eolian.flac.mp4|youtube:vC34dzT6myA
+author:M.W.N.N.|platform:PC|pms-id:asm18/dance_music/627|position:3|techniques:Schism Tracker with NES samples and effects only|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4|youtube:uZAwZRJPPYk
+author:ohgreat|platform:PC|pms-id:asm18/dance_music/562|position:4|techniques:FL Studio|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
+author:Johanna & The Poppivehkeet|platform:FL Studio|pms-id:asm18/dance_music/602|position:5|techniques:FL Studio|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4|youtube:YrQ-MWrGEz8
+author:Buzzer/Brainstorm|platform:PC Reason|pms-id:asm18/dance_music/574|position:6|techniques:Smashing the keyboard|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
+author:DJ Joge of Brainstorm|platform:PC|pms-id:asm18/dance_music/587|position:7|techniques:Renoise, VSTs and soundbanks, Elephant|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4|youtube:Z5OtpDC0-MU
+author:Yksikkö 303|platform:PC|pms-id:asm18/dance_music/653|position:8|techniques:Reason, MB33, Talkbox, Guitar, Bass, Midi keyb., A room where are no windows except w7|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4|youtube:6pXAXN5Se8c
+author:Mafia Pineapple|platform:PC|pms-id:asm18/dance_music/654|position:9|techniques:Fl Studio|title:Throwback|video-file:dance-music/04_throwback.flac.mp4|youtube:67-gLuKZ82Q
+author:Signal|platform:PC|pms-id:asm18/dance_music/618|position:10|techniques:Cubase|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4|youtube:EnbFjpTKg54
+author:ihanalammas|platform:MP3|pms-id:asm18/dance_music/671|position:11|techniques:SONAR, Korg KP3+, Roland JUNO-106, Guitar, Random sound sources|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4|youtube:faqRk7m7CbE
+author:rawArgon|platform:PC|pms-id:asm18/dance_music/628|position:12|techniques:Synths'n'Reason|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4|youtube:Hm2Q3EjLves
 
 
 :section Fast music
@@ -225,27 +225,27 @@ author:ihanalammas|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:danc
 :description <p>Competitors had 1.5 hours to create a song that had a theme "Miami Beach".</p>
 :ongoing true
 
-author:Sandelinos|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
-author:Carrox|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
-author:tArzAn|pms-id:asm18/fast_music/753|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4|youtube:BVRjS65Ikto
-author:Dj Rakofobia|pms-id:asm18/fast_music/754|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4|youtube:z_dcEC6ySWQ
-author:rawArgon|pms-id:asm18/fast_music/755|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4|youtube:Y8UOXFQrZ2c
-author:Yzi|pms-id:asm18/fast_music/757|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4|youtube:Z7NOqxLlzxs
-author:exla|pms-id:asm18/fast_music/759|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4|youtube:2KG624qt8fM
-author:Ephmerix|pms-id:asm18/fast_music/760|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4|youtube:1md8BX9P-L4
-author:Old Moubit|pms-id:asm18/fast_music/761|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4|youtube:Z_NXPE2PqlY
-author:BQJ|pms-id:asm18/fast_music/762|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4|youtube:KvqrLM-wntg
-author:shinmai/McBurrobit|pms-id:asm18/fast_music/763|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4|youtube:lGX30v04uU8
-author:Jarsk1e|pms-id:asm18/fast_music/764|title:Beach Party|video-file:fast-music/beach_party.flac.mp4|youtube:3hV4XYndidM
-author:TURS0|pms-id:asm18/fast_music/765|title:Zebra|video-file:fast-music/zebra.flac.mp4|youtube:pAhADob9h0E
-author:Aikapallo & Rayjan|pms-id:asm18/fast_music/766|title:Kallio|video-file:fast-music/kallio.flac.mp4|youtube:Wn1-8QAdNTM
-author:Mergente|pms-id:asm18/fast_music/767|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4|youtube:w7lSybcPk5c
-author:Jon Tardis|pms-id:asm18/fast_music/768|title:Beach Club|video-file:fast-music/beach_club.flac.mp4|youtube:jTRm5mojfi8
-author:Chipremacy|pms-id:asm18/fast_music/769|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4|youtube:1DWE__QDAc0
-author:Munakas|pms-id:asm18/fast_music/771|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4|youtube:fhxhZdPfJMc
-author:ihanalammas|pms-id:asm18/fast_music/772|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4|youtube:i8AfGXm2WS0
-author:Yermungandor|pms-id:asm18/fast_music/773|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4|youtube:5jT3riCoPeY
-author:Oge ja Tsaari|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4|youtube:cBr0c7GR01w
+author:Ephmerix|platform:PC|pms-id:asm18/fast_music/760|position:1|techniques:Ableton Live 10 + VSTs|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4|youtube:1md8BX9P-L4
+author:Yzi|platform:ableton live + stuff|pms-id:asm18/fast_music/757|position:2|techniques:recorded the piano track in one take and then played the rest of the instruments on top|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4|youtube:Z7NOqxLlzxs
+author:Chipremacy|platform:Mac|pms-id:asm18/fast_music/769|position:3|techniques:Logic X|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4|youtube:1DWE__QDAc0
+author:ihanalammas|platform:MP3|pms-id:asm18/fast_music/772|position:4|techniques:daw, synth, guitar|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4|youtube:i8AfGXm2WS0
+author:Dj Rakofobia|platform:PC|pms-id:asm18/fast_music/754|position:5|techniques:Incredibry singing skillz|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4|youtube:z_dcEC6ySWQ
+author:Mergente|platform:FL Studio|pms-id:asm18/fast_music/767|position:6|techniques:mikropuhe, eeben synasoolo|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4|youtube:w7lSybcPk5c
+author:tArzAn|platform:PC|pms-id:asm18/fast_music/753|position:7|techniques:Psycle|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4|youtube:BVRjS65Ikto
+author:rawArgon|platform:Reason & HW Synths|pms-id:asm18/fast_music/755|position:8|techniques:Exotic-flavored energy drinks|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4|youtube:Y8UOXFQrZ2c
+author:Carrox|platform:PC|pms-id:asm18/fast_music/750|position:9|techniques:FL Studio 20, Serum & Magical8bitplug|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
+author:Munakas|platform:PC|pms-id:asm18/fast_music/771|position:10|techniques:panic|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4|youtube:fhxhZdPfJMc
+author:Jarsk1e|platform:PC|pms-id:asm18/fast_music/764|position:11|techniques:Renoise|title:Beach Party|video-file:fast-music/beach_party.flac.mp4|youtube:3hV4XYndidM
+author:Old Moubit|platform:PC|pms-id:asm18/fast_music/761|position:12|techniques:FL Studio 20|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4|youtube:Z_NXPE2PqlY
+author:Oge ja Tsaari|platform:PC|pms-id:asm18/fast_music/774|position:13|techniques:FL|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4|youtube:cBr0c7GR01w
+author:BQJ|platform:PC|pms-id:asm18/fast_music/762|position:14|techniques:Mystery vibes|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4|youtube:KvqrLM-wntg
+author:Jon Tardis|platform:Mac|pms-id:asm18/fast_music/768|position:15|techniques:Ableton|title:Beach Club|video-file:fast-music/beach_club.flac.mp4|youtube:jTRm5mojfi8
+author:Sandelinos|platform:ears|pms-id:asm18/fast_music/734|position:16|techniques:Fl studio 20|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
+author:shinmai/McBurrobit|platform:FL Studio, 20 Serum instances|pms-id:asm18/fast_music/763|position:17|techniques:abandoning standards, self humiliation|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4|youtube:lGX30v04uU8
+author:Aikapallo & Rayjan|platform:Windows|pms-id:asm18/fast_music/766|position:18|techniques:Space juice|title:Kallio|video-file:fast-music/kallio.flac.mp4|youtube:Wn1-8QAdNTM
+author:Yermungandor|platform:PC|pms-id:asm18/fast_music/773|position:18|techniques:Reason|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4|youtube:5jT3riCoPeY
+author:TURS0|platform:PC|pms-id:asm18/fast_music/765|position:20|techniques:Logic Pro X|title:Zebra|video-file:fast-music/zebra.flac.mp4|youtube:pAhADob9h0E
+author:exla|platform:pc|pms-id:asm18/fast_music/759|position:21|techniques:flow|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4|youtube:2KG624qt8fM
 
 
 :section Pixel graphics
@@ -253,10 +253,10 @@ author:Oge ja Tsaari|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fa
 :description <p>Pixel graphics had a limitation of 320x240 resolution with 256 colors and no animation. Otherwise there were no other limitations.</p>
 :ongoing true
 
-author:Kisu|image-file:pixel-graphics/03 one_more_minute.png|pms-id:asm18/pixel_graphics/794|title:One more minute
-author:Ronsu|image-file:pixel-graphics/04 Ronsu.png|pms-id:asm18/pixel_graphics/837|title:Partikle
-author:Surround Tekotuotanto|image-file:pixel-graphics/02 un-nouveau-soleil.png|pms-id:asm18/pixel_graphics/845|title:un nouveau soleil
-author:jemu|image-file:pixel-graphics/01 spicy.png|pms-id:asm18/pixel_graphics/853|title:S P I C Y
+author:Ronsu|image-file:pixel-graphics/04 Ronsu.png|platform:PC|pms-id:asm18/pixel_graphics/837|position:1|techniques:Photoshop|title:Partikle
+author:Kisu|image-file:pixel-graphics/03 one_more_minute.png|platform:Windows, various tools|pms-id:asm18/pixel_graphics/794|position:2|techniques:Piiperrys|title:One more minute
+author:Surround Tekotuotanto|image-file:pixel-graphics/02 un-nouveau-soleil.png|platform:Pc|pms-id:asm18/pixel_graphics/845|position:3|techniques:Photoshop|title:un nouveau soleil
+author:jemu|image-file:pixel-graphics/01 spicy.png|platform:paint.net|pms-id:asm18/pixel_graphics/853|position:4|techniques:pencil|title:S P I C Y
 
 
 :section Graphics
@@ -264,19 +264,19 @@ author:jemu|image-file:pixel-graphics/01 spicy.png|pms-id:asm18/pixel_graphics/8
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
 
-author:-|image-file:graphics/04-night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
-author:maxon / HBC|image-file:graphics/06-slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
-author:NinjaBaka|image-file:graphics/08-wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
-author:Ukkis|image-file:graphics/10-PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
-author:Darkki|image-file:graphics/13-SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
-author:Yermungandor|image-file:graphics/01-A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
-author:Valtteri|image-file:graphics/11-First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
-author:Surround Tekotuotanto|image-file:graphics/07-Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
-author:sssampo / pistoke|image-file:graphics/05-cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
-author:Panicpony|image-file:graphics/02-seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
-author:Partikle|image-file:graphics/12-trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
-author:ME|image-file:graphics/03-going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
-author:Plasticbunny|image-file:graphics/09-Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
+author:Darkki|image-file:graphics/13-SunBreeze_Horizon.png|platform:PC|pms-id:asm18/graphics_competition/607|position:1|techniques:3dsmax, zbrush, corona renderer, Photoshop|title:SunBreeze Horizon
+author:Ukkis|image-file:graphics/10-PartyAnimal.png|platform:pc|pms-id:asm18/graphics_competition/591|position:2|techniques:Zbrush, Substance Painter, Blender+Cycles, Photoshop, skill|title:Party Animal
+author:Partikle|image-file:graphics/12-trolling.jpg|platform:PC|pms-id:asm18/graphics_competition/696|position:3|techniques:Photoshop, 3dsmax|title:Trolling
+author:Valtteri|image-file:graphics/11-First_encounter.jpg|platform:PC|pms-id:asm18/graphics_competition/640|position:4|techniques:Pen & ink, Photoshop|title:First encounter
+author:Plasticbunny|image-file:graphics/09-Megaspore_Mother_Cell.png|platform:Ipad, Mac|pms-id:asm18/graphics_competition/739|position:5|techniques:Procreate, Photoshop|title:Megaspore Mother Cell
+author:maxon / HBC|image-file:graphics/06-slice_dice.png|platform:PC|pms-id:asm18/graphics_competition/559|position:6|techniques:Blender & Krita in Linux (Xubuntu) (They're free, whee!)|title:Slice Dice
+author:NinjaBaka|image-file:graphics/08-wabi-sabi.png|platform:Windows, PC|pms-id:asm18/graphics_competition/570|position:7|techniques:3ds Max, Photoshop|title:Wabi-sabi
+author:Surround Tekotuotanto|image-file:graphics/07-Crabzilla.png|platform:Pc|pms-id:asm18/graphics_competition/650|position:8|techniques:Oculus medium, 3ds max, photoshop|title:Crabzilla
+author:sssampo / pistoke|image-file:graphics/05-cable_factor.png|platform:-|pms-id:asm18/graphics_competition/656|position:9|techniques:OnePlus 6 + Blender + Photoshop|title:Cable Factor
+author:Panicpony|image-file:graphics/02-seahorse.jpg|platform:PC|pms-id:asm18/graphics_competition/660|position:10|techniques:Photoshop + Illustrator|title:Water danger noodle
+author:-|image-file:graphics/04-night_time_library.png|platform:PC|pms-id:asm18/graphics_competition/557|position:11|techniques:3D|title:Night time library
+author:ME|image-file:graphics/03-going_home.png|platform:Pc|pms-id:asm18/graphics_competition/721|position:12|techniques:3DsMax,Marvelous designer,Substance painter and photoshop|title:Going home
+author:Yermungandor|image-file:graphics/01-A_new_start.jpg|platform:Mac|pms-id:asm18/graphics_competition/621|position:13|techniques:Blender, Photoshop|title:A new start
 
 
 :section Photo
@@ -284,21 +284,21 @@ author:Plasticbunny|image-file:graphics/09-Megaspore_Mother_Cell.png|pms-id:asm1
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
 
-author:iiKster|image-file:photo/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
-author:DJ Joge of Brainstorm|image-file:photo/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
-author:Exca / Wide Load ^ Konvergence|image-file:photo/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
-author:biini / damones|image-file:photo/real-time-raytracing-iv.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
-author:Tethys|image-file:photo/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
-author:H7 TRSI & Accession|image-file:photo/heartbeat.jpeg|pms-id:asm18/photo_competition/605|title:Heartbeat
-author:malomaz|image-file:photo/your-galactic-uber-is-here.jpeg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
-author:sieniesko/paranoidx|image-file:photo/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
-author:tug|image-file:photo/irregular-habitat.jpeg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
-author:Foxmagon|image-file:photo/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
-author:Wode / Doomsday|image-file:photo/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
-author:mss_fly|image-file:photo/laundry-room-demo-party.jpeg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
-author:ted / TRBL|image-file:photo/cxirkauxvojo.jpeg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
-author:piimae / findori|image-file:photo/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
-author:Firesong|image-file:photo/fire-mage-in-helsinki.jpeg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
+author:Wode / Doomsday|image-file:photo/gateway_to_assembly_2049_nosign.jpg|platform:Olympus e-M10 mark II|pms-id:asm18/photo_competition/649|position:1|techniques:Camera|title:Gateway to Assembly 2049
+author:H7 TRSI & Accession|image-file:photo/heartbeat.jpeg|platform:Canon 5d mkIV, Canon 100/2.8L, Foxmagon|pms-id:asm18/photo_competition/605|position:2|techniques:Canon 5d mkIV, Canon 100/2.8L, Foxmagon|title:Heartbeat
+author:biini / damones|image-file:photo/real-time-raytracing-iv.jpeg|platform:Canon 1d mk3|pms-id:asm18/photo_competition/597|position:3|techniques:macro, 3x high speed flash, bucketful of sweat|title:Real-time raytracing IV
+author:piimae / findori|image-file:photo/erasing_memories_nosig.jpg|platform:olympus e-m5|pms-id:asm18/photo_competition/731|position:4|techniques:muutama risu.. eiku salama|title:Erasing memories
+author:tug|image-file:photo/irregular-habitat.jpeg|platform:Potato|pms-id:asm18/photo_competition/636|position:5|techniques:Photo, exposure, contrast, color temp, meh|title:Irregular Habitat
+author:Foxmagon|image-file:photo/Bohemian Rays.jpg|platform:Canon 5dMK3 + Canon 50mm 1.2L|pms-id:asm18/photo_competition/638|position:6|techniques:Reflection on a mirror|title:Bohemian Rays
+author:ted / TRBL|image-file:photo/cxirkauxvojo.jpeg|platform:Amiga :)|pms-id:asm18/photo_competition/686|position:7|techniques:Lightroom|title:cxirkauxvojo
+author:iiKster|image-file:photo/It_Spawns.jpg|platform:Nokia 3|pms-id:asm18/photo_competition/576|position:8|techniques:Photo|title:It spawns
+author:sieniesko/paranoidx|image-file:photo/bubbles_of_polarity.jpg|platform:PC|pms-id:asm18/photo_competition/635|position:9|techniques:making a mess in the kitchen|title:Bubbles of polarity
+author:Exca / Wide Load ^ Konvergence|image-file:photo/1200_RPM.jpg|platform:photo|pms-id:asm18/photo_competition/592|position:10|techniques:360 cam, lightroom|title:1200 RPM
+author:DJ Joge of Brainstorm|image-file:photo/DJ Joge - Ball of Love.jpg|platform:Samsung Galaxy S7 Edge smartphone|pms-id:asm18/photo_competition/589|position:11|techniques:Smartphone and lots of love <3|title:Ball of Love
+author:Firesong|image-file:photo/fire-mage-in-helsinki.jpeg|platform:Photo|pms-id:asm18/photo_competition/738|position:12|techniques:olympus om-d e-m10, LED-poi|title:Fire mage in Helsinki
+author:malomaz|image-file:photo/your-galactic-uber-is-here.jpeg|platform:Nokia 3310 :P|pms-id:asm18/photo_competition/624|position:13|techniques:Nikon D3300, Lightroom|title:Your Galactic Über Is Here
+author:mss_fly|image-file:photo/laundry-room-demo-party.jpeg|platform:Canon 7D|pms-id:asm18/photo_competition/672|position:14|techniques:Flashlight, glow sticks & Lightroom|title:Laundry Room Demo Party
+author:Tethys|image-file:photo/Gems for you.jpg|platform:Canon EOS 5D Mark IV + Sigma 50mm f/1.4 Art DG HSM|pms-id:asm18/photo_competition/599|position:15|techniques:50 mm, f/3.2, 1/800 sec, ISO 5000|title:Gems for you
 
 
 :section Fast graphics
@@ -306,16 +306,16 @@ author:Firesong|image-file:photo/fire-mage-in-helsinki.jpeg|pms-id:asm18/photo_c
 :description <p>Competitors had 1.5 hours to create an image with "There’s no influence" or "X" theme.</p>
 :ongoing true
 
-author:Darkki|image-file:fast-graphics/crossroads.png|pms-id:asm18/fast_graphics/697|title:Crossroads
-author:Neotheta|image-file:fast-graphics/sivuoireet.png|pms-id:asm18/fast_graphics/698|title:Sivuoireet
-author:maxon / HBC|image-file:fast-graphics/x-mas_nosig.jpg|pms-id:asm18/fast_graphics/700|title:X-mas
-author:Valtteri|image-file:fast-graphics/x_lol.jpg|pms-id:asm18/fast_graphics/701|title:X lol
-author:@Nemuli_art|image-file:fast-graphics/ms_x.png|pms-id:asm18/fast_graphics/704|title:Ms X
-author:-|image-file:fast-graphics/adventurers_choice.jpg|pms-id:asm18/fast_graphics/708|title:Adventurers choice
-author:Yermungandor|image-file:fast-graphics/pari_milliä_vasemmalle.jpg|pms-id:asm18/fast_graphics/709|title:Pari milliä vasemmalle
-author:Surround Tekotuotanto|image-file:fast-graphics/there_is_nothing_at_x.jpg|pms-id:asm18/fast_graphics/711|title:There is nothing at X
-author:mmuruisa|image-file:fast-graphics/is_not_happening.jpg|pms-id:asm18/fast_graphics/713|title:Is Not Happening
-author:Felor|image-file:fast-graphics/i_have_your_files.png|pms-id:asm18/fast_graphics/715|title:I have your files
+author:Darkki|image-file:fast-graphics/crossroads.png|platform:PC|pms-id:asm18/fast_graphics/697|position:1|techniques:3dsmax, Photoshop, Beer, Anxiety, ADHD|title:Crossroads
+author:Neotheta|image-file:fast-graphics/sivuoireet.png|platform:Debian&Piirtis|pms-id:asm18/fast_graphics/698|position:2|techniques:Krita|title:Sivuoireet
+author:Surround Tekotuotanto|image-file:fast-graphics/there_is_nothing_at_x.jpg|platform:pc|pms-id:asm18/fast_graphics/711|position:3|techniques:Medium tools and photari|title:There is nothing at X
+author:Yermungandor|image-file:fast-graphics/pari_milliä_vasemmalle.jpg|platform:pc|pms-id:asm18/fast_graphics/709|position:4|techniques:3dsmax, photoshop|title:Pari milliä vasemmalle
+author:maxon / HBC|image-file:fast-graphics/x-mas_nosig.jpg|platform:PC|pms-id:asm18/fast_graphics/700|position:5|techniques:Blender & Krita in Linux (Xubuntu)|title:X-mas
+author:Felor|image-file:fast-graphics/i_have_your_files.png|platform:PC|pms-id:asm18/fast_graphics/715|position:6|techniques:3D|title:I have your files
+author:Valtteri|image-file:fast-graphics/x_lol.jpg|platform:PC|pms-id:asm18/fast_graphics/701|position:7|techniques:Photoshop|title:X lol
+author:@Nemuli_art|image-file:fast-graphics/ms_x.png|platform:PC|pms-id:asm18/fast_graphics/704|position:8|techniques:Photoshop Polygonal lasso|title:Ms X
+author:-|image-file:fast-graphics/adventurers_choice.jpg|platform:-|pms-id:asm18/fast_graphics/708|position:9|techniques:3D,Maya,Substance painter, adobe lightroom|title:Adventurers choice
+author:mmuruisa|image-file:fast-graphics/is_not_happening.jpg|platform:PC|pms-id:asm18/fast_graphics/713|position:10|techniques:Blender & Cycles|title:Is Not Happening
 
 
 :section Tuplain
@@ -323,25 +323,25 @@ author:Felor|image-file:fast-graphics/i_have_your_files.png|pms-id:asm18/fast_gr
 :ongoing true
 :public false
 
-author:Walop|pms-id:asm18/tuplain/586|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM
-author:Tethys|pms-id:asm18/tuplain/594|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM
-author:Exca / Wide Load ^ Konvergence|pms-id:asm18/tuplain/737|title:Finlandsfärja|youtube:WFuctE-BrTM
-author:mayday/hedelmae|pms-id:asm18/tuplain/783|title:PC MASTER RACE!!1!|youtube:WFuctE-BrTM
-author:mayday/hedelmae|pms-id:asm18/tuplain/785|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM
-author:JUSSI/REN|pms-id:asm18/tuplain/789|title:Janos Valmunen - Tähti [Official Music Video]|youtube:WFuctE-BrTM
-author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/791|title:Downwards|youtube:WFuctE-BrTM
-author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|title:Gotta Spin 'em all|youtube:WFuctE-BrTM
-author:sooda|pms-id:asm18/tuplain/796|title:puffball era|youtube:WFuctE-BrTM
-author:Jumalauta Färjan Committee|pms-id:asm18/tuplain/802|title:Assemblyfärjan|youtube:WFuctE-BrTM
-author:InsaneFinn|pms-id:asm18/tuplain/805|title:Vistofanttimarssi|youtube:WFuctE-BrTM
-author:♪Cirnofan♪ (≧◡≦)|pms-id:asm18/tuplain/807|title:Ekspert's Perfect Demo Class|youtube:WFuctE-BrTM
-author:visy|pms-id:asm18/tuplain/808|title:guess what|youtube:WFuctE-BrTM
-author:Adellan|pms-id:asm18/tuplain/809|title:Rölli|youtube:WFuctE-BrTM
-author:poro / Wide Load ^ Konvergence|pms-id:asm18/tuplain/811|title:Sid Elevated|youtube:WFuctE-BrTM
-author:oksaperseessä2^4 of iSO|pms-id:asm18/tuplain/812|title:Rauhan Voima|youtube:WFuctE-BrTM
-author:AND & Frank Klepacki|pms-id:asm18/tuplain/814|title:Zoom3Hellmarch|youtube:WFuctE-BrTM
-author:BJAKKE|pms-id:asm18/tuplain/817|title:EBIN KAKKU|youtube:WFuctE-BrTM
-author:kalle|pms-id:asm18/tuplain/818|title:Gummo S|youtube:WFuctE-BrTM
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|position:1|title:Gotta Spin 'em all|youtube:WFuctE-BrTM
+author:mayday/hedelmae|pms-id:asm18/tuplain/785|position:2|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM
+author:mayday/hedelmae|pms-id:asm18/tuplain/783|position:3|title:PC MASTER RACE!!1!|youtube:WFuctE-BrTM
+author:Adellan|pms-id:asm18/tuplain/809|position:4|title:Rölli|youtube:WFuctE-BrTM
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/791|position:5|title:Downwards|youtube:WFuctE-BrTM
+author:Jumalauta Färjan Committee|pms-id:asm18/tuplain/802|position:6|title:Assemblyfärjan|youtube:WFuctE-BrTM
+author:♪Cirnofan♪ (≧◡≦)|pms-id:asm18/tuplain/807|position:7|title:Ekspert's Perfect Demo Class|youtube:WFuctE-BrTM
+author:Walop|pms-id:asm18/tuplain/586|position:8|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM
+author:Exca / Wide Load ^ Konvergence|pms-id:asm18/tuplain/737|position:9|title:Finlandsfärja|youtube:WFuctE-BrTM
+author:kalle|pms-id:asm18/tuplain/818|position:10|title:Gummo S|youtube:WFuctE-BrTM
+author:sooda|pms-id:asm18/tuplain/796|position:11|title:puffball era|youtube:WFuctE-BrTM
+author:poro / Wide Load ^ Konvergence|pms-id:asm18/tuplain/811|position:12|title:Sid Elevated|youtube:WFuctE-BrTM
+author:Tethys|pms-id:asm18/tuplain/594|position:13|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM
+author:visy|pms-id:asm18/tuplain/808|position:14|title:guess what|youtube:WFuctE-BrTM
+author:InsaneFinn|pms-id:asm18/tuplain/805|position:15|title:Vistofanttimarssi|youtube:WFuctE-BrTM
+author:JUSSI/REN|pms-id:asm18/tuplain/789|position:16|title:Janos Valmunen - Tähti [Official Music Video]|youtube:WFuctE-BrTM
+author:AND & Frank Klepacki|pms-id:asm18/tuplain/814|position:17|title:Zoom3Hellmarch|youtube:WFuctE-BrTM
+author:BJAKKE|pms-id:asm18/tuplain/817|position:18|title:EBIN KAKKU|youtube:WFuctE-BrTM
+author:oksaperseessä2^4 of iSO|pms-id:asm18/tuplain/812|position:19|title:Rauhan Voima|youtube:WFuctE-BrTM
 
 
 :section Seminars
