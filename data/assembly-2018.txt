@@ -1,6 +1,7 @@
 :year 2018
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFM8G67PrC-CPmo4UYlhUnsk
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2018 PC computer.</p>
 
@@ -22,6 +23,7 @@ author:The Crux|platform:PC|pms-id:asm18/demo/834|position:15|techniques:glsl|ti
 
 
 :section 64k intro
+:youtube-playlist PLJO4AtxKJiFPhKU4sloAlylaeAQ4lE82v
 :pms-category 64k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2018 PC computer.</p>
 
@@ -35,6 +37,7 @@ author:McBurrobit|platform:Win32|pms-id:asm18/64k/838|position:7|techniques:Open
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFM5rvA1AI7a4ecum0NMES4S
 :pms-category 4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2018 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
@@ -55,6 +58,7 @@ author:fatsopanda|platform:PC|pms-id:asm18/4k/790|position:13|techniques:glsl, 4
 
 
 :section 1k intro
+:youtube-playlist PLJO4AtxKJiFOyouyUAV0UHqtxCbKM30gc
 :pms-category 1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2018 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
@@ -74,6 +78,7 @@ author:y0bi / wAMMA|platform:JavaScript|pms-id:asm18/1k/569|position:13|techniqu
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFO3OmJQeayKOFuNrmoMRjLL
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
@@ -83,6 +88,7 @@ author:Satori + dA JoRMaS|platform:MS-DOS PC|pms-id:asm18/real_wild/622|position
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFNOD3RxJTbULesCllX4yxSE
 :pms-category oldskool_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
@@ -92,33 +98,35 @@ author:Ivory Labs.|platform:MS-DOS Pentium 133 Mhz, 32MB, Sound Blaster(GUS supp
 
 
 :section One effect
+:youtube-playlist PLJO4AtxKJiFOmE6XF5HymIhm120vYaqcp
 :pms-category one_effect
 :manage-youtube-descriptions false
 
-author:ole|platform:processing on fedora linux|pms-id:asm18/one_effect/871|techniques:none|title:hereis|youtube:fGvfNLKGy-E?t=15m15s
-author:Cenon|platform:Windows|pms-id:asm18/one_effect/860|position:1|techniques:OpenGL, glfw|title:Kettu|youtube:fGvfNLKGy-E?t=7m9s
-author:tArzAn / tAAt|platform:PC / Unity|pms-id:asm18/one_effect/865|position:2|techniques:Visual Studio, texture.SetPixel, no post-proc|title:hellyydenosoitin - endearment pointer|youtube:fGvfNLKGy-E?t=9m34s
-author:FractalPixel, Shiera & Jirah|platform:PC|pms-id:asm18/one_effect/880|position:3|techniques:Processing, Fruity Loops|title:Void Garden|youtube:fGvfNLKGy-E?t=24m42s
-author:jnalanko|platform:Linux|pms-id:asm18/one_effect/854|position:4|techniques:OpenGL: A full screen quad + raymarching.|title:What is this I don't even|youtube:fGvfNLKGy-E?t=5m13s
-author:BJAKKE|platform:PC|pms-id:asm18/one_effect/876|position:5|techniques:Processing, source project file of 128 bytes|title:ByteSpiral128|youtube:fGvfNLKGy-E?t=20m24s
-author:qma|platform:Browser|pms-id:asm18/one_effect/877|position:5|techniques:Javascript, WebGL, SoundBox, Closure Compiler, Pnginator, GNU tools, Emacs, 30 minutes partycoding:)|title:Rezykled|youtube:fGvfNLKGy-E?t=21m7s
-author:JjyKs|platform:PC|pms-id:asm18/one_effect/856|position:7|techniques:Processing, Demo Making Workshop, Lacking skills, Good times|title:Rainy Metaballs|youtube:fGvfNLKGy-E?t=6m28s
-author:Jumalauta|platform:PC|pms-id:asm18/one_effect/866|position:8|title:Färjan diskotek|youtube:fGvfNLKGy-E?t=11m10s
-author:muffintrap|platform:PC|pms-id:asm18/one_effect/870|position:9|techniques:Processing, BeepBox|title:Pink in Spaace|youtube:fGvfNLKGy-E?t=14m19s
-author:demo workshop people!|platform:PC|pms-id:asm18/one_effect/872|position:10|techniques:hopes and dreams|title:kuution_neppaus|youtube:fGvfNLKGy-E?t=16m26s
-author:into|platform:processing|pms-id:asm18/one_effect/873|position:10|techniques:hurry|title:tick tock|youtube:fGvfNLKGy-E?t=17m3s
-author:meincrab|platform:PC|pms-id:asm18/one_effect/869|position:12|techniques:Processing|title:Just a Bug|youtube:fGvfNLKGy-E?t=14m
-author:Adellan|platform:PC|pms-id:asm18/one_effect/864|position:13|techniques:Processing|title:Quarreling cubes|youtube:fGvfNLKGy-E?t=8m29s
-author:essobar/posers|platform:PC|pms-id:asm18/one_effect/875|position:13|techniques:Aku Ankka Coodaus|title:Aku Ankka|youtube:fGvfNLKGy-E?t=19m28s
-author:Typo|platform:PC|pms-id:asm18/one_effect/879|position:15|techniques:Processing 3.4|title:Organic|youtube:fGvfNLKGy-E?t=23m19s
-author:iiKster|pms-id:asm18/one_effect/846|position:16|techniques:JS Canvas|title:Killing time in the scene lounge|youtube:fGvfNLKGy-E?t=3m46s
-author:KoomaDot|platform:Windows|pms-id:asm18/one_effect/868|position:17|techniques:Fusion "skills"|title:Vaerisokeus|youtube:fGvfNLKGy-E?t=12m53s
-author:Noirek|platform:pc|pms-id:asm18/one_effect/874|position:17|techniques:No skill|title:Humppasonni|youtube:fGvfNLKGy-E?t=18m17s
-author:name|platform:pc|pms-id:asm18/one_effect/878|position:19|techniques:opengl|title:*screams in visible agony*|youtube:fGvfNLKGy-E?t=22m22s
-author:vohveli|pms-id:asm18/one_effect/867|position:20|title:happy bars|youtube:fGvfNLKGy-E?t=12m16s
+author:ole|platform:processing on fedora linux|pms-id:asm18/one_effect/871|techniques:none|title:hereis|youtube:fGvfNLKGy-E#t=15m15s
+author:Cenon|platform:Windows|pms-id:asm18/one_effect/860|position:1|techniques:OpenGL, glfw|title:Kettu|youtube:fGvfNLKGy-E#t=7m9s
+author:tArzAn / tAAt|platform:PC / Unity|pms-id:asm18/one_effect/865|position:2|techniques:Visual Studio, texture.SetPixel, no post-proc|title:hellyydenosoitin - endearment pointer|youtube:fGvfNLKGy-E#t=9m34s
+author:FractalPixel, Shiera & Jirah|platform:PC|pms-id:asm18/one_effect/880|position:3|techniques:Processing, Fruity Loops|title:Void Garden|youtube:fGvfNLKGy-E#t=24m42s
+author:jnalanko|platform:Linux|pms-id:asm18/one_effect/854|position:4|techniques:OpenGL: A full screen quad + raymarching.|title:What is this I don't even|youtube:fGvfNLKGy-E#t=5m13s
+author:BJAKKE|platform:PC|pms-id:asm18/one_effect/876|position:5|techniques:Processing, source project file of 128 bytes|title:ByteSpiral128|youtube:fGvfNLKGy-E#t=20m24s
+author:qma|platform:Browser|pms-id:asm18/one_effect/877|position:5|techniques:Javascript, WebGL, SoundBox, Closure Compiler, Pnginator, GNU tools, Emacs, 30 minutes partycoding:)|title:Rezykled|youtube:fGvfNLKGy-E#t=21m7s
+author:JjyKs|platform:PC|pms-id:asm18/one_effect/856|position:7|techniques:Processing, Demo Making Workshop, Lacking skills, Good times|title:Rainy Metaballs|youtube:fGvfNLKGy-E#t=6m28s
+author:Jumalauta|platform:PC|pms-id:asm18/one_effect/866|position:8|title:Färjan diskotek|youtube:fGvfNLKGy-E#t=11m10s
+author:muffintrap|platform:PC|pms-id:asm18/one_effect/870|position:9|techniques:Processing, BeepBox|title:Pink in Spaace|youtube:fGvfNLKGy-E#t=14m19s
+author:demo workshop people!|platform:PC|pms-id:asm18/one_effect/872|position:10|techniques:hopes and dreams|title:kuution_neppaus|youtube:fGvfNLKGy-E#t=16m26s
+author:into|platform:processing|pms-id:asm18/one_effect/873|position:10|techniques:hurry|title:tick tock|youtube:fGvfNLKGy-E#t=17m3s
+author:meincrab|platform:PC|pms-id:asm18/one_effect/869|position:12|techniques:Processing|title:Just a Bug|youtube:fGvfNLKGy-E#t=14m
+author:Adellan|platform:PC|pms-id:asm18/one_effect/864|position:13|techniques:Processing|title:Quarreling cubes|youtube:fGvfNLKGy-E#t=8m29s
+author:essobar/posers|platform:PC|pms-id:asm18/one_effect/875|position:13|techniques:Aku Ankka Coodaus|title:Aku Ankka|youtube:fGvfNLKGy-E#t=19m28s
+author:Typo|platform:PC|pms-id:asm18/one_effect/879|position:15|techniques:Processing 3.4|title:Organic|youtube:fGvfNLKGy-E#t=23m19s
+author:iiKster|pms-id:asm18/one_effect/846|position:16|techniques:JS Canvas|title:Killing time in the scene lounge|youtube:fGvfNLKGy-E#t=3m46s
+author:KoomaDot|platform:Windows|pms-id:asm18/one_effect/868|position:17|techniques:Fusion "skills"|title:Vaerisokeus|youtube:fGvfNLKGy-E#t=12m53s
+author:Noirek|platform:pc|pms-id:asm18/one_effect/874|position:17|techniques:No skill|title:Humppasonni|youtube:fGvfNLKGy-E#t=18m17s
+author:name|platform:pc|pms-id:asm18/one_effect/878|position:19|techniques:opengl|title:*screams in visible agony*|youtube:fGvfNLKGy-E#t=22m22s
+author:vohveli|pms-id:asm18/one_effect/867|position:20|title:happy bars|youtube:fGvfNLKGy-E#t=12m16s
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFOxo5MrOQysxiMZn21mwwmG
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
@@ -135,6 +143,7 @@ author:TULIMERI|platform:PC |pms-id:asm18/short_film/611|position:10|techniques:
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFO1c6afq-wPG8Ue_GwS_D4u
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -153,6 +162,7 @@ author:McBurrobit|platform:Windows|pms-id:asm18/gamedev/554|position:12|title:Su
 
 
 :section Tracked music
+:youtube-playlist PLJO4AtxKJiFM1vywt0kzXEV2scgcKAKqY
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 
@@ -304,25 +314,25 @@ author:mmuruisa|image-file:fast-graphics/is_not_happening.jpg|platform:PC|pms-id
 :pms-category tuplain
 :manage-youtube-descriptions false
 
-author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|position:1|title:Gotta Spin 'em all|youtube:WFuctE-BrTM?t=11m6s
-author:mayday/hedelmae|pms-id:asm18/tuplain/785|position:2|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM?t=25m34s
-author:mayday/hedelmae|pms-id:asm18/tuplain/783|position:3|title:PC MASTER RACE!!1!|youtube:WFuctE-BrTM?t=8m45s
-author:Adellan|pms-id:asm18/tuplain/809|position:4|title:Rölli|youtube:WFuctE-BrTM?t=28m22s
-author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/791|position:5|title:Downwards|youtube:WFuctE-BrTM?t=56s
-author:Jumalauta Färjan Committee|pms-id:asm18/tuplain/802|position:6|title:Assemblyfärjan|youtube:WFuctE-BrTM?t=12m19s
-author:♪Cirnofan♪ (≧◡≦)|pms-id:asm18/tuplain/807|position:7|title:Ekspert's Perfect Demo Class|youtube:WFuctE-BrTM?t=29m29s
-author:Walop|pms-id:asm18/tuplain/586|position:8|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM?t=7m9s
-author:Exca / Wide Load ^ Konvergence|pms-id:asm18/tuplain/737|position:9|title:Finlandsfärja|youtube:WFuctE-BrTM?t=2m28s
-author:kalle|pms-id:asm18/tuplain/818|position:10|title:Gummo S|youtube:WFuctE-BrTM?t=21m34s
-author:sooda|pms-id:asm18/tuplain/796|position:11|title:puffball era|youtube:WFuctE-BrTM?t=32m
-author:poro / Wide Load ^ Konvergence|pms-id:asm18/tuplain/811|position:12|title:Sid Elevated|youtube:WFuctE-BrTM?t=16m52s
-author:Tethys|pms-id:asm18/tuplain/594|position:13|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM?t=24m7s
-author:visy|pms-id:asm18/tuplain/808|position:14|title:guess what|youtube:WFuctE-BrTM?t=3m34s
-author:InsaneFinn|pms-id:asm18/tuplain/805|position:15|title:Vistofanttimarssi|youtube:WFuctE-BrTM?t=15m36s
-author:JUSSI/REN|pms-id:asm18/tuplain/789|position:16|title:Janos Valmunen - Tähti [Official Music Video]|youtube:WFuctE-BrTM?t=9m40s
-author:AND & Frank Klepacki|pms-id:asm18/tuplain/814|position:17|title:Zoom3Hellmarch|youtube:WFuctE-BrTM?t=19m8s
-author:BJAKKE|pms-id:asm18/tuplain/817|position:18|title:EBIN KAKKU|youtube:WFuctE-BrTM?t=5m14s
-author:oksaperseessä2^4 of iSO|pms-id:asm18/tuplain/812|position:19|title:Rauhan Voima|youtube:WFuctE-BrTM?t=14m
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|position:1|title:Gotta Spin 'em all|youtube:WFuctE-BrTM#t=11m6s
+author:mayday/hedelmae|pms-id:asm18/tuplain/785|position:2|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM#t=25m34s
+author:mayday/hedelmae|pms-id:asm18/tuplain/783|position:3|title:PC MASTER RACE!!1!|youtube:WFuctE-BrTM#t=8m45s
+author:Adellan|pms-id:asm18/tuplain/809|position:4|title:Rölli|youtube:WFuctE-BrTM#t=28m22s
+author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/791|position:5|title:Downwards|youtube:WFuctE-BrTM#t=56s
+author:Jumalauta Färjan Committee|pms-id:asm18/tuplain/802|position:6|title:Assemblyfärjan|youtube:WFuctE-BrTM#t=12m19s
+author:♪Cirnofan♪ (≧◡≦)|pms-id:asm18/tuplain/807|position:7|title:Ekspert's Perfect Demo Class|youtube:WFuctE-BrTM#t=29m29s
+author:Walop|pms-id:asm18/tuplain/586|position:8|title:Abyss Chose The Impossible|youtube:WFuctE-BrTM#t=7m9s
+author:Exca / Wide Load ^ Konvergence|pms-id:asm18/tuplain/737|position:9|title:Finlandsfärja|youtube:WFuctE-BrTM#t=2m28s
+author:kalle|pms-id:asm18/tuplain/818|position:10|title:Gummo S|youtube:WFuctE-BrTM#t=21m34s
+author:sooda|pms-id:asm18/tuplain/796|position:11|title:puffball era|youtube:WFuctE-BrTM#t=32m
+author:poro / Wide Load ^ Konvergence|pms-id:asm18/tuplain/811|position:12|title:Sid Elevated|youtube:WFuctE-BrTM#t=16m52s
+author:Tethys|pms-id:asm18/tuplain/594|position:13|title:Kaksin on aina tuplasti kivempaa|youtube:WFuctE-BrTM#t=24m7s
+author:visy|pms-id:asm18/tuplain/808|position:14|title:guess what|youtube:WFuctE-BrTM#t=3m34s
+author:InsaneFinn|pms-id:asm18/tuplain/805|position:15|title:Vistofanttimarssi|youtube:WFuctE-BrTM#t=15m36s
+author:JUSSI/REN|pms-id:asm18/tuplain/789|position:16|title:Janos Valmunen - Tähti [Official Music Video]|youtube:WFuctE-BrTM#t=9m40s
+author:AND & Frank Klepacki|pms-id:asm18/tuplain/814|position:17|title:Zoom3Hellmarch|youtube:WFuctE-BrTM#t=19m8s
+author:BJAKKE|pms-id:asm18/tuplain/817|position:18|title:EBIN KAKKU|youtube:WFuctE-BrTM#t=5m14s
+author:oksaperseessä2^4 of iSO|pms-id:asm18/tuplain/812|position:19|title:Rauhan Voima|youtube:WFuctE-BrTM#t=14m
 
 
 :section Seminars
@@ -429,7 +439,7 @@ author:AssemblyTV|title:CS:GO BYOC Premum Final - GS Portugal vs. Enhanced|youtu
 
 author:AssemblyTV|description:Siikafest tulee taas! Jos sinulla ei ole vielä lippuja Suomen suurimpaan pelitapahtumaan, niin ne löydät täältä: https://tickets.assembly.org/MoyaWeb</p><p>ASSEMBLY arrives again! If you still don't have the tickets for the largest LAN & Gaming happening in Finland, you should grab them from here: https://tickets.assembly.org/</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer 2018 lähestyy!|youtube:D6msT9X5ZFw
 author:AssemblyTV|description:Just over a week and the doors to Assembly Summer 2018 are open! Once more there is tons of things to fill your plate with: Esports, Demoscene, Streamcorner, seminars and lot of other activities! We’ll see you @ Assembly!</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb<br/>Nettisivu: https://www.assembly.org/summer18|title:Assembly Summer program|youtube:P8QjFzTKNvo
-title:Assembly Summer 2018|youtube:VsrlQ5qqo3w|description:Assembly Summer 2018 on taas päivän lähempänä! Lipunmyynti aukeaa 7.4. isoille ryhmille ja 8.4. kaikille. https://tickets.assembly.org/|author:AssemblyTV
+author:AssemblyTV|description:Assembly Summer 2018 on taas päivän lähempänä! Lipunmyynti aukeaa 7.4. isoille ryhmille ja 8.4. kaikille. https://tickets.assembly.org/|title:Assembly Summer 2018|youtube:VsrlQ5qqo3w
 
 
 :section Winter
@@ -438,32 +448,33 @@ title:Assembly Summer 2018|youtube:VsrlQ5qqo3w|description:Assembly Summer 2018 
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2018.</p>
 :manage-youtube-descriptions false
 
-title:Assembly Winter on pian täällä!|youtube:YZ5PoU9dxdE|description:Event website: http://www.assembly.org/|author:AssemblyTV
-title:Keskiviikon rakennustimelapse|youtube:gxcWNlS5nws|author:AssemblyTV
-title:Torstain rakennustimelapse|youtube:PdG489XRD8Y|author:AssemblyTV
-title:ASUS ROG CS:GO - Group A, pro100 vs. Team-LDLC|youtube:p5Mhsz6JLas|author:AssemblyTV
-title:ASUS ROG CS:GO - Group B, North Academy vs. HAVU.PHZ|youtube:sV1p7j6_ee4|author:AssemblyTV
-title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 1|youtube:Uo2tzdfbOQQ|author:AssemblyTV
-title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 2|youtube:LKUPrudprbs|author:AssemblyTV
-title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 3|youtube:h-tkc1ecZ5A|author:AssemblyTV
-title:ASUS ROG CS:GO - Group B, ALTERNATE aTTaX vs. North Academy|youtube:35L4n4guXs4|author:AssemblyTV
-title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC first match|youtube:VcRHo3kuu10|author:AssemblyTV
-title:OMEN by HP: Overwatch - Semifinal Ence eSports vs. Team Nemesis (English)|youtube:gXjHFsrdiIg|author:AssemblyTV
-title:OMEN by HP: Overwatch - Semifinal Ence eSports vs. Team Nemesis (Finnish)|youtube:2zQKqs_UGII|author:AssemblyTV
-title:OMEN by HP: Overwatch - Semifinal FC Lahti Menace vs. Team Gigantti (English)|youtube:lmg1gGZWVyQ|author:AssemblyTV
-title:OMEN by HP: Overwatch - Semifinal FC Lahti Menace vs. Team Gigantti (Finnish)|youtube:FtbfG106lNc|author:AssemblyTV
-title:OMEN by HP: Overwatch - Playoffs Team Gigantti vs. ENCE eSports (English)|youtube:g_fcyrAqUSM|author:AssemblyTV
-title:OMEN by HP: Overwatch - Playoffs Team Gigantti vs. ENCE eSports (Finnish)|youtube:rtvxI8IXgds|author:AssemblyTV
-title:ASUS ROG CS:GO - Playoffs, North Academy vs. Team-LDLC, Round 1|youtube:o_FhzegxZOg|author:AssemblyTV
-title:ASUS ROG CS:GO - Playoffs, North Academy vs. Team-LDLC, Round 2|youtube:-qKXI1D3rGc|author:AssemblyTV
-title:OMEN by HP: Overwatch - Final, Team Gigantti vs. ENCE eSports (English)|youtube:Yd2lV_fORd4|author:AssemblyTV
-title:OMEN by HP: Overwatch - Final, Team Gigantti vs. ENCE eSports (Finnish)|youtube:0B76gnsrLqM|author:AssemblyTV
-title:MSI Rainbow Six: Siege Showmatch|youtube:OmpQZRZHUuc|author:AssemblyTV
-title:Overwatch Casual final|youtube:IA87302HB4s|author:AssemblyTV
-title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 1|youtube:goU8B7yLUTg|author:AssemblyTV
-title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 2|youtube:Rxtz6apaPak|author:AssemblyTV
-title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 3|youtube:aDgTm31aQtI|author:AssemblyTV
-title:Casual Dota2 Final, Womberers vs. Helsinki REDS|youtube:99IMIo2eJfo|author:AssemblyTV
-title:Sunnuntain purkutielapse|youtube:Jl4kC7HGot4|author:AssemblyTV
-title:Overwatch: OMEN by HP Assembly Wintereillä 2018|youtube:xlNQC5pxwQc|author:AssemblyTV
-title:Assembly Winter 2018|youtube:t9EdculdylY|description:Fiiliksiä Assembly Wintereiltä 2018!|author:AssemblyTV
+author:AssemblyTV|description:Event website: http://www.assembly.org/|title:Assembly Winter on pian täällä!|youtube:YZ5PoU9dxdE
+author:AssemblyTV|title:Keskiviikon rakennustimelapse|youtube:gxcWNlS5nws
+author:AssemblyTV|title:Torstain rakennustimelapse|youtube:PdG489XRD8Y
+author:AssemblyTV|title:ASUS ROG CS:GO - Group A, pro100 vs. Team-LDLC|youtube:p5Mhsz6JLas
+author:AssemblyTV|title:ASUS ROG CS:GO - Group B, North Academy vs. HAVU.PHZ|youtube:sV1p7j6_ee4
+author:AssemblyTV|title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 1|youtube:Uo2tzdfbOQQ
+author:AssemblyTV|title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 2|youtube:LKUPrudprbs
+author:AssemblyTV|title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC map 3|youtube:h-tkc1ecZ5A
+author:AssemblyTV|title:ASUS ROG CS:GO - Group B, ALTERNATE aTTaX vs. North Academy|youtube:35L4n4guXs4
+author:AssemblyTV|title:ASUS ROG CS:GO - Group A, SuperJymy vs. Team-LDLC first match|youtube:VcRHo3kuu10
+author:AssemblyTV|title:OMEN by HP: Overwatch - Semifinal Ence eSports vs. Team Nemesis (English)|youtube:gXjHFsrdiIg
+author:AssemblyTV|title:OMEN by HP: Overwatch - Semifinal Ence eSports vs. Team Nemesis (Finnish)|youtube:2zQKqs_UGII
+author:AssemblyTV|title:OMEN by HP: Overwatch - Semifinal FC Lahti Menace vs. Team Gigantti (English)|youtube:lmg1gGZWVyQ
+author:AssemblyTV|title:OMEN by HP: Overwatch - Semifinal FC Lahti Menace vs. Team Gigantti (Finnish)|youtube:FtbfG106lNc
+author:AssemblyTV|title:OMEN by HP: Overwatch - Playoffs Team Gigantti vs. ENCE eSports (English)|youtube:g_fcyrAqUSM
+author:AssemblyTV|title:OMEN by HP: Overwatch - Playoffs Team Gigantti vs. ENCE eSports (Finnish)|youtube:rtvxI8IXgds
+author:AssemblyTV|title:ASUS ROG CS:GO - Playoffs, North Academy vs. Team-LDLC, Round 1|youtube:o_FhzegxZOg
+author:AssemblyTV|title:ASUS ROG CS:GO - Playoffs, North Academy vs. Team-LDLC, Round 2|youtube:-qKXI1D3rGc
+author:AssemblyTV|title:OMEN by HP: Overwatch - Final, Team Gigantti vs. ENCE eSports (English)|youtube:Yd2lV_fORd4
+author:AssemblyTV|title:OMEN by HP: Overwatch - Final, Team Gigantti vs. ENCE eSports (Finnish)|youtube:0B76gnsrLqM
+author:AssemblyTV|title:MSI Rainbow Six: Siege Showmatch|youtube:OmpQZRZHUuc
+author:AssemblyTV|title:Overwatch Casual final|youtube:IA87302HB4s
+author:AssemblyTV|title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 1|youtube:goU8B7yLUTg
+author:AssemblyTV|title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 2|youtube:Rxtz6apaPak
+author:AssemblyTV|title:ASUS ROG CS:GO - Final, HAVU.PHZ vs. Team-LDLC map 3|youtube:aDgTm31aQtI
+author:AssemblyTV|title:Casual Dota2 Final, Womberers vs. Helsinki REDS|youtube:99IMIo2eJfo
+author:AssemblyTV|title:Sunnuntain purkutielapse|youtube:Jl4kC7HGot4
+author:AssemblyTV|title:Overwatch: OMEN by HP Assembly Wintereillä 2018|youtube:xlNQC5pxwQc
+author:AssemblyTV|description:Fiiliksiä Assembly Wintereiltä 2018!|title:Assembly Winter 2018|youtube:t9EdculdylY
+
