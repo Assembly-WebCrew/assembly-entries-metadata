@@ -184,21 +184,21 @@ author:Laurikka|pms-id:asm18/tracked_music/862|title:Nonbassoon|video-file:track
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
-author:(author hidden until results)|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
-author:(author hidden until results)|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4|youtube:gVFEQT8wpBc
-author:(author hidden until results)|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4|youtube:b_Tte0X7vUk
-author:(author hidden until results)|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4|youtube:iYD-aLZeIyM
-author:(author hidden until results)|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4|youtube:A2K19-TbjWU
-author:(author hidden until results)|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4|youtube:nGafXph5W9A
-author:(author hidden until results)|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4|youtube:QMQReo56kvM
-author:(author hidden until results)|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4|youtube:qnw5R04o0cI
-author:(author hidden until results)|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4|youtube:OoFA7o8xzko
-author:(author hidden until results)|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4|youtube:Gq56IhpaDZ4
-author:(author hidden until results)|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4|youtube:EuEz_ljUFRE
-author:(author hidden until results)|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4|youtube:vzw-LJOLtT0
-author:(author hidden until results)|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4|youtube:O048sF_q93I
-author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4|youtube:e6RfLhUt1m0
+author:Buzzer/Brainstorm|pms-id:asm18/listening_music/573|title:Distant Thunder|video-file:listening-music/02_distant_thunder.flac.mp4|youtube:46H5oKyulj4
+author:Ephmerix|pms-id:asm18/listening_music/578|title:The Derelict|video-file:listening-music/05_the_derelict.flac.mp4|youtube:y-1_UaKSkyM
+author:ukimies|pms-id:asm18/listening_music/584|title:kalja|video-file:listening-music/01_kalja.flac.mp4|youtube:gVFEQT8wpBc
+author:Mergente|pms-id:asm18/listening_music/601|title:ITEKI|video-file:listening-music/12iteki.flac.mp4|youtube:b_Tte0X7vUk
+author:Byproduct / SceneSat|pms-id:asm18/listening_music/625|title:Blood Moon 16kb|video-file:listening-music/06_blood_moon_16kb.flac.mp4|youtube:iYD-aLZeIyM
+author:rawArgon|pms-id:asm18/listening_music/631|title:Your Sunscreen Is Freezing|video-file:listening-music/10_your_sunscreen_is_freezing.flac.mp4|youtube:A2K19-TbjWU
+author:Downgone / 242|pms-id:asm18/listening_music/632|title:Blues at Alturis IV|video-file:listening-music/11blues_at_alturis_iv.flac.mp4|youtube:nGafXph5W9A
+author:Chipremacy|pms-id:asm18/listening_music/634|title:Inhumanae Chipremacy|video-file:listening-music/13_inhumanae_chipremacy.flac.mp4|youtube:QMQReo56kvM
+author:Aikapallo|pms-id:asm18/listening_music/661|title:Rise From the Ashes|video-file:listening-music/08_rise_from_the_ashes.flac.mp4|youtube:qnw5R04o0cI
+author:Zardax / Artline Designs|pms-id:asm18/listening_music/665|title:Isidatta|video-file:listening-music/04_isidatta.flac.mp4|youtube:OoFA7o8xzko
+author:Yzi|pms-id:asm18/listening_music/666|title:Attack of the Mutant Projektbeschreibung|video-file:listening-music/09_attack_of_the_mutant_projektbeschreibung.flac.mp4|youtube:Gq56IhpaDZ4
+author:ihanalammas|pms-id:asm18/listening_music/690|title:summer in hikikomero|video-file:listening-music/07_summer_in_hikikomero.flac.mp4|youtube:EuEz_ljUFRE
+author:merlucin|pms-id:asm18/listening_music/694|title:Synth Vice City|video-file:listening-music/03synth_vice_city.flac.mp4|youtube:vzw-LJOLtT0
+author:GRiMM|pms-id:asm18/listening_music/728|title:Boot Up Your Retro Warrior Within|video-file:listening-music/15_boot_up_your_retro_warrior_within.flac.mp4|youtube:O048sF_q93I
+author:Jeff|pms-id:asm18/listening_music/736|title:Il Portabagagli|video-file:listening-music/14_il_portabagagli.flac.mp4|youtube:e6RfLhUt1m0
 
 
 :section Dance music
@@ -206,18 +206,18 @@ author:(author hidden until results)|pms-id:asm18/listening_music/736|title:Il P
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
-author:(author hidden until results)|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
-author:(author hidden until results)|pms-id:asm18/dance_music/587|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4|youtube:Z5OtpDC0-MU
-author:(author hidden until results)|pms-id:asm18/dance_music/602|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4|youtube:YrQ-MWrGEz8
-author:(author hidden until results)|pms-id:asm18/dance_music/613|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4|youtube:-UqXcFZoPd4
-author:(author hidden until results)|pms-id:asm18/dance_music/618|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4|youtube:EnbFjpTKg54
-author:(author hidden until results)|pms-id:asm18/dance_music/627|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4|youtube:uZAwZRJPPYk
-author:(author hidden until results)|pms-id:asm18/dance_music/628|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4|youtube:Hm2Q3EjLves
-author:(author hidden until results)|pms-id:asm18/dance_music/652|title:Eolian|video-file:dance-music/06_eolian.flac.mp4|youtube:vC34dzT6myA
-author:(author hidden until results)|pms-id:asm18/dance_music/653|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4|youtube:6pXAXN5Se8c
-author:(author hidden until results)|pms-id:asm18/dance_music/654|title:Throwback|video-file:dance-music/04_throwback.flac.mp4|youtube:67-gLuKZ82Q
-author:(author hidden until results)|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4|youtube:faqRk7m7CbE
+author:ohgreat|pms-id:asm18/dance_music/562|title:Love Machine|video-file:dance-music/05_love_machine.flac.mp4|youtube:wHolZe40IiI
+author:Buzzer/Brainstorm|pms-id:asm18/dance_music/574|title:TanssiMoppi|video-file:dance-music/02_tanssimoppi.flac.mp4|youtube:L5MjZ8af58g
+author:DJ Joge of Brainstorm|pms-id:asm18/dance_music/587|title:Summer Scorchin' (Supreme Heatwave Mix)|video-file:dance-music/09_summer_scorchin__(supreme_heatwave_mix).flac.mp4|youtube:Z5OtpDC0-MU
+author:Johanna & The Poppivehkeet|pms-id:asm18/dance_music/602|title:Sleepless|video-file:dance-music/10_sleepless.flac.mp4|youtube:YrQ-MWrGEz8
+author:The Man With Several Nicknames|pms-id:asm18/dance_music/613|title:Let My NES NES Your NES So Your NES Can NES While You NES|video-file:dance-music/12_let_my_nes_nes_your_nes_so_your_nes_can_nes_while_you_nes.flac.mp4|youtube:-UqXcFZoPd4
+author:Signal|pms-id:asm18/dance_music/618|title:Dancing Halogens|video-file:dance-music/01_dancing_halogens.flac.mp4|youtube:EnbFjpTKg54
+author:M.W.N.N.|pms-id:asm18/dance_music/627|title:Let My NES Move You 4 - The Last Chapter, Cheers!|video-file:dance-music/11_let_my_nes_move_you_4_-_the_last_chapter__cheers_.flac.mp4|youtube:uZAwZRJPPYk
+author:rawArgon|pms-id:asm18/dance_music/628|title:Narwhal Robot Cavalry Adventure|video-file:dance-music/07_narwhal_robot_cavalry_adventure.flac.mp4|youtube:Hm2Q3EjLves
+author:HBR|pms-id:asm18/dance_music/652|title:Eolian|video-file:dance-music/06_eolian.flac.mp4|youtube:vC34dzT6myA
+author:Yksikkö 303|pms-id:asm18/dance_music/653|title:Saat mun tuulettimet huutamaan|video-file:dance-music/08_saat_mun_tuulettimet_huutamaan.flac.mp4|youtube:6pXAXN5Se8c
+author:Mafia Pineapple|pms-id:asm18/dance_music/654|title:Throwback|video-file:dance-music/04_throwback.flac.mp4|youtube:67-gLuKZ82Q
+author:ihanalammas|pms-id:asm18/dance_music/671|title:Happy Hour|video-file:dance-music/03_happy_hour.flac.mp4|youtube:faqRk7m7CbE
 
 
 :section Fast music
@@ -225,27 +225,27 @@ author:(author hidden until results)|pms-id:asm18/dance_music/671|title:Happy Ho
 :description <p>Competitors had 1.5 hours to create a song that had a theme "Miami Beach".</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
-author:(author hidden until results)|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
-author:(author hidden until results)|pms-id:asm18/fast_music/753|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4|youtube:BVRjS65Ikto
-author:(author hidden until results)|pms-id:asm18/fast_music/754|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4|youtube:z_dcEC6ySWQ
-author:(author hidden until results)|pms-id:asm18/fast_music/755|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4|youtube:Y8UOXFQrZ2c
-author:(author hidden until results)|pms-id:asm18/fast_music/757|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4|youtube:Z7NOqxLlzxs
-author:(author hidden until results)|pms-id:asm18/fast_music/759|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4|youtube:2KG624qt8fM
-author:(author hidden until results)|pms-id:asm18/fast_music/760|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4|youtube:1md8BX9P-L4
-author:(author hidden until results)|pms-id:asm18/fast_music/761|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4|youtube:Z_NXPE2PqlY
-author:(author hidden until results)|pms-id:asm18/fast_music/762|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4|youtube:KvqrLM-wntg
-author:(author hidden until results)|pms-id:asm18/fast_music/763|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4|youtube:lGX30v04uU8
-author:(author hidden until results)|pms-id:asm18/fast_music/764|title:Beach Party|video-file:fast-music/beach_party.flac.mp4|youtube:3hV4XYndidM
-author:(author hidden until results)|pms-id:asm18/fast_music/765|title:Zebra|video-file:fast-music/zebra.flac.mp4|youtube:pAhADob9h0E
-author:(author hidden until results)|pms-id:asm18/fast_music/766|title:Kallio|video-file:fast-music/kallio.flac.mp4|youtube:Wn1-8QAdNTM
-author:(author hidden until results)|pms-id:asm18/fast_music/767|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4|youtube:w7lSybcPk5c
-author:(author hidden until results)|pms-id:asm18/fast_music/768|title:Beach Club|video-file:fast-music/beach_club.flac.mp4|youtube:jTRm5mojfi8
-author:(author hidden until results)|pms-id:asm18/fast_music/769|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4|youtube:1DWE__QDAc0
-author:(author hidden until results)|pms-id:asm18/fast_music/771|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4|youtube:fhxhZdPfJMc
-author:(author hidden until results)|pms-id:asm18/fast_music/772|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4|youtube:i8AfGXm2WS0
-author:(author hidden until results)|pms-id:asm18/fast_music/773|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4|youtube:5jT3riCoPeY
-author:(author hidden until results)|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4|youtube:cBr0c7GR01w
+author:Sandelinos|pms-id:asm18/fast_music/734|title:Sandelinos|video-file:fast-music/sandelinos.flac.mp4|youtube:_CVYiCMKNtM
+author:Carrox|pms-id:asm18/fast_music/750|title:Alley|video-file:fast-music/alley.flac.mp4|youtube:P_Q8fpc1bRA
+author:tArzAn|pms-id:asm18/fast_music/753|title:mielenkiintoinen anatomia - interesting anatomy|video-file:fast-music/mielenkiintoinen_anatomia.flac.mp4|youtube:BVRjS65Ikto
+author:Dj Rakofobia|pms-id:asm18/fast_music/754|title:Miamian House|video-file:fast-music/miamian_house.flac.mp4|youtube:z_dcEC6ySWQ
+author:rawArgon|pms-id:asm18/fast_music/755|title:Protein-infused Pineapple-Coconut Goddess|video-file:fast-music/protein-infused_pineapple-coconut_goddess.flac.mp4|youtube:Y8UOXFQrZ2c
+author:Yzi|pms-id:asm18/fast_music/757|title:90 Minutes on Miami Beach|video-file:fast-music/90_minutes_on_miami_beach.flac.mp4|youtube:Z7NOqxLlzxs
+author:exla|pms-id:asm18/fast_music/759|title:rantahillo|video-file:fast-music/rantahillo.flac.mp4|youtube:2KG624qt8fM
+author:Ephmerix|pms-id:asm18/fast_music/760|title:Hietsu-84|video-file:fast-music/hietsu-84.flac.mp4|youtube:1md8BX9P-L4
+author:Old Moubit|pms-id:asm18/fast_music/761|title:Vice old man|video-file:fast-music/vice_old_man.flac.mp4|youtube:Z_NXPE2PqlY
+author:BQJ|pms-id:asm18/fast_music/762|title:Murder mystery of the Miami beach|video-file:fast-music/murder_mystery_of_the_miami_beach.flac.mp4|youtube:KvqrLM-wntg
+author:shinmai/McBurrobit|pms-id:asm18/fast_music/763|title:soundtrack to a beach party where nobody is having a good time|video-file:fast-music/soundtrack_to_a_beach_party_where_nobody_is_having_a_good_time.flac.mp4|youtube:lGX30v04uU8
+author:Jarsk1e|pms-id:asm18/fast_music/764|title:Beach Party|video-file:fast-music/beach_party.flac.mp4|youtube:3hV4XYndidM
+author:TURS0|pms-id:asm18/fast_music/765|title:Zebra|video-file:fast-music/zebra.flac.mp4|youtube:pAhADob9h0E
+author:Aikapallo & Rayjan|pms-id:asm18/fast_music/766|title:Kallio|video-file:fast-music/kallio.flac.mp4|youtube:Wn1-8QAdNTM
+author:Mergente|pms-id:asm18/fast_music/767|title:Miamin Ranta|video-file:fast-music/miamin_ranta.flac.mp4|youtube:w7lSybcPk5c
+author:Jon Tardis|pms-id:asm18/fast_music/768|title:Beach Club|video-file:fast-music/beach_club.flac.mp4|youtube:jTRm5mojfi8
+author:Chipremacy|pms-id:asm18/fast_music/769|title:My Boat Is Faster Than Yours|video-file:fast-music/my_boat_is_faster_than_yours.flac.mp4|youtube:1DWE__QDAc0
+author:Munakas|pms-id:asm18/fast_music/771|title:sand_thrower.mid|video-file:fast-music/sand_thrower.flac.mp4|youtube:fhxhZdPfJMc
+author:ihanalammas|pms-id:asm18/fast_music/772|title:MIAMI NICE|video-file:fast-music/miami_nice.flac.mp4|youtube:i8AfGXm2WS0
+author:Yermungandor|pms-id:asm18/fast_music/773|title:Wax on fastlane|video-file:fast-music/wax_on_fastlane.flac.mp4|youtube:5jT3riCoPeY
+author:Oge ja Tsaari|pms-id:asm18/fast_music/774|title:Juri Jänis|video-file:fast-music/juri_janis.flac.mp4|youtube:cBr0c7GR01w
 
 
 :section Pixel graphics
@@ -264,19 +264,19 @@ author:jemu|image-file:pixel-graphics/01 spicy.png|pms-id:asm18/pixel_graphics/8
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:graphics/04-night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
-author:(author hidden until results)|image-file:graphics/06-slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
-author:(author hidden until results)|image-file:graphics/08-wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
-author:(author hidden until results)|image-file:graphics/10-PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
-author:(author hidden until results)|image-file:graphics/13-SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
-author:(author hidden until results)|image-file:graphics/01-A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
-author:(author hidden until results)|image-file:graphics/11-First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
-author:(author hidden until results)|image-file:graphics/07-Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
-author:(author hidden until results)|image-file:graphics/05-cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
-author:(author hidden until results)|image-file:graphics/02-seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
-author:(author hidden until results)|image-file:graphics/12-trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
-author:(author hidden until results)|image-file:graphics/03-going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
-author:(author hidden until results)|image-file:graphics/09-Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
+author:-|image-file:graphics/04-night_time_library.png|pms-id:asm18/graphics_competition/557|title:Night time library
+author:maxon / HBC|image-file:graphics/06-slice_dice.png|pms-id:asm18/graphics_competition/559|title:Slice Dice
+author:NinjaBaka|image-file:graphics/08-wabi-sabi.png|pms-id:asm18/graphics_competition/570|title:Wabi-sabi
+author:Ukkis|image-file:graphics/10-PartyAnimal.png|pms-id:asm18/graphics_competition/591|title:Party Animal
+author:Darkki|image-file:graphics/13-SunBreeze_Horizon.png|pms-id:asm18/graphics_competition/607|title:SunBreeze Horizon
+author:Yermungandor|image-file:graphics/01-A_new_start.jpg|pms-id:asm18/graphics_competition/621|title:A new start
+author:Valtteri|image-file:graphics/11-First_encounter.jpg|pms-id:asm18/graphics_competition/640|title:First encounter
+author:Surround Tekotuotanto|image-file:graphics/07-Crabzilla.png|pms-id:asm18/graphics_competition/650|title:Crabzilla
+author:sssampo / pistoke|image-file:graphics/05-cable_factor.png|pms-id:asm18/graphics_competition/656|title:Cable Factor
+author:Panicpony|image-file:graphics/02-seahorse.jpg|pms-id:asm18/graphics_competition/660|title:Water danger noodle
+author:Partikle|image-file:graphics/12-trolling.jpg|pms-id:asm18/graphics_competition/696|title:Trolling
+author:ME|image-file:graphics/03-going_home.png|pms-id:asm18/graphics_competition/721|title:Going home
+author:Plasticbunny|image-file:graphics/09-Megaspore_Mother_Cell.png|pms-id:asm18/graphics_competition/739|title:Megaspore Mother Cell
 
 
 :section Photo
@@ -284,21 +284,21 @@ author:(author hidden until results)|image-file:graphics/09-Megaspore_Mother_Cel
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
 
-author:(author hidden until results)|image-file:photo/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
-author:(author hidden until results)|image-file:photo/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
-author:(author hidden until results)|image-file:photo/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
-author:(author hidden until results)|image-file:photo/real-time-raytracing-iv.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
-author:(author hidden until results)|image-file:photo/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
-author:(author hidden until results)|image-file:photo/heartbeat.jpeg|pms-id:asm18/photo_competition/605|title:Heartbeat
-author:(author hidden until results)|image-file:photo/your-galactic-uber-is-here.jpeg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
-author:(author hidden until results)|image-file:photo/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
-author:(author hidden until results)|image-file:photo/irregular-habitat.jpeg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
-author:(author hidden until results)|image-file:photo/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
-author:(author hidden until results)|image-file:photo/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
-author:(author hidden until results)|image-file:photo/laundry-room-demo-party.jpeg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
-author:(author hidden until results)|image-file:photo/cxirkauxvojo.jpeg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
-author:(author hidden until results)|image-file:photo/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
-author:(author hidden until results)|image-file:photo/fire-mage-in-helsinki.jpeg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
+author:iiKster|image-file:photo/It_Spawns.jpg|pms-id:asm18/photo_competition/576|title:It spawns
+author:DJ Joge of Brainstorm|image-file:photo/DJ Joge - Ball of Love.jpg|pms-id:asm18/photo_competition/589|title:Ball of Love
+author:Exca / Wide Load ^ Konvergence|image-file:photo/1200_RPM.jpg|pms-id:asm18/photo_competition/592|title:1200 RPM
+author:biini / damones|image-file:photo/real-time-raytracing-iv.jpeg|pms-id:asm18/photo_competition/597|title:Real-time raytracing IV
+author:Tethys|image-file:photo/Gems for you.jpg|pms-id:asm18/photo_competition/599|title:Gems for you
+author:H7 TRSI & Accession|image-file:photo/heartbeat.jpeg|pms-id:asm18/photo_competition/605|title:Heartbeat
+author:malomaz|image-file:photo/your-galactic-uber-is-here.jpeg|pms-id:asm18/photo_competition/624|title:Your Galactic Über Is Here
+author:sieniesko/paranoidx|image-file:photo/bubbles_of_polarity.jpg|pms-id:asm18/photo_competition/635|title:Bubbles of polarity
+author:tug|image-file:photo/irregular-habitat.jpeg|pms-id:asm18/photo_competition/636|title:Irregular Habitat
+author:Foxmagon|image-file:photo/Bohemian Rays.jpg|pms-id:asm18/photo_competition/638|title:Bohemian Rays
+author:Wode / Doomsday|image-file:photo/gateway_to_assembly_2049_nosign.jpg|pms-id:asm18/photo_competition/649|title:Gateway to Assembly 2049
+author:mss_fly|image-file:photo/laundry-room-demo-party.jpeg|pms-id:asm18/photo_competition/672|title:Laundry Room Demo Party
+author:ted / TRBL|image-file:photo/cxirkauxvojo.jpeg|pms-id:asm18/photo_competition/686|title:cxirkauxvojo
+author:piimae / findori|image-file:photo/erasing_memories_nosig.jpg|pms-id:asm18/photo_competition/731|title:Erasing memories
+author:Firesong|image-file:photo/fire-mage-in-helsinki.jpeg|pms-id:asm18/photo_competition/738|title:Fire mage in Helsinki
 
 
 :section Fast graphics
@@ -306,16 +306,16 @@ author:(author hidden until results)|image-file:photo/fire-mage-in-helsinki.jpeg
 :description <p>Competitors had 1.5 hours to create an image with "There’s no influence" or "X" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:fast-graphics/crossroads.png|pms-id:asm18/fast_graphics/697|title:Crossroads
-author:(author hidden until results)|image-file:fast-graphics/sivuoireet.png|pms-id:asm18/fast_graphics/698|title:Sivuoireet
-author:(author hidden until results)|image-file:fast-graphics/x-mas_nosig.jpg|pms-id:asm18/fast_graphics/700|title:X-mas
-author:(author hidden until results)|image-file:fast-graphics/x_lol.jpg|pms-id:asm18/fast_graphics/701|title:X lol
-author:(author hidden until results)|image-file:fast-graphics/ms_x.png|pms-id:asm18/fast_graphics/704|title:Ms X
-author:(author hidden until results)|image-file:fast-graphics/adventurers_choice.jpg|pms-id:asm18/fast_graphics/708|title:Adventurers choice
-author:(author hidden until results)|image-file:fast-graphics/pari_milliä_vasemmalle.jpg|pms-id:asm18/fast_graphics/709|title:Pari milliä vasemmalle
-author:(author hidden until results)|image-file:fast-graphics/there_is_nothing_at_x.jpg|pms-id:asm18/fast_graphics/711|title:There is nothing at X
-author:(author hidden until results)|image-file:fast-graphics/is_not_happening.jpg|pms-id:asm18/fast_graphics/713|title:Is Not Happening
-author:(author hidden until results)|image-file:fast-graphics/i_have_your_files.png|pms-id:asm18/fast_graphics/715|title:I have your files
+author:Darkki|image-file:fast-graphics/crossroads.png|pms-id:asm18/fast_graphics/697|title:Crossroads
+author:Neotheta|image-file:fast-graphics/sivuoireet.png|pms-id:asm18/fast_graphics/698|title:Sivuoireet
+author:maxon / HBC|image-file:fast-graphics/x-mas_nosig.jpg|pms-id:asm18/fast_graphics/700|title:X-mas
+author:Valtteri|image-file:fast-graphics/x_lol.jpg|pms-id:asm18/fast_graphics/701|title:X lol
+author:@Nemuli_art|image-file:fast-graphics/ms_x.png|pms-id:asm18/fast_graphics/704|title:Ms X
+author:-|image-file:fast-graphics/adventurers_choice.jpg|pms-id:asm18/fast_graphics/708|title:Adventurers choice
+author:Yermungandor|image-file:fast-graphics/pari_milliä_vasemmalle.jpg|pms-id:asm18/fast_graphics/709|title:Pari milliä vasemmalle
+author:Surround Tekotuotanto|image-file:fast-graphics/there_is_nothing_at_x.jpg|pms-id:asm18/fast_graphics/711|title:There is nothing at X
+author:mmuruisa|image-file:fast-graphics/is_not_happening.jpg|pms-id:asm18/fast_graphics/713|title:Is Not Happening
+author:Felor|image-file:fast-graphics/i_have_your_files.png|pms-id:asm18/fast_graphics/715|title:I have your files
 
 
 :section Tuplain
