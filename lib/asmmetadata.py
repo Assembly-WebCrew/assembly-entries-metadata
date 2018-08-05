@@ -343,9 +343,10 @@ def parse_file(file_handle):
         data_dict = parse_entry_line(line)
 
         assert 'section' not in data_dict
-        if get_entry_key(data_dict) in known_keys:
+        sectioned_key = "%s/%s" % (section["key"], get_entry_key(data_dict))
+        if sectioned_key in known_keys:
             raise ValueError("Entry %s has a duplicate key" % data_dict)
-        known_keys.add(get_entry_key(data_dict))
+        known_keys.add(sectioned_key)
 
         result.addEntry(section, data_dict)
 

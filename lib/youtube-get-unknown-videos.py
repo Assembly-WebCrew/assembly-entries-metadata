@@ -9,6 +9,7 @@ import pytz
 
 # Include events from the previous 4 months. Should not include the previous
 # event.
+MIN_AGE = datetime.timedelta(days=-1)
 MAX_AGE = datetime.timedelta(days=120)
 
 if __name__ == "__main__":
@@ -53,6 +54,8 @@ if __name__ == "__main__":
                     continue
                 published_at = dateutil.parser.parse(
                     playlist_item["snippet"]["publishedAt"])
+                if now - published_at < MIN_AGE:
+                    continue
                 if now - published_at > MAX_AGE:
                     finished = True
                     break
