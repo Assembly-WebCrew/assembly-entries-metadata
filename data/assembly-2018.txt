@@ -93,7 +93,7 @@ author:Ivory Labs.|platform:MS-DOS Pentium 133 Mhz, 32MB, Sound Blaster(GUS supp
 
 :section One effect
 :pms-category one_effect
-:public false
+:manage-youtube-descriptions false
 
 author:ole|platform:processing on fedora linux|pms-id:asm18/one_effect/871|techniques:none|title:hereis|youtube:fGvfNLKGy-E?t=15m15s
 author:Cenon|platform:Windows|pms-id:asm18/one_effect/860|position:1|techniques:OpenGL, glfw|title:Kettu|youtube:fGvfNLKGy-E?t=7m9s
@@ -302,6 +302,7 @@ author:mmuruisa|image-file:fast-graphics/is_not_happening.jpg|platform:PC|pms-id
 
 :section Tuplain
 :pms-category tuplain
+:manage-youtube-descriptions false
 
 author:Hervannan Demoscene-Akatemia|pms-id:asm18/tuplain/792|position:1|title:Gotta Spin 'em all|youtube:WFuctE-BrTM?t=11m6s
 author:mayday/hedelmae|pms-id:asm18/tuplain/785|position:2|title:Blade Runner vs. Conspiracy|youtube:WFuctE-BrTM?t=25m34s
