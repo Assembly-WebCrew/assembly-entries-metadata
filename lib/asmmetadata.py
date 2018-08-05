@@ -636,3 +636,33 @@ def get_clean_youtube_id(entry):
     cleaned = youtube_id.split("?", 1)[0]
     cleaned = cleaned.split("#", 1)[0]
     return cleaned
+
+
+def get_timed_youtube_id(entry):
+    """Get youtube timestamps in seconds"""
+    youtube_id = entry.get("youtube", None)
+    if not youtube_id:
+        return None
+    if "=" not in youtube_id:
+        return youtube_id
+    clean_id = get_clean_youtube_id(entry)
+    _, timestamp = youtube_id.split("=", 1)
+    try:
+        seconds = int(timestamp)
+        return "%s#t=%d" % (clean_id, seconds)
+    except ValueError:
+        pass
+
+    total_seconds = 0
+    houred = timestamp.split("h", 1)
+    if len(houred) == 2:
+        total_seconds += int(houred[0]) * 3600
+        timestamp = houred[1]
+    minuted = timestamp.split("m", 1)
+    if len(minuted) == 2:
+        total_seconds += int(minuted[0]) * 60
+        timestamp = minuted[1]
+    seconded = timestamp.split("s", 1)
+    if len(seconded) == 2:
+        total_seconds += int(seconded[0])
+    return "%s#t=%d" % (clean_id, total_seconds)

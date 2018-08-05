@@ -196,10 +196,10 @@ def print_entry(year, entry, description_generator):
         description += u"Author: %s\n" % cgi.escape(display_author)
 
     # Youtube is our primary location
-    youtube = entry.get('youtube')
-    if youtube:
+    if "youtube" in entry:
+        youtube_id_time = asmmetadata.get_timed_youtube_id(entry)
         has_media = True
-        locations += "<location type='youtube'>%s</location>" % youtube
+        locations += "<location type='youtube'>%s</location>" % youtube_id_time
 
     # Youtube is primary location
     demoscenetv = entry.get('dtv')
