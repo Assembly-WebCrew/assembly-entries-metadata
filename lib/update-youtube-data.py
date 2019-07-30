@@ -77,7 +77,7 @@ def main(argv):
     try:
         update_youtube_info(yt_service, entry_data)
     except KeyboardInterrupt:
-        print "Interrupted"
+        print("Interrupted")
         return os.EX_DATAERR
 
     return os.EX_OK

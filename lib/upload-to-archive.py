@@ -14,4 +14,4 @@ result = requests.post(
     files={"form.data": args.import_file},
     auth=(args.upload_account, args.upload_password))
 
-print result.status_code
+print(result.status_code)

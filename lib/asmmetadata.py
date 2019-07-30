@@ -225,7 +225,7 @@ def parse_entry_line(line):
             (str(x.split(":", 1)[0]),
              unescape_value(x.split(":", 1)[1])) for x in line.split("|"))
     except:
-        print line
+        print(line)
         raise
 
     position = int(data_dict.get('position', u'0'))
@@ -250,7 +250,7 @@ def parse_file(file_handle):
 
     known_keys = set()
     for line in file_handle:
-        line = unicode(line.strip(), "utf-8")
+        line = line.strip()
         if line == "":
             continue
         if line[0] == "#":
@@ -334,7 +334,7 @@ def parse_file(file_handle):
                 else:
                     section['manage-youtube-descriptions'] = True
             else:
-                raise RuntimeError, "Unknown type %s." % data_type
+                raise RuntimeError("Unknown type %s." % data_type)
             continue
 
         assert year is not None
@@ -439,7 +439,7 @@ def print_metadata(outfile, year_entry_data):
 def sort_entries(entries):
     return sorted(
         entries,
-        lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+        key=lambda x: x.get('position', 999))
 
 
 def select_thumbnail_base(entry):

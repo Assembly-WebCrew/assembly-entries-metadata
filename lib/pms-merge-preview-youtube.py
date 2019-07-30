@@ -34,18 +34,18 @@ for pms_entry in pms_entries_data:
             break
 
     if updatable_entry is None:
-        print "FAILED to find corresponding entry for %s" % (str(metadata_entry))
+        print("FAILED to find corresponding entry for %s" % (str(metadata_entry)))
         continue
 
     if not pms_entry.get('preview'):
-        print "No preview link for %s" % (str(metadata_entry))
+        print("No preview link for %s" % (str(metadata_entry)))
         continue
 
     preview_link = pms_entry.get('preview')
     youtube_regex = re.compile("https://www.youtube.com/watch\?v=([^&]+)")
     youtube_match = youtube_regex.match(preview_link)
     if not youtube_match:
-        print "Not a Youtube preview for %s" % (str(metadata_entry))
+        print("Not a Youtube preview for %s" % (str(metadata_entry)))
         continue
 
     youtube_id = youtube_match.group(1)

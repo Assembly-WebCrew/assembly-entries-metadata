@@ -3,10 +3,10 @@
 import argparse
 import asmmetadata
 import base64
-import cgi
 import collections
 import datetime
 import hashlib
+import html
 import io
 import json
 import os.path
@@ -15,6 +15,7 @@ import pytz
 import sys
 import tarfile
 import time
+import urllib
 
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -71,7 +72,7 @@ def add_to_tar(tar, filename, data):
 
 def json_dumps(data):
     return json.dumps(
-        data, sort_keys=True, indent=2, separators=(',', ': '))
+        data, sort_keys=True, indent=2, separators=(',', ': ')).encode("utf-8")
 
 
 def display_asset(path, title, data):
@@ -92,8 +93,8 @@ def display_asset(path, title, data):
 
 
 def select_smaller_thumbnail(fileprefix):
-    thumbnail_jpeg = open(fileprefix + ".jpeg", "r").read()
-    thumbnail_png = open(fileprefix + ".png", "r").read()
+    thumbnail_jpeg = open(fileprefix + ".jpeg", "rb").read()
+    thumbnail_png = open(fileprefix + ".png", "rb").read()
 
     if len(thumbnail_jpeg) < len(thumbnail_png):
         return thumbnail_jpeg, 'jpeg'
@@ -128,10 +129,10 @@ def meta_year(sections):
     }
 
 
-def meta_section(section, description=''):
+def meta_section(section, included_entries, description=''):
     normalized_section = section['key']
-    sorted_entries = asmmetadata.sort_entries(section['entries'])
-    entry_keys = [asmmetadata.get_entry_key(entry) for entry in sorted_entries]
+    entry_keys = [
+        asmmetadata.get_entry_key(entry) for entry in included_entries]
 
     return "%s/meta.json" % (normalized_section), {
         "name": section["name"],
@@ -179,7 +180,7 @@ def entry_position_description_factory(pms_vote_template):
 def calculate_checksum(data):
     m = hashlib.sha256()
     m.update(data)
-    return base64.urlsafe_b64encode(m.digest())[:6]
+    return base64.urlsafe_b64encode(m.digest())[:6].decode("utf-8")
 
 
 def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
@@ -201,7 +202,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 
     description = u""
     if 'warning' in entry:
-        description += u"%s</p>\n<p>" % cgi.escape(entry['warning'])
+        description += u"%s</p>\n<p>" % html.escape(entry['warning'])
 
     position_str = None
     if entry["section"].get("ranked", True):
@@ -219,16 +220,16 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             description += description_generator(entry, position_str)
 
     if 'description' in entry:
-        description += u"%s</p>\n<p>" % cgi.escape(entry['description'])
+        description += u"%s</p>\n<p>" % html.escape(entry['description'])
 
     if 'platform' in entry:
-        description += u"Platform: %s</p>\n<p>" % cgi.escape(entry['platform'])
+        description += u"Platform: %s</p>\n<p>" % html.escape(entry['platform'])
 
     if 'techniques' in entry:
-        description += u"Notes: %s</p>\n<p>" % cgi.escape(entry['techniques'])
+        description += u"Notes: %s</p>\n<p>" % html.escape(entry['techniques'])
 
     if display_author is not None:
-        description += u"Author: %s\n" % cgi.escape(display_author)
+        description += u"Author: %s\n" % html.escape(display_author)
 
     # Youtube is our primary location
     if "youtube" in entry:
@@ -347,7 +348,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             "Download",
             download_type,
             download,
-            "(%s)" % urllib.parse.urlparse.netloc)
+            "(%s)" % urllib.parse.urlparse(download).netloc)
         #locations += "<location type='download'>%s|%s</location>" % (escape(download), download_type)
 
     sceneorg = entry.get('sceneorg')
@@ -381,14 +382,14 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if sceneorgvideo:
         external_links.add(
             "Download",
-            "HQ video"
+            "HQ video",
             "https://files.scene.org/view/%s" % sceneorgvideo,
             "(scene.org)")
         #locations += "<location type='sceneorg'>%s|HQ video</location>" % (escape(sceneorgvideo))
     elif mediavideo:
         external_links.add(
             "Download",
-            "HQ video"
+            "HQ video",
             "https://media.assembly.org/%s" % mediavideo,
             "(media.assembly.org)")
         #locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
@@ -537,8 +538,6 @@ for section in entry_data.sections:
 
     section_description = generate_section_description(
         section, args.pms_vote_template)
-    filename, data = meta_section(section, section_description)
-    add_to_tar(outfile, filename, json_dumps(data))
 
     sorted_entries = asmmetadata.sort_entries(section['entries'])
     # Music files have all the same thumbnail.
@@ -547,6 +546,7 @@ for section in entry_data.sections:
             entry['use-parent-thumbnail'] = True
     entry_position_descriptor = entry_position_description_factory(
         args.pms_vote_template)
+    included_entries = []
     for entry in sorted_entries:
         entry_out = meta_entry(
             outfile,
@@ -556,7 +556,13 @@ for section in entry_data.sections:
             music_thumbnails)
         if not entry_out:
             continue
+        included_entries.append(entry)
         entry_filename, entry_metadata = entry_out
         add_to_tar(outfile, entry_filename, json_dumps(entry_metadata))
+
+    filename, data = meta_section(
+        section, included_entries, section_description)
+    add_to_tar(outfile, filename, json_dumps(data))
+
 year_filename, year_metadata = meta_year(included_sections)
 add_to_tar(outfile, year_filename, json_dumps(year_metadata))

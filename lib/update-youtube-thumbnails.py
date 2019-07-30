@@ -6,7 +6,8 @@ import os.path
 import subprocess
 import sys
 import tempfile
-import urllib2
+import urllib.error
+import urllib.request
 
 
 def create_thumbnail(source, width, height, target_jpeg, target_png):
@@ -48,7 +49,7 @@ args = parser.parse_args()
 
 thumbnail_dir = args.thumbnail_dir
 if not os.path.isdir(thumbnail_dir):
-    print "Target directory %s does not exist!" % thumbnail_dir
+    print("Target directory %s does not exist!" % thumbnail_dir)
     sys.exit(1)
 width = args.width
 height = args.height
@@ -77,8 +78,8 @@ for entry in entry_data.entries:
 
     thumbnail_data = None
     try:
-        thumbnail_data_request = urllib2.urlopen(thumbnail_address)
-    except urllib2.HTTPError, e:
+        thumbnail_data_request = urllib.request.urlopen(thumbnail_address)
+    except urllib.error.HTTPError as e:
         link_to_missing_thumbnail(target_jpeg, target_png)
         continue
 

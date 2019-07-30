@@ -79,7 +79,7 @@ def try_operation(label, function, retries=3, sleep=4):
     retry_count = 0
     while not success and retry_count < retries:
         retry_count += 1
-        print "Try %d: %s" % (retry_count, label)
+        print("Try %d: %s" % (retry_count, label))
         result = function()
         time.sleep(sleep)
         if result is not None:
@@ -87,7 +87,7 @@ def try_operation(label, function, retries=3, sleep=4):
             break
     if success:
         return result
-    print "Failed: %s. Sleeping for 600 seconds." % label
+    print("Failed: %s. Sleeping for 600 seconds." % label)
     time.sleep(600)
     return None
 

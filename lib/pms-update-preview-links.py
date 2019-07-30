@@ -33,7 +33,7 @@ for pms_entry in pms_entries_data:
             break
 
     if updatable_entry is None:
-        print "FAILED to find corresponding entry for %s" % (str(metadata_entry))
+        print("FAILED to find corresponding entry for %s" % (str(metadata_entry)))
         continue
 
     preview_link = None
@@ -45,7 +45,7 @@ for pms_entry in pms_entries_data:
 
     if not preview_link:
         preview_link = ''
-        print "NO PREVIEW %s %s" % (pms_entry['id'], pms_entry['title'])
+        print("NO PREVIEW %s %s" % (pms_entry['id'], pms_entry['title']))
 
     if pms_entry.get('preview', '') != preview_link:
         compodata.update_entry_preview(
@@ -55,4 +55,4 @@ for pms_entry in pms_entries_data:
             updatable_entry['pms-id'],
             preview_link)
     else:
-        print "Preview link already exists %s" % updatable_entry['pms-id']
+        print("Preview link already exists %s" % updatable_entry['pms-id'])

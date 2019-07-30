@@ -61,7 +61,7 @@ def update_entry_preview(
     entry_url = pms_url("compo/%s/entry/%s/" % (compo_id, entry_id))
 
     request_data = 'preview_link=%s' % preview_link.encode("utf-8")
-    print "%s/%s" % (full_pms_id, request_data)
+    print("%s/%s" % (full_pms_id, request_data))
 
     request_data = {'preview_link': preview_link.encode("utf-8")}
     headers = {'Content-Type': 'text/plain'}
@@ -72,7 +72,7 @@ def update_entry_preview(
         auth=(username, password),
         verify=False)
     if not result.ok:
-        print result.reason
+        print(result.reason)
 
 
 def get_categories(pms_url, username, password):
@@ -80,4 +80,4 @@ def get_categories(pms_url, username, password):
     result = requests.get(categories_url, auth=(username, password), verify=False)
     compos = result.json()
     for compo in compos:
-        print compo['slug']
+        print(compo['slug'])

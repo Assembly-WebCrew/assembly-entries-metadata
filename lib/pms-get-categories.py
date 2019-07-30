@@ -10,4 +10,4 @@ args = parser.parse_args()
 
 pms_url = compodata.pms_path_generator(args.pms_root, args.pms_party)
 
-print compodata.get_categories(pms_url, args.pms_login, args.pms_password)
+print(compodata.get_categories(pms_url, args.pms_login, args.pms_password))

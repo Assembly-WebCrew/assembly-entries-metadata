@@ -6,7 +6,7 @@ import sys
 
 target_directory = sys.argv[1]
 if not os.path.exists(target_directory):
-    print "Target directory %s does not exist!" % target_directory
+    print("Target directory %s does not exist!" % target_directory)
     sys.exit(1)
 
 entry_data = asmmetadata.parse_file(sys.stdin)

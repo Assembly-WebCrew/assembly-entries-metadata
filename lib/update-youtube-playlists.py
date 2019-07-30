@@ -258,7 +258,7 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
 
 
 def update_youtube_playlists(yt_service, entry_data, sections, privacy):
-    print "= %d =" % entry_data.year
+    print("= %d =" % entry_data.year)
     for section in entry_data.sections:
         if sections and section["key"] not in sections:
             continue
@@ -267,7 +267,7 @@ def update_youtube_playlists(yt_service, entry_data, sections, privacy):
         if 'youtube-playlist' not in section:
             if not has_youtube_entries(section):
                 continue
-            print "Creating playlist"
+            print("Creating playlist")
             section['youtube-playlist'] = create_playlist(
                 yt_service, entry_data, section, privacy)
             time.sleep(5)
@@ -306,10 +306,10 @@ def main(argv=sys.argv):
             yt_service, entry_data, sections, args.privacy)
     except KeyboardInterrupt:
         result = os.DATAERR
-        print "Interrupted"
+        print("Interrupted")
     except Exception, e:
         result = os.EX_SOFTWARE
-        print "EXCEPTION Unknown exception happened: %s" % e
+        print("EXCEPTION Unknown exception happened: %s" % e)
 
     fp = open(args.datafile, "wb")
     asmmetadata.print_metadata(fp, entry_data)

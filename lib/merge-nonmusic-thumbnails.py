@@ -22,11 +22,11 @@ def create_merged_image(fileroot, start, entries):
     for entry in entries:
         thumbnail_base = asmmetadata.select_thumbnail_base(entry)
         thumbnail_paths.append(os.path.join(fileroot, thumbnail_base + '.png'))
-    print 'mkdir -p "%s"' % os.path.join(fileroot, "thumbnails/merged/")
-    print 'convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_png)
-    print 'convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_jpeg)
-    print 'optipng -o7 "%s"' % out_filename_png
-    print 'jpegoptim --strip-all "%s"' % out_filename_jpeg
+    print('mkdir -p "%s"' % os.path.join(fileroot, "thumbnails/merged/"))
+    print('convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_png))
+    print('convert "%s" +append "%s"' % ('" "'.join(thumbnail_paths), out_filename_jpeg))
+    print('optipng -o7 "%s"' % out_filename_png)
+    print('jpegoptim --strip-all "%s"' % out_filename_jpeg)
 
 # def create_merged_entry_groups(entries
 
