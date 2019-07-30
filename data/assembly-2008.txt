@@ -268,7 +268,7 @@ author:Stepanov Andrey|position:9|sceneorg:/parties/2008/assembly08/extreme/grfx
 author:Bugg / PuavoHard|position:10|sceneorg:/parties/2008/assembly08/extreme/grfx/ray_attack_by_bugg__puavohard.zip|title:Ray Attack|webfile:extreme_graphics/ray_attack_by_bugg_puavohard.png
 author:kraviz/abhorus|position:11|sceneorg:/parties/2008/assembly08/extreme/grfx/spare_by_kravizabhorus.zip|title:spAre|webfile:extreme_graphics/spare_by_kraviz_abhorus.png
 author:unseenfate/pen15|position:12|sceneorg:/parties/2008/assembly08/extreme/grfx/truelies_by_unseenfatepen15.zip|title:truelies|webfile:extreme_graphics/truelies_by_unseenfate_pen15.png
-author:DiamonDie/foobug^Numedia Cyclops|dtv:id_file=4708&id_prod=13455&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51136_1.jpg&width=512&height=404|position:4|title:Left above the clouds|webfile:extreme_graphics/left_above_the_clouds_by_diamondie_foobug_numeotU/0.jpg
+author:DiamonDie/foobug^Numedia Cyclops|dtv:id_file=4708&id_prod=13455&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51136_1.jpg&width=512&height=404|position:4|title:Left above the clouds|webfile:extreme_graphics/left_above_the_clouds_by_diamondie_foobug_numedia_cyclops.png
 author:tArzAn|sceneorg:/parties/2008/assembly08/extreme/grfx/test_by_tarzan.zip|title:test|webfile:extreme_graphics/test_by_tarzan.png
 
 

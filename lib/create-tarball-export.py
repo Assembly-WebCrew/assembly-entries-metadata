@@ -251,9 +251,9 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     #     has_media = True
         #locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
-    # XXX prevent the creation of humongous files.
-    # if 'galleriafi' in entry:
-    #     return
+    # XXX some photos are missing
+    if 'galleriafi' in entry:
+        return
 
     if entry.get('image-file') or entry.get('galleriafi'):
         image_file = entry.get('image-file')
@@ -301,7 +301,6 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             add_to_tar(outfile, viewfile_filename, viewfile)
             normal_prefix = asmmetadata.normalize_key(baseprefix)
             image_filename = "%s.%s" % (normal_prefix, postfix)
-
             asset = {
                 "type": "image",
                 "data": {
