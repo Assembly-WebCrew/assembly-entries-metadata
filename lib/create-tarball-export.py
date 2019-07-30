@@ -204,7 +204,6 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         description += u"%s</p>\n<p>" % cgi.escape(entry['warning'])
 
     position_str = None
-
     if entry["section"].get("ranked", True):
         if position != 0:
             position_str = str(position) + asmmetadata.get_ordinal_suffix(position) + " place"
@@ -549,13 +548,15 @@ for section in entry_data.sections:
     entry_position_descriptor = entry_position_description_factory(
         args.pms_vote_template)
     for entry in sorted_entries:
-        entry_filename, entry_metadata = meta_entry(
+        entry_out = meta_entry(
             outfile,
             entry_data.year,
             entry,
             entry_position_descriptor,
             music_thumbnails)
+        if not entry_out:
+            continue
+        entry_filename, entry_metadata = entry_out
         add_to_tar(outfile, entry_filename, json_dumps(entry_metadata))
-
 year_filename, year_metadata = meta_year(included_sections)
 add_to_tar(outfile, year_filename, json_dumps(year_metadata))
