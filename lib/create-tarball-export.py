@@ -10,6 +10,7 @@ import hashlib
 import io
 import json
 import os.path
+import PIL.Image
 import pytz
 import sys
 import tarfile
@@ -115,7 +116,9 @@ def generate_section_description(section_data, pms_path_template):
 
 
 def get_image_size(data):
-    return {"x": 160, "y": 90}
+    image = PIL.Image.open(io.BytesIO(data))
+    x, y = image.size
+    return {"x": x, "y": y}
 
 
 def meta_year(sections):
