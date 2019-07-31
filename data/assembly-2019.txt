@@ -24,6 +24,7 @@
 
 
 :section 1k intro
+:youtube-playlist PLJO4AtxKJiFPZQsFM8X_d13PRROkTL6NO
 :pms-category 1k_intro
 :description b'<p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>'
 :ongoing true
@@ -32,6 +33,7 @@
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFPRVtkVtbNJmokFBfDKFXP4
 :pms-category real_wild_demo
 :description b'<p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>'
 :ongoing true
@@ -40,6 +42,7 @@
 
 
 :section Oldskool demo
+:youtube-playlist PLJO4AtxKJiFMZFy-T_R-u8l3ONHbV1JPB
 :pms-category oldskool_demo
 :description b'<p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>'
 :ongoing true
@@ -48,6 +51,7 @@
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFMXFWKTWr8TuQVVlezJei0y
 :pms-category short_film
 :description b'<p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>'
 :ongoing true
@@ -57,6 +61,7 @@
 
 :section Gamedev
 :pms-category gamedev
+:youtube-playlist PLJO4AtxKJiFOG5GWUL-cMITwbcQ_isrLl
 :description b'<p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>'
 :ongoing true
 :public false
@@ -64,6 +69,7 @@
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFO6rueHqZXQFwLBwtD1eOE0
 :pms-category listening_music
 :description b"<p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>"
 :ongoing true
@@ -72,6 +78,7 @@
 
 
 :section Fast music
+:youtube-playlist PLJO4AtxKJiFMKEN9180D9mE56lpI7_iEX
 :pms-category fast_music
 :description b'<p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>'
 :ongoing true
@@ -80,6 +87,7 @@
 
 
 :section Dance music
+:youtube-playlist PLJO4AtxKJiFNIzWNqaxw781dVxeQ1PhuT
 :pms-category dance_music
 :description b'<p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>'
 :ongoing true
@@ -111,6 +119,7 @@
 
 
 :section Seminars
+:youtube-playlist PLJO4AtxKJiFNWCQF4XT-SjjksGybXIfUI
 :ranked false
 :elaine-category 2019 Seminars
 :public false
