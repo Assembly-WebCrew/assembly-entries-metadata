@@ -1,125 +1,143 @@
 :year 2019
 
-
 :section Demo
+:pms-category demo
+:description b'<p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>'
 :ongoing true
 :public false
-:pms-category demo
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
+
 
 
 :section 64k intro
+:description b'<p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>'
 :ongoing true
 :public false
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
+
+
 
 :section 4k intro
+:pms-category 4k_intro
+:description b'<p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>'
 :ongoing true
 :public false
-:pms-category 4k_intro
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+
 
 
 :section 1k intro
+:pms-category 1k_intro
+:description b'<p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>'
 :ongoing true
 :public false
-:pms-category 1k_intro
-:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+
 
 
 :section Real wild demo
+:pms-category real_wild_demo
+:description b'<p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>'
 :ongoing true
 :public false
-:pms-category real_wild_demo
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+
 
 
 :section Oldskool demo
+:pms-category oldskool_demo
+:description b'<p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>'
 :ongoing true
 :public false
-:pms-category oldskool_demo
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+
 
 
 :section Short film
+:pms-category short_film
+:description b'<p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>'
 :ongoing true
 :public false
-:pms-category short_film
-:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+
 
 
 :section Gamedev
+:pms-category gamedev
+:description b'<p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>'
 :ongoing true
 :public false
-:pms-category gamedev
-:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+
 
 
 :section Listening music
+:pms-category listening_music
+:description b"<p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>"
 :ongoing true
 :public false
-:pms-category listening_music
-:description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
+
 
 
 :section Fast music
+:pms-category fast_music
+:description b'<p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>'
 :ongoing true
 :public false
-:pms-category fast_music
-:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+
 
 
 :section Dance music
+:pms-category dance_music
+:description b'<p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>'
 :ongoing true
 :public false
-:pms-category dance_music
-:description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
+
 
 
 :section Pixeled graphics
+:pms-category pixeled_graphics
 :ongoing true
 :public false
-:pms-category pixeled_graphics
+
 
 
 :section Themed photo
+:pms-category themed_photo
+:description b'The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.'
 :ongoing true
 :public false
-:pms-category themed_photo
-:description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
+
 
 
 :section Fast graphics
+:pms-category fast_graphics
+:description b'<p>Competitors had 1.5 hours to create an image with "ZZZZ" theme.</p>'
 :ongoing true
 :public false
-:pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with "ZZZZ" theme.</p>
+
 
 
 :section Seminars
-:public false
 :ranked false
 :elaine-category 2019 Seminars
+:public false
+
 
 
 :section AssemblyTV
-:public false
 :ranked false
 :author-in-title false
 :elaine-category 2019 AssemblyTV
-:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:description b'<p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>'
+:public false
 
 
 
 :section eSports
-:public false
 :ranked false
 :author-in-title false
 :elaine-category 2019 Games
+:public false
+
 
 
 :section Winter
-:public false
 :ranked false
 :author-in-title false
-:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2019.</p>
+:description b'<p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2019.</p>'
+:public false
+
+

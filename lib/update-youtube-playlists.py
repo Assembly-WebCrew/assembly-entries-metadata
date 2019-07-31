@@ -294,7 +294,7 @@ def main(argv=sys.argv):
     args = parser.parse_args(argv[1:])
     yt_service = asmyoutube.get_authenticated_service(args)
 
-    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+    entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     result = os.EX_OK
 
@@ -312,7 +312,7 @@ def main(argv=sys.argv):
         result = os.EX_SOFTWARE
         print("EXCEPTION Unknown exception happened: %s" % e)
 
-    fp = open(args.datafile, "wb")
+    fp = open(args.datafile, "w")
     asmmetadata.print_metadata(fp, entry_data)
     return result
 

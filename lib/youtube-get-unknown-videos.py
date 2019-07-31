@@ -18,7 +18,7 @@ if __name__ == "__main__":
     asmyoutube.add_auth_args(parser)
     args = parser.parse_args()
     yt_service = asmyoutube.get_authenticated_service(args)
-    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+    entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     known_video_ids = set(
         [asmmetadata.get_clean_youtube_id(x) for x in filter(
