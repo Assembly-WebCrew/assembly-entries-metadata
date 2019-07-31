@@ -146,7 +146,8 @@ def get_thumbnail_data(entry):
     thumbnail_base = asmmetadata.select_thumbnail_base(entry)
     thumbnail = None
     if thumbnail_base is not None:
-        thumbnail, suffix = select_smaller_thumbnail(os.path.join(FILEROOT, thumbnail_base))
+        thumbnail, suffix = select_smaller_thumbnail(
+            os.path.join(FILEROOT, thumbnail_base))
     else:
         # We don't have any displayable data.
         return None, None

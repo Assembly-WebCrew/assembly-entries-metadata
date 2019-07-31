@@ -1,8 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 import argparse
 import asmmetadata
+import collections
 import os
 import os.path
+import PIL.Image
 import subprocess
 import sys
 import tempfile
@@ -10,36 +13,69 @@ import urllib.error
 import urllib.request
 
 
+ImageSize = collections.namedtuple("ImageSize", ["x", "y"])
+
+
+def get_image_size(filename):
+    image = PIL.Image.open(filename)
+    return ImageSize(*image.size)
+
+
+def convert_to_png(source, target):
+    subprocess.call(['convert', source, target])
+    temporary_png = "%s.zpng" % target
+    subprocess.call(['zopflipng', '-m', target, temporary_png])
+    subprocess.call(['mv', temporary_png, target_png])
+
+
 def create_thumbnail(source, width, height, target_jpeg, target_png):
-    temporary_resized_fp = tempfile.NamedTemporaryFile(prefix=".youtube-thumbnail-", suffix=".png")
+    temporary_resized_fp = tempfile.NamedTemporaryFile(
+        prefix=".youtube-thumbnail-", suffix=".png")
     temporary_resized_image = temporary_resized_fp.name
 
-    subprocess.call(['convert', source, '-resize', '%dx1000' % width, temporary_resized_image])
+    subprocess.call(
+        ['convert', source, '-resize', '%dx1000' % width,
+         temporary_resized_image])
 
     if not os.path.exists(target_jpeg):
-        subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_jpeg])
+        subprocess.call(
+            ['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size,
+             '+repage', temporary_resized_image, target_jpeg])
         subprocess.call(['jpegoptim', '--strip-all', target_jpeg])
 
     if not os.path.exists(target_png):
-        subprocess.call(['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size, '+repage', temporary_resized_image, target_png])
-        temporary_png = "%s.zpng" % target_png
-        subprocess.call(['zopflipng', '-m', target_png, temporary_png])
-        subprocess.call(['mv', temporary_png, target_png])
+        subprocess.call(
+            ['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size,
+             '+repage', temporary_resized_image, target_png])
+        convert_to_png(temporary_resized_image, target_png)
 
 
-def link_to_missing_thumbnail(target_jpeg, target_png):
-    directory = os.path.dirname(target_png)
-    parent_directory = os.path.dirname(directory)
-    missing_jpeg = os.path.join(parent_directory, "thumbnail-missing.jpeg")
-    missing_png = os.path.join(parent_directory, "thumbnail-missing.png")
+def link_to_missing_thumbnail(missing_type, target):
+    missing_filename = "../thumbnail-missing.%s" % missing_type
 
-    if not os.path.isfile(missing_jpeg):
-        raise RuntimeError("No file for missing JPEG file (%s)." % missing_jpeg)
-    if not os.path.isfile(missing_png):
-        raise RuntimeError("No file for missing PNG file (%s)." % missing_png)
+    if not os.path.isfile(missing_filename):
+        raise RuntimeError(
+            "No file for missing JPEG file (%s)." % missing_filename)
 
-    os.symlink("../thumbnail-missing.jpeg", target_jpeg)
-    os.symlink("../thumbnail-missing.png", target_png)
+    os.symlink(missing_filename, target)
+
+
+def download_thumbnail(youtube_id, target):
+    thumbnail_address = "http://i.ytimg.com/vi/%s/0.jpg" % youtube_id
+
+    thumbnail_data = None
+    try:
+        thumbnail_data_request = urllib.request.urlopen(thumbnail_address)
+    except urllib.error.HTTPError:
+        return None
+
+    thumbnail_data = thumbnail_data_request.read()
+
+    with open(target_orig + ".tmp", "wb") as original_image:
+        original_image.write(thumbnail_data)
+    os.rename(target_orig + ".tmp", target_orig)
+    return target_orig
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument("thumbnail_dir")
@@ -62,8 +98,29 @@ for entry in entry_data.entries:
         continue
     youtube_id = asmmetadata.get_clean_youtube_id(entry)
 
-    target_jpeg = os.path.join(thumbnail_dir, "%s.jpeg" % youtube_id)
-    target_png = os.path.join(thumbnail_dir, "%s.png" % youtube_id)
+    target_jpeg = os.path.join(
+        thumbnail_dir, "%s-%dx%d.jpeg" % (youtube_id, width, height))
+    target_png = os.path.join(
+        thumbnail_dir, "%s-%dx%d.png" % (youtube_id, width, height))
+
+    target_orig = os.path.join(thumbnail_dir, "%s-orig.jpeg" % youtube_id)
+    target_orig_png = os.path.join(thumbnail_dir, "%s-orig.png" % youtube_id)
+    if not os.path.isfile(target_orig):
+        filename = download_thumbnail(youtube_id, target_orig)
+        if filename is None:
+            link_to_missing_thumbnail("jpeg", target_jpeg)
+            link_to_missing_thumbnail("png", target_png)
+            continue
+    if not os.path.isfile(target_orig_png):
+        convert_to_png(target_orig, target_orig_png)
+
+    size = get_image_size(target_orig)
+    if size.x < args.width and size.y < args.height:
+        os.remove(target_jpeg)
+        os.remove(target_png)
+        os.symlink(target_jpeg, target_jpeg)
+        os.symlink(target_png, target_png)
+        continue
 
     # These are "thumbnail missing" images.
     if os.path.islink(target_jpeg):
@@ -74,24 +131,4 @@ for entry in entry_data.entries:
     if os.path.isfile(target_jpeg) and os.path.isfile(target_png):
         continue
 
-    thumbnail_address = "http://i.ytimg.com/vi/%s/0.jpg" % youtube_id
-
-    thumbnail_data = None
-    try:
-        thumbnail_data_request = urllib.request.urlopen(thumbnail_address)
-    except urllib.error.HTTPError as e:
-        link_to_missing_thumbnail(target_jpeg, target_png)
-        continue
-
-    thumbnail_data = thumbnail_data_request.read()
-
-    temporary_image_fp = tempfile.NamedTemporaryFile(
-        prefix=".youtube-thumbnail-", suffix=".jpeg", mode="wb")
-    temporary_image_fp.write(thumbnail_data)
-    temporary_image_fp.flush()
-
-    temporary_image = temporary_image_fp.name
-
-    create_thumbnail(temporary_image, width, height, target_jpeg, target_png)
-
-    temporary_image_fp.close()
+    create_thumbnail(target_orig, width, height, target_jpeg, target_png)
