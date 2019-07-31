@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import asmmetadata
 import asmyoutube
@@ -5,7 +7,6 @@ import os
 import re
 import sys
 import time
-import urlparse
 
 
 def has_youtube_entries(section):
@@ -307,7 +308,7 @@ def main(argv=sys.argv):
     except KeyboardInterrupt:
         result = os.DATAERR
         print("Interrupted")
-    except Exception, e:
+    except Exception as e:
         result = os.EX_SOFTWARE
         print("EXCEPTION Unknown exception happened: %s" % e)
 
