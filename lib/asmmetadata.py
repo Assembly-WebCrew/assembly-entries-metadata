@@ -445,7 +445,7 @@ def sort_entries(entries):
 def select_thumbnail_base(entry):
     youtube_id = get_clean_youtube_id(entry)
     if youtube_id:
-        return 'youtube-thumbnails/%s-160x90' % youtube_id
+        return 'youtube-thumbnails/%s-160w' % youtube_id
     if 'dtv' in entry:
         demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
         return 'dtv-thumbnails/%s' % demoscenetv_thumb
