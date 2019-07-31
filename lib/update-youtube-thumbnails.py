@@ -71,9 +71,9 @@ def download_thumbnail(youtube_id, target):
 
     thumbnail_data = thumbnail_data_request.read()
 
-    with open(target_orig + ".tmp", "wb") as original_image:
+    with open(target_orig + ".tmp%d" % os.getpid(), "wb") as original_image:
         original_image.write(thumbnail_data)
-    os.rename(target_orig + ".tmp", target_orig)
+    os.rename(target_orig + ".tmp%d" % os.getpid(), target_orig)
     return target_orig
 
 
@@ -99,9 +99,9 @@ for entry in entry_data.entries:
     youtube_id = asmmetadata.get_clean_youtube_id(entry)
 
     target_jpeg = os.path.join(
-        thumbnail_dir, "%s-%dx%d.jpeg" % (youtube_id, width, height))
+        thumbnail_dir, "%s-%dw.jpeg" % (youtube_id, width))
     target_png = os.path.join(
-        thumbnail_dir, "%s-%dx%d.png" % (youtube_id, width, height))
+        thumbnail_dir, "%s-%dw.png" % (youtube_id, width))
 
     target_orig = os.path.join(thumbnail_dir, "%s-orig.jpeg" % youtube_id)
     target_orig_png = os.path.join(thumbnail_dir, "%s-orig.png" % youtube_id)
