@@ -363,7 +363,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
                     "Download",
                     "%s (%d/%d)" % (download_type, i, len(parts)),
                     "https://files.scene.org/view/%s" % part,
-                    "(scene.org)")
+                    "(files.scene.org)")
 
                 # locations += "<location type='sceneorg'>%s|%s (%d/%d)</location>" % (
                 #     escape(part), download_type, i, len(parts))
