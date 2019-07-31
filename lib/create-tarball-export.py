@@ -220,7 +220,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             description += description_generator(entry, position_str)
 
     if 'description' in entry:
-        description += u"%s</p>\n<p>" % html.escape(entry['description'])
+        description += u"%s</p>\n<p>" % entry['description']
 
     if 'platform' in entry:
         description += u"Platform: %s</p>\n<p>" % html.escape(entry['platform'])
