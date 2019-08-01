@@ -424,7 +424,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         external_links.add(
             "Download",
             "HQ video",
-            "https://media.assembly.org/%s" % mediavideo,
+            "https://media.assembly.org%s" % mediavideo,
             "(media.assembly.org)")
         #locations += "<location type='download'>http://media.assembly.org%s|HQ video</location>" % (mediavideo)
 
