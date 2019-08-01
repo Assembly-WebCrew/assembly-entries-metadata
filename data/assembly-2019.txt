@@ -136,11 +136,11 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :pms-category cosplay_photoshoot_competition
 :ongoing true
 
-author:Kuvaaja: janeemil, malli: pi4ch|pms-id:asm19/cosplay_photoshoot_competition/904|title:Eliittijoukkue B (Elite Crew B) - Counter-Strike: Global Offensive|image-file:eliittijoukkue_b_(elite_crew_b)_-_counter-strike__global_offensive.jpg
-author:Kuvaaja: Emilia Kokko, malli: Jaana Miettinen|pms-id:asm19/cosplay_photoshoot_competition/906|title:Ariel - The Little Mermaid|image-file:cosplay-photoshoot/ariel_-_the_little_mermaid.jpg
-author:Kuvaaja: Yujin Malli: Minervainen|pms-id:asm19/cosplay_photoshoot_competition/922|title:Polka - Eternal Sonata|image-file:cosplay-photoshoot/polka_-_eternal_sonata.jpg
-author:Photographer: Lord.Madhouse, Model: Dragoneri|pms-id:asm19/cosplay_photoshoot_competition/923|title:Babydoll - Sucker Punch|image-file:cosplay-photoshoot/babydoll_-_sucker_punch.jpg
-author:Model: LadyRosyCheek|pms-id:asm19/cosplay_photoshoot_competition/924|title:AMA, just monika., Kananen|image-file:cosplay-photoshoot/ama__just_monika.__kananen.png
+author:janeemil, pi4ch|pms-id:asm19/cosplay_photoshoot_competition/904|title:Eliittijoukkue B (Elite Crew B) - Counter-Strike: Global Offensive|image-file:cosplay-photoshoot/eliittijoukkue-b-elite-crew-b-counter-strike-global-offensive-by-janeemil-pi4ch.jpeg|description:Kuvaaja: janeemil, malli: pi4ch
+author:Emilia Kokko, Jaana Miettinen|pms-id:asm19/cosplay_photoshoot_competition/906|title:Ariel - The Little Mermaid|image-file:cosplay-photoshoot/ariel-the-little-mermaid-by-emilia-kokko-jaana-miettinen.jpeg|description:Kuvaaja: Emilia Kokko, malli: Jaana Miettinen
+author:Yujin, Minervainen|pms-id:asm19/cosplay_photoshoot_competition/922|title:Polka - Eternal Sonata|image-file:cosplay-photoshoot/polka-eternal-sonata-by-yujin-minervainen.jpeg|description:Kuvaaja: Yujin Malli: Minervainen
+author:Lord.Madhouse, Dragoneri|pms-id:asm19/cosplay_photoshoot_competition/923|title:Babydoll - Sucker Punch|image-file:cosplay-photoshoot/babydoll-sucker-punch-by-lord-madhouse-dragoneri.jpeg|description:Photographer: Lord.Madhouse, Model: Dragoneri
+author:LadyRosyCheek|pms-id:asm19/cosplay_photoshoot_competition/924|title:AMA, just monika., Kananen|image-file:cosplay-photoshoot/ama-just-monika-kananen-by-ladyrosycheek.png|description:Model: LadyRosyCheek
 
 
 :section Seminars
@@ -174,7 +174,7 @@ title:StarCraft II Returns to Helsinki - ASUS ROG Summer 2019|youtube:QdXkYBAkau
 
 
 title:Ticket sales are open!|youtube:YwV5opZjT3I|description:Lipunmyynti on auki!</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Discord: https://discord.gg/WD4rRUx</p><p>Nettisivu: https://www.assembly.org/winter19<br/>Community: https://community.assembly.org/"|author:AssemblyTV
-title:Assembly Winter 2019 | Official Aftermovie|youtube:Ugj4AvTlg28|description:The official Assembly Winter 2019 aftermovie is here! 💥 Thank you all for making it so epic! Can you spot yourself or your friend in the video? 🔎 Comment below!</p><p>Next up is Assembly Summer 2019 on 1.-4.8.2019, we'll hope to see you there!</p><p>Follow us on social media! ⬇️</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Discord: https://discord.gg/WD4rRUx</p><p>Website: https://www.assembly.org/winter19<br/>Community: https://community.assembly.org/|author:AssemblyTV
+title:Assembly Winter 2019 - Official Aftermovie|youtube:Ugj4AvTlg28|description:The official Assembly Winter 2019 aftermovie is here! 💥 Thank you all for making it so epic! Can you spot yourself or your friend in the video? 🔎 Comment below!</p><p>Next up is Assembly Summer 2019 on 1.-4.8.2019, we'll hope to see you there!</p><p>Follow us on social media! ⬇️</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Discord: https://discord.gg/WD4rRUx</p><p>Website: https://www.assembly.org/winter19<br/>Community: https://community.assembly.org/|author:AssemblyTV
 title:Quick Recap Assembly Winter 2019 Overwatch|youtube:e-53sCHW3mI|description:Assembly Winter 2019. Quick recap to Overwatch.|author:AssemblyTV
 title:Assembly Winter 19 timelapse|youtube:G3sjbLR_mDQ|author:AssemblyTV
 title:Assembly Winter 2019 Quick Recap|youtube:CXLiCDUu9Zg|author:AssemblyTV

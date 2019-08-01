@@ -60,7 +60,7 @@ if __name__ == "__main__":
                     finished = True
                     break
 
-                title = playlist_item["snippet"]["title"]
+                title = playlist_item["snippet"]["title"].replace("|", "-")
                 description = playlist_item["snippet"]["description"]
                 description = description.strip()
                 if len(description) > 0:
