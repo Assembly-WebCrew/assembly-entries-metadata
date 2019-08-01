@@ -3,6 +3,7 @@
 import archivethumbnails
 import argparse
 import asmmetadata
+import multiprocessing
 import os
 import os.path
 import subprocess
@@ -64,6 +65,7 @@ def main(argv):
 
     entry_data = asmmetadata.parse_file(open(args.datafile))
 
+    create_thumbnail_calls = []
     for entry in entry_data.entries:
         if 'youtube' not in entry:
             continue
@@ -93,11 +95,14 @@ def main(argv):
         if os.path.isfile(target_orig) and os.path.isfile(target_orig_png):
             continue
 
-        archivethumbnails.create_thumbnails(
-            target_orig,
-            os.path.join(thumbnail_dir, youtube_id),
-            size_default,
-            extra_sizes)
+        create_thumbnail_calls.extend(
+            archivethumbnails.create_thumbnails(
+                target_orig,
+                os.path.join(thumbnail_dir, youtube_id),
+                size_default,
+                extra_sizes))
+    pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
+    pool.starmap(archivethumbnails.create_thumbnail, create_thumbnail_calls)
     return os.EX_OK
 
 
