@@ -52,10 +52,12 @@ def create_thumbnail(source, width, height, target_jpeg, target_png):
 
 def link_to_missing_thumbnail(missing_type, target):
     missing_filename = "../thumbnail-missing.%s" % missing_type
+    target_dir = os.path.dirname(target)
 
-    if not os.path.isfile(missing_filename):
+    missing_path = os.path.join(target_dir, missing_filename)
+    if not os.path.isfile(missing_path):
         raise RuntimeError(
-            "No file for missing JPEG file (%s)." % missing_filename)
+            "No file for missing file (%s)." % missing_path)
 
     os.symlink(missing_filename, target)
 
@@ -111,8 +113,9 @@ for entry in entry_data.entries:
             link_to_missing_thumbnail("jpeg", target_jpeg)
             link_to_missing_thumbnail("png", target_png)
             continue
-    if not os.path.isfile(target_orig_png):
-        convert_to_png(target_orig, target_orig_png)
+    else:
+        if not os.path.isfile(target_orig_png):
+            convert_to_png(target_orig, target_orig_png)
 
     size = get_image_size(target_orig)
     if size.x < args.width and size.y < args.height:
