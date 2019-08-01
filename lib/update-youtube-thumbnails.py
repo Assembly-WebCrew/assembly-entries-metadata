@@ -34,7 +34,7 @@ def create_thumbnail(source, width, height, target_jpeg, target_png):
     temporary_resized_image = temporary_resized_fp.name
 
     subprocess.call(
-        ['convert', source, '-resize', '%dx1000' % width,
+        ['convert', source, '-resize', '%dx100000' % width,
          temporary_resized_image])
 
     if not os.path.exists(target_jpeg):

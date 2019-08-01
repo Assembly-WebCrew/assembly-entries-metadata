@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import asmmetadata
 import argparse
 import os
@@ -63,7 +65,7 @@ def main(argv):
     args = parser.parse_args(argv[1:])
     yt_service = asmyoutube.get_authenticated_service(args)
 
-    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+    entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     if args.sections:
         included_sections = set(

@@ -7,6 +7,7 @@ import hashlib
 import re
 import unicodedata
 import urllib
+import urllib.parse
 
 
 YOUTUBE_MAX_TITLE_LENGTH = 100
@@ -543,7 +544,7 @@ def get_youtube_info_data(entry):
         if not newlined:
             description += u"\n"
             newlined = True
-        description += u"Pouet.net: http://pouet.net/prod.php?which=%s\n" % urllib.quote_plus(pouet.strip())
+        description += u"Pouet.net: http://pouet.net/prod.php?which=%s\n" % urllib.parse.quote_plus(pouet.strip())
 
     if 'download' in entry:
         if not newlined:
@@ -568,18 +569,18 @@ def get_youtube_info_data(entry):
             i = 1
             for part in parts:
                 description += u"Download %s part %d/%d: http://www.scene.org/file.php?file=%s\n" % (
-                    download_type, i, len(parts), urllib.quote_plus(part))
+                    download_type, i, len(parts), urllib.parse.quote_plus(part))
                 i += 1
         else:
             description += u"Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.quote_plus(sceneorg))
+                download_type, urllib.parse.quote_plus(sceneorg))
 
     if 'sceneorgvideo' in entry:
         if not newlined:
             description += u"\n"
             newlined = True
         sceneorgvideo = entry['sceneorgvideo']
-        description += "Download high quality video: http://www.scene.org/file.php?file=%s\n" % urllib.quote_plus(sceneorgvideo)
+        description += "Download high quality video: http://www.scene.org/file.php?file=%s\n" % urllib.parse.quote_plus(sceneorgvideo)
     elif 'media' in entry:
         if not newlined:
             description += u"\n"
