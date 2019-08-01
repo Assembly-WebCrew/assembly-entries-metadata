@@ -568,31 +568,31 @@ def get_youtube_info_data(entry):
             parts = sceneorg.split(",")
             i = 1
             for part in parts:
-                description += u"Download %s part %d/%d: http://www.scene.org/file.php?file=%s\n" % (
-                    download_type, i, len(parts), urllib.parse.quote_plus(part))
+                description += u"Download %s part %d/%d: https://files.scene.org/view%s\n" % (
+                    download_type, i, len(parts), part)
                 i += 1
         else:
-            description += u"Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.parse.quote_plus(sceneorg))
+            description += u"Download %s: https://files.scene.org/view%s\n" % (
+                download_type, sceneorg)
 
     if 'sceneorgvideo' in entry:
         if not newlined:
             description += u"\n"
             newlined = True
         sceneorgvideo = entry['sceneorgvideo']
-        description += "Download high quality video: http://www.scene.org/file.php?file=%s\n" % urllib.parse.quote_plus(sceneorgvideo)
+        description += "Download high quality video: https://files.scene.org/view%s\n" % sceneorgvideo
     elif 'media' in entry:
         if not newlined:
             description += u"\n"
             newlined = True
         mediavideo = entry['media']
-        description += "Download high quality video: http://media.assembly.org%s\n" % mediavideo
+        description += "Download high quality video: https://media.assembly.org%s\n" % mediavideo
 
     description += u"\n"
     if "youtube-playlist" in entry["section"]:
         description += u"Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
     description += u"This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
-    description += u"Event website: http://www.assembly.org/\n"
+    description += u"Event website: https://www.assembly.org/\n"
 
     tags = set(get_party_tags(
             entry['section']['year'], entry['section']['name']))
