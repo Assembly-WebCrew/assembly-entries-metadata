@@ -17,8 +17,8 @@ def get_image_size(filename):
 
 def optimize_png(source):
     temporary_png = "%s.zpng" % source
-    subprocess.call(['zopflipng', '-m', source, temporary_png])
-    subprocess.call(['mv', temporary_png, source])
+    subprocess.check_call(['zopflipng', '-m', source, temporary_png])
+    subprocess.check_call(['mv', temporary_png, source])
 
 
 def create_thumbnail(
@@ -31,18 +31,21 @@ def create_thumbnail(
         prefix=".thumbnail-", suffix=".png")
     temporary_resized_image = temporary_resized_fp.name
 
-    subprocess.call(
-        ['convert', original_image, '-resize', '%dx100000' % size.x,
+    subprocess.check_call(
+        ['convert', original_image, '-resize', '%dx20000' % size.x,
          temporary_resized_image])
 
     if size.y is not None:
         target_size = "%dx%d" % (size.x, size.y)
-        subprocess.call(
+        subprocess.check_call(
             ['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size,
              '+repage', temporary_resized_image, target_file])
+    else:
+        subprocess.check_call(
+            ["convert", temporary_resized_image, target_file])
 
     if target_file.endswith(".jpeg"):
-        subprocess.call(['jpegoptim', '--strip-all', target_file])
+        subprocess.check_call(['jpegoptim', '--strip-all', target_file])
     if target_file.endswith(".png"):
         optimize_png(target_file)
 
@@ -61,10 +64,10 @@ def create_thumbnails(
         extra_jpeg = "%s-%dw.jpeg" % (target_prefix, extra_size.x)
         extra_png = "%s-%dw.png" % (target_prefix, extra_size.x)
         if size.x < extra_size.x:
-            os.remove(extra_jpeg)
-            os.remove(extra_png)
-            os.symlink(default_jpeg, extra_jpeg)
-            os.symlink(default_png, extra_png)
+            if os.path.exists(extra_jpeg):
+                os.remove(extra_jpeg)
+            if os.path.exists(extra_png):
+                os.remove(extra_png)
             continue
 
         if not os.path.exists(extra_jpeg):

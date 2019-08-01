@@ -5,6 +5,7 @@ import argparse
 import asmmetadata
 import os
 import os.path
+import subprocess
 import sys
 import urllib.error
 import urllib.request
@@ -35,64 +36,70 @@ def download_thumbnail(youtube_id, target):
 
     thumbnail_data = thumbnail_data_request.read()
 
-    with open(target_orig + ".tmp%d" % os.getpid(), "wb") as original_image:
+    with open(target + ".tmp%d" % os.getpid(), "wb") as original_image:
         original_image.write(thumbnail_data)
-    os.rename(target_orig + ".tmp%d" % os.getpid(), target_orig)
-    return target_orig
+    os.rename(target + ".tmp%d" % os.getpid(), target)
+    return target
 
 
-multipliers = [1.25, 1.5, 2, 3, 4]
-size_default = archivethumbnails.ImageSize(160, 90)
-extra_sizes = []
-for multiplier in multipliers:
-    extra_sizes.append(
-        archivethumbnails.ImageSize(
-            int(160 * multiplier),
-            int(160 * multiplier * 9 / 16)))
+def main(argv):
+    multipliers = [1.25, 1.5, 2, 3, 4]
+    size_default = archivethumbnails.ImageSize(160, 90)
+    extra_sizes = []
+    for multiplier in multipliers:
+        extra_sizes.append(
+            archivethumbnails.ImageSize(
+                int(160 * multiplier),
+                int(160 * multiplier * 9 / 16)))
 
-parser = argparse.ArgumentParser()
-parser.add_argument("datafile")
-parser.add_argument("thumbnail_dir")
-args = parser.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("datafile")
+    parser.add_argument("thumbnail_dir")
+    args = parser.parse_args(argv[1:])
 
-thumbnail_dir = args.thumbnail_dir
-if not os.path.isdir(thumbnail_dir):
-    print("Target directory %s does not exist!" % thumbnail_dir)
-    sys.exit(1)
-width = args.width
-height = args.height
+    thumbnail_dir = args.thumbnail_dir
+    if not os.path.isdir(thumbnail_dir):
+        print("Target directory %s does not exist!" % thumbnail_dir)
+        return os.EX_DATAERR
 
-entry_data = asmmetadata.parse_file(open(args.datafile))
+    entry_data = asmmetadata.parse_file(open(args.datafile))
 
-for entry in entry_data.entries:
-    if 'youtube' not in entry:
-        continue
-    youtube_id = asmmetadata.get_clean_youtube_id(entry)
-
-    target_orig = os.path.join(thumbnail_dir, "%s-orig.jpeg" % youtube_id)
-    target_orig_png = os.path.join(thumbnail_dir, "%s-orig.png" % youtube_id)
-
-    if not os.path.isfile(target_orig):
-        filename = download_thumbnail(youtube_id, target_orig)
-        if filename is None:
-            link_to_missing_thumbnail("jpeg", target_orig)
-            link_to_missing_thumbnail("png", target_orig_png)
+    for entry in entry_data.entries:
+        if 'youtube' not in entry:
             continue
-    else:
-        if not os.path.isfile(target_orig_png):
-            archivethumbnails.convert_to_png(target_orig, target_orig_png)
+        youtube_id = asmmetadata.get_clean_youtube_id(entry)
 
-    # These are "thumbnail missing" images.
-    if os.path.islink(target_orig):
-        os.remove(target_orig)
-    if os.path.islink(target_orig_png):
-        os.remove(target_orig_png)
+        target_orig = os.path.join(thumbnail_dir, "%s-orig.jpeg" % youtube_id)
+        target_orig_png = os.path.join(
+            thumbnail_dir, "%s-orig.png" % youtube_id)
 
-    if os.path.isfile(target_orig) and os.path.isfile(target_orig_png):
-        continue
+        if not os.path.isfile(target_orig):
+            filename = download_thumbnail(youtube_id, target_orig)
+            if filename is None:
+                link_to_missing_thumbnail("jpeg", target_orig)
+                link_to_missing_thumbnail("png", target_orig_png)
+                continue
+        else:
+            if not os.path.isfile(target_orig_png):
+                subprocess.call(['convert', target_orig, target_orig_png])
+                archivethumbnails.optimize_png(target_orig_png)
 
-    archivethumbnails.create_thumbnails(
-        target_orig,
-        os.path.join(thumbnail_dir, youtube_id),
-        size_default,
-        extra_sizes)
+        # These are "thumbnail missing" images.
+        if os.path.islink(target_orig):
+            os.remove(target_orig)
+        if os.path.islink(target_orig_png):
+            os.remove(target_orig_png)
+
+        if os.path.isfile(target_orig) and os.path.isfile(target_orig_png):
+            continue
+
+        archivethumbnails.create_thumbnails(
+            target_orig,
+            os.path.join(thumbnail_dir, youtube_id),
+            size_default,
+            extra_sizes)
+    return os.EX_OK
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))
