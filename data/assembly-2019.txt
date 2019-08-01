@@ -64,8 +64,22 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
-:public false
 
+author:Shiptoad|pms-id:asm19/gamedev/886|title:Junkships
+author:Ilu/Roimis/Lehtori R.|pms-id:asm19/gamedev/887|title:Hanging Man
+author:Kristian Kallio, Mikko Peltola, Anssi Remes|pms-id:asm19/gamedev/896|title:Dashbot Ninja
+author:Crimson King|pms-id:asm19/gamedev/898|title:Class Dismissed
+author:Piece of Cake|pms-id:asm19/gamedev/899|title:Pete's Party: Operation toygun
+author:Finity Games|pms-id:asm19/gamedev/901|title:Absurdasia Demo
+author:RoboDogo|pms-id:asm19/gamedev/905|title:Hope Adrift
+author:Team Grappling Hook|pms-id:asm19/gamedev/910|title:Toy Thieves
+author:Damones|pms-id:asm19/gamedev/913|title:Jolly Jumpers
+author:Tekotuotanto|pms-id:asm19/gamedev/914|title:GUNSHIP
+author:Sipi Raussi, Touko Niininen, Henri Oinonen, Juuso Myllylä, Joonas Tuominen, Riikka Kilpeläinen, Piia Kemppainen, Kaisa Kukkura, Rami Tammela, Antti Turunen, Jarkko Lappalainen, Elias Massa, Tuisku Penttilä, Tuomas Suokko, Jan Kajavo, KAMK and Kajak Games|pms-id:asm19/gamedev/915|title:Korpus: Buried over the Black Soil
+author:Skeleton Crew|pms-id:asm19/gamedev/916|title:Skeltal Game
+author:Team MYB|pms-id:asm19/gamedev/917|title:Stellar Leap
+author:BrushDev|pms-id:asm19/gamedev/918|title:Nettiä Etsimässä
+author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 
 
 :section Listening music
