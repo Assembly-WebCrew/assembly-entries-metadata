@@ -64,6 +64,7 @@
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
+:public false
 
 author:Shiptoad|pms-id:asm19/gamedev/886|title:Junkships
 author:Ilu/Roimis/Lehtori R.|pms-id:asm19/gamedev/887|title:Hanging Man

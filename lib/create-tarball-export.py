@@ -9,6 +9,7 @@ import hashlib
 import html
 import io
 import json
+import logging
 import os.path
 import PIL.Image
 import pytz
@@ -20,8 +21,12 @@ import urllib
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
 DEFAULT_THUMBNAIL_SIZE = "160w"
-EXTRA_THUMBNAIL_WIDTHS = ("%dw" for x in (
-    160 * 1.25, 160 * 1.5, 160 * 2, 160 * 3, 160 * 4))
+EXTRA_THUMBNAIL_WIDTHS = ["%dw" % x for x in (
+    160 * 1.25, 160 * 1.5, 160 * 2, 160 * 3, 160 * 4)]
+
+DEFAULT_IMAGE_SIZE = "640w"
+EXTRA_IMAGE_WIDTHS = ["%dw" % x for x in (
+    640 * 1.25, 640 * 1.5, 640 * 2, 640 * 3, 640 * 4)]
 
 parser = argparse.ArgumentParser()
 parser.add_argument("files_root", metavar="files-root")
@@ -77,23 +82,6 @@ def add_to_tar(tar, filename, data):
 def json_dumps(data):
     return json.dumps(
         data, sort_keys=True, indent=2, separators=(',', ': ')).encode("utf-8")
-
-
-def display_asset(path, title, data):
-    return ""
-#     return """
-#   <asset path="%(path)s">
-#     <edition parameters="lang: workflow:public"
-#          title=%(title)s
-#          tags=""
-#          created="2011-02-11 10:00:00"
-#          modified="2011-02-11 10:00:00"><![CDATA[%(data)s
-# ]]></edition>
-#   </asset>
-# """ % {'path': path,
-#        'title': quoteattr(title),
-#        'data': base64.encodestring(data),
-#        }
 
 
 def select_smaller_thumbnail(fileprefix):
@@ -172,6 +160,52 @@ def get_thumbnail_data(entry, size):
     return thumbnail, suffix
 
 
+def get_image(filename_archive_prefix, image_base):
+    viewfile, postfix = select_smaller_thumbnail(
+        os.path.join(FILEROOT, image_base))
+    if viewfile is None:
+        return None, None
+
+    base = os.path.basename(image_base)
+    image_filename = os.path.basename(
+        "%s%s.%s" % (filename_archive_prefix, base, postfix))
+    return viewfile, {
+        "filename": image_filename,
+        "size": get_image_size(viewfile),
+        "checksum": calculate_checksum(viewfile),
+        "type": "image/%s" % postfix,
+    }
+
+
+def get_images(
+        archive_dir,
+        filename_prefix,
+        image_base,
+        default_size,
+        extra_sizes):
+    files = []
+    result = {}
+    default_file, default_data = get_image(
+        filename_prefix, "%s-%s" % (image_base, default_size))
+    if default_file is None:
+        default_file, default_data = get_image(filename_prefix, image_base)
+    if default_file is None:
+        raise RuntimeError("No image for base %s" % image_base)
+    filename = "%s/%s" % (archive_dir, default_data["filename"])
+    files.append((filename, default_file))
+    result["default"] = default_data
+    result["extra"] = []
+    for extra_size in extra_sizes:
+        filename_base = "%s-%s" % (image_base, extra_size)
+        extra_file, extra_data = get_image(filename_prefix, filename_base)
+        if extra_file is None:
+            continue
+        filename = "%s/%s" % (archive_dir, extra_data["filename"])
+        files.append((filename, extra_file))
+        result["extra"].append(extra_data)
+    return files, result
+
+
 def entry_position_description_factory(pms_vote_template):
     def generator(entry, position_str):
         if not entry["section"].get("ranked", True):
@@ -207,8 +241,6 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     normalized_name = asmmetadata.get_entry_key(entry)
     normalized_section = asmmetadata.normalize_key(section_name)
     position = entry.get('position', 0)
-
-    extra_assets = ""
 
     external_links = ExternalLinks()
     locations = ""
@@ -275,31 +307,21 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         if asmmetadata.is_image(image_file):
             has_media = True
             baseprefix, _ = image_file.split(".")
-            viewfile, postfix = select_smaller_thumbnail(
-                os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
-
-            viewfile_basename = "%s.%s" % (normalized_name, postfix)
-            viewfile_filename = "%s/%s/%s" % (
-                normalized_section, normalized_name, viewfile_basename)
-            add_to_tar(outfile, viewfile_filename, viewfile)
-
-            normal_prefix = asmmetadata.normalize_key(baseprefix)
-            image_filename = "%s.%s" % (normal_prefix, postfix)
+            image_base = 'thumbnails/large/%s' % baseprefix
+            archive_dir = "%s/%s" % (normalized_section, normalized_name)
+            files, images_data = get_images(
+                archive_dir,
+                "asset-",
+                image_base,
+                DEFAULT_IMAGE_SIZE,
+                EXTRA_IMAGE_WIDTHS)
+            for filename, data in files:
+                add_to_tar(outfile, filename, data)
             asset = {
                 "type": "image",
-                "data": {
-                    "default": {
-                        "filename": viewfile_basename,
-                        "size": get_image_size(viewfile),
-                        "checksum": calculate_checksum(viewfile),
-                        "type": "image/%s" % postfix,
-                    }
-                }
+                "data": images_data,
             }
             #locations += "<location type='image'>%s|%s</location>" % (image_filename, escape(name))
-
-            extra_assets += display_asset(
-                "%d/%s/%s/%s" % (year, normalized_section, normalized_name, image_filename), name, viewfile)
 
     webfile = entry.get('webfile')
     if webfile:
@@ -423,25 +445,21 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         has_thumbnail = True
         thumbnails = music_thumbnails
     else:
-        thumbnail_data = get_thumbnail_data(entry, DEFAULT_THUMBNAIL_SIZE)
-        if thumbnail_data is not None:
+        thumbnail_base = asmmetadata.select_thumbnail_base(entry)
+        archive_dir = "%s/%s" % (
+            normalized_section, normalized_name)
+        try:
+            files, thumbnails = get_images(
+                archive_dir,
+                "thumb-",
+                thumbnail_base,
+                DEFAULT_THUMBNAIL_SIZE,
+                EXTRA_THUMBNAIL_WIDTHS)
+            for filename, data in files:
+                add_to_tar(outfile, filename, data)
             has_thumbnail = True
-            thumbnail_bytes, thumbnail_suffix = thumbnail_data
-            thumbnail_basename = "%s-thumbnail-default.%s" % (
-                normalized_name, thumbnail_suffix)
-            thumbnails = {
-                "default": {
-                    "filename": thumbnail_basename,
-                    "size": get_image_size(thumbnail_bytes),
-                    "checksum": calculate_checksum(thumbnail_bytes),
-                    "type": "image/%s" % thumbnail_suffix,
-                }
-            }
-            thumbnail_filename = "%s/%s/%s" % (
-                normalized_section,
-                normalized_name,
-                thumbnail_basename)
-            add_to_tar(outfile, thumbnail_filename, thumbnail_bytes)
+        except Exception:
+            logging.warning("No thumbnail for %s", thumbnail_base)
 
     if not has_thumbnail:
         return
@@ -513,9 +531,6 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         "description": description,
         "external-links": external_links.sections,
     }
-    # print asset_data_str
-    # extra_assets_str = extra_assets.encode("utf-8")
-    # print extra_assets_str
 
 
 outfile = tarfile.TarFile.open(args.outfile, "w:gz")
