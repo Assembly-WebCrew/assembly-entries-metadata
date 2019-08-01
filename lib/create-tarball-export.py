@@ -370,7 +370,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         external_links.add(
             "View on",
             "pouet.net",
-            "http://www.pouet.net/prod.php?which=%s" % pouet)
+            "https://www.pouet.net/prod.php?which=%s" % pouet)
         #locations += "<location type='pouet'>%s</location>" % (pouet)
 
     download = entry.get('download')
@@ -397,7 +397,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
                 external_links.add(
                     "Download",
                     "%s (%d/%d)" % (download_type, i, len(parts)),
-                    "https://files.scene.org/view/%s" % part,
+                    "https://files.scene.org/view%s" % part,
                     "(files.scene.org)")
 
                 # locations += "<location type='sceneorg'>%s|%s (%d/%d)</location>" % (
@@ -407,7 +407,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             external_links.add(
                 "Download",
                 "%s" % download_type,
-                "https://files.scene.org/view/%s" % sceneorg,
+                "https://files.scene.org/view%s" % sceneorg,
                 "(files.scene.org)")
             #locations += "<location type='sceneorg'>%s|%s</location>" % (escape(sceneorg), download_type)
 
@@ -417,7 +417,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         external_links.add(
             "Download",
             "HQ video",
-            "https://files.scene.org/view/%s" % sceneorgvideo,
+            "https://files.scene.org/view%s" % sceneorgvideo,
             "(files.scene.org)")
         #locations += "<location type='sceneorg'>%s|HQ video</location>" % (escape(sceneorgvideo))
     elif mediavideo:
