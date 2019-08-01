@@ -57,7 +57,7 @@ def create_thumbnails_tasks(
     default_jpeg = "%s-%dw.jpeg" % (target_prefix, default_size.x)
     if not os.path.exists(default_jpeg):
         creations.append((original_image, default_jpeg, default_size))
-    default_png = "%s-%dw.jpeg" % (target_prefix, default_size.x)
+    default_png = "%s-%dw.png" % (target_prefix, default_size.x)
     if not os.path.exists(default_png):
         creations.append((original_image, default_png, default_size))
 
