@@ -96,7 +96,7 @@ def main(argv):
             continue
 
         create_thumbnail_calls.extend(
-            archivethumbnails.create_thumbnails(
+            archivethumbnails.create_thumbnails_tasks(
                 target_orig,
                 os.path.join(thumbnail_dir, youtube_id),
                 size_default,
