@@ -75,7 +75,7 @@ for folder_key, values in photographer_paths.items():
                 filename))
         image_file = "%s/%s" % (photo_category, filename)
         print_metadata("author:%s|title:%s|galleriafi:%s|image-file:%s" % (
-                author.encode("utf-8"),
-                title.encode("utf-8"),
-                image_path.encode("utf-8"),
-                image_file.encode("utf-8")))
+                author,
+                title,
+                image_path,
+                image_file))

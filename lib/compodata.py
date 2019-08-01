@@ -60,10 +60,10 @@ def update_entry_preview(
     pms_url = pms_path_generator(pms_root, party)
     entry_url = pms_url("compo/%s/entry/%s/" % (compo_id, entry_id))
 
-    request_data = 'preview_link=%s' % preview_link.encode("utf-8")
+    request_data = 'preview_link=%s' % preview_link
     print("%s/%s" % (full_pms_id, request_data))
 
-    request_data = {'preview_link': preview_link.encode("utf-8")}
+    request_data = {'preview_link': preview_link}
     headers = {'Content-Type': 'text/plain'}
     result = requests.put(
         entry_url,

@@ -263,7 +263,7 @@ def update_youtube_playlists(yt_service, entry_data, sections, privacy):
     for section in entry_data.sections:
         if sections and section["key"] not in sections:
             continue
-        sys.stderr.write("[ %s ]\n" % section['name'].encode("utf-8"))
+        sys.stderr.write("[ %s ]\n" % section['name'])
 
         if 'youtube-playlist' not in section:
             if not has_youtube_entries(section):

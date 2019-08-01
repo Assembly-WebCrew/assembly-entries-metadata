@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
                 outline = u"title:%s|youtube:%s%s|author:AssemblyTV" % (
                     title, video_id, description)
-                print(outline.encode("utf-8"))
+                print(outline)
 
             playlistitems_list_request = yt_service.playlistItems().list_next(
                 playlistitems_list_request, playlistitems_list_response)

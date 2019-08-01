@@ -104,11 +104,11 @@ def handle_entry(
             upload_success = True
             state.failures = 0
         else:
-            sys.stderr.write(("UPLOAD failed %s\n" % youtube_title).encode('utf-8'))
+            sys.stderr.write("UPLOAD failed %s\n" % youtube_title)
             sys.stderr.write("\n".join(outlines))
-            sys.stderr.write(youtube_title.encode('utf-8'))
+            sys.stderr.write(youtube_title)
             sys.stderr.write("\n")
-            sys.stderr.write(description.encode('utf-8'))
+            sys.stderr.write(description)
             sys.stderr.write("\n")
             sys.stderr.write(tags)
             sys.stderr.write("\n")
@@ -147,7 +147,7 @@ def main(argv):
     else:
         call_and_capture_output = call_and_capture_output_real
 
-    metadata = asmmetadata.parse_file(open(args.metadata_file, "rb"))
+    metadata = asmmetadata.parse_file(open(args.metadata_file, "r"))
 
     state = State(
         files_root=files_root,
@@ -159,10 +159,10 @@ def main(argv):
                 call_and_capture_output, sleep_function, privacy, state, entry)
     except:
         asmmetadata.print_metadata(
-            open(args.metadata_file, "wb"), metadata)
+            open(args.metadata_file, "w"), metadata)
         raise
     asmmetadata.print_metadata(
-        open(args.metadata_file, "wb"), metadata)
+        open(args.metadata_file, "w"), metadata)
     if args.dry_run:
         return 1
     return os.EX_OK
