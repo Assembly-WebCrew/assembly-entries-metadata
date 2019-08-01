@@ -1,7 +1,11 @@
+#!/usr/bin/env python3
+
 import argparse
 import asmmetadata
 import asmyoutube
 import compodata
+import logging
+import os
 import sys
 
 parser = argparse.ArgumentParser()
@@ -21,7 +25,7 @@ pms_password = args.pms_password
 pms_party = args.pms_party
 pms_compo = args.pms_compo
 
-metadata_file = open(metadata_file_name, "rb")
+metadata_file = open(metadata_file_name, "r")
 metadata = asmmetadata.parse_file(metadata_file)
 
 pms_url = compodata.pms_path_generator(args.pms_root, pms_party)
@@ -32,11 +36,22 @@ pms_data = compodata.download_compo_data(
 parsed_data = compodata.parse_compo_entries(
     pms_data, force_display_author_name=args.show_author)
 
+all_categories = []
 selected_section = None
 for section in metadata.sections:
-    if section['pms-category'] == unicode(pms_compo):
+    category = section.get('pms-category')
+    if category:
+        all_categories.append(category)
+    if category == pms_compo:
         selected_section = section
         break
+
+if selected_section is None:
+    logging.error(
+        "None of the PMS categories '%s' matches %s",
+        ", ".join(all_categories),
+        pms_compo)
+    sys.exit(os.EX_USAGE)
 
 section_entries = []
 
@@ -76,4 +91,5 @@ for entry in parsed_data:
 
 selected_section['entries'] = section_entries
 
-asmmetadata.print_metadata(sys.stdout, metadata)
+with open(args.metadata_filename, "w") as fp:
+    asmmetadata.print_metadata(fp, metadata)

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import cgi
@@ -384,17 +385,16 @@ def print_metadata(outfile, year_entry_data):
             outfile.write(":author-in-title %s\n" % author_in_title_text)
         if 'youtube-playlist' in section:
             outfile.write(
-                ":youtube-playlist %s\n" % section['youtube-playlist'].encode("utf-8"))
+                ":youtube-playlist %s\n" % section['youtube-playlist'])
         if 'pms-category' in section:
             outfile.write(":pms-category %s\n" % section['pms-category'])
         if 'elaine-category' in section:
             outfile.write(":elaine-category %s\n" % section['elaine-category'])
         if 'description' in section:
             outfile.write(
-                ":description %s\n" % section['description'].encode("utf-8"))
+                ":description %s\n" % section['description'])
         if 'sceneorg' in section:
-            outfile.write(
-                ":sceneorg %s\n" % section['sceneorg'].encode("utf-8"))
+            outfile.write(":sceneorg %s\n" % section['sceneorg'])
         if 'ongoing' in section:
             ongoing_text = "false"
             if section['ongoing'] is True:
@@ -426,12 +426,12 @@ def print_metadata(outfile, year_entry_data):
                     del entry[key]
 
             for key, value in entry.items():
-                entry[key] = escape_value(u"%s" % value)
+                entry[key] = escape_value("%s" % value)
 
             parts = sorted(
-                u"%s:%s" % (key, value) for key, value in entry.items())
-            outline = u"|".join(parts)
-            outfile.write("%s\n" % outline.encode("utf-8"))
+                "%s:%s" % (key, value) for key, value in entry.items())
+            outline = "|".join(parts)
+            outfile.write("%s\n" % outline)
 
         outfile.write("\n")
 
@@ -492,9 +492,9 @@ def get_youtube_info_data(entry):
 
     position = entry.get('position', 0)
 
-    description = u""
+    description = ""
     if 'warning' in entry:
-        description += u"%s\n\n" % entry['warning']
+        description += "%s\n\n" % entry['warning']
 
     position_str = None
 
@@ -514,27 +514,27 @@ def get_youtube_info_data(entry):
             description += "%s %s competition entry" % (party_name, section_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
-                    description += u", %s" % position_str
+                    description += ", %s" % position_str
                 else:
-                    description += u", not qualified to be shown on the big screen"
-            description += u".\n\n"
+                    description += ", not qualified to be shown on the big screen"
+            description += ".\n\n"
         elif "Seminars" in section_name:
-            description += u"%s seminar presentation.\n\n" % party_name
+            description += "%s seminar presentation.\n\n" % party_name
     elif "AssemblyTV" in section_name or "Winter" in section_name:
-        description += u"%s AssemblyTV program.\n\n" % party_name
+        description += "%s AssemblyTV program.\n\n" % party_name
 
     if 'description' in entry:
-        description += u"%s\n\n" % entry['description']
+        description += "%s\n\n" % entry['description']
 
     if 'platform' in entry:
-        description += u"Platform: %s\n" % entry['platform']
+        description += "Platform: %s\n" % entry['platform']
 
     if 'techniques' in entry:
-        description += u"Notes: %s\n" % entry['techniques']
+        description += "Notes: %s\n" % entry['techniques']
 
-    description += u"Title: %s\n" % title
+    description += "Title: %s\n" % title
     if display_author is not None:
-        description += u"Author: %s\n" % display_author
+        description += "Author: %s\n" % display_author
 
     newlined = False
 
@@ -572,7 +572,7 @@ def get_youtube_info_data(entry):
                 i += 1
         else:
             description += u"Download %s: http://www.scene.org/file.php?file=%s\n" % (
-                download_type, urllib.quote_plus(sceneorg.encode("utf-8")))
+                download_type, urllib.quote_plus(sceneorg))
 
     if 'sceneorgvideo' in entry:
         if not newlined:
