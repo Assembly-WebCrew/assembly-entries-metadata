@@ -92,9 +92,6 @@ def main(argv):
         if os.path.islink(target_orig_png):
             os.remove(target_orig_png)
 
-        if os.path.isfile(target_orig) and os.path.isfile(target_orig_png):
-            continue
-
         create_thumbnail_calls.extend(
             archivethumbnails.create_thumbnails_tasks(
                 target_orig,
