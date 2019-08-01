@@ -50,15 +50,16 @@ def create_thumbnail(
         optimize_png(target_file)
 
 
-def create_thumbnails(
+def create_thumbnails_tasks(
         original_image, target_prefix, default_size, extra_sizes):
+    creations = []
     size = get_image_size(original_image)
     default_jpeg = "%s-%dw.jpeg" % (target_prefix, default_size.x)
     if not os.path.exists(default_jpeg):
-        create_thumbnail(original_image, default_jpeg, default_size)
+        creations.append((original_image, default_jpeg, default_size))
     default_png = "%s-%dw.jpeg" % (target_prefix, default_size.x)
     if not os.path.exists(default_png):
-        create_thumbnail(original_image, default_png, default_size)
+        creations.append((original_image, default_png, default_size))
 
     for extra_size in extra_sizes:
         extra_jpeg = "%s-%dw.jpeg" % (target_prefix, extra_size.x)
@@ -71,6 +72,8 @@ def create_thumbnails(
             continue
 
         if not os.path.exists(extra_jpeg):
-            create_thumbnail(original_image, extra_jpeg, extra_size)
+            creations.append((original_image, extra_jpeg, extra_size))
         if not os.path.exists(extra_png):
-            create_thumbnail(original_image, extra_png, extra_size)
+            creations.append((original_image, extra_png, extra_size))
+
+    return creations

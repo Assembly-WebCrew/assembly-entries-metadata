@@ -3,6 +3,7 @@
 import asmmetadata
 import archivethumbnails
 import argparse
+import multiprocessing
 import os
 import os.path
 import sys
@@ -32,6 +33,7 @@ def main(argv):
         extra_sizes.append(
             archivethumbnails.ImageSize(extra_width, extra_height))
 
+    create_thumbnail_calls = []
     entry_data = asmmetadata.parse_file(open(args.datafile))
     for entry in entry_data.entries:
         section = entry["section"]
@@ -48,11 +50,14 @@ def main(argv):
         if not os.path.isdir(os.path.dirname(prefix)):
             os.makedirs(os.path.dirname(prefix))
 
-        archivethumbnails.create_thumbnails(
-            filename,
-            prefix,
-            size_default,
-            extra_sizes)
+        create_thumbnail_calls.extend(
+            archivethumbnails.create_thumbnails_tasks(
+                filename,
+                prefix,
+                size_default,
+                extra_sizes))
+    pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
+    pool.starmap(archivethumbnails.create_thumbnail, create_thumbnail_calls)
 
     return os.EX_OK
 
