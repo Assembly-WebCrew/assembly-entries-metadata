@@ -102,7 +102,9 @@ def main(argv):
                 size_default,
                 extra_sizes))
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
-    pool.starmap(archivethumbnails.create_thumbnail, create_thumbnail_calls)
+    pool.starmap(
+        archivethumbnails.create_thumbnail,
+        reversed(sorted(create_thumbnail_calls)))
     return os.EX_OK
 
 

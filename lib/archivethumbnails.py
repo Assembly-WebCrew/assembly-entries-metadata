@@ -22,9 +22,9 @@ def optimize_png(source):
 
 
 def create_thumbnail(
+        size,
         original_image,
-        target_file,
-        size):
+        target_file):
     if os.path.exists(target_file):
         return
     temporary_resized_fp = tempfile.NamedTemporaryFile(
@@ -72,8 +72,8 @@ def create_thumbnails_tasks(
             continue
 
         if not os.path.exists(extra_jpeg):
-            creations.append((original_image, extra_jpeg, extra_size))
+            creations.append((extra_size, original_image, extra_jpeg))
         if not os.path.exists(extra_png):
-            creations.append((original_image, extra_png, extra_size))
+            creations.append((extra_size, original_image, extra_png))
 
-    return reversed(creations)
+    return creations

@@ -458,8 +458,9 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             for filename, data in files:
                 add_to_tar(outfile, filename, data)
             has_thumbnail = True
-        except Exception:
-            logging.warning("No thumbnail for %s", thumbnail_base)
+        except Exception as e:
+            logging.warning(
+                "No thumbnail for %s: %s", thumbnail_base, e)
 
     if not has_thumbnail:
         return
