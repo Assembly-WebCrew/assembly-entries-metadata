@@ -19,6 +19,10 @@ import urllib
 
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
+DEFAULT_THUMBNAIL_SIZE = "160w"
+EXTRA_THUMBNAIL_WIDTHS = ("%dw" for x in (
+    160 * 1.25, 160 * 1.5, 160 * 2, 160 * 3, 160 * 4))
+
 parser = argparse.ArgumentParser()
 parser.add_argument("files_root", metavar="files-root")
 parser.add_argument(
@@ -93,6 +97,10 @@ def display_asset(path, title, data):
 
 
 def select_smaller_thumbnail(fileprefix):
+    if not os.path.isfile(fileprefix + ".jpeg"):
+        return None, None
+    if not os.path.isfile(fileprefix + ".png"):
+        return None, None
     thumbnail_jpeg = open(fileprefix + ".jpeg", "rb").read()
     thumbnail_png = open(fileprefix + ".png", "rb").read()
 
@@ -142,12 +150,15 @@ def meta_section(section, included_entries, description=''):
     }
 
 
-def get_thumbnail_data(entry):
+def get_thumbnail_data(entry, size):
     thumbnail_base = asmmetadata.select_thumbnail_base(entry)
     thumbnail = None
     if thumbnail_base is not None:
         thumbnail, suffix = select_smaller_thumbnail(
-            os.path.join(FILEROOT, thumbnail_base))
+            os.path.join(FILEROOT, thumbnail_base + "-" + size))
+        if thumbnail is None:
+            thumbnail, suffix = select_smaller_thumbnail(
+                os.path.join(FILEROOT, thumbnail_base))
     else:
         # We don't have any displayable data.
         return None, None
@@ -411,7 +422,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         has_thumbnail = True
         thumbnails = music_thumbnails
     else:
-        thumbnail_data = get_thumbnail_data(entry)
+        thumbnail_data = get_thumbnail_data(entry, DEFAULT_THUMBNAIL_SIZE)
         if thumbnail_data is not None:
             has_thumbnail = True
             thumbnail_bytes, thumbnail_suffix = thumbnail_data

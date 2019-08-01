@@ -58,6 +58,8 @@ def link_to_missing_thumbnail(missing_type, target):
     if not os.path.isfile(missing_path):
         raise RuntimeError(
             "No file for missing file (%s)." % missing_path)
+    if os.path.exists(target) and os.readlink(target) == missing_filename:
+        return
 
     os.symlink(missing_filename, target)
 
