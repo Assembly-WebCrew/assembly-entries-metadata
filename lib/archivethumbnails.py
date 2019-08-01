@@ -76,4 +76,4 @@ def create_thumbnails_tasks(
         if not os.path.exists(extra_png):
             creations.append((original_image, extra_png, extra_size))
 
-    return creations
+    return reversed(creations)
