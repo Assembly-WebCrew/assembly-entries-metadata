@@ -146,6 +146,7 @@ def meta_section(section, included_entries, description=''):
         "name": section["name"],
         "description": section.get("description", ""),
         "is-ranked": section.get('ranked', True),
+        "is-ongoing": section.get('ongoing', False),
         "entries": entry_keys,
     }
 
