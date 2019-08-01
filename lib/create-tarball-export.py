@@ -385,7 +385,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
                 "Download",
                 "%s" % download_type,
                 "https://files.scene.org/view/%s" % sceneorg,
-                "(scene.org)")
+                "(files.scene.org)")
             #locations += "<location type='sceneorg'>%s|%s</location>" % (escape(sceneorg), download_type)
 
     sceneorgvideo = entry.get('sceneorgvideo')
@@ -395,7 +395,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             "Download",
             "HQ video",
             "https://files.scene.org/view/%s" % sceneorgvideo,
-            "(scene.org)")
+            "(files.scene.org)")
         #locations += "<location type='sceneorg'>%s|HQ video</location>" % (escape(sceneorgvideo))
     elif mediavideo:
         external_links.add(
