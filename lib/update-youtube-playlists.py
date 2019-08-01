@@ -117,7 +117,7 @@ def playlist_add_new_items(yt_service, youtube_entries, section):
 
     sorted_entries = sorted(
         section['entries'],
-        lambda x, y: cmp(x.get('position', 999), y.get('position', 999)))
+        key=lambda x: x.get('position', 999))
     missing_entries = []
     for entry in sorted_entries:
         youtube_id = asmmetadata.get_clean_youtube_id(entry)
@@ -192,7 +192,7 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
     modified = False
     # We shouldn't exceed the amount of entries when doing playlist
     # reorderings:
-    for _ in xrange(len(positions)):
+    for _ in range(len(positions)):
         position_changes = {}
         for youtube_entry in youtube_entries:
             video_id = youtube_entry["snippet"]["resourceId"]["videoId"]
