@@ -160,7 +160,7 @@ def get_thumbnail_data(entry, size):
     return thumbnail, suffix
 
 
-def get_image(filename_archive_prefix, image_base):
+def get_image(filename_archive_prefix, image_base, extra_prefix=""):
     viewfile, postfix = select_smaller_thumbnail(
         os.path.join(FILEROOT, image_base))
     if viewfile is None:
@@ -170,7 +170,7 @@ def get_image(filename_archive_prefix, image_base):
     image_filename = os.path.basename(
         "%s%s.%s" % (filename_archive_prefix, base, postfix))
     return viewfile, {
-        "filename": image_filename,
+        "filename": extra_prefix + image_filename,
         "size": get_image_size(viewfile),
         "checksum": calculate_checksum(viewfile),
         "type": "image/%s" % postfix,
@@ -182,13 +182,15 @@ def get_images(
         filename_prefix,
         image_base,
         default_size,
-        extra_sizes):
+        extra_sizes,
+        extra_prefix=""):
     files = []
     result = {}
     default_file, default_data = get_image(
-        filename_prefix, "%s-%s" % (image_base, default_size))
+        filename_prefix, "%s-%s" % (image_base, default_size), extra_prefix)
     if default_file is None:
-        default_file, default_data = get_image(filename_prefix, image_base)
+        default_file, default_data = get_image(
+            filename_prefix, image_base, extra_prefix)
     if default_file is None:
         raise RuntimeError("No image for base %s" % image_base)
     filename = "%s/%s" % (archive_dir, default_data["filename"])
@@ -197,7 +199,8 @@ def get_images(
     result["extra"] = []
     for extra_size in extra_sizes:
         filename_base = "%s-%s" % (image_base, extra_size)
-        extra_file, extra_data = get_image(filename_prefix, filename_base)
+        extra_file, extra_data = get_image(
+            filename_prefix, filename_base, extra_prefix)
         if extra_file is None:
             continue
         filename = "%s/%s" % (archive_dir, extra_data["filename"])
@@ -537,10 +540,11 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 outfile = tarfile.TarFile.open(args.outfile, "w:gz")
 music_thumbnail_files, music_thumbnails = get_images(
     ".",
-    "../../../",
+    "",
     "thumbnails/music-thumbnail",
     DEFAULT_THUMBNAIL_SIZE,
-    EXTRA_THUMBNAIL_WIDTHS)
+    EXTRA_THUMBNAIL_WIDTHS,
+    "../../")
 for filename, data in music_thumbnail_files:
     add_to_tar(outfile, filename, data)
 
