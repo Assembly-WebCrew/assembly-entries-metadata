@@ -94,7 +94,19 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :section Tracked music
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+:ongoing true
+:public false
 
+author:(author hidden until results)|pms-id:asm19/tracked_music/928|title:Metalstorm|youtube:pj1d6h2ag98
+author:(author hidden until results)|pms-id:asm19/tracked_music/933|title:Left Behind|youtube:3dMkrycsDy8
+author:(author hidden until results)|pms-id:asm19/tracked_music/934|title:Matka osoiteavaruuteen|youtube:qDB_RTOEplw
+author:(author hidden until results)|pms-id:asm19/tracked_music/994|title:Bullet Time|youtube:DX6tOU536vY
+author:(author hidden until results)|pms-id:asm19/tracked_music/998|title:Parking Lot In Space|youtube:4WRJKTF_PYk
+author:(author hidden until results)|pms-id:asm19/tracked_music/1028|title:Escape from Desert Planet|youtube:9TODW7vvLAc
+author:(author hidden until results)|pms-id:asm19/tracked_music/1036|title:One Last Time|youtube:TsUQzmDTzGc
+author:(author hidden until results)|pms-id:asm19/tracked_music/1044|title:Dr. Fily's Funky Fireplanet Escape|youtube:7X6cTvj-8J0
+author:(author hidden until results)|pms-id:asm19/tracked_music/1117|title:Fluctuations|youtube:HkrPxEuUCi8
+author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyLKKA
 
 
 :section Listening music
@@ -113,6 +125,27 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm19/fast_music/1142|title:Gas Station
+author:(author hidden until results)|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski
+author:(author hidden until results)|pms-id:asm19/fast_music/1146|title:Fake Start
+author:(author hidden until results)|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland
+author:(author hidden until results)|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE
+author:(author hidden until results)|pms-id:asm19/fast_music/1149|title:Love You Too
+author:(author hidden until results)|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla
+author:(author hidden until results)|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!
+author:(author hidden until results)|pms-id:asm19/fast_music/1152|title:Happy Flutter
+author:(author hidden until results)|pms-id:asm19/fast_music/1153|title:Happy Dayz
+author:(author hidden until results)|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround
+author:(author hidden until results)|pms-id:asm19/fast_music/1155|title:lets b 8bit happy
+author:(author hidden until results)|pms-id:asm19/fast_music/1156|title:Punchdrunk
+author:(author hidden until results)|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen
+author:(author hidden until results)|pms-id:asm19/fast_music/1158|title:Membah
+author:(author hidden until results)|pms-id:asm19/fast_music/1159|title:alert
+author:(author hidden until results)|pms-id:asm19/fast_music/1160|title:I don't even
+author:(author hidden until results)|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM
+author:(author hidden until results)|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster
+author:(author hidden until results)|pms-id:asm19/fast_music/1163|title:OwO Whats this
+author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
 
 
 :section Dance music
@@ -128,14 +161,14 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :pms-category pixeled_graphics
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/954|title:Lunar hope|image-file:pixeled-graphics/3-Lunar_hope.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon|image-file:pixeled-graphics/6-rapu_nosig.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh|image-file:pixeled-graphics/4-gimmeh.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1023|title:Bobby|image-file:pixeled-graphics/2-Bobby_nosig.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat|image-file:pixeled-graphics/7-orientalist_cat_nosig.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter|image-file:pixeled-graphics/5-Scobyhunter_nosig.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1124|title:Preytracing|image-file:pixeled-graphics/8-Preytracing_Nosig.png
-author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1134|title:Ghost|image-file:pixeled-graphics/1-Ghost.png
+author:(author hidden until results)|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
+author:(author hidden until results)|image-file:pixeled-graphics/6-rapu_nosig.png|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon
+author:(author hidden until results)|image-file:pixeled-graphics/4-gimmeh.png|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh
+author:(author hidden until results)|image-file:pixeled-graphics/2-Bobby_nosig.png|pms-id:asm19/pixeled_graphics/1023|title:Bobby
+author:(author hidden until results)|image-file:pixeled-graphics/7-orientalist_cat_nosig.png|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat
+author:(author hidden until results)|image-file:pixeled-graphics/5-Scobyhunter_nosig.png|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter
+author:(author hidden until results)|image-file:pixeled-graphics/8-Preytracing_Nosig.png|pms-id:asm19/pixeled_graphics/1124|title:Preytracing
+author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphics/1134|title:Ghost
 
 
 :section Themed photo
@@ -151,20 +184,20 @@ author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1134|title:Gh
 :description <p>Competitors had 1.5 hours to create an image with "Nuclear Sausage" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara|image-file:fast-graphics/2-Ydinmakkara.png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki|image-file:fast-graphics/5-viimeinen_nakki.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)|image-file:fast-graphics/11-juhannusium-247_(247ju).png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1092|title:Tourist attraction|image-file:fast-graphics/14-tourist_attraction.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki|image-file:fast-graphics/3-radioactive_nakki.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1097|title:Also vegan options|image-file:fast-graphics/9-also_vegan_options.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal|image-file:fast-graphics/7-nuclear_meal.png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1103|title:blastages|image-file:fast-graphics/8-blastages.png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder|image-file:fast-graphics/13-meat_is_murder.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1108|title:Ready for raiding|image-file:fast-graphics/6-ready_for_raiding.png
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party|image-file:fast-graphics/1-atomic_sausage_party.jpg
-author:(author hidden until results)|pms-id:asm19/fast_graphics/1111|title:Get Eaten!|image-file:fast-graphics/4-get_eaten_.png
+author:(author hidden until results)|image-file:fast-graphics/2-Ydinmakkara.png|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara
+author:(author hidden until results)|image-file:fast-graphics/5-viimeinen_nakki.jpg|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki
+author:(author hidden until results)|image-file:fast-graphics/11-juhannusium-247_(247ju).png|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)
+author:(author hidden until results)|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat
+author:(author hidden until results)|image-file:fast-graphics/14-tourist_attraction.jpg|pms-id:asm19/fast_graphics/1092|title:Tourist attraction
+author:(author hidden until results)|image-file:fast-graphics/3-radioactive_nakki.jpg|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki
+author:(author hidden until results)|image-file:fast-graphics/9-also_vegan_options.jpg|pms-id:asm19/fast_graphics/1097|title:Also vegan options
+author:(author hidden until results)|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat
+author:(author hidden until results)|image-file:fast-graphics/7-nuclear_meal.png|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal
+author:(author hidden until results)|image-file:fast-graphics/8-blastages.png|pms-id:asm19/fast_graphics/1103|title:blastages
+author:(author hidden until results)|image-file:fast-graphics/13-meat_is_murder.jpg|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder
+author:(author hidden until results)|image-file:fast-graphics/6-ready_for_raiding.png|pms-id:asm19/fast_graphics/1108|title:Ready for raiding
+author:(author hidden until results)|image-file:fast-graphics/1-atomic_sausage_party.jpg|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party
+author:(author hidden until results)|image-file:fast-graphics/4-get_eaten_.png|pms-id:asm19/fast_graphics/1111|title:Get Eaten!
 
 
 :section Cosplay photoshoot
