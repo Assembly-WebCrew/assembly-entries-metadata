@@ -539,6 +539,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         "external-links": external_links.sections,
     }
 
+
 tmp_outfile = args.outfile + ".tmp"
 outfile = tarfile.TarFile.open(tmp_outfile, "w")
 music_thumbnail_files, music_thumbnails = get_images(
