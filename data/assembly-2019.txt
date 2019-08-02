@@ -92,6 +92,7 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 
 
 :section Tracked music
+:youtube-playlist PLJO4AtxKJiFPZCBWkR0kaIEHGR8PbtwkG
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :ongoing true
@@ -123,29 +124,28 @@ author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilop
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
-:public false
 
-author:(author hidden until results)|pms-id:asm19/fast_music/1142|title:Gas Station
-author:(author hidden until results)|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski
-author:(author hidden until results)|pms-id:asm19/fast_music/1146|title:Fake Start
-author:(author hidden until results)|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland
-author:(author hidden until results)|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE
-author:(author hidden until results)|pms-id:asm19/fast_music/1149|title:Love You Too
-author:(author hidden until results)|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla
-author:(author hidden until results)|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!
-author:(author hidden until results)|pms-id:asm19/fast_music/1152|title:Happy Flutter
-author:(author hidden until results)|pms-id:asm19/fast_music/1153|title:Happy Dayz
-author:(author hidden until results)|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround
-author:(author hidden until results)|pms-id:asm19/fast_music/1155|title:lets b 8bit happy
-author:(author hidden until results)|pms-id:asm19/fast_music/1156|title:Punchdrunk
-author:(author hidden until results)|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen
-author:(author hidden until results)|pms-id:asm19/fast_music/1158|title:Membah
-author:(author hidden until results)|pms-id:asm19/fast_music/1159|title:alert
-author:(author hidden until results)|pms-id:asm19/fast_music/1160|title:I don't even
-author:(author hidden until results)|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM
-author:(author hidden until results)|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster
-author:(author hidden until results)|pms-id:asm19/fast_music/1163|title:OwO Whats this
-author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
+author:(author hidden until results)|pms-id:asm19/fast_music/1142|title:Gas Station|youtube:RKSXxSIeKzQ
+author:(author hidden until results)|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
+author:(author hidden until results)|pms-id:asm19/fast_music/1146|title:Fake Start|youtube:PRbIixvCkfY
+author:(author hidden until results)|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland|youtube:-PBnXP-YUdI
+author:(author hidden until results)|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE|youtube:N1UBRDRnsVk
+author:(author hidden until results)|pms-id:asm19/fast_music/1149|title:Love You Too|youtube:AuQVJmycmvk
+author:(author hidden until results)|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla|youtube:DScgLcDMNP4
+author:(author hidden until results)|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!|youtube:aw3C5FNaNYQ
+author:(author hidden until results)|pms-id:asm19/fast_music/1152|title:Happy Flutter|youtube:DB9f_SHRd1A
+author:(author hidden until results)|pms-id:asm19/fast_music/1153|title:Happy Dayz|youtube:cIM7yGp8NQE
+author:(author hidden until results)|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround|youtube:9_lAZdXeSE8
+author:(author hidden until results)|pms-id:asm19/fast_music/1155|title:lets b 8bit happy|youtube:qRMlqLH_fVE
+author:(author hidden until results)|pms-id:asm19/fast_music/1156|title:Punchdrunk|youtube:dBLV9VWCCVo
+author:(author hidden until results)|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen|youtube:ruEkE2-Ffg0
+author:(author hidden until results)|pms-id:asm19/fast_music/1158|title:Membah|youtube:eExLSNWcQkk
+author:(author hidden until results)|pms-id:asm19/fast_music/1159|title:alert|youtube:gY4aMXG6nuA
+author:(author hidden until results)|pms-id:asm19/fast_music/1160|title:I don't even|youtube:6P706F57p4w
+author:(author hidden until results)|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM|youtube:mogMNS6OgHk
+author:(author hidden until results)|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster|youtube:RyNxfXKWp5E
+author:(author hidden until results)|pms-id:asm19/fast_music/1163|title:OwO Whats this|youtube:X2UoSal2WMk
+author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
 
 
 :section Dance music
@@ -155,6 +155,27 @@ author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
 :ongoing true
 :public false
 
+
+
+:section Graphics
+:pms-category graphics
+:description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:ongoing true
+:public false
+
+author:(author hidden until results)|pms-id:asm19/graphics/966|title:McCall System|image-file:graphics/1-McCall System_nosig.png
+author:(author hidden until results)|pms-id:asm19/graphics/995|title:The Birdkeeper|image-file:graphics/12-The_Birdkeeper.png
+author:(author hidden until results)|pms-id:asm19/graphics/1001|title:The King is Dead|image-file:graphics/4-thekingisdead_nosig.jpg
+author:(author hidden until results)|pms-id:asm19/graphics/1006|title:Karppi 2.0|image-file:graphics/2-karppi-2-0nosig.jpg
+author:(author hidden until results)|pms-id:asm19/graphics/1008|title:Worshippers of the Great Giant|image-file:graphics/7-Worshippers_of_the_Great_Giant_nosig.png
+author:(author hidden until results)|pms-id:asm19/graphics/1015|title:Troll|image-file:graphics/6-Troll_nosig.png
+author:(author hidden until results)|pms-id:asm19/graphics/1032|title:Golden Cable Hunters|image-file:graphics/8-Golden_Cable_Hunters_nosig.png
+author:(author hidden until results)|pms-id:asm19/graphics/1047|title:Roaring Thunder|image-file:graphics/9-RoaringThunder_nosig.png
+author:(author hidden until results)|pms-id:asm19/graphics/1049|title:Pesky intruders|image-file:graphics/5-Pesky_intrudersnosig.jpg
+author:(author hidden until results)|pms-id:asm19/graphics/1050|title:Terror from the deep|image-file:graphics/11-Terror_from_the_deep_nosig.jpg
+author:(author hidden until results)|pms-id:asm19/graphics/1055|title:Disney artist on lunchbreak (2049, Colorized)|image-file:graphics/13-disney_artist_on_lunchbreak_2049_colorized.png
+author:(author hidden until results)|pms-id:asm19/graphics/1066|title:Sinister Rituals|image-file:graphics/3-sinister-rituals-nosig.jpg
+author:(author hidden until results)|pms-id:asm19/graphics/1135|title:Babyfood Express|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg
 
 
 :section Pixeled graphics
@@ -177,6 +198,18 @@ author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm19/themed_photo/992|title:RTX On|image-file:themed-photo/7-RTX-On_nosig.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn|image-file:themed-photo/1-dystopian_dawn.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1014|title:Behind the curtain|image-file:themed-photo/2-BehindTheCurtain-nosig.png
+author:(author hidden until results)|pms-id:asm19/themed_photo/1033|title:Wait for me! I have a photo|image-file:themed-photo/9-Wait_for_me!_I_have_a_photo.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1053|title:A New Hope|image-file:themed-photo/3-ANewHope - final jpg.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1064|title:Real-time raytracing III|image-file:themed-photo/10-Real-time_raytracing_III.png
+author:(author hidden until results)|pms-id:asm19/themed_photo/1070|title:In the midst of the shadows|image-file:themed-photo/12-in_the_midst_of_the_shadows_nosig.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1074|title:Pinky|image-file:themed-photo/6-Pinky_alt_nosig.png
+author:(author hidden until results)|pms-id:asm19/themed_photo/1078|title:Evening snack|image-file:themed-photo/5-evening_snack.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1084|title:Shape Of You|image-file:themed-photo/11-ShapeOfYou.jpg
+author:(author hidden until results)|pms-id:asm19/themed_photo/1130|title:mikkää ei mee kohtuuella|image-file:themed-photo/8-ei_mee_kohtuuella_nosig.png
+author:(author hidden until results)|pms-id:asm19/themed_photo/1143|title:mf orbeez on a plane!|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg
 
 
 :section Fast graphics

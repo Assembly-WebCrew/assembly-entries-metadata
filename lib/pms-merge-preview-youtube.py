@@ -18,7 +18,7 @@ pms_data = compodata.download_compo_data(
     pms_url, args.pms_login, args.pms_password, args.pms_party, args.pms_compo)
 pms_entries_data = compodata.parse_compo_entries(pms_data)
 
-metadata_fp = open(args.metadata_file, "rb")
+metadata_fp = open(args.metadata_file, "r")
 metadata = asmmetadata.parse_file(metadata_fp)
 
 for pms_entry in pms_entries_data:
@@ -51,4 +51,4 @@ for pms_entry in pms_entries_data:
     youtube_id = youtube_match.group(1)
     updatable_entry["youtube"] = youtube_id
 
-asmmetadata.print_metadata(open(args.metadata_file, "wb"), metadata)
+asmmetadata.print_metadata(open(args.metadata_file, "w"), metadata)
