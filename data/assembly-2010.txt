@@ -390,7 +390,7 @@ author:AssemblyTV|title:Kitarasankari.net nykytilanne|youtube:GKcfBJN_ECs
 
 :section Photos summer
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2010/
+:galleriafi /kuvat/Assembly Summer 2010/
 
 author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2010/Taneli Kaivola/20100805_DSTL7001.jpg|title:20100805_DSTL7001.jpg
 author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2010/Taneli Kaivola/20100805_DSTL7002.jpg|title:20100805_DSTL7002.jpg
@@ -861,7 +861,7 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2010/Tuomas Siitonen/IM
 
 :section Photos winter
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2010/
+:galleriafi /kuvat/Assembly Winter 2010/
 
 author:Paula Terho|galleriafi:/kuvat/Assembly Winter 2010/Paula Terho/2-DSC-0006-Edit copy.jpg|title:2-DSC-0006-Edit copy.jpg
 author:Paula Terho|galleriafi:/kuvat/Assembly Winter 2010/Paula Terho/2-DSC-0011-Edit copy.jpg|title:2-DSC-0011-Edit copy.jpg

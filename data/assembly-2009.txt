@@ -375,7 +375,7 @@ author:Maria Candia|guid:http://elaine.assembly.org/programs/890|media:/vod/2009
 
 :section Photos summer
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2009/
+:galleriafi /kuvat/Assembly Summer 2009/
 
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0837.jpg|title:IMG_0837.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0839.jpg|title:IMG_0839.jpg
@@ -963,7 +963,7 @@ author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8244_m
 
 :section Photos winter
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2009/
+:galleriafi /kuvat/Assembly Winter 2009/
 
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0143.jpg|title:ASMW09-0143.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0158.jpg|title:ASMW09-0158.jpg

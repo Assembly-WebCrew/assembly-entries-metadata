@@ -385,3 +385,11 @@ author:AssemblyTV|description:We interviewed CS:GO team myRevenge's manager Chri
 author:AssemblyTV|description:Haastattelimme Dota2-pelaaja Benjamin 'NotAHax' Läärää ennen semifinaalipelejä.|title:ASSEMBLY Summer 2014: Dota2-pelaaja NotAHaxin haastattelu|youtube:xLOStK4csdg
 author:AssemblyTV|description:Kävimme haastattelemassa Kalle 'Trixi' Saarista Logitech G Dota2 -turnauksen finaalipelin jälkeen.|title:ASSEMBLY Summer 2014: Haastattelussa Dota2-pelaaja Trixi|youtube:VYr8TSPTNf4
 
+
+:section Photos summer
+:ranked false
+:galleriafi /kuvat/Assembly Summer 2014/
+
+:section Photos winter
+:ranked false
+:galleriafi /kuvat/Assembly Winter 2014/

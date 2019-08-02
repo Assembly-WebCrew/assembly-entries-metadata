@@ -392,3 +392,10 @@ author:AssemblyTV|title:ASUS ROG CS:GO, Group decider, Platinium vs Conquer Gami
 author:AssemblyTV|title:Assembly Winter Overwatch, Skitlite vs Ninjas In Pyjamas|youtube:5DXre-nGXaM
 author:AssemblyTV|title:Assembly Winter Overwatch, Ence eSports vs Helsinki Reds|youtube:aGMROO8rimU
 
+:section Photos summer
+:ranked false
+:galleriafi /kuvat/Assembly Summer 2017/
+
+:section Photos winter
+:ranked false
+:galleriafi /kuvat/Assembly Winter 2017/

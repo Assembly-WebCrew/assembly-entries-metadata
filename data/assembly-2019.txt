@@ -75,18 +75,18 @@ author:Void|pms-id:asm19/oldskool/1132|title:Catro
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
 
-author:Ihmisroboidit|pms-id:asm19/short_film/950|title:Kapina
-author:Pistoke|pms-id:asm19/short_film/959|title:Ten Years
-author:Fixxelious|pms-id:asm19/short_film/961|title:The Frame
-author:NinjaBaka|pms-id:asm19/short_film/969|title:Leaps
-author:tAAt 2019|pms-id:asm19/short_film/982|title:Neon Heartburn - Värinärästys
-author:Keuhkovammaistenliitto|pms-id:asm19/short_film/991|title:Seitto
-author:Mentally Deranged|pms-id:asm19/short_film/1013|title:Rocketman
-author:Mergente & The Meemihopot|pms-id:asm19/short_film/1056|title:The Heist
-author:HBC|pms-id:asm19/short_film/1057|title:HBC-00018: A Bus Ride
-author:SBA|pms-id:asm19/short_film/1082|title:God's Sake
-author:PuudiPai|pms-id:asm19/short_film/1131|title:Last Assembly I Asked You
-author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon
+author:Ihmisroboidit|pms-id:asm19/short_film/950|title:Kapina|youtube:UEmrrpqDUfc
+author:Pistoke|pms-id:asm19/short_film/959|title:Ten Years|youtube:_Q-PHXAOQww
+author:Fixxelious|pms-id:asm19/short_film/961|title:The Frame|youtube:xglvlYHKmIE
+author:NinjaBaka|pms-id:asm19/short_film/969|title:Leaps|youtube:7xnXadiFq1g
+author:tAAt 2019|pms-id:asm19/short_film/982|title:Neon Heartburn - Värinärästys|youtube:a5ALNN1q924
+author:Keuhkovammaistenliitto|pms-id:asm19/short_film/991|title:Seitto|youtube:8ffkI3cxAxw
+author:Mentally Deranged|pms-id:asm19/short_film/1013|title:Rocketman|youtube:7Svi22aDX-w
+author:Mergente & The Meemihopot|pms-id:asm19/short_film/1056|title:The Heist|youtube:18QVQxBcOg8
+author:HBC|pms-id:asm19/short_film/1057|title:HBC-00018: A Bus Ride|youtube:D1e7xKD91RQ
+author:SBA|pms-id:asm19/short_film/1082|title:God's Sake|youtube:vPq6cxEvqEM
+author:PuudiPai|pms-id:asm19/short_film/1131|title:Last Assembly I Asked You|youtube:5P4j-6b93qM
+author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon|youtube:a1LzjsSo_t8
 
 
 :section Gamedev

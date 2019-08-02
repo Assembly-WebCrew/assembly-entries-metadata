@@ -361,7 +361,7 @@ author:FIGMA ry|description:FIGMA ry julkisti kolme vuotta sitten suomalaisen pe
 
 :section Photos winter
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2012/
+:galleriafi /kuvat/Assembly Winter 2012/
 
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0322.jpg|title:IMG_0322.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0332.jpg|title:IMG_0332.jpg
@@ -602,4 +602,4 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 
 :section Photos summer
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2012/
+:galleriafi /Assembly Summer 2012/

@@ -336,9 +336,10 @@ author:AssemblyTV|description:Henri ja Susanna kohtasivat barbaarien kolmiottelu
 author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|title:Assembly Harlem Shake|youtube:WRIPFiHYxGA
 
 
+:section Photos summer
+:ranked false
+:galleriafi /kuvat/Assembly Summer 2013/
+
 :section Photos winter
 :ranked false
-:public false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2013/
-
-
+:galleriafi /kuvat/Assembly Winter 2013/

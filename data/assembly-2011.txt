@@ -291,7 +291,7 @@ author:AssemblyTV|title:Starcraft vai Warcraft?|youtube:dL_t6G5cks0
 
 :section Photos summer
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Summer+2011/
+:galleriafi /kuvat/Assembly Summer 2011/
 
 author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2011/Markus Saarinen/IMG_3521.jpg|title:IMG_3521.jpg
 author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2011/Markus Saarinen/IMG_3524.jpg|title:IMG_3524.jpg
@@ -1090,7 +1090,7 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2011/Tuula Ylikorpi/7515
 
 :section Photos winter
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+Winter+2011/
+:galleriafi /kuvat/Assembly Winter 2011/
 
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2011/Tuomas Siitonen/IMG_1700-Edit copy.jpg|title:IMG_1700-Edit copy.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2011/Tuomas Siitonen/IMG_1702-Edit copy.jpg|title:IMG_1702-Edit copy.jpg

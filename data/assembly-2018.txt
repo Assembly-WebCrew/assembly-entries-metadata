@@ -492,3 +492,11 @@ author:AssemblyTV|title:Casual Dota2 Final, Womberers vs. Helsinki REDS|youtube:
 author:AssemblyTV|title:Sunnuntain purkutimelapse|youtube:Jl4kC7HGot4
 author:AssemblyTV|title:Overwatch: OMEN by HP Assembly Wintereillä 2018|youtube:xlNQC5pxwQc
 author:AssemblyTV|description:Fiiliksiä Assembly Wintereiltä 2018!|title:Assembly Winter 2018|youtube:t9EdculdylY
+
+:section Photos summer
+:ranked false
+:galleriafi /kuvat/Assembly Summer 2018/
+
+:section Photos winter
+:ranked false
+:galleriafi /kuvat/Assembly Winter 2018/

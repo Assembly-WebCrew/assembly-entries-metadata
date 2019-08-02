@@ -361,4 +361,10 @@ author:AssemblyTV|guid:2061|media:/vod/2015/Games/2061_Demo_compostudio_1.mp4|ti
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2015.</p>
 :public false
 
+:section Photos summer
+:ranked false
+:galleriafi /kuvat/Assembly Summer 2015/
 
+:section Photos winter
+:ranked false
+:galleriafi /kuvat/Assembly Winter 2015/

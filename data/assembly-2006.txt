@@ -393,7 +393,7 @@ author:Joakim Stenberg|title:AMD
 
 :section Photos
 :ranked false
-:galleriafi http://assembly.galleria.fi/kuvat/Assembly+2006/
+:galleriafi /kuvat/Assembly 2006/
 
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/001.JPG|title:001.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/001_filtered.jpg|title:001_filtered.jpg
