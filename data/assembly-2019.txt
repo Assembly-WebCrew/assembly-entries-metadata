@@ -127,7 +127,6 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :section Pixeled graphics
 :pms-category pixeled_graphics
 :ongoing true
-:public false
 
 author:(author hidden until results)|pms-id:asm19/pixeled_graphics/954|title:Lunar hope|image-file:pixeled-graphics/3-Lunar_hope.png
 author:(author hidden until results)|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon|image-file:pixeled-graphics/6-rapu_nosig.png

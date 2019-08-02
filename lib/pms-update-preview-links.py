@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import asmmetadata
 import compodata
@@ -17,7 +19,7 @@ pms_data = compodata.download_compo_data(
     pms_url, args.pms_login, args.pms_password, args.pms_party, args.pms_compo)
 pms_entries_data = compodata.parse_compo_entries(pms_data)
 
-metadata_fp = open(args.metadata_file, "rb")
+metadata_fp = open(args.metadata_file, "r")
 metadata = asmmetadata.parse_file(metadata_fp)
 
 for pms_entry in pms_entries_data:
