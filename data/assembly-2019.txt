@@ -115,6 +115,20 @@ author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilop
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka
+author:(author hidden until results)|pms-id:asm19/listening_music/937|title:Whip and Iron
+author:(author hidden until results)|pms-id:asm19/listening_music/947|title:Vector Fields
+author:(author hidden until results)|pms-id:asm19/listening_music/968|title:Affliction
+author:(author hidden until results)|pms-id:asm19/listening_music/986|title:Late Night Highway
+author:(author hidden until results)|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)
+author:(author hidden until results)|pms-id:asm19/listening_music/1009|title:Dogfighter
+author:(author hidden until results)|pms-id:asm19/listening_music/1024|title:Chipstorm
+author:(author hidden until results)|pms-id:asm19/listening_music/1038|title:Fire Rain
+author:(author hidden until results)|pms-id:asm19/listening_music/1060|title:Irjala takaisin
+author:(author hidden until results)|pms-id:asm19/listening_music/1065|title:Gunpowder
+author:(author hidden until results)|pms-id:asm19/listening_music/1083|title:Funkmonstrotron
+author:(author hidden until results)|pms-id:asm19/listening_music/1088|title:Dark Middleage
+author:(author hidden until results)|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive
 
 
 :section Fast music
