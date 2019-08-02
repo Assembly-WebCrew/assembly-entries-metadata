@@ -49,11 +49,13 @@
 :public false
 
 
+
 :section One scene demo
 :pms-category one_scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 :ongoing true
 :public false
+
 
 
 :section Short film
@@ -94,6 +96,7 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 
 
+
 :section Listening music
 :youtube-playlist PLJO4AtxKJiFO6rueHqZXQFwLBwtD1eOE0
 :pms-category listening_music
@@ -126,6 +129,14 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 :ongoing true
 :public false
 
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/954|title:Lunar hope|image-file:pixeled-graphics/3-Lunar_hope.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon|image-file:pixeled-graphics/6-rapu_nosig.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh|image-file:pixeled-graphics/4-gimmeh.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1023|title:Bobby|image-file:pixeled-graphics/2-Bobby_nosig.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat|image-file:pixeled-graphics/7-orientalist_cat_nosig.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter|image-file:pixeled-graphics/5-Scobyhunter_nosig.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1124|title:Preytracing|image-file:pixeled-graphics/8-Preytracing_Nosig.png
+author:(author hidden until results)|pms-id:asm19/pixeled_graphics/1134|title:Ghost|image-file:pixeled-graphics/1-Ghost.png
 
 
 :section Themed photo
@@ -138,10 +149,23 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä
 
 :section Fast graphics
 :pms-category fast_graphics
-:description <p>Competitors had 1.5 hours to create an image with "ZZZZ" theme.</p>
+:description <p>Competitors had 1.5 hours to create an image with "Nuclear Sausage" theme.</p>
 :ongoing true
-:public false
 
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara|image-file:fast-graphics/2-Ydinmakkara.png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki|image-file:fast-graphics/5-viimeinen_nakki.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)|image-file:fast-graphics/11-juhannusium-247_(247ju).png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1092|title:Tourist attraction|image-file:fast-graphics/14-tourist_attraction.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki|image-file:fast-graphics/3-radioactive_nakki.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1097|title:Also vegan options|image-file:fast-graphics/9-also_vegan_options.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal|image-file:fast-graphics/7-nuclear_meal.png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1103|title:blastages|image-file:fast-graphics/8-blastages.png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder|image-file:fast-graphics/13-meat_is_murder.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1108|title:Ready for raiding|image-file:fast-graphics/6-ready_for_raiding.png
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party|image-file:fast-graphics/1-atomic_sausage_party.jpg
+author:(author hidden until results)|pms-id:asm19/fast_graphics/1111|title:Get Eaten!|image-file:fast-graphics/4-get_eaten_.png
 
 
 :section Cosplay photoshoot
@@ -160,32 +184,34 @@ author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photosh
 :manage-youtube-descriptions false
 
 
+
 :section Seminars
 :ranked false
 :youtube-playlist PLJO4AtxKJiFNWCQF4XT-SjjksGybXIfUI
 :manage-youtube-descriptions false
 
-title:Future visions for gaming with 5G|youtube:vnq0C2tQBQw|description:You already stream movies, shows and music - with 5G you will also start streaming games. Hatch is the cloud gaming service built for the always on, always connected 5G world, delivering rich, full-featured games to mobile devices with no downloads, no in-game purchases and no limits. In this presentation we will dive into the future of gaming and the implications of cloud gaming on the gaming industry.</p><p>Presenter: Vesa Jutila (Hatch)|author:Vesa Jutila
-title:Demoscene - the Art of Doing|youtube:v3tiuYxzQmQ|description:Demosceners of Finland and Germany (soon joined by initiatives in other countries) have recently launched the “Art of Coding” campaign to inscribe the Demoscene on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as a digital and social practice, which includes many core elements of the digital world. Tobi ‘Melkor’ Kopka will first give an introduction to this campaign and then be joined by Finnish sceners on stage to answer your questions, welcoming everybody to discuss the chances, challenges and opportunities to join and support the initiative.|author:Tobias Kopka
-title:Iron Danger - game development Q&A|youtube:32ZOy0opAQs|description:Iron Danger is upcoming tactical RPG with innovative time manipulation mechanics. The talk is mostly Q&A focused session about sharing development experiences in developing game with some unique game mechanics in a startup environment.</p><p>Presenter: Heikki-Pekka Noronen (Action Squad Studio)|author:Heikki-Pekka Noronen
-title:The UX of Augmented Reality|youtube:d6O3dXyAqqM|description:Augmented Reality gives whole new design challenges. In this talk I would like to show and tell about our design experiences in ARblox, and argue that traditional game design methods and assumptions are lacking when developing for new technology.</p><p>Presenter: Jeppe Kilberg (ARBlox)</p>|author:Jeppe Kilberg
-title:Design Culture in the games industry: The what, the why, the how|youtube:qfcNcKuddEc|description:A studios success starts with the mindset and culture of the people within it, it shapes our behaviour and influences our ways of working profoundly. But how can we measure and define, grow and nurture our respective studio culture and how is design a major part of it? We will talk about the fundamentals of design culture, why it is important and how you can help nurture it with these concrete tools and processes that will help remove friction in the day to day work as well as improve the products your are shipping.|author:Jasmin Dahncke
+author:Vesa Jutila|description:You already stream movies, shows and music - with 5G you will also start streaming games. Hatch is the cloud gaming service built for the always on, always connected 5G world, delivering rich, full-featured games to mobile devices with no downloads, no in-game purchases and no limits. In this presentation we will dive into the future of gaming and the implications of cloud gaming on the gaming industry.</p><p>Presenter: Vesa Jutila (Hatch)|title:Future visions for gaming with 5G|youtube:vnq0C2tQBQw
+author:Tobias Kopka|description:Demosceners of Finland and Germany (soon joined by initiatives in other countries) have recently launched the “Art of Coding” campaign to inscribe the Demoscene on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as a digital and social practice, which includes many core elements of the digital world. Tobi ‘Melkor’ Kopka will first give an introduction to this campaign and then be joined by Finnish sceners on stage to answer your questions, welcoming everybody to discuss the chances, challenges and opportunities to join and support the initiative.|title:Demoscene - the Art of Doing|youtube:v3tiuYxzQmQ
+author:Heikki-Pekka Noronen|description:Iron Danger is upcoming tactical RPG with innovative time manipulation mechanics. The talk is mostly Q&A focused session about sharing development experiences in developing game with some unique game mechanics in a startup environment.</p><p>Presenter: Heikki-Pekka Noronen (Action Squad Studio)|title:Iron Danger - game development Q&A|youtube:32ZOy0opAQs
+author:Jeppe Kilberg|description:Augmented Reality gives whole new design challenges. In this talk I would like to show and tell about our design experiences in ARblox, and argue that traditional game design methods and assumptions are lacking when developing for new technology.</p><p>Presenter: Jeppe Kilberg (ARBlox)</p>|title:The UX of Augmented Reality|youtube:d6O3dXyAqqM
+author:Jasmin Dahncke|description:A studios success starts with the mindset and culture of the people within it, it shapes our behaviour and influences our ways of working profoundly. But how can we measure and define, grow and nurture our respective studio culture and how is design a major part of it? We will talk about the fundamentals of design culture, why it is important and how you can help nurture it with these concrete tools and processes that will help remove friction in the day to day work as well as improve the products your are shipping.|title:Design Culture in the games industry: The what, the why, the how|youtube:qfcNcKuddEc
+
 
 :section AssemblyTV
 :ranked false
 :author-in-title false
 :elaine-category 2019 AssemblyTV
-:manage-youtube-descriptions false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 :public false
+:manage-youtube-descriptions false
 
 
 
 :section eSports
 :ranked false
 :author-in-title false
-:manage-youtube-descriptions false
 :youtube-playlist PLJO4AtxKJiFM8BCeSxJlOiGFCUWPuzAfb
+:manage-youtube-descriptions false
 
 author:AssemblyTV|description:ASUS ROG brings StarCraft II to Helsinki once more! Announcing the ASUS ROG Summer 2019 SC2 Tournament, taking place at Assembly Summer on August 1-3, 2019. Check out the details at http://asusrogtournament.com.|title:StarCraft II Returns to Helsinki - ASUS ROG Summer 2019|youtube:QdXkYBAkauo
 
@@ -193,9 +219,9 @@ author:AssemblyTV|description:ASUS ROG brings StarCraft II to Helsinki once more
 :section Winter
 :ranked false
 :author-in-title false
-:manage-youtube-descriptions false
 :youtube-playlist PLJO4AtxKJiFMUiaVn8Mk0KXzuIXVmoJN9
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created in Assembly Winter 2019.</p>
+:manage-youtube-descriptions false
 
 author:AssemblyTV|description:Lipunmyynti on auki!</p><p>Lippukauppa: https://tickets.assembly.org/MoyaWeb</p><p>Some:</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Discord: https://discord.gg/WD4rRUx</p><p>Nettisivu: https://www.assembly.org/winter19<br/>Community: https://community.assembly.org/"|title:Ticket sales are open!|youtube:YwV5opZjT3I
 author:AssemblyTV|description:The official Assembly Winter 2019 aftermovie is here! 💥 Thank you all for making it so epic! Can you spot yourself or your friend in the video? 🔎 Comment below!</p><p>Next up is Assembly Summer 2019 on 1.-4.8.2019, we'll hope to see you there!</p><p>Follow us on social media! ⬇️</p><p>Facebook: https://www.facebook.com/assemblyparty/<br/>Twitter: @assemblyparty<br/>Instagram: @assemblyparty<br/>Discord: https://discord.gg/WD4rRUx</p><p>Website: https://www.assembly.org/winter19<br/>Community: https://community.assembly.org/|title:Assembly Winter 2019 - Official Aftermovie|youtube:Ugj4AvTlg28
