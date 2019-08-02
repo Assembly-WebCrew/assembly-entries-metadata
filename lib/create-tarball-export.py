@@ -471,65 +471,11 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if not has_thumbnail:
         return
 
-    ranking = 'ranking="%d"' % position
-    if position == 0:
-        ranking = ''
-
-    description_non_unicode = description
-
     tags = set()
     entry_tags = entry.get('tags')
     if entry_tags:
         tags.update(entry_tags.split(" "))
 
-#     if entry.get('use-parent-thumbnail', False) is False:
-#         thumbnail_asset = """
-#   <asset path="%(year)s/%(normalizedsection)s/%(normalizedname)s/thumbnail">
-#     <edition parameters="lang: workflow:public"
-#          title=%(title)s
-#          tags="hide-search"
-#          created="%(current-time)s"
-#          modified="%(current-time)s"><![CDATA[%(data)s
-# ]]></edition>
-#   </asset>
-# """ % {'year': year,
-#        'normalizedsection': normalized_section,
-#        'normalizedname': normalized_name,
-#        'data': base64.encodestring(thumbnail_data),
-#        'title': quoteattr(title),
-#        'current-time': CURRENT_TIME,
-#        }
-#     else:
-#         thumbnail_asset = ''
-
-#     asset_data = """
-#   <externalasset path="%(year)s/%(normalizedsection)s/%(normalizedname)s">
-#     <edition parameters="lang: workflow:public"
-#          title=%(title)s
-#          tags=%(tags)s
-#          created="%(current-time)s"
-#          modified="%(current-time)s">
-#       <mediagalleryadditionalinfo
-#           author=%(author)s
-#           description=%(description)s
-#           %(ranking)s></mediagalleryadditionalinfo>
-#       %(locations)s
-#     </edition>
-#   </externalasset>
-# %(thumbnail)s
-# """ % {'year': year,
-#        'normalizedsection': normalized_section,
-#        'normalizedname': normalized_name,
-#        'title': quoteattr(title),
-#        'author': quoteattr(author),
-#        'ranking': ranking,
-#        'thumbnail': thumbnail_asset,
-#        'locations': locations,
-#        'description': quoteattr(description_non_unicode),
-#        'current-time': CURRENT_TIME,
-#        'tags': quoteattr(" ".join(tags)),
-#        }
-#     asset_data_str = asset_data.encode("utf-8")
     return "%s/%s/meta.json" % (normalized_section, normalized_name), {
         "title": title,
         "author": author,

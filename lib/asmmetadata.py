@@ -443,6 +443,16 @@ def sort_entries(entries):
         key=lambda x: x.get('position', 999))
 
 
+def get_galleriafi_path(entry):
+    pass
+
+
+def get_galleriafi_filename(galleriafi_path):
+    path_parts = galleriafi_path.split("/")
+    image_filename = "%s-%s" % tuple(path_parts[-2:])
+    return image_filename
+
+
 def select_thumbnail_base(entry):
     youtube_id = get_clean_youtube_id(entry)
     if youtube_id:
@@ -450,8 +460,8 @@ def select_thumbnail_base(entry):
     if 'dtv' in entry:
         demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
         return 'dtv-thumbnails/%s' % demoscenetv_thumb
-    if 'webfile' in entry or 'image-file' in entry or 'galleriafi' in entry:
-        filename = entry.get('webfile') or entry.get('image-file')
+    if 'webfile' in entry or 'image-file' in entry:
+        filename = entry.get('webfile') or entry.get('image-file') or entry.get('galleriafi')
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
         baseprefix, _ = filename.split(".")

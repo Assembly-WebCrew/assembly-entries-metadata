@@ -36,13 +36,13 @@ def main(argv):
     create_thumbnail_calls = []
     entry_data = asmmetadata.parse_file(open(args.datafile))
     for entry in entry_data.entries:
-        section = entry["section"]
-        # XXX some photos are missing
-        if 'galleriafi' in entry:
-            continue
         if not ('webfile' in entry or 'image-file' in entry or 'galleriafi' in entry):
             continue
         filename = entry.get('webfile') or entry.get('image-file')
+        if entry.get("galleriafi"):
+            filename = "%s/%s" % (
+                asmmetadata.normalize_key(entry['section']['name']),
+                asmmetadata.get_galleriafi_filename(entry.get("galleriafi")))
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (
                 asmmetadata.normalize_key(entry['section']['name']),

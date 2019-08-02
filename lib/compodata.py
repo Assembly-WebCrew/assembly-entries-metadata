@@ -56,7 +56,7 @@ def parse_compo_entries(entries, force_display_author_name=False):
 
 
 def update_entry_preview(
-    pms_root, username, password, full_pms_id, preview_link):
+        pms_root, username, password, full_pms_id, preview_link):
 
     party, compo_id, entry_id = full_pms_id.split("/")
     pms_url = pms_path_generator(pms_root, party)
