@@ -38,8 +38,12 @@
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
-:public false
 
+author:Code: Shiera & fractalpixel, Music: Shiera|pms-id:asm19/real_wild/942|title:KeyScreen|youtube:PdSLkUps5-8
+author:Dekadence|pms-id:asm19/real_wild/971|title:It's More Fun To Consume|youtube:vpEL7tsNsBQ
+author:KoomaDot|pms-id:asm19/real_wild/999|title:Attempt7|youtube:MA3w3S3dEO0
+author:Vanha Mediakunta|pms-id:asm19/real_wild/1037|title:Edeskäypä|youtube:dJA-Yx5M_pw
+author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|pms-id:asm19/real_wild/1176|title:Hacklab.fi mainos|youtube:ughpeSx7u64
 
 
 :section Oldskool demo
@@ -49,6 +53,12 @@
 :ongoing true
 :public false
 
+author:pasi toska|pms-id:asm19/oldskool/940|title:wobbly celebration
+author:Rustbloom|pms-id:asm19/oldskool/953|title:PYO PYO
+author:RBBS / KBOL|pms-id:asm19/oldskool/1041|title:Jatkopistorasiat
+author:Extream|pms-id:asm19/oldskool/1045|title:Assum.
+author:ADAPT feat. TRACTION|pms-id:asm19/oldskool/1128|title:IN THE 90's
+author:Void|pms-id:asm19/oldskool/1132|title:Catro
 
 
 :section One scene demo
@@ -64,8 +74,19 @@
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
-:public false
 
+author:Ihmisroboidit|pms-id:asm19/short_film/950|title:Kapina
+author:Pistoke|pms-id:asm19/short_film/959|title:Ten Years
+author:Fixxelious|pms-id:asm19/short_film/961|title:The Frame
+author:NinjaBaka|pms-id:asm19/short_film/969|title:Leaps
+author:tAAt 2019|pms-id:asm19/short_film/982|title:Neon Heartburn - Värinärästys
+author:Keuhkovammaistenliitto|pms-id:asm19/short_film/991|title:Seitto
+author:Mentally Deranged|pms-id:asm19/short_film/1013|title:Rocketman
+author:Mergente & The Meemihopot|pms-id:asm19/short_film/1056|title:The Heist
+author:HBC|pms-id:asm19/short_film/1057|title:HBC-00018: A Bus Ride
+author:SBA|pms-id:asm19/short_film/1082|title:God's Sake
+author:PuudiPai|pms-id:asm19/short_film/1131|title:Last Assembly I Asked You
+author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon
 
 
 :section Gamedev
@@ -165,7 +186,7 @@ author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
-:public-after 2019-08-03 00:45 EEST
+:public-after 2019-08-03 00:45+0300
 
 author:(author hidden until results)|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
 author:(author hidden until results)|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
