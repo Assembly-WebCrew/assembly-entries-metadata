@@ -13,6 +13,7 @@ import logging
 import os.path
 import PIL.Image
 import pytz
+import subprocess
 import sys
 import tarfile
 import time
@@ -538,8 +539,8 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         "external-links": external_links.sections,
     }
 
-
-outfile = tarfile.TarFile.open(args.outfile, "w:gz")
+tmp_outfile = args.outfile + ".tmp"
+outfile = tarfile.TarFile.open(tmp_outfile, "w")
 music_thumbnail_files, music_thumbnails = get_images(
     ".",
     "",
@@ -595,3 +596,9 @@ for section in entry_data.sections:
 
 year_filename, year_metadata = meta_year(included_sections)
 add_to_tar(outfile, year_filename, json_dumps(year_metadata))
+outfile.close()
+with open(args.outfile, "wb") as out_tarball:
+    subprocess.check_call(
+        ["pigz", "--rsyncable", "--no-time", "--stdout", tmp_outfile],
+        stdout=out_tarball)
+os.remove(tmp_outfile)
