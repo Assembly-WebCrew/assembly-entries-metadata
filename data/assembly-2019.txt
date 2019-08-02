@@ -163,11 +163,13 @@ author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photosh
 :section Seminars
 :ranked false
 :youtube-playlist PLJO4AtxKJiFNWCQF4XT-SjjksGybXIfUI
-:elaine-category 2019 Seminars
 :manage-youtube-descriptions false
-:public false
 
-
+title:Future visions for gaming with 5G|youtube:vnq0C2tQBQw|description:You already stream movies, shows and music - with 5G you will also start streaming games. Hatch is the cloud gaming service built for the always on, always connected 5G world, delivering rich, full-featured games to mobile devices with no downloads, no in-game purchases and no limits. In this presentation we will dive into the future of gaming and the implications of cloud gaming on the gaming industry.</p><p>Presenter: Vesa Jutila (Hatch)|author:Vesa Jutila
+title:Demoscene - the Art of Doing|youtube:v3tiuYxzQmQ|description:Demosceners of Finland and Germany (soon joined by initiatives in other countries) have recently launched the “Art of Coding” campaign to inscribe the Demoscene on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as a digital and social practice, which includes many core elements of the digital world. Tobi ‘Melkor’ Kopka will first give an introduction to this campaign and then be joined by Finnish sceners on stage to answer your questions, welcoming everybody to discuss the chances, challenges and opportunities to join and support the initiative.|author:Tobias Kopka
+title:Iron Danger - game development Q&A|youtube:32ZOy0opAQs|description:Iron Danger is upcoming tactical RPG with innovative time manipulation mechanics. The talk is mostly Q&A focused session about sharing development experiences in developing game with some unique game mechanics in a startup environment.</p><p>Presenter: Heikki-Pekka Noronen (Action Squad Studio)|author:Heikki-Pekka Noronen
+title:The UX of Augmented Reality|youtube:d6O3dXyAqqM|description:Augmented Reality gives whole new design challenges. In this talk I would like to show and tell about our design experiences in ARblox, and argue that traditional game design methods and assumptions are lacking when developing for new technology.</p><p>Presenter: Jeppe Kilberg (ARBlox)</p>|author:Jeppe Kilberg
+title:Design Culture in the games industry: The what, the why, the how|youtube:qfcNcKuddEc|description:A studios success starts with the mindset and culture of the people within it, it shapes our behaviour and influences our ways of working profoundly. But how can we measure and define, grow and nurture our respective studio culture and how is design a major part of it? We will talk about the fundamentals of design culture, why it is important and how you can help nurture it with these concrete tools and processes that will help remove friction in the day to day work as well as improve the products your are shipping.|author:Jasmin Dahncke
 
 :section AssemblyTV
 :ranked false
