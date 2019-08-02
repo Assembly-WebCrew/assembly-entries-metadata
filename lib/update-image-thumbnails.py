@@ -41,7 +41,10 @@ def main(argv):
             continue
         filename = entry.get('webfile') or entry.get('image-file')
         if filename is None:
-            filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
+            filename = "%s/%s-by-%s.jpeg" % (
+                asmmetadata.normalize_key(entry['section']['name']),
+                asmmetadata.normalize_key(entry['title']),
+                asmmetadata.normalize_key(entry['author']))
         baseprefix, _ = filename.split(".")
         if not asmmetadata.is_image(filename):
             continue

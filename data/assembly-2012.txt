@@ -139,7 +139,7 @@ author:Bombsquad|platform:PC|pms-id:asm12/gamedev/394|position:1|pouet:59596|tit
 
 author:Nina Ikävalko|image-file:graphics/000-stuck-in-life-408.png|pms-id:asm12/graphics/408|position:3|techniques:Painted in openCanvas and Photoshop|title:Stuck in Life
 author:I.A.Jääskeläinen / Finity Games|image-file:graphics/000-sir-huomisaamu-409.png|pms-id:asm12/graphics/409|position:16|techniques:pen, pencil, Gimp|title:Sir Huomisaamu
-author:Valtteri/HBC|image-file:graphics/000-robox-says-hi-427.png|platform:PC|pms-id:asm12/graphics/427|position:12|techniques:Marker pen, Photoshop|title:Robox says hi
+author:Valtteri/HBC|image-file:graphics/000-robox-says-hi-427.jpeg|platform:PC|pms-id:asm12/graphics/427|position:12|techniques:Marker pen, Photoshop|title:Robox says hi
 author:Ixtor|image-file:graphics/000-lord-ember-s-spiced-wine-452.jpeg|platform:Photoshop, PC|pms-id:asm12/graphics/452|position:15|techniques:Digital drawing / Digital painting|title:Lord Ember's Spiced Wine
 author:offwhite|image-file:graphics/000-mocking-jay-463.png|platform:pc|pms-id:asm12/graphics/463|position:2|techniques:photoshop cs4, wacom intous4|title:Mocking Jay
 author:Partikle|image-file:graphics/000-a-wild-bunch-472.jpeg|pms-id:asm12/graphics/472|position:11|title:A Wild Bunch
@@ -166,7 +166,7 @@ author:John Peeba|image-file:fast-graphics/000-565-mechanical-surgery.png|platfo
 author:Irah|image-file:fast-graphics/000-568-permanent-delivery-delay.png|platform:PC|pms-id:asm12/fast_graphics/568|position:12|techniques:Gimp|title:Permanent Delivery Delay
 author:Mig26|image-file:fast-graphics/000-570-eye-for-detail.png|pms-id:asm12/fast_graphics/570|position:16|techniques:Blender + Apophysis + GIMP|title:Eye for Detail
 author:sssampo/Pistoke|image-file:fast-graphics/000-578-suction.png|pms-id:asm12/fast_graphics/578|position:15|techniques:Blender3D|title:Suction
-author:Surround / Tekotuotanto|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.jpeg|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls
+author:Surround / Tekotuotanto|image-file:fast-graphics/000-580-paint-me-like-your-french-girls.png|platform:pc|pms-id:asm12/fast_graphics/580|position:1|techniques:photariu|title:Paint me like your french girls
 author:MacGywer / npli|image-file:fast-graphics/000-581-extreme-interpolation.png|platform:JPG|pms-id:asm12/fast_graphics/581|position:13|techniques:Photoshop|title:Extreme interpolation
 author:Dekus|image-file:fast-graphics/000-583-solar-magna.png|platform:PC|pms-id:asm12/fast_graphics/583|position:4|techniques:Photoshop, wacom|title:Solar Magna
 author:offwhite|image-file:fast-graphics/000-584-a-moose-in-the-sunset.png|platform:pc|pms-id:asm12/fast_graphics/584|position:6|techniques:photoshop cs4, wacom intous4|title:A moose in the sunset
