@@ -535,19 +535,14 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 
 
 outfile = tarfile.TarFile.open(args.outfile, "w:gz")
-
-music_thumbnail_data, music_thumbnail_suffix = select_smaller_thumbnail(
-    os.path.join(FILEROOT, 'thumbnails', 'music-thumbnail'))
-music_thumbnail_basename = "music-background.%s" % music_thumbnail_suffix
-music_thumbnails = {
-    "default": {
-        "filename": "../../%s" % music_thumbnail_basename,
-        "type": "image/%s" % music_thumbnail_suffix,
-        "checksum": calculate_checksum(music_thumbnail_data),
-        "size": get_image_size(music_thumbnail_data),
-    }
-}
-add_to_tar(outfile, music_thumbnail_basename, music_thumbnail_data)
+music_thumbnail_files, music_thumbnails = get_images(
+    "/",
+    "",
+    "thumbnails/music-thumbnail",
+    DEFAULT_THUMBNAIL_SIZE,
+    EXTRA_THUMBNAIL_WIDTHS)
+for filename, data in music_thumbnail_files:
+    add_to_tar(outfile, filename, data)
 
 now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
 
