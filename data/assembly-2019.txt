@@ -113,22 +113,22 @@ author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilop
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
-:public false
+:public-after 2019-08-02 20:30 EEST
 
-author:(author hidden until results)|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka
-author:(author hidden until results)|pms-id:asm19/listening_music/937|title:Whip and Iron
-author:(author hidden until results)|pms-id:asm19/listening_music/947|title:Vector Fields
-author:(author hidden until results)|pms-id:asm19/listening_music/968|title:Affliction
-author:(author hidden until results)|pms-id:asm19/listening_music/986|title:Late Night Highway
-author:(author hidden until results)|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)
-author:(author hidden until results)|pms-id:asm19/listening_music/1009|title:Dogfighter
-author:(author hidden until results)|pms-id:asm19/listening_music/1024|title:Chipstorm
-author:(author hidden until results)|pms-id:asm19/listening_music/1038|title:Fire Rain
-author:(author hidden until results)|pms-id:asm19/listening_music/1060|title:Irjala takaisin
-author:(author hidden until results)|pms-id:asm19/listening_music/1065|title:Gunpowder
-author:(author hidden until results)|pms-id:asm19/listening_music/1083|title:Funkmonstrotron
-author:(author hidden until results)|pms-id:asm19/listening_music/1088|title:Dark Middleage
-author:(author hidden until results)|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive
+author:(author hidden until results)|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
+author:(author hidden until results)|pms-id:asm19/listening_music/937|title:Whip and Iron|youtube:DXJvYTXyGFo
+author:(author hidden until results)|pms-id:asm19/listening_music/947|title:Vector Fields|youtube:RZnwnTcHaew
+author:(author hidden until results)|pms-id:asm19/listening_music/968|title:Affliction|youtube:RSOlFzfx1XY
+author:(author hidden until results)|pms-id:asm19/listening_music/986|title:Late Night Highway|youtube:RpYZfVvVDFw
+author:(author hidden until results)|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)|youtube:cO_fFmA6akM
+author:(author hidden until results)|pms-id:asm19/listening_music/1009|title:Dogfighter|youtube:z1JZVeiR96k
+author:(author hidden until results)|pms-id:asm19/listening_music/1024|title:Chipstorm|youtube:n9eriW6-TvE
+author:(author hidden until results)|pms-id:asm19/listening_music/1038|title:Fire Rain|youtube:5WcPAkzos7A
+author:(author hidden until results)|pms-id:asm19/listening_music/1060|title:Irjala takaisin|youtube:Z435NMOdYUA
+author:(author hidden until results)|pms-id:asm19/listening_music/1065|title:Gunpowder|youtube:gcwkwbAa1co
+author:(author hidden until results)|pms-id:asm19/listening_music/1083|title:Funkmonstrotron|youtube:bKcLjSOFtbg
+author:(author hidden until results)|pms-id:asm19/listening_music/1088|title:Dark Middleage|youtube:yoAFOIKxvwo
+author:(author hidden until results)|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|youtube:LPvVvD4hSu8
 
 
 :section Fast music
@@ -165,28 +165,27 @@ author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
-:public false
+:public-after 2019-08-03 00:30 EEST
 
-author:(author hidden until results)|pms-id:asm19/dance_music/926|title:Plan B!
-author:(author hidden until results)|pms-id:asm19/dance_music/978|title:Mirage
-author:(author hidden until results)|pms-id:asm19/dance_music/988|title:The Way That Leads to You
-author:(author hidden until results)|pms-id:asm19/dance_music/990|title:Delight '08
-author:(author hidden until results)|pms-id:asm19/dance_music/996|title:Soul Sorrow
-author:(author hidden until results)|pms-id:asm19/dance_music/1022|title:Florida Man
-author:(author hidden until results)|pms-id:asm19/dance_music/1027|title:Love and Laserbeams
-author:(author hidden until results)|pms-id:asm19/dance_music/1042|title:Speedrunner's Purgatory
-author:(author hidden until results)|pms-id:asm19/dance_music/1059|title:Boston Satanics
-author:(author hidden until results)|pms-id:asm19/dance_music/1067|title:RGB
-author:(author hidden until results)|pms-id:asm19/dance_music/1095|title:12 year old (expired) Gabbajuice!!!
-author:(author hidden until results)|pms-id:asm19/dance_music/1119|title:Shore Thing
-author:(author hidden until results)|pms-id:asm19/dance_music/1120|title:The Corporation
+author:(author hidden until results)|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
+author:(author hidden until results)|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
+author:(author hidden until results)|pms-id:asm19/dance_music/988|title:The Way That Leads to You|youtube:QvH81aTxWvg
+author:(author hidden until results)|pms-id:asm19/dance_music/990|title:Delight '08|youtube:w8WXGxwMHpU
+author:(author hidden until results)|pms-id:asm19/dance_music/996|title:Soul Sorrow|youtube:MyfaCd_CnFg
+author:(author hidden until results)|pms-id:asm19/dance_music/1022|title:Florida Man|youtube:utMDs48tDec
+author:(author hidden until results)|pms-id:asm19/dance_music/1027|title:Love and Laserbeams|youtube:FPS28aTea7c
+author:(author hidden until results)|pms-id:asm19/dance_music/1042|title:Speedrunner's Purgatory|youtube:lOX8eI88MQM
+author:(author hidden until results)|pms-id:asm19/dance_music/1059|title:Boston Satanics|youtube:0w70PQoF0pI
+author:(author hidden until results)|pms-id:asm19/dance_music/1067|title:RGB|youtube:DLD0byQNoqw
+author:(author hidden until results)|pms-id:asm19/dance_music/1095|title:12 year old (expired) Gabbajuice!!!|youtube:ZCrkyNEbfGs
+author:(author hidden until results)|pms-id:asm19/dance_music/1119|title:Shore Thing|youtube:nwrFgsGqFgQ
+author:(author hidden until results)|pms-id:asm19/dance_music/1120|title:The Corporation|youtube:_fxTaG7EiAU
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
-:public false
 
 author:(author hidden until results)|image-file:graphics/1-McCall System_nosig.png|pms-id:asm19/graphics/966|title:McCall System
 author:(author hidden until results)|image-file:graphics/12-The_Birdkeeper.png|pms-id:asm19/graphics/995|title:The Birdkeeper
@@ -221,7 +220,6 @@ author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms
 :pms-category themed_photo
 :description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
 :ongoing true
-:public false
 
 author:(author hidden until results)|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
 author:(author hidden until results)|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn
