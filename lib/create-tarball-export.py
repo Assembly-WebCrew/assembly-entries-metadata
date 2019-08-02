@@ -193,7 +193,8 @@ def get_images(
             filename_prefix, image_base, extra_prefix)
     if default_file is None:
         raise RuntimeError("No image for base %s" % image_base)
-    filename = "%s/%s" % (archive_dir, default_data["filename"])
+    filename = "%s/%s" % (archive_dir, os.path.basename(
+        default_data["filename"]))
     files.append((filename, default_file))
     result["default"] = default_data
     result["extra"] = []
@@ -203,7 +204,8 @@ def get_images(
             filename_prefix, filename_base, extra_prefix)
         if extra_file is None:
             continue
-        filename = "%s/%s" % (archive_dir, extra_data["filename"])
+        filename = "%s/%s" % (
+            archive_dir, os.path.basename(extra_data["filename"]))
         files.append((filename, extra_file))
         result["extra"].append(extra_data)
     return files, result
