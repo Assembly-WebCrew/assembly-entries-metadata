@@ -1,17 +1,26 @@
 #!/usr/bin/env python3
 
 import collections
+import logging
 import os
 import os.path
 import PIL.Image
+import PIL.ImageFile
 import subprocess
 import tempfile
 
 ImageSize = collections.namedtuple("ImageSize", ["x", "y"])
+# Disable decompression bomb protection. This is required to process
+# some PNG images with PIL...
+PIL.ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 
 def get_image_size(filename):
-    image = PIL.Image.open(filename)
+    try:
+        image = PIL.Image.open(filename)
+    except Exception as e:
+        logging.error("Unable to open %s: %s", filename, e)
+        raise e
     return ImageSize(*image.size)
 
 
