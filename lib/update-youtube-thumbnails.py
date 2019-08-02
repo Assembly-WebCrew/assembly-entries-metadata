@@ -80,17 +80,16 @@ def main(argv):
             if filename is None:
                 link_to_missing_thumbnail("jpeg", target_orig)
                 link_to_missing_thumbnail("png", target_orig_png)
-                continue
         else:
             if not os.path.isfile(target_orig_png):
                 subprocess.call(['convert', target_orig, target_orig_png])
                 archivethumbnails.optimize_png(target_orig_png)
 
         # These are "thumbnail missing" images.
-        if os.path.islink(target_orig):
-            os.remove(target_orig)
-        if os.path.islink(target_orig_png):
-            os.remove(target_orig_png)
+        # if os.path.islink(target_orig):
+        #     os.remove(target_orig)
+        # if os.path.islink(target_orig_png):
+        #     os.remove(target_orig_png)
 
         create_thumbnail_calls.extend(
             archivethumbnails.create_thumbnails_tasks(
