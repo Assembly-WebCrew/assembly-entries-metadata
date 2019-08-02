@@ -537,7 +537,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 outfile = tarfile.TarFile.open(args.outfile, "w:gz")
 music_thumbnail_files, music_thumbnails = get_images(
     ".",
-    "..",
+    "../",
     "thumbnails/music-thumbnail",
     DEFAULT_THUMBNAIL_SIZE,
     EXTRA_THUMBNAIL_WIDTHS)
