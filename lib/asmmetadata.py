@@ -460,11 +460,11 @@ def select_thumbnail_base(entry):
     if 'dtv' in entry:
         demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
         return 'dtv-thumbnails/%s' % demoscenetv_thumb
-    if 'webfile' in entry or 'image-file' in entry:
+    if 'webfile' in entry or 'image-file' in entry or 'galleriafi' in entry:
         filename = entry.get('webfile') or entry.get('image-file')
         if entry.get("galleriafi"):
             normalized_section = normalize_key(entry["section"]["name"])
-            filename = "thumbnails/large/%s/%s" % (
+            filename = "%s/%s" % (
                 normalized_section,
                 get_galleriafi_filename(entry.get("galleriafi")))
         if filename is None:
