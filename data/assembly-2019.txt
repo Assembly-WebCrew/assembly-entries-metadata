@@ -26,9 +26,9 @@ author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Eg
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
 :ongoing true
 
-author:cbob/regression ventures|pms-id:asm19/64k_intro/1198|title:LA1984
-author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|pms-id:asm19/64k_intro/1211|title:1989
-author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design
+author:cbob/regression ventures|pms-id:asm19/64k_intro/1198|title:LA1984|youtube:AEJqN7IPs80
+author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|pms-id:asm19/64k_intro/1211|title:1989|youtube:dYcmPyHjyUg
+author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design|youtube:DTYfZ4C_M-4
 
 
 :section 4k intro
