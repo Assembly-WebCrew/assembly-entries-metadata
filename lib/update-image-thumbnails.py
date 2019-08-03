@@ -48,7 +48,8 @@ def main(argv):
                 asmmetadata.normalize_key(entry['section']['name']),
                 asmmetadata.normalize_key(entry['title']),
                 asmmetadata.normalize_key(entry['author']))
-        baseprefix, _ = filename.split(".")
+        _, baseprefix_r = filename[::-1].split(".", 1)
+        baseprefix = baseprefix_r[::-1]
         if not asmmetadata.is_image(filename):
             continue
         filename = os.path.join(args.dataroot, filename)
