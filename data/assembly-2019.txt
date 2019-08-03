@@ -346,6 +346,7 @@ author:Tethys|pms-id:asm19/tuplain/1220|title:Golden Night Drive
 
 :section Seminars
 :ranked false
+:author-in-title false
 :youtube-playlist PLJO4AtxKJiFNWCQF4XT-SjjksGybXIfUI
 :manage-youtube-descriptions false
 

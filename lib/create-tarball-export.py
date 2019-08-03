@@ -128,8 +128,11 @@ def meta_year(sections):
 
 def meta_section(section, included_entries, description=''):
     normalized_section = section['key']
-    entry_keys = [
-        asmmetadata.get_entry_key(entry) for entry in included_entries]
+    entry_keys = []
+    for entry in included_entries:
+        entry_key = asmmetadata.normalize_key(
+            asmmetadata.get_entry_name(entry))
+        entry_keys.append(entry_key)
 
     return "%s/meta.json" % (normalized_section), {
         "name": section["name"],
@@ -244,7 +247,8 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 
     asset = None
 
-    normalized_name = asmmetadata.get_entry_key(entry)
+    normalized_name = asmmetadata.normalize_key(
+        asmmetadata.get_entry_name(entry))
     normalized_section = asmmetadata.normalize_key(section_name)
     position = entry.get('position', 0)
 
