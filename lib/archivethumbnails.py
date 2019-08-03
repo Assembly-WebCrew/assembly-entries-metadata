@@ -26,7 +26,7 @@ def get_image_size(filename):
 
 def optimize_png(source):
     temporary_png = "%s.zpng" % source
-    subprocess.check_call(['zopflipng', '-m', source, temporary_png])
+    subprocess.check_call(['zopflipng', '-m', '-y', source, temporary_png])
     subprocess.check_call(['mv', temporary_png, source])
 
 
@@ -79,6 +79,11 @@ def create_thumbnails_tasks(
             if os.path.exists(extra_png):
                 os.remove(extra_png)
             continue
+
+        if os.path.islink(extra_jpeg):
+            os.remove(extra_jpeg)
+        if os.path.islink(extra_png):
+            os.remove(extra_png)
 
         if not os.path.exists(extra_jpeg):
             creations.append((extra_size, original_image, extra_jpeg))
