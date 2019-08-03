@@ -303,17 +303,29 @@ author:Tobias Kopka|description:Demosceners of Finland and Germany (soon joined 
 author:Heikki-Pekka Noronen|description:Iron Danger is upcoming tactical RPG with innovative time manipulation mechanics. The talk is mostly Q&A focused session about sharing development experiences in developing game with some unique game mechanics in a startup environment.</p><p>Presenter: Heikki-Pekka Noronen (Action Squad Studio)|title:Iron Danger - game development Q&A|youtube:32ZOy0opAQs
 author:Jeppe Kilberg|description:Augmented Reality gives whole new design challenges. In this talk I would like to show and tell about our design experiences in ARblox, and argue that traditional game design methods and assumptions are lacking when developing for new technology.</p><p>Presenter: Jeppe Kilberg (ARBlox)</p>|title:The UX of Augmented Reality|youtube:d6O3dXyAqqM
 author:Jasmin Dahncke|description:A studios success starts with the mindset and culture of the people within it, it shapes our behaviour and influences our ways of working profoundly. But how can we measure and define, grow and nurture our respective studio culture and how is design a major part of it? We will talk about the fundamentals of design culture, why it is important and how you can help nurture it with these concrete tools and processes that will help remove friction in the day to day work as well as improve the products your are shipping.|title:Design Culture in the games industry: The what, the why, the how|youtube:qfcNcKuddEc
-
+title:Lessons Learned from a Year of UE4 AAA Development|youtube:SGPleVfrPyo|description:Join Ari as he recounts the pitfalls, tips and tricks learned during Housemarque's first year of using Unreal Engine 4 for AAA development.</p><p>Presenter: Ari Arnbjörnsson (Housemarque)|author:Ari Arnbjörnsson
+title:Taking Back Control: Designing Meta-AI for Remedy’s First Sandbox Game|youtube:I00JBWepFu0|description:AI and especially meta-AI is all about pacing and managing player experience, making sure that the player is always engaged and pushed to do things that will make the game more fun. With Control’s open-ended metroidvania structure, we couldn’t stick with what we knew. This talk describes what we learned along the way.</p><p>Presenter: Sergey Mohov (Remedy)|author:Sergey Mohov
+title:Oceanhorn 2 - A Triple I Adventure|youtube:bzbN7fkv040|description:The Oceanhorn 2 development journey so far. Process, company culture, challenges and a bit of the daily work on a Triple I game studio.</p><p>Presenter: Claudio Linz (Cornfox Borthers)|author:Claudio Linz
+title:Starbase - Exceeding impossible project goals|youtube:i3RM1uO99Q0|description:Starbase is a hybrid voxel/vertex-based space MMO with a fully destructible and infinitely expanding universe, with a focus on building and designing spaceships and stations, exploration, resource gathering, crafting, trading, and combat. It was announced in May 2019, and it is the most ambitious project Frozenbyte has ever worked on. Anna will share some of the goals that were set for the project in the very beginning, and how the team has managed to not only achieve, but to exceed them.</p><p>Presenter: Anna Narinen (Frozenbyte)|author:Anna Narinen
+title:Developing for retro consoles on game jams|youtube:GQZqf5PCH8A|description:Lessons learned from making games for old game consoles during game jams. Covers Playstation, Mega Drive, 8-bit Nintendo & original Game boy. After this talk you will be equipped to make games for older consoles.|author:Samuli Jääskeläinen
+title:Gamer Health|youtube:8IeI3c_gWtE|description:How to be healthier and more efficient gamer? An evidence-based approach to most common sticking points and health issues of professional esports players and amateur gamers: stamina, focus, physical health and mental strength.</p><p>Presenter: Timo Kettunen (BonoHealth)|author:Timo Kettunen
 
 :section AssemblyTV
 :ranked false
 :author-in-title false
 :elaine-category 2019 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
-:public false
 :manage-youtube-descriptions false
 
-
+title:Fast + pix graphics compostudio|youtube:6ZZv0ZZxjCU|author:AssemblyTV
+title:GameDev compostudio|youtube:DNiY8fqE9Fw|author:AssemblyTV
+title:Spectrum demoshow by Visy|youtube:h65HnbViAf4|author:AssemblyTV
+title:Shader Showdown semifinals #2|youtube:JAh4HYtHh9M|author:AssemblyTV
+title:Shader Showdown semifinals #1|youtube:3q7abaqoc9I|author:AssemblyTV
+title:Assembly Demoshow 2019 by Truck|youtube:MpreNQS9pFI|author:AssemblyTV
+title:Introduction to Demo Making|youtube:9p48K42cqNs|author:AssemblyTV
+title:Opening ceremony|youtube:_RvhD2M4sfw|author:AssemblyTV
+title:Oldskool compointro 360 deg|youtube:Eum3aXWHkO0|author:AssemblyTV
 
 :section eSports
 :ranked false
