@@ -36,12 +36,12 @@ author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design|youtube
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 
-author:oo|pms-id:asm19/4k-intro/1126|title:Black Xor White
-author:Faemiyah|pms-id:asm19/4k-intro/1170|title:Región de Magallanes
-author:Fiture Crew Lamer Section|pms-id:asm19/4k-intro/1180|title:Bicycle Trip
-author:Unknown Artists & XZM|pms-id:asm19/4k-intro/1181|title:Stormriders
-author:lucid|pms-id:asm19/4k-intro/1200|title:The End of Iceland
-author:eos|pms-id:asm19/4k-intro/1215|title:terrarium
+author:oo|pms-id:asm19/4k-intro/1126|title:Black Xor White|youtube:o8lFhsow0jU
+author:Faemiyah|pms-id:asm19/4k-intro/1170|title:Región de Magallanes|youtube:Y2VHjC16trA
+author:Fiture Crew Lamer Section|pms-id:asm19/4k-intro/1180|title:Bicycle Trip|youtube:QaywusQ6-Rk
+author:Unknown Artists & XZM|pms-id:asm19/4k-intro/1181|title:Stormriders|youtube:NAeFuk-_Dwo
+author:lucid|pms-id:asm19/4k-intro/1200|title:The End of Iceland|youtube:DdRDns7XIfk
+author:eos|pms-id:asm19/4k-intro/1215|title:terrarium|youtube:xLN3mTRlugs
 
 
 :section 1k intro
@@ -50,20 +50,20 @@ author:eos|pms-id:asm19/4k-intro/1215|title:terrarium
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
 
-author:The Neverstoppers|pms-id:asm19/1k-intro/970|title:Shimmering Madness
-author:Bercon/HBC|pms-id:asm19/1k-intro/977|title:Fluid Dynamics 101
-author:Exca / Wide Load|pms-id:asm19/1k-intro/1016|title:Grid Filler
-author:rawArgon|pms-id:asm19/1k-intro/1048|title:decompose
-author:knl, Ishy|pms-id:asm19/1k-intro/1141|title:pumpun korjaus
-author:poro/Wide Load|pms-id:asm19/1k-intro/1169|title:Back to square one
-author:Nesci|pms-id:asm19/1k-intro/1178|title:Morning after and the mexican food is trying to find the exit
-author:oo|pms-id:asm19/1k-intro/1182|title:United Colors Of Coders
-author:p01/RIBBON|pms-id:asm19/1k-intro/1184|title:OUTER_M2
-author:Fiture Crew Lamer Section|pms-id:asm19/1k-intro/1193|title:Attack of the Mutant Boxes für Elise
-author:FruitieX & Pingviinituutti|pms-id:asm19/1k-intro/1204|title:Emoji is ❤️
-author:Digimind|pms-id:asm19/1k-intro/1212|title:Tech power ride
-author:qma|pms-id:asm19/1k-intro/1214|title:Moetkoe
-author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining
+author:The Neverstoppers|pms-id:asm19/1k-intro/970|title:Shimmering Madness|youtube:Hk0j0AUCoXA
+author:Bercon/HBC|pms-id:asm19/1k-intro/977|title:Fluid Dynamics 101|youtube:nBC54D0By6s
+author:Exca / Wide Load|pms-id:asm19/1k-intro/1016|title:Grid Filler|youtube:qc_rMcI4WMw
+author:rawArgon|pms-id:asm19/1k-intro/1048|title:decompose|youtube:Dv88MsHYrok
+author:knl, Ishy|pms-id:asm19/1k-intro/1141|title:pumpun korjaus|youtube:Ur3Ta0e37IM
+author:poro/Wide Load|pms-id:asm19/1k-intro/1169|title:Back to square one|youtube:yd-sVKPJC4E
+author:Nesci|pms-id:asm19/1k-intro/1178|title:Morning after and the mexican food is trying to find the exit|youtube:kKUa5NOzaXY
+author:oo|pms-id:asm19/1k-intro/1182|title:United Colors Of Coders|youtube:uhle-8eALnE
+author:p01/RIBBON|pms-id:asm19/1k-intro/1184|title:OUTER_M2|youtube:bzYm0nDFuc0
+author:Fiture Crew Lamer Section|pms-id:asm19/1k-intro/1193|title:Attack of the Mutant Boxes für Elise|youtube:LfPXG1cg54A
+author:FruitieX & Pingviinituutti|pms-id:asm19/1k-intro/1204|title:Emoji is ❤️|youtube:KdCLYq9trcA
+author:Digimind|pms-id:asm19/1k-intro/1212|title:Tech power ride|youtube:f_l0JL-_ZP0
+author:qma|pms-id:asm19/1k-intro/1214|title:Moetkoe|youtube:UJnm_pz4QS8
+author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining|youtube:Wvk8riqpEvE
 
 
 :section Real wild demo
