@@ -53,12 +53,12 @@ author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|pms-id:asm
 :ongoing true
 :public false
 
-author:pasi toska|pms-id:asm19/oldskool/940|title:wobbly celebration
-author:Rustbloom|pms-id:asm19/oldskool/953|title:PYO PYO
-author:RBBS / KBOL|pms-id:asm19/oldskool/1041|title:Jatkopistorasiat
-author:Extream|pms-id:asm19/oldskool/1045|title:Assum.
-author:ADAPT feat. TRACTION|pms-id:asm19/oldskool/1128|title:IN THE 90's
-author:Void|pms-id:asm19/oldskool/1132|title:Catro
+author:pasi toska|pms-id:asm19/oldskool/940|title:wobbly celebration|youtube:XLgeeX1NNdw
+author:Rustbloom|pms-id:asm19/oldskool/953|title:PYO PYO|youtube:twjoTwUcoP0
+author:RBBS / KBOL|pms-id:asm19/oldskool/1041|title:Jatkopistorasiat|youtube:BOK-lgfnrvA
+author:Extream|pms-id:asm19/oldskool/1045|title:Assum.|youtube:2-_sUQod9p4
+author:ADAPT feat. TRACTION|pms-id:asm19/oldskool/1128|title:IN THE 90's|youtube:a8ZXDWJY0eQ
+author:Void|pms-id:asm19/oldskool/1132|title:Catro|youtube:HuiwK1R7Hak
 
 
 :section One scene demo
