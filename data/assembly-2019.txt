@@ -4,16 +4,31 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
 :ongoing true
-:public false
 
+author:Pyrotech|pms-id:asm19/demo/1003|title:Hibernate
+author:FCCCF ft. Bass cadet|pms-id:asm19/demo/1017|title:Ozymandias
+author:Humane|pms-id:asm19/demo/1167|title:Meet mr internet
+author:AateKorjaamo|pms-id:asm19/demo/1171|title:AK-03: Hypertension
+author:Wide Load|pms-id:asm19/demo/1187|title:Filler from the 90s
+author:Mikkosoft Productions|pms-id:asm19/demo/1195|title:Skrolli Party 2019 invitation
+author:The Crux|pms-id:asm19/demo/1203|title:100% Recycled
+author:Ate Bit|pms-id:asm19/demo/1205|title:The Next Level
+author:Peetu Nuottajärvi|pms-id:asm19/demo/1206|title:Gambler
+author:u+1f35e|pms-id:asm19/demo/1213|title:Journey to Breadzembly II: Life Saving Cheese Bagel
+author:adapt|pms-id:asm19/demo/1221|title:Chroma Space
+author:JUGZ|pms-id:asm19/demo/1222|title:BREAKEVEN
+author:RBBS|pms-id:asm19/demo/1224|title:Kuvakasetti
+author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Ego Trip 8
 
 
 :section 64k intro
 :pms-category 64k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
 :ongoing true
-:public false
 
+author:cbob/regression ventures|pms-id:asm19/64k_intro/1198|title:LA1984
+author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|pms-id:asm19/64k_intro/1211|title:1989
+author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design
 
 
 :section 4k intro
@@ -21,6 +36,12 @@
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
 
+author:oo|pms-id:asm19/4k-intro/1126|title:Black Xor White
+author:Faemiyah|pms-id:asm19/4k-intro/1170|title:Región de Magallanes
+author:Fiture Crew Lamer Section|pms-id:asm19/4k-intro/1180|title:Bicycle Trip
+author:Unknown Artists & XZM|pms-id:asm19/4k-intro/1181|title:Stormriders
+author:lucid|pms-id:asm19/4k-intro/1200|title:The End of Iceland
+author:eos|pms-id:asm19/4k-intro/1215|title:terrarium
 
 
 :section 1k intro
@@ -29,6 +50,20 @@
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
 
+author:The Neverstoppers|pms-id:asm19/1k-intro/970|title:Shimmering Madness
+author:Bercon/HBC|pms-id:asm19/1k-intro/977|title:Fluid Dynamics 101
+author:Exca / Wide Load|pms-id:asm19/1k-intro/1016|title:Grid Filler
+author:rawArgon|pms-id:asm19/1k-intro/1048|title:decompose
+author:knl, Ishy|pms-id:asm19/1k-intro/1141|title:pumpun korjaus
+author:poro/Wide Load|pms-id:asm19/1k-intro/1169|title:Back to square one
+author:Nesci|pms-id:asm19/1k-intro/1178|title:Morning after and the mexican food is trying to find the exit
+author:oo|pms-id:asm19/1k-intro/1182|title:United Colors Of Coders
+author:p01/RIBBON|pms-id:asm19/1k-intro/1184|title:OUTER_M2
+author:Fiture Crew Lamer Section|pms-id:asm19/1k-intro/1193|title:Attack of the Mutant Boxes für Elise
+author:FruitieX & Pingviinituutti|pms-id:asm19/1k-intro/1204|title:Emoji is ❤️
+author:Digimind|pms-id:asm19/1k-intro/1212|title:Tech power ride
+author:qma|pms-id:asm19/1k-intro/1214|title:Moetkoe
+author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining
 
 
 :section Real wild demo
@@ -379,13 +414,13 @@ author:AssemblyTV|title:Assembly Demoshow 2019 by Truck|youtube:MpreNQS9pFI
 author:AssemblyTV|title:Introduction to Demo Making|youtube:9p48K42cqNs
 author:AssemblyTV|title:Opening ceremony|youtube:_RvhD2M4sfw
 author:AssemblyTV|title:Oldskool compointro 360 deg|youtube:Eum3aXWHkO0
-title:Dance music compostudio|youtube:V6mJBJ9G9qc|author:AssemblyTV
-title:Oldskool compostudio|youtube:-nqXVu_669c|author:AssemblyTV
-title:Lennu in memoriam|youtube:wFM_sTlFplM|author:AssemblyTV
-title:Real wild & Short Film compostudio|youtube:vgKeeNtIsk0|author:AssemblyTV
-title:Listening music compostudio|youtube:IxdQKcRvEFE|author:AssemblyTV
-title:Graphics compostudio|youtube:kbZ1dA09Ev0|author:AssemblyTV
-title:Fast & Tracked music compostudio|youtube:9-IQvfnK5w4|author:AssemblyTV
+author:AssemblyTV|title:Dance music compostudio|youtube:V6mJBJ9G9qc
+author:AssemblyTV|title:Oldskool compostudio|youtube:-nqXVu_669c
+author:AssemblyTV|title:Lennu in memoriam|youtube:wFM_sTlFplM
+author:AssemblyTV|title:Real wild & Short Film compostudio|youtube:vgKeeNtIsk0
+author:AssemblyTV|title:Listening music compostudio|youtube:IxdQKcRvEFE
+author:AssemblyTV|title:Graphics compostudio|youtube:kbZ1dA09Ev0
+author:AssemblyTV|title:Fast & Tracked music compostudio|youtube:9-IQvfnK5w4
 
 
 :section eSports

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import asmmetadata
 import asmyoutube
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     asmyoutube.add_auth_args(parser)
     args = parser.parse_args()
     yt_service = asmyoutube.get_authenticated_service(args)
-    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+    entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     sections = [x.strip() for x in args.sections.split(",")]
     for section in entry_data.sections:
