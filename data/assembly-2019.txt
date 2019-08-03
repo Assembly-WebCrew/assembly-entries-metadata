@@ -249,6 +249,7 @@ author:(author hidden until results)|image-file:graphics/10-Babyfood_Express_By_
 
 :section Pixeled graphics
 :pms-category pixeled_graphics
+:description This is an oldschool pixeled graphics competition. It means that we’re expecting to see entries that have been drawn pixel by pixel, by using old fashioned techniques and not for example overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
 :ongoing true
 
 author:(author hidden until results)|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
@@ -263,7 +264,7 @@ author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms
 
 :section Themed photo
 :pms-category themed_photo
-:description The photography competition challenges you to take a stunning picture without excessive post-processing. Only minor re-touching (crop, scale, contrast, color temperature) is allowed.
+:description Themed photo competition requires to take a photo and only minor retouching and adjustments are allowed. The theme for 2019 is: "Light & Shadow". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept like good and evil, darkness and daylight, etc.
 :ongoing true
 
 author:(author hidden until results)|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
