@@ -5,20 +5,20 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
 :ongoing true
 
-author:Pyrotech|pms-id:asm19/demo/1003|title:Hibernate
-author:FCCCF ft. Bass cadet|pms-id:asm19/demo/1017|title:Ozymandias
-author:Humane|pms-id:asm19/demo/1167|title:Meet mr internet
-author:AateKorjaamo|pms-id:asm19/demo/1171|title:AK-03: Hypertension
-author:Wide Load|pms-id:asm19/demo/1187|title:Filler from the 90s
-author:Mikkosoft Productions|pms-id:asm19/demo/1195|title:Skrolli Party 2019 invitation
-author:The Crux|pms-id:asm19/demo/1203|title:100% Recycled
-author:Ate Bit|pms-id:asm19/demo/1205|title:The Next Level
-author:Peetu Nuottajärvi|pms-id:asm19/demo/1206|title:Gambler
-author:u+1f35e|pms-id:asm19/demo/1213|title:Journey to Breadzembly II: Life Saving Cheese Bagel
-author:adapt|pms-id:asm19/demo/1221|title:Chroma Space
-author:JUGZ|pms-id:asm19/demo/1222|title:BREAKEVEN
-author:RBBS|pms-id:asm19/demo/1224|title:Kuvakasetti
-author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Ego Trip 8
+author:Pyrotech|pms-id:asm19/demo/1003|title:Hibernate|youtube:DIP3BP8VO0s
+author:FCCCF ft. Bass cadet|pms-id:asm19/demo/1017|title:Ozymandias|youtube:ngjyDtm-7vM
+author:Humane|pms-id:asm19/demo/1167|title:Meet mr internet|youtube:yfi9pfyvjLY
+author:AateKorjaamo|pms-id:asm19/demo/1171|title:AK-03: Hypertension|youtube:segjJHGbdU0
+author:Wide Load|pms-id:asm19/demo/1187|title:Filler from the 90s|youtube:7UhkhJYukyY
+author:Mikkosoft Productions|pms-id:asm19/demo/1195|title:Skrolli Party 2019 invitation|youtube:jhFPj9XCdmM
+author:The Crux|pms-id:asm19/demo/1203|title:100% Recycled|youtube:lPuvMZLYOTI
+author:Ate Bit|pms-id:asm19/demo/1205|title:The Next Level|youtube:hdhejtJKefM
+author:Peetu Nuottajärvi|pms-id:asm19/demo/1206|title:Gambler|youtube:PDYWYO-wXMI
+author:u+1f35e|pms-id:asm19/demo/1213|title:Journey to Breadzembly II: Life Saving Cheese Bagel|youtube:CnyQ9mKg0Tc
+author:adapt|pms-id:asm19/demo/1221|title:Chroma Space|youtube:SgauYJMJzbc
+author:JUGZ|pms-id:asm19/demo/1222|title:BREAKEVEN|youtube:XhJftXFU-5w
+author:RBBS|pms-id:asm19/demo/1224|title:Kuvakasetti|youtube:qVnMmtwduWc
+author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Ego Trip 8|youtube:hYKOg5NhcIg
 
 
 :section 64k intro

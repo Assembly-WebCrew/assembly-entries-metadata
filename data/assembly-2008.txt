@@ -953,10 +953,11 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4480
 
 :section Photos winter
 :ranked false
-:galleriafi /kuvat/Assembly winter+2008/
+:galleriafi /kuvat/Assembly winter 2008/
 
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/210.jpg|title:210.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/225.jpg|title:225.jpg
+author:unknown|galleriafi:/kuvat/Assembly winter 2008/509.jpg|title:509.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/226.jpg|title:226.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/227.jpg|title:227.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/232.jpg|title:232.jpg
@@ -1016,5 +1017,4 @@ author:unknown|galleriafi:/kuvat/Assembly winter 2008/496.jpg|title:496.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/500.jpg|title:500.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/504.jpg|title:504.jpg
 author:unknown|galleriafi:/kuvat/Assembly winter 2008/506.jpg|title:506.jpg
-author:unknown|galleriafi:/kuvat/Assembly winter 2008/509.jpg|title:509.jpg
 
