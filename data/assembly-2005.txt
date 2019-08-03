@@ -4,12 +4,12 @@
 :youtube-playlist 7503281DDB41916A
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Mobile demo competition usable platform was limited to mobile devices that you usually would carry with you.</p>
 
-author:The Rocket / Sonik Clique|media:/vod/2005/assemblytv/248_formfunk__dell_axim__by_the_rocket___son.avi|position:1|pouet:18371|sceneorg:/parties/2005/assembly05/mobile_demo/formfunk.zip|techniques:Windows Mobile on Dell Axim X50v|title:FormFunk|youtube:JFOF0LgEgYU
-author:Matt Current|media:/vod/2005/assemblytv/245_portmeirion_state__gba__by_matt_current.avi|position:2|pouet:18337|sceneorg:/parties/2005/assembly05/mobile_demo/portmeirion_state_by_matt_current.zip|techniques:Nintendo Game Boy Advance|title:PORTMEIRION STATE|youtube:37-_JCxyLAs
-author:Contraz, Excess & Portal Process|media:/vod/2005/assemblytv/247_perkele_plus___k700i__by_contraz__excess.avi|position:3|pouet:18370|sceneorg:/parties/2005/assembly05/mobile_demo/perkele_plus+_by_contraz__excess___portal_process.zip|techniques:Java on Sony Ericsson K700i|title:Perkele Plus+|youtube:GbiZQfHsMzA
-author:Hedelmae|media:/vod/2005/assemblytv/244_back_in_time__pxa_3__by_hedelmae.avi|position:4|pouet:18338|sceneorg:/parties/2005/assembly05/mobile_demo/back_in_time_by_hedelmae.tgz|techniques:Linux on First Technology PXA-3|title:Back in Time|youtube:NclpOqCnB6s
-author:HiRMU|media:/vod/2005/assemblytv/249_zados_2000__nokia_3100__by_hirmu.avi|position:5|pouet:18336|sceneorg:/parties/2005/assembly05/mobile_demo/zados_2000_by_hirmu.zip|techniques:Java on Nokia 3100|title:Zados 2000|youtube:SkGOfbW15Fk
-author:mfx|media:/vod/2005/assemblytv/246_experiment__imhotep__k300i__by_mfx.avi|position:6|pouet:18335|sceneorg:/parties/2005/assembly05/mobile_demo/experiment__imhotep_by_mfx.zip|techniques:Java on Sony Ericsson K300i|title:Experiment: Imhotep|youtube:KU9z52cZPx8
+author:The Rocket / Sonik Clique|guid:248|media:/vod/2005/assemblytv/248_formfunk__dell_axim__by_the_rocket___son.avi|position:1|pouet:18371|sceneorg:/parties/2005/assembly05/mobile_demo/formfunk.zip|techniques:Windows Mobile on Dell Axim X50v|title:FormFunk|youtube:JFOF0LgEgYU
+author:Matt Current|guid:245|media:/vod/2005/assemblytv/245_portmeirion_state__gba__by_matt_current.avi|position:2|pouet:18337|sceneorg:/parties/2005/assembly05/mobile_demo/portmeirion_state_by_matt_current.zip|techniques:Nintendo Game Boy Advance|title:PORTMEIRION STATE|youtube:37-_JCxyLAs
+author:Contraz, Excess & Portal Process|guid:247|media:/vod/2005/assemblytv/247_perkele_plus___k700i__by_contraz__excess.avi|position:3|pouet:18370|sceneorg:/parties/2005/assembly05/mobile_demo/perkele_plus+_by_contraz__excess___portal_process.zip|techniques:Java on Sony Ericsson K700i|title:Perkele Plus+|youtube:GbiZQfHsMzA
+author:Hedelmae|guid:244|media:/vod/2005/assemblytv/244_back_in_time__pxa_3__by_hedelmae.avi|position:4|pouet:18338|sceneorg:/parties/2005/assembly05/mobile_demo/back_in_time_by_hedelmae.tgz|techniques:Linux on First Technology PXA-3|title:Back in Time|youtube:NclpOqCnB6s
+author:HiRMU|guid:249|media:/vod/2005/assemblytv/249_zados_2000__nokia_3100__by_hirmu.avi|position:5|pouet:18336|sceneorg:/parties/2005/assembly05/mobile_demo/zados_2000_by_hirmu.zip|techniques:Java on Nokia 3100|title:Zados 2000|youtube:SkGOfbW15Fk
+author:mfx|guid:246|media:/vod/2005/assemblytv/246_experiment__imhotep__k300i__by_mfx.avi|position:6|pouet:18335|sceneorg:/parties/2005/assembly05/mobile_demo/experiment__imhotep_by_mfx.zip|techniques:Java on Sony Ericsson K300i|title:Experiment: Imhotep|youtube:KU9z52cZPx8
 
 
 :section Oldskool graphics
@@ -32,43 +32,43 @@ author:CoaXCable|sceneorg:/parties/2005/assembly05/oldskool/grfx/viinapiru__boos
 :youtube-playlist B33011941E7DAE65
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Mayoneez and the Boyz|media:/vod/2005/assemblytv/476_kumoon_by_mayoneez_and_the_boyz.avi|position:1|pouet:18298|sceneorg:/parties/2005/assembly05/game/kumoon4assembly.zip|techniques:Windows|title:Kumoon|youtube:q6lRcK2RIA0
-author:Aukiogames|media:/vod/2005/assemblytv/478_skies_by_aukiogames.avi|position:2|pouet:18297|sceneorg:/parties/2005/assembly05/game/skies_beta_r1.zip|techniques:Windows|title:Skies|youtube:sSVt8-MgVIA
-author:tAAt 2005|media:/vod/2005/assemblytv/477_pogo_sticker_by_taat_2005.avi|position:3|pouet:18295|sceneorg:/parties/2005/assembly05/game/pogosticker100.zip|techniques:Windows|title:Pogo Sticker|youtube:-uKdEWeumU8
-author:XZM|media:/vod/2005/assemblytv/474_factory_pinball_by_xzm.avi|position:4|pouet:18296|sceneorg:/parties/2005/assembly05/game/factory_pinball-050728-0508.zip|techniques:Windows|title:Factory Pinball|youtube:FFQFzBXTE2E
-author:Mikkosoft Productions|media:/vod/2005/assemblytv/481_tunnelrace_by_mikkosoft_productions.avi|position:5|pouet:18304|sceneorg:/parties/2005/assembly05/game/tunnelrace-asm05-bin.tgz|techniques:Linux|title:TunnelRace|youtube:yiJf-GXoiGU
-author:Tomasz Dobrowolski|media:/vod/2005/assemblytv/479_springy_by_tomasz_dobrowolski.avi|position:6|pouet:18302|sceneorg:/parties/2005/assembly05/game/springy.zip|techniques:Windows|title:Springy|youtube:QGRUmfVVe-s
-author:Mayoneez|media:/vod/2005/assemblytv/475_hiddenlynx_by_mayoneez.avi|position:7|pouet:18301|sceneorg:/parties/2005/assembly05/game/hiddenlynx4assembly.zip|techniques:Windows|title:HiddenLynx|youtube:rnU0KERXZkA
-author:Juha-Pekka Jokela|media:/vod/2005/assemblytv/480_thurst_by_juha_pekka_jokela.avi|position:8|pouet:18303|sceneorg:/parties/2005/assembly05/game/thurst.zip|techniques:Windows / MorphOS|title:Thurst|youtube:QDicZ5rJXJU
-author:Joel "Bylkki" Pitkänen|media:/vod/2005/assemblytv/482_bubbly_by_joel__bylkki__pitkanen.avi|position:9|pouet:18300|sceneorg:/parties/2005/assembly05/game/bubbly.zip|techniques:Windows|title:Bubbly|youtube:zq5IXhlbLPg
+author:Mayoneez and the Boyz|guid:476|media:/vod/2005/assemblytv/476_kumoon_by_mayoneez_and_the_boyz.avi|position:1|pouet:18298|sceneorg:/parties/2005/assembly05/game/kumoon4assembly.zip|techniques:Windows|title:Kumoon|youtube:q6lRcK2RIA0
+author:Aukiogames|guid:478|media:/vod/2005/assemblytv/478_skies_by_aukiogames.avi|position:2|pouet:18297|sceneorg:/parties/2005/assembly05/game/skies_beta_r1.zip|techniques:Windows|title:Skies|youtube:sSVt8-MgVIA
+author:tAAt 2005|guid:477|media:/vod/2005/assemblytv/477_pogo_sticker_by_taat_2005.avi|position:3|pouet:18295|sceneorg:/parties/2005/assembly05/game/pogosticker100.zip|techniques:Windows|title:Pogo Sticker|youtube:-uKdEWeumU8
+author:XZM|guid:474|media:/vod/2005/assemblytv/474_factory_pinball_by_xzm.avi|position:4|pouet:18296|sceneorg:/parties/2005/assembly05/game/factory_pinball-050728-0508.zip|techniques:Windows|title:Factory Pinball|youtube:FFQFzBXTE2E
+author:Mikkosoft Productions|guid:481|media:/vod/2005/assemblytv/481_tunnelrace_by_mikkosoft_productions.avi|position:5|pouet:18304|sceneorg:/parties/2005/assembly05/game/tunnelrace-asm05-bin.tgz|techniques:Linux|title:TunnelRace|youtube:yiJf-GXoiGU
+author:Tomasz Dobrowolski|guid:479|media:/vod/2005/assemblytv/479_springy_by_tomasz_dobrowolski.avi|position:6|pouet:18302|sceneorg:/parties/2005/assembly05/game/springy.zip|techniques:Windows|title:Springy|youtube:QGRUmfVVe-s
+author:Mayoneez|guid:475|media:/vod/2005/assemblytv/475_hiddenlynx_by_mayoneez.avi|position:7|pouet:18301|sceneorg:/parties/2005/assembly05/game/hiddenlynx4assembly.zip|techniques:Windows|title:HiddenLynx|youtube:rnU0KERXZkA
+author:Juha-Pekka Jokela|guid:480|media:/vod/2005/assemblytv/480_thurst_by_juha_pekka_jokela.avi|position:8|pouet:18303|sceneorg:/parties/2005/assembly05/game/thurst.zip|techniques:Windows / MorphOS|title:Thurst|youtube:QDicZ5rJXJU
+author:Joel "Bylkki" Pitkänen|guid:482|media:/vod/2005/assemblytv/482_bubbly_by_joel__bylkki__pitkanen.avi|position:9|pouet:18300|sceneorg:/parties/2005/assembly05/game/bubbly.zip|techniques:Windows|title:Bubbly|youtube:zq5IXhlbLPg
 
 
 :section 64k intro
 :youtube-playlist 234FBA9D117BA913
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2005 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:Fairlight|dtv:id_file=1502&id_prod=12465&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18339.jpg&width=512&height=404|media:/vod/2005/assemblytv/331_che_guevara_by_fairlight.avi|position:1|pouet:18339|sceneorg:/parties/2005/assembly05/in64/che_guevara_by_fairlight.zip|sceneorgvideo:/parties/2005/assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|techniques:Windows|title:Che Guevara|youtube:dLwCHnlO95A
-author:Loonies|dtv:id_file=1506&id_prod=12493&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18340.jpg&width=512&height=404|media:/vod/2005/assemblytv/329_flight_666_by_loonies.avi|position:2|pouet:18340|sceneorg:/parties/2005/assembly05/in64/flight_666_by_loonies.zip|techniques:Windows|title:Flight 666|youtube:Gjr9hUJumAE
-author:Juippi, Trilkk and Warma|dtv:id_file=6278&id_prod=13884&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18347_1.png&width=512&height=404|media:/vod/2005/assemblytv/330_origami_by_juippi__trilkk_and_warma.avi|position:3|pouet:18347|sceneorg:/parties/2005/assembly05/in64/origami_by_juippi__trilkk___warma__final_.tgz|techniques:Linux|title:Origami|youtube:pbLB_SN9eYM
-author:Traction|dtv:id_file=1501&id_prod=12490&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18342.jpg&width=512&height=404|media:/vod/2005/assemblytv/327_fiat_homo_by_traction.avi|position:4|pouet:18342|sceneorg:/parties/2005/assembly05/in64/fiat_homo_by_traction_1.zip|techniques:Windows|title:Fiat Homo|youtube:GllFLYTht_I
-author:Tomkh|media:/vod/2005/assemblytv/323_suboceanic_by_tomkh.avi|position:5|pouet:18343|sceneorg:/parties/2005/assembly05/in64/suboceanic_by_tomkh_1.zip|techniques:Windows|title:Suboceanic|youtube:LPDh21JoPFM
-author:Aspekt|media:/vod/2005/assemblytv/332_vital_by_aspekt.avi|position:6|pouet:18346|sceneorg:/parties/2005/assembly05/in64/vital_by_aspekt.tgz|techniques:Linux|title:Vital|youtube:5tPEa0I3pCI
-author:pxag|media:/vod/2005/assemblytv/333_bustro_by_pxag.avi|position:7|pouet:18393|techniques:Windows|title:Bustro|youtube:-DhKoFkVl6c
-author:Racers|media:/vod/2005/assemblytv/326_function__05_invitation_by_racers.avi|position:8|pouet:18341|sceneorg:/parties/2005/assembly05/in64/function__05_invitation_by_racers.zip|techniques:Windows|title:Function `05 Invitation|youtube:kqcgZGYBHn8
-author:Abhorus|media:/vod/2005/assemblytv/324_another_day_of_lil_drolley_by_abhorus.avi|position:9|pouet:18349|sceneorg:/parties/2005/assembly05/in64/another_day_of_lil_drolley_by_abhorus_1.zip|techniques:Windows|title:Another day of Lil Drolley|youtube:sE1P86VB0Sw
-author:Rozware|media:/vod/2005/assemblytv/334_black___white_by_rozware.avi|position:10|pouet:18345|sceneorg:/parties/2005/assembly05/in64/black___white_by_rozware.zip|techniques:Windows|title:Black / White|youtube:gA3keQhgXio
-author:flo|media:/vod/2005/assemblytv/325_bribing_you_with_oil__by_flo.avi|position:11|pouet:18344|sceneorg:/parties/2005/assembly05/in64/bribing_you_with_oil__by_flo.zip|techniques:Windows|title:bribing you with oil!|youtube:pDeezKIfWk4
-author:immersion|media:/vod/2005/assemblytv/328_lodi_by_immersion.avi|position:12|pouet:18348|sceneorg:/parties/2005/assembly05/in64/lodi_by_immersion.tar_gz|techniques:Mac OS X|title:Lodi|youtube:LZYnwwEnqko
+author:Fairlight|dtv:id_file=1502&id_prod=12465&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18339.jpg&width=512&height=404|guid:331|media:/vod/2005/assemblytv/331_che_guevara_by_fairlight.avi|position:1|pouet:18339|sceneorg:/parties/2005/assembly05/in64/che_guevara_by_fairlight.zip|sceneorgvideo:/parties/2005/assembly05/in64/flt_cheguevara-videocap_by_maali-divx511.avi|techniques:Windows|title:Che Guevara|youtube:dLwCHnlO95A
+author:Loonies|dtv:id_file=1506&id_prod=12493&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18340.jpg&width=512&height=404|guid:329|media:/vod/2005/assemblytv/329_flight_666_by_loonies.avi|position:2|pouet:18340|sceneorg:/parties/2005/assembly05/in64/flight_666_by_loonies.zip|techniques:Windows|title:Flight 666|youtube:Gjr9hUJumAE
+author:Juippi, Trilkk and Warma|dtv:id_file=6278&id_prod=13884&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18347_1.png&width=512&height=404|guid:330|media:/vod/2005/assemblytv/330_origami_by_juippi__trilkk_and_warma.avi|position:3|pouet:18347|sceneorg:/parties/2005/assembly05/in64/origami_by_juippi__trilkk___warma__final_.tgz|techniques:Linux|title:Origami|youtube:pbLB_SN9eYM
+author:Traction|dtv:id_file=1501&id_prod=12490&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18342.jpg&width=512&height=404|guid:327|media:/vod/2005/assemblytv/327_fiat_homo_by_traction.avi|position:4|pouet:18342|sceneorg:/parties/2005/assembly05/in64/fiat_homo_by_traction_1.zip|techniques:Windows|title:Fiat Homo|youtube:GllFLYTht_I
+author:Tomkh|guid:323|media:/vod/2005/assemblytv/323_suboceanic_by_tomkh.avi|position:5|pouet:18343|sceneorg:/parties/2005/assembly05/in64/suboceanic_by_tomkh_1.zip|techniques:Windows|title:Suboceanic|youtube:LPDh21JoPFM
+author:Aspekt|guid:332|media:/vod/2005/assemblytv/332_vital_by_aspekt.avi|position:6|pouet:18346|sceneorg:/parties/2005/assembly05/in64/vital_by_aspekt.tgz|techniques:Linux|title:Vital|youtube:5tPEa0I3pCI
+author:pxag|guid:333|media:/vod/2005/assemblytv/333_bustro_by_pxag.avi|position:7|pouet:18393|techniques:Windows|title:Bustro|youtube:-DhKoFkVl6c
+author:Racers|guid:326|media:/vod/2005/assemblytv/326_function__05_invitation_by_racers.avi|position:8|pouet:18341|sceneorg:/parties/2005/assembly05/in64/function__05_invitation_by_racers.zip|techniques:Windows|title:Function `05 Invitation|youtube:kqcgZGYBHn8
+author:Abhorus|guid:324|media:/vod/2005/assemblytv/324_another_day_of_lil_drolley_by_abhorus.avi|position:9|pouet:18349|sceneorg:/parties/2005/assembly05/in64/another_day_of_lil_drolley_by_abhorus_1.zip|techniques:Windows|title:Another day of Lil Drolley|youtube:sE1P86VB0Sw
+author:Rozware|guid:334|media:/vod/2005/assemblytv/334_black___white_by_rozware.avi|position:10|pouet:18345|sceneorg:/parties/2005/assembly05/in64/black___white_by_rozware.zip|techniques:Windows|title:Black / White|youtube:gA3keQhgXio
+author:flo|guid:325|media:/vod/2005/assemblytv/325_bribing_you_with_oil__by_flo.avi|position:11|pouet:18344|sceneorg:/parties/2005/assembly05/in64/bribing_you_with_oil__by_flo.zip|techniques:Windows|title:bribing you with oil!|youtube:pDeezKIfWk4
+author:immersion|guid:328|media:/vod/2005/assemblytv/328_lodi_by_immersion.avi|position:12|pouet:18348|sceneorg:/parties/2005/assembly05/in64/lodi_by_immersion.tar_gz|techniques:Mac OS X|title:Lodi|youtube:LZYnwwEnqko
 
 
 :section Oldskool demo
 :youtube-playlist 23DE52FE11C0E486
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
-author:Fairlight|dtv:id_file=4004&id_prod=12547&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18365.png&width=512&height=404|media:/vod/2005/assemblytv/211_boogie_factor_by_fairlight.avi|position:1|pouet:18365|techniques:Commodore 64|title:Boogie Factor|youtube:VG6_Oo0rU2s
-author:aspekt|media:/vod/2005/assemblytv/213_boomboom_by_aspekt.avi|position:2|pouet:18322|sceneorg:/parties/2005/assembly05/oldskool/demo/boomboom_by_aspekt.d64|techniques:Commodore 64|title:BoomBoom|youtube:B2NEYUzomEI
-author:RNO|media:/vod/2005/assemblytv/212_treble_by_rno.avi|position:3|pouet:18324|sceneorg:/parties/2005/assembly05/oldskool/demo/rno-treble.lha|techniques:Amiga 500|title:Treble|youtube:iYTFih0Iw_A
-author:Cyberpunks Unity|media:/vod/2005/assemblytv/214_nnn_by_cyberpunks_unity.avi|position:4|pouet:18323|sceneorg:/parties/2005/assembly05/oldskool/demo/nnn_by_cyberpunks_unity.zip|techniques:Sinclair Spectrum|title:nnn|youtube:OsYUX9-sk1I
+author:Fairlight|dtv:id_file=4004&id_prod=12547&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18365.png&width=512&height=404|guid:211|media:/vod/2005/assemblytv/211_boogie_factor_by_fairlight.avi|position:1|pouet:18365|techniques:Commodore 64|title:Boogie Factor|youtube:VG6_Oo0rU2s
+author:aspekt|guid:213|media:/vod/2005/assemblytv/213_boomboom_by_aspekt.avi|position:2|pouet:18322|sceneorg:/parties/2005/assembly05/oldskool/demo/boomboom_by_aspekt.d64|techniques:Commodore 64|title:BoomBoom|youtube:B2NEYUzomEI
+author:RNO|guid:212|media:/vod/2005/assemblytv/212_treble_by_rno.avi|position:3|pouet:18324|sceneorg:/parties/2005/assembly05/oldskool/demo/rno-treble.lha|techniques:Amiga 500|title:Treble|youtube:iYTFih0Iw_A
+author:Cyberpunks Unity|guid:214|media:/vod/2005/assemblytv/214_nnn_by_cyberpunks_unity.avi|position:4|pouet:18323|sceneorg:/parties/2005/assembly05/oldskool/demo/nnn_by_cyberpunks_unity.zip|techniques:Sinclair Spectrum|title:nnn|youtube:OsYUX9-sk1I
 
 
 :section Fast graphics
@@ -218,69 +218,69 @@ author:1in10/mfx&kewlers|sceneorg:/parties/2005/assembly05/music/freestyle/we_ar
 :youtube-playlist 713DB937DBACD159
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2005 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:Fit & Bandwagon|media:/vod/2005/assemblytv/161_make_it_4k_by_fit___bandwagon.avi|position:1|pouet:18321|sceneorg:/parties/2005/assembly05/in4k/make_it_4k_by_fit___bandwagon_1.tgz|techniques:Linux|title:Make it 4k|youtube:2TDIV1YywD8
-author:Prophecy|media:/vod/2005/assemblytv/159_trapped_mind_by_prophecy.avi|position:2|pouet:18314|sceneorg:/parties/2005/assembly05/in4k/trapped_mind_by_prophecy.zip|techniques:Windows|title:Trapped Mind|youtube:YDftBW8WDpk
-author:0ok / ümlaüt design / blackmaiden|media:/vod/2005/assemblytv/189_evoke_spacerace_by_0ok___umlaut_design__.avi|position:3|pouet:18313|sceneorg:/parties/2005/assembly05/in4k/evoke_spacerace_by_0ok____mla_t_design___blackmaiden.zip|techniques:Windows|title:Evoke Spacerace|youtube:B-lIj8wle7M
-author:Northern Dragons|dtv:id_file=1894&id_prod=12868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18311_1.jpg&width=512&height=404|media:/vod/2005/assemblytv/155_blobzilla_4000_by_northern_dragons.avi|position:4|pouet:18311|sceneorg:/parties/2005/assembly05/in4k/blobzilla_4000_by_northern_dragons.zip|techniques:Windows|title:Blobzilla 4000|youtube:5BtJ-wix4K8
-author:Digital Devotion|media:/vod/2005/assemblytv/165_automation_by_digital_devotion.avi|position:5|pouet:18312|sceneorg:/parties/2005/assembly05/in4k/automation_by_digital_devotion.zip|techniques:Windows|title:Automation|youtube:Qw944zQVn0Q
-author:headcrash|media:/vod/2005/assemblytv/160_uniform_by_headcrash.avi|position:6|pouet:18318|sceneorg:/parties/2005/assembly05/in4k/uniform_by_headcrash.zip|techniques:Windows|title:uniform|youtube:odKZhiwhumo
-author:Medieval|media:/vod/2005/assemblytv/163_stressless_by_medieval.avi|position:7|pouet:18317|sceneorg:/parties/2005/assembly05/in4k/stressless_by_medieval.zip|techniques:Windows|title:Stressless|youtube:8rgXXrC0610
-author:Hipo / Lonely Coders|media:/vod/2005/assemblytv/162_monstah_by_hipo___lonely_coders.avi|position:8|pouet:18319|sceneorg:/parties/2005/assembly05/in4k/monstah_by_hipo___lonely_coders.tgz|techniques:Linux|title:Monstah|youtube:Dq3dZ2rWHBw
-author:Lasse Toimela|media:/vod/2005/assemblytv/158_driftwood_theory_by_lasse_toimela.avi|position:9|pouet:18316|sceneorg:/parties/2005/assembly05/in4k/driftwood_theory_by_lasse_toimela.zip|techniques:Windows|title:Driftwood Theory|youtube:eLj76_HmFOk
-author:Inphernic|media:/vod/2005/assemblytv/156_cracked_by_inphernic.avi|position:10|pouet:18315|sceneorg:/parties/2005/assembly05/in4k/cracked_by_inphernic.zip|techniques:Windows|title:Cracked|youtube:BaMAIDGzV5s
-author:immersion / zoi|media:/vod/2005/assemblytv/164_kalja_by_immersion___zoi.avi|position:11|pouet:18320|sceneorg:/parties/2005/assembly05/in4k/kalja_by_immersion___zoi.gz|techniques:Linux|title:kalja|youtube:Xs_JBMM8EDU
+author:Fit & Bandwagon|guid:161|media:/vod/2005/assemblytv/161_make_it_4k_by_fit___bandwagon.avi|position:1|pouet:18321|sceneorg:/parties/2005/assembly05/in4k/make_it_4k_by_fit___bandwagon_1.tgz|techniques:Linux|title:Make it 4k|youtube:2TDIV1YywD8
+author:Prophecy|guid:159|media:/vod/2005/assemblytv/159_trapped_mind_by_prophecy.avi|position:2|pouet:18314|sceneorg:/parties/2005/assembly05/in4k/trapped_mind_by_prophecy.zip|techniques:Windows|title:Trapped Mind|youtube:YDftBW8WDpk
+author:0ok / ümlaüt design / blackmaiden|guid:189|media:/vod/2005/assemblytv/189_evoke_spacerace_by_0ok___umlaut_design__.avi|position:3|pouet:18313|sceneorg:/parties/2005/assembly05/in4k/evoke_spacerace_by_0ok____mla_t_design___blackmaiden.zip|techniques:Windows|title:Evoke Spacerace|youtube:B-lIj8wle7M
+author:Northern Dragons|dtv:id_file=1894&id_prod=12868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18311_1.jpg&width=512&height=404|guid:155|media:/vod/2005/assemblytv/155_blobzilla_4000_by_northern_dragons.avi|position:4|pouet:18311|sceneorg:/parties/2005/assembly05/in4k/blobzilla_4000_by_northern_dragons.zip|techniques:Windows|title:Blobzilla 4000|youtube:5BtJ-wix4K8
+author:Digital Devotion|guid:165|media:/vod/2005/assemblytv/165_automation_by_digital_devotion.avi|position:5|pouet:18312|sceneorg:/parties/2005/assembly05/in4k/automation_by_digital_devotion.zip|techniques:Windows|title:Automation|youtube:Qw944zQVn0Q
+author:headcrash|guid:160|media:/vod/2005/assemblytv/160_uniform_by_headcrash.avi|position:6|pouet:18318|sceneorg:/parties/2005/assembly05/in4k/uniform_by_headcrash.zip|techniques:Windows|title:uniform|youtube:odKZhiwhumo
+author:Medieval|guid:163|media:/vod/2005/assemblytv/163_stressless_by_medieval.avi|position:7|pouet:18317|sceneorg:/parties/2005/assembly05/in4k/stressless_by_medieval.zip|techniques:Windows|title:Stressless|youtube:8rgXXrC0610
+author:Hipo / Lonely Coders|guid:162|media:/vod/2005/assemblytv/162_monstah_by_hipo___lonely_coders.avi|position:8|pouet:18319|sceneorg:/parties/2005/assembly05/in4k/monstah_by_hipo___lonely_coders.tgz|techniques:Linux|title:Monstah|youtube:Dq3dZ2rWHBw
+author:Lasse Toimela|guid:158|media:/vod/2005/assemblytv/158_driftwood_theory_by_lasse_toimela.avi|position:9|pouet:18316|sceneorg:/parties/2005/assembly05/in4k/driftwood_theory_by_lasse_toimela.zip|techniques:Windows|title:Driftwood Theory|youtube:eLj76_HmFOk
+author:Inphernic|guid:156|media:/vod/2005/assemblytv/156_cracked_by_inphernic.avi|position:10|pouet:18315|sceneorg:/parties/2005/assembly05/in4k/cracked_by_inphernic.zip|techniques:Windows|title:Cracked|youtube:BaMAIDGzV5s
+author:immersion / zoi|guid:164|media:/vod/2005/assemblytv/164_kalja_by_immersion___zoi.avi|position:11|pouet:18320|sceneorg:/parties/2005/assembly05/in4k/kalja_by_immersion___zoi.gz|techniques:Linux|title:kalja|youtube:Xs_JBMM8EDU
 
 
 :section Short film
 :youtube-playlist 67C54FDE04338B48
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-author:maxon|dtv:id_file=1896&id_prod=12869&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18394_1.jpg&width=512&height=404|media:/vod/2005/assemblytv/230_get_inspired_by_maxon.avi|position:1|pouet:18394|sceneorg:/parties/2005/assembly05/short_film/get_inspired_by_maxon-nomickey-version_hdtv720p.avi|title:Get Inspired|webfile:short_film/get_inspired_by_maxon.avi|youtube:3qdvk6TxP8w
-author:tAAt 2005|dtv:id_file=1838&id_prod=12734&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18380_1.jpg&width=512&height=404|media:/vod/2005/assemblytv/237_porrasturvat_for_stairstation_360_live_r.avi|position:2|pouet:18380|sceneorg:/parties/2005/assembly05/short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|title:Porrasturvat for Stairstation 360 Live Revolution|webfile:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|youtube:HPfP21Fu-wo
+author:maxon|dtv:id_file=1896&id_prod=12869&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18394_1.jpg&width=512&height=404|guid:230|media:/vod/2005/assemblytv/230_get_inspired_by_maxon.avi|position:1|pouet:18394|sceneorg:/parties/2005/assembly05/short_film/get_inspired_by_maxon-nomickey-version_hdtv720p.avi|title:Get Inspired|webfile:short_film/get_inspired_by_maxon.avi|youtube:3qdvk6TxP8w
+author:tAAt 2005|dtv:id_file=1838&id_prod=12734&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18380_1.jpg&width=512&height=404|guid:237|media:/vod/2005/assemblytv/237_porrasturvat_for_stairstation_360_live_r.avi|position:2|pouet:18380|sceneorg:/parties/2005/assembly05/short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|title:Porrasturvat for Stairstation 360 Live Revolution|webfile:short_film/porrasturvat_for_stairstation_360_live_revolution_by_taat_2005.avi|youtube:HPfP21Fu-wo
 author:Random&Phaser|dtv:id_file=1899&id_prod=12870&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18395_1.gif&width=512&height=404|position:3|pouet:18395|sceneorg:/parties/2005/assembly05/short_film/toyzone_by_random___phaser.avi|title:ToyZone|webfile:short_film/toyzone_by_random_phaser.avi|youtube:3pYRTg1WK-g
-author:miesmacher|media:/vod/2005/assemblytv/229_the_last_hope___viimeinen_toivo_by_miesm.avi|position:4|pouet:18396|sceneorg:/parties/2005/assembly05/short_film/the_last_hope-viimeinen_toivo_by_miesmacher.avi|title:The Last Hope - Viimeinen toivo|webfile:short_film/the_last_hope_viimeinen_toivo_by_miesmacher.avi|youtube:x_BbB74vgwg
-author:Hedelmae|media:/vod/2005/assemblytv/236_liquid_crystal_by_hedelmae.avi|position:5|pouet:18375|sceneorg:/parties/2005/assembly05/short_film/liquid_crystal_by_hedelmae.avi|title:Liquid Crystal|webfile:short_film/liquid_crystal_by_hedelmae.avi|youtube:e6dSqekHx-I
+author:miesmacher|guid:229|media:/vod/2005/assemblytv/229_the_last_hope___viimeinen_toivo_by_miesm.avi|position:4|pouet:18396|sceneorg:/parties/2005/assembly05/short_film/the_last_hope-viimeinen_toivo_by_miesmacher.avi|title:The Last Hope - Viimeinen toivo|webfile:short_film/the_last_hope_viimeinen_toivo_by_miesmacher.avi|youtube:x_BbB74vgwg
+author:Hedelmae|guid:236|media:/vod/2005/assemblytv/236_liquid_crystal_by_hedelmae.avi|position:5|pouet:18375|sceneorg:/parties/2005/assembly05/short_film/liquid_crystal_by_hedelmae.avi|title:Liquid Crystal|webfile:short_film/liquid_crystal_by_hedelmae.avi|youtube:e6dSqekHx-I
 author:HOViNET team|position:6|pouet:18397|sceneorg:/parties/2005/assembly05/short_film/seppo_the_smoke-gubbe__by_hovinet_team.avi|title:Seppo: The Smoke-Gubbe|webfile:short_film/seppo_the_smoke_gubbe_by_hovinet_team.avi|youtube:0p-MRmeS_5w
-author:Accession|media:/vod/2005/assemblytv/234_bzm_10y_by_accession.avi|position:7|pouet:18376|sceneorg:/parties/2005/assembly05/short_film/bzm10y_by_accession.avi|title:bzm=10y|webfile:short_film/bzm_10y_by_accession.avi|youtube:ANKAH9Zx8No
+author:Accession|guid:234|media:/vod/2005/assemblytv/234_bzm_10y_by_accession.avi|position:7|pouet:18376|sceneorg:/parties/2005/assembly05/short_film/bzm10y_by_accession.avi|title:bzm=10y|webfile:short_film/bzm_10y_by_accession.avi|youtube:ANKAH9Zx8No
 author:Diskrecovery Channel|position:8|pouet:18398|sceneorg:/parties/2005/assembly05/short_film/netbusters_by_diskrecovery_channel.avi|title:Netbusters|webfile:short_film/netbusters_by_diskrecovery_channel.avi|youtube:daqOuOTnz60
-author:DiFFART|dtv:id_file=2945&id_prod=12735&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18399_1.jpg&width=512&height=404|media:/vod/2005/assemblytv/238_loop_by_diffart.avi|position:9|pouet:18399|sceneorg:/parties/2005/assembly05/short_film/loop_by_diffart.avi|title:Loop|webfile:short_film/loop_by_diffart.avi|youtube:BuVwEX5lbb4
-author:Byterapers Movie Productions|media:/vod/2005/assemblytv/233_iisalmi___demojen_ja_oluen_kaupunki_trai.avi|position:10|pouet:18377|sceneorg:/parties/2005/assembly05/short_film/iisalmi-demojen_ja_oluen_kaupunki_traileri_by_byterapers.avi|title:Iisalmi - demojen ja oluen kaupunki traileri|webfile:short_film/iisalmi_demojen_ja_oluen_kaupunki_traileri_by_byterapers_movie_productions.avi|youtube:HiC051b40pk
-author:Grendel / Überfinns / Byterapers Movie Productions Indie Label|media:/vod/2005/assemblytv/235_dweebs_high_by_grendel___Uberfinns___byt.avi|position:11|pouet:18378|sceneorg:/parties/2005/assembly05/short_film/dweebs_high_by_grendel___uberfinns___byterapers_movie_productions_indie_label.avi|title:Dweebs High|webfile:short_film/dweebs_high_by_grendel_berfinns_byterapers_movie_productions_indie_label.avi|youtube:gcQCDZ1eEGQ
-author:sivu|media:/vod/2005/assemblytv/239_super_8_by_sivu.avi|position:12|pouet:18400|sceneorg:/parties/2005/assembly05/short_film/super_8_by_sivu.avi|title:Super 8|webfile:short_film/super_8_by_sivu.avi|youtube:vEqfCOtXGrg
+author:DiFFART|dtv:id_file=2945&id_prod=12735&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18399_1.jpg&width=512&height=404|guid:238|media:/vod/2005/assemblytv/238_loop_by_diffart.avi|position:9|pouet:18399|sceneorg:/parties/2005/assembly05/short_film/loop_by_diffart.avi|title:Loop|webfile:short_film/loop_by_diffart.avi|youtube:BuVwEX5lbb4
+author:Byterapers Movie Productions|guid:233|media:/vod/2005/assemblytv/233_iisalmi___demojen_ja_oluen_kaupunki_trai.avi|position:10|pouet:18377|sceneorg:/parties/2005/assembly05/short_film/iisalmi-demojen_ja_oluen_kaupunki_traileri_by_byterapers.avi|title:Iisalmi - demojen ja oluen kaupunki traileri|webfile:short_film/iisalmi_demojen_ja_oluen_kaupunki_traileri_by_byterapers_movie_productions.avi|youtube:HiC051b40pk
+author:Grendel / Überfinns / Byterapers Movie Productions Indie Label|guid:235|media:/vod/2005/assemblytv/235_dweebs_high_by_grendel___Uberfinns___byt.avi|position:11|pouet:18378|sceneorg:/parties/2005/assembly05/short_film/dweebs_high_by_grendel___uberfinns___byterapers_movie_productions_indie_label.avi|title:Dweebs High|webfile:short_film/dweebs_high_by_grendel_berfinns_byterapers_movie_productions_indie_label.avi|youtube:gcQCDZ1eEGQ
+author:sivu|guid:239|media:/vod/2005/assemblytv/239_super_8_by_sivu.avi|position:12|pouet:18400|sceneorg:/parties/2005/assembly05/short_film/super_8_by_sivu.avi|title:Super 8|webfile:short_film/super_8_by_sivu.avi|youtube:vEqfCOtXGrg
 
 
 :section Demo
 :youtube-playlist 434D1DDE307F9344
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2007 PC computer.</p>
 
-author:Andromeda Software Development|cappedtv:asd-iconoclast&width=640&height=458|dtv:id_file=1503&id_prod=12464&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18350_1.jpg&width=512&height=404|media:/vod/2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|position:1|pouet:18350|sceneorg:/parties/2005/assembly05/demo/iconoclast_by_andromeda_software_development.zip|sceneorgvideo:/parties/2005/assembly05/demo/asd-iconoclast-lowq.avi|techniques:Windows|title:Iconoclast|youtube:0HlZaZ30qF0
-author:Synesthetics|cappedtv:synesthetics-instant_zen&width=640&height=360|dtv:id_file=1504&id_prod=12502&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18359.jpg&width=512&height=404|media:/vod/2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|position:2|pouet:18359|sceneorg:/parties/2005/assembly05/demo/sts-04__instant_zen_by_synesthetics.zip|techniques:Windows|title:STS-04: Instant Zen|youtube:cjndamq12T8
-author:Portal Process|dtv:id_file=1505&id_prod=12501&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18351.jpg&width=512&height=404|media:/vod/2005/assemblytv/459_don_t_stop_by_portal_process.avi|position:3|pouet:18351|sceneorg:/parties/2005/assembly05/demo/don_t_stop_by_portal_process.zip|techniques:Windows|title:Don't Stop|youtube:pzzNSyQXL3Q
-author:Trauma|media:/vod/2005/assemblytv/452_the_line_age_by_trauma.avi|position:4|pouet:18360|sceneorg:/parties/2005/assembly05/demo/the_line_age_by_trauma.zip|techniques:Windows|title:The Line Age|youtube:WlUToEKAqT8
-author:Ananasmurska|media:/vod/2005/assemblytv/450_light_amplification_by_stimulated_emissi.avi|position:5|pouet:18356|sceneorg:/parties/2005/assembly05/demo/light_amplification_by_stimulated_emission_of_radiation_(final)_by_ananasmurska.zip|techniques:Windows|title:Light Amplification by Stimulated Emission of Radiation|youtube:CuQDkTvnRpY
-author:Matt Current|media:/vod/2005/assemblytv/451_contamination_of_the_present_governmenta.avi|position:6|pouet:18353|sceneorg:/parties/2005/assembly05/demo/contamination_of_the_present_governmental_system_by_matt_current.zip|techniques:Windows|title:Contamination of The Present Governmental System|youtube:q-1DMSEbrMY
-author:Cubicle|media:/vod/2005/assemblytv/457_tannhauser_gate_by_cubicle.avi|position:7|pouet:18352|sceneorg:/parties/2005/assembly05/demo/tannh_user_gate_by_cubicle_1.zip|techniques:Windows|title:Tannhäuser Gate|youtube:A0RLIqwoDFA
-author:RRE|media:/vod/2005/assemblytv/462_no_trace_by_rre.avi|position:8|pouet:18364|sceneorg:/parties/2005/assembly05/demo/no_trace_by_rre.zip|techniques:Windows|title:No Trace|youtube:byDaDxU06YI
-author:Dope|media:/vod/2005/assemblytv/454_imaginations_by_dope.avi|position:9|pouet:18355|sceneorg:/parties/2005/assembly05/demo/imaginations_by_dope-party_final.zip|techniques:Windows|title:Imaginations|youtube:uINSYovJWeg
-author:Division|media:/vod/2005/assemblytv/456_the_apparatus_by_division.avi|position:10|pouet:18363|sceneorg:/parties/2005/assembly05/demo/the_apparatus_by_division.zip|techniques:Windows|title:The Apparatus|youtube:ZFysl_61ZL8
-author:Outbreak|media:/vod/2005/assemblytv/461_my_diamond_mind_broken_by_outbreak.avi|position:11|pouet:18366|sceneorg:/parties/2005/assembly05/demo/my_diamond_mind_broken_by_outbreak_1.zip|techniques:Windows, Linux, Mac OS X|title:My Diamond Mind Broken|youtube:fgbzUOnpzrQ
-author:Unknown Artists|media:/vod/2005/assemblytv/458_into_the_0_0_255_by_unknown_artists.avi|position:12|pouet:18362|sceneorg:/parties/2005/assembly05/demo/into_the_0_0_255_by_unknown_artists.zip|techniques:Windows|title:Into The 0:0:255|youtube:JC6cmVmrnpI
-author:wAMMA|media:/vod/2005/assemblytv/455_club_null_by_wamma.avi|position:13|pouet:18354|sceneorg:/parties/2005/assembly05/demo/club_null_by_wamma.zip|techniques:Windows|title:Club Null|youtube:AJ36INAl52o
-author:proMille deZign|media:/vod/2005/assemblytv/464_unknown_entity_by_promille_dezign.avi|position:14|pouet:18361|sceneorg:/parties/2005/assembly05/demo/unknown_entity_by_promille_dezign.zip|techniques:Windows|title:Unknown Entity|youtube:7tsnYjKdsBQ
-author:tAAt|media:/vod/2005/assemblytv/453_pyromanssi___pyromance_by_taat.avi|position:15|pouet:18358|sceneorg:/parties/2005/assembly05/demo/pyromanssi_-_pyromance_by_taat.zip|techniques:Windows|title:pyromanssi - pyromance|youtube:kUVQVj3_PoE
+author:Andromeda Software Development|cappedtv:asd-iconoclast&width=640&height=458|dtv:id_file=1503&id_prod=12464&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18350_1.jpg&width=512&height=404|guid:463|media:/vod/2005/assemblytv/463_iconoclast_by_andromeda_software_develop.avi|position:1|pouet:18350|sceneorg:/parties/2005/assembly05/demo/iconoclast_by_andromeda_software_development.zip|sceneorgvideo:/parties/2005/assembly05/demo/asd-iconoclast-lowq.avi|techniques:Windows|title:Iconoclast|youtube:0HlZaZ30qF0
+author:Synesthetics|cappedtv:synesthetics-instant_zen&width=640&height=360|dtv:id_file=1504&id_prod=12502&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18359.jpg&width=512&height=404|guid:460|media:/vod/2005/assemblytv/460_sts_04__instant_zen_by_synesthetics.avi|position:2|pouet:18359|sceneorg:/parties/2005/assembly05/demo/sts-04__instant_zen_by_synesthetics.zip|techniques:Windows|title:STS-04: Instant Zen|youtube:cjndamq12T8
+author:Portal Process|dtv:id_file=1505&id_prod=12501&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/18351.jpg&width=512&height=404|guid:459|media:/vod/2005/assemblytv/459_don_t_stop_by_portal_process.avi|position:3|pouet:18351|sceneorg:/parties/2005/assembly05/demo/don_t_stop_by_portal_process.zip|techniques:Windows|title:Don't Stop|youtube:pzzNSyQXL3Q
+author:Trauma|guid:452|media:/vod/2005/assemblytv/452_the_line_age_by_trauma.avi|position:4|pouet:18360|sceneorg:/parties/2005/assembly05/demo/the_line_age_by_trauma.zip|techniques:Windows|title:The Line Age|youtube:WlUToEKAqT8
+author:Ananasmurska|guid:450|media:/vod/2005/assemblytv/450_light_amplification_by_stimulated_emissi.avi|position:5|pouet:18356|sceneorg:/parties/2005/assembly05/demo/light_amplification_by_stimulated_emission_of_radiation_(final)_by_ananasmurska.zip|techniques:Windows|title:Light Amplification by Stimulated Emission of Radiation|youtube:CuQDkTvnRpY
+author:Matt Current|guid:451|media:/vod/2005/assemblytv/451_contamination_of_the_present_governmenta.avi|position:6|pouet:18353|sceneorg:/parties/2005/assembly05/demo/contamination_of_the_present_governmental_system_by_matt_current.zip|techniques:Windows|title:Contamination of The Present Governmental System|youtube:q-1DMSEbrMY
+author:Cubicle|guid:457|media:/vod/2005/assemblytv/457_tannhauser_gate_by_cubicle.avi|position:7|pouet:18352|sceneorg:/parties/2005/assembly05/demo/tannh_user_gate_by_cubicle_1.zip|techniques:Windows|title:Tannhäuser Gate|youtube:A0RLIqwoDFA
+author:RRE|guid:462|media:/vod/2005/assemblytv/462_no_trace_by_rre.avi|position:8|pouet:18364|sceneorg:/parties/2005/assembly05/demo/no_trace_by_rre.zip|techniques:Windows|title:No Trace|youtube:byDaDxU06YI
+author:Dope|guid:454|media:/vod/2005/assemblytv/454_imaginations_by_dope.avi|position:9|pouet:18355|sceneorg:/parties/2005/assembly05/demo/imaginations_by_dope-party_final.zip|techniques:Windows|title:Imaginations|youtube:uINSYovJWeg
+author:Division|guid:456|media:/vod/2005/assemblytv/456_the_apparatus_by_division.avi|position:10|pouet:18363|sceneorg:/parties/2005/assembly05/demo/the_apparatus_by_division.zip|techniques:Windows|title:The Apparatus|youtube:ZFysl_61ZL8
+author:Outbreak|guid:461|media:/vod/2005/assemblytv/461_my_diamond_mind_broken_by_outbreak.avi|position:11|pouet:18366|sceneorg:/parties/2005/assembly05/demo/my_diamond_mind_broken_by_outbreak_1.zip|techniques:Windows, Linux, Mac OS X|title:My Diamond Mind Broken|youtube:fgbzUOnpzrQ
+author:Unknown Artists|guid:458|media:/vod/2005/assemblytv/458_into_the_0_0_255_by_unknown_artists.avi|position:12|pouet:18362|sceneorg:/parties/2005/assembly05/demo/into_the_0_0_255_by_unknown_artists.zip|techniques:Windows|title:Into The 0:0:255|youtube:JC6cmVmrnpI
+author:wAMMA|guid:455|media:/vod/2005/assemblytv/455_club_null_by_wamma.avi|position:13|pouet:18354|sceneorg:/parties/2005/assembly05/demo/club_null_by_wamma.zip|techniques:Windows|title:Club Null|youtube:AJ36INAl52o
+author:proMille deZign|guid:464|media:/vod/2005/assemblytv/464_unknown_entity_by_promille_dezign.avi|position:14|pouet:18361|sceneorg:/parties/2005/assembly05/demo/unknown_entity_by_promille_dezign.zip|techniques:Windows|title:Unknown Entity|youtube:7tsnYjKdsBQ
+author:tAAt|guid:453|media:/vod/2005/assemblytv/453_pyromanssi___pyromance_by_taat.avi|position:15|pouet:18358|sceneorg:/parties/2005/assembly05/demo/pyromanssi_-_pyromance_by_taat.zip|techniques:Windows|title:pyromanssi - pyromance|youtube:kUVQVj3_PoE
 
 
 :section Browser demo
 :youtube-playlist DF807BB42F40A8EC
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Browser demo competition limited entries to use 2005 version of browsers on a high-end PC.</p>
 
-author:Shingebis|media:/vod/2005/assemblytv/223_redbug_by_shingebis.avi|position:1|pouet:18326|sceneorg:/parties/2005/assembly05/browser_demo/04_redbug_by_shingebis.zip|title:Redbug|youtube:6vkCmWpVYZI
-author:komplex|media:/vod/2005/assemblytv/222_the_drop_by_komplex.avi|position:2|pouet:18325|sceneorg:/parties/2005/assembly05/browser_demo/03_drop_by_komplex_final.zip|title:the drop|youtube:QMP5xUPh98k
-author:IKU|media:/vod/2005/assemblytv/224_pure_javascript_demo_by_iku.avi|position:3|pouet:18327|sceneorg:/parties/2005/assembly05/browser_demo/06_pure_javascript_demo_by_iku.zip|title:pure javascript demo|youtube:HpIsTeK7P08
-author:ribbon + bomb|media:/vod/2005/assemblytv/225_neja_by_ribbon___bomb.avi|position:4|pouet:18328|sceneorg:/parties/2005/assembly05/browser_demo/07_neja_by_ribbon_+_bomb_1.zip|title:Neja|youtube:0JB66fttJXY
-author:Inapt & Static|media:/vod/2005/assemblytv/741_scene_of_life_by_inapt___static.avi|position:5|pouet:18329|sceneorg:/parties/2005/assembly05/browser_demo/05_scene_of_life_by_inapt___static.zip|title:Scene of Life|youtube:BAOibw_qbtM
-author:Pyrotech|media:/vod/2005/assemblytv/221_i_mofo_by_pyrotech.avi|position:6|pouet:18330|sceneorg:/parties/2005/assembly05/browser_demo/02_i_mofo_by_pyrotech.zip|title:I,Mofo|youtube:rlc0MYMBMxI
-author:CND GROUP|media:/vod/2005/assemblytv/226_etsin_unelmaa_by_cnd_group.avi|position:7|pouet:18331|sceneorg:/parties/2005/assembly05/browser_demo/01_etsin_unelmaa_by_cnd_group.zip|title:Etsin unelmaa|youtube:jpZBTUFhIbs
+author:Shingebis|guid:223|media:/vod/2005/assemblytv/223_redbug_by_shingebis.avi|position:1|pouet:18326|sceneorg:/parties/2005/assembly05/browser_demo/04_redbug_by_shingebis.zip|title:Redbug|youtube:6vkCmWpVYZI
+author:komplex|guid:222|media:/vod/2005/assemblytv/222_the_drop_by_komplex.avi|position:2|pouet:18325|sceneorg:/parties/2005/assembly05/browser_demo/03_drop_by_komplex_final.zip|title:the drop|youtube:QMP5xUPh98k
+author:IKU|guid:224|media:/vod/2005/assemblytv/224_pure_javascript_demo_by_iku.avi|position:3|pouet:18327|sceneorg:/parties/2005/assembly05/browser_demo/06_pure_javascript_demo_by_iku.zip|title:pure javascript demo|youtube:HpIsTeK7P08
+author:ribbon + bomb|guid:225|media:/vod/2005/assemblytv/225_neja_by_ribbon___bomb.avi|position:4|pouet:18328|sceneorg:/parties/2005/assembly05/browser_demo/07_neja_by_ribbon_+_bomb_1.zip|title:Neja|youtube:0JB66fttJXY
+author:Inapt & Static|guid:741|media:/vod/2005/assemblytv/741_scene_of_life_by_inapt___static.avi|position:5|pouet:18329|sceneorg:/parties/2005/assembly05/browser_demo/05_scene_of_life_by_inapt___static.zip|title:Scene of Life|youtube:BAOibw_qbtM
+author:Pyrotech|guid:221|media:/vod/2005/assemblytv/221_i_mofo_by_pyrotech.avi|position:6|pouet:18330|sceneorg:/parties/2005/assembly05/browser_demo/02_i_mofo_by_pyrotech.zip|title:I,Mofo|youtube:rlc0MYMBMxI
+author:CND GROUP|guid:226|media:/vod/2005/assemblytv/226_etsin_unelmaa_by_cnd_group.avi|position:7|pouet:18331|sceneorg:/parties/2005/assembly05/browser_demo/01_etsin_unelmaa_by_cnd_group.zip|title:Etsin unelmaa|youtube:jpZBTUFhIbs
 
 
 :section Instrumental music
@@ -388,28 +388,28 @@ author:wAMMA|sceneorg:/parties/2005/assembly05/grfx/freestyle/roger_by_wamma.zip
 :youtube-playlist FC280AF8A7F4466E
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 
-author:AssemblyTV|media:/vod/2005/assemblytv/107_pelikonepeijoonit___mbnet_standi.avi|title:Pelikonepeijoonit - MBnet-ständi|youtube:xD0Gs87LMxc
-author:AssemblyTV|media:/vod/2005/assemblytv/112_katu_gallup.avi|title:Katu-gallup|youtube:GThPOrBR3nc
-author:AssemblyTV|media:/vod/2005/assemblytv/114_steve_chang_says_something_before_4k_int.avi|title:Steve Chiang says something before 4k intro|youtube:1NQ6rHsNkm4
-author:AssemblyTV|media:/vod/2005/assemblytv/115_steve_c__from_ea_before_64k_intro.avi|title:Steve Chiang from EA before 64k intro|youtube:5DYIdl7g39U
-author:AssemblyTV|media:/vod/2005/assemblytv/117_matthew_sekoilua.avi|title:Matthew-sekoilua|youtube:mBDKBLVwbzM
-author:AssemblyTV|media:/vod/2005/assemblytv/130_abyss_alku_haastattelu.avi|title:Abyss - alkuhaastattelu|youtube:oQnwKf7Bhu4
-author:AssemblyTV|media:/vod/2005/assemblytv/134_oldschool_haastattelu.avi|title:Oldschool-haastattelu|youtube:E_9yBRRCobM
-author:AssemblyTV|media:/vod/2005/assemblytv/137_romanticvision_haastis.avi|title:Romanticivision-haastis|youtube:c06C89WE0tE
-author:AssemblyTV|media:/vod/2005/assemblytv/140_cd_n_heitto_kompo.avi|title:CD:n heitto -compo|youtube:xnUn6K3_rFw
-author:AssemblyTV|media:/vod/2005/assemblytv/142_perjantain_robosota.avi|title:Perjantain robosota|youtube:kdhK6Ve7U28
-author:AssemblyTV|media:/vod/2005/assemblytv/199_jalkapallo_kompo.avi|title:Jalkapallo-compo|youtube:k769QjXjz1c
-author:AssemblyTV|media:/vod/2005/assemblytv/200_wcg_insert_1__wcg_tyypin_haastattelu.avi|title:WCG insert 1 - WCG-tyypin haastattelu|youtube:4uCwCxeGq0I
-author:AssemblyTV|media:/vod/2005/assemblytv/201_wcg_haastattelu_joku_pelitiimi.avi|title:WCG-haastattelu, joku pelitiimi|youtube:fdMgXTq0l4M
-author:AssemblyTV|media:/vod/2005/assemblytv/202_lentokuvaa_2.avi|title:Lentokuvaa 2|youtube:oKmYE0DQf_E
-author:AssemblyTV|media:/vod/2005/assemblytv/208_interview_with_some_amd_guy.avi|title:Interview with some AMD guy|youtube:1sbC54l2CjE
-author:AssemblyTV|media:/vod/2005/assemblytv/217_dhbb_haastis.avi|title:DHBB-haastis|youtube:FsjyxJrScGI
-author:AssemblyTV|media:/vod/2005/assemblytv/218_k___vij___n_syntt___rit.avi|title:Kävijän synttärit|youtube:MGox0kTeNic
-author:AssemblyTV|media:/vod/2005/assemblytv/54_organizers.avi|title:Organizers|youtube:3LsMWKGFNNE
-author:AssemblyTV|media:/vod/2005/assemblytv/744_rakkautta___asm05__feat__esa_ja__ismo__b.avi|title:Rakkautta - ASM05 feat. Esa ja Ismo|youtube:9tFEJcIQRSA
-author:AssemblyTV|media:/vod/2005/assemblytv/84_organizers_answer.avi|title:Organizers answer|youtube:zbR1ZWuzkJo
-author:AssemblyTV|media:/vod/2005/assemblytv/95_nukkumapaikkojen_testaus.avi|title:Nukkumapaikkojen testaus|youtube:Evy8d5Zl7CI
-author:AssemblyTV|media:/vod/2005/assemblytv/98_kun_valot_sammuivat.avi|title:Kun valot sammuivat|youtube:0NgNisLSPxo
+author:AssemblyTV|guid:107|media:/vod/2005/assemblytv/107_pelikonepeijoonit___mbnet_standi.avi|title:Pelikonepeijoonit - MBnet-ständi|youtube:xD0Gs87LMxc
+author:AssemblyTV|guid:112|media:/vod/2005/assemblytv/112_katu_gallup.avi|title:Katu-gallup|youtube:GThPOrBR3nc
+author:AssemblyTV|guid:114|media:/vod/2005/assemblytv/114_steve_chang_says_something_before_4k_int.avi|title:Steve Chiang says something before 4k intro|youtube:1NQ6rHsNkm4
+author:AssemblyTV|guid:115|media:/vod/2005/assemblytv/115_steve_c__from_ea_before_64k_intro.avi|title:Steve Chiang from EA before 64k intro|youtube:5DYIdl7g39U
+author:AssemblyTV|guid:117|media:/vod/2005/assemblytv/117_matthew_sekoilua.avi|title:Matthew-sekoilua|youtube:mBDKBLVwbzM
+author:AssemblyTV|guid:130|media:/vod/2005/assemblytv/130_abyss_alku_haastattelu.avi|title:Abyss - alkuhaastattelu|youtube:oQnwKf7Bhu4
+author:AssemblyTV|guid:134|media:/vod/2005/assemblytv/134_oldschool_haastattelu.avi|title:Oldschool-haastattelu|youtube:E_9yBRRCobM
+author:AssemblyTV|guid:137|media:/vod/2005/assemblytv/137_romanticvision_haastis.avi|title:Romanticivision-haastis|youtube:c06C89WE0tE
+author:AssemblyTV|guid:140|media:/vod/2005/assemblytv/140_cd_n_heitto_kompo.avi|title:CD:n heitto -compo|youtube:xnUn6K3_rFw
+author:AssemblyTV|guid:142|media:/vod/2005/assemblytv/142_perjantain_robosota.avi|title:Perjantain robosota|youtube:kdhK6Ve7U28
+author:AssemblyTV|guid:199|media:/vod/2005/assemblytv/199_jalkapallo_kompo.avi|title:Jalkapallo-compo|youtube:k769QjXjz1c
+author:AssemblyTV|guid:200|media:/vod/2005/assemblytv/200_wcg_insert_1__wcg_tyypin_haastattelu.avi|title:WCG insert 1 - WCG-tyypin haastattelu|youtube:4uCwCxeGq0I
+author:AssemblyTV|guid:201|media:/vod/2005/assemblytv/201_wcg_haastattelu_joku_pelitiimi.avi|title:WCG-haastattelu, joku pelitiimi|youtube:fdMgXTq0l4M
+author:AssemblyTV|guid:202|media:/vod/2005/assemblytv/202_lentokuvaa_2.avi|title:Lentokuvaa 2|youtube:oKmYE0DQf_E
+author:AssemblyTV|guid:208|media:/vod/2005/assemblytv/208_interview_with_some_amd_guy.avi|title:Interview with some AMD guy|youtube:1sbC54l2CjE
+author:AssemblyTV|guid:217|media:/vod/2005/assemblytv/217_dhbb_haastis.avi|title:DHBB-haastis|youtube:FsjyxJrScGI
+author:AssemblyTV|guid:218|media:/vod/2005/assemblytv/218_k___vij___n_syntt___rit.avi|title:Kävijän synttärit|youtube:MGox0kTeNic
+author:AssemblyTV|guid:54|media:/vod/2005/assemblytv/54_organizers.avi|title:Organizers|youtube:3LsMWKGFNNE
+author:AssemblyTV|guid:744|media:/vod/2005/assemblytv/744_rakkautta___asm05__feat__esa_ja__ismo__b.avi|title:Rakkautta - ASM05 feat. Esa ja Ismo|youtube:9tFEJcIQRSA
+author:AssemblyTV|guid:84|media:/vod/2005/assemblytv/84_organizers_answer.avi|title:Organizers answer|youtube:zbR1ZWuzkJo
+author:AssemblyTV|guid:95|media:/vod/2005/assemblytv/95_nukkumapaikkojen_testaus.avi|title:Nukkumapaikkojen testaus|youtube:Evy8d5Zl7CI
+author:AssemblyTV|guid:98|media:/vod/2005/assemblytv/98_kun_valot_sammuivat.avi|title:Kun valot sammuivat|youtube:0NgNisLSPxo
 
 
 :section Seminars
@@ -446,9 +446,190 @@ author:Richard Huddy|media:/vod/2005/seminars/ati_crossfire_by_richard_huddy.avi
 :ranked false
 :galleriafi /kuvat/Assembly 2005/
 
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_01.jpg|title:Lauantai-asm_01.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_02.jpg|title:Lauantai-asm_02.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_03.jpg|title:Lauantai-asm_03.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_04.jpg|title:Lauantai-asm_04.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_05.jpg|title:Lauantai-asm_05.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_06.jpg|title:Lauantai-asm_06.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_07.jpg|title:Lauantai-asm_07.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_08.jpg|title:Lauantai-asm_08.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_09.jpg|title:Lauantai-asm_09.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_10.jpg|title:Lauantai-asm_10.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_11.jpg|title:Lauantai-asm_11.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_12.jpg|title:Lauantai-asm_12.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_13.jpg|title:Lauantai-asm_13.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_14.jpg|title:Lauantai-asm_14.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_15.jpg|title:Lauantai-asm_15.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_16.jpg|title:Lauantai-asm_16.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_17.jpg|title:Lauantai-asm_17.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_18.jpg|title:Lauantai-asm_18.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_01.jpg|title:Perjantai-asm_01.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_02.jpg|title:Perjantai-asm_02.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_03.jpg|title:Perjantai-asm_03.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_04.jpg|title:Perjantai-asm_04.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_05.jpg|title:Perjantai-asm_05.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_06.jpg|title:Perjantai-asm_06.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_07.jpg|title:Perjantai-asm_07.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_08.jpg|title:Perjantai-asm_08.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_09.jpg|title:Perjantai-asm_09.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_10.jpg|title:Perjantai-asm_10.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_11.jpg|title:Perjantai-asm_11.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_12.jpg|title:Perjantai-asm_12.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_13.jpg|title:Perjantai-asm_13.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_14.jpg|title:Perjantai-asm_14.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_15.jpg|title:Perjantai-asm_15.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_16.jpg|title:Perjantai-asm_16.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_17.jpg|title:Perjantai-asm_17.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_18.jpg|title:Perjantai-asm_18.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_19.jpg|title:Perjantai-asm_19.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_20.jpg|title:Perjantai-asm_20.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_21.jpg|title:Perjantai-asm_21.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_22.jpg|title:Perjantai-asm_22.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_23.jpg|title:Perjantai-asm_23.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_24.jpg|title:Perjantai-asm_24.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_25.jpg|title:Perjantai-asm_25.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_26.jpg|title:Perjantai-asm_26.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_27.jpg|title:Perjantai-asm_27.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_28.jpg|title:Perjantai-asm_28.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_29.jpg|title:Perjantai-asm_29.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_30.jpg|title:Perjantai-asm_30.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_31.jpg|title:Perjantai-asm_31.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_32.jpg|title:Perjantai-asm_32.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_33.jpg|title:Perjantai-asm_33.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_34.jpg|title:Perjantai-asm_34.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_35.jpg|title:Perjantai-asm_35.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_36.jpg|title:Perjantai-asm_36.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_37.jpg|title:Perjantai-asm_37.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_38.jpg|title:Perjantai-asm_38.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_39.jpg|title:Perjantai-asm_39.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_40.jpg|title:Perjantai-asm_40.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_41.jpg|title:Perjantai-asm_41.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_42.jpg|title:Perjantai-asm_42.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_43.jpg|title:Perjantai-asm_43.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_44.jpg|title:Perjantai-asm_44.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_45.jpg|title:Perjantai-asm_45.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_46.jpg|title:Perjantai-asm_46.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_47.jpg|title:Perjantai-asm_47.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_48.jpg|title:Perjantai-asm_48.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_49.jpg|title:Perjantai-asm_49.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_50.jpg|title:Perjantai-asm_50.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_51.jpg|title:Perjantai-asm_51.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_52.jpg|title:Perjantai-asm_52.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_CU.jpg|title:Seremoniat-sersu_CU.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/seralku.JPG|title:Seremoniat-seralku.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_01.jpg|title:Seremoniat-serla_01.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_02.jpg|title:Seremoniat-serla_02.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_03.jpg|title:Seremoniat-serla_03.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_04.jpg|title:Seremoniat-serla_04.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_05.jpg|title:Seremoniat-serla_05.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_06.jpg|title:Seremoniat-serla_06.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_07.jpg|title:Seremoniat-serla_07.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_08.jpg|title:Seremoniat-serla_08.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_09.jpg|title:Seremoniat-serla_09.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_10.jpg|title:Seremoniat-serla_10.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_11.jpg|title:Seremoniat-serla_11.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_12.jpg|title:Seremoniat-sersu_12.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_13.jpg|title:Seremoniat-sersu_13.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_14.jpg|title:Seremoniat-sersu_14.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_15.jpg|title:Seremoniat-sersu_15.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_16.jpg|title:Seremoniat-sersu_16.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_17.jpg|title:Seremoniat-sersu_17.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_18.jpg|title:Seremoniat-sersu_18.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_19.jpg|title:Seremoniat-sersu_19.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_20.jpg|title:Seremoniat-sersu_20.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_21.jpg|title:Seremoniat-sersu_21.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_22.jpg|title:Seremoniat-sersu_22.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_23.jpg|title:Seremoniat-sersu_23.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_24.jpg|title:Seremoniat-sersu_24.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_25.jpg|title:Seremoniat-sersu_25.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_26.jpg|title:Seremoniat-sersu_26.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_27.jpg|title:Seremoniat-sersu_27.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_28.jpg|title:Seremoniat-sersu_28.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_29.jpg|title:Seremoniat-sersu_29.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_30.jpg|title:Seremoniat-sersu_30.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_31.jpg|title:Seremoniat-sersu_31.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_32.jpg|title:Seremoniat-sersu_32.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_33.jpg|title:Seremoniat-sersu_33.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_34.jpg|title:Seremoniat-sersu_34.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_35.jpg|title:Seremoniat-sersu_35.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_36.JPG|title:Seremoniat-sersu_36.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_37.jpg|title:Seremoniat-sersu_37.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_38.JPG|title:Seremoniat-sersu_38.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_39.JPG|title:Seremoniat-sersu_39.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_40.JPG|title:Seremoniat-sersu_40.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_41.JPG|title:Seremoniat-sersu_41.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_42.JPG|title:Seremoniat-sersu_42.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_43.JPG|title:Seremoniat-sersu_43.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_44.JPG|title:Seremoniat-sersu_44.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_45.JPG|title:Seremoniat-sersu_45.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_46.JPG|title:Seremoniat-sersu_46.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_47.JPG|title:Seremoniat-sersu_47.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_48.JPG|title:Seremoniat-sersu_48.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_49.JPG|title:Seremoniat-sersu_49.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_50.JPG|title:Seremoniat-sersu_50.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_51.JPG|title:Seremoniat-sersu_51.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_52.JPG|title:Seremoniat-sersu_52.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_53.JPG|title:Seremoniat-sersu_53.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_54.JPG|title:Seremoniat-sersu_54.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_55.JPG|title:Seremoniat-sersu_55.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_56.JPG|title:Seremoniat-sersu_56.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_57.JPG|title:Seremoniat-sersu_57.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_58.JPG|title:Seremoniat-sersu_58.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_59.JPG|title:Seremoniat-sersu_59.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_60.JPG|title:Seremoniat-sersu_60.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_61.JPG|title:Seremoniat-sersu_61.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_62.JPG|title:Seremoniat-sersu_62.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_63.JPG|title:Seremoniat-sersu_63.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_64.JPG|title:Seremoniat-sersu_64.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_65.JPG|title:Seremoniat-sersu_65.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_43.JPG|title:Sunnuntai-asm_43.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_01.JPG|title:Sunnuntai-asm_01.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_02.JPG|title:Sunnuntai-asm_02.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_03.JPG|title:Sunnuntai-asm_03.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_04.JPG|title:Sunnuntai-asm_04.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_05.JPG|title:Sunnuntai-asm_05.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_06.JPG|title:Sunnuntai-asm_06.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_07.JPG|title:Sunnuntai-asm_07.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_08.JPG|title:Sunnuntai-asm_08.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_09.JPG|title:Sunnuntai-asm_09.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_10.JPG|title:Sunnuntai-asm_10.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_11.JPG|title:Sunnuntai-asm_11.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_12.JPG|title:Sunnuntai-asm_12.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_13.JPG|title:Sunnuntai-asm_13.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_14.JPG|title:Sunnuntai-asm_14.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_15.JPG|title:Sunnuntai-asm_15.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_16.JPG|title:Sunnuntai-asm_16.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_17.JPG|title:Sunnuntai-asm_17.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_18.JPG|title:Sunnuntai-asm_18.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_19.JPG|title:Sunnuntai-asm_19.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_20.JPG|title:Sunnuntai-asm_20.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_21.JPG|title:Sunnuntai-asm_21.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_22.JPG|title:Sunnuntai-asm_22.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_23.JPG|title:Sunnuntai-asm_23.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_24.JPG|title:Sunnuntai-asm_24.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_25.JPG|title:Sunnuntai-asm_25.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_26.JPG|title:Sunnuntai-asm_26.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_27.JPG|title:Sunnuntai-asm_27.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_28.JPG|title:Sunnuntai-asm_28.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_29.JPG|title:Sunnuntai-asm_29.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_30.JPG|title:Sunnuntai-asm_30.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_31.JPG|title:Sunnuntai-asm_31.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_32.JPG|title:Sunnuntai-asm_32.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_33.JPG|title:Sunnuntai-asm_33.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_34.JPG|title:Sunnuntai-asm_34.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_35.JPG|title:Sunnuntai-asm_35.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_36.JPG|title:Sunnuntai-asm_36.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_37.JPG|title:Sunnuntai-asm_37.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_38.JPG|title:Sunnuntai-asm_38.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_39.JPG|title:Sunnuntai-asm_39.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_40.JPG|title:Sunnuntai-asm_40.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_41.JPG|title:Sunnuntai-asm_41.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_42.JPG|title:Sunnuntai-asm_42.JPG
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x07.jpg|title:Torstai-asm_x07.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_001.JPG|title:Torstai-asm_001.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_002.JPG|title:Torstai-asm_002.JPG
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_01.jpg|title:Torstai-asm_01.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_002.JPG|title:Torstai-asm_002.JPG
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_02.jpg|title:Torstai-asm_02.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_03.jpg|title:Torstai-asm_03.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_04.jpg|title:Torstai-asm_04.jpg
@@ -532,7 +713,6 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_81.jpg|title:T
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_82.jpg|title:Torstai-asm_82.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_83.jpg|title:Torstai-asm_83.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_84.jpg|title:Torstai-asm_84.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_85.jpg|title:Torstai-asm_85.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_86.jpg|title:Torstai-asm_86.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_87.jpg|title:Torstai-asm_87.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_88.jpg|title:Torstai-asm_88.jpg
@@ -554,185 +734,4 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x03.jpg|title:
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x04.jpg|title:Torstai-asm_x04.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x05.jpg|title:Torstai-asm_x05.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x06.jpg|title:Torstai-asm_x06.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Torstai/asm_x07.jpg|title:Torstai-asm_x07.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/seralku.JPG|title:Seremoniat-seralku.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_01.jpg|title:Seremoniat-serla_01.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_02.jpg|title:Seremoniat-serla_02.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_03.jpg|title:Seremoniat-serla_03.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_04.jpg|title:Seremoniat-serla_04.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_05.jpg|title:Seremoniat-serla_05.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_06.jpg|title:Seremoniat-serla_06.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_07.jpg|title:Seremoniat-serla_07.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_08.jpg|title:Seremoniat-serla_08.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_09.jpg|title:Seremoniat-serla_09.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_10.jpg|title:Seremoniat-serla_10.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/serla_11.jpg|title:Seremoniat-serla_11.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_12.jpg|title:Seremoniat-sersu_12.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_13.jpg|title:Seremoniat-sersu_13.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_14.jpg|title:Seremoniat-sersu_14.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_15.jpg|title:Seremoniat-sersu_15.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_16.jpg|title:Seremoniat-sersu_16.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_17.jpg|title:Seremoniat-sersu_17.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_18.jpg|title:Seremoniat-sersu_18.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_19.jpg|title:Seremoniat-sersu_19.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_20.jpg|title:Seremoniat-sersu_20.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_21.jpg|title:Seremoniat-sersu_21.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_22.jpg|title:Seremoniat-sersu_22.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_23.jpg|title:Seremoniat-sersu_23.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_24.jpg|title:Seremoniat-sersu_24.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_25.jpg|title:Seremoniat-sersu_25.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_26.jpg|title:Seremoniat-sersu_26.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_27.jpg|title:Seremoniat-sersu_27.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_28.jpg|title:Seremoniat-sersu_28.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_29.jpg|title:Seremoniat-sersu_29.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_30.jpg|title:Seremoniat-sersu_30.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_31.jpg|title:Seremoniat-sersu_31.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_32.jpg|title:Seremoniat-sersu_32.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_33.jpg|title:Seremoniat-sersu_33.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_34.jpg|title:Seremoniat-sersu_34.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_35.jpg|title:Seremoniat-sersu_35.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_36.JPG|title:Seremoniat-sersu_36.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_37.jpg|title:Seremoniat-sersu_37.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_38.JPG|title:Seremoniat-sersu_38.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_39.JPG|title:Seremoniat-sersu_39.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_40.JPG|title:Seremoniat-sersu_40.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_41.JPG|title:Seremoniat-sersu_41.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_42.JPG|title:Seremoniat-sersu_42.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_43.JPG|title:Seremoniat-sersu_43.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_44.JPG|title:Seremoniat-sersu_44.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_45.JPG|title:Seremoniat-sersu_45.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_46.JPG|title:Seremoniat-sersu_46.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_47.JPG|title:Seremoniat-sersu_47.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_48.JPG|title:Seremoniat-sersu_48.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_49.JPG|title:Seremoniat-sersu_49.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_50.JPG|title:Seremoniat-sersu_50.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_51.JPG|title:Seremoniat-sersu_51.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_52.JPG|title:Seremoniat-sersu_52.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_53.JPG|title:Seremoniat-sersu_53.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_54.JPG|title:Seremoniat-sersu_54.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_55.JPG|title:Seremoniat-sersu_55.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_56.JPG|title:Seremoniat-sersu_56.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_57.JPG|title:Seremoniat-sersu_57.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_58.JPG|title:Seremoniat-sersu_58.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_59.JPG|title:Seremoniat-sersu_59.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_60.JPG|title:Seremoniat-sersu_60.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_61.JPG|title:Seremoniat-sersu_61.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_62.JPG|title:Seremoniat-sersu_62.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_63.JPG|title:Seremoniat-sersu_63.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_64.JPG|title:Seremoniat-sersu_64.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_65.JPG|title:Seremoniat-sersu_65.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Seremoniat/sersu_CU.jpg|title:Seremoniat-sersu_CU.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_01.jpg|title:Perjantai-asm_01.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_02.jpg|title:Perjantai-asm_02.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_03.jpg|title:Perjantai-asm_03.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_04.jpg|title:Perjantai-asm_04.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_05.jpg|title:Perjantai-asm_05.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_06.jpg|title:Perjantai-asm_06.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_07.jpg|title:Perjantai-asm_07.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_08.jpg|title:Perjantai-asm_08.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_09.jpg|title:Perjantai-asm_09.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_10.jpg|title:Perjantai-asm_10.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_11.jpg|title:Perjantai-asm_11.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_12.jpg|title:Perjantai-asm_12.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_13.jpg|title:Perjantai-asm_13.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_14.jpg|title:Perjantai-asm_14.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_15.jpg|title:Perjantai-asm_15.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_16.jpg|title:Perjantai-asm_16.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_17.jpg|title:Perjantai-asm_17.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_18.jpg|title:Perjantai-asm_18.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_19.jpg|title:Perjantai-asm_19.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_20.jpg|title:Perjantai-asm_20.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_21.jpg|title:Perjantai-asm_21.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_22.jpg|title:Perjantai-asm_22.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_23.jpg|title:Perjantai-asm_23.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_24.jpg|title:Perjantai-asm_24.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_25.jpg|title:Perjantai-asm_25.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_26.jpg|title:Perjantai-asm_26.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_27.jpg|title:Perjantai-asm_27.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_28.jpg|title:Perjantai-asm_28.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_29.jpg|title:Perjantai-asm_29.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_30.jpg|title:Perjantai-asm_30.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_31.jpg|title:Perjantai-asm_31.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_32.jpg|title:Perjantai-asm_32.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_33.jpg|title:Perjantai-asm_33.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_34.jpg|title:Perjantai-asm_34.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_35.jpg|title:Perjantai-asm_35.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_36.jpg|title:Perjantai-asm_36.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_37.jpg|title:Perjantai-asm_37.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_38.jpg|title:Perjantai-asm_38.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_39.jpg|title:Perjantai-asm_39.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_40.jpg|title:Perjantai-asm_40.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_41.jpg|title:Perjantai-asm_41.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_42.jpg|title:Perjantai-asm_42.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_43.jpg|title:Perjantai-asm_43.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_44.jpg|title:Perjantai-asm_44.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_45.jpg|title:Perjantai-asm_45.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_46.jpg|title:Perjantai-asm_46.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_47.jpg|title:Perjantai-asm_47.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_48.jpg|title:Perjantai-asm_48.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_49.jpg|title:Perjantai-asm_49.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_50.jpg|title:Perjantai-asm_50.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_51.jpg|title:Perjantai-asm_51.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Perjantai/asm_52.jpg|title:Perjantai-asm_52.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_01.JPG|title:Sunnuntai-asm_01.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_02.JPG|title:Sunnuntai-asm_02.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_03.JPG|title:Sunnuntai-asm_03.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_04.JPG|title:Sunnuntai-asm_04.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_05.JPG|title:Sunnuntai-asm_05.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_06.JPG|title:Sunnuntai-asm_06.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_07.JPG|title:Sunnuntai-asm_07.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_08.JPG|title:Sunnuntai-asm_08.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_09.JPG|title:Sunnuntai-asm_09.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_10.JPG|title:Sunnuntai-asm_10.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_11.JPG|title:Sunnuntai-asm_11.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_12.JPG|title:Sunnuntai-asm_12.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_13.JPG|title:Sunnuntai-asm_13.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_14.JPG|title:Sunnuntai-asm_14.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_15.JPG|title:Sunnuntai-asm_15.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_16.JPG|title:Sunnuntai-asm_16.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_17.JPG|title:Sunnuntai-asm_17.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_18.JPG|title:Sunnuntai-asm_18.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_19.JPG|title:Sunnuntai-asm_19.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_20.JPG|title:Sunnuntai-asm_20.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_21.JPG|title:Sunnuntai-asm_21.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_22.JPG|title:Sunnuntai-asm_22.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_23.JPG|title:Sunnuntai-asm_23.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_24.JPG|title:Sunnuntai-asm_24.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_25.JPG|title:Sunnuntai-asm_25.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_26.JPG|title:Sunnuntai-asm_26.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_27.JPG|title:Sunnuntai-asm_27.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_28.JPG|title:Sunnuntai-asm_28.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_29.JPG|title:Sunnuntai-asm_29.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_30.JPG|title:Sunnuntai-asm_30.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_31.JPG|title:Sunnuntai-asm_31.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_32.JPG|title:Sunnuntai-asm_32.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_33.JPG|title:Sunnuntai-asm_33.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_34.JPG|title:Sunnuntai-asm_34.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_35.JPG|title:Sunnuntai-asm_35.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_36.JPG|title:Sunnuntai-asm_36.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_37.JPG|title:Sunnuntai-asm_37.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_38.JPG|title:Sunnuntai-asm_38.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_39.JPG|title:Sunnuntai-asm_39.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_40.JPG|title:Sunnuntai-asm_40.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_41.JPG|title:Sunnuntai-asm_41.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_42.JPG|title:Sunnuntai-asm_42.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Sunnuntai/asm_43.JPG|title:Sunnuntai-asm_43.JPG
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_01.jpg|title:Lauantai-asm_01.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_02.jpg|title:Lauantai-asm_02.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_03.jpg|title:Lauantai-asm_03.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_04.jpg|title:Lauantai-asm_04.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_05.jpg|title:Lauantai-asm_05.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_06.jpg|title:Lauantai-asm_06.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_07.jpg|title:Lauantai-asm_07.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_08.jpg|title:Lauantai-asm_08.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_09.jpg|title:Lauantai-asm_09.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_10.jpg|title:Lauantai-asm_10.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_11.jpg|title:Lauantai-asm_11.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_12.jpg|title:Lauantai-asm_12.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_13.jpg|title:Lauantai-asm_13.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_14.jpg|title:Lauantai-asm_14.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_15.jpg|title:Lauantai-asm_15.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_16.jpg|title:Lauantai-asm_16.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_17.jpg|title:Lauantai-asm_17.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly 2005/Lauantai/asm_18.jpg|title:Lauantai-asm_18.jpg
 

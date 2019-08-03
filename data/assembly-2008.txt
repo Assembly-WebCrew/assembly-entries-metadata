@@ -27,16 +27,16 @@ author:SpeaK & AKX|sceneorg:/parties/2008/assembly08/extreme/music/merimiehen_he
 :youtube-playlist F3172056BACE5518
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Lasi Interactive|dtv:id_file=4508&id_prod=13386&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51064_1.jpg&width=512&height=404|media:/vod/2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|position:1|pouet:51064|sceneorg:/parties/2008/assembly08/game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|thumbnail:http://i.ytimg.com/vi/nJF9vAMT4qw/0.jpg|title:Dave the Ordinary Spaceman|youtube:nJF9vAMT4qw
+author:Lasi Interactive|dtv:id_file=4508&id_prod=13386&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51064_1.jpg&width=512&height=404|guid:713|media:/vod/2008/Compos/713_Gamedev_Dave_the_ordinary_spaceman_h264_7168kbit.mp4|position:1|pouet:51064|sceneorg:/parties/2008/assembly08/game/dave_the_ordinary_spaceman_by_lasi_interactive.zip|thumbnail:http://i.ytimg.com/vi/nJF9vAMT4qw/0.jpg|title:Dave the Ordinary Spaceman|youtube:nJF9vAMT4qw
 author:tAAt|dtv:id_file=4625&id_prod=13424&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51060_2.jpg&width=512&height=404|position:2|pouet:51060|sceneorg:/parties/2008/assembly08/game/kiuasturvat_feat_vastaisku_by_sx_cracked_by_taat.zip|title:Kiuasturvat feat. VastaIsku by SX cracked
-author:Kloonigames|dtv:id_file=4511&id_prod=13387&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51061.jpg&width=512&height=404|media:/vod/2008/Compos/718_Gamedev_Choke_on_my_groundhog_h264_7168kbit.mp4|position:3|pouet:51061|sceneorg:/parties/2008/assembly08/game/choke_on_my_groundhog_you_bastard_robots_by_kloonigames.zip|thumbnail:http://i.ytimg.com/vi/F_E50Ht0YDw/0.jpg|title:Choke on my Groundhog, YOU BASTARD ROBOTS|youtube:F_E50Ht0YDw
+author:Kloonigames|dtv:id_file=4511&id_prod=13387&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51061.jpg&width=512&height=404|guid:718|media:/vod/2008/Compos/718_Gamedev_Choke_on_my_groundhog_h264_7168kbit.mp4|position:3|pouet:51061|sceneorg:/parties/2008/assembly08/game/choke_on_my_groundhog_you_bastard_robots_by_kloonigames.zip|thumbnail:http://i.ytimg.com/vi/F_E50Ht0YDw/0.jpg|title:Choke on my Groundhog, YOU BASTARD ROBOTS|youtube:F_E50Ht0YDw
 author:Mayoneez, Osmic & Kani|position:4|pouet:51062|sceneorg:/parties/2008/assembly08/game/pakoon_iii__first_blood_by_mayoneez_osmic__kani.zip|title:Pakoon III - First Blood
 author:Mikkosoft Productions|position:5|pouet:51063|sceneorg:/parties/2008/assembly08/game/flipout_by_mikkosoft_productions.zip|title:FlipOut
 author:Siffo & co|position:6|pouet:51066|sceneorg:/parties/2008/assembly08/game/mad_stick_2_by_siffo__co.zip|title:Mad Stick 2
 author:XZM|position:7|pouet:51065|sceneorg:/parties/2008/assembly08/game/argon_by_xzm.zip|title:Argon
 author:SomeRandom|position:8|pouet:51070|title:Tunnel Dodge - www.tunneldodge.com
 author:Droppen|position:9|pouet:51071|sceneorg:/parties/2008/assembly08/game/webdune_by_droppen.zip|title:Webdune
-author:Team Fragment|dtv:id_file=4514&id_prod=13388&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51067_1.jpg&width=512&height=404|media:/vod/2008/Compos/719_Gamedev_London_demo_h264_7168kbit.mp4|position:10|pouet:51067|sceneorg:/parties/2008/assembly08/game/london_demo_by_team_fragment.zip|thumbnail:http://i.ytimg.com/vi/zK7mfayjwcw/0.jpg|title:London Demo|youtube:zK7mfayjwcw
+author:Team Fragment|dtv:id_file=4514&id_prod=13388&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51067_1.jpg&width=512&height=404|guid:719|media:/vod/2008/Compos/719_Gamedev_London_demo_h264_7168kbit.mp4|position:10|pouet:51067|sceneorg:/parties/2008/assembly08/game/london_demo_by_team_fragment.zip|thumbnail:http://i.ytimg.com/vi/zK7mfayjwcw/0.jpg|title:London Demo|youtube:zK7mfayjwcw
 author:TJ GAMES|position:11|pouet:51069|sceneorg:/parties/2008/assembly08/game/f16_fighter_by_tj_games.zip|title:F-16 FIGHTER
 author:Bluefox Games Entertainment|position:12|pouet:51068|sceneorg:/parties/2008/assembly08/game/the_orbixa_by_bluefox_games_entertainment.zip|title:The Orbixa
 
@@ -45,23 +45,23 @@ author:Bluefox Games Entertainment|position:12|pouet:51068|sceneorg:/parties/200
 :youtube-playlist 4A0BF4112EBF7425
 :description <p>Demos are programs that generate multimedia presentations in real-time on a high-end PC worth of about 1200 euros. Everything has to happen in real-time when demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes that gives enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:fairlight|cappedtv:fairlight-panic_room&width=640&height=382|dtv:id_file=4606&id_prod=13420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51125_1.png&width=512&height=404|media:/vod/2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|position:1|pouet:51125|sceneorg:/parties/2008/assembly08/in64/panic_room_by_fairlight.zip|thumbnail:http://i.ytimg.com/vi/EtaYBqgwy9w/0.jpg|title:panic room|youtube:EtaYBqgwy9w
-author:SQNY|dtv:id_file=4605&id_prod=13419&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51129_1.jpg&width=512&height=404|media:/vod/2008/Compos/772_64k_Nebula_h264_7168kbit.mp4|position:2|pouet:51129|sceneorg:/parties/2008/assembly08/in64/nebula_by_sqny.zip|thumbnail:http://i.ytimg.com/vi/wJ0e6huphLk/0.jpg|title:Nebula|youtube:wJ0e6huphLk
-author:Traction|cappedtv:traction-incognito&width=640&height=512|dtv:id_file=4604&id_prod=13418&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51133_1.jpg&width=512&height=404|media:/vod/2008/Compos/773_64k_Incognito_h264_7168kbit.mp4|position:3|pouet:51133|sceneorg:/parties/2008/assembly08/in64/incognito_by_traction.zip|thumbnail:http://i.ytimg.com/vi/_flCGKwra70/0.jpg|title:Incognito|youtube:_flCGKwra70
-author:immersion|dtv:id_file=4665&id_prod=13438&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51121_1.png&width=512&height=404|media:/vod/2008/Compos/776_64k_Less_than_memorable_h264_7168kbit.mp4|position:4|pouet:51121|sceneorg:/parties/2008/assembly08/in64/less_than_memorable_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/dKxcMJb6w-E/0.jpg|title:less than memorable|youtube:dKxcMJb6w-E
-author:United Force|dtv:id_file=4662&id_prod=13437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51135_1.jpg&width=512&height=404|media:/vod/2008/Compos/771_64k_Crystal_tension_h264_7168kbit.mp4|position:5|pouet:51135|sceneorg:/parties/2008/assembly08/in64/crystal_tension_by_united_force.zip|thumbnail:http://i.ytimg.com/vi/OYvOGXG6e1Y/0.jpg|title:Crystal Tension|youtube:OYvOGXG6e1Y
-author:Alpha Design|media:/vod/2008/Compos/775_64k_Risotto_h264_7168kbit.mp4|position:6|pouet:51139|sceneorg:/parties/2008/assembly08/in64/risotto_by_alpha_design.zip|thumbnail:http://i.ytimg.com/vi/aV7AXq3-VGQ/0.jpg|title:Risotto|youtube:aV7AXq3-VGQ
-author:mrp|media:/vod/2008/Compos/770_64k_HypnotizeHasselnuss_h264_7168kbit.mp4|position:7|pouet:51141|sceneorg:/parties/2008/assembly08/in64/hypnotizehasselnuss_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/HtoXzHSN8L8/0.jpg|title:HypnotizeHasselnuss|youtube:HtoXzHSN8L8
+author:fairlight|cappedtv:fairlight-panic_room&width=640&height=382|dtv:id_file=4606&id_prod=13420&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51125_1.png&width=512&height=404|guid:774|media:/vod/2008/Compos/774_64k_Panic_room_h264_7168kbit.mp4|position:1|pouet:51125|sceneorg:/parties/2008/assembly08/in64/panic_room_by_fairlight.zip|thumbnail:http://i.ytimg.com/vi/EtaYBqgwy9w/0.jpg|title:panic room|youtube:EtaYBqgwy9w
+author:SQNY|dtv:id_file=4605&id_prod=13419&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51129_1.jpg&width=512&height=404|guid:772|media:/vod/2008/Compos/772_64k_Nebula_h264_7168kbit.mp4|position:2|pouet:51129|sceneorg:/parties/2008/assembly08/in64/nebula_by_sqny.zip|thumbnail:http://i.ytimg.com/vi/wJ0e6huphLk/0.jpg|title:Nebula|youtube:wJ0e6huphLk
+author:Traction|cappedtv:traction-incognito&width=640&height=512|dtv:id_file=4604&id_prod=13418&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51133_1.jpg&width=512&height=404|guid:773|media:/vod/2008/Compos/773_64k_Incognito_h264_7168kbit.mp4|position:3|pouet:51133|sceneorg:/parties/2008/assembly08/in64/incognito_by_traction.zip|thumbnail:http://i.ytimg.com/vi/_flCGKwra70/0.jpg|title:Incognito|youtube:_flCGKwra70
+author:immersion|dtv:id_file=4665&id_prod=13438&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51121_1.png&width=512&height=404|guid:776|media:/vod/2008/Compos/776_64k_Less_than_memorable_h264_7168kbit.mp4|position:4|pouet:51121|sceneorg:/parties/2008/assembly08/in64/less_than_memorable_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/dKxcMJb6w-E/0.jpg|title:less than memorable|youtube:dKxcMJb6w-E
+author:United Force|dtv:id_file=4662&id_prod=13437&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51135_1.jpg&width=512&height=404|guid:771|media:/vod/2008/Compos/771_64k_Crystal_tension_h264_7168kbit.mp4|position:5|pouet:51135|sceneorg:/parties/2008/assembly08/in64/crystal_tension_by_united_force.zip|thumbnail:http://i.ytimg.com/vi/OYvOGXG6e1Y/0.jpg|title:Crystal Tension|youtube:OYvOGXG6e1Y
+author:Alpha Design|guid:775|media:/vod/2008/Compos/775_64k_Risotto_h264_7168kbit.mp4|position:6|pouet:51139|sceneorg:/parties/2008/assembly08/in64/risotto_by_alpha_design.zip|thumbnail:http://i.ytimg.com/vi/aV7AXq3-VGQ/0.jpg|title:Risotto|youtube:aV7AXq3-VGQ
+author:mrp|guid:770|media:/vod/2008/Compos/770_64k_HypnotizeHasselnuss_h264_7168kbit.mp4|position:7|pouet:51141|sceneorg:/parties/2008/assembly08/in64/hypnotizehasselnuss_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/HtoXzHSN8L8/0.jpg|title:HypnotizeHasselnuss|youtube:HtoXzHSN8L8
 
 
 :section Oldskool demo
 :youtube-playlist B957312ECDE5C0B2
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
-author:Byterapers|dtv:id_file=4635&id_prod=13428&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51153_1.gif&width=512&height=404|media:/vod/2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|position:1|pouet:51153|sceneorg:/parties/2008/assembly08/oldschool/demo/renaissance_by_byterapers.zip|thumbnail:http://i.ytimg.com/vi/-DpNyt_6S7Y/0.jpg|title:Renaissance|youtube:-DpNyt_6S7Y
-author:PWP|dtv:id_file=4632&id_prod=13427&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51115_1.png&width=512&height=404|media:/vod/2008/Compos/742_Oldskool_The_next_level_h264_7168kbit.mp4|position:2|pouet:51115|sceneorg:/parties/2008/assembly08/oldschool/demo/the_next_level_by_pwp.zip|thumbnail:http://i.ytimg.com/vi/T_WGIkfS2Pc/0.jpg|title:The Next Level|youtube:T_WGIkfS2Pc
-author:Dekadence+Unique+RNO+Parallax|cappedtv:rave_network_overscan_dekadenc-hardknee_lotus&width=640&height=320|dtv:id_file=4630&id_prod=13426&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51161_1.png&width=512&height=404|media:/vod/2008/Compos/743_Oldskool_Hardknee_Lotus_h264_7168kbit.mp4|position:3|pouet:51161|sceneorg:/parties/2008/assembly08/oldschool/demo/hardknee_lotus_by_dekadenceuniquernoparallax.lha|thumbnail:http://i.ytimg.com/vi/wZd3CCORnDg/0.jpg|title:Hardknee Lotus|youtube:wZd3CCORnDg
-author:Greippi/limbo|dtv:id_file=4628&id_prod=13425&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51145_1.png&width=512&height=404|media:/vod/2008/Compos/745_Oldskool_Ex-flies_h264_7168kbit.mp4|position:4|pouet:51145|sceneorg:/parties/2008/assembly08/oldschool/demo/ex-flies_by_greippilimbo.zip|thumbnail:http://i.ytimg.com/vi/i3Gh1fajNYg/0.jpg|title:Ex-flies.exe|youtube:i3Gh1fajNYg
+author:Byterapers|dtv:id_file=4635&id_prod=13428&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51153_1.gif&width=512&height=404|guid:744|media:/vod/2008/Compos/744_Oldskool_Renaissance_h264_7168kbit.mp4|position:1|pouet:51153|sceneorg:/parties/2008/assembly08/oldschool/demo/renaissance_by_byterapers.zip|thumbnail:http://i.ytimg.com/vi/-DpNyt_6S7Y/0.jpg|title:Renaissance|youtube:-DpNyt_6S7Y
+author:PWP|dtv:id_file=4632&id_prod=13427&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51115_1.png&width=512&height=404|guid:742|media:/vod/2008/Compos/742_Oldskool_The_next_level_h264_7168kbit.mp4|position:2|pouet:51115|sceneorg:/parties/2008/assembly08/oldschool/demo/the_next_level_by_pwp.zip|thumbnail:http://i.ytimg.com/vi/T_WGIkfS2Pc/0.jpg|title:The Next Level|youtube:T_WGIkfS2Pc
+author:Dekadence+Unique+RNO+Parallax|cappedtv:rave_network_overscan_dekadenc-hardknee_lotus&width=640&height=320|dtv:id_file=4630&id_prod=13426&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51161_1.png&width=512&height=404|guid:743|media:/vod/2008/Compos/743_Oldskool_Hardknee_Lotus_h264_7168kbit.mp4|position:3|pouet:51161|sceneorg:/parties/2008/assembly08/oldschool/demo/hardknee_lotus_by_dekadenceuniquernoparallax.lha|thumbnail:http://i.ytimg.com/vi/wZd3CCORnDg/0.jpg|title:Hardknee Lotus|youtube:wZd3CCORnDg
+author:Greippi/limbo|dtv:id_file=4628&id_prod=13425&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51145_1.png&width=512&height=404|guid:745|media:/vod/2008/Compos/745_Oldskool_Ex-flies_h264_7168kbit.mp4|position:4|pouet:51145|sceneorg:/parties/2008/assembly08/oldschool/demo/ex-flies_by_greippilimbo.zip|thumbnail:http://i.ytimg.com/vi/i3Gh1fajNYg/0.jpg|title:Ex-flies.exe|youtube:i3Gh1fajNYg
 
 
 :section Fast graphics
@@ -154,17 +154,17 @@ author:Timo Perämaa|sceneorg:/parties/2008/assembly08/grfx/alien_suck_my_by_tim
 :youtube-playlist 8B3ACE1BF820E253
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2008 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:Portal Process & TBC|cappedtv:portal_process_tbc-nucleophile&width=640&height=480|dtv:id_file=4499&id_prod=13383&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51114_1.jpg&width=512&height=404|media:/vod/2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|position:1|pouet:51114|sceneorg:/parties/2008/assembly08/in4k/nucleophile_by_portal_process__tbc.zip|thumbnail:http://i.ytimg.com/vi/ixnLwEQNlXI/0.jpg|title:Nucleophile|youtube:ixnLwEQNlXI
-author:Juippi & Trilkk|dtv:id_file=4559&id_prod=13403&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51137_1.png&width=512&height=404|media:/vod/2008/Compos/733_4k_Stick_animation_engine_4000_h264_7168kbit.mp4|position:2|pouet:51137|sceneorg:/parties/2008/assembly08/in4k/stick_animation_engine_4000_by_juippi__trilkk.tar.gz|thumbnail:http://i.ytimg.com/vi/6ufUnApErS4/0.jpg|title:Stick Animation Engine 4000|youtube:6ufUnApErS4
-author:fairlight|dtv:id_file=4556&id_prod=13402&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51122_1.jpg&width=512&height=404|media:/vod/2008/Compos/738_4k_Deep_science_h264_7168kbit.mp4|position:3|pouet:51122|sceneorg:/parties/2008/assembly08/in4k/deep_science_by_fairlight.zip|thumbnail:http://i.ytimg.com/vi/cYqj5h_HSng/0.jpg|title:deep science|youtube:cYqj5h_HSng
-author:Unknown Artists|dtv:id_file=4553&id_prod=13401&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51126_1.jpg&width=512&height=404|media:/vod/2008/Compos/729_4k_Larvae_h264_7168kbit.mp4|position:4|pouet:51126|sceneorg:/parties/2008/assembly08/in4k/larvae_by_unknown_artists.zip|thumbnail:http://i.ytimg.com/vi/AF3U1fKtVro/0.jpg|title:Larvae|youtube:AF3U1fKtVro
-author:tvt|dtv:id_file=4550&id_prod=13400&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51178_1.jpg&width=512&height=404|media:/vod/2008/Compos/739_4k_ACkid_x-lepsy_h264_7168kbit.mp4|position:5|pouet:51178|sceneorg:/parties/2008/assembly08/in4k/ackid_xlepsy_by_tvt.zip|thumbnail:http://i.ytimg.com/vi/iV0Hr6fLXg8/0.jpg|title:ACkid x-lepsy|youtube:iV0Hr6fLXg8
-author:PuavoHard|dtv:id_file=4547&id_prod=13399&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51150_1.jpg&width=512&height=404|media:/vod/2008/Compos/732_4k_IMC_cubes_h264_7168kbit.mp4|position:6|pouet:51150|sceneorg:/parties/2008/assembly08/in4k/imc_cubes_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/b0LCD3hc0c4/0.jpg|title:IMC Cubes|youtube:b0LCD3hc0c4
-author:MakeGho/Blobtrox|dtv:id_file=4544&id_prod=13398&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51179_1.jpg&width=512&height=404|media:/vod/2008/Compos/727_4k_Academic_nonsense_h264_7168kbit.mp4|position:7|pouet:51179|sceneorg:/parties/2008/assembly08/in4k/academic_nonsense_by_makeghoblobtrox.zip|thumbnail:http://i.ytimg.com/vi/ct20u4dTJMU/0.jpg|title:Academic Nonsense|youtube:ct20u4dTJMU
-author:Digimind|dtv:id_file=4541&id_prod=13397&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51123_1.png&width=512&height=404|media:/vod/2008/Compos/740_4k_Multivision_h264_7168kbit.mp4|position:8|pouet:51123|sceneorg:/parties/2008/assembly08/in4k/multivision_by_digimind.zip|thumbnail:http://i.ytimg.com/vi/wg3Nvkexr8I/0.jpg|title:Multivision|youtube:wg3Nvkexr8I
-author:lucid|dtv:id_file=4538&id_prod=13396&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51168_1.png&width=512&height=404|media:/vod/2008/Compos/734_4k_Intermezzo_h264_7168kbit.mp4|position:9|pouet:51168|sceneorg:/parties/2008/assembly08/in4k/intermezzo_by_lucid.zip|thumbnail:http://i.ytimg.com/vi/71sWlfkq_Dg/0.jpg|title:Intermezzo|youtube:71sWlfkq_Dg
-author:Ananasmurska|media:/vod/2008/Compos/730_4k_Siddham_h264_7168kbit.mp4|position:10|pouet:51124|sceneorg:/parties/2008/assembly08/in4k/siddham_by_ananasmurska.zip|thumbnail:http://i.ytimg.com/vi/vY_M4IKWeDE/0.jpg|title:Siddham|youtube:vY_M4IKWeDE
-author:Shape / DCS|media:/vod/2008/Compos/736_4k_Mush_h264_7168kbit.mp4|position:11|pouet:51151|sceneorg:/parties/2008/assembly08/in4k/mush_by_shape__dcs.zip|thumbnail:http://i.ytimg.com/vi/UW34vczqWTI/0.jpg|title:Mush|youtube:UW34vczqWTI
+author:Portal Process & TBC|cappedtv:portal_process_tbc-nucleophile&width=640&height=480|dtv:id_file=4499&id_prod=13383&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51114_1.jpg&width=512&height=404|guid:728|media:/vod/2008/Compos/728_4k_Nucleophile_h264_7168kbit.mp4|position:1|pouet:51114|sceneorg:/parties/2008/assembly08/in4k/nucleophile_by_portal_process__tbc.zip|thumbnail:http://i.ytimg.com/vi/ixnLwEQNlXI/0.jpg|title:Nucleophile|youtube:ixnLwEQNlXI
+author:Juippi & Trilkk|dtv:id_file=4559&id_prod=13403&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51137_1.png&width=512&height=404|guid:733|media:/vod/2008/Compos/733_4k_Stick_animation_engine_4000_h264_7168kbit.mp4|position:2|pouet:51137|sceneorg:/parties/2008/assembly08/in4k/stick_animation_engine_4000_by_juippi__trilkk.tar.gz|thumbnail:http://i.ytimg.com/vi/6ufUnApErS4/0.jpg|title:Stick Animation Engine 4000|youtube:6ufUnApErS4
+author:fairlight|dtv:id_file=4556&id_prod=13402&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51122_1.jpg&width=512&height=404|guid:738|media:/vod/2008/Compos/738_4k_Deep_science_h264_7168kbit.mp4|position:3|pouet:51122|sceneorg:/parties/2008/assembly08/in4k/deep_science_by_fairlight.zip|thumbnail:http://i.ytimg.com/vi/cYqj5h_HSng/0.jpg|title:deep science|youtube:cYqj5h_HSng
+author:Unknown Artists|dtv:id_file=4553&id_prod=13401&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51126_1.jpg&width=512&height=404|guid:729|media:/vod/2008/Compos/729_4k_Larvae_h264_7168kbit.mp4|position:4|pouet:51126|sceneorg:/parties/2008/assembly08/in4k/larvae_by_unknown_artists.zip|thumbnail:http://i.ytimg.com/vi/AF3U1fKtVro/0.jpg|title:Larvae|youtube:AF3U1fKtVro
+author:tvt|dtv:id_file=4550&id_prod=13400&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51178_1.jpg&width=512&height=404|guid:739|media:/vod/2008/Compos/739_4k_ACkid_x-lepsy_h264_7168kbit.mp4|position:5|pouet:51178|sceneorg:/parties/2008/assembly08/in4k/ackid_xlepsy_by_tvt.zip|thumbnail:http://i.ytimg.com/vi/iV0Hr6fLXg8/0.jpg|title:ACkid x-lepsy|youtube:iV0Hr6fLXg8
+author:PuavoHard|dtv:id_file=4547&id_prod=13399&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51150_1.jpg&width=512&height=404|guid:732|media:/vod/2008/Compos/732_4k_IMC_cubes_h264_7168kbit.mp4|position:6|pouet:51150|sceneorg:/parties/2008/assembly08/in4k/imc_cubes_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/b0LCD3hc0c4/0.jpg|title:IMC Cubes|youtube:b0LCD3hc0c4
+author:MakeGho/Blobtrox|dtv:id_file=4544&id_prod=13398&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51179_1.jpg&width=512&height=404|guid:727|media:/vod/2008/Compos/727_4k_Academic_nonsense_h264_7168kbit.mp4|position:7|pouet:51179|sceneorg:/parties/2008/assembly08/in4k/academic_nonsense_by_makeghoblobtrox.zip|thumbnail:http://i.ytimg.com/vi/ct20u4dTJMU/0.jpg|title:Academic Nonsense|youtube:ct20u4dTJMU
+author:Digimind|dtv:id_file=4541&id_prod=13397&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51123_1.png&width=512&height=404|guid:740|media:/vod/2008/Compos/740_4k_Multivision_h264_7168kbit.mp4|position:8|pouet:51123|sceneorg:/parties/2008/assembly08/in4k/multivision_by_digimind.zip|thumbnail:http://i.ytimg.com/vi/wg3Nvkexr8I/0.jpg|title:Multivision|youtube:wg3Nvkexr8I
+author:lucid|dtv:id_file=4538&id_prod=13396&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51168_1.png&width=512&height=404|guid:734|media:/vod/2008/Compos/734_4k_Intermezzo_h264_7168kbit.mp4|position:9|pouet:51168|sceneorg:/parties/2008/assembly08/in4k/intermezzo_by_lucid.zip|thumbnail:http://i.ytimg.com/vi/71sWlfkq_Dg/0.jpg|title:Intermezzo|youtube:71sWlfkq_Dg
+author:Ananasmurska|guid:730|media:/vod/2008/Compos/730_4k_Siddham_h264_7168kbit.mp4|position:10|pouet:51124|sceneorg:/parties/2008/assembly08/in4k/siddham_by_ananasmurska.zip|thumbnail:http://i.ytimg.com/vi/vY_M4IKWeDE/0.jpg|title:Siddham|youtube:vY_M4IKWeDE
+author:Shape / DCS|guid:736|media:/vod/2008/Compos/736_4k_Mush_h264_7168kbit.mp4|position:11|pouet:51151|sceneorg:/parties/2008/assembly08/in4k/mush_by_shape__dcs.zip|thumbnail:http://i.ytimg.com/vi/UW34vczqWTI/0.jpg|title:Mush|youtube:UW34vczqWTI
 author:Otto Seiskari|sceneorg:/parties/2008/assembly08/in4k/the_island_by_otto_seiskari.zip|title:The Island
 author:Poksi Productions|sceneorg:/parties/2008/assembly08/in4k/last_minute_lolbeat_by_poksi_productions.zip|title:last minute lolbeat
 author:XZM & tAAt|pouet:51138|sceneorg:/parties/2008/assembly08/in4k/fountain_of_marts__vierupuori_by_xzm__taat.zip|title:Fountain of Marts - Vierupuori
@@ -174,27 +174,27 @@ author:XZM & tAAt|pouet:51138|sceneorg:/parties/2008/assembly08/in4k/fountain_of
 :youtube-playlist 587418DFE9A2A8E0
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-author:HBC|cappedtv:bit_cheese-field_trip&width=832&height=468|dtv:id_file=4535&id_prod=13395&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51144_1.png&width=512&height=404|media:/vod/2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|position:1|sceneorg:/parties/2008/assembly08/short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|thumbnail:http://i.ytimg.com/vi/IwxVAvHv-5w/0.jpg|title:Field Trip|youtube:IwxVAvHv-5w
-author:Tekotuotanto|dtv:id_file=4532&id_prod=13394&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51155_1.jpg&width=512&height=404|media:/vod/2008/Compos/761_Short_TimeReal_h264_7168kbit.mp4|position:2|pouet:51155|sceneorg:/parties/2008/assembly08/short/761_short_timereal_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/YrtqcwdRDoQ/0.jpg|title:TimeReal|youtube:YrtqcwdRDoQ
-author:Falgor|dtv:id_file=4529&id_prod=13393&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51156_1.jpg&width=512&height=404|media:/vod/2008/Compos/755_Short_The_ninja_fortress_h264_7168kbit.mp4|position:3|pouet:51156|sceneorg:/parties/2008/assembly08/short/755_short_the_ninja_fortress_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/r2rueod7Xmo/0.jpg|title:The Ninja Fortress|youtube:r2rueod7Xmo
-author:Granma|dtv:id_file=4526&id_prod=13392&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51157_1.jpg&width=512&height=404|media:/vod/2008/Compos/765_Short_Do_it_right_h264_7168kbit.mp4|position:4|pouet:51157|sceneorg:/parties/2008/assembly08/short/765_short_do_it_right_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/sGfMgjDebmQ/0.jpg|title:Do it right|youtube:sGfMgjDebmQ
-author:HBC|cappedtv:bit_cheese-elemental_square_garden0&width=853&height=480|dtv:id_file=4523&id_prod=13391&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51146_1.jpg&width=512&height=404|media:/vod/2008/Compos/753_Short_Elemental_square_garden_h264_7168kbit.mp4|position:5|pouet:51146|sceneorg:/parties/2008/assembly08/short/753_short_elemental_square_garden_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/58t8wU3tFAQ/0.jpg|title:Elemental Square Garden|youtube:58t8wU3tFAQ
-author:Ptman, Opqdonut, Ribbe, Joku|dtv:id_file=4520&id_prod=13390&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51159_1.jpg&width=512&height=404|media:/vod/2008/Compos/768_Short_Sakura_h264_7168kbit.mp4|position:6|pouet:51159|sceneorg:/parties/2008/assembly08/short/768_short_sakura_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/Olf00ZkjyAY/0.jpg|title:Sakura|youtube:Olf00ZkjyAY
-author:Matti Vanhala & Henri Kerko|dtv:id_file=4517&id_prod=13389&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51160_1.jpg&width=512&height=404|media:/vod/2008/Compos/758_Short_They_were_nameless_heroes_h264_7168kbit.mp4|position:7|pouet:51160|sceneorg:/parties/2008/assembly08/short/758_short_they_were_nameless_heroes_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/X7HvqTCtrgA/0.jpg|title:They Were Nameless Heroes|youtube:X7HvqTCtrgA
-author:Region Factible|media:/vod/2008/Compos/767_Short_Tienen_asi_como_un_deje_h264_7168kbit.mp4|position:8|pouet:51162|sceneorg:/parties/2008/assembly08/short/767_short_tienen_asi_como_un_deje_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/e8E766pIOUY/0.jpg|title:Tienen asi como un deje|youtube:e8E766pIOUY
+author:HBC|cappedtv:bit_cheese-field_trip&width=832&height=468|dtv:id_file=4535&id_prod=13395&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51144_1.png&width=512&height=404|guid:764|media:/vod/2008/Compos/764_Short_Field_trip_h264_7168kbit-v2.mp4|position:1|sceneorg:/parties/2008/assembly08/short/764_short_field_trip_h264_1856kbit.mp4-broken-audio-wait-for-update|thumbnail:http://i.ytimg.com/vi/IwxVAvHv-5w/0.jpg|title:Field Trip|youtube:IwxVAvHv-5w
+author:Tekotuotanto|dtv:id_file=4532&id_prod=13394&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51155_1.jpg&width=512&height=404|guid:761|media:/vod/2008/Compos/761_Short_TimeReal_h264_7168kbit.mp4|position:2|pouet:51155|sceneorg:/parties/2008/assembly08/short/761_short_timereal_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/YrtqcwdRDoQ/0.jpg|title:TimeReal|youtube:YrtqcwdRDoQ
+author:Falgor|dtv:id_file=4529&id_prod=13393&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51156_1.jpg&width=512&height=404|guid:755|media:/vod/2008/Compos/755_Short_The_ninja_fortress_h264_7168kbit.mp4|position:3|pouet:51156|sceneorg:/parties/2008/assembly08/short/755_short_the_ninja_fortress_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/r2rueod7Xmo/0.jpg|title:The Ninja Fortress|youtube:r2rueod7Xmo
+author:Granma|dtv:id_file=4526&id_prod=13392&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51157_1.jpg&width=512&height=404|guid:765|media:/vod/2008/Compos/765_Short_Do_it_right_h264_7168kbit.mp4|position:4|pouet:51157|sceneorg:/parties/2008/assembly08/short/765_short_do_it_right_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/sGfMgjDebmQ/0.jpg|title:Do it right|youtube:sGfMgjDebmQ
+author:HBC|cappedtv:bit_cheese-elemental_square_garden0&width=853&height=480|dtv:id_file=4523&id_prod=13391&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51146_1.jpg&width=512&height=404|guid:753|media:/vod/2008/Compos/753_Short_Elemental_square_garden_h264_7168kbit.mp4|position:5|pouet:51146|sceneorg:/parties/2008/assembly08/short/753_short_elemental_square_garden_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/58t8wU3tFAQ/0.jpg|title:Elemental Square Garden|youtube:58t8wU3tFAQ
+author:Ptman, Opqdonut, Ribbe, Joku|dtv:id_file=4520&id_prod=13390&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51159_1.jpg&width=512&height=404|guid:768|media:/vod/2008/Compos/768_Short_Sakura_h264_7168kbit.mp4|position:6|pouet:51159|sceneorg:/parties/2008/assembly08/short/768_short_sakura_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/Olf00ZkjyAY/0.jpg|title:Sakura|youtube:Olf00ZkjyAY
+author:Matti Vanhala & Henri Kerko|dtv:id_file=4517&id_prod=13389&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51160_1.jpg&width=512&height=404|guid:758|media:/vod/2008/Compos/758_Short_They_were_nameless_heroes_h264_7168kbit.mp4|position:7|pouet:51160|sceneorg:/parties/2008/assembly08/short/758_short_they_were_nameless_heroes_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/X7HvqTCtrgA/0.jpg|title:They Were Nameless Heroes|youtube:X7HvqTCtrgA
+author:Region Factible|guid:767|media:/vod/2008/Compos/767_Short_Tienen_asi_como_un_deje_h264_7168kbit.mp4|position:8|pouet:51162|sceneorg:/parties/2008/assembly08/short/767_short_tienen_asi_como_un_deje_h264_1856kbit.mp4|thumbnail:http://i.ytimg.com/vi/e8E766pIOUY/0.jpg|title:Tienen asi como un deje|youtube:e8E766pIOUY
 
 
 :section Real wild demo
 :youtube-playlist 9454E01934BAF76C
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
-author:Evoflash|dtv:id_file=4650&id_prod=13433&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51118_1.jpg&width=512&height=404|media:/vod/2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|position:1|pouet:51118|sceneorg:/parties/2008/assembly08/real_wild/99er_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/wJIM2VPKT0w/0.jpg|title:99er|youtube:wJIM2VPKT0w
-author:Hedelmae|dtv:id_file=4646&id_prod=13432&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51131_1.jpg&width=512&height=404|media:/vod/2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|position:2|pouet:51131|sceneorg:/parties/2008/assembly08/real_wild/daydream_by_hedelmae.zip|thumbnail:http://i.ytimg.com/vi/uZxcQ3R-Wuo/0.jpg|title:Daydream|youtube:uZxcQ3R-Wuo
-author:Dekadence|dtv:id_file=4643&id_prod=13431&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51142_1.png&width=512&height=404|media:/vod/2008/Compos/790_RealWild_Form_h264_7168kbit.mp4|position:3|pouet:51142|sceneorg:/parties/2008/assembly08/real_wild/form_by_dekadence.zip|thumbnail:http://i.ytimg.com/vi/nGzoiY9otQg/0.jpg|title:Form|youtube:nGzoiY9otQg
+author:Evoflash|dtv:id_file=4650&id_prod=13433&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51118_1.jpg&width=512&height=404|guid:788|media:/vod/2008/Compos/788_RealWild_99er_h264_7168kbit.mp4|position:1|pouet:51118|sceneorg:/parties/2008/assembly08/real_wild/99er_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/wJIM2VPKT0w/0.jpg|title:99er|youtube:wJIM2VPKT0w
+author:Hedelmae|dtv:id_file=4646&id_prod=13432&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51131_1.jpg&width=512&height=404|guid:789|media:/vod/2008/Compos/789_RealWild_Daydream_h264_7168kbit.mp4|position:2|pouet:51131|sceneorg:/parties/2008/assembly08/real_wild/daydream_by_hedelmae.zip|thumbnail:http://i.ytimg.com/vi/uZxcQ3R-Wuo/0.jpg|title:Daydream|youtube:uZxcQ3R-Wuo
+author:Dekadence|dtv:id_file=4643&id_prod=13431&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51142_1.png&width=512&height=404|guid:790|media:/vod/2008/Compos/790_RealWild_Form_h264_7168kbit.mp4|position:3|pouet:51142|sceneorg:/parties/2008/assembly08/real_wild/form_by_dekadence.zip|thumbnail:http://i.ytimg.com/vi/nGzoiY9otQg/0.jpg|title:Form|youtube:nGzoiY9otQg
 author:Byterapers|dtv:id_file=4640&id_prod=13430&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51117_1.jpg&width=512&height=404|position:4|pouet:51117|sceneorg:/parties/2008/assembly08/real_wild/alternative_party_2008_invitation_by_byterapers.zip|title:Alternative Party 2008 Invitation
-author:Immersion|dtv:id_file=4707&id_prod=13454&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51116_1.jpg&width=512&height=404|media:/vod/2008/Compos/791_RealWild_Title_IX_h264_7168kbit.mp4|position:5|pouet:51116|sceneorg:/parties/2008/assembly08/real_wild/title_ix_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/BEVc-zCxTI0/0.jpg|title:Title IX|youtube:BEVc-zCxTI0
-author:Komplex|dtv:id_file=4638&id_prod=13429&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51152_1.jpg&width=512&height=404|media:/vod/2008/Compos/793_RealWild_Patent_pending_h264_7168kbit.mp4|position:6|pouet:51152|sceneorg:/parties/2008/assembly08/real_wild/patent_pending_by_komplex.zip|thumbnail:http://i.ytimg.com/vi/ukjoTw-_Oqc/0.jpg|title:Patent Pending|youtube:ukjoTw-_Oqc
-author:Wide Load|media:/vod/2008/Compos/794_RealWild_Rabies_h264_7168kbit.mp4|position:7|pouet:51127|sceneorg:/parties/2008/assembly08/real_wild/rabies_by_wide_load.zip|thumbnail:http://i.ytimg.com/vi/oAoHFKmeabY/0.jpg|title:Rabies|youtube:oAoHFKmeabY
+author:Immersion|dtv:id_file=4707&id_prod=13454&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51116_1.jpg&width=512&height=404|guid:791|media:/vod/2008/Compos/791_RealWild_Title_IX_h264_7168kbit.mp4|position:5|pouet:51116|sceneorg:/parties/2008/assembly08/real_wild/title_ix_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/BEVc-zCxTI0/0.jpg|title:Title IX|youtube:BEVc-zCxTI0
+author:Komplex|dtv:id_file=4638&id_prod=13429&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51152_1.jpg&width=512&height=404|guid:793|media:/vod/2008/Compos/793_RealWild_Patent_pending_h264_7168kbit.mp4|position:6|pouet:51152|sceneorg:/parties/2008/assembly08/real_wild/patent_pending_by_komplex.zip|thumbnail:http://i.ytimg.com/vi/ukjoTw-_Oqc/0.jpg|title:Patent Pending|youtube:ukjoTw-_Oqc
+author:Wide Load|guid:794|media:/vod/2008/Compos/794_RealWild_Rabies_h264_7168kbit.mp4|position:7|pouet:51127|sceneorg:/parties/2008/assembly08/real_wild/rabies_by_wide_load.zip|thumbnail:http://i.ytimg.com/vi/oAoHFKmeabY/0.jpg|title:Rabies|youtube:oAoHFKmeabY
 
 
 :section Music
@@ -276,12 +276,12 @@ author:tArzAn|sceneorg:/parties/2008/assembly08/extreme/grfx/test_by_tarzan.zip|
 :youtube-playlist EBDAFFE22AA20066
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2010 PC computer.</p>
 
-author:Pyrotech|dtv:id_file=4608&id_prod=13422&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51140_1.jpg&width=512&height=404|media:/vod/2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|position:1|pouet:51140|sceneorg:/parties/2008/assembly08/demo/within_epsilon_by_pyrotech.zip|thumbnail:http://i.ytimg.com/vi/4YvYnHvhI_E/0.jpg|title:Within Epsilon|youtube:4YvYnHvhI_E
-author:PlayPsyCo|dtv:id_file=4607&id_prod=13421&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51128_1.jpg&width=512&height=404|media:/vod/2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|position:2|pouet:51128|sceneorg:/parties/2008/assembly08/demo/contre_jour_by_playpsyco.zip|thumbnail:http://i.ytimg.com/vi/8Xxklx6Kifg/0.jpg|title:Contre Jour|youtube:8Xxklx6Kifg
-author:Division|dtv:id_file=4659&id_prod=13436&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51130_1.jpg&width=512&height=404|media:/vod/2008/Compos/781_Demo_Deform_h264_7168kbit.mp4|position:3|pouet:51130|sceneorg:/parties/2008/assembly08/demo/deform_by_division.zip|thumbnail:http://i.ytimg.com/vi/bIaQ__UgKXs/0.jpg|title:Deform|youtube:bIaQ__UgKXs
-author:JUMALAUTA|dtv:id_file=4708&id_prod=13455&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51136_1.jpg&width=512&height=404|media:/vod/2008/Compos/780_Demo_Detox_h264_7168kbit.mp4|position:4|pouet:51136|sceneorg:/parties/2008/assembly08/demo/detox_by_jumalauta.zip|thumbnail:http://i.ytimg.com/vi/vXZxGaNqotU/0.jpg|title:DE:TOX|youtube:vXZxGaNqotU
-author:Mojito|dtv:id_file=4656&id_prod=13435&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51134_1.jpg&width=512&height=404|media:/vod/2008/Compos/786_Demo_Total_h264_7168kbit.mp4|position:5|pouet:51134|sceneorg:/parties/2008/assembly08/demo/total_by_mojito.zip|thumbnail:http://i.ytimg.com/vi/CxXwfQsmHyo/0.jpg|title:Total|youtube:CxXwfQsmHyo
-author:Adapt|dtv:id_file=4653&id_prod=13434&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51132_1.jpg&width=512&height=404|media:/vod/2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|position:6|pouet:51132|sceneorg:/parties/2008/assembly08/demo/the_invisible_hold_by_adapt.zip|thumbnail:http://i.ytimg.com/vi/HhITfKVIvak/0.jpg|title:The Invisible Hold|youtube:HhITfKVIvak
+author:Pyrotech|dtv:id_file=4608&id_prod=13422&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51140_1.jpg&width=512&height=404|guid:782|media:/vod/2008/Compos/782_Demo_Within_epsilon_h264_7168kbit.mp4|position:1|pouet:51140|sceneorg:/parties/2008/assembly08/demo/within_epsilon_by_pyrotech.zip|thumbnail:http://i.ytimg.com/vi/4YvYnHvhI_E/0.jpg|title:Within Epsilon|youtube:4YvYnHvhI_E
+author:PlayPsyCo|dtv:id_file=4607&id_prod=13421&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51128_1.jpg&width=512&height=404|guid:785|media:/vod/2008/Compos/785_Demo_Contre_jour_h264_7168kbit.mp4|position:2|pouet:51128|sceneorg:/parties/2008/assembly08/demo/contre_jour_by_playpsyco.zip|thumbnail:http://i.ytimg.com/vi/8Xxklx6Kifg/0.jpg|title:Contre Jour|youtube:8Xxklx6Kifg
+author:Division|dtv:id_file=4659&id_prod=13436&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51130_1.jpg&width=512&height=404|guid:781|media:/vod/2008/Compos/781_Demo_Deform_h264_7168kbit.mp4|position:3|pouet:51130|sceneorg:/parties/2008/assembly08/demo/deform_by_division.zip|thumbnail:http://i.ytimg.com/vi/bIaQ__UgKXs/0.jpg|title:Deform|youtube:bIaQ__UgKXs
+author:JUMALAUTA|dtv:id_file=4708&id_prod=13455&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51136_1.jpg&width=512&height=404|guid:780|media:/vod/2008/Compos/780_Demo_Detox_h264_7168kbit.mp4|position:4|pouet:51136|sceneorg:/parties/2008/assembly08/demo/detox_by_jumalauta.zip|thumbnail:http://i.ytimg.com/vi/vXZxGaNqotU/0.jpg|title:DE:TOX|youtube:vXZxGaNqotU
+author:Mojito|dtv:id_file=4656&id_prod=13435&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51134_1.jpg&width=512&height=404|guid:786|media:/vod/2008/Compos/786_Demo_Total_h264_7168kbit.mp4|position:5|pouet:51134|sceneorg:/parties/2008/assembly08/demo/total_by_mojito.zip|thumbnail:http://i.ytimg.com/vi/CxXwfQsmHyo/0.jpg|title:Total|youtube:CxXwfQsmHyo
+author:Adapt|dtv:id_file=4653&id_prod=13434&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/51132_1.jpg&width=512&height=404|guid:784|media:/vod/2008/Compos/784_Demo_The_invisible_hold_h264_7168kbit.mp4|position:6|pouet:51132|sceneorg:/parties/2008/assembly08/demo/the_invisible_hold_by_adapt.zip|thumbnail:http://i.ytimg.com/vi/HhITfKVIvak/0.jpg|title:The Invisible Hold|youtube:HhITfKVIvak
 author:Codex/Paranoids|sceneorg:/parties/2008/assembly08/demo/effects_by_codexparanoids.zip|title:Effects
 author:tAAt|sceneorg:/parties/2008/assembly08/demo/kalvosinappi__membrane_mustard_by_xzm_stolen_by_taat.zip|title:Kalvosinappi - Membrane Mustard by XZM stolen
 
@@ -331,158 +331,186 @@ author:Teemu Haila|title:XNA for Aspiring Game Developers
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2008/
 
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0274.jpg|title:0274.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0276.jpg|title:0276.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0278.jpg|title:0278.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0279.jpg|title:0279.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0280.jpg|title:0280.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0282.jpg|title:0282.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0286.jpg|title:0286.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0287.jpg|title:0287.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0293.jpg|title:0293.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0297.jpg|title:0297.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0304.jpg|title:0304.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0305.jpg|title:0305.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0306.jpg|title:0306.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0308.jpg|title:0308.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0312.jpg|title:0312.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0313.jpg|title:0313.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0317.jpg|title:0317.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0322.jpg|title:0322.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0324.jpg|title:0324.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0325.jpg|title:0325.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0330.jpg|title:0330.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0331.jpg|title:0331.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0336.jpg|title:0336.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0338.jpg|title:0338.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0339.jpg|title:0339.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0341.jpg|title:0341.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0342.jpg|title:0342.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0344.jpg|title:0344.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0345.jpg|title:0345.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0346.jpg|title:0346.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0348.jpg|title:0348.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0350.jpg|title:0350.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0355.jpg|title:0355.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0356.jpg|title:0356.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0357.jpg|title:0357.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0359.jpg|title:0359.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0361.jpg|title:0361.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0363.jpg|title:0363.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0368.jpg|title:0368.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0370.jpg|title:0370.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0373.jpg|title:0373.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0375.jpg|title:0375.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0377.jpg|title:0377.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0378.jpg|title:0378.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0400.jpg|title:0400.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0403.jpg|title:0403.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0404.jpg|title:0404.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0405.jpg|title:0405.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0406.jpg|title:0406.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0407.jpg|title:0407.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0413.jpg|title:0413.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0416.jpg|title:0416.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0418.jpg|title:0418.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0437.jpg|title:0437.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0444.jpg|title:0444.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0451.jpg|title:0451.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0453.jpg|title:0453.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0457.jpg|title:0457.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0468.jpg|title:0468.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0476.jpg|title:0476.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0479.jpg|title:0479.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0483.jpg|title:0483.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0484.jpg|title:0484.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0487.jpg|title:0487.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0488.jpg|title:0488.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0497.jpg|title:0497.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0500.jpg|title:0500.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0501.jpg|title:0501.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0505.jpg|title:0505.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0507.jpg|title:0507.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0509.jpg|title:0509.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0510.jpg|title:0510.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0511.jpg|title:0511.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0512.jpg|title:0512.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0513.jpg|title:0513.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0514.jpg|title:0514.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0515.jpg|title:0515.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0516.jpg|title:0516.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0517.jpg|title:0517.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0519.jpg|title:0519.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0522.jpg|title:0522.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0526.jpg|title:0526.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0530.jpg|title:0530.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0533.jpg|title:0533.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0537.jpg|title:0537.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0539.jpg|title:0539.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0541.jpg|title:0541.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0555.jpg|title:0555.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0560.jpg|title:0560.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0564.jpg|title:0564.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0569.jpg|title:0569.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0572.jpg|title:0572.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0575.jpg|title:0575.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0581.jpg|title:0581.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0584.jpg|title:0584.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0591.jpg|title:0591.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0592.jpg|title:0592.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0595.jpg|title:0595.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0599.jpg|title:0599.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0603.jpg|title:0603.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0608.jpg|title:0608.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0610.jpg|title:0610.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0613.jpg|title:0613.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0633.jpg|title:0633.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0635.jpg|title:0635.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0641.jpg|title:0641.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0643.jpg|title:0643.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0645.jpg|title:0645.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0649.jpg|title:0649.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0673.jpg|title:0673.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0675.jpg|title:0675.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0678.jpg|title:0678.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0683.jpg|title:0683.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0685.jpg|title:0685.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0695.jpg|title:0695.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0697.jpg|title:0697.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0708.jpg|title:0708.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0711.jpg|title:0711.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0715.jpg|title:0715.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0716.jpg|title:0716.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0735.jpg|title:0735.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0741.jpg|title:0741.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0742.jpg|title:0742.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0753.jpg|title:0753.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0761.jpg|title:0761.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0784.jpg|title:0784.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0788.jpg|title:0788.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0790.jpg|title:0790.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0803.jpg|title:0803.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4341.jpg|title:4341.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4343.jpg|title:4343.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4352.jpg|title:4352.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4356.jpg|title:4356.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4367.jpg|title:4367.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4371.jpg|title:4371.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4374.jpg|title:4374.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4378.jpg|title:4378.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4383.jpg|title:4383.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4388.jpg|title:4388.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4390.jpg|title:4390.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4392.jpg|title:4392.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4393.jpg|title:4393.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4394.jpg|title:4394.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4395.jpg|title:4395.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4397.jpg|title:4397.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4399.jpg|title:4399.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4401.jpg|title:4401.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4408.jpg|title:4408.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4411.jpg|title:4411.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4414.jpg|title:4414.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4480.jpg|title:4480.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_2738 copy.jpg|title:IMG_2738 copy.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-39-50_Dist_ACCT3176.jpg|title:2008-07-30_13-39-50_Dist_ACCT3176.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-40-41_Dist_ACCT3177.jpg|title:2008-07-30_13-40-41_Dist_ACCT3177.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-42-55_Dist_ACCT3182.jpg|title:2008-07-30_13-42-55_Dist_ACCT3182.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-44-23_Dist_ACCT3187.jpg|title:2008-07-30_13-44-23_Dist_ACCT3187.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-55-43_Dist_ACCT3189.jpg|title:2008-07-30_13-55-43_Dist_ACCT3189.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_16-33-33_Dist_ACCT3212.jpg|title:2008-07-30_16-33-33_Dist_ACCT3212.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_16-40-02_Dist_ACCT3229.jpg|title:2008-07-30_16-40-02_Dist_ACCT3229.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-17-17_Dist_ACCT3239.jpg|title:2008-07-30_17-17-17_Dist_ACCT3239.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-35-59_Dist_ACCT3247.jpg|title:2008-07-30_17-35-59_Dist_ACCT3247.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-39-58_Dist_ACCT3249.jpg|title:2008-07-30_17-39-58_Dist_ACCT3249.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-51-10_Dist_ACCT3255.jpg|title:2008-07-30_17-51-10_Dist_ACCT3255.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-51-52_Dist_ACCT3260.jpg|title:2008-07-30_17-51-52_Dist_ACCT3260.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_18-14-13_Dist_ACCT3273.jpg|title:2008-07-30_18-14-13_Dist_ACCT3273.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_18-36-36_Dist_ACCT3277.jpg|title:2008-07-30_18-36-36_Dist_ACCT3277.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_10-51-33_Dist_ACCT3282.jpg|title:2008-07-31_10-51-33_Dist_ACCT3282.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_10-53-01_Dist_ACCT3284.jpg|title:2008-07-31_10-53-01_Dist_ACCT3284.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-29-07_Dist_ACCT3306.jpg|title:2008-07-31_11-29-07_Dist_ACCT3306.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-30-24_Dist_ACCT3307.jpg|title:2008-07-31_11-30-24_Dist_ACCT3307.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-39-07_Dist_ACCT3327.jpg|title:2008-07-31_11-39-07_Dist_ACCT3327.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-00-29_Dist_ACCT3354.jpg|title:2008-07-31_12-00-29_Dist_ACCT3354.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-01-58_Dist_ACCT3356.jpg|title:2008-07-31_12-01-58_Dist_ACCT3356.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-02-14_Dist_ACCT3358.jpg|title:2008-07-31_12-02-14_Dist_ACCT3358.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-03-01_Dist_ACCT3361.jpg|title:2008-07-31_12-03-01_Dist_ACCT3361.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-03-55_Dist_ACCT3363.jpg|title:2008-07-31_12-03-55_Dist_ACCT3363.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-12-21_Dist_ACCT3368.jpg|title:2008-07-31_12-12-21_Dist_ACCT3368.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-12-36_Dist_ACCT3370.jpg|title:2008-07-31_12-12-36_Dist_ACCT3370.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-13-20_Dist_ACCT3372.jpg|title:2008-07-31_12-13-20_Dist_ACCT3372.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-17-34_Dist_ACCT3381.jpg|title:2008-07-31_12-17-34_Dist_ACCT3381.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-18-02_Dist_ACCT3382.jpg|title:2008-07-31_12-18-02_Dist_ACCT3382.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-21-08_Dist_ACCT3387.jpg|title:2008-07-31_12-21-08_Dist_ACCT3387.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_13-42-24_Dist_ACCT3394.jpg|title:2008-07-31_13-42-24_Dist_ACCT3394.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_14-06-11_Dist_ACCT3414.jpg|title:2008-07-31_14-06-11_Dist_ACCT3414.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_14-16-50_Dist_ACCT3424.jpg|title:2008-07-31_14-16-50_Dist_ACCT3424.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-02-41_Dist_ACCT3454.jpg|title:2008-07-31_16-02-41_Dist_ACCT3454.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-03-31_Dist_ACCT3455.jpg|title:2008-07-31_16-03-31_Dist_ACCT3455.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-06-02_Dist_ACCT3464.jpg|title:2008-07-31_16-06-02_Dist_ACCT3464.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-07-53_Dist_ACCT3470.jpg|title:2008-07-31_16-07-53_Dist_ACCT3470.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-10-08_Dist_ACCT3478.jpg|title:2008-07-31_16-10-08_Dist_ACCT3478.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-13-38_Dist_ACCT3532.jpg|title:2008-07-31_19-13-38_Dist_ACCT3532.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-42-55_Dist_ACCT3556.jpg|title:2008-07-31_19-42-55_Dist_ACCT3556.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-43-32_Dist_ACCT3560.jpg|title:2008-07-31_19-43-32_Dist_ACCT3560.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-52-20_Dist_ACCT3594.jpg|title:2008-07-31_19-52-20_Dist_ACCT3594.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-53-57_Dist_ACCT3609.jpg|title:2008-07-31_19-53-57_Dist_ACCT3609.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-56-47_Dist_ACCT3632.jpg|title:2008-07-31_19-56-47_Dist_ACCT3632.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-59-48_Dist_ACCT3642.jpg|title:2008-07-31_19-59-48_Dist_ACCT3642.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-02-13_Dist_ACCT3657.jpg|title:2008-07-31_20-02-13_Dist_ACCT3657.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-05-08_Dist_ACCT3666.jpg|title:2008-07-31_20-05-08_Dist_ACCT3666.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-12-50_Dist_ACCT3703.jpg|title:2008-07-31_20-12-50_Dist_ACCT3703.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-13-52_Dist_ACCT3707.jpg|title:2008-07-31_20-13-52_Dist_ACCT3707.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-18-56_Dist_ACCT3727.jpg|title:2008-07-31_20-18-56_Dist_ACCT3727.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-29-55_Dist_ACCT3766.jpg|title:2008-07-31_20-29-55_Dist_ACCT3766.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-39-37_Dist_ACCT3801.jpg|title:2008-07-31_20-39-37_Dist_ACCT3801.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-41-15_Dist_ACCT3807.jpg|title:2008-07-31_20-41-15_Dist_ACCT3807.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-44-36_Dist_ACCT3825.jpg|title:2008-07-31_20-44-36_Dist_ACCT3825.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-47-37_Dist_ACCT3832.jpg|title:2008-07-31_20-47-37_Dist_ACCT3832.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-49-15_Dist_ACCT3848.jpg|title:2008-07-31_20-49-15_Dist_ACCT3848.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-13-40_Dist_ACCT3897.jpg|title:2008-07-31_23-13-40_Dist_ACCT3897.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-23-02_Dist_ACCT3914.jpg|title:2008-07-31_23-23-02_Dist_ACCT3914.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-38-26_Dist_ACCT3933.jpg|title:2008-07-31_23-38-26_Dist_ACCT3933.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-43-05_Dist_ACCT3949.jpg|title:2008-07-31_23-43-05_Dist_ACCT3949.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-46-52_Dist_ACCT3974.jpg|title:2008-07-31_23-46-52_Dist_ACCT3974.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-48-10_Dist_ACCT3978.jpg|title:2008-07-31_23-48-10_Dist_ACCT3978.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-51-15_Dist_ACCT4001.jpg|title:2008-07-31_23-51-15_Dist_ACCT4001.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-51-22_Dist_ACCT4002.jpg|title:2008-07-31_23-51-22_Dist_ACCT4002.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-11-01_Dist_ACCT4121.jpg|title:2008-08-01_00-11-01_Dist_ACCT4121.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-21_Dist_ACCT4142.jpg|title:2008-08-01_00-12-21_Dist_ACCT4142.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-52_Dist_ACCT4144.jpg|title:2008-08-01_00-12-52_Dist_ACCT4144.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-55_Dist_ACCT4145.jpg|title:2008-08-01_00-12-55_Dist_ACCT4145.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-27-17_Dist_ACCT4195.jpg|title:2008-08-01_00-27-17_Dist_ACCT4195.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-29-10_Dist_ACCT4208.jpg|title:2008-08-01_00-29-10_Dist_ACCT4208.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-29-21_Dist_ACCT4212.jpg|title:2008-08-01_00-29-21_Dist_ACCT4212.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-31-51_Dist_ACCT4222.jpg|title:2008-08-01_00-31-51_Dist_ACCT4222.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-33-03_Dist_ACCT4235.jpg|title:2008-08-01_00-33-03_Dist_ACCT4235.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-34-05_Dist_ACCT4252.jpg|title:2008-08-01_00-34-05_Dist_ACCT4252.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-41-53_Dist_ACCT4292.jpg|title:2008-08-01_00-41-53_Dist_ACCT4292.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-44-27_Dist_ACCT4295.jpg|title:2008-08-01_00-44-27_Dist_ACCT4295.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-00-15_Dist_ACCT4327.jpg|title:2008-08-01_12-00-15_Dist_ACCT4327.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-09-58_Dist_ACCT4331.jpg|title:2008-08-01_12-09-58_Dist_ACCT4331.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-20-49_Dist_ACCT4334.jpg|title:2008-08-01_12-20-49_Dist_ACCT4334.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_13-20-22_Dist_ACCT4336.jpg|title:2008-08-01_13-20-22_Dist_ACCT4336.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_13-30-38_Dist_ACCT4388.jpg|title:2008-08-01_13-30-38_Dist_ACCT4388.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-18-52_Dist_ACCT4391.jpg|title:2008-08-01_14-18-52_Dist_ACCT4391.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-19-24_Dist_ACCT4393.jpg|title:2008-08-01_14-19-24_Dist_ACCT4393.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-20-43_Dist_ACCT4394.jpg|title:2008-08-01_14-20-43_Dist_ACCT4394.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-23-21_Dist_ACCT4408.jpg|title:2008-08-01_14-23-21_Dist_ACCT4408.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-25-51_Dist_ACCT4415.jpg|title:2008-08-01_14-25-51_Dist_ACCT4415.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-26-36_Dist_ACCT4420.jpg|title:2008-08-01_14-26-36_Dist_ACCT4420.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-34-18_Dist_ACCT4435.jpg|title:2008-08-01_14-34-18_Dist_ACCT4435.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-39-40_Dist_ACCT4455.jpg|title:2008-08-01_15-39-40_Dist_ACCT4455.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-40-36_Dist_ACCT4459.jpg|title:2008-08-01_15-40-36_Dist_ACCT4459.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-41-00_Dist_ACCT4460.jpg|title:2008-08-01_15-41-00_Dist_ACCT4460.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-43-14_Dist_ACCT4466.jpg|title:2008-08-01_15-43-14_Dist_ACCT4466.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_17-24-51_Dist_ACCT4571.jpg|title:2008-08-01_17-24-51_Dist_ACCT4571.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-53-57_Dist_ACCT4577.jpg|title:2008-08-01_19-53-57_Dist_ACCT4577.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-54-10_Dist_ACCT4578.jpg|title:2008-08-01_19-54-10_Dist_ACCT4578.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-55-24_Dist_ACCT4579.jpg|title:2008-08-01_19-55-24_Dist_ACCT4579.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-55-46_Dist_ACCT4580.jpg|title:2008-08-01_19-55-46_Dist_ACCT4580.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-05_Dist_ACCT4586.jpg|title:2008-08-01_19-57-05_Dist_ACCT4586.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-31_Dist_ACCT4593.jpg|title:2008-08-01_19-57-31_Dist_ACCT4593.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-56_Dist_ACCT4599.jpg|title:2008-08-01_19-57-56_Dist_ACCT4599.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-03_Dist_ACCT4600.jpg|title:2008-08-01_19-58-03_Dist_ACCT4600.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-12_Dist_ACCT4602.jpg|title:2008-08-01_19-58-12_Dist_ACCT4602.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-39_Dist_ACCT4606.jpg|title:2008-08-01_19-58-39_Dist_ACCT4606.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-01_Dist_ACCT4610.jpg|title:2008-08-01_19-59-01_Dist_ACCT4610.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-26_Dist_ACCT4612.jpg|title:2008-08-01_19-59-26_Dist_ACCT4612.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-32_Dist_ACCT4614.jpg|title:2008-08-01_19-59-32_Dist_ACCT4614.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-34_Dist_ACCT4615.jpg|title:2008-08-01_19-59-34_Dist_ACCT4615.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-39_Dist_ACCT4618.jpg|title:2008-08-01_19-59-39_Dist_ACCT4618.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-46_Dist_ACCT4620.jpg|title:2008-08-01_19-59-46_Dist_ACCT4620.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_20-00-00_Dist_ACCT4623.jpg|title:2008-08-01_20-00-00_Dist_ACCT4623.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-22-20_Dist_ACCT4681.jpg|title:2008-08-01_21-22-20_Dist_ACCT4681.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-24-44_Dist_ACCT4691.jpg|title:2008-08-01_21-24-44_Dist_ACCT4691.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-25-03_Dist_ACCT4693.jpg|title:2008-08-01_21-25-03_Dist_ACCT4693.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-26-05_Dist_ACCT4697.jpg|title:2008-08-01_21-26-05_Dist_ACCT4697.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-18-13_Dist_ACCT4740.jpg|title:2008-08-01_23-18-13_Dist_ACCT4740.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-25-19_Dist_ACCT4796.jpg|title:2008-08-01_23-25-19_Dist_ACCT4796.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-28-28_Dist_ACCT4816.jpg|title:2008-08-01_23-28-28_Dist_ACCT4816.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_10-56-05_Dist_ACCT4844.jpg|title:2008-08-02_10-56-05_Dist_ACCT4844.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_10-58-51_Dist_ACCT4845.jpg|title:2008-08-02_10-58-51_Dist_ACCT4845.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_11-05-04_Dist_ACCT4851.jpg|title:2008-08-02_11-05-04_Dist_ACCT4851.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_11-33-39_Dist_ACCT4880.jpg|title:2008-08-02_11-33-39_Dist_ACCT4880.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_12-16-01_Dist_ACCT4906.jpg|title:2008-08-02_12-16-01_Dist_ACCT4906.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-42-58_Dist_ACCT4909.jpg|title:2008-08-02_13-42-58_Dist_ACCT4909.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-44-14_Dist_ACCT4910.jpg|title:2008-08-02_13-44-14_Dist_ACCT4910.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-47-33_Dist_ACCT4917.jpg|title:2008-08-02_13-47-33_Dist_ACCT4917.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-54-15_Dist_ACCT4926.jpg|title:2008-08-02_13-54-15_Dist_ACCT4926.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-03-30_Dist_ACCT4930.jpg|title:2008-08-02_14-03-30_Dist_ACCT4930.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-09-39_Dist_ACCT4937.jpg|title:2008-08-02_14-09-39_Dist_ACCT4937.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-10-54_Dist_ACCT4939.jpg|title:2008-08-02_14-10-54_Dist_ACCT4939.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-12-32_Dist_ACCT4942.jpg|title:2008-08-02_14-12-32_Dist_ACCT4942.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-10-17_Dist_ACCT4966.jpg|title:2008-08-02_15-10-17_Dist_ACCT4966.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-11-53_Dist_ACCT4975.jpg|title:2008-08-02_15-11-53_Dist_ACCT4975.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-29-46_Dist_ACCT5007.jpg|title:2008-08-02_15-29-46_Dist_ACCT5007.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-39-05_Dist_ACCT5020.jpg|title:2008-08-02_15-39-05_Dist_ACCT5020.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-49-11_Dist_ACCT5022.jpg|title:2008-08-02_15-49-11_Dist_ACCT5022.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_18-59-10_Dist_ACCT5041.jpg|title:2008-08-02_18-59-10_Dist_ACCT5041.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-21-11_Dist_ACCT5048.jpg|title:2008-08-02_19-21-11_Dist_ACCT5048.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-38-31_Dist_ACCT5053.jpg|title:2008-08-02_19-38-31_Dist_ACCT5053.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-46-21_Dist_ACCT5062.jpg|title:2008-08-02_19-46-21_Dist_ACCT5062.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-53-03_Dist_ACCT5070.jpg|title:2008-08-02_19-53-03_Dist_ACCT5070.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-54-44_Dist_ACCT5071.jpg|title:2008-08-02_19-54-44_Dist_ACCT5071.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-07-08_Dist_ACCT5082.jpg|title:2008-08-02_20-07-08_Dist_ACCT5082.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-10-33_Dist_ACCT5085.jpg|title:2008-08-02_20-10-33_Dist_ACCT5085.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-15-56_Dist_ACCT5087 - Version 2.jpg|title:2008-08-02_20-15-56_Dist_ACCT5087 - Version 2.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-05_Dist_ACCT5090.jpg|title:2008-08-02_20-21-05_Dist_ACCT5090.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-22_Dist_ACCT5092.jpg|title:2008-08-02_20-21-22_Dist_ACCT5092.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-41_Dist_ACCT5093.jpg|title:2008-08-02_20-21-41_Dist_ACCT5093.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-24-06_Dist_ACCT5097.jpg|title:2008-08-02_20-24-06_Dist_ACCT5097.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-24-35_Dist_ACCT5098.jpg|title:2008-08-02_20-24-35_Dist_ACCT5098.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-25-35_Dist_ACCT5099.jpg|title:2008-08-02_20-25-35_Dist_ACCT5099.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-26-21_Dist_ACCT5100.jpg|title:2008-08-02_20-26-21_Dist_ACCT5100.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_21-34-17_Dist_ACCT5114.jpg|title:2008-08-02_21-34-17_Dist_ACCT5114.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_21-43-00_Dist_ACCT5126.jpg|title:2008-08-02_21-43-00_Dist_ACCT5126.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-41-33_Dist_ACCT5214.jpg|title:2008-08-03_14-41-33_Dist_ACCT5214.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-41-41_Dist_ACCT5215.jpg|title:2008-08-03_14-41-41_Dist_ACCT5215.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-46-34_Dist_ACCT5221.jpg|title:2008-08-03_14-46-34_Dist_ACCT5221.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-51-37_Dist_ACCT5226.jpg|title:2008-08-03_14-51-37_Dist_ACCT5226.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-55-38_Dist_ACCT5231.jpg|title:2008-08-03_14-55-38_Dist_ACCT5231.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-55-41_Dist_ACCT5232.jpg|title:2008-08-03_14-55-41_Dist_ACCT5232.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-57-32_Dist_ACCT5234.jpg|title:2008-08-03_14-57-32_Dist_ACCT5234.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-59-25_Dist_ACCT5236.jpg|title:2008-08-03_14-59-25_Dist_ACCT5236.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-05-12_Dist_ACCT5237.jpg|title:2008-08-03_15-05-12_Dist_ACCT5237.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-07-21_Dist_ACCT5239.jpg|title:2008-08-03_15-07-21_Dist_ACCT5239.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-07-32_Dist_ACCT5240.jpg|title:2008-08-03_15-07-32_Dist_ACCT5240.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-10-21_Dist_ACCT5241.jpg|title:2008-08-03_15-10-21_Dist_ACCT5241.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-14-03_Dist_ACCT5243.jpg|title:2008-08-03_15-14-03_Dist_ACCT5243.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-14-11_Dist_ACCT5244.jpg|title:2008-08-03_15-14-11_Dist_ACCT5244.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-19-47_Dist_ACCT5259.jpg|title:2008-08-03_15-19-47_Dist_ACCT5259.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-26-50_Dist_ACCT5265.jpg|title:2008-08-03_15-26-50_Dist_ACCT5265.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-33-38_Dist_ACCT5278.jpg|title:2008-08-03_15-33-38_Dist_ACCT5278.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-45-40_Dist_ACCT5286.jpg|title:2008-08-03_15-45-40_Dist_ACCT5286.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-00-15_Dist_ACCT5294.jpg|title:2008-08-03_16-00-15_Dist_ACCT5294.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-01-32_Dist_ACCT5297.jpg|title:2008-08-03_16-01-32_Dist_ACCT5297.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-02-08_Dist_ACCT5299.jpg|title:2008-08-03_16-02-08_Dist_ACCT5299.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-02-45_Dist_ACCT5303.jpg|title:2008-08-03_16-02-45_Dist_ACCT5303.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-12-55_Dist_ACCT5307.jpg|title:2008-08-03_16-12-55_Dist_ACCT5307.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-29-23_Dist_ACCT5334.jpg|title:2008-08-03_16-29-23_Dist_ACCT5334.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-29-41_Dist_ACCT5335.jpg|title:2008-08-03_16-29-41_Dist_ACCT5335.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-35-39_Dist_ACCT5341.jpg|title:2008-08-03_16-35-39_Dist_ACCT5341.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-36-21_Dist_ACCT5343.jpg|title:2008-08-03_16-36-21_Dist_ACCT5343.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_2742 copy.jpg|title:IMG_2742 copy.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_2749 copy.jpg|title:IMG_2749 copy.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_2750 copy.jpg|title:IMG_2750 copy.jpg
@@ -770,186 +798,157 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IM
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_5284 copy.jpg|title:IMG_5284 copy.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_5289 copy.jpg|title:IMG_5289 copy.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2008/Tuomas Siitonen/IMG_5290 copy.jpg|title:IMG_5290 copy.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-39-50_Dist_ACCT3176.jpg|title:2008-07-30_13-39-50_Dist_ACCT3176.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-40-41_Dist_ACCT3177.jpg|title:2008-07-30_13-40-41_Dist_ACCT3177.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-42-55_Dist_ACCT3182.jpg|title:2008-07-30_13-42-55_Dist_ACCT3182.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-44-23_Dist_ACCT3187.jpg|title:2008-07-30_13-44-23_Dist_ACCT3187.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_13-55-43_Dist_ACCT3189.jpg|title:2008-07-30_13-55-43_Dist_ACCT3189.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_16-33-33_Dist_ACCT3212.jpg|title:2008-07-30_16-33-33_Dist_ACCT3212.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_16-40-02_Dist_ACCT3229.jpg|title:2008-07-30_16-40-02_Dist_ACCT3229.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-17-17_Dist_ACCT3239.jpg|title:2008-07-30_17-17-17_Dist_ACCT3239.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-35-59_Dist_ACCT3247.jpg|title:2008-07-30_17-35-59_Dist_ACCT3247.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-39-58_Dist_ACCT3249.jpg|title:2008-07-30_17-39-58_Dist_ACCT3249.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-51-10_Dist_ACCT3255.jpg|title:2008-07-30_17-51-10_Dist_ACCT3255.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_17-51-52_Dist_ACCT3260.jpg|title:2008-07-30_17-51-52_Dist_ACCT3260.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_18-14-13_Dist_ACCT3273.jpg|title:2008-07-30_18-14-13_Dist_ACCT3273.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-30_18-36-36_Dist_ACCT3277.jpg|title:2008-07-30_18-36-36_Dist_ACCT3277.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_10-51-33_Dist_ACCT3282.jpg|title:2008-07-31_10-51-33_Dist_ACCT3282.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_10-53-01_Dist_ACCT3284.jpg|title:2008-07-31_10-53-01_Dist_ACCT3284.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-29-07_Dist_ACCT3306.jpg|title:2008-07-31_11-29-07_Dist_ACCT3306.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-30-24_Dist_ACCT3307.jpg|title:2008-07-31_11-30-24_Dist_ACCT3307.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_11-39-07_Dist_ACCT3327.jpg|title:2008-07-31_11-39-07_Dist_ACCT3327.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-00-29_Dist_ACCT3354.jpg|title:2008-07-31_12-00-29_Dist_ACCT3354.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-01-58_Dist_ACCT3356.jpg|title:2008-07-31_12-01-58_Dist_ACCT3356.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-02-14_Dist_ACCT3358.jpg|title:2008-07-31_12-02-14_Dist_ACCT3358.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-03-01_Dist_ACCT3361.jpg|title:2008-07-31_12-03-01_Dist_ACCT3361.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-03-55_Dist_ACCT3363.jpg|title:2008-07-31_12-03-55_Dist_ACCT3363.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-12-21_Dist_ACCT3368.jpg|title:2008-07-31_12-12-21_Dist_ACCT3368.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-12-36_Dist_ACCT3370.jpg|title:2008-07-31_12-12-36_Dist_ACCT3370.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-13-20_Dist_ACCT3372.jpg|title:2008-07-31_12-13-20_Dist_ACCT3372.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-17-34_Dist_ACCT3381.jpg|title:2008-07-31_12-17-34_Dist_ACCT3381.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-18-02_Dist_ACCT3382.jpg|title:2008-07-31_12-18-02_Dist_ACCT3382.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_12-21-08_Dist_ACCT3387.jpg|title:2008-07-31_12-21-08_Dist_ACCT3387.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_13-42-24_Dist_ACCT3394.jpg|title:2008-07-31_13-42-24_Dist_ACCT3394.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_14-06-11_Dist_ACCT3414.jpg|title:2008-07-31_14-06-11_Dist_ACCT3414.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_14-16-50_Dist_ACCT3424.jpg|title:2008-07-31_14-16-50_Dist_ACCT3424.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-02-41_Dist_ACCT3454.jpg|title:2008-07-31_16-02-41_Dist_ACCT3454.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-03-31_Dist_ACCT3455.jpg|title:2008-07-31_16-03-31_Dist_ACCT3455.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-06-02_Dist_ACCT3464.jpg|title:2008-07-31_16-06-02_Dist_ACCT3464.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-07-53_Dist_ACCT3470.jpg|title:2008-07-31_16-07-53_Dist_ACCT3470.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_16-10-08_Dist_ACCT3478.jpg|title:2008-07-31_16-10-08_Dist_ACCT3478.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-13-38_Dist_ACCT3532.jpg|title:2008-07-31_19-13-38_Dist_ACCT3532.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-42-55_Dist_ACCT3556.jpg|title:2008-07-31_19-42-55_Dist_ACCT3556.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-43-32_Dist_ACCT3560.jpg|title:2008-07-31_19-43-32_Dist_ACCT3560.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-52-20_Dist_ACCT3594.jpg|title:2008-07-31_19-52-20_Dist_ACCT3594.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-53-57_Dist_ACCT3609.jpg|title:2008-07-31_19-53-57_Dist_ACCT3609.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-56-47_Dist_ACCT3632.jpg|title:2008-07-31_19-56-47_Dist_ACCT3632.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_19-59-48_Dist_ACCT3642.jpg|title:2008-07-31_19-59-48_Dist_ACCT3642.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-02-13_Dist_ACCT3657.jpg|title:2008-07-31_20-02-13_Dist_ACCT3657.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-05-08_Dist_ACCT3666.jpg|title:2008-07-31_20-05-08_Dist_ACCT3666.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-12-50_Dist_ACCT3703.jpg|title:2008-07-31_20-12-50_Dist_ACCT3703.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-13-52_Dist_ACCT3707.jpg|title:2008-07-31_20-13-52_Dist_ACCT3707.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-18-56_Dist_ACCT3727.jpg|title:2008-07-31_20-18-56_Dist_ACCT3727.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-29-55_Dist_ACCT3766.jpg|title:2008-07-31_20-29-55_Dist_ACCT3766.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-39-37_Dist_ACCT3801.jpg|title:2008-07-31_20-39-37_Dist_ACCT3801.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-41-15_Dist_ACCT3807.jpg|title:2008-07-31_20-41-15_Dist_ACCT3807.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-44-36_Dist_ACCT3825.jpg|title:2008-07-31_20-44-36_Dist_ACCT3825.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-47-37_Dist_ACCT3832.jpg|title:2008-07-31_20-47-37_Dist_ACCT3832.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_20-49-15_Dist_ACCT3848.jpg|title:2008-07-31_20-49-15_Dist_ACCT3848.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-13-40_Dist_ACCT3897.jpg|title:2008-07-31_23-13-40_Dist_ACCT3897.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-23-02_Dist_ACCT3914.jpg|title:2008-07-31_23-23-02_Dist_ACCT3914.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-38-26_Dist_ACCT3933.jpg|title:2008-07-31_23-38-26_Dist_ACCT3933.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-43-05_Dist_ACCT3949.jpg|title:2008-07-31_23-43-05_Dist_ACCT3949.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-46-52_Dist_ACCT3974.jpg|title:2008-07-31_23-46-52_Dist_ACCT3974.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-48-10_Dist_ACCT3978.jpg|title:2008-07-31_23-48-10_Dist_ACCT3978.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-51-15_Dist_ACCT4001.jpg|title:2008-07-31_23-51-15_Dist_ACCT4001.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-07-31_23-51-22_Dist_ACCT4002.jpg|title:2008-07-31_23-51-22_Dist_ACCT4002.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-11-01_Dist_ACCT4121.jpg|title:2008-08-01_00-11-01_Dist_ACCT4121.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-21_Dist_ACCT4142.jpg|title:2008-08-01_00-12-21_Dist_ACCT4142.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-52_Dist_ACCT4144.jpg|title:2008-08-01_00-12-52_Dist_ACCT4144.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-12-55_Dist_ACCT4145.jpg|title:2008-08-01_00-12-55_Dist_ACCT4145.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-27-17_Dist_ACCT4195.jpg|title:2008-08-01_00-27-17_Dist_ACCT4195.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-29-10_Dist_ACCT4208.jpg|title:2008-08-01_00-29-10_Dist_ACCT4208.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-29-21_Dist_ACCT4212.jpg|title:2008-08-01_00-29-21_Dist_ACCT4212.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-31-51_Dist_ACCT4222.jpg|title:2008-08-01_00-31-51_Dist_ACCT4222.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-33-03_Dist_ACCT4235.jpg|title:2008-08-01_00-33-03_Dist_ACCT4235.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-34-05_Dist_ACCT4252.jpg|title:2008-08-01_00-34-05_Dist_ACCT4252.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-41-53_Dist_ACCT4292.jpg|title:2008-08-01_00-41-53_Dist_ACCT4292.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_00-44-27_Dist_ACCT4295.jpg|title:2008-08-01_00-44-27_Dist_ACCT4295.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-00-15_Dist_ACCT4327.jpg|title:2008-08-01_12-00-15_Dist_ACCT4327.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-09-58_Dist_ACCT4331.jpg|title:2008-08-01_12-09-58_Dist_ACCT4331.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_12-20-49_Dist_ACCT4334.jpg|title:2008-08-01_12-20-49_Dist_ACCT4334.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_13-20-22_Dist_ACCT4336.jpg|title:2008-08-01_13-20-22_Dist_ACCT4336.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_13-30-38_Dist_ACCT4388.jpg|title:2008-08-01_13-30-38_Dist_ACCT4388.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-18-52_Dist_ACCT4391.jpg|title:2008-08-01_14-18-52_Dist_ACCT4391.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-19-24_Dist_ACCT4393.jpg|title:2008-08-01_14-19-24_Dist_ACCT4393.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-20-43_Dist_ACCT4394.jpg|title:2008-08-01_14-20-43_Dist_ACCT4394.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-23-21_Dist_ACCT4408.jpg|title:2008-08-01_14-23-21_Dist_ACCT4408.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-25-51_Dist_ACCT4415.jpg|title:2008-08-01_14-25-51_Dist_ACCT4415.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-26-36_Dist_ACCT4420.jpg|title:2008-08-01_14-26-36_Dist_ACCT4420.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_14-34-18_Dist_ACCT4435.jpg|title:2008-08-01_14-34-18_Dist_ACCT4435.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-39-40_Dist_ACCT4455.jpg|title:2008-08-01_15-39-40_Dist_ACCT4455.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-40-36_Dist_ACCT4459.jpg|title:2008-08-01_15-40-36_Dist_ACCT4459.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-41-00_Dist_ACCT4460.jpg|title:2008-08-01_15-41-00_Dist_ACCT4460.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_15-43-14_Dist_ACCT4466.jpg|title:2008-08-01_15-43-14_Dist_ACCT4466.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_17-24-51_Dist_ACCT4571.jpg|title:2008-08-01_17-24-51_Dist_ACCT4571.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-53-57_Dist_ACCT4577.jpg|title:2008-08-01_19-53-57_Dist_ACCT4577.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-54-10_Dist_ACCT4578.jpg|title:2008-08-01_19-54-10_Dist_ACCT4578.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-55-24_Dist_ACCT4579.jpg|title:2008-08-01_19-55-24_Dist_ACCT4579.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-55-46_Dist_ACCT4580.jpg|title:2008-08-01_19-55-46_Dist_ACCT4580.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-05_Dist_ACCT4586.jpg|title:2008-08-01_19-57-05_Dist_ACCT4586.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-31_Dist_ACCT4593.jpg|title:2008-08-01_19-57-31_Dist_ACCT4593.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-57-56_Dist_ACCT4599.jpg|title:2008-08-01_19-57-56_Dist_ACCT4599.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-03_Dist_ACCT4600.jpg|title:2008-08-01_19-58-03_Dist_ACCT4600.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-12_Dist_ACCT4602.jpg|title:2008-08-01_19-58-12_Dist_ACCT4602.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-58-39_Dist_ACCT4606.jpg|title:2008-08-01_19-58-39_Dist_ACCT4606.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-01_Dist_ACCT4610.jpg|title:2008-08-01_19-59-01_Dist_ACCT4610.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-26_Dist_ACCT4612.jpg|title:2008-08-01_19-59-26_Dist_ACCT4612.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-32_Dist_ACCT4614.jpg|title:2008-08-01_19-59-32_Dist_ACCT4614.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-34_Dist_ACCT4615.jpg|title:2008-08-01_19-59-34_Dist_ACCT4615.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-39_Dist_ACCT4618.jpg|title:2008-08-01_19-59-39_Dist_ACCT4618.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_19-59-46_Dist_ACCT4620.jpg|title:2008-08-01_19-59-46_Dist_ACCT4620.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_20-00-00_Dist_ACCT4623.jpg|title:2008-08-01_20-00-00_Dist_ACCT4623.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-22-20_Dist_ACCT4681.jpg|title:2008-08-01_21-22-20_Dist_ACCT4681.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-24-44_Dist_ACCT4691.jpg|title:2008-08-01_21-24-44_Dist_ACCT4691.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-25-03_Dist_ACCT4693.jpg|title:2008-08-01_21-25-03_Dist_ACCT4693.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_21-26-05_Dist_ACCT4697.jpg|title:2008-08-01_21-26-05_Dist_ACCT4697.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-18-13_Dist_ACCT4740.jpg|title:2008-08-01_23-18-13_Dist_ACCT4740.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-25-19_Dist_ACCT4796.jpg|title:2008-08-01_23-25-19_Dist_ACCT4796.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-01_23-28-28_Dist_ACCT4816.jpg|title:2008-08-01_23-28-28_Dist_ACCT4816.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_10-56-05_Dist_ACCT4844.jpg|title:2008-08-02_10-56-05_Dist_ACCT4844.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_10-58-51_Dist_ACCT4845.jpg|title:2008-08-02_10-58-51_Dist_ACCT4845.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_11-05-04_Dist_ACCT4851.jpg|title:2008-08-02_11-05-04_Dist_ACCT4851.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_11-33-39_Dist_ACCT4880.jpg|title:2008-08-02_11-33-39_Dist_ACCT4880.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_12-16-01_Dist_ACCT4906.jpg|title:2008-08-02_12-16-01_Dist_ACCT4906.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-42-58_Dist_ACCT4909.jpg|title:2008-08-02_13-42-58_Dist_ACCT4909.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-44-14_Dist_ACCT4910.jpg|title:2008-08-02_13-44-14_Dist_ACCT4910.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-47-33_Dist_ACCT4917.jpg|title:2008-08-02_13-47-33_Dist_ACCT4917.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_13-54-15_Dist_ACCT4926.jpg|title:2008-08-02_13-54-15_Dist_ACCT4926.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-03-30_Dist_ACCT4930.jpg|title:2008-08-02_14-03-30_Dist_ACCT4930.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-09-39_Dist_ACCT4937.jpg|title:2008-08-02_14-09-39_Dist_ACCT4937.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-10-54_Dist_ACCT4939.jpg|title:2008-08-02_14-10-54_Dist_ACCT4939.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_14-12-32_Dist_ACCT4942.jpg|title:2008-08-02_14-12-32_Dist_ACCT4942.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-10-17_Dist_ACCT4966.jpg|title:2008-08-02_15-10-17_Dist_ACCT4966.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-11-53_Dist_ACCT4975.jpg|title:2008-08-02_15-11-53_Dist_ACCT4975.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-29-46_Dist_ACCT5007.jpg|title:2008-08-02_15-29-46_Dist_ACCT5007.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-39-05_Dist_ACCT5020.jpg|title:2008-08-02_15-39-05_Dist_ACCT5020.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_15-49-11_Dist_ACCT5022.jpg|title:2008-08-02_15-49-11_Dist_ACCT5022.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_18-59-10_Dist_ACCT5041.jpg|title:2008-08-02_18-59-10_Dist_ACCT5041.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-21-11_Dist_ACCT5048.jpg|title:2008-08-02_19-21-11_Dist_ACCT5048.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-38-31_Dist_ACCT5053.jpg|title:2008-08-02_19-38-31_Dist_ACCT5053.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-46-21_Dist_ACCT5062.jpg|title:2008-08-02_19-46-21_Dist_ACCT5062.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-53-03_Dist_ACCT5070.jpg|title:2008-08-02_19-53-03_Dist_ACCT5070.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_19-54-44_Dist_ACCT5071.jpg|title:2008-08-02_19-54-44_Dist_ACCT5071.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-07-08_Dist_ACCT5082.jpg|title:2008-08-02_20-07-08_Dist_ACCT5082.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-10-33_Dist_ACCT5085.jpg|title:2008-08-02_20-10-33_Dist_ACCT5085.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-15-56_Dist_ACCT5087 - Version 2.jpg|title:2008-08-02_20-15-56_Dist_ACCT5087 - Version 2.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-05_Dist_ACCT5090.jpg|title:2008-08-02_20-21-05_Dist_ACCT5090.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-22_Dist_ACCT5092.jpg|title:2008-08-02_20-21-22_Dist_ACCT5092.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-21-41_Dist_ACCT5093.jpg|title:2008-08-02_20-21-41_Dist_ACCT5093.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-24-06_Dist_ACCT5097.jpg|title:2008-08-02_20-24-06_Dist_ACCT5097.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-24-35_Dist_ACCT5098.jpg|title:2008-08-02_20-24-35_Dist_ACCT5098.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-25-35_Dist_ACCT5099.jpg|title:2008-08-02_20-25-35_Dist_ACCT5099.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_20-26-21_Dist_ACCT5100.jpg|title:2008-08-02_20-26-21_Dist_ACCT5100.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_21-34-17_Dist_ACCT5114.jpg|title:2008-08-02_21-34-17_Dist_ACCT5114.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-02_21-43-00_Dist_ACCT5126.jpg|title:2008-08-02_21-43-00_Dist_ACCT5126.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-41-33_Dist_ACCT5214.jpg|title:2008-08-03_14-41-33_Dist_ACCT5214.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-41-41_Dist_ACCT5215.jpg|title:2008-08-03_14-41-41_Dist_ACCT5215.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-46-34_Dist_ACCT5221.jpg|title:2008-08-03_14-46-34_Dist_ACCT5221.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-51-37_Dist_ACCT5226.jpg|title:2008-08-03_14-51-37_Dist_ACCT5226.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-55-38_Dist_ACCT5231.jpg|title:2008-08-03_14-55-38_Dist_ACCT5231.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-55-41_Dist_ACCT5232.jpg|title:2008-08-03_14-55-41_Dist_ACCT5232.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-57-32_Dist_ACCT5234.jpg|title:2008-08-03_14-57-32_Dist_ACCT5234.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_14-59-25_Dist_ACCT5236.jpg|title:2008-08-03_14-59-25_Dist_ACCT5236.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-05-12_Dist_ACCT5237.jpg|title:2008-08-03_15-05-12_Dist_ACCT5237.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-07-21_Dist_ACCT5239.jpg|title:2008-08-03_15-07-21_Dist_ACCT5239.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-07-32_Dist_ACCT5240.jpg|title:2008-08-03_15-07-32_Dist_ACCT5240.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-10-21_Dist_ACCT5241.jpg|title:2008-08-03_15-10-21_Dist_ACCT5241.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-14-03_Dist_ACCT5243.jpg|title:2008-08-03_15-14-03_Dist_ACCT5243.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-14-11_Dist_ACCT5244.jpg|title:2008-08-03_15-14-11_Dist_ACCT5244.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-19-47_Dist_ACCT5259.jpg|title:2008-08-03_15-19-47_Dist_ACCT5259.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-26-50_Dist_ACCT5265.jpg|title:2008-08-03_15-26-50_Dist_ACCT5265.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-33-38_Dist_ACCT5278.jpg|title:2008-08-03_15-33-38_Dist_ACCT5278.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_15-45-40_Dist_ACCT5286.jpg|title:2008-08-03_15-45-40_Dist_ACCT5286.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-00-15_Dist_ACCT5294.jpg|title:2008-08-03_16-00-15_Dist_ACCT5294.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-01-32_Dist_ACCT5297.jpg|title:2008-08-03_16-01-32_Dist_ACCT5297.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-02-08_Dist_ACCT5299.jpg|title:2008-08-03_16-02-08_Dist_ACCT5299.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-02-45_Dist_ACCT5303.jpg|title:2008-08-03_16-02-45_Dist_ACCT5303.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-12-55_Dist_ACCT5307.jpg|title:2008-08-03_16-12-55_Dist_ACCT5307.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-29-23_Dist_ACCT5334.jpg|title:2008-08-03_16-29-23_Dist_ACCT5334.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-29-41_Dist_ACCT5335.jpg|title:2008-08-03_16-29-41_Dist_ACCT5335.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-35-39_Dist_ACCT5341.jpg|title:2008-08-03_16-35-39_Dist_ACCT5341.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2008/Taneli Kaivola/2008-08-03_16-36-21_Dist_ACCT5343.jpg|title:2008-08-03_16-36-21_Dist_ACCT5343.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0497.jpg|title:0497.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0274.jpg|title:0274.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0276.jpg|title:0276.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0278.jpg|title:0278.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0279.jpg|title:0279.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0280.jpg|title:0280.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0282.jpg|title:0282.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0286.jpg|title:0286.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0287.jpg|title:0287.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0293.jpg|title:0293.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0297.jpg|title:0297.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0304.jpg|title:0304.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0305.jpg|title:0305.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0306.jpg|title:0306.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0308.jpg|title:0308.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0312.jpg|title:0312.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0313.jpg|title:0313.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0317.jpg|title:0317.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0322.jpg|title:0322.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0324.jpg|title:0324.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0325.jpg|title:0325.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0330.jpg|title:0330.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0331.jpg|title:0331.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0336.jpg|title:0336.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0338.jpg|title:0338.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0339.jpg|title:0339.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0341.jpg|title:0341.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0342.jpg|title:0342.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0344.jpg|title:0344.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0345.jpg|title:0345.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0346.jpg|title:0346.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0348.jpg|title:0348.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0350.jpg|title:0350.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0355.jpg|title:0355.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0356.jpg|title:0356.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0357.jpg|title:0357.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0359.jpg|title:0359.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0361.jpg|title:0361.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0363.jpg|title:0363.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0368.jpg|title:0368.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0370.jpg|title:0370.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0373.jpg|title:0373.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0375.jpg|title:0375.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0377.jpg|title:0377.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0378.jpg|title:0378.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0400.jpg|title:0400.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0403.jpg|title:0403.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0404.jpg|title:0404.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0405.jpg|title:0405.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0406.jpg|title:0406.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0407.jpg|title:0407.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0413.jpg|title:0413.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0416.jpg|title:0416.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0418.jpg|title:0418.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0437.jpg|title:0437.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0444.jpg|title:0444.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0451.jpg|title:0451.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0453.jpg|title:0453.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0457.jpg|title:0457.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0468.jpg|title:0468.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0476.jpg|title:0476.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0479.jpg|title:0479.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0483.jpg|title:0483.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0484.jpg|title:0484.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0487.jpg|title:0487.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0488.jpg|title:0488.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0803.jpg|title:0803.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0500.jpg|title:0500.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0501.jpg|title:0501.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0505.jpg|title:0505.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0507.jpg|title:0507.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0509.jpg|title:0509.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0510.jpg|title:0510.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0511.jpg|title:0511.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0512.jpg|title:0512.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0513.jpg|title:0513.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0514.jpg|title:0514.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0515.jpg|title:0515.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0516.jpg|title:0516.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0517.jpg|title:0517.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0519.jpg|title:0519.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0522.jpg|title:0522.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0526.jpg|title:0526.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0530.jpg|title:0530.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0533.jpg|title:0533.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0537.jpg|title:0537.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0539.jpg|title:0539.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0541.jpg|title:0541.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0555.jpg|title:0555.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0560.jpg|title:0560.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0564.jpg|title:0564.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0569.jpg|title:0569.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0572.jpg|title:0572.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0575.jpg|title:0575.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0581.jpg|title:0581.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0584.jpg|title:0584.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0591.jpg|title:0591.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0592.jpg|title:0592.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0595.jpg|title:0595.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0599.jpg|title:0599.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0603.jpg|title:0603.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0608.jpg|title:0608.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0610.jpg|title:0610.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0613.jpg|title:0613.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0633.jpg|title:0633.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0635.jpg|title:0635.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0641.jpg|title:0641.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0643.jpg|title:0643.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0645.jpg|title:0645.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0649.jpg|title:0649.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0673.jpg|title:0673.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0675.jpg|title:0675.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0678.jpg|title:0678.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0683.jpg|title:0683.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0685.jpg|title:0685.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0695.jpg|title:0695.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0697.jpg|title:0697.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0708.jpg|title:0708.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0711.jpg|title:0711.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0715.jpg|title:0715.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0716.jpg|title:0716.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0735.jpg|title:0735.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0741.jpg|title:0741.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0742.jpg|title:0742.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0753.jpg|title:0753.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0761.jpg|title:0761.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0784.jpg|title:0784.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0788.jpg|title:0788.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/0790.jpg|title:0790.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4341.jpg|title:4341.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4343.jpg|title:4343.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4352.jpg|title:4352.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4356.jpg|title:4356.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4367.jpg|title:4367.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4371.jpg|title:4371.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4374.jpg|title:4374.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4378.jpg|title:4378.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4383.jpg|title:4383.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4388.jpg|title:4388.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4390.jpg|title:4390.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4392.jpg|title:4392.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4393.jpg|title:4393.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4394.jpg|title:4394.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4395.jpg|title:4395.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4397.jpg|title:4397.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4399.jpg|title:4399.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4401.jpg|title:4401.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4408.jpg|title:4408.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4411.jpg|title:4411.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4414.jpg|title:4414.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2008/Tuula Ylikorpi/4480.jpg|title:4480.jpg
 
 
 :section Photos winter

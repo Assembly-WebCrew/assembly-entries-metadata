@@ -302,12 +302,12 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     #     has_media = True
         #locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
 
-    # XXX some photos are missing
-    if 'galleriafi' in entry:
-        return
-
     if entry.get('image-file') or entry.get('galleriafi'):
         image_file = entry.get('image-file')
+        if entry.get("galleriafi"):
+            image_file = "%s/%s" % (
+                normalized_section,
+                asmmetadata.get_galleriafi_filename(entry.get("galleriafi")))
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
         if asmmetadata.is_image(image_file):

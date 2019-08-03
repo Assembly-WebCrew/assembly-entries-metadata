@@ -36,46 +36,46 @@ author:blobtrox|sceneorg:/parties/2009/assembly09/extreme/music/meduusa_ja_hiekk
 :youtube-playlist 707DC3BC94069C05
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Bombsquad|dtv:id_file=6211&id_prod=13868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53620_1.jpg&width=512&height=404|media:/vod/2009/Compos/933_Gamedev_Counterbalance_by_Bombsquad_h264_7168kbit.mp4|position:1|pouet:53620|sceneorg:/parties/2009/assembly09/gamedev/counterbalance_by_bombsquad.zip|thumbnail:http://i.ytimg.com/vi/bSRXDi2s3pM/0.jpg|title:Counterbalance|youtube:bSRXDi2s3pM
-author:DDT|dtv:id_file=6205&id_prod=13866&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53625_1.png&width=512&height=404|media:/vod/2009/Compos/930_Gamedev_Brainless_by_DDT_h264_7168kbit.mp4|position:2|pouet:53625|sceneorg:/parties/2009/assembly09/gamedev/brainless_by_ddt.zip|thumbnail:http://i.ytimg.com/vi/lba9rkvt8p8/0.jpg|title:Brainless|youtube:lba9rkvt8p8
-author:Plokk|dtv:id_file=6202&id_prod=13865&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53616_1.jpg&width=512&height=404|media:/vod/2009/Compos/922_Gamedev_Epic_Inquisition_by_Plokk_h264_7168kbit.mp4|position:3|pouet:53616|sceneorg:/parties/2009/assembly09/gamedev/epic_inquisition_by_plokk.zip|thumbnail:http://i.ytimg.com/vi/y48v44h6EEw/0.jpg|title:Epic Inquisition|youtube:y48v44h6EEw
-author:Unique|dtv:id_file=6199&id_prod=13864&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53601_1.jpg&width=512&height=404|media:/vod/2009/Compos/935_Gamedev_Ribbon_Racer_by_Unique_h264_7168kbit.mp4|position:4|pouet:53601|sceneorg:/parties/2009/assembly09/gamedev/ribbon_racer_by_unique.zip|thumbnail:http://i.ytimg.com/vi/zV9qm88-CZA/0.jpg|title:Ribbon Racer|youtube:zV9qm88-CZA
-author:Piste Gamez|dtv:id_file=6208&id_prod=13867&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53599_1.png&width=512&height=404|media:/vod/2009/Compos/936_Gamedev_QLat3_by_Piste_Gamez_h264_7168kbit.mp4|position:5|pouet:53599|sceneorg:/parties/2009/assembly09/gamedev/qlat3_by_piste_gamez.zip|thumbnail:http://i.ytimg.com/vi/h8GAr2RxHV8/0.jpg|title:Q-Lat3|youtube:h8GAr2RxHV8
-author:XZM|dtv:id_file=6196&id_prod=13863&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53617_1.jpg&width=512&height=404|media:/vod/2009/Compos/925_Gamedev_Lider_by_XZM_h264_7168kbit.mp4|position:6|pouet:53617|sceneorg:/parties/2009/assembly09/gamedev/lider_by_xzm.zip|thumbnail:http://i.ytimg.com/vi/_EEEQ8eQUYk/0.jpg|title:Lider|youtube:_EEEQ8eQUYk
-author:Andows & Capsizer|dtv:id_file=6193&id_prod=13862&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53622_1.jpg&width=512&height=404|media:/vod/2009/Compos/924_Gamedev_YAUTT_by_Andows__Capsizer_h264_7168kbit.mp4|position:7|pouet:53622|sceneorg:/parties/2009/assembly09/gamedev/yautt_by_andows__capsizer.zip|thumbnail:http://i.ytimg.com/vi/2VE6EGOSr_o/0.jpg|title:YAUTT|youtube:2VE6EGOSr_o
-author:Mikkosoft Productions|dtv:id_file=6190&id_prod=13861&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53621_1.jpg&width=512&height=404|media:/vod/2009/Compos/934_Gamedev_Mechanical_Tower_by_Mikkosoft_Productions_h264_7168kbit.mp4|position:8|pouet:53621|sceneorg:/parties/2009/assembly09/gamedev/mechanical_tower_by_mikkosoft_productions.zip|thumbnail:http://i.ytimg.com/vi/PKzoY-erjp8/0.jpg|title:Mechanical Tower|youtube:PKzoY-erjp8
-author:Elite Ninjas Inc.|dtv:id_file=6187&id_prod=13860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53624_1.jpg&width=512&height=404|media:/vod/2009/Compos/932_Gamedev_Chest_by_Elite_Ninjas_Inc_h264_7168kbit.mp4|position:9|pouet:53624|sceneorg:/parties/2009/assembly09/gamedev/chest_by_elite_ninjas_inc.zip|thumbnail:http://i.ytimg.com/vi/hV3pYyNGXm8/0.jpg|title:Chest|youtube:hV3pYyNGXm8
+author:Bombsquad|dtv:id_file=6211&id_prod=13868&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53620_1.jpg&width=512&height=404|guid:933|media:/vod/2009/Compos/933_Gamedev_Counterbalance_by_Bombsquad_h264_7168kbit.mp4|position:1|pouet:53620|sceneorg:/parties/2009/assembly09/gamedev/counterbalance_by_bombsquad.zip|thumbnail:http://i.ytimg.com/vi/bSRXDi2s3pM/0.jpg|title:Counterbalance|youtube:bSRXDi2s3pM
+author:DDT|dtv:id_file=6205&id_prod=13866&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53625_1.png&width=512&height=404|guid:930|media:/vod/2009/Compos/930_Gamedev_Brainless_by_DDT_h264_7168kbit.mp4|position:2|pouet:53625|sceneorg:/parties/2009/assembly09/gamedev/brainless_by_ddt.zip|thumbnail:http://i.ytimg.com/vi/lba9rkvt8p8/0.jpg|title:Brainless|youtube:lba9rkvt8p8
+author:Plokk|dtv:id_file=6202&id_prod=13865&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53616_1.jpg&width=512&height=404|guid:922|media:/vod/2009/Compos/922_Gamedev_Epic_Inquisition_by_Plokk_h264_7168kbit.mp4|position:3|pouet:53616|sceneorg:/parties/2009/assembly09/gamedev/epic_inquisition_by_plokk.zip|thumbnail:http://i.ytimg.com/vi/y48v44h6EEw/0.jpg|title:Epic Inquisition|youtube:y48v44h6EEw
+author:Unique|dtv:id_file=6199&id_prod=13864&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53601_1.jpg&width=512&height=404|guid:935|media:/vod/2009/Compos/935_Gamedev_Ribbon_Racer_by_Unique_h264_7168kbit.mp4|position:4|pouet:53601|sceneorg:/parties/2009/assembly09/gamedev/ribbon_racer_by_unique.zip|thumbnail:http://i.ytimg.com/vi/zV9qm88-CZA/0.jpg|title:Ribbon Racer|youtube:zV9qm88-CZA
+author:Piste Gamez|dtv:id_file=6208&id_prod=13867&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53599_1.png&width=512&height=404|guid:936|media:/vod/2009/Compos/936_Gamedev_QLat3_by_Piste_Gamez_h264_7168kbit.mp4|position:5|pouet:53599|sceneorg:/parties/2009/assembly09/gamedev/qlat3_by_piste_gamez.zip|thumbnail:http://i.ytimg.com/vi/h8GAr2RxHV8/0.jpg|title:Q-Lat3|youtube:h8GAr2RxHV8
+author:XZM|dtv:id_file=6196&id_prod=13863&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53617_1.jpg&width=512&height=404|guid:925|media:/vod/2009/Compos/925_Gamedev_Lider_by_XZM_h264_7168kbit.mp4|position:6|pouet:53617|sceneorg:/parties/2009/assembly09/gamedev/lider_by_xzm.zip|thumbnail:http://i.ytimg.com/vi/_EEEQ8eQUYk/0.jpg|title:Lider|youtube:_EEEQ8eQUYk
+author:Andows & Capsizer|dtv:id_file=6193&id_prod=13862&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53622_1.jpg&width=512&height=404|guid:924|media:/vod/2009/Compos/924_Gamedev_YAUTT_by_Andows__Capsizer_h264_7168kbit.mp4|position:7|pouet:53622|sceneorg:/parties/2009/assembly09/gamedev/yautt_by_andows__capsizer.zip|thumbnail:http://i.ytimg.com/vi/2VE6EGOSr_o/0.jpg|title:YAUTT|youtube:2VE6EGOSr_o
+author:Mikkosoft Productions|dtv:id_file=6190&id_prod=13861&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53621_1.jpg&width=512&height=404|guid:934|media:/vod/2009/Compos/934_Gamedev_Mechanical_Tower_by_Mikkosoft_Productions_h264_7168kbit.mp4|position:8|pouet:53621|sceneorg:/parties/2009/assembly09/gamedev/mechanical_tower_by_mikkosoft_productions.zip|thumbnail:http://i.ytimg.com/vi/PKzoY-erjp8/0.jpg|title:Mechanical Tower|youtube:PKzoY-erjp8
+author:Elite Ninjas Inc.|dtv:id_file=6187&id_prod=13860&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53624_1.jpg&width=512&height=404|guid:932|media:/vod/2009/Compos/932_Gamedev_Chest_by_Elite_Ninjas_Inc_h264_7168kbit.mp4|position:9|pouet:53624|sceneorg:/parties/2009/assembly09/gamedev/chest_by_elite_ninjas_inc.zip|thumbnail:http://i.ytimg.com/vi/hV3pYyNGXm8/0.jpg|title:Chest|youtube:hV3pYyNGXm8
 author:Blueberry Finn|position:10|pouet:53619|sceneorg:/parties/2009/assembly09/gamedev/slicks_n_slides_te_by_blueberry_finn.zip|title:Slicks n Slides T.E.
-author:Hive mind|media:/vod/2009/Compos/937_Gamedev_Space_junk_by_Hive_mind_h264_7168kbit.mp4|position:11|pouet:53630|sceneorg:/parties/2009/assembly09/gamedev/space_junk_by_hive_mind.zip|thumbnail:http://i.ytimg.com/vi/H5CeOURux1Y/0.jpg|title:Space junk|youtube:H5CeOURux1Y
-author:Tronic, Yoda et al.|media:/vod/2009/Compos/929_Gamedev_Performous_by_Tronic_Yoda_et_al_h264_7168kbit.mp4|position:12|pouet:53628|sceneorg:/parties/2009/assembly09/gamedev/performous_by_tronic_yoda_et_al.tar.gz|thumbnail:http://i.ytimg.com/vi/I6yu6rdo8X0/0.jpg|title:Performous|youtube:I6yu6rdo8X0
-author:ttursas & co.|media:/vod/2009/Compos/927_Gamedev_Drop_Dead_Olympics_by_ttursas__co_h264_7168kbit.mp4|position:13|pouet:53618|sceneorg:/parties/2009/assembly09/gamedev/drop_dead_olympics_by_ttursas__co.zip|thumbnail:http://i.ytimg.com/vi/pYFfdZclTPg/0.jpg|title:Drop Dead Olympics|youtube:pYFfdZclTPg
-author:Arete Games|media:/vod/2009/Compos/928_Gamedev_Brain_Cramp_by_Arete_Games_h264_7168kbit.mp4|position:14|pouet:53623|sceneorg:/parties/2009/assembly09/gamedev/brain_cramp_by_arete_games.zip|thumbnail:http://i.ytimg.com/vi/IY6u606JhQk/0.jpg|title:Brain Cramp|youtube:IY6u606JhQk
-author:Fragile|media:/vod/2009/Compos/919_Gamedev_Powerslide_by_Fragile_h264_7168kbit.mp4|position:15|pouet:53627|sceneorg:/parties/2009/assembly09/gamedev/powerslide_by_fragile.zip|thumbnail:http://i.ytimg.com/vi/LTgdZWys0c0/0.jpg|title:Powerslide|youtube:LTgdZWys0c0
-author:ElectricApe|media:/vod/2009/Compos/921_Gamedev_Kuraperse_Racing_by_ElectricApe_h264_7168kbit.mp4|position:16|pouet:53626|sceneorg:/parties/2009/assembly09/gamedev/kuraperse_racing_by_electricape.zip|thumbnail:http://i.ytimg.com/vi/4UVNTHk3kKE/0.jpg|title:Kuraperse Racing|youtube:4UVNTHk3kKE
-author:MikaakiM Production|media:/vod/2009/Compos/926_Gamedev_Globular_Arrebato_by_MikaakiM_Production_h264_7168kbit.mp4|position:17|pouet:53629|sceneorg:/parties/2009/assembly09/gamedev/globular_arrebato_by_mikaakim_production.zip|thumbnail:http://i.ytimg.com/vi/pa3swWD6-Xo/0.jpg|title:Globular Arrebato|youtube:pa3swWD6-Xo
+author:Hive mind|guid:937|media:/vod/2009/Compos/937_Gamedev_Space_junk_by_Hive_mind_h264_7168kbit.mp4|position:11|pouet:53630|sceneorg:/parties/2009/assembly09/gamedev/space_junk_by_hive_mind.zip|thumbnail:http://i.ytimg.com/vi/H5CeOURux1Y/0.jpg|title:Space junk|youtube:H5CeOURux1Y
+author:Tronic, Yoda et al.|guid:929|media:/vod/2009/Compos/929_Gamedev_Performous_by_Tronic_Yoda_et_al_h264_7168kbit.mp4|position:12|pouet:53628|sceneorg:/parties/2009/assembly09/gamedev/performous_by_tronic_yoda_et_al.tar.gz|thumbnail:http://i.ytimg.com/vi/I6yu6rdo8X0/0.jpg|title:Performous|youtube:I6yu6rdo8X0
+author:ttursas & co.|guid:927|media:/vod/2009/Compos/927_Gamedev_Drop_Dead_Olympics_by_ttursas__co_h264_7168kbit.mp4|position:13|pouet:53618|sceneorg:/parties/2009/assembly09/gamedev/drop_dead_olympics_by_ttursas__co.zip|thumbnail:http://i.ytimg.com/vi/pYFfdZclTPg/0.jpg|title:Drop Dead Olympics|youtube:pYFfdZclTPg
+author:Arete Games|guid:928|media:/vod/2009/Compos/928_Gamedev_Brain_Cramp_by_Arete_Games_h264_7168kbit.mp4|position:14|pouet:53623|sceneorg:/parties/2009/assembly09/gamedev/brain_cramp_by_arete_games.zip|thumbnail:http://i.ytimg.com/vi/IY6u606JhQk/0.jpg|title:Brain Cramp|youtube:IY6u606JhQk
+author:Fragile|guid:919|media:/vod/2009/Compos/919_Gamedev_Powerslide_by_Fragile_h264_7168kbit.mp4|position:15|pouet:53627|sceneorg:/parties/2009/assembly09/gamedev/powerslide_by_fragile.zip|thumbnail:http://i.ytimg.com/vi/LTgdZWys0c0/0.jpg|title:Powerslide|youtube:LTgdZWys0c0
+author:ElectricApe|guid:921|media:/vod/2009/Compos/921_Gamedev_Kuraperse_Racing_by_ElectricApe_h264_7168kbit.mp4|position:16|pouet:53626|sceneorg:/parties/2009/assembly09/gamedev/kuraperse_racing_by_electricape.zip|thumbnail:http://i.ytimg.com/vi/4UVNTHk3kKE/0.jpg|title:Kuraperse Racing|youtube:4UVNTHk3kKE
+author:MikaakiM Production|guid:926|media:/vod/2009/Compos/926_Gamedev_Globular_Arrebato_by_MikaakiM_Production_h264_7168kbit.mp4|position:17|pouet:53629|sceneorg:/parties/2009/assembly09/gamedev/globular_arrebato_by_mikaakim_production.zip|thumbnail:http://i.ytimg.com/vi/pa3swWD6-Xo/0.jpg|title:Globular Arrebato|youtube:pa3swWD6-Xo
 
 
 :section 64k intro
 :youtube-playlist 1861F882083CC927
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on a high-end 2010 PC computer. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:Ate Bit|cappedtv:ate_bit-transform&width=640&height=482|dtv:id_file=6175&id_prod=13857&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53646_1.jpg&width=512&height=404|media:/vod/2009/Compos/967_64k_Transform_by_Ate_Bit_h264_7168kbit.mp4|position:1|pouet:53646|sceneorg:/parties/2009/assembly09/in64/transform_by_ate_bit.zip|thumbnail:http://i.ytimg.com/vi/BZ0ugNefzu8/0.jpg|title:Transform|youtube:BZ0ugNefzu8
-author:Evoflash|dtv:id_file=6151&id_prod=13851&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53656_1.jpg&width=512&height=404|media:/vod/2009/Compos/958_64k_Proof_of_Concept_by_Evoflash_h264_7168kbit.mp4|position:2|pouet:53656|sceneorg:/parties/2009/assembly09/in64/proof_of_concept_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/aOxu_DcedRA/0.jpg|title:Proof of Concept|youtube:aOxu_DcedRA
-author:portal process|cappedtv:portal_process-hotel_bar_heroes&width=640&height=360|dtv:id_file=6163&id_prod=13854&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53643_1.jpg&width=512&height=404|media:/vod/2009/Compos/962_64k_hotel_bar_heroes_by_portal_process_h264_7168kbit.mp4|position:3|pouet:53643|sceneorg:/parties/2009/assembly09/in64/hotel_bar_heroes_by_portal_process.zip|thumbnail:http://i.ytimg.com/vi/bVC1BwV2IjM/0.jpg|title:hotel bar heroes|youtube:bVC1BwV2IjM
-author:Phantom Lord|dtv:id_file=6167&id_prod=13855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53637_1.jpg&width=512&height=404|media:/vod/2009/Compos/963_64k_Genome_by_Phantom_Lord_h264_7168kbit.mp4|position:4|pouet:53637|sceneorg:/parties/2009/assembly09/in64/genome_by_phantom_lord.zip|thumbnail:http://i.ytimg.com/vi/_2GEkKj0el8/0.jpg|title:Genome|youtube:_2GEkKj0el8
-author:Alpha Design|dtv:id_file=6183&id_prod=13859&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53642_1.jpg&width=512&height=404|media:/vod/2009/Compos/971_64k_Beefjerky_by_Alpha_Design_h264_7168kbit.mp4|position:5|pouet:53642|sceneorg:/parties/2009/assembly09/in64/beefjerky_by_alpha_design.zip|thumbnail:http://i.ytimg.com/vi/RI8uHYB8eC0/0.jpg|title:Beefjerky|youtube:RI8uHYB8eC0
-author:Mewlers|cappedtv:mewlers-c1alis&width=640&height=360|dtv:id_file=6171&id_prod=13856&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53641_1.jpg&width=512&height=404|media:/vod/2009/Compos/966_64k_c1alis_by_Mewlers_h264_7168kbit.mp4|position:6|pouet:53641|sceneorg:/parties/2009/assembly09/in64/c1alis_by_mewlers.zip|thumbnail:http://i.ytimg.com/vi/v4DSkaceca0/0.jpg|title:c1alis|youtube:v4DSkaceca0
-author:f0x|dtv:id_file=6179&id_prod=13858&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53640_1.jpg&width=512&height=404|media:/vod/2009/Compos/968_64k_CC2009_invitation_by_f0x_h264_7168kbit.mp4|position:7|pouet:53640|sceneorg:/parties/2009/assembly09/in64/cc_2009_invitation_by_f0x.zip|thumbnail:http://i.ytimg.com/vi/kQTvb-GiuZ0/0.jpg|title:CC 2009 invitation|youtube:kQTvb-GiuZ0
-author:immersion|dtv:id_file=6155&id_prod=13852&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/02_faux_shot.jpg&width=512&height=404|media:/vod/2009/Compos/959_64k_faux_flavors_by_immersion_h264_7168kbit.mp4|position:8|pouet:53657|sceneorg:/parties/2009/assembly09/in64/faux_flavors_by_immersion-missing.tar.gz|thumbnail:http://i.ytimg.com/vi/1D2cbdhmrMw/0.jpg|title:faux flavors|youtube:1D2cbdhmrMw
-author:mrp|dtv:id_file=6159&id_prod=13853&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53644_1.jpg&width=512&height=404|media:/vod/2009/Compos/960_64k_Klusteri_by_mrp_h264_7168kbit.mp4|position:9|pouet:53644|sceneorg:/parties/2009/assembly09/in64/klusteri_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/EAyYGz6uMKk/0.jpg|title:Klusteri|youtube:EAyYGz6uMKk
+author:Ate Bit|cappedtv:ate_bit-transform&width=640&height=482|dtv:id_file=6175&id_prod=13857&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53646_1.jpg&width=512&height=404|guid:967|media:/vod/2009/Compos/967_64k_Transform_by_Ate_Bit_h264_7168kbit.mp4|position:1|pouet:53646|sceneorg:/parties/2009/assembly09/in64/transform_by_ate_bit.zip|thumbnail:http://i.ytimg.com/vi/BZ0ugNefzu8/0.jpg|title:Transform|youtube:BZ0ugNefzu8
+author:Evoflash|dtv:id_file=6151&id_prod=13851&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53656_1.jpg&width=512&height=404|guid:958|media:/vod/2009/Compos/958_64k_Proof_of_Concept_by_Evoflash_h264_7168kbit.mp4|position:2|pouet:53656|sceneorg:/parties/2009/assembly09/in64/proof_of_concept_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/aOxu_DcedRA/0.jpg|title:Proof of Concept|youtube:aOxu_DcedRA
+author:portal process|cappedtv:portal_process-hotel_bar_heroes&width=640&height=360|dtv:id_file=6163&id_prod=13854&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53643_1.jpg&width=512&height=404|guid:962|media:/vod/2009/Compos/962_64k_hotel_bar_heroes_by_portal_process_h264_7168kbit.mp4|position:3|pouet:53643|sceneorg:/parties/2009/assembly09/in64/hotel_bar_heroes_by_portal_process.zip|thumbnail:http://i.ytimg.com/vi/bVC1BwV2IjM/0.jpg|title:hotel bar heroes|youtube:bVC1BwV2IjM
+author:Phantom Lord|dtv:id_file=6167&id_prod=13855&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53637_1.jpg&width=512&height=404|guid:963|media:/vod/2009/Compos/963_64k_Genome_by_Phantom_Lord_h264_7168kbit.mp4|position:4|pouet:53637|sceneorg:/parties/2009/assembly09/in64/genome_by_phantom_lord.zip|thumbnail:http://i.ytimg.com/vi/_2GEkKj0el8/0.jpg|title:Genome|youtube:_2GEkKj0el8
+author:Alpha Design|dtv:id_file=6183&id_prod=13859&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53642_1.jpg&width=512&height=404|guid:971|media:/vod/2009/Compos/971_64k_Beefjerky_by_Alpha_Design_h264_7168kbit.mp4|position:5|pouet:53642|sceneorg:/parties/2009/assembly09/in64/beefjerky_by_alpha_design.zip|thumbnail:http://i.ytimg.com/vi/RI8uHYB8eC0/0.jpg|title:Beefjerky|youtube:RI8uHYB8eC0
+author:Mewlers|cappedtv:mewlers-c1alis&width=640&height=360|dtv:id_file=6171&id_prod=13856&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53641_1.jpg&width=512&height=404|guid:966|media:/vod/2009/Compos/966_64k_c1alis_by_Mewlers_h264_7168kbit.mp4|position:6|pouet:53641|sceneorg:/parties/2009/assembly09/in64/c1alis_by_mewlers.zip|thumbnail:http://i.ytimg.com/vi/v4DSkaceca0/0.jpg|title:c1alis|youtube:v4DSkaceca0
+author:f0x|dtv:id_file=6179&id_prod=13858&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53640_1.jpg&width=512&height=404|guid:968|media:/vod/2009/Compos/968_64k_CC2009_invitation_by_f0x_h264_7168kbit.mp4|position:7|pouet:53640|sceneorg:/parties/2009/assembly09/in64/cc_2009_invitation_by_f0x.zip|thumbnail:http://i.ytimg.com/vi/kQTvb-GiuZ0/0.jpg|title:CC 2009 invitation|youtube:kQTvb-GiuZ0
+author:immersion|dtv:id_file=6155&id_prod=13852&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/02_faux_shot.jpg&width=512&height=404|guid:959|media:/vod/2009/Compos/959_64k_faux_flavors_by_immersion_h264_7168kbit.mp4|position:8|pouet:53657|sceneorg:/parties/2009/assembly09/in64/faux_flavors_by_immersion-missing.tar.gz|thumbnail:http://i.ytimg.com/vi/1D2cbdhmrMw/0.jpg|title:faux flavors|youtube:1D2cbdhmrMw
+author:mrp|dtv:id_file=6159&id_prod=13853&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53644_1.jpg&width=512&height=404|guid:960|media:/vod/2009/Compos/960_64k_Klusteri_by_mrp_h264_7168kbit.mp4|position:9|pouet:53644|sceneorg:/parties/2009/assembly09/in64/klusteri_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/EAyYGz6uMKk/0.jpg|title:Klusteri|youtube:EAyYGz6uMKk
 
 
 :section Oldskool demo
 :youtube-playlist DA862ADD5254F0F6
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Oldskool demo competition everything has to happen on a commercially available computer before year 1992.</p>
 
-author:Unreal Voodoo|dtv:id_file=6219&id_prod=13870&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53636_1.png&width=512&height=404|media:/vod/2009/Compos/993_Oldskool_3_and_half_inches_is_enough_by_Unreal_Voodoo_h264_7168kbit.mp4|position:1|pouet:53636|sceneorg:/parties/2009/assembly09/oldskool/demo/3_inches_is_enough_by_unreal_voodoo.zip|thumbnail:http://i.ytimg.com/vi/kE1M58ov6V0/0.jpg|title:3½ inches is enough|youtube:kE1M58ov6V0
-author:Byterapers, inc.|media:/vod/2009/Compos/994_Oldskool_Children_of_the_Sign_by_Byterapers_h264_7168kbit.mp4|position:2|thumbnail:http://i.ytimg.com/vi/ud5TeDy-A7Q/0.jpg|title:Children of the Sign|youtube:ud5TeDy-A7Q
+author:Unreal Voodoo|dtv:id_file=6219&id_prod=13870&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53636_1.png&width=512&height=404|guid:993|media:/vod/2009/Compos/993_Oldskool_3_and_half_inches_is_enough_by_Unreal_Voodoo_h264_7168kbit.mp4|position:1|pouet:53636|sceneorg:/parties/2009/assembly09/oldskool/demo/3_inches_is_enough_by_unreal_voodoo.zip|thumbnail:http://i.ytimg.com/vi/kE1M58ov6V0/0.jpg|title:3½ inches is enough|youtube:kE1M58ov6V0
+author:Byterapers, inc.|guid:994|media:/vod/2009/Compos/994_Oldskool_Children_of_the_Sign_by_Byterapers_h264_7168kbit.mp4|position:2|thumbnail:http://i.ytimg.com/vi/ud5TeDy-A7Q/0.jpg|title:Children of the Sign|youtube:ud5TeDy-A7Q
 
 
 :section Fast graphics
@@ -171,36 +171,36 @@ author:DiamonDie|sceneorg:/parties/2009/assembly09/grfx/hitchhiker_by_diamondie.
 :youtube-playlist 08CEF5C708381ACF
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2009 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:Youth Uprising|cappedtv:youth_uprising_mlat_design_out-muon_baryon&width=640&height=360|dtv:id_file=6120&id_prod=13843&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53605_1.jpg&width=512&height=404|media:/vod/2009/Compos/948_4k_Muon_Baryon_by_Youth_Uprising_h264_7168kbit.mp4|position:1|pouet:53605|sceneorg:/parties/2009/assembly09/in4k/muon_baryon_by_youth_uprising.zip|thumbnail:http://i.ytimg.com/vi/RSckKYzkCiM/0.jpg|title:Muon Baryon|youtube:RSckKYzkCiM
-author:SQNY|cappedtv:sqny-dollop&width=640&height=358|dtv:id_file=6100&id_prod=13838&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53604_1.jpg&width=512&height=404|media:/vod/2009/Compos/941_4k_Dollop_by_SQNY_h264_7168kbit.mp4|position:2|pouet:53604|sceneorg:/parties/2009/assembly09/in4k/dollop_by_sqny.zip|thumbnail:http://i.ytimg.com/vi/2OLSdmjqbSw/0.jpg|title:Dollop|youtube:2OLSdmjqbSw
-author:tAAt 2009|dtv:id_file=6104&id_prod=13839&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53606_1.png&width=512&height=404|media:/vod/2009/Compos/943_4k_irrelephant_by_tAAt_h264_7168kbit.mp4|position:3|pouet:53606|sceneorg:/parties/2009/assembly09/in4k/irrelephant_by_taat_2009.zip|thumbnail:http://i.ytimg.com/vi/gjWtDewfBcU/0.jpg|title:irrelephant|youtube:gjWtDewfBcU
-author:XZM|cappedtv:xzm-dream_creditor&width=640&height=358|dtv:id_file=6116&id_prod=13842&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53612_1.jpg&width=512&height=404|media:/vod/2009/Compos/947_4k_Dream_Creditor_by_XZM_h264_7168kbit.mp4|position:4|pouet:53612|sceneorg:/parties/2009/assembly09/in4k/dream_creditor_by_xzm.zip|thumbnail:http://i.ytimg.com/vi/lQu6UfyXBZo/0.jpg|title:Dream Creditor|youtube:lQu6UfyXBZo
-author:Unknown Artists|cappedtv:unknown_artists-deepness&width=640&height=358|dtv:id_file=6143&id_prod=13849&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53611_1.jpg&width=512&height=404|media:/vod/2009/Compos/954_4k_Deepness_by_Unknown_Artists_h264_7168kbit.mp4|position:5|pouet:53611|sceneorg:/parties/2009/assembly09/in4k/deepness_by_unknown_artists.zip|thumbnail:http://i.ytimg.com/vi/xA47Yhvg-cU/0.jpg|title:Deepness|youtube:xA47Yhvg-cU
-author:PuavoHard|dtv:id_file=6112&id_prod=13841&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53607_1.jpg&width=512&height=404|media:/vod/2009/Compos/945_4k_Electric_Worms_by_PuavoHard_h264_7168kbit.mp4|position:6|pouet:53607|sceneorg:/parties/2009/assembly09/in4k/electric_worms_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/udtxLJ0HQE8/0.jpg|title:Electric Worms|youtube:udtxLJ0HQE8
-author:Traction|cappedtv:traction-patenga&width=640&height=358|dtv:id_file=6147&id_prod=13850&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53614_1.jpg&width=512&height=404|media:/vod/2009/Compos/957_4k_Patenga_by_Traction_h264_7168kbit.mp4|position:7|pouet:53614|sceneorg:/parties/2009/assembly09/in4k/patenga_by_traction.zip|thumbnail:http://i.ytimg.com/vi/zhWFOIp3ZE0/0.jpg|title:Patenga|youtube:zhWFOIp3ZE0
-author:PuavoHard|dtv:id_file=6108&id_prod=13840&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53609_1.jpg&width=512&height=404|media:/vod/2009/Compos/944_4k_Kutu_by_PuavoHard_h264_7168kbit.mp4|position:8|pouet:53609|sceneorg:/parties/2009/assembly09/in4k/kutu_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/HQy1wOaZhpw/0.jpg|title:Kutu|youtube:HQy1wOaZhpw
-author:The Digital Artists|dtv:id_file=6139&id_prod=13848&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53610_1.jpg&width=512&height=404|media:/vod/2009/Compos/953_4k_Kraken_by_The_Digital_Artists_h264_7168kbit.mp4|position:9|pouet:53610|sceneorg:/parties/2009/assembly09/in4k/kraken_by_the_digital_artists.tar.gz|thumbnail:http://i.ytimg.com/vi/xrXxQob7Lj4/0.jpg|title:Kraken|youtube:xrXxQob7Lj4
-author:Dragon Magic|dtv:id_file=6127&id_prod=13845&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53608_1.png&width=512&height=404|media:/vod/2009/Compos/950_4k_The_Revenge_by_Dragon_Magic_h264_7168kbit.mp4|position:10|pouet:53608|sceneorg:/parties/2009/assembly09/in4k/the_revenge_by_dragon_magic.zip|thumbnail:http://i.ytimg.com/vi/WpHafP0VqYw/0.jpg|title:The Revenge|youtube:WpHafP0VqYw
-author:Immersion|dtv:id_file=6135&id_prod=13847&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53634_1.jpg&width=512&height=404|media:/vod/2009/Compos/952_4k_Begeistert_by_Immersion_h264_7168kbit.mp4|position:11|pouet:53634|sceneorg:/parties/2009/assembly09/in4k/begeistert_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/zZNRFNZHnew/0.jpg|title:Begeistert|youtube:zZNRFNZHnew
-author:Juippi & Trilkk|dtv:id_file=6274&id_prod=13883&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53669_1.jpg&width=512&height=404|media:/vod/2009/Compos/940_4k_Swamp_Fly_by_Juippi_Trilkk_h264_7168kbit.mp4|position:12|pouet:53669|sceneorg:/parties/2009/assembly09/in4k/swamp_fly_by_juippi__trilkk.tar.gz|thumbnail:http://i.ytimg.com/vi/JN5PPcWnPdE/0.jpg|title:Swamp Fly|youtube:JN5PPcWnPdE
-author:Digimind|dtv:id_file=6131&id_prod=13846&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53613_1.jpg&width=512&height=404|media:/vod/2009/Compos/951_4k_Roboparty_by_Digimind_h264_7168kbit.mp4|position:13|pouet:53613|sceneorg:/parties/2009/assembly09/in4k/roboparty_by_digimind.zip|thumbnail:http://i.ytimg.com/vi/Wcz8WCkLijo/0.jpg|title:Roboparty|youtube:Wcz8WCkLijo
-author:lucid|dtv:id_file=6124&id_prod=13844&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53673_1.jpg&width=512&height=404|media:/vod/2009/Compos/949_4k_Rays_and_Arrays_by_lucid_h264_7168kbit.mp4|position:14|pouet:53673|sceneorg:/parties/2009/assembly09/in4k/rays_and_arrays_by_lucid.zip|thumbnail:http://i.ytimg.com/vi/LoIXC8dJsQ4/0.jpg|title:Rays and Arrays|youtube:LoIXC8dJsQ4
-author:brainlez Coders!|media:/vod/2009/Compos/955_4k_2_koiraa_savosta_by_Brainlez_Coders_h264_7168kbit.mp4|pouet:53675|sceneorg:/parties/2009/assembly09/in4k/2_koiraa_savosta_by_brainlez_coders.zip|title:2 koiraa savosta|youtube:D-ZWjaSaYik
-author:mrp|media:/vod/2009/Compos/939_4k_Hasselnussen_by_mrp_h264_7168kbit.mp4|pouet:53672|sceneorg:/parties/2009/assembly09/in4k/hasselnussen_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/XKzWaXVmqrw/0.jpg|title:Hasselnussen|youtube:XKzWaXVmqrw
-author:npli|media:/vod/2009/Compos/946_4k_Kilofile_by_npli_h264_7168kbit.mp4|pouet:53674|sceneorg:/parties/2009/assembly09/in4k/kilofile_by_npli.zip|title:Kilofile|youtube:qsrrw4eD6D4
+author:Youth Uprising|cappedtv:youth_uprising_mlat_design_out-muon_baryon&width=640&height=360|dtv:id_file=6120&id_prod=13843&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53605_1.jpg&width=512&height=404|guid:948|media:/vod/2009/Compos/948_4k_Muon_Baryon_by_Youth_Uprising_h264_7168kbit.mp4|position:1|pouet:53605|sceneorg:/parties/2009/assembly09/in4k/muon_baryon_by_youth_uprising.zip|thumbnail:http://i.ytimg.com/vi/RSckKYzkCiM/0.jpg|title:Muon Baryon|youtube:RSckKYzkCiM
+author:SQNY|cappedtv:sqny-dollop&width=640&height=358|dtv:id_file=6100&id_prod=13838&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53604_1.jpg&width=512&height=404|guid:941|media:/vod/2009/Compos/941_4k_Dollop_by_SQNY_h264_7168kbit.mp4|position:2|pouet:53604|sceneorg:/parties/2009/assembly09/in4k/dollop_by_sqny.zip|thumbnail:http://i.ytimg.com/vi/2OLSdmjqbSw/0.jpg|title:Dollop|youtube:2OLSdmjqbSw
+author:tAAt 2009|dtv:id_file=6104&id_prod=13839&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53606_1.png&width=512&height=404|guid:943|media:/vod/2009/Compos/943_4k_irrelephant_by_tAAt_h264_7168kbit.mp4|position:3|pouet:53606|sceneorg:/parties/2009/assembly09/in4k/irrelephant_by_taat_2009.zip|thumbnail:http://i.ytimg.com/vi/gjWtDewfBcU/0.jpg|title:irrelephant|youtube:gjWtDewfBcU
+author:XZM|cappedtv:xzm-dream_creditor&width=640&height=358|dtv:id_file=6116&id_prod=13842&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53612_1.jpg&width=512&height=404|guid:947|media:/vod/2009/Compos/947_4k_Dream_Creditor_by_XZM_h264_7168kbit.mp4|position:4|pouet:53612|sceneorg:/parties/2009/assembly09/in4k/dream_creditor_by_xzm.zip|thumbnail:http://i.ytimg.com/vi/lQu6UfyXBZo/0.jpg|title:Dream Creditor|youtube:lQu6UfyXBZo
+author:Unknown Artists|cappedtv:unknown_artists-deepness&width=640&height=358|dtv:id_file=6143&id_prod=13849&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53611_1.jpg&width=512&height=404|guid:954|media:/vod/2009/Compos/954_4k_Deepness_by_Unknown_Artists_h264_7168kbit.mp4|position:5|pouet:53611|sceneorg:/parties/2009/assembly09/in4k/deepness_by_unknown_artists.zip|thumbnail:http://i.ytimg.com/vi/xA47Yhvg-cU/0.jpg|title:Deepness|youtube:xA47Yhvg-cU
+author:PuavoHard|dtv:id_file=6112&id_prod=13841&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53607_1.jpg&width=512&height=404|guid:945|media:/vod/2009/Compos/945_4k_Electric_Worms_by_PuavoHard_h264_7168kbit.mp4|position:6|pouet:53607|sceneorg:/parties/2009/assembly09/in4k/electric_worms_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/udtxLJ0HQE8/0.jpg|title:Electric Worms|youtube:udtxLJ0HQE8
+author:Traction|cappedtv:traction-patenga&width=640&height=358|dtv:id_file=6147&id_prod=13850&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53614_1.jpg&width=512&height=404|guid:957|media:/vod/2009/Compos/957_4k_Patenga_by_Traction_h264_7168kbit.mp4|position:7|pouet:53614|sceneorg:/parties/2009/assembly09/in4k/patenga_by_traction.zip|thumbnail:http://i.ytimg.com/vi/zhWFOIp3ZE0/0.jpg|title:Patenga|youtube:zhWFOIp3ZE0
+author:PuavoHard|dtv:id_file=6108&id_prod=13840&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53609_1.jpg&width=512&height=404|guid:944|media:/vod/2009/Compos/944_4k_Kutu_by_PuavoHard_h264_7168kbit.mp4|position:8|pouet:53609|sceneorg:/parties/2009/assembly09/in4k/kutu_by_puavohard.zip|thumbnail:http://i.ytimg.com/vi/HQy1wOaZhpw/0.jpg|title:Kutu|youtube:HQy1wOaZhpw
+author:The Digital Artists|dtv:id_file=6139&id_prod=13848&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53610_1.jpg&width=512&height=404|guid:953|media:/vod/2009/Compos/953_4k_Kraken_by_The_Digital_Artists_h264_7168kbit.mp4|position:9|pouet:53610|sceneorg:/parties/2009/assembly09/in4k/kraken_by_the_digital_artists.tar.gz|thumbnail:http://i.ytimg.com/vi/xrXxQob7Lj4/0.jpg|title:Kraken|youtube:xrXxQob7Lj4
+author:Dragon Magic|dtv:id_file=6127&id_prod=13845&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53608_1.png&width=512&height=404|guid:950|media:/vod/2009/Compos/950_4k_The_Revenge_by_Dragon_Magic_h264_7168kbit.mp4|position:10|pouet:53608|sceneorg:/parties/2009/assembly09/in4k/the_revenge_by_dragon_magic.zip|thumbnail:http://i.ytimg.com/vi/WpHafP0VqYw/0.jpg|title:The Revenge|youtube:WpHafP0VqYw
+author:Immersion|dtv:id_file=6135&id_prod=13847&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53634_1.jpg&width=512&height=404|guid:952|media:/vod/2009/Compos/952_4k_Begeistert_by_Immersion_h264_7168kbit.mp4|position:11|pouet:53634|sceneorg:/parties/2009/assembly09/in4k/begeistert_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/zZNRFNZHnew/0.jpg|title:Begeistert|youtube:zZNRFNZHnew
+author:Juippi & Trilkk|dtv:id_file=6274&id_prod=13883&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53669_1.jpg&width=512&height=404|guid:940|media:/vod/2009/Compos/940_4k_Swamp_Fly_by_Juippi_Trilkk_h264_7168kbit.mp4|position:12|pouet:53669|sceneorg:/parties/2009/assembly09/in4k/swamp_fly_by_juippi__trilkk.tar.gz|thumbnail:http://i.ytimg.com/vi/JN5PPcWnPdE/0.jpg|title:Swamp Fly|youtube:JN5PPcWnPdE
+author:Digimind|dtv:id_file=6131&id_prod=13846&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53613_1.jpg&width=512&height=404|guid:951|media:/vod/2009/Compos/951_4k_Roboparty_by_Digimind_h264_7168kbit.mp4|position:13|pouet:53613|sceneorg:/parties/2009/assembly09/in4k/roboparty_by_digimind.zip|thumbnail:http://i.ytimg.com/vi/Wcz8WCkLijo/0.jpg|title:Roboparty|youtube:Wcz8WCkLijo
+author:lucid|dtv:id_file=6124&id_prod=13844&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53673_1.jpg&width=512&height=404|guid:949|media:/vod/2009/Compos/949_4k_Rays_and_Arrays_by_lucid_h264_7168kbit.mp4|position:14|pouet:53673|sceneorg:/parties/2009/assembly09/in4k/rays_and_arrays_by_lucid.zip|thumbnail:http://i.ytimg.com/vi/LoIXC8dJsQ4/0.jpg|title:Rays and Arrays|youtube:LoIXC8dJsQ4
+author:brainlez Coders!|guid:955|media:/vod/2009/Compos/955_4k_2_koiraa_savosta_by_Brainlez_Coders_h264_7168kbit.mp4|pouet:53675|sceneorg:/parties/2009/assembly09/in4k/2_koiraa_savosta_by_brainlez_coders.zip|title:2 koiraa savosta|youtube:D-ZWjaSaYik
+author:mrp|guid:939|media:/vod/2009/Compos/939_4k_Hasselnussen_by_mrp_h264_7168kbit.mp4|pouet:53672|sceneorg:/parties/2009/assembly09/in4k/hasselnussen_by_mrp.zip|thumbnail:http://i.ytimg.com/vi/XKzWaXVmqrw/0.jpg|title:Hasselnussen|youtube:XKzWaXVmqrw
+author:npli|guid:946|media:/vod/2009/Compos/946_4k_Kilofile_by_npli_h264_7168kbit.mp4|pouet:53674|sceneorg:/parties/2009/assembly09/in4k/kilofile_by_npli.zip|title:Kilofile|youtube:qsrrw4eD6D4
 
 
 :section Short film
 :youtube-playlist D136378FF6A9C613
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-author:Tekotuotanto|dtv:id_file=6239&id_prod=13875&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53660_1.jpg&width=512&height=404|media:/vod/2009/Compos/1006_Short_Kanava_DELTA_by_Tekotuotanto_h264_7168kbit.mp4|position:1|pouet:53660|sceneorg:/parties/2009/assembly09/short/kanava_delta_by_tekotuotanto_h264-aac.mp4|thumbnail:http://i.ytimg.com/vi/4GH2AdMudFI/0.jpg|title:Kanava DELTA|youtube:4GH2AdMudFI
+author:Tekotuotanto|dtv:id_file=6239&id_prod=13875&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53660_1.jpg&width=512&height=404|guid:1006|media:/vod/2009/Compos/1006_Short_Kanava_DELTA_by_Tekotuotanto_h264_7168kbit.mp4|position:1|pouet:53660|sceneorg:/parties/2009/assembly09/short/kanava_delta_by_tekotuotanto_h264-aac.mp4|thumbnail:http://i.ytimg.com/vi/4GH2AdMudFI/0.jpg|title:Kanava DELTA|youtube:4GH2AdMudFI
 author:Kouvola Krew|cappedtv:kouvola_krew-therell_be_balls&width=720&height=404|dtv:id_file=6223&id_prod=13871&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53661_1.jpg&width=512&height=404|position:2|pouet:53661|sceneorg:/parties/2009/assembly09/short/therell_be_balls_by_kouvola_krew.avi|thumbnail:http://i.ytimg.com/vi/8DcvnZjGz5c/0.jpg|title:There'll be balls|youtube:8DcvnZjGz5c
-author:Pistoke|cappedtv:fakehbc-subtle_confusion&width=960&height=540|dtv:id_file=6235&id_prod=13874&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53658_1.jpg&width=512&height=404|media:/vod/2009/Compos/1004_Short_Subtle_Confusion_by_Pistoke_h264_7168kbit.mp4|position:3|pouet:53658|sceneorg:/parties/2009/assembly09/short/subtle_confusion_by_pistoke_x264.mp4|thumbnail:http://i.ytimg.com/vi/DUBvsAlS6ck/0.jpg|title:Subtle Confusion|youtube:DUBvsAlS6ck
-author:Random, McLad & Phaser|cappedtv:gfxile-bugro&width=960&height=540|dtv:id_file=6227&id_prod=13872&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53655_1.jpg&width=512&height=404|media:/vod/2009/Compos/1001_Short_BUGro_by_Random_McLad_Phase_h264_7168kbit.mp4|position:4|pouet:53655|sceneorg:/parties/2009/assembly09/short/bugro_by_random_mclad_and_phaser_720p_25fps.mp4|thumbnail:http://i.ytimg.com/vi/6g3Xr8jUyGM/0.jpg|title:BUGro|youtube:6g3Xr8jUyGM
+author:Pistoke|cappedtv:fakehbc-subtle_confusion&width=960&height=540|dtv:id_file=6235&id_prod=13874&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53658_1.jpg&width=512&height=404|guid:1004|media:/vod/2009/Compos/1004_Short_Subtle_Confusion_by_Pistoke_h264_7168kbit.mp4|position:3|pouet:53658|sceneorg:/parties/2009/assembly09/short/subtle_confusion_by_pistoke_x264.mp4|thumbnail:http://i.ytimg.com/vi/DUBvsAlS6ck/0.jpg|title:Subtle Confusion|youtube:DUBvsAlS6ck
+author:Random, McLad & Phaser|cappedtv:gfxile-bugro&width=960&height=540|dtv:id_file=6227&id_prod=13872&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53655_1.jpg&width=512&height=404|guid:1001|media:/vod/2009/Compos/1001_Short_BUGro_by_Random_McLad_Phase_h264_7168kbit.mp4|position:4|pouet:53655|sceneorg:/parties/2009/assembly09/short/bugro_by_random_mclad_and_phaser_720p_25fps.mp4|thumbnail:http://i.ytimg.com/vi/6g3Xr8jUyGM/0.jpg|title:BUGro|youtube:6g3Xr8jUyGM
 author:bad loop|dtv:id_file=6215&id_prod=13869&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53662_1.jpg&width=512&height=404|position:5|pouet:53662|sceneorg:/parties/2009/assembly09/short/bad_loop_-_sentience_720p.mp4|thumbnail:http://i.ytimg.com/vi/wJgMIcEefWE/0.jpg|title:Sentience|youtube:wJgMIcEefWE
-author:Someone|media:/vod/2009/Compos/1007_Short_Kultaranne_by_Someone_h264_7168kbit.mp4|position:6|pouet:53663|sceneorg:/parties/2009/assembly09/short/kultaranne.avi|thumbnail:http://i.ytimg.com/vi/WjkQNQirh0g/0.jpg|title:Kultaranne|youtube:WjkQNQirh0g
-author:Accession|dtv:id_file=6231&id_prod=13873&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53659_1.jpg&width=512&height=404|media:/vod/2009/Compos/1003_Short_GeekCamp_IV_Invitation_by_Accession_h264_7168kbit.mp4|position:7|pouet:53659|sceneorg:/parties/2009/assembly09/short/accession-gc4inv.mp4|thumbnail:http://i.ytimg.com/vi/4fRj1Go8x0M/0.jpg|title:GeekCamp IV Invitation|youtube:4fRj1Go8x0M
+author:Someone|guid:1007|media:/vod/2009/Compos/1007_Short_Kultaranne_by_Someone_h264_7168kbit.mp4|position:6|pouet:53663|sceneorg:/parties/2009/assembly09/short/kultaranne.avi|thumbnail:http://i.ytimg.com/vi/WjkQNQirh0g/0.jpg|title:Kultaranne|youtube:WjkQNQirh0g
+author:Accession|dtv:id_file=6231&id_prod=13873&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53659_1.jpg&width=512&height=404|guid:1003|media:/vod/2009/Compos/1003_Short_GeekCamp_IV_Invitation_by_Accession_h264_7168kbit.mp4|position:7|pouet:53659|sceneorg:/parties/2009/assembly09/short/accession-gc4inv.mp4|thumbnail:http://i.ytimg.com/vi/4fRj1Go8x0M/0.jpg|title:GeekCamp IV Invitation|youtube:4fRj1Go8x0M
 author:Suometar Filmi|position:8|pouet:53664|sceneorg:/parties/2009/assembly09/short/uskomaton_vojaasi.mp4|title:Uskomaton vojaasi
 author:Region Factible|pouet:53665|sceneorg:/parties/2009/assembly09/short/plantilleros_viejunos_by_region_factible.mov|title:Plantilleros viejunos
 author:Kiss-maja Films|pouet:53666|sceneorg:/parties/2009/assembly09/short/kekkulin_keittiossa_ep1_by_kissmaja_films.avi|title:Kekkulin keittiössä ep1
@@ -212,13 +212,13 @@ author:SBA|pouet:53679|sceneorg:/parties/2009/assembly09/short/kova_jano.mp4|tit
 :youtube-playlist 39E3B2BF1DC74AA3
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running and this separates demos from animations that are not limited with this real-time constraint.</p><p>In Real wild demo competition demo platform can be anything that can run real-time moving images, like mobile phones, oscilloscopes, browsers or even platforms that competitor has built himself.</p>
 
-author:throb+t-rex|dtv:id_file=6247&id_prod=13877&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53631_1.jpg&width=512&height=404|media:/vod/2009/Compos/986_RealWild_coder_colors_by_throb_t-rex_h264_7168kbit.mp4|position:1|pouet:53631|sceneorg:/parties/2009/assembly09/real_wild/c0d3r_c0l0rz_final_by_throb_t-rex.zip|thumbnail:http://i.ytimg.com/vi/GioWiMxRHLQ/0.jpg|title:coder colors|youtube:GioWiMxRHLQ
-author:Bemmu|dtv:id_file=6255&id_prod=13879&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53635_1.jpg&width=512&height=404|media:/vod/2009/Compos/988_RealWild_Javascript_Wii_Emulator_by_Bemmu_h264_7168kbit.mp4|position:2|pouet:53635|sceneorg:/parties/2009/assembly09/real_wild/javascript_wii_emulator_by_bemmu.zip|thumbnail:http://i.ytimg.com/vi/_9qEWclzEiA/0.jpg|title:Javascript Wii Emulator|youtube:_9qEWclzEiA
-author:evoflash|cappedtv:evoflash-severity_of_grey&width=720&height=406|dtv:id_file=6263&id_prod=13881&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53633_1.jpg&width=512&height=404|media:/vod/2009/Compos/990_RealWild_Severity_of_grey_by_evoflash_h264_7168kbit.mp4|position:3|pouet:53633|sceneorg:/parties/2009/assembly09/real_wild/severity_of_grey_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/_fmujG6bQog/0.jpg|title:Severity of grey|youtube:_fmujG6bQog
-author:Dekadence|dtv:id_file=6267&id_prod=13882&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53668_1.jpg&width=512&height=404|media:/vod/2009/Compos/991_RealWild_Beertime_X2_by_Dekadence_h264_7168kbit.mp4|position:4|pouet:53668|sceneorg:/parties/2009/assembly09/real_wild/beertime_x2_by_dekadence.zip|thumbnail:http://i.ytimg.com/vi/nG5w1d9S_uM/0.jpg|title:Beertime X2|youtube:nG5w1d9S_uM
-author:Byterapers & Accession|dtv:id_file=6259&id_prod=13880&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53667_1.jpg&width=512&height=404|media:/vod/2009/Compos/989_RealWild_Cosmic_Soliloquy_by_Byterapers_Accession_h264_7168kbit.mp4|position:5|pouet:53667|sceneorg:/parties/2009/assembly09/real_wild/cosmic_soliloquy_by_byterapers__accession.zip|thumbnail:http://i.ytimg.com/vi/Xm_JSWqUr4o/0.jpg|title:Cosmic Soliloquy|youtube:Xm_JSWqUr4o
-author:Immersion|dtv:id_file=6251&id_prod=13878&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53632_1.jpg&width=512&height=404|media:/vod/2009/Compos/987_RealWild_dime_cross_by_Immersion_h264_7168kbit.mp4|position:6|pouet:53632|sceneorg:/parties/2009/assembly09/real_wild/dime_cross_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/kJuAu4r0bT8/0.jpg|title:dime cross|youtube:kJuAu4r0bT8
-author:Wide Load|dtv:id_file=6243&id_prod=13876&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53681_1.jpg&width=512&height=404|media:/vod/2009/Compos/984_RealWild_52_by_Wide_Load_h264_7168kbit.mp4|position:7|pouet:53681|sceneorg:/parties/2009/assembly09/real_wild/52_by_wide_load.zip|thumbnail:http://i.ytimg.com/vi/z7FC3fHGhv8/0.jpg|title:52|youtube:z7FC3fHGhv8
+author:throb+t-rex|dtv:id_file=6247&id_prod=13877&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53631_1.jpg&width=512&height=404|guid:986|media:/vod/2009/Compos/986_RealWild_coder_colors_by_throb_t-rex_h264_7168kbit.mp4|position:1|pouet:53631|sceneorg:/parties/2009/assembly09/real_wild/c0d3r_c0l0rz_final_by_throb_t-rex.zip|thumbnail:http://i.ytimg.com/vi/GioWiMxRHLQ/0.jpg|title:coder colors|youtube:GioWiMxRHLQ
+author:Bemmu|dtv:id_file=6255&id_prod=13879&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53635_1.jpg&width=512&height=404|guid:988|media:/vod/2009/Compos/988_RealWild_Javascript_Wii_Emulator_by_Bemmu_h264_7168kbit.mp4|position:2|pouet:53635|sceneorg:/parties/2009/assembly09/real_wild/javascript_wii_emulator_by_bemmu.zip|thumbnail:http://i.ytimg.com/vi/_9qEWclzEiA/0.jpg|title:Javascript Wii Emulator|youtube:_9qEWclzEiA
+author:evoflash|cappedtv:evoflash-severity_of_grey&width=720&height=406|dtv:id_file=6263&id_prod=13881&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53633_1.jpg&width=512&height=404|guid:990|media:/vod/2009/Compos/990_RealWild_Severity_of_grey_by_evoflash_h264_7168kbit.mp4|position:3|pouet:53633|sceneorg:/parties/2009/assembly09/real_wild/severity_of_grey_by_evoflash.zip|thumbnail:http://i.ytimg.com/vi/_fmujG6bQog/0.jpg|title:Severity of grey|youtube:_fmujG6bQog
+author:Dekadence|dtv:id_file=6267&id_prod=13882&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53668_1.jpg&width=512&height=404|guid:991|media:/vod/2009/Compos/991_RealWild_Beertime_X2_by_Dekadence_h264_7168kbit.mp4|position:4|pouet:53668|sceneorg:/parties/2009/assembly09/real_wild/beertime_x2_by_dekadence.zip|thumbnail:http://i.ytimg.com/vi/nG5w1d9S_uM/0.jpg|title:Beertime X2|youtube:nG5w1d9S_uM
+author:Byterapers & Accession|dtv:id_file=6259&id_prod=13880&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53667_1.jpg&width=512&height=404|guid:989|media:/vod/2009/Compos/989_RealWild_Cosmic_Soliloquy_by_Byterapers_Accession_h264_7168kbit.mp4|position:5|pouet:53667|sceneorg:/parties/2009/assembly09/real_wild/cosmic_soliloquy_by_byterapers__accession.zip|thumbnail:http://i.ytimg.com/vi/Xm_JSWqUr4o/0.jpg|title:Cosmic Soliloquy|youtube:Xm_JSWqUr4o
+author:Immersion|dtv:id_file=6251&id_prod=13878&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53632_1.jpg&width=512&height=404|guid:987|media:/vod/2009/Compos/987_RealWild_dime_cross_by_Immersion_h264_7168kbit.mp4|position:6|pouet:53632|sceneorg:/parties/2009/assembly09/real_wild/dime_cross_by_immersion.zip|thumbnail:http://i.ytimg.com/vi/kJuAu4r0bT8/0.jpg|title:dime cross|youtube:kJuAu4r0bT8
+author:Wide Load|dtv:id_file=6243&id_prod=13876&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53681_1.jpg&width=512&height=404|guid:984|media:/vod/2009/Compos/984_RealWild_52_by_Wide_Load_h264_7168kbit.mp4|position:7|pouet:53681|sceneorg:/parties/2009/assembly09/real_wild/52_by_wide_load.zip|thumbnail:http://i.ytimg.com/vi/z7FC3fHGhv8/0.jpg|title:52|youtube:z7FC3fHGhv8
 author:KorpisotuRiT|pouet:53678|sceneorg:/parties/2009/assembly09/real_wild/demonscene_by_korpisoturit.swf|title:Demonscene
 
 
@@ -288,15 +288,15 @@ author:mrp|position:11|sceneorg:/parties/2009/assembly09/extreme/grfx/isoveli_by
 :youtube-playlist 8F04295792D2552E
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In Demo competition only realistic limitation for the demo was the speed of a high-end 2009 PC computer.</p>
 
-author:CNCD & Fairlight & Orange|cappedtv:cncd_orange_fairlight-frameranger&width=640&height=358|dtv:id_file=6064&id_prod=13829&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53647_1.jpg&width=512&height=404|media:/vod/2009/Compos/976_Demo_Frameranger_by_CNCD_Fairlight_Orange_h264_7168kbit.mp4|position:1|pouet:53647|sceneorg:/parties/2009/assembly09/demo/frameranger_by_cncd__fairlight__orange.zip|thumbnail:http://i.ytimg.com/vi/M35mnRixFcM/0.jpg|title:Frameranger|youtube:M35mnRixFcM
-author:Pyrotech|dtv:id_file=6068&id_prod=13830&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53654_1.jpg&width=512&height=404|media:/vod/2009/Compos/983_Demo_Project_Avarus_by_Pyrotech_h264_7168kbit.mp4|position:2|pouet:53654|sceneorg:/parties/2009/assembly09/demo/project_avarus_by_pyrotech.zip|thumbnail:http://i.ytimg.com/vi/9hFt-rjVUKs/0.jpg|title:Project Avarus|youtube:9hFt-rjVUKs
-author:UF & DD|cappedtv:united_force_digital_dynamite-the_golden_path&width=640&height=358|dtv:id_file=6072&id_prod=13831&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53638_1.jpg&width=512&height=404|media:/vod/2009/Compos/978_Demo_Golden_Path_by_UF_DD_h264_7168kbit.mp4|position:3|pouet:53638|sceneorg:/parties/2009/assembly09/demo/the_golden_path_by_uf__dd_.zip|thumbnail:http://i.ytimg.com/vi/R5mQI8159Ho/0.jpg|title:The Golden Path|youtube:R5mQI8159Ho
-author:MATT CURRENT|cappedtv:matt_current-wrath&width=640&height=360|dtv:id_file=6077&id_prod=13832&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53648_1.jpg&width=512&height=404|media:/vod/2009/Compos/981_Demo_Wrath_by_MATT_CURRENT_h264_7168kbit.mp4|position:4|pouet:53648|sceneorg:/parties/2009/assembly09/demo/wrath_by_matt_current.zip|thumbnail:http://i.ytimg.com/vi/3fdV8YoRApE/0.jpg|title:WRATH|youtube:3fdV8YoRApE
-author:hedelmae|dtv:id_file=6081&id_prod=13833&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53653_1.jpg&width=1024&height=596|media:/vod/2009/Compos/974_Demo_Times_Square_by_hedelmae_h264_7168kbit.mp4|position:5|pouet:53653|sceneorg:/parties/2009/assembly09/demo/times_square_by_hedelmae.zip|thumbnail:http://i.ytimg.com/vi/8lWlDTmqrrI/0.jpg|title:Times Square|youtube:8lWlDTmqrrI
-author:Znah|dtv:id_file=6084&id_prod=13834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53652_1.jpg&width=512&height=404|media:/vod/2009/Compos/977_Demo_Flow_by_Znah_h264_7168kbit.mp4|position:6|pouet:53652|sceneorg:/parties/2009/assembly09/demo/the_flow_by_znah.zip|thumbnail:http://i.ytimg.com/vi/S5YVc40PJUg/0.jpg|title:The Flow|youtube:S5YVc40PJUg
-author:Division|dtv:id_file=6089&id_prod=13835&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53650_1.jpg&width=512&height=404|media:/vod/2009/Compos/973_Demo_Evolve_by_Division_h264_7168kbit.mp4|position:7|pouet:53650|sceneorg:/parties/2009/assembly09/demo/evolve_by_division.zip|thumbnail:http://i.ytimg.com/vi/RkwDrVkVeTo/0.jpg|title:Evolve|youtube:RkwDrVkVeTo
-author:friction|dtv:id_file=6092&id_prod=13836&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53651_1.jpg&width=512&height=404|media:/vod/2009/Compos/980_Demo_FR001_Attraction_by_friction_h264_7168kbit.mp4|position:8|pouet:53651|sceneorg:/parties/2009/assembly09/demo/fr001_attraction_by_friction.zip|thumbnail:http://i.ytimg.com/vi/7hOrJoevxEw/0.jpg|title:fr-001: attraction|youtube:7hOrJoevxEw
-author:adapt|dtv:id_file=6096&id_prod=13837&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53639_1.jpg&width=512&height=404|media:/vod/2009/Compos/975_Demo_Devour_by_adapt_h264_7168kbit.mp4|position:9|pouet:53639|sceneorg:/parties/2009/assembly09/demo/devour_by_adapt.zip|thumbnail:http://i.ytimg.com/vi/1afSToHLFqw/0.jpg|title:Devour|youtube:1afSToHLFqw
+author:CNCD & Fairlight & Orange|cappedtv:cncd_orange_fairlight-frameranger&width=640&height=358|dtv:id_file=6064&id_prod=13829&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53647_1.jpg&width=512&height=404|guid:976|media:/vod/2009/Compos/976_Demo_Frameranger_by_CNCD_Fairlight_Orange_h264_7168kbit.mp4|position:1|pouet:53647|sceneorg:/parties/2009/assembly09/demo/frameranger_by_cncd__fairlight__orange.zip|thumbnail:http://i.ytimg.com/vi/M35mnRixFcM/0.jpg|title:Frameranger|youtube:M35mnRixFcM
+author:Pyrotech|dtv:id_file=6068&id_prod=13830&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53654_1.jpg&width=512&height=404|guid:983|media:/vod/2009/Compos/983_Demo_Project_Avarus_by_Pyrotech_h264_7168kbit.mp4|position:2|pouet:53654|sceneorg:/parties/2009/assembly09/demo/project_avarus_by_pyrotech.zip|thumbnail:http://i.ytimg.com/vi/9hFt-rjVUKs/0.jpg|title:Project Avarus|youtube:9hFt-rjVUKs
+author:UF & DD|cappedtv:united_force_digital_dynamite-the_golden_path&width=640&height=358|dtv:id_file=6072&id_prod=13831&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53638_1.jpg&width=512&height=404|guid:978|media:/vod/2009/Compos/978_Demo_Golden_Path_by_UF_DD_h264_7168kbit.mp4|position:3|pouet:53638|sceneorg:/parties/2009/assembly09/demo/the_golden_path_by_uf__dd_.zip|thumbnail:http://i.ytimg.com/vi/R5mQI8159Ho/0.jpg|title:The Golden Path|youtube:R5mQI8159Ho
+author:MATT CURRENT|cappedtv:matt_current-wrath&width=640&height=360|dtv:id_file=6077&id_prod=13832&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53648_1.jpg&width=512&height=404|guid:981|media:/vod/2009/Compos/981_Demo_Wrath_by_MATT_CURRENT_h264_7168kbit.mp4|position:4|pouet:53648|sceneorg:/parties/2009/assembly09/demo/wrath_by_matt_current.zip|thumbnail:http://i.ytimg.com/vi/3fdV8YoRApE/0.jpg|title:WRATH|youtube:3fdV8YoRApE
+author:hedelmae|dtv:id_file=6081&id_prod=13833&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53653_1.jpg&width=1024&height=596|guid:974|media:/vod/2009/Compos/974_Demo_Times_Square_by_hedelmae_h264_7168kbit.mp4|position:5|pouet:53653|sceneorg:/parties/2009/assembly09/demo/times_square_by_hedelmae.zip|thumbnail:http://i.ytimg.com/vi/8lWlDTmqrrI/0.jpg|title:Times Square|youtube:8lWlDTmqrrI
+author:Znah|dtv:id_file=6084&id_prod=13834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53652_1.jpg&width=512&height=404|guid:977|media:/vod/2009/Compos/977_Demo_Flow_by_Znah_h264_7168kbit.mp4|position:6|pouet:53652|sceneorg:/parties/2009/assembly09/demo/the_flow_by_znah.zip|thumbnail:http://i.ytimg.com/vi/S5YVc40PJUg/0.jpg|title:The Flow|youtube:S5YVc40PJUg
+author:Division|dtv:id_file=6089&id_prod=13835&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53650_1.jpg&width=512&height=404|guid:973|media:/vod/2009/Compos/973_Demo_Evolve_by_Division_h264_7168kbit.mp4|position:7|pouet:53650|sceneorg:/parties/2009/assembly09/demo/evolve_by_division.zip|thumbnail:http://i.ytimg.com/vi/RkwDrVkVeTo/0.jpg|title:Evolve|youtube:RkwDrVkVeTo
+author:friction|dtv:id_file=6092&id_prod=13836&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53651_1.jpg&width=512&height=404|guid:980|media:/vod/2009/Compos/980_Demo_FR001_Attraction_by_friction_h264_7168kbit.mp4|position:8|pouet:53651|sceneorg:/parties/2009/assembly09/demo/fr001_attraction_by_friction.zip|thumbnail:http://i.ytimg.com/vi/7hOrJoevxEw/0.jpg|title:fr-001: attraction|youtube:7hOrJoevxEw
+author:adapt|dtv:id_file=6096&id_prod=13837&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/53639_1.jpg&width=512&height=404|guid:975|media:/vod/2009/Compos/975_Demo_Devour_by_adapt_h264_7168kbit.mp4|position:9|pouet:53639|sceneorg:/parties/2009/assembly09/demo/devour_by_adapt.zip|thumbnail:http://i.ytimg.com/vi/1afSToHLFqw/0.jpg|title:Devour|youtube:1afSToHLFqw
 
 
 :section AssemblyTV
@@ -350,7 +350,7 @@ author:AssemblyTV|guid:http://elaine.assembly.org/programs/1011|media:/vod/2009/
 author:Mark D Grady|guid:http://elaine.assembly.org/programs/877|media:/vod/2009/Seminars/877_Distributing_and_Monetizing_Windows_Mobile_Applications_through_the_Windows_Marketplace_for_Mobile_h264_1856kbit.mp4|title:Distributing and Monetizing Windows Mobile Applications through the Windows Marketplace for Mobile|youtube:GSunRCdJ13c
 author:Erik Svedäng|guid:http://elaine.assembly.org/programs/881|media:/vod/2009/Seminars/881_The_Creation_of_Blueberry_Garden_h264_1856kbit.mp4|title:The Creation of Blueberry Garden - the inside story of the winner of IGF 2009|youtube:dJptkQjNkXc
 author:Eskil Steenberg|guid:http://elaine.assembly.org/programs/879|media:/vod/2009/Seminars/879_Developing-the-technology-behind-Love_h264_1856kbit.mp4|title:Developing the technology behind "Love"|youtube:f90R2taD1WQ
-author:Jonatan Söderström|media:/vod/2009/Seminars/880_rapid_game_design_h264_1856kbit.mp4|title:Rapid Game Design|youtube:ascLRP12P2Q
+author:Jonatan Söderström|guid:880|media:/vod/2009/Seminars/880_rapid_game_design_h264_1856kbit.mp4|title:Rapid Game Design|youtube:ascLRP12P2Q
 author:Petri Purho|title:The Mystery Seminar
 author:Aras Pranckevičius|guid:http://elaine.assembly.org/programs/870|media:/vod/2009/Seminars/870_Developing_graphics_technology_for_non-AAA_games_h264_1856kbit.mp4|title:Developing graphics technology for non-AAA games|youtube:Wn3REpE-8bU
 author:Mikko Lehtonen|guid:http://elaine.assembly.org/programs/874|media:/vod/2009/Seminars/874_Getting_started_with_iPhone_development_h264_1856kbit.mp4|title:Getting started with iPhone development|youtube:_L6LUFGLU3M
@@ -366,7 +366,7 @@ author:Martti Nurmikari|guid:http://elaine.assembly.org/programs/871|media:/vod/
 author:Davy Virant|guid:http://elaine.assembly.org/programs/884|media:/vod/2009/Seminars/884_Djing-how_to_beatmix_h264_1856kbit.mp4|title:DJing : how to beatmix, DJing the past, now and future|youtube:WmaRB--0MSs
 author:Niko Suni|guid:http://elaine.assembly.org/programs/873|media:/vod/2009/Seminars/873_Direct3D_11-New_Avenues_of_Performance_h264_1856kbit.mp4|title:Direct3D 11 - New Avenues of Performance|youtube:sawSDYsjuiM
 author:Jussi Laakkonen|guid:http://elaine.assembly.org/programs/887|media:/vod/2009/Seminars/887_Confessions_Starting_your_own_game_company_h264_1856kbit.mp4|title:Confessions: Starting your own game company|youtube:4EOb2HiP2nE
-author:Jari Komppa|media:/vod/2009/Seminars/868_Getting_More_Out_of_Your_Education_via_the_Demoscene_Spirit_h264_1856kbit.mp4|title:Getting More Out of Your Education via the Demoscene Spirit|youtube:g7NDZ9E9qhs
+author:Jari Komppa|guid:868|media:/vod/2009/Seminars/868_Getting_More_Out_of_Your_Education_via_the_Demoscene_Spirit_h264_1856kbit.mp4|title:Getting More Out of Your Education via the Demoscene Spirit|youtube:g7NDZ9E9qhs
 author:Olivier Bechard|guid:http://elaine.assembly.org/programs/885|media:/vod/2009/Seminars/885_Creativity_and_Art_h264_1856kbit.mp4|title:Creativity and Art|youtube:CiB64BVJNKA
 author:Koopee Hiltunen, Veli-Pekka Piirainen, Turo Kilpeläinen, Toni Pippola, Teemu Haila, Tony Manninen, Petri Lankoski|guid:http://elaine.assembly.org/programs/876|media:/vod/2009/Seminars/876_Learning_how_to_teach_making_games_h264_1856kbit.mp4|title:Learning how to teach making games|youtube:8RC7V8keqUM
 author:Vincent Joguin, Roberto Fresca, Andreas Lange|guid:http://elaine.assembly.org/programs/891|media:/vod/2009/Seminars/891_emulation_as_preservation_strategy_h264_1856kbit.mp4|title:Emulation as preservation strategy. EC Research Project KEEP discussion with emulation programmers|youtube:THtnPcSSHEQ
@@ -377,6 +377,343 @@ author:Maria Candia|guid:http://elaine.assembly.org/programs/890|media:/vod/2009
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2009/
 
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1390_medium.JPG|title:IMG_1390_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1393_medium.JPG|title:IMG_1393_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1400_medium.JPG|title:IMG_1400_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1401_medium.JPG|title:IMG_1401_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1404_medium.JPG|title:IMG_1404_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1405_medium.JPG|title:IMG_1405_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1416_medium.JPG|title:IMG_1416_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1418_medium.JPG|title:IMG_1418_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7831_medium.JPG|title:IMG_7831_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1427_medium.JPG|title:IMG_1427_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7812_medium.JPG|title:IMG_7812_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7815_medium.JPG|title:IMG_7815_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7816_medium.JPG|title:IMG_7816_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7822_medium.JPG|title:IMG_7822_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7825_medium.JPG|title:IMG_7825_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1422_medium.JPG|title:IMG_1422_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7834_medium.JPG|title:IMG_7834_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7835_medium.JPG|title:IMG_7835_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7842_medium.JPG|title:IMG_7842_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7844_medium.JPG|title:IMG_7844_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7848_medium.JPG|title:IMG_7848_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7852_medium.JPG|title:IMG_7852_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7854_medium.JPG|title:IMG_7854_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7856_medium.JPG|title:IMG_7856_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7857_medium.JPG|title:IMG_7857_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7859_medium.JPG|title:IMG_7859_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7860_medium.JPG|title:IMG_7860_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7861_medium.JPG|title:IMG_7861_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7862_medium.JPG|title:IMG_7862_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7864_medium.JPG|title:IMG_7864_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7869_medium.JPG|title:IMG_7869_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7870_medium.JPG|title:IMG_7870_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7872_medium.JPG|title:IMG_7872_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8244_medium.JPG|title:IMG_8244_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7878_medium.JPG|title:IMG_7878_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7880_medium.JPG|title:IMG_7880_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7883_medium.JPG|title:IMG_7883_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7884_medium.JPG|title:IMG_7884_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7885_medium.JPG|title:IMG_7885_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7887_medium.JPG|title:IMG_7887_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7888_medium.JPG|title:IMG_7888_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7905_medium.JPG|title:IMG_7905_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7924_medium.JPG|title:IMG_7924_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7928_medium.JPG|title:IMG_7928_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7933_medium.JPG|title:IMG_7933_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7876_medium.JPG|title:IMG_7876_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7947_medium.JPG|title:IMG_7947_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7949_medium.JPG|title:IMG_7949_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7956_medium.JPG|title:IMG_7956_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7957_medium.JPG|title:IMG_7957_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7959_medium.JPG|title:IMG_7959_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7961_medium.JPG|title:IMG_7961_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7965_medium.JPG|title:IMG_7965_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7977_medium.JPG|title:IMG_7977_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7995_medium.JPG|title:IMG_7995_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7999_medium.JPG|title:IMG_7999_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8004_medium.JPG|title:IMG_8004_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8005_medium.JPG|title:IMG_8005_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8008_medium.JPG|title:IMG_8008_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8011_medium.JPG|title:IMG_8011_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8022_medium.JPG|title:IMG_8022_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8027_medium.JPG|title:IMG_8027_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8032_medium.JPG|title:IMG_8032_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8033_medium.JPG|title:IMG_8033_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8037_medium.JPG|title:IMG_8037_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8043_medium.JPG|title:IMG_8043_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8057_medium.JPG|title:IMG_8057_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8078_medium.JPG|title:IMG_8078_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8084_medium.JPG|title:IMG_8084_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8092_medium.JPG|title:IMG_8092_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8094_medium.JPG|title:IMG_8094_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8125_medium.JPG|title:IMG_8125_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8137_medium.JPG|title:IMG_8137_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8156_medium.JPG|title:IMG_8156_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8166_medium.JPG|title:IMG_8166_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8178_medium.JPG|title:IMG_8178_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8199_medium.JPG|title:IMG_8199_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8203_medium.JPG|title:IMG_8203_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8208_medium.JPG|title:IMG_8208_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8215_medium.JPG|title:IMG_8215_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8218_medium.JPG|title:IMG_8218_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8221_medium.JPG|title:IMG_8221_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8225_medium.JPG|title:IMG_8225_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8228_medium.JPG|title:IMG_8228_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8243_medium.JPG|title:IMG_8243_medium.JPG
+author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/ACCT6936_medium.JPG|title:ACCT6936_medium.JPG
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0211.jpg|title:20090806_DSTL0211.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0218.jpg|title:20090806_DSTL0218.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0382.jpg|title:20090806_DSTL0382.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0384.jpg|title:20090806_DSTL0384.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0403.jpg|title:20090806_DSTL0403.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0492.jpg|title:20090806_DSTL0492.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0499.jpg|title:20090806_DSTL0499.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0512.jpg|title:20090806_DSTL0512.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0574.jpg|title:20090806_DSTL0574.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0579.jpg|title:20090806_DSTL0579.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0602.jpg|title:20090806_DSTL0602.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0671.jpg|title:20090806_DSTL0671.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0679.jpg|title:20090806_DSTL0679.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0688.jpg|title:20090806_DSTL0688.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0691.jpg|title:20090806_DSTL0691.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0692.jpg|title:20090806_DSTL0692.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0840.jpg|title:20090807_DSTL0840.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0898.jpg|title:20090807_DSTL0898.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0927.jpg|title:20090807_DSTL0927.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0941.jpg|title:20090807_DSTL0941.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0943.jpg|title:20090807_DSTL0943.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0949.jpg|title:20090807_DSTL0949.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1077.jpg|title:20090807_DSTL1077.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1276.jpg|title:20090807_DSTL1276.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1308.jpg|title:20090807_DSTL1308.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1312.jpg|title:20090807_DSTL1312.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1314.jpg|title:20090807_DSTL1314.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1319.jpg|title:20090807_DSTL1319.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1325.jpg|title:20090807_DSTL1325.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1327.jpg|title:20090807_DSTL1327.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1329.jpg|title:20090807_DSTL1329.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1331.jpg|title:20090807_DSTL1331.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1332.jpg|title:20090807_DSTL1332.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1334.jpg|title:20090807_DSTL1334.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1349.jpg|title:20090807_DSTL1349.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1350.jpg|title:20090807_DSTL1350.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1361.jpg|title:20090807_DSTL1361.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1386.jpg|title:20090807_DSTL1386.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1397.jpg|title:20090807_DSTL1397.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1398.jpg|title:20090807_DSTL1398.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1407.jpg|title:20090808_DSTL1407.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1409.jpg|title:20090808_DSTL1409.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1413.jpg|title:20090808_DSTL1413.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1420.jpg|title:20090808_DSTL1420.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1442.jpg|title:20090808_DSTL1442.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1447.jpg|title:20090808_DSTL1447.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1448.jpg|title:20090808_DSTL1448.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1451.jpg|title:20090808_DSTL1451.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1456.jpg|title:20090808_DSTL1456.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1463.jpg|title:20090808_DSTL1463.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1498.jpg|title:20090808_DSTL1498.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1525.jpg|title:20090808_DSTL1525.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1534.jpg|title:20090808_DSTL1534.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1536.jpg|title:20090808_DSTL1536.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1559.jpg|title:20090808_DSTL1559.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1566.jpg|title:20090808_DSTL1566.jpg
+author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1573.jpg|title:20090808_DSTL1573.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2093-Edit copy.jpg|title:IMG_2093-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2159-Edit copy.jpg|title:IMG_2159-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2080-Edit copy.jpg|title:IMG_2080-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2059-Edit copy.jpg|title:IMG_2059-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2062-Edit copy.jpg|title:IMG_2062-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2065-Edit copy.jpg|title:IMG_2065-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_1989-Edit-2-Edit copy.jpg|title:IMG_1989-Edit-2-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2005-Edit copy.jpg|title:IMG_2005-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2015-Edit copy.jpg|title:IMG_2015-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2030-Edit copy.jpg|title:IMG_2030-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2031-Edit copy.jpg|title:IMG_2031-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2050-Edit copy.jpg|title:IMG_2050-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2056-Edit copy.jpg|title:IMG_2056-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2087-Edit copy.jpg|title:IMG_2087-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2090-Edit copy.jpg|title:IMG_2090-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2074-Edit copy.jpg|title:IMG_2074-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2066-Edit copy.jpg|title:IMG_2066-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2097-Edit copy.jpg|title:IMG_2097-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2100-Edit copy.jpg|title:IMG_2100-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2101-Edit copy.jpg|title:IMG_2101-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2105-Edit copy.jpg|title:IMG_2105-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2117-Edit copy.jpg|title:IMG_2117-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2129-Edit copy.jpg|title:IMG_2129-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2142-Edit copy.jpg|title:IMG_2142-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2157-Edit copy.jpg|title:IMG_2157-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2237-Edit copy.jpg|title:IMG_2237-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2173-Edit copy.jpg|title:IMG_2173-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2178-Edit copy.jpg|title:IMG_2178-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2179-Edit copy.jpg|title:IMG_2179-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2186-Edit copy.jpg|title:IMG_2186-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2209-Edit copy.jpg|title:IMG_2209-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2222-Edit copy.jpg|title:IMG_2222-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2225-Edit copy.jpg|title:IMG_2225-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2242-Edit copy.jpg|title:IMG_2242-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2291-Edit copy.jpg|title:IMG_2291-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2257-Edit copy.jpg|title:IMG_2257-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2260-Edit copy.jpg|title:IMG_2260-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2262-Edit copy.jpg|title:IMG_2262-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2270-Edit-2 copy.jpg|title:IMG_2270-Edit-2 copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2276-Edit copy.jpg|title:IMG_2276-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2282-Edit copy.jpg|title:IMG_2282-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2311-Edit copy.jpg|title:IMG_2311-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2328-Edit copy.jpg|title:IMG_2328-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2345-Edit copy.jpg|title:IMG_2345-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2364-Edit copy.jpg|title:IMG_2364-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2350-Edit copy.jpg|title:IMG_2350-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2697-Edit copy.jpg|title:IMG_2697-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2367-Edit copy.jpg|title:IMG_2367-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2368-Edit copy.jpg|title:IMG_2368-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2428-Edit copy.jpg|title:IMG_2428-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2382-Edit copy.jpg|title:IMG_2382-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2384-Edit copy.jpg|title:IMG_2384-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2432-Edit copy.jpg|title:IMG_2432-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2440-Edit copy.jpg|title:IMG_2440-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2459-Edit copy.jpg|title:IMG_2459-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2470-Edit copy.jpg|title:IMG_2470-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2484-Edit copy.jpg|title:IMG_2484-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2489-Edit copy.jpg|title:IMG_2489-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2567-Edit copy.jpg|title:IMG_2567-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2588-Edit copy.jpg|title:IMG_2588-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2608-Edit copy.jpg|title:IMG_2608-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2593-Edit copy.jpg|title:IMG_2593-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2618-Edit copy.jpg|title:IMG_2618-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2637-Edit copy.jpg|title:IMG_2637-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2674-Edit copy.jpg|title:IMG_2674-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2670-Edit copy.jpg|title:IMG_2670-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2676-Edit copy.jpg|title:IMG_2676-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2708-Edit copy.jpg|title:IMG_2708-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2716-Edit copy.jpg|title:IMG_2716-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2727-Edit copy.jpg|title:IMG_2727-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2734-Edit copy.jpg|title:IMG_2734-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2738-Edit copy.jpg|title:IMG_2738-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2757-Edit copy.jpg|title:IMG_2757-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2768-Edit copy.jpg|title:IMG_2768-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2769-Edit copy.jpg|title:IMG_2769-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2779-Edit copy.jpg|title:IMG_2779-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2787-Edit copy.jpg|title:IMG_2787-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2800-Edit copy.jpg|title:IMG_2800-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2801-Edit copy.jpg|title:IMG_2801-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2802-Edit copy.jpg|title:IMG_2802-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2815-Edit copy.jpg|title:IMG_2815-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2822-Edit copy.jpg|title:IMG_2822-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2830-Edit copy.jpg|title:IMG_2830-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2832-Edit copy.jpg|title:IMG_2832-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2837-Edit copy.jpg|title:IMG_2837-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2840-Edit copy.jpg|title:IMG_2840-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2852-Edit copy.jpg|title:IMG_2852-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2874-Edit copy.jpg|title:IMG_2874-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2866-Edit copy.jpg|title:IMG_2866-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2882-Edit copy.jpg|title:IMG_2882-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2898-Edit copy.jpg|title:IMG_2898-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2909-Edit copy.jpg|title:IMG_2909-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2916-Edit copy.jpg|title:IMG_2916-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2932-Edit copy.jpg|title:IMG_2932-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2924-Edit copy.jpg|title:IMG_2924-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2935-Edit copy.jpg|title:IMG_2935-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2949-Edit copy.jpg|title:IMG_2949-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2953-Edit copy.jpg|title:IMG_2953-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2962-Edit copy.jpg|title:IMG_2962-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2969-Edit copy.jpg|title:IMG_2969-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2987-Edit copy.jpg|title:IMG_2987-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2979-Edit copy.jpg|title:IMG_2979-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3010-Edit copy.jpg|title:IMG_3010-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3008-Edit copy.jpg|title:IMG_3008-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3013-Edit copy.jpg|title:IMG_3013-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3014-Edit copy.jpg|title:IMG_3014-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3021-Edit copy.jpg|title:IMG_3021-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3024-Edit copy.jpg|title:IMG_3024-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3029-Edit copy.jpg|title:IMG_3029-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3058-Edit copy.jpg|title:IMG_3058-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3070-Edit copy.jpg|title:IMG_3070-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3065-Edit copy.jpg|title:IMG_3065-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3099-Edit copy.jpg|title:IMG_3099-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3082-Edit copy.jpg|title:IMG_3082-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3342-Edit copy.jpg|title:IMG_3342-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3125-Edit copy.jpg|title:IMG_3125-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3129-Edit copy.jpg|title:IMG_3129-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3136-Edit copy.jpg|title:IMG_3136-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3131-Edit copy.jpg|title:IMG_3131-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3154-Edit copy.jpg|title:IMG_3154-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3177-Edit copy.jpg|title:IMG_3177-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3189-Edit copy.jpg|title:IMG_3189-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3190-Edit copy.jpg|title:IMG_3190-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3210-Edit copy.jpg|title:IMG_3210-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3221-Edit copy.jpg|title:IMG_3221-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3258-Edit copy.jpg|title:IMG_3258-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3266-Edit-Edit copy.jpg|title:IMG_3266-Edit-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3276-Edit copy.jpg|title:IMG_3276-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3282-Edit copy.jpg|title:IMG_3282-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3287-Edit copy.jpg|title:IMG_3287-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3285-Edit copy.jpg|title:IMG_3285-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3284-Edit copy.jpg|title:IMG_3284-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3294-Edit copy.jpg|title:IMG_3294-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3302-Edit copy.jpg|title:IMG_3302-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3307-Edit copy.jpg|title:IMG_3307-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3320-Edit copy.jpg|title:IMG_3320-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3335-Edit copy.jpg|title:IMG_3335-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3339-Edit-Edit copy.jpg|title:IMG_3339-Edit-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3350-Edit copy.jpg|title:IMG_3350-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3484-Edit copy.jpg|title:IMG_3484-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3360-Edit copy.jpg|title:IMG_3360-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3375-Edit copy.jpg|title:IMG_3375-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3383-Edit copy.jpg|title:IMG_3383-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3389-Edit copy.jpg|title:IMG_3389-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3393-Edit copy.jpg|title:IMG_3393-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3391-Edit copy.jpg|title:IMG_3391-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3398-Edit copy.jpg|title:IMG_3398-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3400-Edit copy.jpg|title:IMG_3400-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3428-Edit copy.jpg|title:IMG_3428-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3450-Edit copy.jpg|title:IMG_3450-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3438-Edit copy.jpg|title:IMG_3438-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3453-Edit copy.jpg|title:IMG_3453-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3451-Edit copy.jpg|title:IMG_3451-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3456-Edit copy.jpg|title:IMG_3456-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3472-Edit copy.jpg|title:IMG_3472-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3579-Edit copy.jpg|title:IMG_3579-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3488-Edit copy.jpg|title:IMG_3488-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3505-Edit copy.jpg|title:IMG_3505-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3527-Edit copy.jpg|title:IMG_3527-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3558-Edit copy.jpg|title:IMG_3558-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3577-Edit copy.jpg|title:IMG_3577-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3658-Edit copy.jpg|title:IMG_3658-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3757-Edit copy.jpg|title:IMG_3757-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3707-Edit copy.jpg|title:IMG_3707-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3598-Edit copy.jpg|title:IMG_3598-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3675-Edit copy.jpg|title:IMG_3675-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3721-Edit copy.jpg|title:IMG_3721-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3639-Edit copy.jpg|title:IMG_3639-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3710-Edit copy.jpg|title:IMG_3710-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3780-Edit copy.jpg|title:IMG_3780-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3789-Edit copy.jpg|title:IMG_3789-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3736-Edit copy.jpg|title:IMG_3736-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3669-Edit copy.jpg|title:IMG_3669-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3719-Edit copy.jpg|title:IMG_3719-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3607-Edit copy.jpg|title:IMG_3607-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3742-Edit copy.jpg|title:IMG_3742-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3692-Edit copy.jpg|title:IMG_3692-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3791-Edit copy.jpg|title:IMG_3791-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3752-Edit copy.jpg|title:IMG_3752-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3799-Edit copy.jpg|title:IMG_3799-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3609-Edit copy.jpg|title:IMG_3609-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3768-Edit copy.jpg|title:IMG_3768-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3745-Edit copy.jpg|title:IMG_3745-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3728-Edit copy.jpg|title:IMG_3728-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3677-Edit copy.jpg|title:IMG_3677-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3779-Edit copy.jpg|title:IMG_3779-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3650-Edit copy.jpg|title:IMG_3650-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3788-Edit copy.jpg|title:IMG_3788-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3622-Edit copy.jpg|title:IMG_3622-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3697-Edit copy.jpg|title:IMG_3697-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3732-Edit copy.jpg|title:IMG_3732-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3762-Edit copy.jpg|title:IMG_3762-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3619-Edit copy.jpg|title:IMG_3619-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3626-Edit copy.jpg|title:IMG_3626-Edit copy.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0837.jpg|title:IMG_0837.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0839.jpg|title:IMG_0839.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_0843.jpg|title:IMG_0843.jpg
@@ -622,343 +959,6 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_1917.jpg|title:IMG_1917.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_1927.jpg|title:IMG_1927.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2009/Tuula Ylikorpi/IMG_1929.jpg|title:IMG_1929.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_1989-Edit-2-Edit copy.jpg|title:IMG_1989-Edit-2-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2005-Edit copy.jpg|title:IMG_2005-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2015-Edit copy.jpg|title:IMG_2015-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2030-Edit copy.jpg|title:IMG_2030-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2031-Edit copy.jpg|title:IMG_2031-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2050-Edit copy.jpg|title:IMG_2050-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2056-Edit copy.jpg|title:IMG_2056-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2059-Edit copy.jpg|title:IMG_2059-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2062-Edit copy.jpg|title:IMG_2062-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2065-Edit copy.jpg|title:IMG_2065-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2066-Edit copy.jpg|title:IMG_2066-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2074-Edit copy.jpg|title:IMG_2074-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2080-Edit copy.jpg|title:IMG_2080-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2087-Edit copy.jpg|title:IMG_2087-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2090-Edit copy.jpg|title:IMG_2090-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2093-Edit copy.jpg|title:IMG_2093-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2097-Edit copy.jpg|title:IMG_2097-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2100-Edit copy.jpg|title:IMG_2100-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2101-Edit copy.jpg|title:IMG_2101-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2105-Edit copy.jpg|title:IMG_2105-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2117-Edit copy.jpg|title:IMG_2117-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2129-Edit copy.jpg|title:IMG_2129-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2142-Edit copy.jpg|title:IMG_2142-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2157-Edit copy.jpg|title:IMG_2157-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2159-Edit copy.jpg|title:IMG_2159-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2173-Edit copy.jpg|title:IMG_2173-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2178-Edit copy.jpg|title:IMG_2178-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2179-Edit copy.jpg|title:IMG_2179-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2186-Edit copy.jpg|title:IMG_2186-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2209-Edit copy.jpg|title:IMG_2209-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2222-Edit copy.jpg|title:IMG_2222-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2225-Edit copy.jpg|title:IMG_2225-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2237-Edit copy.jpg|title:IMG_2237-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2242-Edit copy.jpg|title:IMG_2242-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2257-Edit copy.jpg|title:IMG_2257-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2260-Edit copy.jpg|title:IMG_2260-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2262-Edit copy.jpg|title:IMG_2262-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2270-Edit-2 copy.jpg|title:IMG_2270-Edit-2 copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2276-Edit copy.jpg|title:IMG_2276-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2282-Edit copy.jpg|title:IMG_2282-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2291-Edit copy.jpg|title:IMG_2291-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2311-Edit copy.jpg|title:IMG_2311-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2328-Edit copy.jpg|title:IMG_2328-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2345-Edit copy.jpg|title:IMG_2345-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2350-Edit copy.jpg|title:IMG_2350-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2364-Edit copy.jpg|title:IMG_2364-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2367-Edit copy.jpg|title:IMG_2367-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2368-Edit copy.jpg|title:IMG_2368-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2382-Edit copy.jpg|title:IMG_2382-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2384-Edit copy.jpg|title:IMG_2384-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2428-Edit copy.jpg|title:IMG_2428-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2432-Edit copy.jpg|title:IMG_2432-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2440-Edit copy.jpg|title:IMG_2440-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2459-Edit copy.jpg|title:IMG_2459-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2470-Edit copy.jpg|title:IMG_2470-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2484-Edit copy.jpg|title:IMG_2484-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2489-Edit copy.jpg|title:IMG_2489-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2567-Edit copy.jpg|title:IMG_2567-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2588-Edit copy.jpg|title:IMG_2588-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2593-Edit copy.jpg|title:IMG_2593-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2608-Edit copy.jpg|title:IMG_2608-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2618-Edit copy.jpg|title:IMG_2618-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2637-Edit copy.jpg|title:IMG_2637-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2670-Edit copy.jpg|title:IMG_2670-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2674-Edit copy.jpg|title:IMG_2674-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2676-Edit copy.jpg|title:IMG_2676-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2697-Edit copy.jpg|title:IMG_2697-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2708-Edit copy.jpg|title:IMG_2708-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2716-Edit copy.jpg|title:IMG_2716-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2727-Edit copy.jpg|title:IMG_2727-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2734-Edit copy.jpg|title:IMG_2734-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2738-Edit copy.jpg|title:IMG_2738-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2757-Edit copy.jpg|title:IMG_2757-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2768-Edit copy.jpg|title:IMG_2768-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2769-Edit copy.jpg|title:IMG_2769-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2779-Edit copy.jpg|title:IMG_2779-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2787-Edit copy.jpg|title:IMG_2787-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2800-Edit copy.jpg|title:IMG_2800-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2801-Edit copy.jpg|title:IMG_2801-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2802-Edit copy.jpg|title:IMG_2802-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2815-Edit copy.jpg|title:IMG_2815-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2822-Edit copy.jpg|title:IMG_2822-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2830-Edit copy.jpg|title:IMG_2830-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2832-Edit copy.jpg|title:IMG_2832-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2837-Edit copy.jpg|title:IMG_2837-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2840-Edit copy.jpg|title:IMG_2840-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2852-Edit copy.jpg|title:IMG_2852-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2866-Edit copy.jpg|title:IMG_2866-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2874-Edit copy.jpg|title:IMG_2874-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2882-Edit copy.jpg|title:IMG_2882-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2898-Edit copy.jpg|title:IMG_2898-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2909-Edit copy.jpg|title:IMG_2909-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2916-Edit copy.jpg|title:IMG_2916-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2924-Edit copy.jpg|title:IMG_2924-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2932-Edit copy.jpg|title:IMG_2932-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2935-Edit copy.jpg|title:IMG_2935-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2949-Edit copy.jpg|title:IMG_2949-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2953-Edit copy.jpg|title:IMG_2953-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2962-Edit copy.jpg|title:IMG_2962-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2969-Edit copy.jpg|title:IMG_2969-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2979-Edit copy.jpg|title:IMG_2979-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_2987-Edit copy.jpg|title:IMG_2987-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3008-Edit copy.jpg|title:IMG_3008-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3010-Edit copy.jpg|title:IMG_3010-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3013-Edit copy.jpg|title:IMG_3013-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3014-Edit copy.jpg|title:IMG_3014-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3021-Edit copy.jpg|title:IMG_3021-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3024-Edit copy.jpg|title:IMG_3024-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3029-Edit copy.jpg|title:IMG_3029-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3058-Edit copy.jpg|title:IMG_3058-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3065-Edit copy.jpg|title:IMG_3065-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3070-Edit copy.jpg|title:IMG_3070-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3082-Edit copy.jpg|title:IMG_3082-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3099-Edit copy.jpg|title:IMG_3099-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3125-Edit copy.jpg|title:IMG_3125-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3129-Edit copy.jpg|title:IMG_3129-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3131-Edit copy.jpg|title:IMG_3131-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3136-Edit copy.jpg|title:IMG_3136-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3154-Edit copy.jpg|title:IMG_3154-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3177-Edit copy.jpg|title:IMG_3177-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3189-Edit copy.jpg|title:IMG_3189-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3190-Edit copy.jpg|title:IMG_3190-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3210-Edit copy.jpg|title:IMG_3210-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3221-Edit copy.jpg|title:IMG_3221-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3258-Edit copy.jpg|title:IMG_3258-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3266-Edit-Edit copy.jpg|title:IMG_3266-Edit-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3276-Edit copy.jpg|title:IMG_3276-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3282-Edit copy.jpg|title:IMG_3282-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3284-Edit copy.jpg|title:IMG_3284-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3285-Edit copy.jpg|title:IMG_3285-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3287-Edit copy.jpg|title:IMG_3287-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3294-Edit copy.jpg|title:IMG_3294-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3302-Edit copy.jpg|title:IMG_3302-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3307-Edit copy.jpg|title:IMG_3307-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3320-Edit copy.jpg|title:IMG_3320-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3335-Edit copy.jpg|title:IMG_3335-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3339-Edit-Edit copy.jpg|title:IMG_3339-Edit-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3342-Edit copy.jpg|title:IMG_3342-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3350-Edit copy.jpg|title:IMG_3350-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3360-Edit copy.jpg|title:IMG_3360-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3375-Edit copy.jpg|title:IMG_3375-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3383-Edit copy.jpg|title:IMG_3383-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3389-Edit copy.jpg|title:IMG_3389-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3391-Edit copy.jpg|title:IMG_3391-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3393-Edit copy.jpg|title:IMG_3393-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3398-Edit copy.jpg|title:IMG_3398-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3400-Edit copy.jpg|title:IMG_3400-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3428-Edit copy.jpg|title:IMG_3428-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3438-Edit copy.jpg|title:IMG_3438-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3450-Edit copy.jpg|title:IMG_3450-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3451-Edit copy.jpg|title:IMG_3451-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3453-Edit copy.jpg|title:IMG_3453-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3456-Edit copy.jpg|title:IMG_3456-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3472-Edit copy.jpg|title:IMG_3472-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3484-Edit copy.jpg|title:IMG_3484-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3488-Edit copy.jpg|title:IMG_3488-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3505-Edit copy.jpg|title:IMG_3505-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3527-Edit copy.jpg|title:IMG_3527-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3558-Edit copy.jpg|title:IMG_3558-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3577-Edit copy.jpg|title:IMG_3577-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3579-Edit copy.jpg|title:IMG_3579-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3598-Edit copy.jpg|title:IMG_3598-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3607-Edit copy.jpg|title:IMG_3607-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3609-Edit copy.jpg|title:IMG_3609-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3619-Edit copy.jpg|title:IMG_3619-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3622-Edit copy.jpg|title:IMG_3622-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3626-Edit copy.jpg|title:IMG_3626-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3639-Edit copy.jpg|title:IMG_3639-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3650-Edit copy.jpg|title:IMG_3650-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3658-Edit copy.jpg|title:IMG_3658-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3669-Edit copy.jpg|title:IMG_3669-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3675-Edit copy.jpg|title:IMG_3675-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3677-Edit copy.jpg|title:IMG_3677-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3692-Edit copy.jpg|title:IMG_3692-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3697-Edit copy.jpg|title:IMG_3697-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3707-Edit copy.jpg|title:IMG_3707-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3710-Edit copy.jpg|title:IMG_3710-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3719-Edit copy.jpg|title:IMG_3719-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3721-Edit copy.jpg|title:IMG_3721-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3728-Edit copy.jpg|title:IMG_3728-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3732-Edit copy.jpg|title:IMG_3732-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3736-Edit copy.jpg|title:IMG_3736-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3742-Edit copy.jpg|title:IMG_3742-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3745-Edit copy.jpg|title:IMG_3745-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3752-Edit copy.jpg|title:IMG_3752-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3757-Edit copy.jpg|title:IMG_3757-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3762-Edit copy.jpg|title:IMG_3762-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3768-Edit copy.jpg|title:IMG_3768-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3779-Edit copy.jpg|title:IMG_3779-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3780-Edit copy.jpg|title:IMG_3780-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3788-Edit copy.jpg|title:IMG_3788-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3789-Edit copy.jpg|title:IMG_3789-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3791-Edit copy.jpg|title:IMG_3791-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2009/Tuomas Siitonen/IMG_3799-Edit copy.jpg|title:IMG_3799-Edit copy.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0211.jpg|title:20090806_DSTL0211.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0218.jpg|title:20090806_DSTL0218.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0382.jpg|title:20090806_DSTL0382.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0384.jpg|title:20090806_DSTL0384.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0403.jpg|title:20090806_DSTL0403.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0492.jpg|title:20090806_DSTL0492.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0499.jpg|title:20090806_DSTL0499.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0512.jpg|title:20090806_DSTL0512.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0574.jpg|title:20090806_DSTL0574.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0579.jpg|title:20090806_DSTL0579.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0602.jpg|title:20090806_DSTL0602.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0671.jpg|title:20090806_DSTL0671.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0679.jpg|title:20090806_DSTL0679.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0688.jpg|title:20090806_DSTL0688.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0691.jpg|title:20090806_DSTL0691.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090806_DSTL0692.jpg|title:20090806_DSTL0692.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0840.jpg|title:20090807_DSTL0840.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0898.jpg|title:20090807_DSTL0898.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0927.jpg|title:20090807_DSTL0927.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0941.jpg|title:20090807_DSTL0941.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0943.jpg|title:20090807_DSTL0943.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL0949.jpg|title:20090807_DSTL0949.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1077.jpg|title:20090807_DSTL1077.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1276.jpg|title:20090807_DSTL1276.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1308.jpg|title:20090807_DSTL1308.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1312.jpg|title:20090807_DSTL1312.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1314.jpg|title:20090807_DSTL1314.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1319.jpg|title:20090807_DSTL1319.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1325.jpg|title:20090807_DSTL1325.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1327.jpg|title:20090807_DSTL1327.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1329.jpg|title:20090807_DSTL1329.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1331.jpg|title:20090807_DSTL1331.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1332.jpg|title:20090807_DSTL1332.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1334.jpg|title:20090807_DSTL1334.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1349.jpg|title:20090807_DSTL1349.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1350.jpg|title:20090807_DSTL1350.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1361.jpg|title:20090807_DSTL1361.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1386.jpg|title:20090807_DSTL1386.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1397.jpg|title:20090807_DSTL1397.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090807_DSTL1398.jpg|title:20090807_DSTL1398.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1407.jpg|title:20090808_DSTL1407.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1409.jpg|title:20090808_DSTL1409.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1413.jpg|title:20090808_DSTL1413.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1420.jpg|title:20090808_DSTL1420.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1442.jpg|title:20090808_DSTL1442.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1447.jpg|title:20090808_DSTL1447.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1448.jpg|title:20090808_DSTL1448.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1451.jpg|title:20090808_DSTL1451.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1456.jpg|title:20090808_DSTL1456.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1463.jpg|title:20090808_DSTL1463.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1498.jpg|title:20090808_DSTL1498.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1525.jpg|title:20090808_DSTL1525.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1534.jpg|title:20090808_DSTL1534.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1536.jpg|title:20090808_DSTL1536.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1559.jpg|title:20090808_DSTL1559.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1566.jpg|title:20090808_DSTL1566.jpg
-author:Taneli Kaivola|galleriafi:/kuvat/Assembly Summer 2009/Taneli Kaivola/20090808_DSTL1573.jpg|title:20090808_DSTL1573.jpg
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/ACCT6936_medium.JPG|title:ACCT6936_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1390_medium.JPG|title:IMG_1390_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1393_medium.JPG|title:IMG_1393_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1400_medium.JPG|title:IMG_1400_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1401_medium.JPG|title:IMG_1401_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1404_medium.JPG|title:IMG_1404_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1405_medium.JPG|title:IMG_1405_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1416_medium.JPG|title:IMG_1416_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1418_medium.JPG|title:IMG_1418_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1422_medium.JPG|title:IMG_1422_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_1427_medium.JPG|title:IMG_1427_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7812_medium.JPG|title:IMG_7812_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7815_medium.JPG|title:IMG_7815_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7816_medium.JPG|title:IMG_7816_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7822_medium.JPG|title:IMG_7822_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7825_medium.JPG|title:IMG_7825_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7831_medium.JPG|title:IMG_7831_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7834_medium.JPG|title:IMG_7834_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7835_medium.JPG|title:IMG_7835_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7842_medium.JPG|title:IMG_7842_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7844_medium.JPG|title:IMG_7844_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7848_medium.JPG|title:IMG_7848_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7852_medium.JPG|title:IMG_7852_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7854_medium.JPG|title:IMG_7854_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7856_medium.JPG|title:IMG_7856_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7857_medium.JPG|title:IMG_7857_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7859_medium.JPG|title:IMG_7859_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7860_medium.JPG|title:IMG_7860_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7861_medium.JPG|title:IMG_7861_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7862_medium.JPG|title:IMG_7862_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7864_medium.JPG|title:IMG_7864_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7869_medium.JPG|title:IMG_7869_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7870_medium.JPG|title:IMG_7870_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7872_medium.JPG|title:IMG_7872_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7876_medium.JPG|title:IMG_7876_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7878_medium.JPG|title:IMG_7878_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7880_medium.JPG|title:IMG_7880_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7883_medium.JPG|title:IMG_7883_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7884_medium.JPG|title:IMG_7884_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7885_medium.JPG|title:IMG_7885_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7887_medium.JPG|title:IMG_7887_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7888_medium.JPG|title:IMG_7888_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7905_medium.JPG|title:IMG_7905_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7924_medium.JPG|title:IMG_7924_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7928_medium.JPG|title:IMG_7928_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7933_medium.JPG|title:IMG_7933_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7947_medium.JPG|title:IMG_7947_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7949_medium.JPG|title:IMG_7949_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7956_medium.JPG|title:IMG_7956_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7957_medium.JPG|title:IMG_7957_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7959_medium.JPG|title:IMG_7959_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7961_medium.JPG|title:IMG_7961_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7965_medium.JPG|title:IMG_7965_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7977_medium.JPG|title:IMG_7977_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7995_medium.JPG|title:IMG_7995_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_7999_medium.JPG|title:IMG_7999_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8004_medium.JPG|title:IMG_8004_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8005_medium.JPG|title:IMG_8005_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8008_medium.JPG|title:IMG_8008_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8011_medium.JPG|title:IMG_8011_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8022_medium.JPG|title:IMG_8022_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8027_medium.JPG|title:IMG_8027_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8032_medium.JPG|title:IMG_8032_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8033_medium.JPG|title:IMG_8033_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8037_medium.JPG|title:IMG_8037_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8043_medium.JPG|title:IMG_8043_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8057_medium.JPG|title:IMG_8057_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8078_medium.JPG|title:IMG_8078_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8084_medium.JPG|title:IMG_8084_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8092_medium.JPG|title:IMG_8092_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8094_medium.JPG|title:IMG_8094_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8125_medium.JPG|title:IMG_8125_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8137_medium.JPG|title:IMG_8137_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8156_medium.JPG|title:IMG_8156_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8166_medium.JPG|title:IMG_8166_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8178_medium.JPG|title:IMG_8178_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8199_medium.JPG|title:IMG_8199_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8203_medium.JPG|title:IMG_8203_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8208_medium.JPG|title:IMG_8208_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8215_medium.JPG|title:IMG_8215_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8218_medium.JPG|title:IMG_8218_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8221_medium.JPG|title:IMG_8221_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8225_medium.JPG|title:IMG_8225_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8228_medium.JPG|title:IMG_8228_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8243_medium.JPG|title:IMG_8243_medium.JPG
-author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8244_medium.JPG|title:IMG_8244_medium.JPG
 
 
 :section Photos winter
@@ -966,20 +966,10 @@ author:Mikko Bäck|galleriafi:/kuvat/Assembly Summer 2009/Mikko Bäck/IMG_8244_m
 :galleriafi /kuvat/Assembly Winter 2009/
 
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0143.jpg|title:ASMW09-0143.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0158.jpg|title:ASMW09-0158.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0159.jpg|title:ASMW09-0159.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0161.jpg|title:ASMW09-0161.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0192.jpg|title:ASMW09-0192.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0202.jpg|title:ASMW09-0202.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0215.jpg|title:ASMW09-0215.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0216.jpg|title:ASMW09-0216.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0220.jpg|title:ASMW09-0220.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0225.jpg|title:ASMW09-0225.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0229.jpg|title:ASMW09-0229.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0230.jpg|title:ASMW09-0230.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0244.jpg|title:ASMW09-0244.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0258.jpg|title:ASMW09-0258.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0260.jpg|title:ASMW09-0260.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0265.jpg|title:ASMW09-0265.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0276.jpg|title:ASMW09-0276.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0280.jpg|title:ASMW09-0280.jpg
@@ -988,12 +978,7 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0296.jpg|title:ASMW09-0296.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0303.jpg|title:ASMW09-0303.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0305.jpg|title:ASMW09-0305.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0306.jpg|title:ASMW09-0306.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0308.jpg|title:ASMW09-0308.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0313.jpg|title:ASMW09-0313.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0317.jpg|title:ASMW09-0317.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0320.jpg|title:ASMW09-0320.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0324.jpg|title:ASMW09-0324.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0325.jpg|title:ASMW09-0325.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0336.jpg|title:ASMW09-0336.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0337.jpg|title:ASMW09-0337.jpg
@@ -1007,7 +992,6 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0377.jpg|title:ASMW09-0377.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0387.jpg|title:ASMW09-0387.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0389.jpg|title:ASMW09-0389.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0390.jpg|title:ASMW09-0390.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0395.jpg|title:ASMW09-0395.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0403.jpg|title:ASMW09-0403.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0407.jpg|title:ASMW09-0407.jpg
@@ -1027,17 +1011,15 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0519.jpg|title:ASMW09-0519.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0520.jpg|title:ASMW09-0520.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0528.jpg|title:ASMW09-0528.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0538.jpg|title:ASMW09-0538.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0543.jpg|title:ASMW09-0543.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0551.jpg|title:ASMW09-0551.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0553.jpg|title:ASMW09-0553.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0559.jpg|title:ASMW09-0559.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0578.jpg|title:ASMW09-0578.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0585-2.jpg|title:ASMW09-0585-2.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0585.jpg|title:ASMW09-0585.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0586.jpg|title:ASMW09-0586.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0594.jpg|title:ASMW09-0594.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0632.jpg|title:ASMW09-0632.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0596.jpg|title:ASMW09-0596.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1488.jpg|title:ASMW09-1488.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0599.jpg|title:ASMW09-0599.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0608.jpg|title:ASMW09-0608.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0609.jpg|title:ASMW09-0609.jpg
@@ -1047,10 +1029,8 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0625.jpg|title:ASMW09-0625.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0626.jpg|title:ASMW09-0626.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0630.jpg|title:ASMW09-0630.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0632.jpg|title:ASMW09-0632.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0637.jpg|title:ASMW09-0637.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0638.jpg|title:ASMW09-0638.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0641.jpg|title:ASMW09-0641.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0645.jpg|title:ASMW09-0645.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0654.jpg|title:ASMW09-0654.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0655.jpg|title:ASMW09-0655.jpg
@@ -1154,6 +1134,7 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1068.jpg|title:ASMW09-1068.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1071.jpg|title:ASMW09-1071.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1075.jpg|title:ASMW09-1075.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1547.jpg|title:ASMW09-1547.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1078.jpg|title:ASMW09-1078.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1083.jpg|title:ASMW09-1083.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1084.jpg|title:ASMW09-1084.jpg
@@ -1190,7 +1171,6 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1214.jpg|title:ASMW09-1214.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1217.jpg|title:ASMW09-1217.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1220.jpg|title:ASMW09-1220.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1227.jpg|title:ASMW09-1227.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1229.jpg|title:ASMW09-1229.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1236.jpg|title:ASMW09-1236.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1249.jpg|title:ASMW09-1249.jpg
@@ -1233,21 +1213,41 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1399.jpg|title:ASMW09-1399.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1404.jpg|title:ASMW09-1404.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1406.jpg|title:ASMW09-1406.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1408.jpg|title:ASMW09-1408.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1412.jpg|title:ASMW09-1412.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1416.jpg|title:ASMW09-1416.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1419.jpg|title:ASMW09-1419.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1427.jpg|title:ASMW09-1427.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0158.jpg|title:ASMW09-0158.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0159.jpg|title:ASMW09-0159.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0161.jpg|title:ASMW09-0161.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0202.jpg|title:ASMW09-0202.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0215.jpg|title:ASMW09-0215.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0216.jpg|title:ASMW09-0216.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0225.jpg|title:ASMW09-0225.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0229.jpg|title:ASMW09-0229.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0244.jpg|title:ASMW09-0244.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0260.jpg|title:ASMW09-0260.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0306.jpg|title:ASMW09-0306.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0308.jpg|title:ASMW09-0308.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0313.jpg|title:ASMW09-0313.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0317.jpg|title:ASMW09-0317.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0324.jpg|title:ASMW09-0324.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0390.jpg|title:ASMW09-0390.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0538.jpg|title:ASMW09-0538.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0543.jpg|title:ASMW09-0543.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0586.jpg|title:ASMW09-0586.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0594.jpg|title:ASMW09-0594.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-0641.jpg|title:ASMW09-0641.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1227.jpg|title:ASMW09-1227.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1408.jpg|title:ASMW09-1408.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1465.jpg|title:ASMW09-1465.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1470.jpg|title:ASMW09-1470.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1472.jpg|title:ASMW09-1472.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1473.jpg|title:ASMW09-1473.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1475.jpg|title:ASMW09-1475.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1476.jpg|title:ASMW09-1476.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1478.jpg|title:ASMW09-1478.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1484.jpg|title:ASMW09-1484.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1485.jpg|title:ASMW09-1485.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1488.jpg|title:ASMW09-1488.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1491.jpg|title:ASMW09-1491.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1493.jpg|title:ASMW09-1493.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1498.jpg|title:ASMW09-1498.jpg
@@ -1268,9 +1268,71 @@ author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1539.jpg|title:ASMW09-1539.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1540.jpg|title:ASMW09-1540.jpg
 author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1545.jpg|title:ASMW09-1545.jpg
-author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1547.jpg|title:ASMW09-1547.jpg
+author:Markus Räty|galleriafi:/kuvat/Assembly Winter 2009/Markus Räty/ASMW09-1473.jpg|title:ASMW09-1473.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8485-Edit copy.jpg|title:IMG_8485-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8520-Edit copy.jpg|title:IMG_8520-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8530-Edit copy.jpg|title:IMG_8530-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8560-Edit copy.jpg|title:IMG_8560-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8574-Edit copy.jpg|title:IMG_8574-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8582-Edit copy.jpg|title:IMG_8582-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8593-Edit copy.jpg|title:IMG_8593-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8849-Edit copy.jpg|title:IMG_8849-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8469-Edit copy.jpg|title:IMG_8469-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8620-Edit copy.jpg|title:IMG_8620-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8668-Edit copy.jpg|title:IMG_8668-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8678-Edit copy.jpg|title:IMG_8678-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8690-Edit copy.jpg|title:IMG_8690-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8692-Edit copy.jpg|title:IMG_8692-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8707-Edit copy.jpg|title:IMG_8707-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8640-Edit copy.jpg|title:IMG_8640-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8646-Edit copy.jpg|title:IMG_8646-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8655-Edit copy.jpg|title:IMG_8655-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8783-Edit copy.jpg|title:IMG_8783-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8786-Edit copy.jpg|title:IMG_8786-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8792-Edit copy.jpg|title:IMG_8792-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8802-Edit copy.jpg|title:IMG_8802-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8827-Edit copy.jpg|title:IMG_8827-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8836-Edit copy.jpg|title:IMG_8836-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8724-Edit copy.jpg|title:IMG_8724-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8725-Edit copy.jpg|title:IMG_8725-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8747-Edit copy.jpg|title:IMG_8747-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8767-Edit copy.jpg|title:IMG_8767-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8781-Edit copy.jpg|title:IMG_8781-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8838-Edit copy.jpg|title:IMG_8838-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8860-Edit copy.jpg|title:IMG_8860-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8868-Edit copy.jpg|title:IMG_8868-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8842-Edit copy.jpg|title:IMG_8842-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8858-Edit copy.jpg|title:IMG_8858-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8859-Edit copy.jpg|title:IMG_8859-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8894-Edit copy.jpg|title:IMG_8894-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8905-Edit copy.jpg|title:IMG_8905-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8908-Edit-2 copy.jpg|title:IMG_8908-Edit-2 copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8918-Edit-Edit copy.jpg|title:IMG_8918-Edit-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8934-Edit copy.jpg|title:IMG_8934-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8940-Edit copy.jpg|title:IMG_8940-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8942-Edit copy.jpg|title:IMG_8942-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8873-Edit copy.jpg|title:IMG_8873-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8880-Edit copy.jpg|title:IMG_8880-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8965-Edit copy.jpg|title:IMG_8965-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8944-Edit copy.jpg|title:IMG_8944-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8948-Edit copy.jpg|title:IMG_8948-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8949-Edit copy.jpg|title:IMG_8949-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8979-Edit copy.jpg|title:IMG_8979-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8983-Edit copy.jpg|title:IMG_8983-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9082-Edit copy.jpg|title:IMG_9082-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9085-Edit copy.jpg|title:IMG_9085-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9088-Edit copy.jpg|title:IMG_9088-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9101-Edit copy.jpg|title:IMG_9101-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9112-Edit copy.jpg|title:IMG_9112-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9001-Edit copy.jpg|title:IMG_9001-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9025-Edit copy.jpg|title:IMG_9025-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9033-Edit copy.jpg|title:IMG_9033-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9039-Edit copy.jpg|title:IMG_9039-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9057-Edit copy.jpg|title:IMG_9057-Edit copy.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9066-Edit copy.jpg|title:IMG_9066-Edit copy.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8283.jpg|title:8283.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8289.jpg|title:8289.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8410.jpg|title:8410.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8293.jpg|title:8293.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8297.jpg|title:8297.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8300.jpg|title:8300.jpg
@@ -1307,7 +1369,7 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8399
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8401.jpg|title:8401.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8405.jpg|title:8405.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8407.jpg|title:8407.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8410.jpg|title:8410.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8748.jpg|title:8748.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8416.jpg|title:8416.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8418.jpg|title:8418.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8422.jpg|title:8422.jpg
@@ -1375,66 +1437,4 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8682
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8683.jpg|title:8683.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8685.jpg|title:8685.jpg
 author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8729.jpg|title:8729.jpg
-author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Winter 2009/Tuula Ylikorpi/8748.jpg|title:8748.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8469-Edit copy.jpg|title:IMG_8469-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8485-Edit copy.jpg|title:IMG_8485-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8520-Edit copy.jpg|title:IMG_8520-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8530-Edit copy.jpg|title:IMG_8530-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8560-Edit copy.jpg|title:IMG_8560-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8574-Edit copy.jpg|title:IMG_8574-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8582-Edit copy.jpg|title:IMG_8582-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8593-Edit copy.jpg|title:IMG_8593-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8620-Edit copy.jpg|title:IMG_8620-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8640-Edit copy.jpg|title:IMG_8640-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8646-Edit copy.jpg|title:IMG_8646-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8655-Edit copy.jpg|title:IMG_8655-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8668-Edit copy.jpg|title:IMG_8668-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8678-Edit copy.jpg|title:IMG_8678-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8690-Edit copy.jpg|title:IMG_8690-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8692-Edit copy.jpg|title:IMG_8692-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8707-Edit copy.jpg|title:IMG_8707-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8724-Edit copy.jpg|title:IMG_8724-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8725-Edit copy.jpg|title:IMG_8725-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8747-Edit copy.jpg|title:IMG_8747-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8767-Edit copy.jpg|title:IMG_8767-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8781-Edit copy.jpg|title:IMG_8781-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8783-Edit copy.jpg|title:IMG_8783-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8786-Edit copy.jpg|title:IMG_8786-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8792-Edit copy.jpg|title:IMG_8792-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8802-Edit copy.jpg|title:IMG_8802-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8827-Edit copy.jpg|title:IMG_8827-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8836-Edit copy.jpg|title:IMG_8836-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8838-Edit copy.jpg|title:IMG_8838-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8842-Edit copy.jpg|title:IMG_8842-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8849-Edit copy.jpg|title:IMG_8849-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8858-Edit copy.jpg|title:IMG_8858-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8859-Edit copy.jpg|title:IMG_8859-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8860-Edit copy.jpg|title:IMG_8860-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8868-Edit copy.jpg|title:IMG_8868-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8873-Edit copy.jpg|title:IMG_8873-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8880-Edit copy.jpg|title:IMG_8880-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8894-Edit copy.jpg|title:IMG_8894-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8905-Edit copy.jpg|title:IMG_8905-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8908-Edit-2 copy.jpg|title:IMG_8908-Edit-2 copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8918-Edit-Edit copy.jpg|title:IMG_8918-Edit-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8934-Edit copy.jpg|title:IMG_8934-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8940-Edit copy.jpg|title:IMG_8940-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8942-Edit copy.jpg|title:IMG_8942-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8944-Edit copy.jpg|title:IMG_8944-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8948-Edit copy.jpg|title:IMG_8948-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8949-Edit copy.jpg|title:IMG_8949-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8965-Edit copy.jpg|title:IMG_8965-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8979-Edit copy.jpg|title:IMG_8979-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_8983-Edit copy.jpg|title:IMG_8983-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9001-Edit copy.jpg|title:IMG_9001-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9025-Edit copy.jpg|title:IMG_9025-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9033-Edit copy.jpg|title:IMG_9033-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9039-Edit copy.jpg|title:IMG_9039-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9057-Edit copy.jpg|title:IMG_9057-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9066-Edit copy.jpg|title:IMG_9066-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9082-Edit copy.jpg|title:IMG_9082-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9085-Edit copy.jpg|title:IMG_9085-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9088-Edit copy.jpg|title:IMG_9088-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9101-Edit copy.jpg|title:IMG_9101-Edit copy.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2009/Tuomas Siitonen/IMG_9112-Edit copy.jpg|title:IMG_9112-Edit copy.jpg
 

@@ -208,22 +208,22 @@ author:Dragon Magic|position:8|pouet:25762|sceneorg:/parties/2006/assembly06/in4
 :youtube-playlist DF5EF8DC1DEBAF74
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes in mind.</p>
 
-author:Tekotuotanto|media:/vod/2006/compos/145_wild_food_h264_1856kbps.mp4|position:1|pouet:27937|sceneorg:/parties/2006/assembly06/short_film/wild_food_xvid_1856kbps.avi|title:Wild Food|webfile:short_film/wild_food_by_tekotuotanto.avi|youtube:zfE-OddHiNQ
-author:maxon|media:/vod/2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|position:2|pouet:25871|sceneorg:/parties/2006/assembly06/short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|title:What's up with adults|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|youtube:lWQl5StpmSw
-author:Plaumau pluki pluki|media:/vod/2006/compos/134_lelulaatikon_demohetki_h264_1856kbps.mp4|position:3|sceneorg:/parties/2006/assembly06/short_film/lelulaatikon_demohetki_xvid_1856kbps.avi|title:Lelulaatikon demohetki|webfile:short_film/lelulaatikon_demohetki_by_plaumau_pluki_pluki.avi|youtube:soiy3NjUvxk
-author:TimeScratchers|media:/vod/2006/compos/153_unknown_media_h264_1856kbps.mp4|position:4|pouet:25818|sceneorg:/parties/2006/assembly06/short_film/unknown_media_xvid_1856kbps.avi|title:Unknown Media|webfile:short_film/unknown_media_by_timescratchers.avi|youtube:uS3Zmvb535A
-author:CyBrod|media:/vod/2006/compos/139_x_rules_h264_1856kbps.mp4|position:5|sceneorg:/parties/2006/assembly06/short_film/x_rules_xvid_1856kbps.avi|title:X Rules|webfile:short_film/x_rules_by_cybrod.avi|youtube:qx9CIPQ6Gko
-author:Hazel / Future Vision|media:/vod/2006/compos/194_first_contact_h264_1856kbps.mp4|position:6|pouet:25773|sceneorg:/parties/2006/assembly06/short_film/first_contact_xvid_1856kbps.avi|title:First Contact|webfile:short_film/first_contact_by_hazel_future_vision.avi|youtube:unWcvowm8mc
-author:tAAt|media:/vod/2006/compos/198_tekopohjavesi_artificial_bilge_h264_1856kbps.mp4|position:7|sceneorg:/parties/2006/assembly06/short_film/tekopohjavesi_artificial_bilge_xvid_1856kbps.avi|title:Tekopohjavesi - Artificial Bilge|webfile:short_film/tekopohjavesi_artificial_bilge_by_taat.avi|youtube:oB5bR7pu8sA
-author:Innovators|media:/vod/2006/compos/152_korch_fu_h264_1856kbps.mp4|position:8|pouet:25770|sceneorg:/parties/2006/assembly06/short_film/korch_fu_xvid_1856kbps.avi|title:Korch Fu|webfile:short_film/korch_fu_by_innovators.avi|youtube:R7J7Er5R1OM
-author:HOViNET team|media:/vod/2006/compos/148_confront_h264_1856kbps.mp4|position:9|sceneorg:/parties/2006/assembly06/short_film/confront_xvid_1856kbps.avi|title:Confront|webfile:short_film/confront_by_hovinet_team.avi|youtube:Y2tDO-CPIj0
-author:Senseless Bricklayer Animations|media:/vod/2006/compos/216_sankari_h264_1856kbps.mp4|position:10|sceneorg:/parties/2006/assembly06/short_film/sankari_xvid_1856kbps.avi|title:Sankari|webfile:short_film/sankari_by_senseless_bricklayer_animations.avi|youtube:uaTIvnj7dEY
-author:Nosfe|media:/vod/2006/compos/149_agonytorment_h264_1856kbps.mp4|pouet:25767|sceneorg:/parties/2006/assembly06/short_film/nosfe-agonytorment.mp4|title:AgonyTorment|webfile:short_film/agonytorment_by_nosfe.mp4|youtube:UNPcGxx2fCA
-author:Jumalauta|media:/vod/2006/compos/150_drugs_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/drugs_xvid_1856kbps.avi|title:drugs|webfile:short_film/drugs_by_jumalauta.avi|youtube:T5QQJfrzybg
+author:Tekotuotanto|guid:145|media:/vod/2006/compos/145_wild_food_h264_1856kbps.mp4|position:1|pouet:27937|sceneorg:/parties/2006/assembly06/short_film/wild_food_xvid_1856kbps.avi|title:Wild Food|webfile:short_film/wild_food_by_tekotuotanto.avi|youtube:zfE-OddHiNQ
+author:maxon|guid:146|media:/vod/2006/compos/146_whats_up_with_adults_h264_1856kbps.mp4|position:2|pouet:25871|sceneorg:/parties/2006/assembly06/short_film/manu_jarvinen_whats_up_with_adults_720p.wmv|title:What's up with adults|webfile:short_film/what_s_up_with_adults_by_maxon.wmv|youtube:lWQl5StpmSw
+author:Plaumau pluki pluki|guid:134|media:/vod/2006/compos/134_lelulaatikon_demohetki_h264_1856kbps.mp4|position:3|sceneorg:/parties/2006/assembly06/short_film/lelulaatikon_demohetki_xvid_1856kbps.avi|title:Lelulaatikon demohetki|webfile:short_film/lelulaatikon_demohetki_by_plaumau_pluki_pluki.avi|youtube:soiy3NjUvxk
+author:TimeScratchers|guid:153|media:/vod/2006/compos/153_unknown_media_h264_1856kbps.mp4|position:4|pouet:25818|sceneorg:/parties/2006/assembly06/short_film/unknown_media_xvid_1856kbps.avi|title:Unknown Media|webfile:short_film/unknown_media_by_timescratchers.avi|youtube:uS3Zmvb535A
+author:CyBrod|guid:139|media:/vod/2006/compos/139_x_rules_h264_1856kbps.mp4|position:5|sceneorg:/parties/2006/assembly06/short_film/x_rules_xvid_1856kbps.avi|title:X Rules|webfile:short_film/x_rules_by_cybrod.avi|youtube:qx9CIPQ6Gko
+author:Hazel / Future Vision|guid:194|media:/vod/2006/compos/194_first_contact_h264_1856kbps.mp4|position:6|pouet:25773|sceneorg:/parties/2006/assembly06/short_film/first_contact_xvid_1856kbps.avi|title:First Contact|webfile:short_film/first_contact_by_hazel_future_vision.avi|youtube:unWcvowm8mc
+author:tAAt|guid:198|media:/vod/2006/compos/198_tekopohjavesi_artificial_bilge_h264_1856kbps.mp4|position:7|sceneorg:/parties/2006/assembly06/short_film/tekopohjavesi_artificial_bilge_xvid_1856kbps.avi|title:Tekopohjavesi - Artificial Bilge|webfile:short_film/tekopohjavesi_artificial_bilge_by_taat.avi|youtube:oB5bR7pu8sA
+author:Innovators|guid:152|media:/vod/2006/compos/152_korch_fu_h264_1856kbps.mp4|position:8|pouet:25770|sceneorg:/parties/2006/assembly06/short_film/korch_fu_xvid_1856kbps.avi|title:Korch Fu|webfile:short_film/korch_fu_by_innovators.avi|youtube:R7J7Er5R1OM
+author:HOViNET team|guid:148|media:/vod/2006/compos/148_confront_h264_1856kbps.mp4|position:9|sceneorg:/parties/2006/assembly06/short_film/confront_xvid_1856kbps.avi|title:Confront|webfile:short_film/confront_by_hovinet_team.avi|youtube:Y2tDO-CPIj0
+author:Senseless Bricklayer Animations|guid:216|media:/vod/2006/compos/216_sankari_h264_1856kbps.mp4|position:10|sceneorg:/parties/2006/assembly06/short_film/sankari_xvid_1856kbps.avi|title:Sankari|webfile:short_film/sankari_by_senseless_bricklayer_animations.avi|youtube:uaTIvnj7dEY
+author:Nosfe|guid:149|media:/vod/2006/compos/149_agonytorment_h264_1856kbps.mp4|pouet:25767|sceneorg:/parties/2006/assembly06/short_film/nosfe-agonytorment.mp4|title:AgonyTorment|webfile:short_film/agonytorment_by_nosfe.mp4|youtube:UNPcGxx2fCA
+author:Jumalauta|guid:150|media:/vod/2006/compos/150_drugs_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/drugs_xvid_1856kbps.avi|title:drugs|webfile:short_film/drugs_by_jumalauta.avi|youtube:T5QQJfrzybg
 author:Valot Pois|title:Abyss ja Pehu
 author:Kamikaze films|title:bugi.cs
-author:Sähköliike|media:/vod/2006/compos/136_serious_sauna_trip_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/serious_sauna_trip_xvid_1856kbps.avi|title:Serious Sauna Trip|webfile:short_film/serious_sauna_trip_by_s_hk_liike.avi|youtube:WdLWLWRp34s
-author:Jadajada|media:/vod/2006/compos/147_keybored_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/keybored_xvid_1856kbps.avi|title:Keybored|webfile:short_film/keybored_by_jadajada.avi|youtube:G-FpZ2m5ZGY
+author:Sähköliike|guid:136|media:/vod/2006/compos/136_serious_sauna_trip_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/serious_sauna_trip_xvid_1856kbps.avi|title:Serious Sauna Trip|webfile:short_film/serious_sauna_trip_by_s_hk_liike.avi|youtube:WdLWLWRp34s
+author:Jadajada|guid:147|media:/vod/2006/compos/147_keybored_h264_1856kbps.mp4|sceneorg:/parties/2006/assembly06/short_film/keybored_xvid_1856kbps.avi|title:Keybored|webfile:short_film/keybored_by_jadajada.avi|youtube:G-FpZ2m5ZGY
 
 
 :section Demo
@@ -395,84 +395,9 @@ author:Joakim Stenberg|title:AMD
 :ranked false
 :galleriafi /kuvat/Assembly 2006/
 
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/tatu.JPG|title:tatu.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/001.JPG|title:001.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/001_filtered.jpg|title:001_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/002_filtered.jpg|title:002_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/003.JPG|title:003.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/003.jpg|title:003.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/004.JPG|title:004.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/004.jpg|title:004.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/005.JPG|title:005.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/005.jpg|title:005.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/006.jpg|title:006.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/007.JPG|title:007.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/007.jpg|title:007.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/008.JPG|title:008.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/008.jpg|title:008.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/009.JPG|title:009.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/009.jpg|title:009.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/010.JPG|title:010.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/010.jpg|title:010.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/011.JPG|title:011.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/011.jpg|title:011.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012.JPG|title:012.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012.jpg|title:012.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012_filtered.jpg|title:012_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/013.jpg|title:013.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014.JPG|title:014.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014.jpg|title:014.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014_filtered.jpg|title:014_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/015.jpg|title:015.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/015_filtered.jpg|title:015_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/016_filtered.jpg|title:016_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/017.JPG|title:017.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/017.jpg|title:017.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/018.JPG|title:018.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/018.jpg|title:018.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/019.jpg|title:019.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/020.JPG|title:020.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/020.jpg|title:020.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/021.JPG|title:021.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/021.jpg|title:021.jpg-2
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/022.JPG|title:022.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/022_filtered.jpg|title:022_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023.JPG|title:023.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023.jpg|title:023.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023_filtered.jpg|title:023_filtered.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/024.JPG|title:024.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/024.jpg|title:024.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/025.JPG|title:025.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/025.jpg|title:025.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/026.JPG|title:026.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/026.jpg|title:026.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/027.JPG|title:027.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/027.jpg|title:027.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/028.JPG|title:028.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/028.jpg|title:028.jpg-2
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/029.jpg|title:029.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/030.jpg|title:030.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/031.jpg|title:031.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/032.jpg|title:032.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/033.jpg|title:033.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/034.jpg|title:034.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/035.jpg|title:035.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/036.jpg|title:036.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/037.jpg|title:037.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/038.jpg|title:038.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/039.jpg|title:039.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/040.jpg|title:040.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/041.jpg|title:041.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/042.jpg|title:042.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/043.jpg|title:043.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/044.jpg|title:044.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/045.jpg|title:045.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/046.jpg|title:046.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/047.jpg|title:047.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/049.jpg|title:049.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/050.jpg|title:050.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/051.jpg|title:051.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/052.jpg|title:052.jpg
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/056.jpg|title:056.jpg
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 001.JPG|title:Kuva1 001.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 014.JPG|title:Kuva1 014.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 032.JPG|title:Kuva1 032.JPG
@@ -505,5 +430,80 @@ author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 190.JPG|title:Kuva1 190.J
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 194.JPG|title:Kuva1 194.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 197.JPG|title:Kuva1 197.JPG
 author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/Kuva1 225.JPG|title:Kuva1 225.JPG
-author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/tatu.JPG|title:tatu.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023_filtered.jpg|title:023_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/001_filtered.jpg|title:001_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/002_filtered.jpg|title:002_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/006.jpg|title:006.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012_filtered.jpg|title:012_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014_filtered.jpg|title:014_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/015_filtered.jpg|title:015_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/016_filtered.jpg|title:016_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/019.jpg|title:019.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/022_filtered.jpg|title:022_filtered.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/056.jpg|title:056.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/013.jpg|title:013.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/015.jpg|title:015.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/029.jpg|title:029.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/030.jpg|title:030.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/031.jpg|title:031.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/032.jpg|title:032.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/033.jpg|title:033.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/034.jpg|title:034.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/035.jpg|title:035.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/036.jpg|title:036.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/037.jpg|title:037.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/038.jpg|title:038.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/039.jpg|title:039.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/040.jpg|title:040.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/041.jpg|title:041.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/042.jpg|title:042.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/043.jpg|title:043.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/044.jpg|title:044.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/045.jpg|title:045.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/046.jpg|title:046.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/047.jpg|title:047.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/049.jpg|title:049.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/050.jpg|title:050.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/051.jpg|title:051.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/052.jpg|title:052.jpg
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/010.JPG|title:010.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/009.JPG|title:009.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/008.jpg|title:008.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/028.jpg|title:028.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/027.jpg|title:027.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/026.jpg|title:026.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/025.JPG|title:025.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/011.JPG|title:011.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012.JPG|title:012.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014.jpg|title:014.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/017.jpg|title:017.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/018.JPG|title:018.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/020.JPG|title:020.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/021.JPG|title:021.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023.jpg|title:023.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/004.jpg|title:004.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/003.jpg|title:003.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/024.JPG|title:024.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/005.jpg|title:005.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/007.jpg|title:007.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/009.jpg|title:009.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/014.JPG|title:014.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/026.JPG|title:026.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/028.JPG|title:028.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/024.jpg|title:024.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/011.jpg|title:011.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/005.JPG|title:005.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/018.jpg|title:018.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/027.JPG|title:027.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/003.JPG|title:003.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/010.jpg|title:010.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/004.JPG|title:004.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/025.jpg|title:025.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/007.JPG|title:007.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/021.jpg|title:021.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/023.JPG|title:023.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/020.jpg|title:020.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/012.jpg|title:012.jpg-2
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/008.JPG|title:008.JPG
+author:PhotoCrew|galleriafi:/kuvat/Assembly 2006/017.JPG|title:017.JPG
 

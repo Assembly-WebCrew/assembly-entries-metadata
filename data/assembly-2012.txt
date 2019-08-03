@@ -39,8 +39,8 @@ author:Resonance|platform:browser|pms-id:asm12/real_wild/649|position:6|pouet:59
 :section 4k intro
 :youtube-playlist B3A9905169E12774
 :pms-category 4k_intro
-:sceneorg in4k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2013 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:sceneorg in4k
 
 author:Blobtrox|platform:Windows|pms-id:asm12/4k_intro/417|position:1|pouet:59614|techniques:GLSL|title:Fireflies|video-file:4k-intro/1476_4k_Fireflies_by_Blobtrox.mov|youtube:PDPq9lJSAHY
 author:lucid|platform:Microsoft Windows PC|pms-id:asm12/4k_intro/470|position:6|pouet:59651|techniques:OpenGL2, C++|title:Battery Low|video-file:4k-intro/1477_4k_Battery_Low_by_lucid.mov|youtube:rqPckmxM6Eg
@@ -57,8 +57,8 @@ author:Saint Porn|platform:LIIINUUUX|pms-id:asm12/4k_intro/653|position:10|pouet
 :section 1k intro
 :youtube-playlist 1A3D3268F6672D47
 :pms-category 1k_intro
-:sceneorg in1k
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2013 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:sceneorg in1k
 
 author:TDA|platform:MacOS X|pms-id:asm12/1k_intro/407|position:1|pouet:59610|techniques:asm, GLSL|title:Embers|video-file:1k-intro/1447_1k_Embers_by_TDA.mov|youtube:dgDlqC19kss
 author:Itchi / Lonely Coders|platform:Windows|pms-id:asm12/1k_intro/412|position:8|pouet:59636|techniques:Java application|title:o|video-file:1k-intro/1448_1k_o_by_Itchi__Lonely_Coders.mov|youtube:6X84xzZ7TMo
@@ -363,12 +363,17 @@ author:FIGMA ry|description:FIGMA ry julkisti kolme vuotta sitten suomalaisen pe
 :ranked false
 :galleriafi /kuvat/Assembly Winter 2012/
 
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0361.jpg|title:IMG_0361.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0322.jpg|title:IMG_0322.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0332.jpg|title:IMG_0332.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0333.jpg|title:IMG_0333.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0342.jpg|title:IMG_0342.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0351.jpg|title:IMG_0351.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0361.jpg|title:IMG_0361.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0413.jpg|title:IMG_0413.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0417.jpg|title:IMG_0417.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0423.jpg|title:IMG_0423.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0426.jpg|title:IMG_0426.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0436.jpg|title:IMG_0436.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0368.jpg|title:IMG_0368.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0372.jpg|title:IMG_0372.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0377.jpg|title:IMG_0377.jpg
@@ -377,20 +382,19 @@ author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0389.jpg|title:IMG_0389.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0400.jpg|title:IMG_0400.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0402.jpg|title:IMG_0402.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0413.jpg|title:IMG_0413.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0417.jpg|title:IMG_0417.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0423.jpg|title:IMG_0423.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0426.jpg|title:IMG_0426.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0436.jpg|title:IMG_0436.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0496.jpg|title:IMG_0496.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0442.jpg|title:IMG_0442.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0445.jpg|title:IMG_0445.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0455.jpg|title:IMG_0455.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0460.jpg|title:IMG_0460.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0493.jpg|title:IMG_0493.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0496.jpg|title:IMG_0496.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0529.jpg|title:IMG_0529.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0532.jpg|title:IMG_0532.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0542.jpg|title:IMG_0542.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0532.jpg|title:IMG_0532.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0568.jpg|title:IMG_0568.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0570.jpg|title:IMG_0570.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0584.jpg|title:IMG_0584.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0587.jpg|title:IMG_0587.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0547.jpg|title:IMG_0547.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0552.jpg|title:IMG_0552.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0554.jpg|title:IMG_0554.jpg
@@ -398,10 +402,6 @@ author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0558.jpg|title:IMG_0558.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0560.jpg|title:IMG_0560.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0567.jpg|title:IMG_0567.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0568.jpg|title:IMG_0568.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0570.jpg|title:IMG_0570.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0584.jpg|title:IMG_0584.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0587.jpg|title:IMG_0587.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0594.jpg|title:IMG_0594.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0614.jpg|title:IMG_0614.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0619.jpg|title:IMG_0619.jpg
@@ -418,7 +418,6 @@ author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0710.jpg|title:IMG_0710.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0736.jpg|title:IMG_0736.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0759.jpg|title:IMG_0759.jpg
-author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0760.jpg|title:IMG_0760.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0773.jpg|title:IMG_0773.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0784.jpg|title:IMG_0784.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0785.jpg|title:IMG_0785.jpg
@@ -445,38 +444,39 @@ author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0985.jpg|title:IMG_0985.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0988.jpg|title:IMG_0988.jpg
 author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0996.jpg|title:IMG_0996.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2888.jpg|title:_MG_2888.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2890.jpg|title:_MG_2890.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2893.jpg|title:_MG_2893.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2902.jpg|title:_MG_2902.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2904.jpg|title:_MG_2904.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2905.jpg|title:_MG_2905.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2913.jpg|title:_MG_2913.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2916.jpg|title:_MG_2916.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2921.jpg|title:_MG_2921.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2924.jpg|title:_MG_2924.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2935.jpg|title:_MG_2935.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2940.jpg|title:_MG_2940.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2946.jpg|title:_MG_2946.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2951.jpg|title:_MG_2951.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Winter 2012/Santtu Pajukanta/IMG_0760.jpg|title:IMG_0760.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2988.jpg|title:_MG_2988.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2985.jpg|title:_MG_2985.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2984.jpg|title:_MG_2984.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2958.jpg|title:_MG_2958.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2961.jpg|title:_MG_2961.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2980.jpg|title:_MG_2980.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2984.jpg|title:_MG_2984.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2985.jpg|title:_MG_2985.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2988.jpg|title:_MG_2988.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2951.jpg|title:_MG_2951.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2940.jpg|title:_MG_2940.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2924.jpg|title:_MG_2924.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2946.jpg|title:_MG_2946.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2935.jpg|title:_MG_2935.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2921.jpg|title:_MG_2921.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2916.jpg|title:_MG_2916.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2913.jpg|title:_MG_2913.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2905.jpg|title:_MG_2905.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2904.jpg|title:_MG_2904.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2893.jpg|title:_MG_2893.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2902.jpg|title:_MG_2902.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2890.jpg|title:_MG_2890.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2888.jpg|title:_MG_2888.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2989.jpg|title:_MG_2989.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2993.jpg|title:_MG_2993.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_2998.jpg|title:_MG_2998.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3000.jpg|title:_MG_3000.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3013.jpg|title:_MG_3013.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3021.jpg|title:_MG_3021.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3031.jpg|title:_MG_3031.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3021.jpg|title:_MG_3021.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3034.jpg|title:_MG_3034.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3038.jpg|title:_MG_3038.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3053.jpg|title:_MG_3053.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3045.jpg|title:_MG_3045.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3046.jpg|title:_MG_3046.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3053.jpg|title:_MG_3053.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3068.jpg|title:_MG_3068.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3085.jpg|title:_MG_3085.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3093.jpg|title:_MG_3093.jpg
@@ -492,10 +492,10 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3177.jpg|title:_MG_3177.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3191.jpg|title:_MG_3191.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3192.jpg|title:_MG_3192.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3214.jpg|title:_MG_3214.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3198.jpg|title:_MG_3198.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3199.jpg|title:_MG_3199.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3200.jpg|title:_MG_3200.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3214.jpg|title:_MG_3214.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3220.jpg|title:_MG_3220.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3223.jpg|title:_MG_3223.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3225.jpg|title:_MG_3225.jpg
@@ -516,6 +516,9 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3335.jpg|title:_MG_3335.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3336.jpg|title:_MG_3336.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3353.jpg|title:_MG_3353.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3412.jpg|title:_MG_3412.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3414.jpg|title:_MG_3414.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3417.jpg|title:_MG_3417.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3371.jpg|title:_MG_3371.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3377.jpg|title:_MG_3377.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3380.jpg|title:_MG_3380.jpg
@@ -526,9 +529,6 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3397.jpg|title:_MG_3397.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3405.jpg|title:_MG_3405.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3407.jpg|title:_MG_3407.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3412.jpg|title:_MG_3412.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3414.jpg|title:_MG_3414.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3417.jpg|title:_MG_3417.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3428.jpg|title:_MG_3428.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3435.jpg|title:_MG_3435.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3437.jpg|title:_MG_3437.jpg
@@ -541,10 +541,17 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3469.jpg|title:_MG_3469.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3474.jpg|title:_MG_3474.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3478.jpg|title:_MG_3478.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3495.jpg|title:_MG_3495.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3498.jpg|title:_MG_3498.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3550.jpg|title:_MG_3550.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3561.jpg|title:_MG_3561.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3495.jpg|title:_MG_3495.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3853.jpg|title:_MG_3853.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3858.jpg|title:_MG_3858.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3863.jpg|title:_MG_3863.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3867.jpg|title:_MG_3867.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3871.jpg|title:_MG_3871.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3885.jpg|title:_MG_3885.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3887.jpg|title:_MG_3887.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3565.jpg|title:_MG_3565.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3570.jpg|title:_MG_3570.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3579.jpg|title:_MG_3579.jpg
@@ -572,13 +579,7 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3835.jpg|title:_MG_3835.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3837.jpg|title:_MG_3837.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3840.jpg|title:_MG_3840.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3853.jpg|title:_MG_3853.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3858.jpg|title:_MG_3858.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3863.jpg|title:_MG_3863.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3867.jpg|title:_MG_3867.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3871.jpg|title:_MG_3871.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3885.jpg|title:_MG_3885.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3887.jpg|title:_MG_3887.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_4016.jpg|title:_MG_4016.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3914.jpg|title:_MG_3914.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3916.jpg|title:_MG_3916.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3919.jpg|title:_MG_3919.jpg
@@ -598,8 +599,10 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3988.jpg|title:_MG_3988.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_3999.jpg|title:_MG_3999.jpg
 author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_4005.jpg|title:_MG_4005.jpg
-author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_MG_4016.jpg|title:_MG_4016.jpg
+
 
 :section Photos summer
 :ranked false
 :galleriafi /Assembly Summer 2012/
+
+
