@@ -64,8 +64,36 @@ author:Void|pms-id:asm19/oldskool/1132|title:Catro|youtube:HuiwK1R7Hak
 :pms-category one_scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 :ongoing true
-:public false
 
+author:supa & noby|pms-id:asm19/one_scene/1072|title:NSYNC|youtube:3ciW4HLmYCc#t=30m46s
+author:epoch|pms-id:asm19/one_scene/1081|title:efx|youtube:3ciW4HLmYCc#t=28m21s
+author:Fiture Crew Lamer Section|pms-id:asm19/one_scene/1172|title:Sukset|youtube:3ciW4HLmYCc#t=17m4s
+author:Depili|pms-id:asm19/one_scene/1188|title:Your great entry|youtube:3ciW4HLmYCc#t=11m26s
+author:nh3|pms-id:asm19/one_scene/1194|title:pain|youtube:3ciW4HLmYCc#t=3m58s
+author:Akinna|pms-id:asm19/one_scene/1197|title:Hypnosis|youtube:3ciW4HLmYCc#t=12m1s
+author:vaDOD|pms-id:asm19/one_scene/1199|title:Murrr|youtube:3ciW4HLmYCc#t=22m22s
+author:GroovyOtter|pms-id:asm19/one_scene/1201|title:Space Signals|youtube:3ciW4HLmYCc#t=29m44s
+author:Kaisa|pms-id:asm19/one_scene/1207|title:Abc|youtube:3ciW4HLmYCc#t=12m4s
+author:mmmirushka|pms-id:asm19/one_scene/1209|title:MAYHEM|youtube:3ciW4HLmYCc#t=19m14s
+author:Noirek|pms-id:asm19/one_scene/1210|title:Facepalm|youtube:3ciW4HLmYCc#t=21m39s
+author:Adellan|pms-id:asm19/one_scene/1218|title:Morning coffee|youtube:3ciW4HLmYCc#t=16m16s
+author:FCCCF|pms-id:asm19/one_scene/1219|title:Space Cat|youtube:3ciW4HLmYCc#t=23m36s
+author:TucE|pms-id:asm19/one_scene/1226|title:Tšernobylin kuutio|youtube:3ciW4HLmYCc#t=24m52s
+author:nisual|pms-id:asm19/one_scene/1227|title:ensimmaeinen|youtube:3ciW4HLmYCc#t=9m34s
+author:BJAKKE|pms-id:asm19/one_scene/1229|title:Nosto-kurki|youtube:3ciW4HLmYCc#t=4m56s
+author:JjyKs|pms-id:asm19/one_scene/1230|title:Elements and balls|youtube:3ciW4HLmYCc#t=13m31s
+author:BrushDev Advertising|pms-id:asm19/one_scene/1231|title:Shameless Advertising|youtube:3ciW4HLmYCc#t=1m15s
+author:Alcatraz|pms-id:asm19/one_scene/1232|title:60 Seconds To Go|youtube:3ciW4HLmYCc#t=25m40s
+author:tAAt|pms-id:asm19/one_scene/1233|title:Donkey Island|youtube:3ciW4HLmYCc#t=14m53s
+author:Shiera|pms-id:asm19/one_scene/1234|title:AlienNight|youtube:3ciW4HLmYCc#t=5m50s
+author:Irah|pms-id:asm19/one_scene/1235|title:Mellow Mountain Spirits|youtube:3ciW4HLmYCc#t=20m
+author:branch^IvoryLabs|pms-id:asm19/one_scene/1236|title:The Known Unknown|youtube:3ciW4HLmYCc#t=27m2s
+author:narven|pms-id:asm19/one_scene/1237|title:WtjXRz|youtube:3ciW4HLmYCc#t=3m2s
+author:papumaja|pms-id:asm19/one_scene/1239|title:Almost Everything, but not Quite Anything|youtube:3ciW4HLmYCc#t=6m51s
+author:moziz|pms-id:asm19/one_scene/1241|title:Iloinen|youtube:3ciW4HLmYCc#t=5s
+author:BJAKKE|pms-id:asm19/one_scene/1243|title:256 bytes of flashing stuff|youtube:3ciW4HLmYCc#t=2m11s
+author:Bad Felix|pms-id:asm19/one_scene/1244|title:Future Architecture|youtube:3ciW4HLmYCc#t=10m31s
+author:Siils|pms-id:asm19/one_scene/1245|title:Very, Very Frightening|youtube:3ciW4HLmYCc#t=8m2s
 
 
 :section Short film
@@ -291,6 +319,31 @@ author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photosh
 :pms-category tuplain
 :manage-youtube-descriptions false
 
+author:Hooded Capitalist Swine|pms-id:asm19/tuplain/972|title:Finest Bay
+author:Randy/OSi|pms-id:asm19/tuplain/980|title:Ui Juma
+author:Hervannan Demoscene-Akatemia|pms-id:asm19/tuplain/981|title:Tieto-tukihenkilö
+author:eimink/Vanha Mediakunta|pms-id:asm19/tuplain/1021|title:Mäkikotka Force
+author:Jupp3|pms-id:asm19/tuplain/1035|title:T-minus kuohari
+author:mayday/hedelmae|pms-id:asm19/tuplain/1079|title:Space Debris
+author:Q|pms-id:asm19/tuplain/1106|title:Huugi Guugi
+author:mayday/hedelmae|pms-id:asm19/tuplain/1118|title:Ziphead (State of the Art Video Remix)
+author:Hervannan Demoscene-Akatemia Dropouts|pms-id:asm19/tuplain/1140|title:Tell me lies tell me sweet little lies
+author:Dysposin|pms-id:asm19/tuplain/1168|title:People dancing to music
+author:b|pms-id:asm19/tuplain/1175|title:Ultra Vatiolence!!!
+author:sooda|pms-id:asm19/tuplain/1177|title:dub dub in the space sub
+author:Jumalauta|pms-id:asm19/tuplain/1179|title:Would you believe, if we'd say that the ship has sailed?
+author:Exca / Wide Load|pms-id:asm19/tuplain/1183|title:Lumberjack MC's
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1185|title:Compo intro
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1186|title:Jäätismiehen humppa
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1189|title:Hedelmae x Orange <3
+author:iguchi / hedelmae|pms-id:asm19/tuplain/1190|title:The Walking Elephants
+author:vARTsan|pms-id:asm19/tuplain/1192|title:tribuTETotAAt
+author:iguchi / hedelmae|pms-id:asm19/tuplain/1196|title:Pulp Hermanni
+author:Terzi & Julberg|pms-id:asm19/tuplain/1202|title:Second Rallity
+author:sndels|pms-id:asm19/tuplain/1208|title:Xontrol
+author:sammuttaja & ohvi|pms-id:asm19/tuplain/1216|title:stargazer by rööperin palikat
+author:priceless|pms-id:asm19/tuplain/1217|title:timeless
+author:Tethys|pms-id:asm19/tuplain/1220|title:Golden Night Drive
 
 
 :section Seminars
@@ -303,12 +356,13 @@ author:Tobias Kopka|description:Demosceners of Finland and Germany (soon joined 
 author:Heikki-Pekka Noronen|description:Iron Danger is upcoming tactical RPG with innovative time manipulation mechanics. The talk is mostly Q&A focused session about sharing development experiences in developing game with some unique game mechanics in a startup environment.</p><p>Presenter: Heikki-Pekka Noronen (Action Squad Studio)|title:Iron Danger - game development Q&A|youtube:32ZOy0opAQs
 author:Jeppe Kilberg|description:Augmented Reality gives whole new design challenges. In this talk I would like to show and tell about our design experiences in ARblox, and argue that traditional game design methods and assumptions are lacking when developing for new technology.</p><p>Presenter: Jeppe Kilberg (ARBlox)</p>|title:The UX of Augmented Reality|youtube:d6O3dXyAqqM
 author:Jasmin Dahncke|description:A studios success starts with the mindset and culture of the people within it, it shapes our behaviour and influences our ways of working profoundly. But how can we measure and define, grow and nurture our respective studio culture and how is design a major part of it? We will talk about the fundamentals of design culture, why it is important and how you can help nurture it with these concrete tools and processes that will help remove friction in the day to day work as well as improve the products your are shipping.|title:Design Culture in the games industry: The what, the why, the how|youtube:qfcNcKuddEc
-title:Lessons Learned from a Year of UE4 AAA Development|youtube:SGPleVfrPyo|description:Join Ari as he recounts the pitfalls, tips and tricks learned during Housemarque's first year of using Unreal Engine 4 for AAA development.</p><p>Presenter: Ari Arnbjörnsson (Housemarque)|author:Ari Arnbjörnsson
-title:Taking Back Control: Designing Meta-AI for Remedy’s First Sandbox Game|youtube:I00JBWepFu0|description:AI and especially meta-AI is all about pacing and managing player experience, making sure that the player is always engaged and pushed to do things that will make the game more fun. With Control’s open-ended metroidvania structure, we couldn’t stick with what we knew. This talk describes what we learned along the way.</p><p>Presenter: Sergey Mohov (Remedy)|author:Sergey Mohov
-title:Oceanhorn 2 - A Triple I Adventure|youtube:bzbN7fkv040|description:The Oceanhorn 2 development journey so far. Process, company culture, challenges and a bit of the daily work on a Triple I game studio.</p><p>Presenter: Claudio Linz (Cornfox Borthers)|author:Claudio Linz
-title:Starbase - Exceeding impossible project goals|youtube:i3RM1uO99Q0|description:Starbase is a hybrid voxel/vertex-based space MMO with a fully destructible and infinitely expanding universe, with a focus on building and designing spaceships and stations, exploration, resource gathering, crafting, trading, and combat. It was announced in May 2019, and it is the most ambitious project Frozenbyte has ever worked on. Anna will share some of the goals that were set for the project in the very beginning, and how the team has managed to not only achieve, but to exceed them.</p><p>Presenter: Anna Narinen (Frozenbyte)|author:Anna Narinen
-title:Developing for retro consoles on game jams|youtube:GQZqf5PCH8A|description:Lessons learned from making games for old game consoles during game jams. Covers Playstation, Mega Drive, 8-bit Nintendo & original Game boy. After this talk you will be equipped to make games for older consoles.|author:Samuli Jääskeläinen
-title:Gamer Health|youtube:8IeI3c_gWtE|description:How to be healthier and more efficient gamer? An evidence-based approach to most common sticking points and health issues of professional esports players and amateur gamers: stamina, focus, physical health and mental strength.</p><p>Presenter: Timo Kettunen (BonoHealth)|author:Timo Kettunen
+author:Ari Arnbjörnsson|description:Join Ari as he recounts the pitfalls, tips and tricks learned during Housemarque's first year of using Unreal Engine 4 for AAA development.</p><p>Presenter: Ari Arnbjörnsson (Housemarque)|title:Lessons Learned from a Year of UE4 AAA Development|youtube:SGPleVfrPyo
+author:Sergey Mohov|description:AI and especially meta-AI is all about pacing and managing player experience, making sure that the player is always engaged and pushed to do things that will make the game more fun. With Control’s open-ended metroidvania structure, we couldn’t stick with what we knew. This talk describes what we learned along the way.</p><p>Presenter: Sergey Mohov (Remedy)|title:Taking Back Control: Designing Meta-AI for Remedy’s First Sandbox Game|youtube:I00JBWepFu0
+author:Claudio Linz|description:The Oceanhorn 2 development journey so far. Process, company culture, challenges and a bit of the daily work on a Triple I game studio.</p><p>Presenter: Claudio Linz (Cornfox Borthers)|title:Oceanhorn 2 - A Triple I Adventure|youtube:bzbN7fkv040
+author:Anna Narinen|description:Starbase is a hybrid voxel/vertex-based space MMO with a fully destructible and infinitely expanding universe, with a focus on building and designing spaceships and stations, exploration, resource gathering, crafting, trading, and combat. It was announced in May 2019, and it is the most ambitious project Frozenbyte has ever worked on. Anna will share some of the goals that were set for the project in the very beginning, and how the team has managed to not only achieve, but to exceed them.</p><p>Presenter: Anna Narinen (Frozenbyte)|title:Starbase - Exceeding impossible project goals|youtube:i3RM1uO99Q0
+author:Samuli Jääskeläinen|description:Lessons learned from making games for old game consoles during game jams. Covers Playstation, Mega Drive, 8-bit Nintendo & original Game boy. After this talk you will be equipped to make games for older consoles.|title:Developing for retro consoles on game jams|youtube:GQZqf5PCH8A
+author:Timo Kettunen|description:How to be healthier and more efficient gamer? An evidence-based approach to most common sticking points and health issues of professional esports players and amateur gamers: stamina, focus, physical health and mental strength.</p><p>Presenter: Timo Kettunen (BonoHealth)|title:Gamer Health|youtube:8IeI3c_gWtE
+
 
 :section AssemblyTV
 :ranked false
@@ -317,15 +371,23 @@ title:Gamer Health|youtube:8IeI3c_gWtE|description:How to be healthier and more 
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 :manage-youtube-descriptions false
 
-title:Fast + pix graphics compostudio|youtube:6ZZv0ZZxjCU|author:AssemblyTV
-title:GameDev compostudio|youtube:DNiY8fqE9Fw|author:AssemblyTV
-title:Spectrum demoshow by Visy|youtube:h65HnbViAf4|author:AssemblyTV
-title:Shader Showdown semifinals #2|youtube:JAh4HYtHh9M|author:AssemblyTV
-title:Shader Showdown semifinals #1|youtube:3q7abaqoc9I|author:AssemblyTV
-title:Assembly Demoshow 2019 by Truck|youtube:MpreNQS9pFI|author:AssemblyTV
-title:Introduction to Demo Making|youtube:9p48K42cqNs|author:AssemblyTV
-title:Opening ceremony|youtube:_RvhD2M4sfw|author:AssemblyTV
-title:Oldskool compointro 360 deg|youtube:Eum3aXWHkO0|author:AssemblyTV
+author:AssemblyTV|title:Fast + pix graphics compostudio|youtube:6ZZv0ZZxjCU
+author:AssemblyTV|title:GameDev compostudio|youtube:DNiY8fqE9Fw
+author:AssemblyTV|title:Spectrum demoshow by Visy|youtube:h65HnbViAf4
+author:AssemblyTV|title:Shader Showdown semifinals #2|youtube:JAh4HYtHh9M
+author:AssemblyTV|title:Shader Showdown semifinals #1|youtube:3q7abaqoc9I
+author:AssemblyTV|title:Assembly Demoshow 2019 by Truck|youtube:MpreNQS9pFI
+author:AssemblyTV|title:Introduction to Demo Making|youtube:9p48K42cqNs
+author:AssemblyTV|title:Opening ceremony|youtube:_RvhD2M4sfw
+author:AssemblyTV|title:Oldskool compointro 360 deg|youtube:Eum3aXWHkO0
+title:Dance music compostudio|youtube:V6mJBJ9G9qc|author:AssemblyTV
+title:Oldskool compostudio|youtube:-nqXVu_669c|author:AssemblyTV
+title:Lennu in memoriam|youtube:wFM_sTlFplM|author:AssemblyTV
+title:Real wild & Short Film compostudio|youtube:vgKeeNtIsk0|author:AssemblyTV
+title:Listening music compostudio|youtube:IxdQKcRvEFE|author:AssemblyTV
+title:Graphics compostudio|youtube:kbZ1dA09Ev0|author:AssemblyTV
+title:Fast & Tracked music compostudio|youtube:9-IQvfnK5w4|author:AssemblyTV
+
 
 :section eSports
 :ranked false
