@@ -106,9 +106,29 @@ categories.
 "Export compos" link.
 https://pms.paeae.fi/asm15/compos/admin/export/
 
-## Process for Elaine based data
+## Data handling after the event
 
-Elaine may not be working during the event.
+Merge all non-public, non-API information from PMS with
+[`pms-parse-dump-compo-places.py`](lib/pms-parse-dump-compo-places.py)
+script. This requires that results are set to be public.
+
+Update Youtube information. This will probably hit the credits quota
+in Youtube API so it needs to be spread on multiple days.
+
+* Update Youtube entry information with
+  [`update-youtube-data.sh`](update-youtube-data.sh).
+* Update Youtube playlists with
+  [`update-youtube-playlists.sh`](update-youtube-playlists.sh)
+
+Update scene.org links. Use
+[`match-directory-files-to-section.py`](lib/match-directory-files-to-section.py)
+script to help you with that.
+
+Create web viewable .mp3 files from music files. Filenames should be
+renamed to be more normalized.
+
+Show signed images in photo and graphics competitions instead of the
+anonymous images.
 
 # Library
 
