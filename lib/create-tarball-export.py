@@ -316,7 +316,8 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
         if asmmetadata.is_image(image_file):
             has_media = True
-            baseprefix, _ = image_file.split(".")
+            _, baseprefix_r = image_file[::-1].split(".", 1)
+            baseprefix = baseprefix_r[::-1]
             image_base = 'thumbnails/large/%s' % baseprefix
             archive_dir = "%s/%s" % (normalized_section, normalized_name)
             files, images_data = get_images(
@@ -337,9 +338,10 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if webfile:
         if asmmetadata.is_image(webfile):
             has_media = True
-            baseprefix, _ = webfile.split(".")
-            viewfile, postfix = select_smaller_thumbnail(os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
-
+            _, baseprefix_r = webfile[::-1].split(".", 1)
+            baseprefix = baseprefix_r[::-1]
+            viewfile, postfix = select_smaller_thumbnail(
+                os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
             viewfile_basename = "%s.%s" % (normalized_name, postfix)
             viewfile_filename = "%s/%s/%s" % (
                 normalized_section, normalized_name, viewfile_basename)
