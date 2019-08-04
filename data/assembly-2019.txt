@@ -178,16 +178,16 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä|y
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/tracked_music/928|title:Metalstorm|youtube:pj1d6h2ag98
-author:(author hidden until results)|pms-id:asm19/tracked_music/933|title:Left Behind|youtube:3dMkrycsDy8
-author:(author hidden until results)|pms-id:asm19/tracked_music/934|title:Matka osoiteavaruuteen|youtube:qDB_RTOEplw
-author:(author hidden until results)|pms-id:asm19/tracked_music/994|title:Bullet Time|youtube:DX6tOU536vY
-author:(author hidden until results)|pms-id:asm19/tracked_music/998|title:Parking Lot In Space|youtube:4WRJKTF_PYk
-author:(author hidden until results)|pms-id:asm19/tracked_music/1028|title:Escape from Desert Planet|youtube:9TODW7vvLAc
-author:(author hidden until results)|pms-id:asm19/tracked_music/1036|title:One Last Time|youtube:TsUQzmDTzGc
-author:(author hidden until results)|pms-id:asm19/tracked_music/1044|title:Dr. Fily's Funky Fireplanet Escape|youtube:7X6cTvj-8J0
-author:(author hidden until results)|pms-id:asm19/tracked_music/1117|title:Fluctuations|youtube:HkrPxEuUCi8
-author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyLKKA
+author:Paokala|pms-id:asm19/tracked_music/928|title:Metalstorm|youtube:pj1d6h2ag98
+author:Buzzer/Brainstorm|pms-id:asm19/tracked_music/933|title:Left Behind|youtube:3dMkrycsDy8
+author:la_mettrie|pms-id:asm19/tracked_music/934|title:Matka osoiteavaruuteen|youtube:qDB_RTOEplw
+author:Dascon & Bonefish|pms-id:asm19/tracked_music/994|title:Bullet Time|youtube:DX6tOU536vY
+author:Serpent/Brainstorm + Rapture|pms-id:asm19/tracked_music/998|title:Parking Lot In Space|youtube:4WRJKTF_PYk
+author:Chipremacy|pms-id:asm19/tracked_music/1028|title:Escape from Desert Planet|youtube:9TODW7vvLAc
+author:Deetail / Zenon|pms-id:asm19/tracked_music/1036|title:One Last Time|youtube:TsUQzmDTzGc
+author:rawArgon|pms-id:asm19/tracked_music/1044|title:Dr. Fily's Funky Fireplanet Escape|youtube:7X6cTvj-8J0
+author:Roz / Fit ^ Byterapers|pms-id:asm19/tracked_music/1117|title:Fluctuations|youtube:HkrPxEuUCi8
+author:Laurikka|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyLKKA
 
 
 :section Listening music
@@ -196,20 +196,20 @@ author:(author hidden until results)|pms-id:asm19/tracked_music/1136|title:Kilop
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
-author:(author hidden until results)|pms-id:asm19/listening_music/937|title:Whip and Iron|youtube:DXJvYTXyGFo
-author:(author hidden until results)|pms-id:asm19/listening_music/947|title:Vector Fields|youtube:RZnwnTcHaew
-author:(author hidden until results)|pms-id:asm19/listening_music/968|title:Affliction|youtube:RSOlFzfx1XY
-author:(author hidden until results)|pms-id:asm19/listening_music/986|title:Late Night Highway|youtube:RpYZfVvVDFw
-author:(author hidden until results)|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)|youtube:cO_fFmA6akM
-author:(author hidden until results)|pms-id:asm19/listening_music/1009|title:Dogfighter|youtube:z1JZVeiR96k
-author:(author hidden until results)|pms-id:asm19/listening_music/1024|title:Chipstorm|youtube:n9eriW6-TvE
-author:(author hidden until results)|pms-id:asm19/listening_music/1038|title:Fire Rain|youtube:5WcPAkzos7A
-author:(author hidden until results)|pms-id:asm19/listening_music/1060|title:Irjala takaisin|youtube:Z435NMOdYUA
-author:(author hidden until results)|pms-id:asm19/listening_music/1065|title:Gunpowder|youtube:gcwkwbAa1co
-author:(author hidden until results)|pms-id:asm19/listening_music/1083|title:Funkmonstrotron|youtube:bKcLjSOFtbg
-author:(author hidden until results)|pms-id:asm19/listening_music/1088|title:Dark Middleage|youtube:yoAFOIKxvwo
-author:(author hidden until results)|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|youtube:LPvVvD4hSu8
+author:Buzzer/Brainstorm|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
+author:Aikapallo|pms-id:asm19/listening_music/937|title:Whip and Iron|youtube:DXJvYTXyGFo
+author:E621|pms-id:asm19/listening_music/947|title:Vector Fields|youtube:RZnwnTcHaew
+author:Ephmerix|pms-id:asm19/listening_music/968|title:Affliction|youtube:RSOlFzfx1XY
+author:HBR|pms-id:asm19/listening_music/986|title:Late Night Highway|youtube:RpYZfVvVDFw
+author:Bamsekarhu|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)|youtube:cO_fFmA6akM
+author:Signal|pms-id:asm19/listening_music/1009|title:Dogfighter|youtube:z1JZVeiR96k
+author:Chipremacy|pms-id:asm19/listening_music/1024|title:Chipstorm|youtube:n9eriW6-TvE
+author:Lohis / Tekotuotanto|pms-id:asm19/listening_music/1038|title:Fire Rain|youtube:5WcPAkzos7A
+author:Laurikka|pms-id:asm19/listening_music/1060|title:Irjala takaisin|youtube:Z435NMOdYUA
+author:Jon Tardis|pms-id:asm19/listening_music/1065|title:Gunpowder|youtube:gcwkwbAa1co
+author:Downgone / 242|pms-id:asm19/listening_music/1083|title:Funkmonstrotron|youtube:bKcLjSOFtbg
+author:Roz / Fit ^ Byterapers (ft. Yzi)|pms-id:asm19/listening_music/1088|title:Dark Middleage|youtube:yoAFOIKxvwo
+author:Yzi|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|youtube:LPvVvD4hSu8
 
 
 :section Fast music
@@ -218,27 +218,27 @@ author:(author hidden until results)|pms-id:asm19/listening_music/1113|title:Tal
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/fast_music/1142|title:Gas Station|youtube:RKSXxSIeKzQ
-author:(author hidden until results)|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
-author:(author hidden until results)|pms-id:asm19/fast_music/1146|title:Fake Start|youtube:PRbIixvCkfY
-author:(author hidden until results)|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland|youtube:-PBnXP-YUdI
-author:(author hidden until results)|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE|youtube:N1UBRDRnsVk
-author:(author hidden until results)|pms-id:asm19/fast_music/1149|title:Love You Too|youtube:AuQVJmycmvk
-author:(author hidden until results)|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla|youtube:DScgLcDMNP4
-author:(author hidden until results)|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!|youtube:aw3C5FNaNYQ
-author:(author hidden until results)|pms-id:asm19/fast_music/1152|title:Happy Flutter|youtube:DB9f_SHRd1A
-author:(author hidden until results)|pms-id:asm19/fast_music/1153|title:Happy Dayz|youtube:cIM7yGp8NQE
-author:(author hidden until results)|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround|youtube:9_lAZdXeSE8
-author:(author hidden until results)|pms-id:asm19/fast_music/1155|title:lets b 8bit happy|youtube:qRMlqLH_fVE
-author:(author hidden until results)|pms-id:asm19/fast_music/1156|title:Punchdrunk|youtube:dBLV9VWCCVo
-author:(author hidden until results)|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen|youtube:ruEkE2-Ffg0
-author:(author hidden until results)|pms-id:asm19/fast_music/1158|title:Membah|youtube:eExLSNWcQkk
-author:(author hidden until results)|pms-id:asm19/fast_music/1159|title:alert|youtube:gY4aMXG6nuA
-author:(author hidden until results)|pms-id:asm19/fast_music/1160|title:I don't even|youtube:6P706F57p4w
-author:(author hidden until results)|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM|youtube:mogMNS6OgHk
-author:(author hidden until results)|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster|youtube:RyNxfXKWp5E
-author:(author hidden until results)|pms-id:asm19/fast_music/1163|title:OwO Whats this|youtube:X2UoSal2WMk
-author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
+author:Todella Järkyttävän Saksalainen Mies|pms-id:asm19/fast_music/1142|title:Gas Station|youtube:RKSXxSIeKzQ
+author:Roz / Fit ^ Byterapers|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
+author:Carrox|pms-id:asm19/fast_music/1146|title:Fake Start|youtube:PRbIixvCkfY
+author:Lohis / Tekotuotanto|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland|youtube:-PBnXP-YUdI
+author:Yzi|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE|youtube:N1UBRDRnsVk
+author:Jarsk1e|pms-id:asm19/fast_music/1149|title:Love You Too|youtube:AuQVJmycmvk
+author:tArzAn|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla|youtube:DScgLcDMNP4
+author:Dj Jumankeissi|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!|youtube:aw3C5FNaNYQ
+author:Shiera|pms-id:asm19/fast_music/1152|title:Happy Flutter|youtube:DB9f_SHRd1A
+author:Ephmerix|pms-id:asm19/fast_music/1153|title:Happy Dayz|youtube:cIM7yGp8NQE
+author:Dj Rakofobia|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround|youtube:9_lAZdXeSE8
+author:Raztaman|pms-id:asm19/fast_music/1155|title:lets b 8bit happy|youtube:qRMlqLH_fVE
+author:shinmai/McBurrobit|pms-id:asm19/fast_music/1156|title:Punchdrunk|youtube:dBLV9VWCCVo
+author:Chipremacy|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen|youtube:ruEkE2-Ffg0
+author:Tha dayzes|pms-id:asm19/fast_music/1158|title:Membah|youtube:eExLSNWcQkk
+author:mayday/hedelmae|pms-id:asm19/fast_music/1159|title:alert|youtube:gY4aMXG6nuA
+author:ihanalammas|pms-id:asm19/fast_music/1160|title:I don't even|youtube:6P706F57p4w
+author:BAMSEKARHU|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM|youtube:mogMNS6OgHk
+author:rawArgon|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster|youtube:RyNxfXKWp5E
+author:Old Moubit|pms-id:asm19/fast_music/1163|title:OwO Whats this|youtube:X2UoSal2WMk
+author:-?-|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
 
 
 :section Dance music
@@ -247,19 +247,19 @@ author:(author hidden until results)|pms-id:asm19/fast_music/1164|title:grandalf
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 :ongoing true
 
-author:(author hidden until results)|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
-author:(author hidden until results)|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
-author:(author hidden until results)|pms-id:asm19/dance_music/988|title:The Way That Leads to You|youtube:QvH81aTxWvg
-author:(author hidden until results)|pms-id:asm19/dance_music/990|title:Delight '08|youtube:w8WXGxwMHpU
-author:(author hidden until results)|pms-id:asm19/dance_music/996|title:Soul Sorrow|youtube:MyfaCd_CnFg
-author:(author hidden until results)|pms-id:asm19/dance_music/1022|title:Florida Man|youtube:utMDs48tDec
-author:(author hidden until results)|pms-id:asm19/dance_music/1027|title:Love and Laserbeams|youtube:FPS28aTea7c
-author:(author hidden until results)|pms-id:asm19/dance_music/1042|title:Speedrunner's Purgatory|youtube:lOX8eI88MQM
-author:(author hidden until results)|pms-id:asm19/dance_music/1059|title:Boston Satanics|youtube:0w70PQoF0pI
-author:(author hidden until results)|pms-id:asm19/dance_music/1067|title:RGB|youtube:DLD0byQNoqw
-author:(author hidden until results)|pms-id:asm19/dance_music/1095|title:12 year old (expired) Gabbajuice!!!|youtube:ZCrkyNEbfGs
-author:(author hidden until results)|pms-id:asm19/dance_music/1119|title:Shore Thing|youtube:nwrFgsGqFgQ
-author:(author hidden until results)|pms-id:asm19/dance_music/1120|title:The Corporation|youtube:_fxTaG7EiAU
+author:Buzzer/Brainstorm|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
+author:Ephmerix|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
+author:HBR & Mari|pms-id:asm19/dance_music/988|title:The Way That Leads to You|youtube:QvH81aTxWvg
+author:Avenum|pms-id:asm19/dance_music/990|title:Delight '08|youtube:w8WXGxwMHpU
+author:DJ Joge /Brainstorm|pms-id:asm19/dance_music/996|title:Soul Sorrow|youtube:MyfaCd_CnFg
+author:Florida Man|pms-id:asm19/dance_music/1022|title:Florida Man|youtube:utMDs48tDec
+author:Signal|pms-id:asm19/dance_music/1027|title:Love and Laserbeams|youtube:FPS28aTea7c
+author:rawArgon|pms-id:asm19/dance_music/1042|title:Speedrunner's Purgatory|youtube:lOX8eI88MQM
+author:Laurikka|pms-id:asm19/dance_music/1059|title:Boston Satanics|youtube:0w70PQoF0pI
+author:Jon Tardis|pms-id:asm19/dance_music/1067|title:RGB|youtube:DLD0byQNoqw
+author:Jumankeissi|pms-id:asm19/dance_music/1095|title:12 year old (expired) Gabbajuice!!!|youtube:ZCrkyNEbfGs
+author:Roz|pms-id:asm19/dance_music/1119|title:Shore Thing|youtube:nwrFgsGqFgQ
+author:noby|pms-id:asm19/dance_music/1120|title:The Corporation|youtube:_fxTaG7EiAU
 
 
 :section Graphics
@@ -267,19 +267,19 @@ author:(author hidden until results)|pms-id:asm19/dance_music/1120|title:The Cor
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:graphics/1-McCall System_nosig.png|pms-id:asm19/graphics/966|title:McCall System
-author:(author hidden until results)|image-file:graphics/12-The_Birdkeeper.png|pms-id:asm19/graphics/995|title:The Birdkeeper
-author:(author hidden until results)|image-file:graphics/4-thekingisdead_nosig.jpg|pms-id:asm19/graphics/1001|title:The King is Dead
-author:(author hidden until results)|image-file:graphics/2-karppi-2-0nosig.jpg|pms-id:asm19/graphics/1006|title:Karppi 2.0
-author:(author hidden until results)|image-file:graphics/7-Worshippers_of_the_Great_Giant_nosig.png|pms-id:asm19/graphics/1008|title:Worshippers of the Great Giant
-author:(author hidden until results)|image-file:graphics/6-Troll_nosig.png|pms-id:asm19/graphics/1015|title:Troll
-author:(author hidden until results)|image-file:graphics/8-Golden_Cable_Hunters_nosig.png|pms-id:asm19/graphics/1032|title:Golden Cable Hunters
-author:(author hidden until results)|image-file:graphics/9-RoaringThunder_nosig.png|pms-id:asm19/graphics/1047|title:Roaring Thunder
-author:(author hidden until results)|image-file:graphics/5-Pesky_intrudersnosig.jpg|pms-id:asm19/graphics/1049|title:Pesky intruders
-author:(author hidden until results)|image-file:graphics/11-Terror_from_the_deep_nosig.jpg|pms-id:asm19/graphics/1050|title:Terror from the deep
-author:(author hidden until results)|image-file:graphics/13-disney_artist_on_lunchbreak_2049_colorized.png|pms-id:asm19/graphics/1055|title:Disney artist on lunchbreak (2049, Colorized)
-author:(author hidden until results)|image-file:graphics/3-sinister-rituals-nosig.jpg|pms-id:asm19/graphics/1066|title:Sinister Rituals
-author:(author hidden until results)|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg|pms-id:asm19/graphics/1135|title:Babyfood Express
+author:NinjaBaka|image-file:graphics/1-McCall System_nosig.png|pms-id:asm19/graphics/966|title:McCall System
+author:Darkki|image-file:graphics/12-The_Birdkeeper.png|pms-id:asm19/graphics/995|title:The Birdkeeper
+author:emtastik|image-file:graphics/4-thekingisdead_nosig.jpg|pms-id:asm19/graphics/1001|title:The King is Dead
+author:aarnis|image-file:graphics/2-karppi-2-0nosig.jpg|pms-id:asm19/graphics/1006|title:Karppi 2.0
+author:Plasticbunny|image-file:graphics/7-Worshippers_of_the_Great_Giant_nosig.png|pms-id:asm19/graphics/1008|title:Worshippers of the Great Giant
+author:Ukkis|image-file:graphics/6-Troll_nosig.png|pms-id:asm19/graphics/1015|title:Troll
+author:maxon / HBC|image-file:graphics/8-Golden_Cable_Hunters_nosig.png|pms-id:asm19/graphics/1032|title:Golden Cable Hunters
+author:Neotheta|image-file:graphics/9-RoaringThunder_nosig.png|pms-id:asm19/graphics/1047|title:Roaring Thunder
+author:Surround|image-file:graphics/5-Pesky_intrudersnosig.jpg|pms-id:asm19/graphics/1049|title:Pesky intruders
+author:Partikle|image-file:graphics/11-Terror_from_the_deep_nosig.jpg|pms-id:asm19/graphics/1050|title:Terror from the deep
+author:JJ|image-file:graphics/13-disney_artist_on_lunchbreak_2049_colorized.png|pms-id:asm19/graphics/1055|title:Disney artist on lunchbreak (2049, Colorized)
+author:peippo|image-file:graphics/3-sinister-rituals-nosig.jpg|pms-id:asm19/graphics/1066|title:Sinister Rituals
+author:none|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg|pms-id:asm19/graphics/1135|title:Babyfood Express
 
 
 :section Pixeled graphics
@@ -287,14 +287,14 @@ author:(author hidden until results)|image-file:graphics/10-Babyfood_Express_By_
 :description This is an oldschool pixeled graphics competition. It means that we’re expecting to see entries that have been drawn pixel by pixel, by using old fashioned techniques and not for example overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
 :ongoing true
 
-author:(author hidden until results)|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
-author:(author hidden until results)|image-file:pixeled-graphics/6-rapu_nosig.png|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon
-author:(author hidden until results)|image-file:pixeled-graphics/4-gimmeh.png|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh
-author:(author hidden until results)|image-file:pixeled-graphics/2-Bobby_nosig.png|pms-id:asm19/pixeled_graphics/1023|title:Bobby
-author:(author hidden until results)|image-file:pixeled-graphics/7-orientalist_cat_nosig.png|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat
-author:(author hidden until results)|image-file:pixeled-graphics/5-Scobyhunter_nosig.png|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter
-author:(author hidden until results)|image-file:pixeled-graphics/8-Preytracing_Nosig.png|pms-id:asm19/pixeled_graphics/1124|title:Preytracing
-author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphics/1134|title:Ghost
+author:Felor|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
+author:Croaker / Halcyon|image-file:pixeled-graphics/6-rapu_nosig.png|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon
+author:Kisu, Void|image-file:pixeled-graphics/4-gimmeh.png|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh
+author:maxon / HBC|image-file:pixeled-graphics/2-Bobby_nosig.png|pms-id:asm19/pixeled_graphics/1023|title:Bobby
+author:Partikle|image-file:pixeled-graphics/7-orientalist_cat_nosig.png|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat
+author:Random|image-file:pixeled-graphics/5-Scobyhunter_nosig.png|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter
+author:Mazor / Fairlight|image-file:pixeled-graphics/8-Preytracing_Nosig.png|pms-id:asm19/pixeled_graphics/1124|title:Preytracing
+author:Noora|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphics/1134|title:Ghost
 
 
 :section Themed photo
@@ -302,18 +302,18 @@ author:(author hidden until results)|image-file:pixeled-graphics/1-Ghost.png|pms
 :description Themed photo competition requires to take a photo and only minor retouching and adjustments are allowed. The theme for 2019 is: "Light & Shadow". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept like good and evil, darkness and daylight, etc.
 :ongoing true
 
-author:(author hidden until results)|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
-author:(author hidden until results)|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn
-author:(author hidden until results)|image-file:themed-photo/2-BehindTheCurtain-nosig.png|pms-id:asm19/themed_photo/1014|title:Behind the curtain
-author:(author hidden until results)|image-file:themed-photo/9-Wait_for_me!_I_have_a_photo.jpg|pms-id:asm19/themed_photo/1033|title:Wait for me! I have a photo
-author:(author hidden until results)|image-file:themed-photo/3-ANewHope - final jpg.jpg|pms-id:asm19/themed_photo/1053|title:A New Hope
-author:(author hidden until results)|image-file:themed-photo/10-Real-time_raytracing_III.png|pms-id:asm19/themed_photo/1064|title:Real-time raytracing III
-author:(author hidden until results)|image-file:themed-photo/12-in_the_midst_of_the_shadows_nosig.jpg|pms-id:asm19/themed_photo/1070|title:In the midst of the shadows
-author:(author hidden until results)|image-file:themed-photo/6-Pinky_alt_nosig.png|pms-id:asm19/themed_photo/1074|title:Pinky
-author:(author hidden until results)|image-file:themed-photo/5-evening_snack.jpg|pms-id:asm19/themed_photo/1078|title:Evening snack
-author:(author hidden until results)|image-file:themed-photo/11-ShapeOfYou.jpg|pms-id:asm19/themed_photo/1084|title:Shape Of You
-author:(author hidden until results)|image-file:themed-photo/8-ei_mee_kohtuuella_nosig.png|pms-id:asm19/themed_photo/1130|title:mikkää ei mee kohtuuella
-author:(author hidden until results)|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg|pms-id:asm19/themed_photo/1143|title:mf orbeez on a plane!
+author:Marvel / FC|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
+author:Exca / Wide Load|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn
+author:poro/Wide Load|image-file:themed-photo/2-BehindTheCurtain-nosig.png|pms-id:asm19/themed_photo/1014|title:Behind the curtain
+author:Tethys|image-file:themed-photo/9-Wait_for_me!_I_have_a_photo.jpg|pms-id:asm19/themed_photo/1033|title:Wait for me! I have a photo
+author:malomaz|image-file:themed-photo/3-ANewHope - final jpg.jpg|pms-id:asm19/themed_photo/1053|title:A New Hope
+author:biini / damones|image-file:themed-photo/10-Real-time_raytracing_III.png|pms-id:asm19/themed_photo/1064|title:Real-time raytracing III
+author:Wode / Doomsday|image-file:themed-photo/12-in_the_midst_of_the_shadows_nosig.jpg|pms-id:asm19/themed_photo/1070|title:In the midst of the shadows
+author:.You|image-file:themed-photo/6-Pinky_alt_nosig.png|pms-id:asm19/themed_photo/1074|title:Pinky
+author:AK^|image-file:themed-photo/5-evening_snack.jpg|pms-id:asm19/themed_photo/1078|title:Evening snack
+author:Terkkui äidille|image-file:themed-photo/11-ShapeOfYou.jpg|pms-id:asm19/themed_photo/1084|title:Shape Of You
+author:piimae / findori|image-file:themed-photo/8-ei_mee_kohtuuella_nosig.png|pms-id:asm19/themed_photo/1130|title:mikkää ei mee kohtuuella
+author:jmagic/complex|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg|pms-id:asm19/themed_photo/1143|title:mf orbeez on a plane!
 
 
 :section Fast graphics
@@ -321,20 +321,20 @@ author:(author hidden until results)|image-file:themed-photo/4-mf_orbeez_on_a_pl
 :description <p>Competitors had 1.5 hours to create an image with "Nuclear Sausage" theme.</p>
 :ongoing true
 
-author:(author hidden until results)|image-file:fast-graphics/2-Ydinmakkara.png|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara
-author:(author hidden until results)|image-file:fast-graphics/5-viimeinen_nakki.jpg|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki
-author:(author hidden until results)|image-file:fast-graphics/11-juhannusium-247_(247ju).png|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)
-author:(author hidden until results)|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat
-author:(author hidden until results)|image-file:fast-graphics/14-tourist_attraction.jpg|pms-id:asm19/fast_graphics/1092|title:Tourist attraction
-author:(author hidden until results)|image-file:fast-graphics/3-radioactive_nakki.jpg|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki
-author:(author hidden until results)|image-file:fast-graphics/9-also_vegan_options.jpg|pms-id:asm19/fast_graphics/1097|title:Also vegan options
-author:(author hidden until results)|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat
-author:(author hidden until results)|image-file:fast-graphics/7-nuclear_meal.png|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal
-author:(author hidden until results)|image-file:fast-graphics/8-blastages.png|pms-id:asm19/fast_graphics/1103|title:blastages
-author:(author hidden until results)|image-file:fast-graphics/13-meat_is_murder.jpg|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder
-author:(author hidden until results)|image-file:fast-graphics/6-ready_for_raiding.png|pms-id:asm19/fast_graphics/1108|title:Ready for raiding
-author:(author hidden until results)|image-file:fast-graphics/1-atomic_sausage_party.jpg|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party
-author:(author hidden until results)|image-file:fast-graphics/4-get_eaten_.png|pms-id:asm19/fast_graphics/1111|title:Get Eaten!
+author:Ukkis|image-file:fast-graphics/2-Ydinmakkara.png|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara
+author:Surround|image-file:fast-graphics/5-viimeinen_nakki.jpg|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki
+author:sssampo/pistoke|image-file:fast-graphics/11-juhannusium-247_(247ju).png|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)
+author:Kisu, Void|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat
+author:Darkki|image-file:fast-graphics/14-tourist_attraction.jpg|pms-id:asm19/fast_graphics/1092|title:Tourist attraction
+author:Q|image-file:fast-graphics/3-radioactive_nakki.jpg|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki
+author:Plasticbunny|image-file:fast-graphics/9-also_vegan_options.jpg|pms-id:asm19/fast_graphics/1097|title:Also vegan options
+author:Neotheta|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat
+author:Felor|image-file:fast-graphics/7-nuclear_meal.png|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal
+author:Super Metroid believers!|image-file:fast-graphics/8-blastages.png|pms-id:asm19/fast_graphics/1103|title:blastages
+author:korpi|image-file:fast-graphics/13-meat_is_murder.jpg|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder
+author:Ceirque|image-file:fast-graphics/6-ready_for_raiding.png|pms-id:asm19/fast_graphics/1108|title:Ready for raiding
+author:maxon / HBC|image-file:fast-graphics/1-atomic_sausage_party.jpg|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party
+author:diedos|image-file:fast-graphics/4-get_eaten_.png|pms-id:asm19/fast_graphics/1111|title:Get Eaten!
 
 
 :section Cosplay photoshoot
