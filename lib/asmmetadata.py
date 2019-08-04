@@ -363,9 +363,17 @@ def escape_value(value):
     return value.replace("|", "&#124;")
 
 
+def get_section_archive_path(section):
+    return "%d/%s" % (section["year"], section["key"])
+
+
+def get_archive_link_section(section):
+    return "https://archive.assembly.org/%s" % get_section_archive_path(section)
+
+
 def get_archive_link_entry(entry):
     key = get_entry_key(entry)
-    return u"https://archive.assembly.org/%d/%s/%s" % (
+    return "https://archive.assembly.org/%d/%s/%s" % (
         entry["section"]["year"], entry["section"]["key"], key)
 
 
@@ -501,12 +509,66 @@ def get_ordinal_suffix(number):
     return suffix
 
 
-def get_youtube_info_data(entry):
+def get_youtube_timestamps_title_description(youtube_entry):
+    youtube_id, _ = youtube_entry["youtube"].split("#")
+    description = ""
+    section = youtube_entry["section"]
+    party_name = get_party_name(
+        section['year'], section['name'])
+    if section.get("ranked", True):
+        description += "%s %s competition entries\n\n" % (
+            party_name, section["name"])
+    for entry in section["entries"]:
+        for entry in section["entries"]:
+            list_youtube_id_timestamp = entry.get("youtube")
+            if list_youtube_id_timestamp is None:
+                continue
+            (list_youtube_id,
+             list_youtube_timestamp) = list_youtube_id_timestamp.split("#t=")
+            if list_youtube_id != youtube_id:
+                continue
+            link_timestamp = ""
+            hours = list_youtube_timestamp.split("h")
+            if len(hours) == 2:
+                link_timestamp += hours[0] + ":"
+                minutes_str = hours[1]
+            else:
+                minutes_str = hours[0]
+            minutes = minutes_str.split("m")
+            if len(minutes) == 2:
+                link_timestamp += "%02d" % (int(minutes[0])) + ":"
+                seconds_str = minutes[1]
+            else:
+                seconds_str = minutes[0]
+            if "s" not in seconds_str:
+                seconds = int(seconds_str)
+            else:
+                seconds = int(seconds_str.rstrip("s"))
+            if link_timestamp == "":
+                link_timestamp = "00:%02d" % seconds
+            else:
+                link_timestamp += "%02d" % seconds
+            description += "%s %s" % (link_timestamp, get_entry_name(entry))
+            if section.get("ranked", True):
+                position = entry.get('position', 0)
+                if position != 0:
+                    description += " (%d%s place)" % (
+                        position, get_ordinal_suffix(position))
+            description += "\n"
+    description += "\n"
+    description += "These entries at Assembly Archive: %s\n" % get_archive_link_section(section)
+    description += "Event website: https://www.assembly.org/"
+    title = section["name"]
+
+    title = "%s %s" % (party_name, section["name"])
+    return {"title": title, "description": description}
+
+
+def get_youtube_entry_title_description(entry):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
     name = get_entry_name(entry)
-
     position = entry.get('position', 0)
 
     description = ""
@@ -606,9 +668,18 @@ def get_youtube_info_data(entry):
 
     description += u"\n"
     if "youtube-playlist" in entry["section"]:
-        description += u"Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
-    description += u"This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
-    description += u"Event website: https://www.assembly.org/\n"
+        description += "Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
+    description += "This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
+    description += "Event website: https://www.assembly.org/\n"
+    return description
+
+
+def get_youtube_metadata(entry):
+    tags = set(get_party_tags(
+            entry['section']['year'], entry['section']['name']))
+
+    if 'tags' in entry:
+        tags.update(entry['tags'].split(" "))
 
     tags = set(get_party_tags(
             entry['section']['year'], entry['section']['name']))
@@ -621,22 +692,37 @@ def get_youtube_info_data(entry):
     if "Seminars" in entry['section']['name']:
         tags.add("seminar")
 
-    description = description.replace("<", "-")
-    description = description.replace(">", "-")
-
-    name = name.replace("<", "-")
-    name = name.replace(">", "-")
-
     category = "Entertainment"
     if "Seminars" in entry['section']['name']:
         category = "Tech"
 
+    return {"tags": tags, "category": category}
+
+
+def get_youtube_info_data(entry):
+    # Special handling for things that have timestamps to stream
+    # captures:
+    if "#t=" in entry["youtube"]:
+        youtube_metadata = get_youtube_timestamps_title_description(entry)
+    else:
+        youtube_metadata = get_youtube_entry_title_description(entry)
+
+    video_metadata = get_youtube_metadata(entry)
+
+    description = youtube_metadata["description"]
+    description = description.replace("<", "-")
+    description = description.replace(">", "-")
+
+    title = youtube_metadata["title"]
+    title = title.replace("<", "-")
+    title = title.replace(">", "-")
+
     return {
-        'title': name[:YOUTUBE_MAX_TITLE_LENGTH],
+        'title': title[:YOUTUBE_MAX_TITLE_LENGTH],
         'description': description,
-        'tags': list(tags),
-        'category': category,
-        }
+        'tags': list(video_metadata["tags"]),
+        'category': video_metadata["category"],
+    }
 
 
 def reorder_positioned_section_entries(inout_entries):
