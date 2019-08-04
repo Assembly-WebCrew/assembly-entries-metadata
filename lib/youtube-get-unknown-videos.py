@@ -68,8 +68,8 @@ if __name__ == "__main__":
                     description = description.replace(u"\n", u"<br/>")
                     description = u"|description:%s" % description
 
-                outline = u"title:%s|youtube:%s%s|author:AssemblyTV" % (
-                    title, video_id, description)
+                outline = u"author:AssemblyTV|%stitle:%s|youtube:%s" % (
+                    description, title, video_id)
                 print(outline)
 
             playlistitems_list_request = yt_service.playlistItems().list_next(
