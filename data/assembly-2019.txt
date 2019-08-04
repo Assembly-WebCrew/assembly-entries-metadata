@@ -3,7 +3,6 @@
 :section Demo
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
-:ongoing true
 
 author:Pyrotech|pms-id:asm19/demo/1003|title:Hibernate|youtube:DIP3BP8VO0s
 author:FCCCF ft. Bass cadet|pms-id:asm19/demo/1017|title:Ozymandias|youtube:ngjyDtm-7vM
@@ -24,7 +23,6 @@ author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Eg
 :section 64k intro
 :pms-category 64k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
-:ongoing true
 
 author:cbob/regression ventures|pms-id:asm19/64k_intro/1198|title:LA1984|youtube:AEJqN7IPs80
 author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|pms-id:asm19/64k_intro/1211|title:1989|youtube:dYcmPyHjyUg
@@ -34,7 +32,6 @@ author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design|youtube
 :section 4k intro
 :pms-category 4k-intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
 
 author:oo|pms-id:asm19/4k-intro/1126|title:Black Xor White|youtube:o8lFhsow0jU
 author:Faemiyah|pms-id:asm19/4k-intro/1170|title:Región de Magallanes|youtube:Y2VHjC16trA
@@ -48,7 +45,6 @@ author:eos|pms-id:asm19/4k-intro/1215|title:terrarium|youtube:xLN3mTRlugs
 :youtube-playlist PLJO4AtxKJiFPZQsFM8X_d13PRROkTL6NO
 :pms-category 1k-intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 
 author:The Neverstoppers|pms-id:asm19/1k-intro/970|title:Shimmering Madness|youtube:Hk0j0AUCoXA
 author:Bercon/HBC|pms-id:asm19/1k-intro/977|title:Fluid Dynamics 101|youtube:nBC54D0By6s
@@ -70,7 +66,6 @@ author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining|yo
 :youtube-playlist PLJO4AtxKJiFPRVtkVtbNJmokFBfDKFXP4
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
 
 author:Code: Shiera & fractalpixel, Music: Shiera|pms-id:asm19/real_wild/942|title:KeyScreen|youtube:PdSLkUps5-8
 author:Dekadence|pms-id:asm19/real_wild/971|title:It's More Fun To Consume|youtube:vpEL7tsNsBQ
@@ -83,7 +78,6 @@ author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|pms-id:asm
 :youtube-playlist PLJO4AtxKJiFMZFy-T_R-u8l3ONHbV1JPB
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 
 author:pasi toska|pms-id:asm19/oldskool/940|title:wobbly celebration|youtube:XLgeeX1NNdw
 author:Rustbloom|pms-id:asm19/oldskool/953|title:PYO PYO|youtube:twjoTwUcoP0
@@ -96,7 +90,6 @@ author:Void|pms-id:asm19/oldskool/1132|title:Catro|youtube:HuiwK1R7Hak
 :section One scene demo
 :pms-category one_scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
-:ongoing true
 
 author:supa & noby|pms-id:asm19/one_scene/1072|title:NSYNC|youtube:3ciW4HLmYCc#t=30m46s
 author:epoch|pms-id:asm19/one_scene/1081|title:efx|youtube:3ciW4HLmYCc#t=28m21s
@@ -133,7 +126,6 @@ author:Siils|pms-id:asm19/one_scene/1245|title:Very, Very Frightening|youtube:3c
 :youtube-playlist PLJO4AtxKJiFMXFWKTWr8TuQVVlezJei0y
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
 
 author:Ihmisroboidit|pms-id:asm19/short_film/950|title:Kapina|youtube:UEmrrpqDUfc
 author:Pistoke|pms-id:asm19/short_film/959|title:Ten Years|youtube:_Q-PHXAOQww
@@ -153,7 +145,6 @@ author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon|y
 :youtube-playlist PLJO4AtxKJiFOG5GWUL-cMITwbcQ_isrLl
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:ongoing true
 
 author:Shiptoad|pms-id:asm19/gamedev/886|title:Junkships|youtube:ppKPk1wV0zU
 author:Ilu/Roimis/Lehtori R.|pms-id:asm19/gamedev/887|title:Hanging Man|youtube:hzEn7eRgOXg
@@ -176,7 +167,6 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä|y
 :youtube-playlist PLJO4AtxKJiFPZCBWkR0kaIEHGR8PbtwkG
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
-:ongoing true
 
 author:Paokala|pms-id:asm19/tracked_music/928|title:Metalstorm|youtube:pj1d6h2ag98
 author:Buzzer/Brainstorm|pms-id:asm19/tracked_music/933|title:Left Behind|youtube:3dMkrycsDy8
@@ -194,7 +184,6 @@ author:Laurikka|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyL
 :youtube-playlist PLJO4AtxKJiFO6rueHqZXQFwLBwtD1eOE0
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
-:ongoing true
 
 author:Buzzer/Brainstorm|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
 author:Aikapallo|pms-id:asm19/listening_music/937|title:Whip and Iron|youtube:DXJvYTXyGFo
@@ -216,7 +205,6 @@ author:Yzi|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|yo
 :youtube-playlist PLJO4AtxKJiFMKEN9180D9mE56lpI7_iEX
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:ongoing true
 
 author:Todella Järkyttävän Saksalainen Mies|pms-id:asm19/fast_music/1142|title:Gas Station|youtube:RKSXxSIeKzQ
 author:Roz / Fit ^ Byterapers|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
@@ -245,7 +233,6 @@ author:-?-|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
 :youtube-playlist PLJO4AtxKJiFNIzWNqaxw781dVxeQ1PhuT
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
-:ongoing true
 
 author:Buzzer/Brainstorm|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
 author:Ephmerix|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
@@ -265,7 +252,6 @@ author:noby|pms-id:asm19/dance_music/1120|title:The Corporation|youtube:_fxTaG7E
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-:ongoing true
 
 author:NinjaBaka|image-file:graphics/1-McCall System_nosig.png|pms-id:asm19/graphics/966|title:McCall System
 author:Darkki|image-file:graphics/12-The_Birdkeeper.png|pms-id:asm19/graphics/995|title:The Birdkeeper
@@ -285,7 +271,6 @@ author:none|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg|pms-id:
 :section Pixeled graphics
 :pms-category pixeled_graphics
 :description This is an oldschool pixeled graphics competition. It means that we’re expecting to see entries that have been drawn pixel by pixel, by using old fashioned techniques and not for example overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
-:ongoing true
 
 author:Felor|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
 author:Croaker / Halcyon|image-file:pixeled-graphics/6-rapu_nosig.png|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon
@@ -300,7 +285,6 @@ author:Noora|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphi
 :section Themed photo
 :pms-category themed_photo
 :description Themed photo competition requires to take a photo and only minor retouching and adjustments are allowed. The theme for 2019 is: "Light & Shadow". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept like good and evil, darkness and daylight, etc.
-:ongoing true
 
 author:Marvel / FC|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
 author:Exca / Wide Load|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn
@@ -319,7 +303,6 @@ author:jmagic/complex|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg|pms
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Nuclear Sausage" theme.</p>
-:ongoing true
 
 author:Ukkis|image-file:fast-graphics/2-Ydinmakkara.png|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara
 author:Surround|image-file:fast-graphics/5-viimeinen_nakki.jpg|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki
@@ -339,7 +322,7 @@ author:diedos|image-file:fast-graphics/4-get_eaten_.png|pms-id:asm19/fast_graphi
 
 :section Cosplay photoshoot
 :pms-category cosplay_photoshoot_competition
-:ongoing true
+:description Photographers and their models were competing against each other. Only a minor retouching and adjustments were allowed.
 
 author:janeemil, pi4ch|description:Kuvaaja: janeemil, malli: pi4ch|image-file:cosplay-photoshoot/eliittijoukkue-b-elite-crew-b-counter-strike-global-offensive-by-janeemil-pi4ch.jpeg|pms-id:asm19/cosplay_photoshoot_competition/904|title:Eliittijoukkue B (Elite Crew B) - Counter-Strike: Global Offensive
 author:Emilia Kokko, Jaana Miettinen|description:Kuvaaja: Emilia Kokko, malli: Jaana Miettinen|image-file:cosplay-photoshoot/ariel-the-little-mermaid-by-emilia-kokko-jaana-miettinen.jpeg|pms-id:asm19/cosplay_photoshoot_competition/906|title:Ariel - The Little Mermaid
@@ -351,6 +334,7 @@ author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photosh
 :section Tuplain
 :pms-category tuplain
 :manage-youtube-descriptions false
+:public false
 
 author:Hooded Capitalist Swine|pms-id:asm19/tuplain/972|title:Finest Bay
 author:Randy/OSi|pms-id:asm19/tuplain/980|title:Ui Juma
