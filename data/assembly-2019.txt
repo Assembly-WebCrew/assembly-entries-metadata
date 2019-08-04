@@ -1,6 +1,7 @@
 :year 2019
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFPbZz1EVNJJyYp48C6BOFNr
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
 
@@ -21,6 +22,7 @@ author:The Crux|platform:PC|pms-id:asm19/demo/1203|position:14|techniques:glsl|t
 
 
 :section 64k intro
+:youtube-playlist PLJO4AtxKJiFPbfcpEWM3l96lUWjx6z62t
 :pms-category 64k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
 
@@ -30,6 +32,7 @@ author:cbob/regression ventures|platform:Ubuntu 19.04|pms-id:asm19/64k_intro/119
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFPC6JccJUDASeL7b90rzfFS
 :pms-category 4k-intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
