@@ -4,41 +4,41 @@
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2019 PC computer.</p>
 
-author:Pyrotech|pms-id:asm19/demo/1003|title:Hibernate|youtube:DIP3BP8VO0s
-author:FCCCF ft. Bass cadet|pms-id:asm19/demo/1017|title:Ozymandias|youtube:ngjyDtm-7vM
-author:Humane|pms-id:asm19/demo/1167|title:Meet mr internet|youtube:yfi9pfyvjLY
-author:AateKorjaamo|pms-id:asm19/demo/1171|title:AK-03: Hypertension|youtube:segjJHGbdU0
-author:Wide Load|pms-id:asm19/demo/1187|title:Filler from the 90s|youtube:7UhkhJYukyY
-author:Mikkosoft Productions|pms-id:asm19/demo/1195|title:Skrolli Party 2019 invitation|youtube:jhFPj9XCdmM
-author:The Crux|pms-id:asm19/demo/1203|title:100% Recycled|youtube:lPuvMZLYOTI
-author:Ate Bit|pms-id:asm19/demo/1205|title:The Next Level|youtube:hdhejtJKefM
-author:Peetu Nuottajärvi|pms-id:asm19/demo/1206|title:Gambler|youtube:PDYWYO-wXMI
-author:u+1f35e|pms-id:asm19/demo/1213|title:Journey to Breadzembly II: Life Saving Cheese Bagel|youtube:CnyQ9mKg0Tc
-author:adapt|pms-id:asm19/demo/1221|title:Chroma Space|youtube:SgauYJMJzbc
-author:JUGZ|pms-id:asm19/demo/1222|title:BREAKEVEN|youtube:XhJftXFU-5w
-author:RBBS|pms-id:asm19/demo/1224|title:Kuvakasetti|youtube:qVnMmtwduWc
-author:code & gfx: dm/eastgate, music: PeazeMind|pms-id:asm19/demo/1228|title:Ego Trip 8|youtube:hYKOg5NhcIg
+author:adapt|platform:PC |pms-id:asm19/demo/1221|position:1|techniques:ancient chromatic wisdoms, time, computer, opengl|title:Chroma Space|youtube:SgauYJMJzbc
+author:Pyrotech|platform:PC|pms-id:asm19/demo/1003|position:2|techniques:Windows|title:Hibernate|youtube:DIP3BP8VO0s
+author:JUGZ|platform:Windows|pms-id:asm19/demo/1222|position:3|techniques:Unity|title:BREAKEVEN|youtube:XhJftXFU-5w
+author:u+1f35e|platform:PC|pms-id:asm19/demo/1213|position:4|techniques:Unreal Engine|title:Journey to Breadzembly II: Life Saving Cheese Bagel|youtube:CnyQ9mKg0Tc
+author:Mikkosoft Productions|platform:PC (Windows + Linux)|pms-id:asm19/demo/1195|position:5|techniques:OpenGL 4.5, Blender|title:Skrolli Party 2019 invitation|youtube:jhFPj9XCdmM
+author:Ate Bit|platform:PC|pms-id:asm19/demo/1205|position:6|techniques:Code, art, music and other stuff|title:The Next Level|youtube:hdhejtJKefM
+author:code & gfx: dm/eastgate, music: PeazeMind|platform:Windows PC|pms-id:asm19/demo/1228|position:7|techniques:OpenGL|title:Ego Trip 8|youtube:hYKOg5NhcIg
+author:Peetu Nuottajärvi|platform:PC|pms-id:asm19/demo/1206|position:8|techniques:C++, OpenGL (glfw, glad)|title:Gambler|youtube:PDYWYO-wXMI
+author:Wide Load|platform:Browser|pms-id:asm19/demo/1187|position:9|techniques:Haxe, babylonjs, csg, party production|title:Filler from the 90s|youtube:7UhkhJYukyY
+author:AateKorjaamo|platform:WebGL|pms-id:asm19/demo/1171|position:10|techniques:three.js, rocket, noise|title:AK-03: Hypertension|youtube:segjJHGbdU0
+author:FCCCF ft. Bass cadet|platform:PC|pms-id:asm19/demo/1017|position:11|techniques:C#, OpenTK, Gimp, Propellerheads, Reason|title:Ozymandias|youtube:ngjyDtm-7vM
+author:Humane|platform:Pc|pms-id:asm19/demo/1167|position:12|techniques:renoise, tooll|title:Meet mr internet|youtube:yfi9pfyvjLY
+author:RBBS|platform:PC|pms-id:asm19/demo/1224|position:13|techniques:Python OpenGL GLSL|title:Kuvakasetti|youtube:qVnMmtwduWc
+author:The Crux|platform:PC|pms-id:asm19/demo/1203|position:14|techniques:glsl|title:100% Recycled|youtube:lPuvMZLYOTI
 
 
 :section 64k intro
 :pms-category 64k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to maximum 65536 bytes on a high-end 2019 PC computer.</p>
 
-author:cbob/regression ventures|pms-id:asm19/64k_intro/1198|title:LA1984|youtube:AEJqN7IPs80
-author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|pms-id:asm19/64k_intro/1211|title:1989|youtube:dYcmPyHjyUg
-author:Iskiäinen|pms-id:asm19/64k_intro/1242|title:Devolutionary Design|youtube:DTYfZ4C_M-4
+author:Graphics & Direction : Metoikos / Music : Keen / Toolcode : BoyC & Gargaj|platform:PC|pms-id:asm19/64k_intro/1211|position:1|techniques:Apex|title:1989|youtube:dYcmPyHjyUg
+author:Iskiäinen|platform:Browser|pms-id:asm19/64k_intro/1242|position:2|techniques:WebGL|title:Devolutionary Design|youtube:DTYfZ4C_M-4
+author:cbob/regression ventures|platform:Ubuntu 19.04|pms-id:asm19/64k_intro/1198|position:3|techniques:bad c++, opengl, nostalgia|title:LA1984|youtube:AEJqN7IPs80
 
 
 :section 4k intro
 :pms-category 4k-intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2019 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:oo|pms-id:asm19/4k-intro/1126|title:Black Xor White|youtube:o8lFhsow0jU
-author:Faemiyah|pms-id:asm19/4k-intro/1170|title:Región de Magallanes|youtube:Y2VHjC16trA
-author:Fiture Crew Lamer Section|pms-id:asm19/4k-intro/1180|title:Bicycle Trip|youtube:QaywusQ6-Rk
-author:Unknown Artists & XZM|pms-id:asm19/4k-intro/1181|title:Stormriders|youtube:NAeFuk-_Dwo
-author:lucid|pms-id:asm19/4k-intro/1200|title:The End of Iceland|youtube:DdRDns7XIfk
-author:eos|pms-id:asm19/4k-intro/1215|title:terrarium|youtube:xLN3mTRlugs
+author:Unknown Artists & XZM|platform:Windows|pms-id:asm19/4k-intro/1181|position:1|techniques:dx11, crinkler, oidos, shader minifier|title:Stormriders|youtube:NAeFuk-_Dwo
+author:eos|platform:Windows|pms-id:asm19/4k-intro/1215|position:2|techniques:OpenGL Compute Shaders|title:terrarium|youtube:xLN3mTRlugs
+author:lucid|platform:PC|pms-id:asm19/4k-intro/1200|position:3|techniques:känni|title:The End of Iceland|youtube:DdRDns7XIfk
+author:Faemiyah|platform:Linux-ia32|pms-id:asm19/4k-intro/1170|position:4|techniques:dnload, ghostsyn, OpenGL 4.5|title:Región de Magallanes|youtube:Y2VHjC16trA
+author:oo|platform:PC|pms-id:asm19/4k-intro/1126|position:5|techniques:C++, GLSL, 4klang, Crinkler, GNU Rocket|title:Black Xor White|youtube:o8lFhsow0jU
+author:Fiture Crew Lamer Section|platform:Windows|pms-id:asm19/4k-intro/1180|position:6|techniques:Kompofillari All Terrain Bike|title:Bicycle Trip|youtube:QaywusQ6-Rk
 
 
 :section 1k intro
@@ -46,20 +46,20 @@ author:eos|pms-id:asm19/4k-intro/1215|title:terrarium|youtube:xLN3mTRlugs
 :pms-category 1k-intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2019 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
-author:The Neverstoppers|pms-id:asm19/1k-intro/970|title:Shimmering Madness|youtube:Hk0j0AUCoXA
-author:Bercon/HBC|pms-id:asm19/1k-intro/977|title:Fluid Dynamics 101|youtube:nBC54D0By6s
-author:Exca / Wide Load|pms-id:asm19/1k-intro/1016|title:Grid Filler|youtube:qc_rMcI4WMw
-author:rawArgon|pms-id:asm19/1k-intro/1048|title:decompose|youtube:Dv88MsHYrok
-author:knl, Ishy|pms-id:asm19/1k-intro/1141|title:pumpun korjaus|youtube:Ur3Ta0e37IM
-author:poro/Wide Load|pms-id:asm19/1k-intro/1169|title:Back to square one|youtube:yd-sVKPJC4E
-author:Nesci|pms-id:asm19/1k-intro/1178|title:Morning after and the mexican food is trying to find the exit|youtube:kKUa5NOzaXY
-author:oo|pms-id:asm19/1k-intro/1182|title:United Colors Of Coders|youtube:uhle-8eALnE
-author:p01/RIBBON|pms-id:asm19/1k-intro/1184|title:OUTER_M2|youtube:bzYm0nDFuc0
-author:Fiture Crew Lamer Section|pms-id:asm19/1k-intro/1193|title:Attack of the Mutant Boxes für Elise|youtube:LfPXG1cg54A
-author:FruitieX & Pingviinituutti|pms-id:asm19/1k-intro/1204|title:Emoji is ❤️|youtube:KdCLYq9trcA
-author:Digimind|pms-id:asm19/1k-intro/1212|title:Tech power ride|youtube:f_l0JL-_ZP0
-author:qma|pms-id:asm19/1k-intro/1214|title:Moetkoe|youtube:UJnm_pz4QS8
-author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining|youtube:Wvk8riqpEvE
+author:Seven|platform:PC|pms-id:asm19/1k-intro/1225|position:1|techniques:Raymarching, Midi, custom tools|title:Searching for the silver lining|youtube:Wvk8riqpEvE
+author:Digimind|platform:PC|pms-id:asm19/1k-intro/1212|position:2|techniques:Visual C++, Crinkler|title:Tech power ride|youtube:f_l0JL-_ZP0
+author:Bercon/HBC|platform:Modern browsers|pms-id:asm19/1k-intro/977|position:3|techniques:Javascript + Webgl|title:Fluid Dynamics 101|youtube:nBC54D0By6s
+author:p01/RIBBON|platform:Javascript|pms-id:asm19/1k-intro/1184|position:4|techniques:VSCode, JsExe, zopflipng, rezop, deflopt, defluff, gzThermal and <3|title:OUTER_M2|youtube:bzYm0nDFuc0
+author:knl, Ishy|platform:PC|pms-id:asm19/1k-intro/1141|position:5|techniques:ECMAScript 6|title:pumpun korjaus|youtube:Ur3Ta0e37IM
+author:Nesci|platform:PC|pms-id:asm19/1k-intro/1178|position:6|techniques:JavaScript, GLSL, Shader Minifier, JsExe|title:Morning after and the mexican food is trying to find the exit|youtube:kKUa5NOzaXY
+author:FruitieX & Pingviinituutti|platform:Browser|pms-id:asm19/1k-intro/1204|position:7|techniques:Ray marching, bytebeats|title:Emoji is ❤️|youtube:KdCLYq9trcA
+author:qma|platform:Browser|pms-id:asm19/1k-intro/1214|position:8|techniques:CanvasRenderingContext2D.ellipse()|title:Moetkoe|youtube:UJnm_pz4QS8
+author:rawArgon|platform:JavaScript|pms-id:asm19/1k-intro/1048|position:9|techniques:UglifyJS, pnginator|title:decompose|youtube:Dv88MsHYrok
+author:Fiture Crew Lamer Section|platform:Windows|pms-id:asm19/1k-intro/1193|position:10|techniques:Greetings to Buzzer|title:Attack of the Mutant Boxes für Elise|youtube:LfPXG1cg54A
+author:poro/Wide Load|platform:Browser / Webgl|pms-id:asm19/1k-intro/1169|position:11|techniques:jsExe, haxe|title:Back to square one|youtube:yd-sVKPJC4E
+author:Exca / Wide Load|platform:Browser|pms-id:asm19/1k-intro/1016|position:12|techniques:html, javascript, 2d canvas, webaudio|title:Grid Filler|youtube:qc_rMcI4WMw
+author:oo|platform:PC|pms-id:asm19/1k-intro/1182|position:13|techniques:C++, GLSL, Crinkler|title:United Colors Of Coders|youtube:uhle-8eALnE
+author:The Neverstoppers|platform:Windows, PowerShell|pms-id:asm19/1k-intro/970|position:14|techniques:Windows PowerShell script|title:Shimmering Madness|youtube:Hk0j0AUCoXA
 
 
 :section Real wild demo
@@ -67,11 +67,11 @@ author:Seven|pms-id:asm19/1k-intro/1225|title:Searching for the silver lining|yo
 :pms-category real_wild
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
-author:Code: Shiera & fractalpixel, Music: Shiera|pms-id:asm19/real_wild/942|title:KeyScreen|youtube:PdSLkUps5-8
-author:Dekadence|pms-id:asm19/real_wild/971|title:It's More Fun To Consume|youtube:vpEL7tsNsBQ
-author:KoomaDot|pms-id:asm19/real_wild/999|title:Attempt7|youtube:MA3w3S3dEO0
-author:Vanha Mediakunta|pms-id:asm19/real_wild/1037|title:Edeskäypä|youtube:dJA-Yx5M_pw
-author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|pms-id:asm19/real_wild/1176|title:Hacklab.fi mainos|youtube:ughpeSx7u64
+author:Vanha Mediakunta|platform:Raspberry pi, hyperpixel, lego EV3|pms-id:asm19/real_wild/1037|position:1|techniques:GLSL, c++, python, javascript, pishadertoy|title:Edeskäypä|youtube:dJA-Yx5M_pw
+author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|platform:Assembly Big Screen|pms-id:asm19/real_wild/1176|position:2|techniques:Linux for Jupiter 666 Video Computer System|title:Hacklab.fi mainos|youtube:ughpeSx7u64
+author:Code: Shiera & fractalpixel, Music: Shiera|platform:Logitech G810, Linux|pms-id:asm19/real_wild/942|position:3|techniques:keyleds, Lua, BeepBox|title:KeyScreen|youtube:PdSLkUps5-8
+author:KoomaDot|platform:Android|pms-id:asm19/real_wild/999|position:4|techniques:CF2.5, FLStudio|title:Attempt7|youtube:MA3w3S3dEO0
+author:Dekadence|platform:iPhone|pms-id:asm19/real_wild/971|position:5|techniques:100% UIKit (the iOS user interface framework)|title:It's More Fun To Consume|youtube:vpEL7tsNsBQ
 
 
 :section Oldskool demo
@@ -79,47 +79,47 @@ author:Hackers Media Industries® & Ville Jaakkola & Hacklab Helsinki|pms-id:asm
 :pms-category oldskool
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
-author:pasi toska|pms-id:asm19/oldskool/940|title:wobbly celebration|youtube:XLgeeX1NNdw
-author:Rustbloom|pms-id:asm19/oldskool/953|title:PYO PYO|youtube:twjoTwUcoP0
-author:RBBS / KBOL|pms-id:asm19/oldskool/1041|title:Jatkopistorasiat|youtube:BOK-lgfnrvA
-author:Extream|pms-id:asm19/oldskool/1045|title:Assum.|youtube:2-_sUQod9p4
-author:ADAPT feat. TRACTION|pms-id:asm19/oldskool/1128|title:IN THE 90's|youtube:a8ZXDWJY0eQ
-author:Void|pms-id:asm19/oldskool/1132|title:Catro|youtube:HuiwK1R7Hak
+author:Rustbloom|platform:PC|pms-id:asm19/oldskool/953|position:1|techniques:Open Watcom, hi-res 60 fps|title:PYO PYO|youtube:twjoTwUcoP0
+author:ADAPT feat. TRACTION|platform:PC DOS PENTIUM|pms-id:asm19/oldskool/1128|position:2|techniques:Watcom C++, Assembler, Fast Tracker II, 90's powers|title:IN THE 90's|youtube:a8ZXDWJY0eQ
+author:Extream|platform:Atari Falcon 030/14Mb|pms-id:asm19/oldskool/1045|position:3|techniques:Pure assembler|title:Assum.|youtube:2-_sUQod9p4
+author:pasi toska|platform:Nintendo GameBoy (DMG-01)|pms-id:asm19/oldskool/940|position:4|techniques:RGBDS, BGB, GB tracker|title:wobbly celebration|youtube:XLgeeX1NNdw
+author:Void|platform:Amiga OCS|pms-id:asm19/oldskool/1132|position:5|techniques:vasm, Propulse Tracker|title:Catro|youtube:HuiwK1R7Hak
+author:RBBS / KBOL|platform:C64 Old Sid|pms-id:asm19/oldskool/1041|position:6|techniques:CBM Prg Studio, Karmeliet, AMoeder|title:Jatkopistorasiat|youtube:BOK-lgfnrvA
 
 
 :section One scene demo
 :pms-category one_scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 
-author:supa & noby|pms-id:asm19/one_scene/1072|title:NSYNC|youtube:3ciW4HLmYCc#t=30m46s
-author:epoch|pms-id:asm19/one_scene/1081|title:efx|youtube:3ciW4HLmYCc#t=28m21s
+author:supa & noby|platform:PC|pms-id:asm19/one_scene/1072|position:1|techniques:Processing|title:NSYNC|youtube:3ciW4HLmYCc#t=30m46s
+author:epoch|platform:PC|pms-id:asm19/one_scene/1081|position:2|techniques:ATK|title:efx|youtube:3ciW4HLmYCc#t=28m21s
+author:Alcatraz|platform:PC / Web|pms-id:asm19/one_scene/1232|position:3|techniques:Cables.gl, skill|title:60 Seconds To Go|youtube:3ciW4HLmYCc#t=25m40s
+author:branch^IvoryLabs|platform:windows|pms-id:asm19/one_scene/1236|position:4|techniques:Shaders|title:The Known Unknown|youtube:3ciW4HLmYCc#t=27m2s
+author:tAAt|platform:PC|pms-id:asm19/one_scene/1233|position:5|techniques:Unity collab nooberationing|title:Donkey Island|youtube:3ciW4HLmYCc#t=14m53s
+author:GroovyOtter|platform:PC|pms-id:asm19/one_scene/1201|position:6|techniques:Processing|title:Space Signals|youtube:3ciW4HLmYCc#t=29m44s
+author:JjyKs|platform:PC|pms-id:asm19/one_scene/1230|position:7|techniques:Processing, Bosca Ceoil|title:Elements and balls|youtube:3ciW4HLmYCc#t=13m31s
+author:Bad Felix|platform:PC|pms-id:asm19/one_scene/1244|position:8|techniques:256 bytes of Processing source code|title:Future Architecture|youtube:3ciW4HLmYCc#t=10m31s
+author:Irah|platform:PC|pms-id:asm19/one_scene/1235|position:9|techniques:UE4, FL9|title:Mellow Mountain Spirits|youtube:3ciW4HLmYCc#t=20m
+author:papumaja|platform:PC/Browser|pms-id:asm19/one_scene/1239|position:10|techniques:WebGL, JavaScript, Audacity, My throat, Partycoding|title:Almost Everything, but not Quite Anything|youtube:3ciW4HLmYCc#t=6m51s
+author:FCCCF|platform:PC|pms-id:asm19/one_scene/1219|position:11|techniques:LÖVE, LMMS|title:Space Cat|youtube:3ciW4HLmYCc#t=23m36s
+author:Adellan|platform:PC|pms-id:asm19/one_scene/1218|position:12|techniques:Processing, mtPaint|title:Morning coffee|youtube:3ciW4HLmYCc#t=16m16s
+author:Noirek|platform:PC|pms-id:asm19/one_scene/1210|position:13|techniques:processing, Rocked|title:Facepalm|youtube:3ciW4HLmYCc#t=21m39s
+author:vaDOD|platform:PC|pms-id:asm19/one_scene/1199|position:14|techniques:Processing|title:Murrr|youtube:3ciW4HLmYCc#t=22m22s
+author:Siils|platform:PC|pms-id:asm19/one_scene/1245|position:15|techniques:Processing|title:Very, Very Frightening|youtube:3ciW4HLmYCc#t=8m2s
+author:Shiera|platform:Linux, Windows (for testing)|pms-id:asm19/one_scene/1234|position:16|techniques:Processing, BeepBox, easy shapes|title:AlienNight|youtube:3ciW4HLmYCc#t=5m50s
+author:BJAKKE|platform:PC, Windows|pms-id:asm19/one_scene/1229|position:17|techniques:Processing, LMMS|title:Nosto-kurki|youtube:3ciW4HLmYCc#t=4m56s
+author:Akinna|platform:PC|pms-id:asm19/one_scene/1197|position:18|techniques:Processing, Logic Pro X, minim, Rocket|title:Hypnosis|youtube:3ciW4HLmYCc#t=12m1s
+author:TucE|platform:PC|pms-id:asm19/one_scene/1226|position:19|techniques:Processing|title:Tšernobylin kuutio|youtube:3ciW4HLmYCc#t=24m52s
+author:nh3|platform:PC|pms-id:asm19/one_scene/1194|position:20|techniques:Processing|title:pain|youtube:3ciW4HLmYCc#t=3m58s
+author:mmmirushka|platform:Processing|pms-id:asm19/one_scene/1209|position:21|techniques:  |title:MAYHEM|youtube:3ciW4HLmYCc#t=19m14s
+author:Depili|platform:Processing 3|pms-id:asm19/one_scene/1188|position:22|techniques:Useless use of cat|title:Your great entry|youtube:3ciW4HLmYCc#t=11m26s
+author:narven|platform:Web (Shadertoy)|pms-id:asm19/one_scene/1237|position:23|techniques:GLSL|title:WtjXRz|youtube:3ciW4HLmYCc#t=3m2s
+author:Kaisa|platform:Processing|pms-id:asm19/one_scene/1207|position:24|techniques:human help|title:Abc|youtube:3ciW4HLmYCc#t=12m4s
+author:nisual|platform:anything that can run python|pms-id:asm19/one_scene/1227|position:25|techniques:python|title:ensimmaeinen|youtube:3ciW4HLmYCc#t=9m34s
+author:moziz|platform:Linux, GLFW, GLEW, OpenGL|pms-id:asm19/one_scene/1241|position:26|techniques:Party code from 0|title:Iloinen|youtube:3ciW4HLmYCc#t=5s
+author:BJAKKE|platform:PC, Windows|pms-id:asm19/one_scene/1243|position:27|techniques:256b Processing project file size|title:256 bytes of flashing stuff|youtube:3ciW4HLmYCc#t=2m11s
+author:BrushDev Advertising|platform:PC|pms-id:asm19/one_scene/1231|position:28|techniques:Processing, RGB|title:Shameless Advertising|youtube:3ciW4HLmYCc#t=1m15s
 author:Fiture Crew Lamer Section|pms-id:asm19/one_scene/1172|title:Sukset|youtube:3ciW4HLmYCc#t=17m4s
-author:Depili|pms-id:asm19/one_scene/1188|title:Your great entry|youtube:3ciW4HLmYCc#t=11m26s
-author:nh3|pms-id:asm19/one_scene/1194|title:pain|youtube:3ciW4HLmYCc#t=3m58s
-author:Akinna|pms-id:asm19/one_scene/1197|title:Hypnosis|youtube:3ciW4HLmYCc#t=12m1s
-author:vaDOD|pms-id:asm19/one_scene/1199|title:Murrr|youtube:3ciW4HLmYCc#t=22m22s
-author:GroovyOtter|pms-id:asm19/one_scene/1201|title:Space Signals|youtube:3ciW4HLmYCc#t=29m44s
-author:Kaisa|pms-id:asm19/one_scene/1207|title:Abc|youtube:3ciW4HLmYCc#t=12m4s
-author:mmmirushka|pms-id:asm19/one_scene/1209|title:MAYHEM|youtube:3ciW4HLmYCc#t=19m14s
-author:Noirek|pms-id:asm19/one_scene/1210|title:Facepalm|youtube:3ciW4HLmYCc#t=21m39s
-author:Adellan|pms-id:asm19/one_scene/1218|title:Morning coffee|youtube:3ciW4HLmYCc#t=16m16s
-author:FCCCF|pms-id:asm19/one_scene/1219|title:Space Cat|youtube:3ciW4HLmYCc#t=23m36s
-author:TucE|pms-id:asm19/one_scene/1226|title:Tšernobylin kuutio|youtube:3ciW4HLmYCc#t=24m52s
-author:nisual|pms-id:asm19/one_scene/1227|title:ensimmaeinen|youtube:3ciW4HLmYCc#t=9m34s
-author:BJAKKE|pms-id:asm19/one_scene/1229|title:Nosto-kurki|youtube:3ciW4HLmYCc#t=4m56s
-author:JjyKs|pms-id:asm19/one_scene/1230|title:Elements and balls|youtube:3ciW4HLmYCc#t=13m31s
-author:BrushDev Advertising|pms-id:asm19/one_scene/1231|title:Shameless Advertising|youtube:3ciW4HLmYCc#t=1m15s
-author:Alcatraz|pms-id:asm19/one_scene/1232|title:60 Seconds To Go|youtube:3ciW4HLmYCc#t=25m40s
-author:tAAt|pms-id:asm19/one_scene/1233|title:Donkey Island|youtube:3ciW4HLmYCc#t=14m53s
-author:Shiera|pms-id:asm19/one_scene/1234|title:AlienNight|youtube:3ciW4HLmYCc#t=5m50s
-author:Irah|pms-id:asm19/one_scene/1235|title:Mellow Mountain Spirits|youtube:3ciW4HLmYCc#t=20m
-author:branch^IvoryLabs|pms-id:asm19/one_scene/1236|title:The Known Unknown|youtube:3ciW4HLmYCc#t=27m2s
-author:narven|pms-id:asm19/one_scene/1237|title:WtjXRz|youtube:3ciW4HLmYCc#t=3m2s
-author:papumaja|pms-id:asm19/one_scene/1239|title:Almost Everything, but not Quite Anything|youtube:3ciW4HLmYCc#t=6m51s
-author:moziz|pms-id:asm19/one_scene/1241|title:Iloinen|youtube:3ciW4HLmYCc#t=5s
-author:BJAKKE|pms-id:asm19/one_scene/1243|title:256 bytes of flashing stuff|youtube:3ciW4HLmYCc#t=2m11s
-author:Bad Felix|pms-id:asm19/one_scene/1244|title:Future Architecture|youtube:3ciW4HLmYCc#t=10m31s
-author:Siils|pms-id:asm19/one_scene/1245|title:Very, Very Frightening|youtube:3ciW4HLmYCc#t=8m2s
 
 
 :section Short film
@@ -127,18 +127,18 @@ author:Siils|pms-id:asm19/one_scene/1245|title:Very, Very Frightening|youtube:3c
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
-author:Ihmisroboidit|pms-id:asm19/short_film/950|title:Kapina|youtube:UEmrrpqDUfc
-author:Pistoke|pms-id:asm19/short_film/959|title:Ten Years|youtube:_Q-PHXAOQww
-author:Fixxelious|pms-id:asm19/short_film/961|title:The Frame|youtube:xglvlYHKmIE
-author:NinjaBaka|pms-id:asm19/short_film/969|title:Leaps|youtube:7xnXadiFq1g
-author:tAAt 2019|pms-id:asm19/short_film/982|title:Neon Heartburn - Värinärästys|youtube:a5ALNN1q924
-author:Keuhkovammaistenliitto|pms-id:asm19/short_film/991|title:Seitto|youtube:8ffkI3cxAxw
-author:Mentally Deranged|pms-id:asm19/short_film/1013|title:Rocketman|youtube:7Svi22aDX-w
-author:Mergente & The Meemihopot|pms-id:asm19/short_film/1056|title:The Heist|youtube:18QVQxBcOg8
-author:HBC|pms-id:asm19/short_film/1057|title:HBC-00018: A Bus Ride|youtube:D1e7xKD91RQ
-author:SBA|pms-id:asm19/short_film/1082|title:God's Sake|youtube:vPq6cxEvqEM
-author:PuudiPai|pms-id:asm19/short_film/1131|title:Last Assembly I Asked You|youtube:5P4j-6b93qM
-author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon|youtube:a1LzjsSo_t8
+author:SBA|platform:-|pms-id:asm19/short_film/1082|position:1|techniques:kotivideo|title:God's Sake|youtube:vPq6cxEvqEM
+author:HBC|platform:PC|pms-id:asm19/short_film/1057|position:2|techniques:Blender, KDenLive, GIMP, After Effects, Photoshop|title:HBC-00018: A Bus Ride|youtube:D1e7xKD91RQ
+author:tAAt 2019|platform:Any smart fridge with video playback support|pms-id:asm19/short_film/982|position:3|techniques:Video camera, Random code and gfx, Mad video editing skillz|title:Neon Heartburn - Värinärästys|youtube:a5ALNN1q924
+author:Pistoke|platform:-|pms-id:asm19/short_film/959|position:4|techniques:Blender, Eevee, After Effects|title:Ten Years|youtube:_Q-PHXAOQww
+author:Mentally Deranged|platform:PC|pms-id:asm19/short_film/1013|position:5|techniques:Cubase, Nord Stage, Minecraft, Adobe Premiere|title:Rocketman|youtube:7Svi22aDX-w
+author:DatafoxStudios / Melodïcore|platform:Blender, FL Studio|pms-id:asm19/short_film/1137|position:6|techniques:60fps raytracing takes weeks to render...|title:Tachyon|youtube:a1LzjsSo_t8
+author:Ihmisroboidit|platform:Video|pms-id:asm19/short_film/950|position:7|techniques:C=64 kännykkä sekatekniikka|title:Kapina|youtube:UEmrrpqDUfc
+author:Mergente & The Meemihopot|platform:PC|pms-id:asm19/short_film/1056|position:8|techniques:Huawei P30, FL Studio, Mazda Miata|title:The Heist|youtube:18QVQxBcOg8
+author:Keuhkovammaistenliitto|platform:PC|pms-id:asm19/short_film/991|position:9|techniques:Ultra Fractal 6, Gimp, 8-Bit PhotoLab, Logic Pro X, Adobe Illustrator|title:Seitto|youtube:8ffkI3cxAxw
+author:Fixxelious|platform:PC|pms-id:asm19/short_film/961|position:10|techniques:Blender 2.8, Substance Designer, AIR Ignite|title:The Frame|youtube:xglvlYHKmIE
+author:NinjaBaka|platform:Windows, PC|pms-id:asm19/short_film/969|position:11|techniques:Blender 2.8, Eevee|title:Leaps|youtube:7xnXadiFq1g
+author:PuudiPai|platform:High quality video|pms-id:asm19/short_film/1131|position:12|techniques:Phone and Assembly (ei se koodikieli)|title:Last Assembly I Asked You|youtube:5P4j-6b93qM
 
 
 :section Gamedev
@@ -146,21 +146,21 @@ author:DatafoxStudios / Melodïcore|pms-id:asm19/short_film/1137|title:Tachyon|y
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
-author:Shiptoad|pms-id:asm19/gamedev/886|title:Junkships|youtube:ppKPk1wV0zU
-author:Ilu/Roimis/Lehtori R.|pms-id:asm19/gamedev/887|title:Hanging Man|youtube:hzEn7eRgOXg
-author:Kristian Kallio, Mikko Peltola, Anssi Remes|pms-id:asm19/gamedev/896|title:Dashbot Ninja|youtube:AToD4RSPYMU
-author:Crimson King|pms-id:asm19/gamedev/898|title:Class Dismissed|youtube:JrweJ4HIY0c
-author:Piece of Cake|pms-id:asm19/gamedev/899|title:Pete's Party: Operation toygun|youtube:whPk1JZJkSU
-author:Finity Games|pms-id:asm19/gamedev/901|title:Absurdasia Demo|youtube:xLVLOB9FuC8
-author:RoboDogo|pms-id:asm19/gamedev/905|title:Hope Adrift|youtube:ncRNl_Ot-lo
-author:Team Grappling Hook|pms-id:asm19/gamedev/910|title:Toy Thieves|youtube:k5emUwrUCjI
-author:Damones|pms-id:asm19/gamedev/913|title:Jolly Jumpers|youtube:rulvEPhaR1Y
-author:Tekotuotanto|pms-id:asm19/gamedev/914|title:GUNSHIP|youtube:psxSu6_su_U
-author:KAMK and Kajak Games|description:Authors: Sipi Raussi, Touko Niininen, Henri Oinonen, Juuso Myllylä, Joonas Tuominen, Riikka Kilpeläinen, Piia Kemppainen, Kaisa Kukkura, Rami Tammela, Antti Turunen, Jarkko Lappalainen, Elias Massa, Tuisku Penttilä, Tuomas Suokko, Jan Kajavo|pms-id:asm19/gamedev/915|title:Korpus: Buried over the Black Soil|youtube:2fd-MgdwNhs
-author:Skeleton Crew|pms-id:asm19/gamedev/916|title:Skeltal Game|youtube:JZO6mw6VvB4
-author:Team MYB|pms-id:asm19/gamedev/917|title:Stellar Leap|youtube:nRenLshHeTc
-author:BrushDev|pms-id:asm19/gamedev/918|title:Nettiä Etsimässä|youtube:QiIuqjZMuGI
-author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä|youtube:46cWEQnf0Ew
+author:Tekotuotanto|platform:PC|pms-id:asm19/gamedev/914|position:1|techniques:Unreal Engine|title:GUNSHIP|youtube:psxSu6_su_U
+author:Ilu/Roimis/Lehtori R.|platform:Android|pms-id:asm19/gamedev/887|position:2|techniques:Unreal Engine 4, Paint, Reason, Cubase|title:Hanging Man|youtube:hzEn7eRgOXg
+author:Shiptoad|platform:PC|pms-id:asm19/gamedev/886|position:3|techniques:Pixelart|title:Junkships|youtube:ppKPk1wV0zU
+author:Kristian Kallio, Mikko Peltola, Anssi Remes|platform:Mobile|pms-id:asm19/gamedev/896|position:4|techniques:Unity|title:Dashbot Ninja|youtube:AToD4RSPYMU
+author:Damones|platform:Android|pms-id:asm19/gamedev/913|position:5|techniques:Unity, C#, MagicaVoxel, Photoshop, Mad Skillz, Beer|title:Jolly Jumpers|youtube:rulvEPhaR1Y
+author:Viikon Vanha Spagetti|platform:Win/Mac/Linux|pms-id:asm19/gamedev/921|position:6|techniques:Godot|title:Paakari Pinteessä|youtube:46cWEQnf0Ew
+author:KAMK and Kajak Games|description:Authors: Sipi Raussi, Touko Niininen, Henri Oinonen, Juuso Myllylä, Joonas Tuominen, Riikka Kilpeläinen, Piia Kemppainen, Kaisa Kukkura, Rami Tammela, Antti Turunen, Jarkko Lappalainen, Elias Massa, Tuisku Penttilä, Tuomas Suokko, Jan Kajavo|platform:PC|pms-id:asm19/gamedev/915|position:7|techniques:Game Development|title:Korpus: Buried over the Black Soil|youtube:2fd-MgdwNhs
+author:RoboDogo|platform:PC|pms-id:asm19/gamedev/905|position:8|title:Hope Adrift|youtube:ncRNl_Ot-lo
+author:Piece of Cake|platform:PC|pms-id:asm19/gamedev/899|position:9|techniques:unity, adobe products and blender|title:Pete's Party: Operation toygun|youtube:whPk1JZJkSU
+author:Team MYB|platform:PC|pms-id:asm19/gamedev/917|position:10|techniques:Unity, 3D tools|title:Stellar Leap|youtube:nRenLshHeTc
+author:BrushDev|platform:PC|pms-id:asm19/gamedev/918|position:11|techniques:Unity, time|title:Nettiä Etsimässä|youtube:QiIuqjZMuGI
+author:Crimson King|platform:PC|pms-id:asm19/gamedev/898|position:12|title:Class Dismissed|youtube:JrweJ4HIY0c
+author:Skeleton Crew|platform:PC|pms-id:asm19/gamedev/916|position:13|title:Skeltal Game|youtube:JZO6mw6VvB4
+author:Team Grappling Hook|platform:PC|pms-id:asm19/gamedev/910|position:14|title:Toy Thieves|youtube:k5emUwrUCjI
+author:Finity Games|platform:Android phones and tablets|pms-id:asm19/gamedev/901|position:15|techniques:Unity3D legacy GUI, colour pencils, SFX and music (no 3D used!)|title:Absurdasia Demo|youtube:xLVLOB9FuC8
 
 
 :section Tracked music
@@ -168,16 +168,16 @@ author:Viikon Vanha Spagetti|pms-id:asm19/gamedev/921|title:Paakari Pinteessä|y
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 
-author:Paokala|pms-id:asm19/tracked_music/928|title:Metalstorm|youtube:pj1d6h2ag98
-author:Buzzer/Brainstorm|pms-id:asm19/tracked_music/933|title:Left Behind|youtube:3dMkrycsDy8
-author:la_mettrie|pms-id:asm19/tracked_music/934|title:Matka osoiteavaruuteen|youtube:qDB_RTOEplw
-author:Dascon & Bonefish|pms-id:asm19/tracked_music/994|title:Bullet Time|youtube:DX6tOU536vY
-author:Serpent/Brainstorm + Rapture|pms-id:asm19/tracked_music/998|title:Parking Lot In Space|youtube:4WRJKTF_PYk
-author:Chipremacy|pms-id:asm19/tracked_music/1028|title:Escape from Desert Planet|youtube:9TODW7vvLAc
-author:Deetail / Zenon|pms-id:asm19/tracked_music/1036|title:One Last Time|youtube:TsUQzmDTzGc
-author:rawArgon|pms-id:asm19/tracked_music/1044|title:Dr. Fily's Funky Fireplanet Escape|youtube:7X6cTvj-8J0
-author:Roz / Fit ^ Byterapers|pms-id:asm19/tracked_music/1117|title:Fluctuations|youtube:HkrPxEuUCi8
-author:Laurikka|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyLKKA
+author:Serpent/Brainstorm + Rapture|platform:PC|pms-id:asm19/tracked_music/998|position:1|techniques:Fasttracker 2, PC, samples|title:Parking Lot In Space|youtube:4WRJKTF_PYk
+author:Roz / Fit ^ Byterapers|platform:Protracker|pms-id:asm19/tracked_music/1117|position:2|techniques:4 channel MOD, 350 kb, AMIGAAAH!|title:Fluctuations|youtube:HkrPxEuUCi8
+author:Paokala|platform:PC|pms-id:asm19/tracked_music/928|position:3|techniques:MilkyTracker|title:Metalstorm|youtube:pj1d6h2ag98
+author:la_mettrie|platform:IT (Impulse Tracker)|pms-id:asm19/tracked_music/934|position:4|techniques:wine::OpenMPT|title:Matka osoiteavaruuteen|youtube:qDB_RTOEplw
+author:Dascon & Bonefish|platform:Amigaaaaaaa 4ch mod|pms-id:asm19/tracked_music/994|position:5|techniques:Skillz|title:Bullet Time|youtube:DX6tOU536vY
+author:Buzzer/Brainstorm|platform:PC|pms-id:asm19/tracked_music/933|position:6|techniques:Fasttracker 2 Clone|title:Left Behind|youtube:3dMkrycsDy8
+author:Deetail / Zenon|platform:Amiga|pms-id:asm19/tracked_music/1036|position:7|techniques:Protracker|title:One Last Time|youtube:TsUQzmDTzGc
+author:Chipremacy|platform:Mac|pms-id:asm19/tracked_music/1028|position:8|techniques:Milky Tracker (8 channels)|title:Escape from Desert Planet|youtube:9TODW7vvLAc
+author:rawArgon|platform:PC|pms-id:asm19/tracked_music/1044|position:9|techniques:Fasttracker II clone, 32kB on the button|title:Dr. Fily's Funky Fireplanet Escape|youtube:7X6cTvj-8J0
+author:Laurikka|platform:PC|pms-id:asm19/tracked_music/1136|position:10|techniques:Fastracker II|title:Kilopolis|youtube:5tdAicyLKKA
 
 
 :section Listening music
@@ -185,20 +185,20 @@ author:Laurikka|pms-id:asm19/tracked_music/1136|title:Kilopolis|youtube:5tdAicyL
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
-author:Buzzer/Brainstorm|pms-id:asm19/listening_music/925|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
-author:Aikapallo|pms-id:asm19/listening_music/937|title:Whip and Iron|youtube:DXJvYTXyGFo
-author:E621|pms-id:asm19/listening_music/947|title:Vector Fields|youtube:RZnwnTcHaew
-author:Ephmerix|pms-id:asm19/listening_music/968|title:Affliction|youtube:RSOlFzfx1XY
-author:HBR|pms-id:asm19/listening_music/986|title:Late Night Highway|youtube:RpYZfVvVDFw
-author:Bamsekarhu|pms-id:asm19/listening_music/1005|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)|youtube:cO_fFmA6akM
-author:Signal|pms-id:asm19/listening_music/1009|title:Dogfighter|youtube:z1JZVeiR96k
-author:Chipremacy|pms-id:asm19/listening_music/1024|title:Chipstorm|youtube:n9eriW6-TvE
-author:Lohis / Tekotuotanto|pms-id:asm19/listening_music/1038|title:Fire Rain|youtube:5WcPAkzos7A
-author:Laurikka|pms-id:asm19/listening_music/1060|title:Irjala takaisin|youtube:Z435NMOdYUA
-author:Jon Tardis|pms-id:asm19/listening_music/1065|title:Gunpowder|youtube:gcwkwbAa1co
-author:Downgone / 242|pms-id:asm19/listening_music/1083|title:Funkmonstrotron|youtube:bKcLjSOFtbg
-author:Roz / Fit ^ Byterapers (ft. Yzi)|pms-id:asm19/listening_music/1088|title:Dark Middleage|youtube:yoAFOIKxvwo
-author:Yzi|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|youtube:LPvVvD4hSu8
+author:Chipremacy|platform:Mac|pms-id:asm19/listening_music/1024|position:1|techniques:Logic X, Electric guitar|title:Chipstorm|youtube:n9eriW6-TvE
+author:Yzi|platform:Mac|pms-id:asm19/listening_music/1113|position:2|techniques:Greetings to Buzzer|title:Talbot Horizon Night Drive|youtube:LPvVvD4hSu8
+author:Aikapallo|platform:PC|pms-id:asm19/listening_music/937|position:3|techniques:Cubase, synths, bass and guitars.|title:Whip and Iron|youtube:DXJvYTXyGFo
+author:Bamsekarhu|platform:PC|pms-id:asm19/listening_music/1005|position:4|techniques:Cubase 10, Steinberg CI 2, Se2200aII, throat, cheap-ass acoustic guitar, Jackson Stratocaster, some vsts|title:Let the People Drink From the Black Juice of the Brewcophagus  (Oh No I've Run Out of Coffee)|youtube:cO_fFmA6akM
+author:HBR|platform:PC|pms-id:asm19/listening_music/986|position:5|techniques:FL Studio 20|title:Late Night Highway|youtube:RpYZfVvVDFw
+author:Buzzer/Brainstorm|platform:PC|pms-id:asm19/listening_music/925|position:6|techniques:Reason & Wavelab|title:Pappan Muovisyntikka|youtube:BCgAaxEa1NQ
+author:Signal|platform:PC|pms-id:asm19/listening_music/1009|position:7|techniques:Cubase|title:Dogfighter|youtube:z1JZVeiR96k
+author:Ephmerix|platform:PC|pms-id:asm19/listening_music/968|position:8|techniques:Ableton 10|title:Affliction|youtube:RSOlFzfx1XY
+author:Roz / Fit ^ Byterapers (ft. Yzi)|platform:PC|pms-id:asm19/listening_music/1088|position:9|techniques:Cubase, Omnisphere, Kontakt, SH-2, Yzi's mad guitar skills|title:Dark Middleage|youtube:yoAFOIKxvwo
+author:Jon Tardis|platform:PC|pms-id:asm19/listening_music/1065|position:10|techniques:Ableton Live, Serum, Diva etc|title:Gunpowder|youtube:gcwkwbAa1co
+author:Lohis / Tekotuotanto|platform:PC|pms-id:asm19/listening_music/1038|position:11|techniques:Renoise|title:Fire Rain|youtube:5WcPAkzos7A
+author:Laurikka|platform:8580 SID|pms-id:asm19/listening_music/1060|position:12|techniques:GoatTracker, recorded from my 128Dcr|title:Irjala takaisin|youtube:Z435NMOdYUA
+author:E621|platform:Mac|pms-id:asm19/listening_music/947|position:13|techniques:Logic X, synths|title:Vector Fields|youtube:RZnwnTcHaew
+author:Downgone / 242|platform:PC|pms-id:asm19/listening_music/1083|position:14|techniques:Fl studio, guitar + no sleep|title:Funkmonstrotron|youtube:bKcLjSOFtbg
 
 
 :section Fast music
@@ -206,27 +206,27 @@ author:Yzi|pms-id:asm19/listening_music/1113|title:Talbot Horizon Night Drive|yo
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
-author:Todella Järkyttävän Saksalainen Mies|pms-id:asm19/fast_music/1142|title:Gas Station|youtube:RKSXxSIeKzQ
-author:Roz / Fit ^ Byterapers|pms-id:asm19/fast_music/1144|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
-author:Carrox|pms-id:asm19/fast_music/1146|title:Fake Start|youtube:PRbIixvCkfY
-author:Lohis / Tekotuotanto|pms-id:asm19/fast_music/1147|title:Rainbow Route to Unicorn Dragonland|youtube:-PBnXP-YUdI
-author:Yzi|pms-id:asm19/fast_music/1148|title:FUTURE EDMCORE|youtube:N1UBRDRnsVk
-author:Jarsk1e|pms-id:asm19/fast_music/1149|title:Love You Too|youtube:AuQVJmycmvk
-author:tArzAn|pms-id:asm19/fast_music/1150|title:taantuma os-tos-reissulla|youtube:DScgLcDMNP4
-author:Dj Jumankeissi|pms-id:asm19/fast_music/1151|title:24 euroshopper energydrinks?!|youtube:aw3C5FNaNYQ
-author:Shiera|pms-id:asm19/fast_music/1152|title:Happy Flutter|youtube:DB9f_SHRd1A
-author:Ephmerix|pms-id:asm19/fast_music/1153|title:Happy Dayz|youtube:cIM7yGp8NQE
-author:Dj Rakofobia|pms-id:asm19/fast_music/1154|title:Happy happy JumpAround|youtube:9_lAZdXeSE8
-author:Raztaman|pms-id:asm19/fast_music/1155|title:lets b 8bit happy|youtube:qRMlqLH_fVE
-author:shinmai/McBurrobit|pms-id:asm19/fast_music/1156|title:Punchdrunk|youtube:dBLV9VWCCVo
-author:Chipremacy|pms-id:asm19/fast_music/1157|title:Tein tosi nopeesti tämmösen|youtube:ruEkE2-Ffg0
-author:Tha dayzes|pms-id:asm19/fast_music/1158|title:Membah|youtube:eExLSNWcQkk
-author:mayday/hedelmae|pms-id:asm19/fast_music/1159|title:alert|youtube:gY4aMXG6nuA
-author:ihanalammas|pms-id:asm19/fast_music/1160|title:I don't even|youtube:6P706F57p4w
-author:BAMSEKARHU|pms-id:asm19/fast_music/1161|title:NAKKI ANTHEM|youtube:mogMNS6OgHk
-author:rawArgon|pms-id:asm19/fast_music/1162|title:Cherry Cotton Candy Megablaster|youtube:RyNxfXKWp5E
-author:Old Moubit|pms-id:asm19/fast_music/1163|title:OwO Whats this|youtube:X2UoSal2WMk
-author:-?-|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
+author:Lohis / Tekotuotanto|platform:PC|pms-id:asm19/fast_music/1147|position:1|techniques:Renoise|title:Rainbow Route to Unicorn Dragonland|youtube:-PBnXP-YUdI
+author:Roz / Fit ^ Byterapers|platform:XM|pms-id:asm19/fast_music/1144|position:2|techniques:Fasttracker 2|title:Thunderdomekarukoski|youtube:N8Q9aF0eVQw
+author:rawArgon|platform:PC Reason|pms-id:asm19/fast_music/1162|position:3|techniques:Your speakers will explod in 60 seconds|title:Cherry Cotton Candy Megablaster|youtube:RyNxfXKWp5E
+author:Ephmerix|platform:PC|pms-id:asm19/fast_music/1153|position:4|techniques:Ableton 10|title:Happy Dayz|youtube:cIM7yGp8NQE
+author:tArzAn|platform:PC|pms-id:asm19/fast_music/1150|position:5|techniques:Schism Tracker|title:taantuma os-tos-reissulla|youtube:DScgLcDMNP4
+author:Dj Jumankeissi|platform:pc|pms-id:asm19/fast_music/1151|position:6|techniques:24 euroshopper energydrinks|title:24 euroshopper energydrinks?!|youtube:aw3C5FNaNYQ
+author:mayday/hedelmae|platform:Amiga|pms-id:asm19/fast_music/1159|position:7|techniques:Protracker|title:alert|youtube:gY4aMXG6nuA
+author:Old Moubit|platform:PC|pms-id:asm19/fast_music/1163|position:8|techniques:FL Studio 20|title:OwO Whats this|youtube:X2UoSal2WMk
+author:Carrox|platform:FL Studio|pms-id:asm19/fast_music/1146|position:9|techniques:nopee|title:Fake Start|youtube:PRbIixvCkfY
+author:Chipremacy|platform:Mac|pms-id:asm19/fast_music/1157|position:10|techniques:Logic X|title:Tein tosi nopeesti tämmösen|youtube:ruEkE2-Ffg0
+author:Jarsk1e|platform:PC|pms-id:asm19/fast_music/1149|position:11|techniques:Renoise 2.8.2|title:Love You Too|youtube:AuQVJmycmvk
+author:Dj Rakofobia|platform:Ableton Live 10|pms-id:asm19/fast_music/1154|position:12|techniques:Battery.. lots of Battery|title:Happy happy JumpAround|youtube:9_lAZdXeSE8
+author:Yzi|platform:ARPEGGIO IS RETRO|pms-id:asm19/fast_music/1148|position:13|techniques:UPPERCASE IS THE NEW LOWERCASE|title:FUTURE EDMCORE|youtube:N1UBRDRnsVk
+author:BAMSEKARHU|platform:pc|pms-id:asm19/fast_music/1161|position:14|techniques:Cubase 10, shitty headset, freeware vst|title:NAKKI ANTHEM|youtube:mogMNS6OgHk
+author:Raztaman|platform:Music android|pms-id:asm19/fast_music/1155|position:15|techniques:Caustic|title:lets b 8bit happy|youtube:qRMlqLH_fVE
+author:ihanalammas|platform:PC, MP3|pms-id:asm19/fast_music/1160|position:16|techniques:SONAR, free VSTs|title:I don't even|youtube:6P706F57p4w
+author:Tha dayzes|platform:Pc|pms-id:asm19/fast_music/1158|position:17|techniques:Reason|title:Membah|youtube:eExLSNWcQkk
+author:shinmai/McBurrobit|pms-id:asm19/fast_music/1156|position:18|techniques:supersaw|title:Punchdrunk|youtube:dBLV9VWCCVo
+author:Shiera|platform:Linux|pms-id:asm19/fast_music/1152|position:19|techniques:BeepBox|title:Happy Flutter|youtube:DB9f_SHRd1A
+author:-?-|pms-id:asm19/fast_music/1164|position:20|techniques:BeepBox SLAP ALL THE NOTES|title:grandalf|youtube:89jVO5PPxdA
+author:Todella Järkyttävän Saksalainen Mies|platform:Äpl Mäk Tietokone|pms-id:asm19/fast_music/1142|position:21|techniques:GarageBand, Brain damage|title:Gas Station|youtube:RKSXxSIeKzQ
 
 
 :section Dance music
@@ -234,133 +234,133 @@ author:-?-|pms-id:asm19/fast_music/1164|title:grandalf|youtube:89jVO5PPxdA
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
 
-author:Buzzer/Brainstorm|pms-id:asm19/dance_music/926|title:Plan B!|youtube:fLAtqQMTq50
-author:Ephmerix|pms-id:asm19/dance_music/978|title:Mirage|youtube:0Rb-DMPpbmE
-author:HBR & Mari|pms-id:asm19/dance_music/988|title:The Way That Leads to You|youtube:QvH81aTxWvg
-author:Avenum|pms-id:asm19/dance_music/990|title:Delight '08|youtube:w8WXGxwMHpU
-author:DJ Joge /Brainstorm|pms-id:asm19/dance_music/996|title:Soul Sorrow|youtube:MyfaCd_CnFg
-author:Florida Man|pms-id:asm19/dance_music/1022|title:Florida Man|youtube:utMDs48tDec
-author:Signal|pms-id:asm19/dance_music/1027|title:Love and Laserbeams|youtube:FPS28aTea7c
-author:rawArgon|pms-id:asm19/dance_music/1042|title:Speedrunner's Purgatory|youtube:lOX8eI88MQM
-author:Laurikka|pms-id:asm19/dance_music/1059|title:Boston Satanics|youtube:0w70PQoF0pI
-author:Jon Tardis|pms-id:asm19/dance_music/1067|title:RGB|youtube:DLD0byQNoqw
-author:Jumankeissi|pms-id:asm19/dance_music/1095|title:12 year old (expired) Gabbajuice!!!|youtube:ZCrkyNEbfGs
-author:Roz|pms-id:asm19/dance_music/1119|title:Shore Thing|youtube:nwrFgsGqFgQ
-author:noby|pms-id:asm19/dance_music/1120|title:The Corporation|youtube:_fxTaG7EiAU
+author:Florida Man|platform:PC|pms-id:asm19/dance_music/1022|position:1|techniques:I made this :)|title:Florida Man|youtube:utMDs48tDec
+author:HBR & Mari|platform:PC|pms-id:asm19/dance_music/988|position:2|techniques:FL Studio 20|title:The Way That Leads to You|youtube:QvH81aTxWvg
+author:Jumankeissi|platform:PC|pms-id:asm19/dance_music/1095|position:3|techniques:Fl studio + GABBA|title:12 year old (expired) Gabbajuice!!!|youtube:ZCrkyNEbfGs
+author:noby|platform:Ears|pms-id:asm19/dance_music/1120|position:4|techniques:Renoise 2.8, Virtual Analog DSP|title:The Corporation|youtube:_fxTaG7EiAU
+author:Buzzer/Brainstorm|platform:PC|pms-id:asm19/dance_music/926|position:5|techniques:Reason & Wavelab|title:Plan B!|youtube:fLAtqQMTq50
+author:Avenum|platform:PC|pms-id:asm19/dance_music/990|position:6|techniques:FL 12|title:Delight '08|youtube:w8WXGxwMHpU
+author:DJ Joge /Brainstorm|platform:PC|pms-id:asm19/dance_music/996|position:7|techniques:Renoise, Sylenth, Spire, Omnispehere etc... the usuals..|title:Soul Sorrow|youtube:MyfaCd_CnFg
+author:Roz|platform:PC|pms-id:asm19/dance_music/1119|position:8|techniques:Cubase, Omnisphere, PLUR <3|title:Shore Thing|youtube:nwrFgsGqFgQ
+author:rawArgon|platform:PC|pms-id:asm19/dance_music/1042|position:9|techniques:Reason|title:Speedrunner's Purgatory|youtube:lOX8eI88MQM
+author:Ephmerix|platform:PC|pms-id:asm19/dance_music/978|position:10|techniques:Ableton 10|title:Mirage|youtube:0Rb-DMPpbmE
+author:Signal|platform:PC|pms-id:asm19/dance_music/1027|position:11|techniques:Cubase|title:Love and Laserbeams|youtube:FPS28aTea7c
+author:Laurikka|platform:PC|pms-id:asm19/dance_music/1059|position:12|techniques:Jamming until it felt groovy|title:Boston Satanics|youtube:0w70PQoF0pI
+author:Jon Tardis|platform:PC|pms-id:asm19/dance_music/1067|position:13|techniques:Ableton Live, Serum etc|title:RGB|youtube:DLD0byQNoqw
 
 
 :section Graphics
 :pms-category graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
-author:NinjaBaka|image-file:graphics/1-McCall System_nosig.png|pms-id:asm19/graphics/966|title:McCall System
-author:Darkki|image-file:graphics/12-The_Birdkeeper.png|pms-id:asm19/graphics/995|title:The Birdkeeper
-author:emtastik|image-file:graphics/4-thekingisdead_nosig.jpg|pms-id:asm19/graphics/1001|title:The King is Dead
-author:aarnis|image-file:graphics/2-karppi-2-0nosig.jpg|pms-id:asm19/graphics/1006|title:Karppi 2.0
-author:Plasticbunny|image-file:graphics/7-Worshippers_of_the_Great_Giant_nosig.png|pms-id:asm19/graphics/1008|title:Worshippers of the Great Giant
-author:Ukkis|image-file:graphics/6-Troll_nosig.png|pms-id:asm19/graphics/1015|title:Troll
-author:maxon / HBC|image-file:graphics/8-Golden_Cable_Hunters_nosig.png|pms-id:asm19/graphics/1032|title:Golden Cable Hunters
-author:Neotheta|image-file:graphics/9-RoaringThunder_nosig.png|pms-id:asm19/graphics/1047|title:Roaring Thunder
-author:Surround|image-file:graphics/5-Pesky_intrudersnosig.jpg|pms-id:asm19/graphics/1049|title:Pesky intruders
-author:Partikle|image-file:graphics/11-Terror_from_the_deep_nosig.jpg|pms-id:asm19/graphics/1050|title:Terror from the deep
-author:JJ|image-file:graphics/13-disney_artist_on_lunchbreak_2049_colorized.png|pms-id:asm19/graphics/1055|title:Disney artist on lunchbreak (2049, Colorized)
-author:peippo|image-file:graphics/3-sinister-rituals-nosig.jpg|pms-id:asm19/graphics/1066|title:Sinister Rituals
-author:none|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg|pms-id:asm19/graphics/1135|title:Babyfood Express
+author:Darkki|image-file:graphics/12-The_Birdkeeper.png|platform:PC|pms-id:asm19/graphics/995|position:1|techniques:3dsmax, zbrush, corona renderer, Photoshop|title:The Birdkeeper
+author:JJ|image-file:graphics/13-disney_artist_on_lunchbreak_2049_colorized.png|platform:PC|pms-id:asm19/graphics/1055|position:2|techniques:Blender + Substance Painter, Photoshop|title:Disney artist on lunchbreak (2049, Colorized)
+author:none|image-file:graphics/10-Babyfood_Express_By_Wiljami_nosig.jpg|platform:pc|pms-id:asm19/graphics/1135|position:3|techniques:3DsMax, Substance Painter, Corona Renderer, Photoshop|title:Babyfood Express
+author:Partikle|image-file:graphics/11-Terror_from_the_deep_nosig.jpg|platform:PC|pms-id:asm19/graphics/1050|position:4|techniques:Photoshop, 3dcoat, zbrush, 3dsmax, corona|title:Terror from the deep
+author:emtastik|image-file:graphics/4-thekingisdead_nosig.jpg|platform:PC|pms-id:asm19/graphics/1001|position:5|techniques:Zbrush, 3Dsmax, Corona, Substance Painter and Photoshop.|title:The King is Dead
+author:peippo|image-file:graphics/3-sinister-rituals-nosig.jpg|platform:macOS|pms-id:asm19/graphics/1066|position:6|techniques:Photoshop|title:Sinister Rituals
+author:Neotheta|image-file:graphics/9-RoaringThunder_nosig.png|platform:Debian + Cintiq 22HD|pms-id:asm19/graphics/1047|position:7|techniques:Drawing in Krita|title:Roaring Thunder
+author:maxon / HBC|image-file:graphics/8-Golden_Cable_Hunters_nosig.png|platform:PC|pms-id:asm19/graphics/1032|position:8|techniques:3D modeling in Blender and compositing in Krita in Xubuntu|title:Golden Cable Hunters
+author:Plasticbunny|image-file:graphics/7-Worshippers_of_the_Great_Giant_nosig.png|platform:Ipad, Mac|pms-id:asm19/graphics/1008|position:9|techniques:Cinema4D, Procreate, Photoshop|title:Worshippers of the Great Giant
+author:Surround|image-file:graphics/5-Pesky_intrudersnosig.jpg|platform:Pc|pms-id:asm19/graphics/1049|position:10|techniques:Oculus medium + PS|title:Pesky intruders
+author:Ukkis|image-file:graphics/6-Troll_nosig.png|platform:pc|pms-id:asm19/graphics/1015|position:11|techniques:3d, Photoshop|title:Troll
+author:aarnis|image-file:graphics/2-karppi-2-0nosig.jpg|platform:PC|pms-id:asm19/graphics/1006|position:12|techniques:Digital painting with Photoshop|title:Karppi 2.0
+author:NinjaBaka|image-file:graphics/1-McCall System_nosig.png|platform:Windows, PC|pms-id:asm19/graphics/966|position:13|techniques:Blender 2.8, Eevee, Photoshop|title:McCall System
 
 
 :section Pixeled graphics
 :pms-category pixeled_graphics
 :description This is an oldschool pixeled graphics competition. It means that we’re expecting to see entries that have been drawn pixel by pixel, by using old fashioned techniques and not for example overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
 
-author:Felor|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|title:Lunar hope
-author:Croaker / Halcyon|image-file:pixeled-graphics/6-rapu_nosig.png|pms-id:asm19/pixeled_graphics/956|title:Slovenian Crab Demon
-author:Kisu, Void|image-file:pixeled-graphics/4-gimmeh.png|pms-id:asm19/pixeled_graphics/1004|title:Gimmeh
-author:maxon / HBC|image-file:pixeled-graphics/2-Bobby_nosig.png|pms-id:asm19/pixeled_graphics/1023|title:Bobby
-author:Partikle|image-file:pixeled-graphics/7-orientalist_cat_nosig.png|pms-id:asm19/pixeled_graphics/1051|title:Orientalist cat
-author:Random|image-file:pixeled-graphics/5-Scobyhunter_nosig.png|pms-id:asm19/pixeled_graphics/1062|title:Scobyhunter
-author:Mazor / Fairlight|image-file:pixeled-graphics/8-Preytracing_Nosig.png|pms-id:asm19/pixeled_graphics/1124|title:Preytracing
-author:Noora|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphics/1134|title:Ghost
+author:Mazor / Fairlight|image-file:pixeled-graphics/8-Preytracing_Nosig.png|platform:Mac|pms-id:asm19/pixeled_graphics/1124|position:1|techniques:Grafx2|title:Preytracing
+author:Partikle|image-file:pixeled-graphics/7-orientalist_cat_nosig.png|platform:PC|pms-id:asm19/pixeled_graphics/1051|position:2|techniques:Photoshop|title:Orientalist cat
+author:Croaker / Halcyon|image-file:pixeled-graphics/6-rapu_nosig.png|platform:PC|pms-id:asm19/pixeled_graphics/956|position:3|techniques:Pro Motion|title:Slovenian Crab Demon
+author:Kisu, Void|image-file:pixeled-graphics/4-gimmeh.png|platform:PC, mouse, tablet|pms-id:asm19/pixeled_graphics/1004|position:4|techniques:Dots, more dots and maybe some moar dots|title:Gimmeh
+author:Random|image-file:pixeled-graphics/5-Scobyhunter_nosig.png|pms-id:asm19/pixeled_graphics/1062|position:5|techniques:64col|title:Scobyhunter
+author:Noora|image-file:pixeled-graphics/1-Ghost.png|pms-id:asm19/pixeled_graphics/1134|position:6|techniques:GrafX2|title:Ghost
+author:Felor|image-file:pixeled-graphics/3-Lunar_hope.png|pms-id:asm19/pixeled_graphics/954|position:7|techniques:GrafX2|title:Lunar hope
+author:maxon / HBC|image-file:pixeled-graphics/2-Bobby_nosig.png|platform:PC|pms-id:asm19/pixeled_graphics/1023|position:8|techniques:Painting in GrafX2, Resizing in Gimp, in Xubuntu|title:Bobby
 
 
 :section Themed photo
 :pms-category themed_photo
 :description Themed photo competition requires to take a photo and only minor retouching and adjustments are allowed. The theme for 2019 is: "Light & Shadow". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept like good and evil, darkness and daylight, etc.
 
-author:Marvel / FC|image-file:themed-photo/7-RTX-On_nosig.jpg|pms-id:asm19/themed_photo/992|title:RTX On
-author:Exca / Wide Load|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|title:Dystopian Dawn
-author:poro/Wide Load|image-file:themed-photo/2-BehindTheCurtain-nosig.png|pms-id:asm19/themed_photo/1014|title:Behind the curtain
-author:Tethys|image-file:themed-photo/9-Wait_for_me!_I_have_a_photo.jpg|pms-id:asm19/themed_photo/1033|title:Wait for me! I have a photo
-author:malomaz|image-file:themed-photo/3-ANewHope - final jpg.jpg|pms-id:asm19/themed_photo/1053|title:A New Hope
-author:biini / damones|image-file:themed-photo/10-Real-time_raytracing_III.png|pms-id:asm19/themed_photo/1064|title:Real-time raytracing III
-author:Wode / Doomsday|image-file:themed-photo/12-in_the_midst_of_the_shadows_nosig.jpg|pms-id:asm19/themed_photo/1070|title:In the midst of the shadows
-author:.You|image-file:themed-photo/6-Pinky_alt_nosig.png|pms-id:asm19/themed_photo/1074|title:Pinky
-author:AK^|image-file:themed-photo/5-evening_snack.jpg|pms-id:asm19/themed_photo/1078|title:Evening snack
-author:Terkkui äidille|image-file:themed-photo/11-ShapeOfYou.jpg|pms-id:asm19/themed_photo/1084|title:Shape Of You
-author:piimae / findori|image-file:themed-photo/8-ei_mee_kohtuuella_nosig.png|pms-id:asm19/themed_photo/1130|title:mikkää ei mee kohtuuella
-author:jmagic/complex|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg|pms-id:asm19/themed_photo/1143|title:mf orbeez on a plane!
+author:biini / damones|image-file:themed-photo/10-Real-time_raytracing_III.png|platform:Camera|pms-id:asm19/themed_photo/1064|position:1|techniques:High speed flash photography|title:Real-time raytracing III
+author:Marvel / FC|image-file:themed-photo/7-RTX-On_nosig.jpg|platform:Laying down on the floor|pms-id:asm19/themed_photo/992|position:2|techniques:Transparent jar, fruit, camera, flash|title:RTX On
+author:Wode / Doomsday|image-file:themed-photo/12-in_the_midst_of_the_shadows_nosig.jpg|platform:Olympus OM-D E-M10 Mark II|pms-id:asm19/themed_photo/1070|position:3|techniques:Single 92sec exposure, 3 strobes, 2 flashlights, model, trial and error.|title:In the midst of the shadows
+author:piimae / findori|image-file:themed-photo/8-ei_mee_kohtuuella_nosig.png|platform:pc|pms-id:asm19/themed_photo/1130|position:4|techniques:fotoaparaatti & huoltoukot|title:mikkää ei mee kohtuuella
+author:.You|image-file:themed-photo/6-Pinky_alt_nosig.png|platform:Photo|pms-id:asm19/themed_photo/1074|position:5|techniques:Blankets, cellphones, Hero Quest and some E422|title:Pinky
+author:Tethys|image-file:themed-photo/9-Wait_for_me!_I_have_a_photo.jpg|platform:Canon EOS 5D Mark IV + EF 16-35mm f/2.8L III USM|pms-id:asm19/themed_photo/1033|position:6|techniques:20mm, f/5.0, 1/30s, ISO 100|title:Wait for me! I have a photo
+author:AK^|image-file:themed-photo/5-evening_snack.jpg|pms-id:asm19/themed_photo/1078|position:7|techniques:Nikon Z6 + Micro-Nikkor 105mm + Sun + Flower + Bug|title:Evening snack
+author:jmagic/complex|image-file:themed-photo/4-mf_orbeez_on_a_plane__v1.jpg|pms-id:asm19/themed_photo/1143|position:8|techniques:olympus tg-5|title:mf orbeez on a plane!
+author:malomaz|image-file:themed-photo/3-ANewHope - final jpg.jpg|pms-id:asm19/themed_photo/1053|position:9|techniques:Sony A7 II, Zeiss 55mm f1.8|title:A New Hope
+author:Terkkui äidille|image-file:themed-photo/11-ShapeOfYou.jpg|platform:your granny's mangle|pms-id:asm19/themed_photo/1084|position:10|techniques:Camera + Lightroom|title:Shape Of You
+author:Exca / Wide Load|image-file:themed-photo/1-dystopian_dawn.jpg|pms-id:asm19/themed_photo/1010|position:11|techniques:Nokia 9, lightroom|title:Dystopian Dawn
+author:poro/Wide Load|image-file:themed-photo/2-BehindTheCurtain-nosig.png|pms-id:asm19/themed_photo/1014|position:12|techniques:Point and shoot|title:Behind the curtain
 
 
 :section Fast graphics
 :pms-category fast_graphics
 :description <p>Competitors had 1.5 hours to create an image with "Nuclear Sausage" theme.</p>
 
-author:Ukkis|image-file:fast-graphics/2-Ydinmakkara.png|pms-id:asm19/fast_graphics/1077|title:Ydinmakkara
-author:Surround|image-file:fast-graphics/5-viimeinen_nakki.jpg|pms-id:asm19/fast_graphics/1085|title:Viimeinen nakki
-author:sssampo/pistoke|image-file:fast-graphics/11-juhannusium-247_(247ju).png|pms-id:asm19/fast_graphics/1089|title:Juhannusium-247 (247Ju)
-author:Kisu, Void|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg|pms-id:asm19/fast_graphics/1090|title:Haaaawt hat hat hat
-author:Darkki|image-file:fast-graphics/14-tourist_attraction.jpg|pms-id:asm19/fast_graphics/1092|title:Tourist attraction
-author:Q|image-file:fast-graphics/3-radioactive_nakki.jpg|pms-id:asm19/fast_graphics/1096|title:Radioactive nakki
-author:Plasticbunny|image-file:fast-graphics/9-also_vegan_options.jpg|pms-id:asm19/fast_graphics/1097|title:Also vegan options
-author:Neotheta|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png|pms-id:asm19/fast_graphics/1098|title:Hiukkas grillatut tajunnan laajennus makkarat
-author:Felor|image-file:fast-graphics/7-nuclear_meal.png|pms-id:asm19/fast_graphics/1101|title:Nuclear Meal
-author:Super Metroid believers!|image-file:fast-graphics/8-blastages.png|pms-id:asm19/fast_graphics/1103|title:blastages
-author:korpi|image-file:fast-graphics/13-meat_is_murder.jpg|pms-id:asm19/fast_graphics/1105|title:Meat Is Murder
-author:Ceirque|image-file:fast-graphics/6-ready_for_raiding.png|pms-id:asm19/fast_graphics/1108|title:Ready for raiding
-author:maxon / HBC|image-file:fast-graphics/1-atomic_sausage_party.jpg|pms-id:asm19/fast_graphics/1109|title:Atomic Sausage Party
-author:diedos|image-file:fast-graphics/4-get_eaten_.png|pms-id:asm19/fast_graphics/1111|title:Get Eaten!
+author:Darkki|image-file:fast-graphics/14-tourist_attraction.jpg|platform:PC|pms-id:asm19/fast_graphics/1092|position:1|techniques:Photoshop, Sairas mieli ja terveet kädet|title:Tourist attraction
+author:Neotheta|image-file:fast-graphics/12-hiukkas_grillatut_tajunnan_laajennus_makkarat.png|platform:Ubuntu|pms-id:asm19/fast_graphics/1098|position:2|techniques:Drawing on Krita|title:Hiukkas grillatut tajunnan laajennus makkarat
+author:korpi|image-file:fast-graphics/13-meat_is_murder.jpg|platform:PC|pms-id:asm19/fast_graphics/1105|position:3|techniques:Photoshop|title:Meat Is Murder
+author:sssampo/pistoke|image-file:fast-graphics/11-juhannusium-247_(247ju).png|platform:tietsikka|pms-id:asm19/fast_graphics/1089|position:4|techniques:Blender, Eevee, PS|title:Juhannusium-247 (247Ju)
+author:Plasticbunny|image-file:fast-graphics/9-also_vegan_options.jpg|platform:Ipad, Mac|pms-id:asm19/fast_graphics/1097|position:5|techniques:Procreate, Photoshop|title:Also vegan options
+author:Felor|image-file:fast-graphics/7-nuclear_meal.png|pms-id:asm19/fast_graphics/1101|position:6|techniques:Blender 2.8 Eevee|title:Nuclear Meal
+author:Super Metroid believers!|image-file:fast-graphics/8-blastages.png|platform:PC|pms-id:asm19/fast_graphics/1103|position:7|techniques:2D, Cintiq graphics tablet, Photoshop brushes & layer fx|title:blastages
+author:Kisu, Void|image-file:fast-graphics/10-haaaawt_hat_hat_hat.jpg|platform:Pc|pms-id:asm19/fast_graphics/1090|position:8|techniques:Tablet, pixels|title:Haaaawt hat hat hat
+author:Ceirque|image-file:fast-graphics/6-ready_for_raiding.png|platform:PC|pms-id:asm19/fast_graphics/1108|position:9|techniques:Clip studio paint|title:Ready for raiding
+author:maxon / HBC|image-file:fast-graphics/1-atomic_sausage_party.jpg|pms-id:asm19/fast_graphics/1109|position:10|techniques:3D modeling in Blender and compositing in Krita in Xubuntu|title:Atomic Sausage Party
+author:Ukkis|image-file:fast-graphics/2-Ydinmakkara.png|platform:pc|pms-id:asm19/fast_graphics/1077|position:11|techniques:Blender, zbrush and photoshop|title:Ydinmakkara
+author:diedos|image-file:fast-graphics/4-get_eaten_.png|platform:Hot grill|pms-id:asm19/fast_graphics/1111|position:12|techniques:Blender + Photoshop|title:Get Eaten!
+author:Surround|image-file:fast-graphics/5-viimeinen_nakki.jpg|platform:Rilli|pms-id:asm19/fast_graphics/1085|position:13|techniques:Photaari|title:Viimeinen nakki
+author:Q|image-file:fast-graphics/3-radioactive_nakki.jpg|platform:iPad 6th gen|pms-id:asm19/fast_graphics/1096|position:14|techniques:Procreate, sausages|title:Radioactive nakki
 
 
 :section Cosplay photoshoot
 :pms-category cosplay_photoshoot_competition
 :description Photographers and their models were competing against each other. Only a minor retouching and adjustments were allowed.
 
-author:janeemil, pi4ch|description:Kuvaaja: janeemil, malli: pi4ch|image-file:cosplay-photoshoot/eliittijoukkue-b-elite-crew-b-counter-strike-global-offensive-by-janeemil-pi4ch.jpeg|pms-id:asm19/cosplay_photoshoot_competition/904|title:Eliittijoukkue B (Elite Crew B) - Counter-Strike: Global Offensive
-author:Emilia Kokko, Jaana Miettinen|description:Kuvaaja: Emilia Kokko, malli: Jaana Miettinen|image-file:cosplay-photoshoot/ariel-the-little-mermaid-by-emilia-kokko-jaana-miettinen.jpeg|pms-id:asm19/cosplay_photoshoot_competition/906|title:Ariel - The Little Mermaid
-author:Yujin, Minervainen|description:Kuvaaja: Yujin Malli: Minervainen|image-file:cosplay-photoshoot/polka-eternal-sonata-by-yujin-minervainen.jpeg|pms-id:asm19/cosplay_photoshoot_competition/922|title:Polka - Eternal Sonata
-author:Lord.Madhouse, Dragoneri|description:Photographer: Lord.Madhouse, Model: Dragoneri|image-file:cosplay-photoshoot/babydoll-sucker-punch-by-lord-madhouse-dragoneri.jpeg|pms-id:asm19/cosplay_photoshoot_competition/923|title:Babydoll - Sucker Punch
-author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photoshoot/ama-just-monika-kananen-by-ladyrosycheek.png|pms-id:asm19/cosplay_photoshoot_competition/924|title:AMA, just monika., Kananen
+author:Lord.Madhouse, Dragoneri|description:Photographer: Lord.Madhouse, Model: Dragoneri|image-file:cosplay-photoshoot/babydoll-sucker-punch-by-lord-madhouse-dragoneri.jpeg|pms-id:asm19/cosplay_photoshoot_competition/923|position:1|title:Babydoll - Sucker Punch
+author:janeemil, pi4ch|description:Kuvaaja: janeemil, malli: pi4ch|image-file:cosplay-photoshoot/eliittijoukkue-b-elite-crew-b-counter-strike-global-offensive-by-janeemil-pi4ch.jpeg|pms-id:asm19/cosplay_photoshoot_competition/904|position:2|title:Eliittijoukkue B (Elite Crew B) - Counter-Strike: Global Offensive
+author:Emilia Kokko, Jaana Miettinen|description:Kuvaaja: Emilia Kokko, malli: Jaana Miettinen|image-file:cosplay-photoshoot/ariel-the-little-mermaid-by-emilia-kokko-jaana-miettinen.jpeg|pms-id:asm19/cosplay_photoshoot_competition/906|position:3|title:Ariel - The Little Mermaid
+author:Yujin, Minervainen|description:Kuvaaja: Yujin Malli: Minervainen|image-file:cosplay-photoshoot/polka-eternal-sonata-by-yujin-minervainen.jpeg|pms-id:asm19/cosplay_photoshoot_competition/922|position:4|title:Polka - Eternal Sonata
+author:LadyRosyCheek|description:Model: LadyRosyCheek|image-file:cosplay-photoshoot/ama-just-monika-kananen-by-ladyrosycheek.png|pms-id:asm19/cosplay_photoshoot_competition/924|position:5|title:AMA, just monika., Kananen
 
 
 :section Tuplain
 :pms-category tuplain
-:manage-youtube-descriptions false
 :public false
+:manage-youtube-descriptions false
 
-author:Hooded Capitalist Swine|pms-id:asm19/tuplain/972|title:Finest Bay
-author:Randy/OSi|pms-id:asm19/tuplain/980|title:Ui Juma
-author:Hervannan Demoscene-Akatemia|pms-id:asm19/tuplain/981|title:Tieto-tukihenkilö
-author:eimink/Vanha Mediakunta|pms-id:asm19/tuplain/1021|title:Mäkikotka Force
-author:Jupp3|pms-id:asm19/tuplain/1035|title:T-minus kuohari
-author:mayday/hedelmae|pms-id:asm19/tuplain/1079|title:Space Debris
-author:Q|pms-id:asm19/tuplain/1106|title:Huugi Guugi
-author:mayday/hedelmae|pms-id:asm19/tuplain/1118|title:Ziphead (State of the Art Video Remix)
-author:Hervannan Demoscene-Akatemia Dropouts|pms-id:asm19/tuplain/1140|title:Tell me lies tell me sweet little lies
-author:Dysposin|pms-id:asm19/tuplain/1168|title:People dancing to music
-author:b|pms-id:asm19/tuplain/1175|title:Ultra Vatiolence!!!
-author:sooda|pms-id:asm19/tuplain/1177|title:dub dub in the space sub
-author:Jumalauta|pms-id:asm19/tuplain/1179|title:Would you believe, if we'd say that the ship has sailed?
-author:Exca / Wide Load|pms-id:asm19/tuplain/1183|title:Lumberjack MC's
-author:Plokk / Hedelmae|pms-id:asm19/tuplain/1185|title:Compo intro
-author:Plokk / Hedelmae|pms-id:asm19/tuplain/1186|title:Jäätismiehen humppa
-author:Plokk / Hedelmae|pms-id:asm19/tuplain/1189|title:Hedelmae x Orange <3
-author:iguchi / hedelmae|pms-id:asm19/tuplain/1190|title:The Walking Elephants
-author:vARTsan|pms-id:asm19/tuplain/1192|title:tribuTETotAAt
-author:iguchi / hedelmae|pms-id:asm19/tuplain/1196|title:Pulp Hermanni
-author:Terzi & Julberg|pms-id:asm19/tuplain/1202|title:Second Rallity
-author:sndels|pms-id:asm19/tuplain/1208|title:Xontrol
-author:sammuttaja & ohvi|pms-id:asm19/tuplain/1216|title:stargazer by rööperin palikat
-author:priceless|pms-id:asm19/tuplain/1217|title:timeless
-author:Tethys|pms-id:asm19/tuplain/1220|title:Golden Night Drive
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1185|position:1|title:Compo intro
+author:Randy/OSi|platform:TUPLAIN|pms-id:asm19/tuplain/980|position:2|title:Ui Juma
+author:Hervannan Demoscene-Akatemia Dropouts|platform:Tuplain|pms-id:asm19/tuplain/1140|position:3|title:Tell me lies tell me sweet little lies
+author:sammuttaja & ohvi|pms-id:asm19/tuplain/1216|position:4|techniques:thinking|title:stargazer by rööperin palikat
+author:Exca / Wide Load|pms-id:asm19/tuplain/1183|position:5|techniques:Random youtube videos|title:Lumberjack MC's
+author:iguchi / hedelmae|pms-id:asm19/tuplain/1190|position:6|title:The Walking Elephants
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1186|position:7|title:Jäätismiehen humppa
+author:mayday/hedelmae|pms-id:asm19/tuplain/1118|position:8|title:Ziphead (State of the Art Video Remix)
+author:iguchi / hedelmae|pms-id:asm19/tuplain/1196|position:9|title:Pulp Hermanni
+author:Dysposin|platform:bowser|pms-id:asm19/tuplain/1168|position:10|techniques:blockchain|title:People dancing to music
+author:Jupp3|pms-id:asm19/tuplain/1035|position:11|title:T-minus kuohari
+author:Hervannan Demoscene-Akatemia|pms-id:asm19/tuplain/981|position:12|techniques:Bigger Value for Life Than You Have Ever Seen|title:Tieto-tukihenkilö
+author:vARTsan|pms-id:asm19/tuplain/1192|position:13|title:tribuTETotAAt
+author:Q|platform:PC|pms-id:asm19/tuplain/1106|position:14|techniques:Amazing taste of music|title:Huugi Guugi
+author:mayday/hedelmae|pms-id:asm19/tuplain/1079|position:15|title:Space Debris
+author:priceless|pms-id:asm19/tuplain/1217|position:16|title:timeless
+author:sooda|pms-id:asm19/tuplain/1177|position:17|techniques:watch demos 24/7|title:dub dub in the space sub
+author:Plokk / Hedelmae|pms-id:asm19/tuplain/1189|position:18|title:Hedelmae x Orange <3
+author:Jumalauta|pms-id:asm19/tuplain/1179|position:19|title:Would you believe, if we'd say that the ship has sailed?
+author:eimink/Vanha Mediakunta|platform:Tuplain|pms-id:asm19/tuplain/1021|position:20|title:Mäkikotka Force
+author:Tethys|pms-id:asm19/tuplain/1220|position:20|title:Golden Night Drive
+author:b|pms-id:asm19/tuplain/1175|position:22|title:Ultra Vatiolence!!!
+author:Terzi & Julberg|pms-id:asm19/tuplain/1202|position:23|techniques:Skills|title:Second Rallity
+author:Hooded Capitalist Swine|pms-id:asm19/tuplain/972|position:24|title:Finest Bay
+author:sndels|pms-id:asm19/tuplain/1208|position:25|title:Xontrol
 
 
 :section Seminars
