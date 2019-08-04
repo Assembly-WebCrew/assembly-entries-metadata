@@ -130,6 +130,8 @@ renamed to be more normalized.
 Show signed images in photo and graphics competitions instead of the
 anonymous images.
 
+If available, update [pouet.net](https://www.pouet.net/) links.
+
 # Library
 
 A reusable library that is used to handle these data files
