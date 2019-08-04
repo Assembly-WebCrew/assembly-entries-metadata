@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import sys
 import xml.dom.minidom
@@ -7,7 +9,7 @@ parser.add_argument("datafile")
 parser.add_argument("pms_datafile")
 args = parser.parse_args()
 
-pms_dom = xml.dom.minidom.parse(open(args.pms_datafile, "rb"))
+pms_dom = xml.dom.minidom.parse(open(args.pms_datafile, "r"))
 
 iddata = {}
 

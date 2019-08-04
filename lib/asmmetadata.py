@@ -469,7 +469,8 @@ def select_thumbnail_base(entry):
                 get_galleriafi_filename(entry.get("galleriafi")))
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
-        baseprefix, _ = filename.split(".")
+        _, baseprefix_r = filename[::-1].split(".", 1)
+        baseprefix = baseprefix_r[::-1]
         if is_image(filename):
             return 'thumbnails/small/%s' % baseprefix
     return None

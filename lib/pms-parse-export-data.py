@@ -1,3 +1,5 @@
+#/!usr/bin/env python3
+
 import argparse
 import asmmetadata
 import sys
@@ -9,7 +11,7 @@ parser.add_argument("pms_datafile")
 parser.add_argument("section")
 args = parser.parse_args()
 
-pms_dom = xml.dom.minidom.parse(open(args.pms_datafile, "rb"))
+pms_dom = xml.dom.minidom.parse(open(args.pms_datafile, "r"))
 
 iddata = {}
 
