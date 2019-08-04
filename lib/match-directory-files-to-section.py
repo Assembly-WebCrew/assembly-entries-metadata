@@ -47,15 +47,16 @@ def main(argv):
     parser.add_argument("attribute_name", metavar="attribute-name")
     parser.add_argument("value_prefix", metavar="value-prefix")
     parser.add_argument("directory")
-    parser.add_argument("section", type=unicode)
+    parser.add_argument("section")
     args = parser.parse_args(argv[1:])
 
-    entry_data = asmmetadata.parse_file(open(args.datafile, "rb"))
+    entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     section = entry_data.getSection(args.section)
 
     for _, _, filenames in os.walk(args.directory):
-        filenames = [x.decode("utf-8") for x in filenames]
+        filenames = [x for x in filenames if not x.endswith(".diz")]
+        filenames = [x for x in filenames if x != "index.html"]
         # Just get the filenames.
         break
 
@@ -74,13 +75,12 @@ def main(argv):
         print("%s -> %s" % (asmmetadata.get_entry_key(entry), best_match))
         if len(not_used_matches) > 0:
             print("  UNUSED: %s" % ", ".join(not_used_matches))
-        entry[args.attribute_name] = "%s:%s%s" % (
-            args.attribute_name, args.value_prefix, best_match)
+        entry[args.attribute_name] = "%s%s" % (args.value_prefix, best_match)
         for match in best_matches:
             filenames.remove(match)
     if len(filenames) > 0:
         print("EXTRA: %s" % ", ".join(filenames))
-    asmmetadata.print_metadata(open(args.datafile, "wb"), entry_data)
+    asmmetadata.print_metadata(open(args.datafile, "w"), entry_data)
 
 
 if __name__ == "__main__":
