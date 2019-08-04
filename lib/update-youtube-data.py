@@ -18,11 +18,14 @@ def update_youtube_info(yt_service, entry_data):
 
 def update_youtube_info_entry(yt_service, entry):
     youtube_info = asmmetadata.get_youtube_info_data(entry)
+    youtube_id = entry["youtube"]
+    if "#t=" in youtube_id:
+        youtube_id, _ = youtube_id.split("#")
 
     videos_list = asmyoutube.try_operation(
         "get info for %s" % youtube_info['title'],
         lambda: yt_service.videos().list(
-            id=entry["youtube"], part="snippet").execute(),
+            id=youtube_id, part="snippet").execute(),
         sleep=1)
     if not videos_list["items"]:
         print("No video found for ID %s" % entry["youtube"])
@@ -53,7 +56,7 @@ def update_youtube_info_entry(yt_service, entry):
             lambda: yt_service.videos().update(
                 part="snippet",
                 body=dict(
-                    id=entry["youtube"],
+                    id=youtube_id,
                     snippet=video_snippet)).execute())
 
 

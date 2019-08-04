@@ -518,44 +518,50 @@ def get_youtube_timestamps_title_description(youtube_entry):
     if section.get("ranked", True):
         description += "%s %s competition entries\n\n" % (
             party_name, section["name"])
+    timestamped_entries = []
     for entry in section["entries"]:
-        for entry in section["entries"]:
-            list_youtube_id_timestamp = entry.get("youtube")
-            if list_youtube_id_timestamp is None:
-                continue
-            (list_youtube_id,
-             list_youtube_timestamp) = list_youtube_id_timestamp.split("#t=")
-            if list_youtube_id != youtube_id:
-                continue
-            link_timestamp = ""
-            hours = list_youtube_timestamp.split("h")
-            if len(hours) == 2:
-                link_timestamp += hours[0] + ":"
-                minutes_str = hours[1]
+        entry_str = ""
+        list_youtube_id_timestamp = entry.get("youtube")
+        if list_youtube_id_timestamp is None:
+            continue
+        (list_youtube_id,
+         list_youtube_timestamp) = list_youtube_id_timestamp.split("#t=")
+        if list_youtube_id != youtube_id:
+            continue
+        link_timestamp = ""
+        hours = list_youtube_timestamp.split("h")
+        if len(hours) == 2:
+            link_timestamp += hours[0] + ":"
+            minutes_str = hours[1]
+        else:
+            minutes_str = hours[0]
+        minutes = minutes_str.split("m")
+        if len(minutes) == 2:
+            link_timestamp += "%02d" % (int(minutes[0])) + ":"
+            seconds_str = minutes[1]
+        else:
+            seconds_str = minutes[0]
+        if seconds_str == "":
+            seconds = 0
+        elif "s" not in seconds_str:
+            seconds = int(seconds_str)
+        else:
+            seconds = int(seconds_str.rstrip("s"))
+        if link_timestamp == "":
+            link_timestamp = "00:%02d" % seconds
+        else:
+            link_timestamp += "%02d" % seconds
+        entry_str += "%s %s" % (link_timestamp, get_entry_name(entry))
+        if section.get("ranked", True):
+            position = entry.get('position', 0)
+            if position != 0:
+                entry_str += " (%d%s place)" % (
+                    position, get_ordinal_suffix(position))
             else:
-                minutes_str = hours[0]
-            minutes = minutes_str.split("m")
-            if len(minutes) == 2:
-                link_timestamp += "%02d" % (int(minutes[0])) + ":"
-                seconds_str = minutes[1]
-            else:
-                seconds_str = minutes[0]
-            if "s" not in seconds_str:
-                seconds = int(seconds_str)
-            else:
-                seconds = int(seconds_str.rstrip("s"))
-            if link_timestamp == "":
-                link_timestamp = "00:%02d" % seconds
-            else:
-                link_timestamp += "%02d" % seconds
-            description += "%s %s" % (link_timestamp, get_entry_name(entry))
-            if section.get("ranked", True):
-                position = entry.get('position', 0)
-                if position != 0:
-                    description += " (%d%s place)" % (
-                        position, get_ordinal_suffix(position))
-            description += "\n"
-    description += "\n"
+                entry_str += " (unranked)"
+        timestamped_entries.append(entry_str)
+    description += "\n".join(sorted(timestamped_entries))
+    description += "\n\n"
     description += "These entries at Assembly Archive: %s\n" % get_archive_link_section(section)
     description += "Event website: https://www.assembly.org/"
     title = section["name"]
@@ -568,7 +574,6 @@ def get_youtube_entry_title_description(entry):
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
-    name = get_entry_name(entry)
     position = entry.get('position', 0)
 
     description = ""
@@ -671,7 +676,7 @@ def get_youtube_entry_title_description(entry):
         description += "Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
     description += "This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
     description += "Event website: https://www.assembly.org/\n"
-    return description
+    return {"title": get_entry_name(entry), "description": description}
 
 
 def get_youtube_metadata(entry):
