@@ -396,6 +396,7 @@ author:AssemblyTV|title:Assembly Winter Overwatch, Ence eSports vs Helsinki Reds
 :section Photos summer
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2017/
+:public false
 
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2017/Keskiviikko/ASMS2017-SamiEraluoto-7962.jpg|title:ASMS2017-SamiEraluoto-7962.jpg
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2017/Keskiviikko/ASMS2017-SamiEraluoto-7944.jpg|title:ASMS2017-SamiEraluoto-7944.jpg
@@ -1763,6 +1764,7 @@ author:TORSTAI|galleriafi:/kuvat/Assembly Summer 2017/TORSTAI/ASMS2017-SanttuPaj
 :section Photos winter
 :ranked false
 :galleriafi /kuvat/Assembly Winter 2017/
+:public false
 
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2017/Lauantai/SanttuPajukanta-ASMW2017-0033.jpg|title:SanttuPajukanta-ASMW2017-0033.jpg
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2017/Lauantai/SanttuPajukanta-ASMW2017-0032.jpg|title:SanttuPajukanta-ASMW2017-0032.jpg

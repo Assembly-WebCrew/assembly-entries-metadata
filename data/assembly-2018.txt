@@ -497,6 +497,7 @@ author:AssemblyTV|description:Fiiliksiä Assembly Wintereiltä 2018!|title:Assem
 :section Photos summer
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2018/
+:public false
 
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2018/Keskiviikko/atte_haapalahti-7461.jpg|title:atte_haapalahti-7461.jpg
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2018/Keskiviikko/atte_haapalahti-7573.jpg|title:atte_haapalahti-7573.jpg
@@ -3375,6 +3376,7 @@ author:Torstai|galleriafi:/kuvat/Assembly Summer 2018/Torstai/Sami_eraluoto_AsmS
 :section Photos winter
 :ranked false
 :galleriafi /kuvat/Assembly Winter 2018/
+:public false
 
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2018/Lauantai/AsmW2018-SamiEraluoto-9126.jpg|title:AsmW2018-SamiEraluoto-9126.jpg
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2018/Lauantai/AsmW2018-SamiEraluoto-9120.jpg|title:AsmW2018-SamiEraluoto-9120.jpg

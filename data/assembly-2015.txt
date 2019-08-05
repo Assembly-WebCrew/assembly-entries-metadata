@@ -366,6 +366,7 @@ author:AssemblyTV|guid:2061|media:/vod/2015/Games/2061_Demo_compostudio_1.mp4|ti
 :section Photos summer
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2015/
+:public false
 
 author:Keskiviikko (rakennuspäivä)|galleriafi:/kuvat/Assembly Summer 2015/Keskiviikko (rakennuspäivä)/santtupajukanta_asmsummer15_20150729_047.jpg|title:santtupajukanta_asmsummer15_20150729_047.jpg
 author:Keskiviikko (rakennuspäivä)|galleriafi:/kuvat/Assembly Summer 2015/Keskiviikko (rakennuspäivä)/santtupajukanta_asmsummer15_20150729_001.jpg|title:santtupajukanta_asmsummer15_20150729_001.jpg
@@ -1952,6 +1953,7 @@ author:Torstai|galleriafi:/kuvat/Assembly Summer 2015/Torstai/emmihalmela_asmsum
 :section Photos winter
 :ranked false
 :galleriafi /kuvat/Assembly Winter 2015/
+:public false
 
 author:Assembly Winter 2015|galleriafi:/kuvat/Assembly Winter 2015/Siikahan se siellä.jpg|title:Siikahan se siellä.jpg
 author:Assembly Winter 2015|galleriafi:/kuvat/Assembly Winter 2015/_A7C6892.jpg|title:_A7C6892.jpg
