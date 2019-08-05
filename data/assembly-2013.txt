@@ -339,6 +339,7 @@ author:AssemblyTV|description:ASM does Harlem Shake at Winter Assembly 2013.|tit
 :section Photos summer
 :ranked false
 :galleriafi /kuvat/Assembly Summer 2013/
+:public false
 
 author:Assembly Summer 2013|galleriafi:/kuvat/Assembly Summer 2013/Yli 9000 tuntia Paintissa.jpg|title:Yli 9000 tuntia Paintissa.jpg
 author:Assembly Summer 2013|galleriafi:/kuvat/Assembly Summer 2013/Nakkivene.png|title:Nakkivene.png
@@ -1661,6 +1662,7 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2013/Tuula Ylikorpi/1A1C
 :section Photos winter
 :ranked false
 :galleriafi /kuvat/Assembly Winter 2013/
+:public false
 
 author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Winter 2013/Aleksi Kinnunen/BV7Q4947.jpg|title:BV7Q4947.jpg
 author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Winter 2013/Aleksi Kinnunen/BV7Q4978.jpg|title:BV7Q4978.jpg

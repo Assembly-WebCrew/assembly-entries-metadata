@@ -201,7 +201,7 @@ def get_images(
         default_data["filename"]))
     files.append((filename, default_file))
     result["default"] = default_data
-    result["extra"] = []
+    result["sources"] = [default_data]
     for extra_size in extra_sizes:
         filename_base = "%s-%s" % (image_base, extra_size)
         extra_file, extra_data = get_image(
@@ -211,7 +211,7 @@ def get_images(
         filename = "%s/%s" % (
             archive_dir, os.path.basename(extra_data["filename"]))
         files.append((filename, extra_file))
-        result["extra"].append(extra_data)
+        result["sources"].append(extra_data)
     return files, result
 
 

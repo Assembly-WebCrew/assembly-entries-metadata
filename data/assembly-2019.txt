@@ -91,6 +91,7 @@ author:RBBS / KBOL|platform:C64 Old Sid|pms-id:asm19/oldskool/1041|position:6|te
 
 
 :section One scene demo
+:youtube-playlist PLJO4AtxKJiFNFmdJK19PFuofbj8hMoc4n
 :pms-category one_scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 
