@@ -388,6 +388,7 @@ author:Timo Kettunen|description:How to be healthier and more efficient gamer? A
 :section AssemblyTV
 :ranked false
 :author-in-title false
+:youtube-playlist PLJO4AtxKJiFOQkwQEZKT4MBOh36I5TxI8
 :elaine-category 2019 AssemblyTV
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
 :manage-youtube-descriptions false
