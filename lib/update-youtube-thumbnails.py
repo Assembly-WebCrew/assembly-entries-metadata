@@ -45,13 +45,24 @@ def download_thumbnail(youtube_id, target):
 
 def main(argv):
     multipliers = [1.25, 1.5, 2, 3, 4]
-    size_default = archivethumbnails.ImageSize(160, 90)
+    convert_params = [
+        "-sampling-factor",
+        "4:2:0",
+        "-strip",
+        "-quality",
+        "85",
+        "-interlace",
+        "JPEG",
+        "-colorspace",
+        "sRGB"]
+    size_default = archivethumbnails.ImageSize(160, 90, convert_params)
     extra_sizes = []
     for multiplier in multipliers:
         extra_sizes.append(
             archivethumbnails.ImageSize(
                 int(160 * multiplier),
-                int(160 * multiplier * 9 / 16)))
+                int(160 * multiplier * 9 / 16),
+                convert_params))
 
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")

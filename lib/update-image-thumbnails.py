@@ -16,14 +16,27 @@ def main(argv):
     parser.add_argument("thumbnails_dir")
     parser.add_argument("base_width", type=int)
     parser.add_argument("--no-height", action='store_true')
+    parser.add_argument("--low-quality", action='store_true')
     args = parser.parse_args(argv[1:])
 
+    convert_params = []
+    if args.low_quality:
+        convert_params = [
+            "-sampling-factor",
+            "4:2:0",
+            "-strip",
+            "-quality",
+            "85",
+            "-interlace",
+            "JPEG",
+            "-colorspace",
+            "sRGB"]
     multipliers = [1.25, 1.5, 2, 3, 4]
     base_height = None
     if not args.no_height:
         base_height = int(args.base_width * 9 / 16)
     size_default = archivethumbnails.ImageSize(
-        args.base_width, base_height)
+        args.base_width, base_height, convert_params)
     extra_sizes = []
     for multiplier in multipliers:
         extra_width = int(size_default.x * multiplier)
@@ -31,7 +44,8 @@ def main(argv):
         if not args.no_height:
             extra_height = int(size_default.x * multiplier * 9 / 16)
         extra_sizes.append(
-            archivethumbnails.ImageSize(extra_width, extra_height))
+            archivethumbnails.ImageSize(
+                extra_width, extra_height, convert_params))
 
     create_thumbnail_calls = []
     entry_data = asmmetadata.parse_file(open(args.datafile))

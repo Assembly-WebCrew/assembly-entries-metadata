@@ -14,7 +14,7 @@ YOUTUBE_MAX_TITLE_LENGTH = 100
 
 
 def is_image(filename):
-    return re.match(r".+\.(png|jpg|jpeg|gif|tiff)$", filename, re.IGNORECASE)
+    return re.match(r".+\.(png|jpg|jpeg|gif|tiff|webp)$", filename, re.IGNORECASE)
 
 
 def get_party_name(year, section_name):

@@ -9,7 +9,8 @@ import PIL.ImageFile
 import subprocess
 import tempfile
 
-ImageSize = collections.namedtuple("ImageSize", ["x", "y"])
+ImageSize = collections.namedtuple(
+    "ImageSize", ["x", "y", "extra_convert_params"])
 # Disable decompression bomb protection. This is required to process
 # some PNG images with PIL...
 PIL.ImageFile.LOAD_TRUNCATED_IMAGES = True
@@ -21,7 +22,8 @@ def get_image_size(filename):
     except Exception as e:
         logging.error("Unable to open %s: %s", filename, e)
         raise e
-    return ImageSize(*image.size)
+    x, y = image.size
+    return ImageSize(x, y, [])
 
 
 def optimize_png(source):
@@ -46,9 +48,15 @@ def create_thumbnail(
 
     if size.y is not None:
         target_size = "%dx%d" % (size.x, size.y)
+        convert_call = [
+            'convert',
+            '-gravity',
+            'Center',
+            '-crop',
+            '%s+0+0' % target_size,
+            '+repage'] + size.extra_convert_params
         subprocess.check_call(
-            ['convert', '-gravity', 'Center', '-crop', '%s+0+0' % target_size,
-             '+repage', temporary_resized_image, target_file])
+            convert_call + [temporary_resized_image, target_file])
     else:
         subprocess.check_call(
             ["convert", temporary_resized_image, target_file])
@@ -60,7 +68,10 @@ def create_thumbnail(
 
 
 def create_thumbnails_tasks(
-        original_image, target_prefix, default_size, extra_sizes):
+        original_image,
+        target_prefix,
+        default_size,
+        extra_sizes):
     creations = []
     size = get_image_size(original_image)
     default_jpeg = "%s-%dw.jpeg" % (target_prefix, default_size.x)
