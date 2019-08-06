@@ -46,6 +46,10 @@ def create_thumbnail(
         ['convert', original_image, '-resize', '%dx20000' % size.x,
          temporary_resized_image])
 
+    # XXX hack
+    convert_params = []
+    if target_file.endswith(".jpeg"):
+        convert_params = size.extra_convert_params
     if size.y is not None:
         target_size = "%dx%d" % (size.x, size.y)
         convert_call = [
@@ -54,13 +58,13 @@ def create_thumbnail(
             'Center',
             '-crop',
             '%s+0+0' % target_size,
-            '+repage'] + size.extra_convert_params
+            '+repage'] + convert_params
         subprocess.check_call(
             convert_call + [temporary_resized_image, target_file])
     else:
         subprocess.check_call(
             (["convert"]
-             + size.extra_convert_params
+             + convert_params
              + [temporary_resized_image, target_file]))
 
     if target_file.endswith(".jpeg"):
