@@ -59,7 +59,9 @@ def create_thumbnail(
             convert_call + [temporary_resized_image, target_file])
     else:
         subprocess.check_call(
-            ["convert", temporary_resized_image, target_file])
+            (["convert"]
+             + size.extra_convert_params
+             + [temporary_resized_image, target_file]))
 
     if target_file.endswith(".jpeg"):
         subprocess.check_call(['jpegoptim', '--strip-all', target_file])
