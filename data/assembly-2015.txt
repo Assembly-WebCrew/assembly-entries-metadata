@@ -1,6 +1,7 @@
 :year 2015
 
 :section Demo
+:youtube-playlist PLJO4AtxKJiFNrQiF_2LHPYH_ZMs4E9Od-
 :pms-category demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2015 PC computer.</p>
 
@@ -22,6 +23,7 @@ author:HACKERS|guid:2054|media:/vod/2015/Compos/2054_Demo_CyberVirtual_Life_Form
 
 
 :section 4k intro
+:youtube-playlist PLJO4AtxKJiFMSu3HDMxex3xblWve65plZ
 :pms-category 4k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2015 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
@@ -39,6 +41,7 @@ author:diedos|guid:2032|media:/vod/2015/Compos/2032_4k_Hello_World_by_diedos.mp4
 
 
 :section 1k intro
+:youtube-playlist PLJO4AtxKJiFMEn0MfQSHu2wMGrjGMSkpl
 :pms-category 1k_intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2015 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 
@@ -55,6 +58,7 @@ author:Exca/Wide Load|guid:1972|media:/vod/2015/Compos/1972_1k_Sateilyvaara_by_E
 
 
 :section Real wild demo
+:youtube-playlist PLJO4AtxKJiFM4iP4ZLPNaCRaz8oER7vzH
 :pms-category real_wild_demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 
@@ -65,6 +69,7 @@ author:Limba|guid:2025|media:/vod/2015/Compos/2025_RealWild_Night_Coding_by_Limb
 
 
 :section Amiga demo
+:youtube-playlist PLJO4AtxKJiFOTIYmdUFB4dVFSD4dk2NHk
 :pms-category amiga
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In this demo competitions demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
 
@@ -81,6 +86,7 @@ author:Software Failure|guid:1969|platform:A1200 AGA/060 (6k intro)|pms-id:asm15
 
 
 :section Short film
+:youtube-playlist PLJO4AtxKJiFMseEWbXWI7hb2ZYjomQdZQ
 :pms-category short_film
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 
@@ -92,6 +98,7 @@ author:ableRex358|guid:2015|media:/vod/2015/Compos/2015_Shortfilm_Wrath_of_the_C
 
 
 :section Gamedev
+:youtube-playlist PLJO4AtxKJiFN8Z8geaj4OlaBHPUZ8_ba-
 :pms-category gamedev
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 
@@ -113,6 +120,7 @@ author:Roistot|guid:1948|media:/vod/2015/Compos/1948_Gamedev_Casual_Mercs_by_Roi
 
 
 :section Listening music
+:youtube-playlist PLJO4AtxKJiFOfeGIiXswl-5oDOk0Eqqy4
 :pms-category listeningmusic
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
 
@@ -365,8 +373,8 @@ author:AssemblyTV|guid:2061|media:/vod/2015/Games/2061_Demo_compostudio_1.mp4|ti
 
 :section Photos summer
 :ranked false
-:galleriafi /kuvat/Assembly Summer 2015/
 :public false
+:galleriafi /kuvat/Assembly Summer 2015/
 
 author:Keskiviikko (rakennuspäivä)|galleriafi:/kuvat/Assembly Summer 2015/Keskiviikko (rakennuspäivä)/santtupajukanta_asmsummer15_20150729_047.jpg|title:santtupajukanta_asmsummer15_20150729_047.jpg
 author:Keskiviikko (rakennuspäivä)|galleriafi:/kuvat/Assembly Summer 2015/Keskiviikko (rakennuspäivä)/santtupajukanta_asmsummer15_20150729_001.jpg|title:santtupajukanta_asmsummer15_20150729_001.jpg
@@ -1952,8 +1960,8 @@ author:Torstai|galleriafi:/kuvat/Assembly Summer 2015/Torstai/emmihalmela_asmsum
 
 :section Photos winter
 :ranked false
-:galleriafi /kuvat/Assembly Winter 2015/
 :public false
+:galleriafi /kuvat/Assembly Winter 2015/
 
 author:Assembly Winter 2015|galleriafi:/kuvat/Assembly Winter 2015/Siikahan se siellä.jpg|title:Siikahan se siellä.jpg
 author:Assembly Winter 2015|galleriafi:/kuvat/Assembly Winter 2015/_A7C6892.jpg|title:_A7C6892.jpg
