@@ -331,7 +331,6 @@ author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Winners - Team 
 author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - Havu gaming vs SUPERTEAM (English)|youtube:de9pHsW8VMI
 author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - HAVU Gaming vs Vitalis (Finnish)|youtube:JvZn3nXhVjc
 author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - HAVU Gaming vs Vitalis (English)|youtube:zI0DvKNnrLQ
-author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - Havu gaming vs SUPERTEAM (Finnish)|youtube:VUr0NRxbgLc
 author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - Alpha Gaming vs Vitalis (Finnish)|youtube:iRrJRI496p4
 author:AssemblyTV|title:ROG Masters CS:GO Nordic Playoffs - Alpha Gaming vs Vitalis (English)|youtube:X3yzJzFtzQU
 author:AssemblyTV|title:ASUS ROG Summer 2017 Overwatch - Group B Winners - Team Gigantti vs Helsinki REDS (English)|youtube:ocWsvdz5v_0
@@ -395,8 +394,8 @@ author:AssemblyTV|title:Assembly Winter Overwatch, Ence eSports vs Helsinki Reds
 
 :section Photos summer
 :ranked false
-:galleriafi /kuvat/Assembly Summer 2017/
 :public false
+:galleriafi /kuvat/Assembly Summer 2017/
 
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2017/Keskiviikko/ASMS2017-SamiEraluoto-7962.jpg|title:ASMS2017-SamiEraluoto-7962.jpg
 author:Keskiviikko|galleriafi:/kuvat/Assembly Summer 2017/Keskiviikko/ASMS2017-SamiEraluoto-7944.jpg|title:ASMS2017-SamiEraluoto-7944.jpg
@@ -1763,8 +1762,8 @@ author:TORSTAI|galleriafi:/kuvat/Assembly Summer 2017/TORSTAI/ASMS2017-SanttuPaj
 
 :section Photos winter
 :ranked false
-:galleriafi /kuvat/Assembly Winter 2017/
 :public false
+:galleriafi /kuvat/Assembly Winter 2017/
 
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2017/Lauantai/SanttuPajukanta-ASMW2017-0033.jpg|title:SanttuPajukanta-ASMW2017-0033.jpg
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2017/Lauantai/SanttuPajukanta-ASMW2017-0032.jpg|title:SanttuPajukanta-ASMW2017-0032.jpg
