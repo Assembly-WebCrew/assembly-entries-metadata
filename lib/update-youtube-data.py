@@ -7,16 +7,16 @@ import sys
 import asmyoutube
 
 
-def update_youtube_info(yt_service, entry_data):
+def update_youtube_info(yt_service, channel_id, entry_data):
     for entry in entry_data.entries:
         if 'youtube' not in entry:
             continue
         if not entry["section"].get("manage-youtube-descriptions", True):
             continue
-        update_youtube_info_entry(yt_service, entry)
+        update_youtube_info_entry(yt_service, channel_id, entry)
 
 
-def update_youtube_info_entry(yt_service, entry):
+def update_youtube_info_entry(yt_service, channel_id, entry):
     youtube_info = asmmetadata.get_youtube_info_data(entry)
     youtube_id = entry["youtube"]
     if "#t=" in youtube_id:
@@ -33,6 +33,9 @@ def update_youtube_info_entry(yt_service, entry):
 
     video_item = videos_list["items"][0]
     video_snippet = video_item["snippet"]
+    if video_snippet["channelId"] != channel_id:
+        print("Video %s is not on requested channel" % youtube_id)
+        return
 
     update_entry = False
     if video_snippet["title"] != youtube_info["title"]:
@@ -63,6 +66,7 @@ def update_youtube_info_entry(yt_service, entry):
 def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")
+    parser.add_argument("--channel-id", default="UCKd3lgwWVhcKaseieJk_9yQ")
     parser.add_argument("--sections", default="")
     asmyoutube.add_auth_args(parser)
     args = parser.parse_args(argv[1:])
@@ -80,7 +84,7 @@ def main(argv):
         entry_data.entries = included_entries
 
     try:
-        update_youtube_info(yt_service, entry_data)
+        update_youtube_info(yt_service, args.channel_id, entry_data)
     except KeyboardInterrupt:
         print("Interrupted")
         return os.EX_DATAERR
