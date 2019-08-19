@@ -101,6 +101,7 @@ def select_smaller_thumbnail(fileprefix):
     else:
         return thumbnail_png, 'png'
 
+
 def generate_section_description(section_data, pms_path_template):
     description = ''
     if 'description' in section:
@@ -110,7 +111,6 @@ def generate_section_description(section_data, pms_path_template):
             description += "<p>You can vote these entries at <a href='%s'>PMS</a>!</p>" % pms_path
     if 'youtube-playlist' in section:
         description += """<p><a href="https://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
-
     return description
 
 
@@ -127,7 +127,7 @@ def meta_year(sections):
     }
 
 
-def meta_section(section, included_entries, description=''):
+def meta_section(section, included_entries, description):
     normalized_section = section['key']
     entry_keys = []
     for entry in included_entries:
@@ -137,7 +137,7 @@ def meta_section(section, included_entries, description=''):
 
     return "%s/meta.json" % (normalized_section), {
         "name": section["name"],
-        "description": section.get("description", ""),
+        "description": description,
         "is-ranked": section.get('ranked', True),
         "is-ongoing": section.get('ongoing', False),
         "entries": entry_keys,
@@ -545,7 +545,9 @@ for section in entry_data.sections:
         add_to_tar(outfile, entry_filename, json_dumps(entry_metadata))
 
     filename, data = meta_section(
-        section, included_entries, section_description)
+        section,
+        included_entries,
+        section_description)
     add_to_tar(outfile, filename, json_dumps(data))
 
 year_filename, year_metadata = meta_year(included_sections)
