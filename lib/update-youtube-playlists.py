@@ -100,11 +100,14 @@ def playlist_modify_info(yt_service, playlist, section):
 
 
 def get_section_youtube_ids(section):
+    sorted_entries = sorted(
+        section['entries'],
+        key=lambda x: x.get('position', 999))
     return map(
         str,
         filter(lambda x: x is not None,
                (entry.get('youtube', None)
-                for entry in section['entries'])))
+                for entry in sorted_entries)))
 
 
 def playlist_add_new_items(yt_service, youtube_entries, section):
@@ -306,7 +309,7 @@ def main(argv=sys.argv):
         update_youtube_playlists(
             yt_service, entry_data, sections, args.privacy)
     except KeyboardInterrupt:
-        result = os.DATAERR
+        result = os.EX_DATAERR
         print("Interrupted")
     except Exception as e:
         result = os.EX_SOFTWARE

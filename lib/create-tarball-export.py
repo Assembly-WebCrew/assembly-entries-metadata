@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import argparse
 import asmmetadata
@@ -30,6 +30,7 @@ EXTRA_IMAGE_WIDTHS = ["%dw" % x for x in (
     640 * 1.25, 640 * 1.5, 640 * 2, 640 * 3, 640 * 4)]
 
 parser = argparse.ArgumentParser()
+parser.add_argument("datafile", type=argparse.FileType("r"))
 parser.add_argument("files_root", metavar="files-root")
 parser.add_argument(
     "--no-empty", dest="noempty", action="store_true",
@@ -45,7 +46,9 @@ FILEROOT = args.files_root
 
 create_empty_sections = not args.noempty
 
-ExternalLinksSection = collections.namedtuple("ExternalLinksSection", ["name", "links"])
+ExternalLinksSection = collections.namedtuple(
+    "ExternalLinksSection", ["name", "links"])
+
 
 class ExternalLinks:
     def __init__(self):
@@ -97,8 +100,6 @@ def select_smaller_thumbnail(fileprefix):
         return thumbnail_jpeg, 'jpeg'
     else:
         return thumbnail_png, 'png'
-
-entry_data = asmmetadata.parse_file(sys.stdin)
 
 def generate_section_description(section_data, pms_path_template):
     description = ''
@@ -507,7 +508,7 @@ for filename, data in music_thumbnail_files:
 now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
 
 included_sections = []
-
+entry_data = asmmetadata.parse_file(args.datafile)
 for section in entry_data.sections:
     if section.get('public', True) is False:
         continue
