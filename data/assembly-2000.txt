@@ -84,21 +84,21 @@ author:Depth & Mystic|position:14|pouet:13320|sceneorg:/parties/2000/assembly00/
 :youtube-playlist 7529AE304A80BDD1
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>Demo competition limited platforms to 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>.</p>
 
-author:Exceed|cappedtv:1208980142-1-0&width=512&height=384|dtv:id_file=2797&id_prod=9834&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/120.jpg&width=512&height=404|position:1|pouet:120|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|title:Spot
-author:Haujobb|dtv:id_file=1508&id_prod=944&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/125.gif&width=512&height=404|position:2|pouet:125|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|title:Art|youtube:SUI1lzrWEwY
-author:maturefurk|dtv:id_file=1509&id_prod=6069&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/130.jpg&width=512&height=404|position:3|pouet:130|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|title:lapsus
-author:Doomsday|position:4|pouet:481|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|title:Lotto
-author:Orange|dtv:id_file=4111&id_prod=10652&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/129.jpg&width=512&height=404|position:5|pouet:129|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|title:the nonstop ibiza experience|youtube:sF6lq-XkNbQ
-author:damage|dtv:id_file=1510&id_prod=3520&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/588.jpg&width=512&height=404|position:6|pouet:588|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|title:en haluaisi olla|youtube:M8BLHrFtp8A
-author:Sol/Trauma|position:7|pouet:473|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|title:Stuff I whacked together when I was bored.
-author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip|title:HAUgyJOBB
-author:Noice|dtv:id_file=4025&id_prod=3559&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/124.jpg&width=512&height=404|position:9|pouet:124|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|title:Enlight The Surreal
+author:Exceed|cappedtv:1208980142-1-0&width=512&height=384|position:1|pouet:120|sceneorg:/parties/2000/assembly00/demo/spot_by_.zip|title:Spot|youtube:2qbAfyF6IIc
+author:Haujobb|position:2|pouet:125|sceneorg:/parties/2000/assembly00/demo/art_by_h.zip|title:Art|youtube:SUI1lzrWEwY
+author:maturefurk|position:3|pouet:130|sceneorg:/parties/2000/assembly00/demo/lapsus_by_maturefurk.zip|title:lapsus|youtube:4nw5pj9ZUKM
+author:Doomsday|position:4|pouet:481|sceneorg:/parties/2000/assembly00/demo/lotto_by.zip|title:Lotto|youtube:_vGJXPTtH78
+author:Orange|position:5|pouet:129|sceneorg:/parties/2000/assembly00/demo/ibiza_fixed.zip|title:the nonstop ibiza experience|youtube:sF6lq-XkNbQ
+author:damage|position:6|pouet:588|sceneorg:/parties/2000/assembly00/demo/en_halua.zip|title:en haluaisi olla|youtube:M8BLHrFtp8A
+author:Sol/Trauma|position:7|pouet:473|sceneorg:/parties/2000/assembly00/demo/stuff_i_.zip|title:Stuff I whacked together when I was bored.|youtube:JwIky4lmerU
+author:Astral|position:8|sceneorg:/parties/2000/assembly00/demo/haugyjob.zip|title:HAUgyJOBB|youtube:UsnHWSqEm8Q
+author:Noice|position:9|pouet:124|sceneorg:/parties/2000/assembly00/demo/enlight_.zip|title:Enlight The Surreal|youtube:0nEXrYjGLMY
 author:Unique|position:10|pouet:592|sceneorg:/parties/2000/assembly00/demo/reaching.zip|title:Reaching
-author:Mandula|dtv:id_file=1903&id_prod=6278&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/297.jpg&width=512&height=404|position:11|pouet:297|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|title:live evil
-author:A-Men PC|position:12|pouet:6314|sceneorg:/parties/2000/assembly00/demo/return_b.zip|title:RETURN
-author:MadWizards|position:13|pouet:2299|sceneorg:/parties/2000/assembly00/demo/metatag_.zip|title:Metatag
-author:the tough guys|dtv:id_file=3850&id_prod=5618&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2801.jpg&width=512&height=404|position:14|pouet:2801|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|title:ahonen does asm
-author:Apocalypse Design|position:15|pouet:1541|sceneorg:/parties/2000/assembly00/demo/explicit.zip|title:Explicit Supremacy
+author:Mandula|position:11|pouet:297|sceneorg:/parties/2000/assembly00/demo/liveevil.zip|title:live evil|youtube:wSAkUZvhyv4
+author:A-Men PC|position:12|pouet:6314|sceneorg:/parties/2000/assembly00/demo/return_b.zip|title:RETURN|youtube:fgaY3j2I1Xo
+author:MadWizards|position:13|pouet:2299|sceneorg:/parties/2000/assembly00/demo/metatag_.zip|title:Metatag|youtube:bHbnu_d2A_4
+author:the tough guys|position:14|pouet:2801|sceneorg:/parties/2000/assembly00/demo/ahonen_d.zip|title:ahonen does asm|youtube:V4f6rmD_xk0
+author:Apocalypse Design|position:15|pouet:1541|sceneorg:/parties/2000/assembly00/demo/explicit.zip|title:Explicit Supremacy|youtube:A1yQnMME2OY
 
 
 :section Oldskool music
