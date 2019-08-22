@@ -45,17 +45,17 @@ author:Spacey|position:15|sceneorg:/parties/2000/assembly00/mp3/scorts_b.zip|tit
 :youtube-playlist BA2920D9B7FF6437
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 64k intro competition these programs are limited in size to 64 kilobytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 64 kilobytes is enough space to generate desired graphics and music algorithmically but doesn't enable usage of drawn graphics or recorded music.</p>
 
-author:haujobb|cappedtv:haujobb-dead_flowers&width=640&height=368|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|position:1|pouet:135|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|title:Dead Flowers
-author:Exploder|position:2|pouet:3590|sceneorg:/parties/2000/assembly00/in64/incision.zip|title:Incision
-author:foobug|position:3|pouet:503|sceneorg:/parties/2000/assembly00/in64/who_need.zip|title:Who needs raytrace anyway?
+author:haujobb|cappedtv:haujobb-dead_flowers&width=640&height=368|dtv:id_file=4020&id_prod=12487&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/135_2.jpg&width=512&height=404|position:1|pouet:135|sceneorg:/parties/2000/assembly00/in64/dead_flo.zip|title:Dead Flowers|youtube:kPgZcNos0Tc
+author:Exploder|position:2|pouet:3590|sceneorg:/parties/2000/assembly00/in64/incision.zip|title:Incision|youtube:mICJ66VAMU4
+author:foobug|position:3|pouet:503|sceneorg:/parties/2000/assembly00/in64/who_need.zip|title:Who needs raytrace anyway?|youtube:BrovMOfq5zU
 author:jmagic/komplex|position:4|pouet:252|sceneorg:/parties/2000/assembly00/in64/mixed_ba.zip|title:mixed bag
-author:Armada/Trauma, Grin, tAAt|position:5|pouet:550|sceneorg:/parties/2000/assembly00/in64/frektaal.zip|title:FREKTAALI
+author:Armada/Trauma, Grin, tAAt|position:5|pouet:550|sceneorg:/parties/2000/assembly00/in64/frektaal.zip|title:FREKTAALI|youtube:0W5-k8nRwEQ
 author:TMB/OUTBREAK|position:6|pouet:4332|sceneorg:/parties/2000/assembly00/in64/attracti.zip|title:Attraction
-author:array|position:7|pouet:160|sceneorg:/parties/2000/assembly00/in64/level_tw.zip|title:level twentyfive
-author:Appendix|dtv:id_file=4063&id_prod=3459&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3456.jpg&width=512&height=404|position:8|pouet:3456|sceneorg:/parties/2000/assembly00/in64/electric.zip|title:Electricity
+author:array|position:7|pouet:160|sceneorg:/parties/2000/assembly00/in64/level_tw.zip|title:level twentyfive|youtube:wz-AVNEmTRo
+author:Appendix|dtv:id_file=4063&id_prod=3459&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3456.jpg&width=512&height=404|position:8|pouet:3456|sceneorg:/parties/2000/assembly00/in64/electric.zip|title:Electricity|youtube:vajBL6pjD_M
 author:addiction + unique|position:9|pouet:3653|sceneorg:/parties/2000/assembly00/in64/kirahvi_.zip|title:kirahvi
 author:Static|position:10|pouet:460|sceneorg:/parties/2000/assembly00/in64/heartbea.zip|title:Heartbeat
-author:Whelpz|position:11|pouet:3994|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|title:Rays
+author:Whelpz|position:11|pouet:3994|sceneorg:/parties/2000/assembly00/in64/rays_by_.zip|title:Rays|youtube:TB1ngpjoiew
 author:.sPOOn.|position:12|pouet:3619|sceneorg:/parties/2000/assembly00/in64/presence.zip|title:Presence
 author:No Pants Productions|position:13|pouet:204|sceneorg:/parties/2000/assembly00/in64/seeking_.zip|title:Seeking|youtube:ZpRPcmqkI2g
 
@@ -72,7 +72,7 @@ author:Spaceballs|position:5|pouet:3801|sceneorg:/parties/2000/assembly00/oldsko
 author:Contraz|position:6|pouet:13321|sceneorg:/parties/2000/assembly00/oldskool/demo/197-olds.zip|title:Oldskool
 author:dekadence|position:7|pouet:3556|sceneorg:/parties/2000/assembly00/oldskool/demo/no_panic.zip|title:No Panic|youtube:gY0CrtzGz0o
 author:HeadcrasH|position:8|pouet:416|sceneorg:/parties/2000/assembly00/oldskool/demo/drystal_.zip|title:Drystal Cream 2.5|youtube:ZA0vBwhl_n4
-author:Mandel Bros|position:9|pouet:8576|sceneorg:/parties/2000/assembly00/oldskool/demo/201-olds.zip|title:Oldskool Fools
+author:Mandel Bros|position:9|pouet:8576|sceneorg:/parties/2000/assembly00/oldskool/demo/201-olds.zip|title:Oldskool Fools|youtube:tQZ6F8FwBDo
 author:Armo|position:10|sceneorg:/parties/2000/assembly00/oldskool/demo/the_frid.zip|title:The Friday Night Project
 author:Byterapers, Inc.|position:11|sceneorg:/parties/2000/assembly00/oldskool/demo/supremn_.zip|title:Supremen
 author:Hujowa|position:12|pouet:22486|sceneorg:/parties/2000/assembly00/oldskool/demo/our_spee.zip|title:Our Speedway|youtube:tBCMHpGCHUE
@@ -163,7 +163,7 @@ author:haujobb|position:2|pouet:2433|sceneorg:/parties/2000/assembly00/psx/rankk
 :youtube-playlist 3B8974D38A9F3700
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on 2000 PCs, <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a> and <a href="http://en.wikipedia.org/wiki/Java_virtual_machine">Java VM</a>. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
-author:Exploder|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404|position:1|pouet:3377|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|title:Humus
+author:Exploder|dtv:id_file=3830&id_prod=5173&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/3377.jpg&width=512&height=404|position:1|pouet:3377|sceneorg:/parties/2000/assembly00/in4k/humus_by.zip|title:Humus|youtube:-SsxFmzo1JY
 author:NoID|position:2|pouet:7614|sceneorg:/parties/2000/assembly00/in4k/the_blue.zip|title:The Blue Man|youtube:X8SoqSRrzAE
 author:Digimind|position:3|pouet:12222|sceneorg:/parties/2000/assembly00/in4k/mercury_.zip|title:Mercury|youtube:ECm1ZrEMll4
 author:Moottori|position:4|pouet:14256|sceneorg:/parties/2000/assembly00/in4k/penseys_.zip|title:Penseys
@@ -230,7 +230,7 @@ author:kokki|position:25|sceneorg:/parties/2000/assembly00/grfx/ei_kiva_.zip|tit
 
 author:tAAt|dtv:id_file=3345&id_prod=6140&id_app=14&image=http%3A//dtv.was.demoscene.tv/was/app/demoscenetv/14/2626.jpg&width=512&height=404|position:1|pouet:2626|sceneorg:/parties/2000/assembly00/wild/legorso.mpg|title:LeGorso|webfile:wild_demo/legorso_by_taat.mpeg|youtube:kmPHdqoowAk
 author:Nyhjä Group|position:2|title:What Is a Woman
-author:Insane Bastards|position:3|title:Vihred uhka
+author:Insane Bastards|position:3|title:Vihreä uhka|youtube:t2GM3CSp7rU
 author:Lantrix|position:4|pouet:28611|sceneorg:/parties/2000/assembly00/wild/bitman__.zip|title:Bitman & Lowping|webfile:wild_demo/bitman_lowping_by_lantrix.mpeg|youtube:btj7QqDMSnU
 author:Funky Bong|position:5|sceneorg:/parties/2000/assembly00/wild/asmblr.mpg|title:Assembler (k)|webfile:wild_demo/assembler_k_by_funky_bong.mpeg|youtube:eDpKsovdq8k
 author:Joorus & Julle|position:6|pouet:28610|sceneorg:/parties/2000/assembly00/wild/the_game.zip|title:The Game|webfile:wild_demo/the_game_by_joorus_julle.mpeg|youtube:_Kgi47REmf8
