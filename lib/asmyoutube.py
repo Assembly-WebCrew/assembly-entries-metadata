@@ -1,15 +1,15 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import httplib2
+import logging
 import re
 import time
 
 from apiclient.discovery import build
-from apiclient.errors import HttpError
+import googleapiclient.errors
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
-from oauth2client.tools import argparser, run_flow
 
 
 def add_auth_args(parser):
@@ -80,7 +80,14 @@ def try_operation(label, function, retries=3, sleep=4):
     while not success and retry_count < retries:
         retry_count += 1
         print("Try %d: %s" % (retry_count, label))
-        result = function()
+        result = None
+        try:
+            result = function()
+        except googleapiclient.errors.HttpError as e:
+            logging.warning("Backend error: %s", e)
+            if e.resp.status == 500:
+                pass
+            raise e
         time.sleep(sleep)
         if result is not None:
             success = True
