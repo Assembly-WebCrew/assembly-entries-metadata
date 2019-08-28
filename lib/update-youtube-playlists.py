@@ -3,6 +3,7 @@
 import argparse
 import asmmetadata
 import asmyoutube
+import logging
 import os
 import re
 import sys
@@ -69,7 +70,7 @@ def fetch_youtube_playlist_entries(yt_service, section):
         if not new_videos["items"]:
             return all_videos
         all_videos.extend(new_videos["items"])
-        if len(new_videos["items"]) < 50:
+        if len(all_videos) == new_videos["pageInfo"]["totalResults"]:
             return all_videos
         next_page_token = new_videos["nextPageToken"]
     # We probably shouldn't have over 500 videos on one playlist...
@@ -313,7 +314,8 @@ def main(argv=sys.argv):
         print("Interrupted")
     except Exception as e:
         result = os.EX_SOFTWARE
-        print("EXCEPTION Unknown exception happened: %s" % e)
+        logging.exception(
+            "EXCEPTION Unknown exception happened: %s", e, exc_info=e)
 
     fp = open(args.datafile, "w")
     asmmetadata.print_metadata(fp, entry_data)
