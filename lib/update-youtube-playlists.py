@@ -70,9 +70,11 @@ def fetch_youtube_playlist_entries(yt_service, section):
         if not new_videos["items"]:
             return all_videos
         all_videos.extend(new_videos["items"])
-        if len(all_videos) == new_videos["pageInfo"]["totalResults"]:
+        if new_videos["pageInfo"]["totalResults"] <= len(all_videos):
             return all_videos
-        next_page_token = new_videos["nextPageToken"]
+        next_page_token = new_videos.get("nextPageToken")
+        if not next_page_token:
+            return all_videos
     # We probably shouldn't have over 500 videos on one playlist...
     return all_videos
 
