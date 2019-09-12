@@ -86,7 +86,7 @@ def try_operation(label, function, retries=3, sleep=4):
         except googleapiclient.errors.HttpError as e:
             logging.warning("Backend error: %s", e)
             if e.resp.status == 500:
-                pass
+                continue
             raise e
         time.sleep(sleep)
         if result is not None:
