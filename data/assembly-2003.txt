@@ -242,13 +242,12 @@ author:Firelight Crew|sceneorg:/parties/2003/assembly03/instrumentalmusic/cappuc
 author:Planeshifter|sceneorg:/parties/2003/assembly03/instrumentalmusic/sunrise_by_planeshifter.zip|title:Sunrise|webfile:instrumental_music/sunrise_by_planeshifter.mp3|youtube:mOC94dtj6_s
 author:Lazy Bastard|sceneorg:/parties/2003/assembly03/instrumentalmusic/sweet_darkness_by_lazy_bastard.zip|title:Sweet Darkness|webfile:instrumental_music/sweet_darkness_by_lazy_bastard.mp3|youtube:h73q4RGrvz4
 author:Vfgdfg|sceneorg:/parties/2003/assembly03/instrumentalmusic/kalastajapappa_by_vfgdfg.zip|title:Kalastajapappa|webfile:instrumental_music/kalastajapappa_by_vfgdfg.mp3|youtube:ZCN_PUaTGL4
-author:Buhis|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse_by_buhis_1.zip|title:Eclipse|webfile:instrumental_music/eclipse_by_buhis.mp3|youtube:Azcj80uZVt8
+author:Buhis|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse_by_buhis_1.zip,/parties/2003/assembly03/instrumentalmusic/eclipse__asm03_edit__by_buhis.zip|title:Eclipse|webfile:instrumental_music/eclipse_by_buhis.mp3|youtube:Azcj80uZVt8
 author:Tsokleg|title:Air Play
 author:HEXAGON / Gender8|sceneorg:/parties/2003/assembly03/instrumentalmusic/painful_news_by_hexagon___gender8.zip|title:Painful News|webfile:instrumental_music/painful_news_by_hexagon_gender8.mp3|youtube:s2Y_Zr9psZo
 author:Sueño|sceneorg:/parties/2003/assembly03/instrumentalmusic/machine_oil_by_sue_o.zip|title:Machine Oil|webfile:instrumental_music/machine_oil_by_sue_o.mp3|youtube:49qrkZndAvQ
 author:Aikapallo|sceneorg:/parties/2003/assembly03/instrumentalmusic/nautakone_by_aikapallo_1.zip|title:Nautakone|webfile:instrumental_music/nautakone_by_aikapallo.mp3|youtube:LvOt-bCaNbI
 author:Jean Nine|sceneorg:/parties/2003/assembly03/instrumentalmusic/it_grew_from_the_dust_by_jean_nine.zip|title:It Grew From The Dust|webfile:instrumental_music/it_grew_from_the_dust_by_jean_nine.mp3|youtube:UdpsXt13s5c
-author:Buhis|sceneorg:/parties/2003/assembly03/instrumentalmusic/eclipse__asm03_edit__by_buhis.zip|title:Eclipse (asm03 edit)|webfile:instrumental_music/eclipse_asm03_edit_by_buhis.mp3|youtube:YrS9SOxT7Vw
 author:bad loop|sceneorg:/parties/2003/assembly03/instrumentalmusic/50mikrog_by_bad_loop.zip|title:50mikrog|webfile:instrumental_music/50mikrog_by_bad_loop.mp3|youtube:NnWJPz02a5Y
 author:Puti|sceneorg:/parties/2003/assembly03/instrumentalmusic/happy_music_club_by_puti.zip|title:Happy Music Club|webfile:instrumental_music/happy_music_club_by_puti.mp3|youtube:tZYGg0cEiqM
 author:Reverie / Faktory|sceneorg:/parties/2003/assembly03/instrumentalmusic/the_way_to_you_inside_me_by_reverie___faktory.zip|title:The Way To You Inside Me|webfile:instrumental_music/the_way_to_you_inside_me_by_reverie_faktory.mp3|youtube:3w3YNeRW58I
