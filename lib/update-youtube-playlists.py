@@ -3,6 +3,7 @@
 import argparse
 import asmmetadata
 import asmyoutube
+import googleapiclient.errors
 import logging
 import os
 import re
@@ -136,17 +137,24 @@ def playlist_add_new_items(yt_service, youtube_entries, section):
 
     for entry in missing_entries:
         youtube_id = asmmetadata.get_clean_youtube_id(entry)
-        asmyoutube.try_operation(
-            u"Adding %s (%s)" % (entry['title'], youtube_id),
-            lambda: yt_service.playlistItems().insert(
-                part="snippet",
-                body=dict(
-                    snippet=dict(
-                        playlistId=section["youtube-playlist"],
-                        resourceId=dict(
-                            kind="youtube#video",
-                            videoId=youtube_id)))).execute(),
-            sleep=1)
+        try:
+            asmyoutube.try_operation(
+                u"Adding %s (%s)" % (entry['title'], youtube_id),
+                lambda: yt_service.playlistItems().insert(
+                    part="snippet",
+                    body=dict(
+                        snippet=dict(
+                            playlistId=section["youtube-playlist"],
+                            resourceId=dict(
+                                kind="youtube#video",
+                                videoId=youtube_id)))).execute(),
+                sleep=1)
+        except googleapiclient.errors.HttpError as e:
+            if e.resp.status == 403:
+                logging.warning("Operation forbidden: %s", e)
+                continue
+            raise e
+
     return fetch_youtube_playlist_entries(yt_service, section)
 
 
