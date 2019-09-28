@@ -114,6 +114,17 @@ def get_section_youtube_ids(section):
                 for entry in sorted_entries)))
 
 
+def get_playlist_youtube_ids(youtube_entries, youtube_ids):
+    valid_ids = set()
+    for entry in youtube_entries:
+        valid_ids.add(entry["snippet"]["resourceId"]["videoId"])
+    result = []
+    for youtube_id in youtube_ids:
+        if youtube_id not in valid_ids:
+            continue
+        result.append(youtube_id)
+    return result
+
 def playlist_add_new_items(yt_service, youtube_entries, section):
     section_entries_set = set(get_section_youtube_ids(section))
 
@@ -195,7 +206,10 @@ def playlist_reorder_entries(yt_service, youtube_entries, section):
     """
 
     positions = {}
-    for position, video_id in enumerate(get_section_youtube_ids(section)):
+    youtube_ids = get_playlist_youtube_ids(
+        youtube_entries, get_section_youtube_ids(section))
+
+    for position, video_id in enumerate(youtube_ids):
         positions[video_id] = position
 
     entries_video_id = {}
