@@ -66,7 +66,7 @@ if __name__ == "__main__":
                 if len(description) > 0:
                     description = description.replace(u"\n\n", u"</p><p>")
                     description = description.replace(u"\n", u"<br/>")
-                    description = u"|description:%s" % description
+                    description = u"description:%s|" % description
 
                 outline = u"author:AssemblyTV|%stitle:%s|youtube:%s" % (
                     description, title, video_id)
