@@ -388,7 +388,6 @@ author:AssemblyTV|description:Kävimme haastattelemassa Kalle 'Trixi' Saarista L
 
 :section Photos summer
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Summer 2014/
 
 author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2014/Aleksi Kinnunen/_V7Q6542.jpg|title:_V7Q6542.jpg
@@ -1583,7 +1582,6 @@ author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2014/Tuula Ylikorpi/1A1C
 
 :section Photos winter
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Winter 2014/
 
 author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Winter 2014/Aleksi Kinnunen/_V7Q9843.jpg|title:_V7Q9843.jpg

@@ -384,7 +384,6 @@ author:AssemblyTV|title:Assembly Winter 2016 Sunday dismantling timelapse|youtub
 
 :section Photos summer
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Summer 2016/
 
 author:Keskiviikko (rakennuspäivä)|galleriafi:/kuvat/Assembly Summer 2016/Keskiviikko (rakennuspäivä)/SanttuPajukanta-ASMS2016-0023.jpg|title:SanttuPajukanta-ASMS2016-0023.jpg
@@ -1880,7 +1879,6 @@ author:Torstai|galleriafi:/kuvat/Assembly Summer 2016/Torstai/OttoJahnukainen_AS
 
 :section Photos winter
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Winter 2016/
 
 author:Assembly Winter 2016|galleriafi:/kuvat/Assembly Winter 2016/image.jpeg|title:image.jpeg
