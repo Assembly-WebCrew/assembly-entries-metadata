@@ -452,7 +452,6 @@ author:AssemblyTV|description:Yön fiiliksiä Assembly Wintereiltä 2019!</p><p>
 
 :section Photos summer
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Summer 2019/
 
 author:KESKIVIIKKO|galleriafi:/kuvat/Assembly Summer 2019/KESKIVIIKKO/ASMS2019-SamiEraluoto-9450.jpg|title:ASMS2019-SamiEraluoto-9450.jpg
@@ -1838,7 +1837,6 @@ author:TORSTAI|galleriafi:/kuvat/Assembly Summer 2019/TORSTAI/asms19_atte_haapal
 
 :section Photos winter
 :ranked false
-:public false
 :galleriafi /kuvat/Assembly Winter 2019/
 
 author:Lauantai|galleriafi:/kuvat/Assembly Winter 2019/Lauantai/asm_w19_c_atte_haapalahti-0370.jpg|title:asm_w19_c_atte_haapalahti-0370.jpg
