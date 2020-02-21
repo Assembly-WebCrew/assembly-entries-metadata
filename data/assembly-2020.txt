@@ -1,0 +1,27 @@
+:year 2020
+
+:section Winter One Scene
+:public false
+:description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
+
+:section Winter Fast Effect
+:description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
+:public false
+
+:section Winter Tracked Music
+:public false
+:description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+
+:section Winter Graphics
+:description <p>In Graphics competition images may be created with any desired method about anything.</p>
+:public false
+
+:section Winter AssemblyTV
+:ranked false
+:author-in-title false
+:manage-youtube-descriptions false
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+
+:section Photos Winter
+:ranked false
+:public false
