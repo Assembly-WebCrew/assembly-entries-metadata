@@ -485,6 +485,8 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         tags.update(entry_tags.split(" "))
 
     metadata = {
+        "year": year,
+        "section": section_name,
         "title": title,
         "author": author,
         "asset": asset,
