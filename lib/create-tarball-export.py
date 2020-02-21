@@ -251,7 +251,6 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     normalized_name = asmmetadata.normalize_key(
         asmmetadata.get_entry_name(entry))
     normalized_section = asmmetadata.normalize_key(section_name)
-    position = entry.get('position', 0)
 
     external_links = ExternalLinks()
     locations = ""
@@ -260,10 +259,12 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if 'warning' in entry:
         description += u"%s</p>\n<p>" % html.escape(entry['warning'])
 
-    position_str = None
+    placement = None
+    placement_str = None
     if entry["section"].get("ranked", True):
-        if position != 0:
-            position_str = str(position) + asmmetadata.get_ordinal_suffix(position) + " place"
+        placement = entry.get('position', -1)
+        if placement != -1:
+            placement_str = str(placement) + asmmetadata.get_ordinal_suffix(placement) + " place"
 
     has_media = False
 
@@ -273,7 +274,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if not "Seminars" in section_name:
-            description += description_generator(entry, position_str)
+            description += description_generator(entry, placement_str)
 
     if 'description' in entry:
         description += u"%s</p>\n<p>" % entry['description']
@@ -483,7 +484,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if entry_tags:
         tags.update(entry_tags.split(" "))
 
-    return "%s/%s/meta.json" % (normalized_section, normalized_name), {
+    metadata = {
         "title": title,
         "author": author,
         "asset": asset,
@@ -491,6 +492,9 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         "description": description,
         "external-links": external_links.sections,
     }
+    if placement is not None:
+        metadata["placement"] = placement
+    return "%s/%s/meta.json" % (normalized_section, normalized_name), metadata
 
 
 tmp_outfile = args.outfile + ".tmp"
