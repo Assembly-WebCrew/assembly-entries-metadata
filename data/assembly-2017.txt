@@ -132,6 +132,7 @@ author:Team Bulldozage|platform:Android|pms-id:asm17/gamedev/292|position:15|tit
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFO90t7x1dkoB258boeeuYee
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -152,6 +153,7 @@ author:Piiska feat. Saari|pms-id:asm17/listening_music/427|position:13|sceneorg:
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFMQFiMGcesp0ntvynLXNfxQ
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that had a speech sample saying "Assembly 25 years" or "Assembly 25 vuotta" (voice sample or speechsynth accepted) and the speech had to be accompanied by either: a) C64 arps, b) Guitars, or c) Violins. Otherwise music could be created with any tools desired.</p>
@@ -176,6 +178,7 @@ author:Roz / Fit ^ Byterapers|pms-id:asm17/fast_music/456|position:17|sceneorg:/
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFP9VlTNxMEOM5TQyN82SPIS
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>

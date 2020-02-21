@@ -1,6 +1,7 @@
 :year 1997
 
 :section C64 music
+:section-thumbnail music-thumbnail
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 author:Trident/Active|position:1|title:Fugue in G-Minor
@@ -141,6 +142,7 @@ author:aa/roy|position:8|title:Vote for Me
 
 
 :section 4 channel music
+:section-thumbnail music-thumbnail
 :youtube-playlist E300BE183BADF6A2
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
@@ -217,6 +219,7 @@ author:Amable|position:8|pouet:1258|sceneorg:/parties/1997/assembly97/in64/amb_n
 
 
 :section Multichannel music
+:section-thumbnail music-thumbnail
 :youtube-playlist DAE2D35A28DA3C37
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 

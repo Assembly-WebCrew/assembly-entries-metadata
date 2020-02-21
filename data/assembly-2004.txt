@@ -119,6 +119,7 @@ author:DiamonDie/foobug^Numedia Cyclops|sceneorg:/parties/2004/assembly04/fast/g
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 496B78CC9AEE3915
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
@@ -141,6 +142,7 @@ author:Inphernic|sceneorg:/parties/2004/assembly04/fast/music/insane_gangrene_by
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist FF603FD013568F12
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
@@ -237,6 +239,7 @@ author:DeCoder / lucid|sceneorg:/parties/2004/assembly04/grfx/freestyle_themed/c
 
 
 :section Freestyle music
+:section-thumbnail music-thumbnail
 :youtube-playlist 69B0D48B4D562BCC
 :description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
@@ -377,6 +380,7 @@ author:Plinc|media:/vod/.oldies-goldies/compos/ASM04 Browser demo - 6th - Kuutio
 
 
 :section Instrumental music
+:section-thumbnail music-thumbnail
 :youtube-playlist 0DCAA224BA4637EB
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 

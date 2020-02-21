@@ -76,6 +76,7 @@ author:Marq/Fit^Lieves!Tuore|position:10|sceneorg:/parties/2002/assembly02/analo
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist AD60BDA3B387996C
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
@@ -113,6 +114,7 @@ author:kiste / Team scene.ee|sceneorg:/parties/2002/assembly02/fastmusic/oh_my_d
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist B43BD0202DF831DE
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
@@ -453,6 +455,7 @@ author:Itchi / Lonely Coders|position:12|pouet:20613|sceneorg:/parties/2002/asse
 
 
 :section Vocal music
+:section-thumbnail music-thumbnail
 :youtube-playlist FFCCEC7DE365C630
 :description <p>In Vocal music competition entries could be any type of music from any genre created with any method and unlike in Instrumental music competition, they could also include human vocals.</p>
 

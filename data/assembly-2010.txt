@@ -198,6 +198,7 @@ author:Bendy Patrol Games|position:19|pouet:55544|sceneorg:/parties/2010/assembl
 
 
 :section Executable music
+:section-thumbnail music-thumbnail
 :youtube-playlist 4F7845E729FC1A3A
 :description <p>In Executable music competition music is generated with programs that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
 
@@ -213,6 +214,7 @@ author:Mr. Bunny / brainlez Coders!|position:9|sceneorg:/parties/2010/assembly10
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 93491AE9814A97E7
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -234,6 +236,7 @@ author:Aspor|position:15|sceneorg:/parties/2010/assembly10/fast/music/false_drea
 
 
 :section Music
+:section-thumbnail music-thumbnail
 :youtube-playlist F52F8B3368EA0E0B
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
 

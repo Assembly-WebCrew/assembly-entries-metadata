@@ -34,6 +34,7 @@ author:Pentagon|position:11|pouet:29652|sceneorg:/parties/1993/assembly93/100k/u
 
 
 :section PC music multichannel
+:section-thumbnail music-thumbnail
 :youtube-playlist 0E597FC190FC7DC1
 :description <p>In PC music multichannel competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
@@ -124,6 +125,7 @@ author:Alphaforce|position:9|sceneorg:/parties/1993/assembly93/demo/phenom.zip|t
 
 
 :section PC music 4 channel
+:section-thumbnail music-thumbnail
 :description <p>In PC music 4 channel competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 author:Purple Motion / Future Crew|position:1|title:Sundance

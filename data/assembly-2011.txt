@@ -75,6 +75,7 @@ author:Bilotrip|guid:1288|media:/vod/2011/Compos/1288_Oldskool_Mind_Control_Tril
 
 
 :section Music
+:section-thumbnail music-thumbnail
 :youtube-playlist 52B2C64F8AF7DDC5
 :pms-category music
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
@@ -116,6 +117,7 @@ author:Mazor of Fairlight|pms-id:asm11/graphics/261|position:2|sceneorg:/parties
 
 
 :section Extreme music
+:section-thumbnail music-thumbnail
 :youtube-playlist 548E8890EA9CB823
 :pms-category extreme_music
 :description <p>In Extreme music competition music is generated with programs that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
@@ -165,6 +167,7 @@ author:Random|pms-id:asm11/fast_graphics/253|position:11|sceneorg:/parties/2011/
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist C20FE21D482ACEFD
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>

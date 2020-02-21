@@ -501,20 +501,13 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
 
 tmp_outfile = args.outfile + ".tmp"
 outfile = tarfile.TarFile.open(tmp_outfile, "w")
-music_thumbnail_files, music_thumbnails = get_images(
-    ".",
-    "",
-    "thumbnails/music-thumbnail",
-    DEFAULT_THUMBNAIL_SIZE,
-    EXTRA_THUMBNAIL_WIDTHS,
-    "../../")
-for filename, data in music_thumbnail_files:
-    add_to_tar(outfile, filename, data)
+section_thumbnails = {}
 
 now = datetime.datetime.utcnow().replace(tzinfo=pytz.utc)
 
 included_sections = []
 entry_data = asmmetadata.parse_file(args.datafile)
+
 for section in entry_data.sections:
     if section.get('public', True) is False:
         continue
@@ -531,7 +524,24 @@ for section in entry_data.sections:
 
     sorted_entries = asmmetadata.sort_entries(section['entries'])
     # Music files have all the same thumbnail.
+    section_thumbnail = section.get("section-thumbnail")
     if 'music' in section['name'].lower():
+        assert section_thumbnail
+
+    section_thumbnails_meta = None
+    if section_thumbnail:
+        if section_thumbnail not in section_thumbnails:
+            section_thumbnail_files, section_thumbnails_meta = get_images(
+                ".",
+                "",
+                "thumbnails/%s" % section_thumbnail,
+                DEFAULT_THUMBNAIL_SIZE,
+                EXTRA_THUMBNAIL_WIDTHS,
+                "../../")
+            for filename, data in section_thumbnail_files:
+                add_to_tar(outfile, filename, data)
+            section_thumbnails[section_thumbnail] = section_thumbnails_meta
+        section_thumbnails_meta = section_thumbnails[section_thumbnail]
         for entry in sorted_entries:
             entry['use-parent-thumbnail'] = True
     entry_position_descriptor = entry_position_description_factory(
@@ -543,7 +553,7 @@ for section in entry_data.sections:
             entry_data.year,
             entry,
             entry_position_descriptor,
-            music_thumbnails)
+            section_thumbnails_meta)
         if not entry_out:
             continue
         included_entries.append(entry)

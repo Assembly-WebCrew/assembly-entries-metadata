@@ -1,6 +1,7 @@
 :year 2009
 
 :section Extreme music
+:section-thumbnail music-thumbnail
 :youtube-playlist 2B5BB8FA63EC566E
 :description <p>In Extreme music competition music is generated with programs or <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a> that are under 32 kilobytes in size. In comparison, 32 kilobytes is just 2 seconds of normal quality compressed 128 kbits MP3/AAC music that is often used as a measure how much a MP3 player can hold music.</p>
 
@@ -108,6 +109,7 @@ author:Hopokka|sceneorg:/parties/2009/assembly09/fast/grfx/afterbeach_by_hopokka
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 3EEEB02E415C9B7F
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -223,6 +225,7 @@ author:KorpisotuRiT|pouet:53678|sceneorg:/parties/2009/assembly09/real_wild/demo
 
 
 :section Music
+:section-thumbnail music-thumbnail
 :youtube-playlist 7D5203A7062EB4C8
 :description <p>In Music competition entries may be any type of music from any genre created with any method.</p>
 

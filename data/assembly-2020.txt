@@ -9,6 +9,7 @@
 :public false
 
 :section Winter Tracked Music
+:section-thumbnail music-thumbnail-winter
 :public false
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 

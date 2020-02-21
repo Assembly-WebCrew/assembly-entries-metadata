@@ -1,6 +1,7 @@
 :year 1998
 
 :section C64 music
+:section-thumbnail music-thumbnail
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 author:tbb|position:1|sceneorg:/parties/1998/assembly98/c64music/tribute2.zip|title:tribute2sinatra
@@ -182,6 +183,7 @@ author:Raynet|position:15|pouet:28295|sceneorg:/parties/1998/assembly98/animatio
 
 
 :section Music
+:section-thumbnail music-thumbnail
 :youtube-playlist B5A2D3E3C8173FF0
 
 author:!cube/Trauma|position:1|sceneorg:/parties/1998/assembly98/music/schotsma.zip|title:Schotsman in a skirt|webfile:music/schotsman_in_a_skirt_by_cube_trauma.mp3|youtube:iqpYFH3eBqA

@@ -167,6 +167,7 @@ author:Finity Games|platform:Android phones and tablets|pms-id:asm19/gamedev/901
 
 
 :section Tracked music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFPZCBWkR0kaIEHGR8PbtwkG
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
@@ -184,6 +185,7 @@ author:Laurikka|platform:PC|pms-id:asm19/tracked_music/1136|position:10|sceneorg
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFO6rueHqZXQFwLBwtD1eOE0
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -205,6 +207,7 @@ author:Downgone / 242|platform:PC|pms-id:asm19/listening_music/1083|position:14|
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFMKEN9180D9mE56lpI7_iEX
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
@@ -233,6 +236,7 @@ author:Todella Järkyttävän Saksalainen Mies|platform:Äpl Mäk Tietokone|pms-
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFNIzWNqaxw781dVxeQ1PhuT
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>

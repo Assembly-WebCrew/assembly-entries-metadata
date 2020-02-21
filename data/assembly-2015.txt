@@ -120,6 +120,7 @@ author:Roistot|guid:1948|media:/vod/2015/Compos/1948_Gamedev_Casual_Mercs_by_Roi
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFOfeGIiXswl-5oDOk0Eqqy4
 :pms-category listeningmusic
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -140,6 +141,7 @@ author:r00t3d|platform:FLStudio 11|pms-id:asm15/listeningmusic/833|position:13|t
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFOrrA2xBFESXztXHl2FvPEd
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
@@ -167,6 +169,7 @@ author:florist|platform:Logic|pms-id:asm15/fast_music/806|position:20|techniques
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFPuzVKUD8ZpscsEHP9RDz4C
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>

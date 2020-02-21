@@ -98,6 +98,7 @@ author:nakitjamuusi|sceneorg:/parties/2007/assembly07/fast/grfx/liian_isot_by_na
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 22A4530553695398
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
@@ -117,6 +118,7 @@ author:Seqondez|position:13|sceneorg:/parties/2007/assembly07/fast/music/zeven_b
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist C04FC49CC6CE49DE
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
@@ -165,6 +167,7 @@ author:devil|sceneorg:/parties/2007/assembly07/grfx/drawn/chuck_norris_roundhous
 
 
 :section Freestyle music
+:section-thumbnail music-thumbnail
 :youtube-playlist 13B510456F80C890
 :description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
@@ -276,6 +279,7 @@ author:Ahtiala Productions|pouet:31617|sceneorg:/parties/2007/assembly07/browser
 
 
 :section Instrumental music
+:section-thumbnail music-thumbnail
 :youtube-playlist C34F0F66344CDD9D
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 

@@ -94,6 +94,7 @@ author:tuomas DECKER karmakallio|position:17|sceneorg:/parties/2005/assembly05/f
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 589E58C2E1046F42
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
@@ -117,6 +118,7 @@ author:Scanner & JellyPop / Dope|sceneorg:/parties/2005/assembly05/fast/music/qu
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist D977DA8DD25D2952
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
@@ -179,6 +181,7 @@ author:Salome of HyperCube|sceneorg:/parties/2005/assembly05/grfx/drawn/ace_of_s
 
 
 :section Freestyle music
+:section-thumbnail music-thumbnail
 :youtube-playlist 83317733CCD206A3
 :description <p>In Freestyle music competition entries may be any type of music from any genre created with any method.</p>
 
@@ -284,6 +287,7 @@ author:CND GROUP|guid:226|media:/vod/2005/assemblytv/226_etsin_unelmaa_by_cnd_gr
 
 
 :section Instrumental music
+:section-thumbnail music-thumbnail
 :youtube-playlist 9F7376296B6B4638
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 

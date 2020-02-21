@@ -1,6 +1,7 @@
 :year 1996
 
 :section C64 music
+:section-thumbnail music-thumbnail
 :youtube-playlist B77056A6C09BF22A
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
@@ -148,6 +149,7 @@ author:Wrath|position:11|pouet:5915|sceneorg:/parties/1996/assembly96/amiga/demo
 
 
 :section 4 channel music
+:section-thumbnail music-thumbnail
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
 author:Major/Bombsquad|position:1|title:unknown
@@ -226,6 +228,7 @@ author:unknown|position:13|title:Meriheli
 
 
 :section Multichannel music
+:section-thumbnail music-thumbnail
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 
 author:Crux/DCC|position:1|title:unknown

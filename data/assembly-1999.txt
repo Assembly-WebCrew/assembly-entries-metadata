@@ -1,6 +1,7 @@
 :year 1999
 
 :section C64 music
+:section-thumbnail music-thumbnail
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 author:Brite-Lite|position:1|sceneorg:/parties/1999/assembly99/c64/music/starfall.zip|title:Starfall
@@ -249,6 +250,7 @@ author:marzu|position:15|sceneorg:/parties/1999/assembly99/grfx/beastmas.zip|tit
 
 
 :section Multichannel music
+:section-thumbnail music-thumbnail
 :youtube-playlist A2E05E1C8184A1BE
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 

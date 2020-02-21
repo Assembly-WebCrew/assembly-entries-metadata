@@ -112,6 +112,7 @@ author:Limba|guid:2075|media:/vod/2016/Compos/2075_VR_Zombie_rush_by_Limba.mp4|p
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFPoDyQ90BoqzRbhB_mU0qHB
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -132,6 +133,7 @@ author:Jarskie|platform:PC|pms-id:asm16/listening_music/154|position:13|techniqu
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFPfp4KsDhziBCDRxxY6gvAP
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
@@ -148,6 +150,7 @@ author:dusthillguy of Monsquaz crew|platform:Computer running linux|pms-id:asm16
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFMtvU3U1Si3PnOJ9ICoh7_c
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>

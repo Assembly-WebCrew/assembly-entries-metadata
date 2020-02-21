@@ -162,6 +162,7 @@ author:McBurrobit|platform:Windows|pms-id:asm18/gamedev/554|position:12|sceneorg
 
 
 :section Tracked music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFM1vywt0kzXEV2scgcKAKqY
 :pms-category tracked_music
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
@@ -179,6 +180,7 @@ author:dusthillguy|platform:PC|pms-id:asm18/tracked_music/859|position:10|sceneo
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFP_aRcbltm7BsDPuBbBBt2_
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -201,6 +203,7 @@ author:rawArgon|platform:PC|pms-id:asm18/listening_music/631|position:15|sceneor
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFMlBydmBX3_C8ewzGChkW8g
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
@@ -220,6 +223,7 @@ author:rawArgon|platform:PC|pms-id:asm18/dance_music/628|position:12|sceneorg:/p
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFP6EQcFPt_AgoGXfUghn89Q
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that had a theme "Miami Beach".</p>

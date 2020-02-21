@@ -335,6 +335,10 @@ def parse_file(file_handle):
                     section['manage-youtube-descriptions'] = False
                 else:
                     section['manage-youtube-descriptions'] = True
+            elif data_type == ":section-thumbnail":
+                assert section is not None
+                assert 'section-thumbnail' not in section
+                section["section-thumbnail"] = value
             else:
                 raise RuntimeError("Unknown type %s." % data_type)
             continue

@@ -35,6 +35,7 @@ author:Xentrix|title:Trackmo
 
 
 :section Music
+:section-thumbnail music-thumbnail
 :youtube-playlist C30DE7448E4B6922
 
 author:Misty and Daeron/Shining|position:1|sceneorg:/parties/1992/assembly92/m4ch/iridium-comp.zip|title:Iridium

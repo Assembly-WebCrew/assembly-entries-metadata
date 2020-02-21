@@ -1,6 +1,7 @@
 :year 1994
 
 :section C64 music
+:section-thumbnail music-thumbnail
 :description <p><a href='http://en.wikipedia.org/wiki/Commodore_64'>Commodore 64</a> was popular home computer in 1980s. C64 music competition included music created and played with that computer.</p>
 
 author:Genius/Palace|position:1|title:Illogical
@@ -9,6 +10,7 @@ author:Agemixer/Astral|position:3|title:Unnamed
 
 
 :section 4 channel music
+:section-thumbnail music-thumbnail
 :youtube-playlist 25A308D730E7CC87
 :description <p>In 4 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file. Additionally limiting these MOD files to 4 simultaneous instruments (channels) imposed challenges how this music could be composed.</p>
 
@@ -52,6 +54,7 @@ author:Demons|position:21|pouet:8663|sceneorg:/parties/1994/assembly94/demo/them
 
 
 :section 32 channel music
+:section-thumbnail music-thumbnail
 :youtube-playlist 8D6CC2B7D65BFE57
 :description <p>In 32 channel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 

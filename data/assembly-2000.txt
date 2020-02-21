@@ -21,6 +21,7 @@ author:marzu|position:15|sceneorg:/parties/2000/assembly00/oldskool/grfx/antiher
 
 
 :section MP3 music
+:section-thumbnail music-thumbnail
 :youtube-playlist 37912AB15554A6BF
 :description <p>In <a href="http://en.wikipedia.org/wiki/MP3">MP3</a> music competition entries could be any type of music from any genre created with any method.</p>
 
@@ -102,6 +103,7 @@ author:Apocalypse Design|position:15|pouet:1541|sceneorg:/parties/2000/assembly0
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist 1DFAFCD69318BE46
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
@@ -272,6 +274,7 @@ author:Ember|position:20|sceneorg:/parties/2000/assembly00/grtc/wizards_.zip|tit
 
 
 :section Multichannel music
+:section-thumbnail music-thumbnail
 :youtube-playlist 5806ADB61AC2A36A
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 

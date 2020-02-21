@@ -33,6 +33,7 @@ author:John Peeba|position:16|sceneorg:/parties/2001/assembly01/grfx/the_storm_i
 
 
 :section MP3 music
+:section-thumbnail music-thumbnail
 :youtube-playlist 4FCC46EFFC2C4443
 :description <p>In <a href="http://en.wikipedia.org/wiki/MP3">MP3</a> music competition entries could be any type of music from any genre created with any method.</p>
 
@@ -65,6 +66,7 @@ author:Extend|position:5|pouet:17958|sceneorgvideo:/parties/2001/assembly01/olds
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 09C65FCFB8240884
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
@@ -81,6 +83,7 @@ author:Complex|position:10|sceneorg:/parties/2001/assembly01/fastmusic/jazyh_by_
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1990 with the exception of PCs and <a href="http://en.wikipedia.org/wiki/Amiga">Amigas</a>.</p>
 
 author:!Cube / Armada|position:1|sceneorg:/parties/2001/assembly01/oldskool/oldskool_music_compo-divx.avi|title:Molecules
@@ -204,6 +207,7 @@ author:Digimind & Manwe|position:15|pouet:3367|sceneorg:/parties/2001/assembly01
 
 
 :section Multichannel music
+:section-thumbnail music-thumbnail
 :youtube-playlist 2E091B8CE6F750EA
 :description <p>In Multichannel music competition competitors created music that used <a href="http://en.wikipedia.org/wiki/MOD_music">MOD files</a>. This limited the use of vocals as usable instruments were limited by sample data included in the music file.</p>
 

@@ -177,6 +177,7 @@ author:PastelDonut|image-file:fast-graphics/angels_dont_need_6_eyes_v1.png|platf
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFNq5p9Z6TG9JyBlUQUY_oO-
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
@@ -197,6 +198,7 @@ author:Yagura|platform:MP3/PC|pms-id:asm13/dance_music/42|position:12|techniques
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFOddOg43I2fv_MUnyHgKvwb
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -218,6 +220,7 @@ author:noby^ren|platform:PC|pms-id:asm13/listening_music/198|position:13|techniq
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist PLJO4AtxKJiFMefRAQM5uSrYaK5n5_1L00
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>

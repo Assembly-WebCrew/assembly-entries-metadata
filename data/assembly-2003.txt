@@ -94,6 +94,7 @@ author:SOB|sceneorg:/parties/2003/assembly03/fastgrfx/kuutio_nurmella_by_sob.zip
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist F42ED948AEE3C38C
 :description <p>Competitors had 1.5 hours to create a song with a predefined sampleset.</p>
 
@@ -122,6 +123,7 @@ author:Dubious of TekMaTiK|sceneorg:/parties/2003/assembly03/fastmusic/jungle_ry
 
 
 :section Oldskool music
+:section-thumbnail music-thumbnail
 :youtube-playlist 61ECFE69D0FF4E22
 :description <p>In Oldskool music competition songs had to be generated on a hardware that was commercially available before year 1992.</p>
 
@@ -193,6 +195,7 @@ author:RRE|sceneorg:/parties/2003/assembly03/demo/m1nt-t34_by_rre_1.zip|title:m1
 
 
 :section Instrumental music
+:section-thumbnail music-thumbnail
 :youtube-playlist ED2D648C96B4298D
 :description <p>In Instrumental music competition musical entries had be completely instrumental. No human vocals were allowed. Otherwise all types of musical entries were allowed.</p>
 
@@ -394,6 +397,7 @@ author:iood <3 fizzie / numedia cyclops|sceneorg:/parties/2003/assembly03/in4k/k
 
 
 :section Vocal music
+:section-thumbnail music-thumbnail
 :youtube-playlist 92300EA05B20FCA8
 :description <p>In Vocal music competition entries could be any type of music from any genre created with any method and unlike in Instrumental music competition, they could also include human vocals.</p>
 
