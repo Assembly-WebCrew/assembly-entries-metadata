@@ -1,6 +1,7 @@
 :year 1993
 
 :section Amiga music
+:section-thumbnail music-thumbnail
 
 author:Dizzy / Carillon & Cyberiad|position:1|title:unknown
 author:Groo / C & C|position:2|title:unknown

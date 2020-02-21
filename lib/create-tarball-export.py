@@ -526,7 +526,7 @@ for section in entry_data.sections:
     # Music files have all the same thumbnail.
     section_thumbnail = section.get("section-thumbnail")
     if 'music' in section['name'].lower():
-        assert section_thumbnail
+        assert section_thumbnail, "Section thumbnail for section %s is missing!" % section["name"]
 
     section_thumbnails_meta = None
     if section_thumbnail:
