@@ -185,7 +185,6 @@ author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|platform:Pho
 
 
 :section Dance music
-:section-thumbnail music-thumbnail
 :youtube-playlist DFDC28827702EFA7
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
@@ -207,7 +206,6 @@ author:Dj Tabasco|pms-id:asm12/dance_music/623|position:6|techniques:FL Studio 9
 
 
 :section Listening music
-:section-thumbnail music-thumbnail
 :youtube-playlist 1352BB3871323D13
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -229,7 +227,6 @@ author:notsie/npli|platform:All supported platforms|pms-id:asm12/listening_music
 
 
 :section Fast music
-:section-thumbnail music-thumbnail
 :youtube-playlist 87EBD6D539F6EA75
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
@@ -606,6 +603,1650 @@ author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Winter 2012/Tuomas Siitonen/_M
 
 :section Photos summer
 :ranked false
-:galleriafi /Assembly Summer 2012/
+:galleriafi /kuvat/Assembly Summer 2012/
 
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1711.jpg|title:BV7Q1711.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1375.jpg|title:BV7Q1375.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1378.jpg|title:BV7Q1378.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1610.jpg|title:BV7Q1610.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1612.jpg|title:BV7Q1612.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1613.jpg|title:BV7Q1613.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1616.jpg|title:BV7Q1616.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1619.jpg|title:BV7Q1619.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1620.jpg|title:BV7Q1620.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1626.jpg|title:BV7Q1626.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1681.jpg|title:BV7Q1681.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1683.jpg|title:BV7Q1683.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1697.jpg|title:BV7Q1697.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1684.jpg|title:BV7Q1684.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1763.jpg|title:BV7Q1763.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1761.jpg|title:BV7Q1761.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1758.jpg|title:BV7Q1758.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1757.jpg|title:BV7Q1757.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1756.jpg|title:BV7Q1756.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1755.jpg|title:BV7Q1755.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1753.jpg|title:BV7Q1753.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1752.jpg|title:BV7Q1752.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1729.jpg|title:BV7Q1729.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1728.jpg|title:BV7Q1728.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1723.jpg|title:BV7Q1723.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1722.jpg|title:BV7Q1722.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1721.jpg|title:BV7Q1721.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1717.jpg|title:BV7Q1717.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1716.jpg|title:BV7Q1716.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1713.jpg|title:BV7Q1713.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1765.jpg|title:BV7Q1765.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1768.jpg|title:BV7Q1768.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1769.jpg|title:BV7Q1769.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1771.jpg|title:BV7Q1771.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1772.jpg|title:BV7Q1772.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1777.jpg|title:BV7Q1777.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1778.jpg|title:BV7Q1778.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1779.jpg|title:BV7Q1779.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1783.jpg|title:BV7Q1783.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1784.jpg|title:BV7Q1784.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1785.jpg|title:BV7Q1785.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1787.jpg|title:BV7Q1787.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1793.jpg|title:BV7Q1793.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1798.jpg|title:BV7Q1798.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1800.jpg|title:BV7Q1800.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1801.jpg|title:BV7Q1801.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1802.jpg|title:BV7Q1802.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1808.jpg|title:BV7Q1808.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1810.jpg|title:BV7Q1810.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1815.jpg|title:BV7Q1815.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1818.jpg|title:BV7Q1818.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1824.jpg|title:BV7Q1824.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1828.jpg|title:BV7Q1828.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1830.jpg|title:BV7Q1830.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1833.jpg|title:BV7Q1833.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1835.jpg|title:BV7Q1835.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1843.jpg|title:BV7Q1843.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1849.jpg|title:BV7Q1849.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1851.jpg|title:BV7Q1851.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1853.jpg|title:BV7Q1853.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1859.jpg|title:BV7Q1859.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1861.jpg|title:BV7Q1861.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1863.jpg|title:BV7Q1863.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1871.jpg|title:BV7Q1871.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1873.jpg|title:BV7Q1873.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1874.jpg|title:BV7Q1874.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1879.jpg|title:BV7Q1879.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1881.jpg|title:BV7Q1881.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1882.jpg|title:BV7Q1882.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1885.jpg|title:BV7Q1885.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1886.jpg|title:BV7Q1886.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1887.jpg|title:BV7Q1887.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1888.jpg|title:BV7Q1888.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1890.jpg|title:BV7Q1890.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1892.jpg|title:BV7Q1892.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1895.jpg|title:BV7Q1895.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1897.jpg|title:BV7Q1897.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1899.jpg|title:BV7Q1899.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1901.jpg|title:BV7Q1901.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1903.jpg|title:BV7Q1903.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1905.jpg|title:BV7Q1905.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1906.jpg|title:BV7Q1906.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1909.jpg|title:BV7Q1909.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1911.jpg|title:BV7Q1911.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1912.jpg|title:BV7Q1912.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1914.jpg|title:BV7Q1914.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1916.jpg|title:BV7Q1916.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1918.jpg|title:BV7Q1918.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1919.jpg|title:BV7Q1919.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1920.jpg|title:BV7Q1920.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1921.jpg|title:BV7Q1921.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1923.jpg|title:BV7Q1923.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1925.jpg|title:BV7Q1925.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1952.jpg|title:BV7Q1952.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1957.jpg|title:BV7Q1957.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1958.jpg|title:BV7Q1958.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1962.jpg|title:BV7Q1962.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1964.jpg|title:BV7Q1964.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1966.jpg|title:BV7Q1966.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1969.jpg|title:BV7Q1969.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1971.jpg|title:BV7Q1971.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1972.jpg|title:BV7Q1972.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1980.jpg|title:BV7Q1980.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1982.jpg|title:BV7Q1982.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1987.jpg|title:BV7Q1987.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1989.jpg|title:BV7Q1989.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1991.jpg|title:BV7Q1991.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1996.jpg|title:BV7Q1996.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2000.jpg|title:BV7Q2000.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2003.jpg|title:BV7Q2003.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2006.jpg|title:BV7Q2006.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2007.jpg|title:BV7Q2007.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2017.jpg|title:BV7Q2017.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2018.jpg|title:BV7Q2018.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2023.jpg|title:BV7Q2023.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2025.jpg|title:BV7Q2025.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2027.jpg|title:BV7Q2027.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2030.jpg|title:BV7Q2030.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2032.jpg|title:BV7Q2032.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2039.jpg|title:BV7Q2039.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2040.jpg|title:BV7Q2040.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2043.jpg|title:BV7Q2043.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2054.jpg|title:BV7Q2054.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2059.jpg|title:BV7Q2059.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2062.jpg|title:BV7Q2062.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2066.jpg|title:BV7Q2066.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2073.jpg|title:BV7Q2073.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2079.jpg|title:BV7Q2079.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2085.jpg|title:BV7Q2085.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2088.jpg|title:BV7Q2088.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2091.jpg|title:BV7Q2091.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2094.jpg|title:BV7Q2094.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2098.jpg|title:BV7Q2098.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2100.jpg|title:BV7Q2100.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2659.jpg|title:BV7Q2659.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2695.jpg|title:BV7Q2695.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2704.jpg|title:BV7Q2704.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2710.jpg|title:BV7Q2710.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2728.jpg|title:BV7Q2728.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2762.jpg|title:BV7Q2762.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2765.jpg|title:BV7Q2765.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2768.jpg|title:BV7Q2768.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2781.jpg|title:BV7Q2781.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2796.jpg|title:BV7Q2796.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2110.jpg|title:BV7Q2110.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2123.jpg|title:BV7Q2123.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2131.jpg|title:BV7Q2131.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2136.jpg|title:BV7Q2136.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2152.jpg|title:BV7Q2152.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2158.jpg|title:BV7Q2158.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2168.jpg|title:BV7Q2168.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2181.jpg|title:BV7Q2181.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2184.jpg|title:BV7Q2184.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2204.jpg|title:BV7Q2204.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2213.jpg|title:BV7Q2213.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2222.jpg|title:BV7Q2222.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2224.jpg|title:BV7Q2224.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2226.jpg|title:BV7Q2226.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2231.jpg|title:BV7Q2231.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2255.jpg|title:BV7Q2255.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2267.jpg|title:BV7Q2267.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2334.jpg|title:BV7Q2334.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2335.jpg|title:BV7Q2335.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2345.jpg|title:BV7Q2345.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2349.jpg|title:BV7Q2349.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2361.jpg|title:BV7Q2361.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2368.jpg|title:BV7Q2368.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2379.jpg|title:BV7Q2379.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2382.jpg|title:BV7Q2382.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2397.jpg|title:BV7Q2397.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2401.jpg|title:BV7Q2401.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2402.jpg|title:BV7Q2402.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2428.jpg|title:BV7Q2428.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2437.jpg|title:BV7Q2437.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2440.jpg|title:BV7Q2440.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2452.jpg|title:BV7Q2452.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2477.jpg|title:BV7Q2477.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2569.jpg|title:BV7Q2569.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2578.jpg|title:BV7Q2578.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2601.jpg|title:BV7Q2601.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2615.jpg|title:BV7Q2615.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2628.jpg|title:BV7Q2628.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2632.jpg|title:BV7Q2632.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2640.jpg|title:BV7Q2640.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2652.jpg|title:BV7Q2652.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2817.jpg|title:BV7Q2817.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2819.jpg|title:BV7Q2819.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2828.jpg|title:BV7Q2828.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2836.jpg|title:BV7Q2836.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2840.jpg|title:BV7Q2840.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2843.jpg|title:BV7Q2843.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2845.jpg|title:BV7Q2845.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2848.jpg|title:BV7Q2848.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2852.jpg|title:BV7Q2852.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2854.jpg|title:BV7Q2854.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2856.jpg|title:BV7Q2856.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2860.jpg|title:BV7Q2860.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2867.jpg|title:BV7Q2867.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2868.jpg|title:BV7Q2868.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2869.jpg|title:BV7Q2869.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2871.jpg|title:BV7Q2871.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2875.jpg|title:BV7Q2875.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2884.jpg|title:BV7Q2884.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2886.jpg|title:BV7Q2886.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2887.jpg|title:BV7Q2887.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2889.jpg|title:BV7Q2889.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2898.jpg|title:BV7Q2898.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2906.jpg|title:BV7Q2906.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2907.jpg|title:BV7Q2907.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2914.jpg|title:BV7Q2914.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2924.jpg|title:BV7Q2924.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2955.jpg|title:BV7Q2955.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q2973.jpg|title:BV7Q2973.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3002.jpg|title:BV7Q3002.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3005.jpg|title:BV7Q3005.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3117.jpg|title:BV7Q3117.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q1954.jpg|title:BV7Q1954.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3354.jpg|title:BV7Q3354.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3364.jpg|title:BV7Q3364.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3380.jpg|title:BV7Q3380.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3391.jpg|title:BV7Q3391.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3431.jpg|title:BV7Q3431.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3438.jpg|title:BV7Q3438.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3439.jpg|title:BV7Q3439.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3442.jpg|title:BV7Q3442.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3468.jpg|title:BV7Q3468.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3478.jpg|title:BV7Q3478.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3482.jpg|title:BV7Q3482.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3484.jpg|title:BV7Q3484.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3495.jpg|title:BV7Q3495.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3497.jpg|title:BV7Q3497.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3023.jpg|title:BV7Q3023.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3025.jpg|title:BV7Q3025.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3028.jpg|title:BV7Q3028.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3029.jpg|title:BV7Q3029.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3056.jpg|title:BV7Q3056.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3067.jpg|title:BV7Q3067.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3079.jpg|title:BV7Q3079.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3082.jpg|title:BV7Q3082.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3083.jpg|title:BV7Q3083.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3084.jpg|title:BV7Q3084.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3085.jpg|title:BV7Q3085.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3093.jpg|title:BV7Q3093.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3094.jpg|title:BV7Q3094.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3097.jpg|title:BV7Q3097.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3099.jpg|title:BV7Q3099.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3108.jpg|title:BV7Q3108.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3112.jpg|title:BV7Q3112.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3113.jpg|title:BV7Q3113.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3115.jpg|title:BV7Q3115.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3116.jpg|title:BV7Q3116.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3122.jpg|title:BV7Q3122.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3124.jpg|title:BV7Q3124.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3125.jpg|title:BV7Q3125.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3132.jpg|title:BV7Q3132.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3135.jpg|title:BV7Q3135.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3140.jpg|title:BV7Q3140.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3144.jpg|title:BV7Q3144.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3150.jpg|title:BV7Q3150.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3154.jpg|title:BV7Q3154.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3155.jpg|title:BV7Q3155.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3165.jpg|title:BV7Q3165.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3169.jpg|title:BV7Q3169.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3179.jpg|title:BV7Q3179.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3190.jpg|title:BV7Q3190.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3201.jpg|title:BV7Q3201.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3217.jpg|title:BV7Q3217.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3224.jpg|title:BV7Q3224.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3232.jpg|title:BV7Q3232.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3249.jpg|title:BV7Q3249.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3257.jpg|title:BV7Q3257.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3275.jpg|title:BV7Q3275.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3278.jpg|title:BV7Q3278.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3284.jpg|title:BV7Q3284.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3292.jpg|title:BV7Q3292.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3302.jpg|title:BV7Q3302.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3316.jpg|title:BV7Q3316.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3320.jpg|title:BV7Q3320.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3323.jpg|title:BV7Q3323.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3325.jpg|title:BV7Q3325.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3339.jpg|title:BV7Q3339.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3348.jpg|title:BV7Q3348.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3759.jpg|title:BV7Q3759.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3760.jpg|title:BV7Q3760.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3765.jpg|title:BV7Q3765.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3767.jpg|title:BV7Q3767.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3770.jpg|title:BV7Q3770.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3777.jpg|title:BV7Q3777.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3780.jpg|title:BV7Q3780.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3788.jpg|title:BV7Q3788.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3796.jpg|title:BV7Q3796.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3797.jpg|title:BV7Q3797.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3798.jpg|title:BV7Q3798.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3799.jpg|title:BV7Q3799.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3800.jpg|title:BV7Q3800.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3803.jpg|title:BV7Q3803.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3806.jpg|title:BV7Q3806.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3809.jpg|title:BV7Q3809.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3810.jpg|title:BV7Q3810.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3812.jpg|title:BV7Q3812.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3814.jpg|title:BV7Q3814.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3822.jpg|title:BV7Q3822.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3824.jpg|title:BV7Q3824.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3825.jpg|title:BV7Q3825.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3828.jpg|title:BV7Q3828.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3831.jpg|title:BV7Q3831.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3833.jpg|title:BV7Q3833.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3836.jpg|title:BV7Q3836.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3838.jpg|title:BV7Q3838.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3844.jpg|title:BV7Q3844.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3851.jpg|title:BV7Q3851.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3854.jpg|title:BV7Q3854.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3857.jpg|title:BV7Q3857.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3860.jpg|title:BV7Q3860.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3865.jpg|title:BV7Q3865.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3869.jpg|title:BV7Q3869.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3870.jpg|title:BV7Q3870.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3873.jpg|title:BV7Q3873.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3877.jpg|title:BV7Q3877.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3879.jpg|title:BV7Q3879.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3881.jpg|title:BV7Q3881.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3889.jpg|title:BV7Q3889.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3894.jpg|title:BV7Q3894.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3898.jpg|title:BV7Q3898.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3911.jpg|title:BV7Q3911.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3915.jpg|title:BV7Q3915.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3917.jpg|title:BV7Q3917.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3931.jpg|title:BV7Q3931.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3932.jpg|title:BV7Q3932.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3935.jpg|title:BV7Q3935.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3939.jpg|title:BV7Q3939.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3950.jpg|title:BV7Q3950.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3953.jpg|title:BV7Q3953.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3954.jpg|title:BV7Q3954.jpg
+author:Aleksi Kinnunen|galleriafi:/kuvat/Assembly Summer 2012/Aleksi Kinnunen/BV7Q3956.jpg|title:BV7Q3956.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/assembly-karo.zip|title:assembly-karo.zip
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1539.jpg|title:IMG_1539.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1544.jpg|title:IMG_1544.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1545.jpg|title:IMG_1545.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1548.jpg|title:IMG_1548.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1549.jpg|title:IMG_1549.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1553.jpg|title:IMG_1553.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1558.jpg|title:IMG_1558.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1560.jpg|title:IMG_1560.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1561.jpg|title:IMG_1561.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1562.jpg|title:IMG_1562.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1564.jpg|title:IMG_1564.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1570.jpg|title:IMG_1570.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1573.jpg|title:IMG_1573.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1577.jpg|title:IMG_1577.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1582.jpg|title:IMG_1582.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1584.jpg|title:IMG_1584.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1585.jpg|title:IMG_1585.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1586.jpg|title:IMG_1586.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1591.jpg|title:IMG_1591.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1599.jpg|title:IMG_1599.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1601.jpg|title:IMG_1601.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1606.jpg|title:IMG_1606.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1608.jpg|title:IMG_1608.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1611.jpg|title:IMG_1611.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1613.jpg|title:IMG_1613.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1614.jpg|title:IMG_1614.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1620.jpg|title:IMG_1620.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1621.jpg|title:IMG_1621.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1627.jpg|title:IMG_1627.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1630.jpg|title:IMG_1630.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1634.jpg|title:IMG_1634.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1636.jpg|title:IMG_1636.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1637.jpg|title:IMG_1637.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1642.jpg|title:IMG_1642.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1643.jpg|title:IMG_1643.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1646.jpg|title:IMG_1646.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1651.jpg|title:IMG_1651.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1652.jpg|title:IMG_1652.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1655.jpg|title:IMG_1655.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1660.jpg|title:IMG_1660.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1662.jpg|title:IMG_1662.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1669.jpg|title:IMG_1669.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1674.jpg|title:IMG_1674.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1678.jpg|title:IMG_1678.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1679.jpg|title:IMG_1679.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1681.jpg|title:IMG_1681.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1684.jpg|title:IMG_1684.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1685.jpg|title:IMG_1685.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1687.jpg|title:IMG_1687.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1692.jpg|title:IMG_1692.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1694.jpg|title:IMG_1694.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1695.jpg|title:IMG_1695.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1699.jpg|title:IMG_1699.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1702.jpg|title:IMG_1702.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1711.jpg|title:IMG_1711.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1715.jpg|title:IMG_1715.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1717.jpg|title:IMG_1717.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1719.jpg|title:IMG_1719.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1722.jpg|title:IMG_1722.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1725.jpg|title:IMG_1725.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1727.jpg|title:IMG_1727.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1730.jpg|title:IMG_1730.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1731.jpg|title:IMG_1731.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1739.jpg|title:IMG_1739.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1743.jpg|title:IMG_1743.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1745.jpg|title:IMG_1745.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1749.jpg|title:IMG_1749.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1752.jpg|title:IMG_1752.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1760.jpg|title:IMG_1760.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1761.jpg|title:IMG_1761.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1767.jpg|title:IMG_1767.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1772.jpg|title:IMG_1772.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1773.jpg|title:IMG_1773.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1778.jpg|title:IMG_1778.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1782.jpg|title:IMG_1782.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1785.jpg|title:IMG_1785.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1787.jpg|title:IMG_1787.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1794.jpg|title:IMG_1794.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1795.jpg|title:IMG_1795.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1797.jpg|title:IMG_1797.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1798.jpg|title:IMG_1798.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1799.jpg|title:IMG_1799.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1816.jpg|title:IMG_1816.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1820.jpg|title:IMG_1820.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1826.jpg|title:IMG_1826.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1831.jpg|title:IMG_1831.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1839.jpg|title:IMG_1839.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1848.jpg|title:IMG_1848.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1856.jpg|title:IMG_1856.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1868.jpg|title:IMG_1868.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1872.jpg|title:IMG_1872.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1878.jpg|title:IMG_1878.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1885.jpg|title:IMG_1885.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1891.jpg|title:IMG_1891.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1897.jpg|title:IMG_1897.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1911.jpg|title:IMG_1911.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1913.jpg|title:IMG_1913.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1918.jpg|title:IMG_1918.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1919.jpg|title:IMG_1919.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1925.jpg|title:IMG_1925.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1927.jpg|title:IMG_1927.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1929.jpg|title:IMG_1929.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1935.jpg|title:IMG_1935.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1939.jpg|title:IMG_1939.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1945.jpg|title:IMG_1945.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1949.jpg|title:IMG_1949.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1951.jpg|title:IMG_1951.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1952.jpg|title:IMG_1952.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1960.jpg|title:IMG_1960.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1961.jpg|title:IMG_1961.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1962.jpg|title:IMG_1962.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1963.jpg|title:IMG_1963.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1964.jpg|title:IMG_1964.jpg
+author:Karo Holmberg|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Karo Holmberg/IMG_1966.jpg|title:IMG_1966.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90002.jpg|title:IMG_90002.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90008.jpg|title:IMG_90008.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90011.jpg|title:IMG_90011.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90010.jpg|title:IMG_90010.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90035.jpg|title:IMG_90035.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_90038.jpg|title:IMG_90038.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9599.jpg|title:IMG_9599.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9588.jpg|title:IMG_9588.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9596.jpg|title:IMG_9596.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9597.jpg|title:IMG_9597.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9598.jpg|title:IMG_9598.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9620.jpg|title:IMG_9620.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9601.jpg|title:IMG_9601.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9602.jpg|title:IMG_9602.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9607.jpg|title:IMG_9607.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9628.jpg|title:IMG_9628.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9624.jpg|title:IMG_9624.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9671.jpg|title:IMG_9671.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9676.jpg|title:IMG_9676.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9675.jpg|title:IMG_9675.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9684.jpg|title:IMG_9684.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9681.jpg|title:IMG_9681.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9687.jpg|title:IMG_9687.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9685.jpg|title:IMG_9685.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9693.jpg|title:IMG_9693.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9697.jpg|title:IMG_9697.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9703.jpg|title:IMG_9703.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9705.jpg|title:IMG_9705.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9709.jpg|title:IMG_9709.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9707.jpg|title:IMG_9707.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9717.jpg|title:IMG_9717.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9716.jpg|title:IMG_9716.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9719.jpg|title:IMG_9719.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9727.jpg|title:IMG_9727.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9721.jpg|title:IMG_9721.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9734.jpg|title:IMG_9734.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9748.jpg|title:IMG_9748.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9745.jpg|title:IMG_9745.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9752.jpg|title:IMG_9752.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9760.jpg|title:IMG_9760.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9754.jpg|title:IMG_9754.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9780.jpg|title:IMG_9780.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9768.jpg|title:IMG_9768.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9803.jpg|title:IMG_9803.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9795.jpg|title:IMG_9795.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9812.jpg|title:IMG_9812.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9820.jpg|title:IMG_9820.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9844.jpg|title:IMG_9844.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9824.jpg|title:IMG_9824.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9827.jpg|title:IMG_9827.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9871.jpg|title:IMG_9871.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9839.jpg|title:IMG_9839.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9892.jpg|title:IMG_9892.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9888.jpg|title:IMG_9888.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9917.jpg|title:IMG_9917.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9904.jpg|title:IMG_9904.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9931.jpg|title:IMG_9931.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9972.jpg|title:IMG_9972.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9938.jpg|title:IMG_9938.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9952.jpg|title:IMG_9952.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9985.jpg|title:IMG_9985.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/Untitled_HDR1bw.jpg|title:Untitled_HDR1bw.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9992.jpg|title:IMG_9992.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/Untitled_HDR3bw.jpg|title:Untitled_HDR3bw.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/IMG_9995.jpg|title:IMG_9995.jpg
+author:Riku Heininen|galleriafi:/kuvat/Assembly Summer 2012/Guest Galleries/Riku Heininen/Untitled_HDR2bw.jpg|title:Untitled_HDR2bw.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7965.jpg|title:IMG_7965.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7975.jpg|title:IMG_7975.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7980.jpg|title:IMG_7980.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7982.jpg|title:IMG_7982.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7991.jpg|title:IMG_7991.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_7996.jpg|title:IMG_7996.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8003.jpg|title:IMG_8003.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8009.jpg|title:IMG_8009.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8012.jpg|title:IMG_8012.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8017.jpg|title:IMG_8017.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8021.jpg|title:IMG_8021.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8022.jpg|title:IMG_8022.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8025.jpg|title:IMG_8025.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8028.jpg|title:IMG_8028.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8029.jpg|title:IMG_8029.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8038.jpg|title:IMG_8038.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8039.jpg|title:IMG_8039.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8042.jpg|title:IMG_8042.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8050.jpg|title:IMG_8050.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8051.jpg|title:IMG_8051.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8057.jpg|title:IMG_8057.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8065.jpg|title:IMG_8065.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8068.jpg|title:IMG_8068.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8074.jpg|title:IMG_8074.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8077.jpg|title:IMG_8077.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8083.jpg|title:IMG_8083.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8088.jpg|title:IMG_8088.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8094.jpg|title:IMG_8094.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8096.jpg|title:IMG_8096.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8100.jpg|title:IMG_8100.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8101.jpg|title:IMG_8101.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8041.jpg|title:IMG_8041.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8071.jpg|title:IMG_8071.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8103.jpg|title:IMG_8103.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8111.jpg|title:IMG_8111.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8115.jpg|title:IMG_8115.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8122.jpg|title:IMG_8122.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8125.jpg|title:IMG_8125.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8129.jpg|title:IMG_8129.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8130.jpg|title:IMG_8130.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8132.jpg|title:IMG_8132.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8133.jpg|title:IMG_8133.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8138.jpg|title:IMG_8138.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8140.jpg|title:IMG_8140.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8144.jpg|title:IMG_8144.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8148.jpg|title:IMG_8148.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8151.jpg|title:IMG_8151.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8154.jpg|title:IMG_8154.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8162.jpg|title:IMG_8162.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8173.jpg|title:IMG_8173.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8177.jpg|title:IMG_8177.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8179.jpg|title:IMG_8179.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8203.jpg|title:IMG_8203.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8221.jpg|title:IMG_8221.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8237.jpg|title:IMG_8237.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8249.jpg|title:IMG_8249.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8264.jpg|title:IMG_8264.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8286.jpg|title:IMG_8286.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8292.jpg|title:IMG_8292.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8294.jpg|title:IMG_8294.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8307.jpg|title:IMG_8307.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8315.jpg|title:IMG_8315.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8318.jpg|title:IMG_8318.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8322.jpg|title:IMG_8322.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8329.jpg|title:IMG_8329.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8347.jpg|title:IMG_8347.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8369.jpg|title:IMG_8369.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8375.jpg|title:IMG_8375.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8379.jpg|title:IMG_8379.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8387.jpg|title:IMG_8387.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8388.jpg|title:IMG_8388.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8391.jpg|title:IMG_8391.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8409.jpg|title:IMG_8409.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8446.jpg|title:IMG_8446.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8453.jpg|title:IMG_8453.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8457.jpg|title:IMG_8457.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8466.jpg|title:IMG_8466.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8490.jpg|title:IMG_8490.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8519.jpg|title:IMG_8519.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8522.jpg|title:IMG_8522.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8525.jpg|title:IMG_8525.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8582.jpg|title:IMG_8582.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8583.jpg|title:IMG_8583.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8555.jpg|title:IMG_8555.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8604.jpg|title:IMG_8604.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8610.jpg|title:IMG_8610.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8617.jpg|title:IMG_8617.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8647.jpg|title:IMG_8647.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8660.jpg|title:IMG_8660.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8684.jpg|title:IMG_8684.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8699.jpg|title:IMG_8699.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8766.jpg|title:IMG_8766.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8810.jpg|title:IMG_8810.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8830.jpg|title:IMG_8830.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8871.jpg|title:IMG_8871.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8884.jpg|title:IMG_8884.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8923.jpg|title:IMG_8923.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8950.jpg|title:IMG_8950.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8965.jpg|title:IMG_8965.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_8993.jpg|title:IMG_8993.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9014.jpg|title:IMG_9014.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9018.jpg|title:IMG_9018.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9024.jpg|title:IMG_9024.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9033.jpg|title:IMG_9033.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9036.jpg|title:IMG_9036.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9039.jpg|title:IMG_9039.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9044.jpg|title:IMG_9044.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9049.jpg|title:IMG_9049.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9053.jpg|title:IMG_9053.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9056.jpg|title:IMG_9056.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9057.jpg|title:IMG_9057.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9067.jpg|title:IMG_9067.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9122.jpg|title:IMG_9122.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9123.jpg|title:IMG_9123.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9173.jpg|title:IMG_9173.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9195.jpg|title:IMG_9195.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9204.jpg|title:IMG_9204.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9211.jpg|title:IMG_9211.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9215.jpg|title:IMG_9215.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9232.jpg|title:IMG_9232.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9233.jpg|title:IMG_9233.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9236.jpg|title:IMG_9236.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9258.jpg|title:IMG_9258.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9266.jpg|title:IMG_9266.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9269.jpg|title:IMG_9269.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9273.jpg|title:IMG_9273.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9280.jpg|title:IMG_9280.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9283.jpg|title:IMG_9283.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9289.jpg|title:IMG_9289.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9290.jpg|title:IMG_9290.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9291.jpg|title:IMG_9291.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9297.jpg|title:IMG_9297.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9299.jpg|title:IMG_9299.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9304.jpg|title:IMG_9304.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9310.jpg|title:IMG_9310.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9314.jpg|title:IMG_9314.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9319.jpg|title:IMG_9319.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9330.jpg|title:IMG_9330.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9336.jpg|title:IMG_9336.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9343.jpg|title:IMG_9343.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9349.jpg|title:IMG_9349.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9353.jpg|title:IMG_9353.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9355.jpg|title:IMG_9355.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9376.jpg|title:IMG_9376.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9379.jpg|title:IMG_9379.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9381.jpg|title:IMG_9381.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9387.jpg|title:IMG_9387.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9400.jpg|title:IMG_9400.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9408.jpg|title:IMG_9408.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9416.jpg|title:IMG_9416.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9436.jpg|title:IMG_9436.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9474.jpg|title:IMG_9474.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9527.jpg|title:IMG_9527.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9532.jpg|title:IMG_9532.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9563.jpg|title:IMG_9563.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9569.jpg|title:IMG_9569.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9578.jpg|title:IMG_9578.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9584.jpg|title:IMG_9584.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9586.jpg|title:IMG_9586.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9602.jpg|title:IMG_9602.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9623.jpg|title:IMG_9623.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9636.jpg|title:IMG_9636.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9665.jpg|title:IMG_9665.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9678.jpg|title:IMG_9678.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9691.jpg|title:IMG_9691.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9709.jpg|title:IMG_9709.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9731.jpg|title:IMG_9731.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9771.jpg|title:IMG_9771.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9772.jpg|title:IMG_9772.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9819.jpg|title:IMG_9819.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9946.jpg|title:IMG_9946.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9977.jpg|title:IMG_9977.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9979.jpg|title:IMG_9979.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_9962.jpg|title:IMG_9962.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0096.jpg|title:IMG_0096.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0101.jpg|title:IMG_0101.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0102.jpg|title:IMG_0102.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0113.jpg|title:IMG_0113.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0122.jpg|title:IMG_0122.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0132.jpg|title:IMG_0132.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0138.jpg|title:IMG_0138.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0158.jpg|title:IMG_0158.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0163.jpg|title:IMG_0163.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0164.jpg|title:IMG_0164.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0169.jpg|title:IMG_0169.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0172.jpg|title:IMG_0172.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0174.jpg|title:IMG_0174.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0184.jpg|title:IMG_0184.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0206.jpg|title:IMG_0206.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0260.jpg|title:IMG_0260.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0274.jpg|title:IMG_0274.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0341.jpg|title:IMG_0341.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0373.jpg|title:IMG_0373.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0393.jpg|title:IMG_0393.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0413.jpg|title:IMG_0413.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0449.jpg|title:IMG_0449.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0452.jpg|title:IMG_0452.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0459.jpg|title:IMG_0459.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0464.jpg|title:IMG_0464.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0482.jpg|title:IMG_0482.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0485.jpg|title:IMG_0485.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0487.jpg|title:IMG_0487.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0524.jpg|title:IMG_0524.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0541.jpg|title:IMG_0541.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0544.jpg|title:IMG_0544.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0546.jpg|title:IMG_0546.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0549.jpg|title:IMG_0549.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0561.jpg|title:IMG_0561.jpg
+author:Markus Saarinen|galleriafi:/kuvat/Assembly Summer 2012/Markus Saarinen/IMG_0569.jpg|title:IMG_0569.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4440.jpg|title:IMG_4440.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4453.jpg|title:IMG_4453.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4454.jpg|title:IMG_4454.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4405.jpg|title:IMG_4405.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4406.jpg|title:IMG_4406.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4412.jpg|title:IMG_4412.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4414.jpg|title:IMG_4414.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4419.jpg|title:IMG_4419.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4421.jpg|title:IMG_4421.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4422.jpg|title:IMG_4422.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4427.jpg|title:IMG_4427.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4434.jpg|title:IMG_4434.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4555.jpg|title:IMG_4555.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4568.jpg|title:IMG_4568.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4463.jpg|title:IMG_4463.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4464.jpg|title:IMG_4464.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4469.jpg|title:IMG_4469.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4470.jpg|title:IMG_4470.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4475.jpg|title:IMG_4475.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4477.jpg|title:IMG_4477.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4486.jpg|title:IMG_4486.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4495.jpg|title:IMG_4495.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4511.jpg|title:IMG_4511.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4616.jpg|title:IMG_4616.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4619.jpg|title:IMG_4619.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4622.jpg|title:IMG_4622.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4628.jpg|title:IMG_4628.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4633.jpg|title:IMG_4633.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4655.jpg|title:IMG_4655.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4579.jpg|title:IMG_4579.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4591.jpg|title:IMG_4591.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4595.jpg|title:IMG_4595.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4596.jpg|title:IMG_4596.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4598.jpg|title:IMG_4598.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4600.jpg|title:IMG_4600.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4609.jpg|title:IMG_4609.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4615.jpg|title:IMG_4615.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4678.jpg|title:IMG_4678.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4659.jpg|title:IMG_4659.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4667.jpg|title:IMG_4667.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4676.jpg|title:IMG_4676.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4697.jpg|title:IMG_4697.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4700.jpg|title:IMG_4700.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4708.jpg|title:IMG_4708.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4713.jpg|title:IMG_4713.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4717.jpg|title:IMG_4717.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4726.jpg|title:IMG_4726.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4729.jpg|title:IMG_4729.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4731.jpg|title:IMG_4731.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4737.jpg|title:IMG_4737.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4744.jpg|title:IMG_4744.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4818.jpg|title:IMG_4818.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4820.jpg|title:IMG_4820.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4756.jpg|title:IMG_4756.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4774.jpg|title:IMG_4774.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4788.jpg|title:IMG_4788.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4790.jpg|title:IMG_4790.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4805.jpg|title:IMG_4805.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4813.jpg|title:IMG_4813.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4815.jpg|title:IMG_4815.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4862.jpg|title:IMG_4862.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4866.jpg|title:IMG_4866.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4888.jpg|title:IMG_4888.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4896.jpg|title:IMG_4896.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4909.jpg|title:IMG_4909.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4916.jpg|title:IMG_4916.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4834.jpg|title:IMG_4834.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4957.jpg|title:IMG_4957.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4961.jpg|title:IMG_4961.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4962.jpg|title:IMG_4962.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4964.jpg|title:IMG_4964.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4969.jpg|title:IMG_4969.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4924.jpg|title:IMG_4924.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4929.jpg|title:IMG_4929.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4933.jpg|title:IMG_4933.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4937.jpg|title:IMG_4937.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4941.jpg|title:IMG_4941.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4943.jpg|title:IMG_4943.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4948.jpg|title:IMG_4948.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4951.jpg|title:IMG_4951.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4956.jpg|title:IMG_4956.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5056.jpg|title:IMG_5056.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5058.jpg|title:IMG_5058.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5066.jpg|title:IMG_5066.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5082.jpg|title:IMG_5082.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5089.jpg|title:IMG_5089.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4978.jpg|title:IMG_4978.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_4996.jpg|title:IMG_4996.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5000.jpg|title:IMG_5000.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5004.jpg|title:IMG_5004.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5010.jpg|title:IMG_5010.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5014.jpg|title:IMG_5014.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5030.jpg|title:IMG_5030.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5045.jpg|title:IMG_5045.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5103.jpg|title:IMG_5103.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5108.jpg|title:IMG_5108.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5287.jpg|title:IMG_5287.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5111.jpg|title:IMG_5111.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5118.jpg|title:IMG_5118.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5122.jpg|title:IMG_5122.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5125.jpg|title:IMG_5125.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5137.jpg|title:IMG_5137.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5145.jpg|title:IMG_5145.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5178.jpg|title:IMG_5178.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5181.jpg|title:IMG_5181.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5234.jpg|title:IMG_5234.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5253.jpg|title:IMG_5253.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5291.jpg|title:IMG_5291.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5293.jpg|title:IMG_5293.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5311.jpg|title:IMG_5311.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5313.jpg|title:IMG_5313.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5338.jpg|title:IMG_5338.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5348.jpg|title:IMG_5348.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5351.jpg|title:IMG_5351.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5389.jpg|title:IMG_5389.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5394.jpg|title:IMG_5394.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5411.jpg|title:IMG_5411.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5426.jpg|title:IMG_5426.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5429.jpg|title:IMG_5429.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5432.jpg|title:IMG_5432.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5526.jpg|title:IMG_5526.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5531.jpg|title:IMG_5531.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5533.jpg|title:IMG_5533.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5535.jpg|title:IMG_5535.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5546.jpg|title:IMG_5546.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5437.jpg|title:IMG_5437.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5457.jpg|title:IMG_5457.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5471.jpg|title:IMG_5471.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5482.jpg|title:IMG_5482.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5803.jpg|title:IMG_5803.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5550.jpg|title:IMG_5550.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5560.jpg|title:IMG_5560.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5575.jpg|title:IMG_5575.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5585.jpg|title:IMG_5585.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5595.jpg|title:IMG_5595.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5609.jpg|title:IMG_5609.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5650.jpg|title:IMG_5650.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5665.jpg|title:IMG_5665.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5668.jpg|title:IMG_5668.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5674.jpg|title:IMG_5674.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5680.jpg|title:IMG_5680.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5691.jpg|title:IMG_5691.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5707.jpg|title:IMG_5707.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5718.jpg|title:IMG_5718.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5734.jpg|title:IMG_5734.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5744.jpg|title:IMG_5744.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5764.jpg|title:IMG_5764.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5776.jpg|title:IMG_5776.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5800.jpg|title:IMG_5800.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5861.jpg|title:IMG_5861.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5869.jpg|title:IMG_5869.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5876.jpg|title:IMG_5876.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5879.jpg|title:IMG_5879.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5887.jpg|title:IMG_5887.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5892.jpg|title:IMG_5892.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5901.jpg|title:IMG_5901.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5907.jpg|title:IMG_5907.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5915.jpg|title:IMG_5915.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5835.jpg|title:IMG_5835.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5840.jpg|title:IMG_5840.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5851.jpg|title:IMG_5851.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5858.jpg|title:IMG_5858.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6019.jpg|title:IMG_6019.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6022.jpg|title:IMG_6022.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6027.jpg|title:IMG_6027.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6029-Edit.jpg|title:IMG_6029-Edit.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5927.jpg|title:IMG_5927.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5935.jpg|title:IMG_5935.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5936.jpg|title:IMG_5936.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5938.jpg|title:IMG_5938.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5946.jpg|title:IMG_5946.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5952.jpg|title:IMG_5952.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5955.jpg|title:IMG_5955.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_5992.jpg|title:IMG_5992.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6018.jpg|title:IMG_6018.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6132.jpg|title:IMG_6132.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6148.jpg|title:IMG_6148.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6157.jpg|title:IMG_6157.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6169.jpg|title:IMG_6169.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6188.jpg|title:IMG_6188.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6193.jpg|title:IMG_6193.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6199.jpg|title:IMG_6199.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6215.jpg|title:IMG_6215.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6218.jpg|title:IMG_6218.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6221.jpg|title:IMG_6221.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6236.jpg|title:IMG_6236.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6238.jpg|title:IMG_6238.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6244.jpg|title:IMG_6244.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6246.jpg|title:IMG_6246.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6251.jpg|title:IMG_6251.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6255.jpg|title:IMG_6255.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6257.jpg|title:IMG_6257.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6035.jpg|title:IMG_6035.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6048.jpg|title:IMG_6048.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6057.jpg|title:IMG_6057.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6063.jpg|title:IMG_6063.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6089.jpg|title:IMG_6089.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6093.jpg|title:IMG_6093.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6118.jpg|title:IMG_6118.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6126.jpg|title:IMG_6126.jpg
+author:Santtu Pajukanta|galleriafi:/kuvat/Assembly Summer 2012/Santtu Pajukanta/IMG_6129.jpg|title:IMG_6129.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5456.jpg|title:_MG_5456.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5460.jpg|title:_MG_5460.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5461.jpg|title:_MG_5461.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5464.jpg|title:_MG_5464.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5427.jpg|title:_MG_5427.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5435.jpg|title:_MG_5435.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5436.jpg|title:_MG_5436.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5447.jpg|title:_MG_5447.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5453.jpg|title:_MG_5453.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5508.jpg|title:_MG_5508.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5469.jpg|title:_MG_5469.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5476.jpg|title:_MG_5476.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5480.jpg|title:_MG_5480.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5483.jpg|title:_MG_5483.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5496.jpg|title:_MG_5496.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5500.jpg|title:_MG_5500.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5513.jpg|title:_MG_5513.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5525.jpg|title:_MG_5525.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5534.jpg|title:_MG_5534.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5544.jpg|title:_MG_5544.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5546.jpg|title:_MG_5546.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5556.jpg|title:_MG_5556.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5557.jpg|title:_MG_5557.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5559.jpg|title:_MG_5559.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5511.jpg|title:_MG_5511.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1537.jpg|title:BV7Q1537.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1543.jpg|title:BV7Q1543.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1549.jpg|title:BV7Q1549.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1562.jpg|title:BV7Q1562.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1576.jpg|title:BV7Q1576.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1580.jpg|title:BV7Q1580.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1501.jpg|title:BV7Q1501.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q1512.jpg|title:BV7Q1512.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5587.jpg|title:_MG_5587.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5563.jpg|title:_MG_5563.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5566.jpg|title:_MG_5566.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5574.jpg|title:_MG_5574.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5580.jpg|title:_MG_5580.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5584.jpg|title:_MG_5584.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5614.jpg|title:_MG_5614.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5588.jpg|title:_MG_5588.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5591.jpg|title:_MG_5591.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5632.jpg|title:_MG_5632.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5623.jpg|title:_MG_5623.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5627.jpg|title:_MG_5627.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5630.jpg|title:_MG_5630.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5673.jpg|title:_MG_5673.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5642.jpg|title:_MG_5642.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5645.jpg|title:_MG_5645.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5662.jpg|title:_MG_5662.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5665.jpg|title:_MG_5665.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5671.jpg|title:_MG_5671.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5685.jpg|title:_MG_5685.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5693.jpg|title:_MG_5693.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5694.jpg|title:_MG_5694.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5696.jpg|title:_MG_5696.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5697.jpg|title:_MG_5697.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5702.jpg|title:_MG_5702.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5709.jpg|title:_MG_5709.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5713.jpg|title:_MG_5713.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5714.jpg|title:_MG_5714.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5720.jpg|title:_MG_5720.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5729.jpg|title:_MG_5729.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5733.jpg|title:_MG_5733.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5747.jpg|title:_MG_5747.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5749.jpg|title:_MG_5749.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5752.jpg|title:_MG_5752.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5759.jpg|title:_MG_5759.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5760.jpg|title:_MG_5760.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5777.jpg|title:_MG_5777.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5778.jpg|title:_MG_5778.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5785.jpg|title:_MG_5785.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5787.jpg|title:_MG_5787.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5790.jpg|title:_MG_5790.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5792.jpg|title:_MG_5792.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5794.jpg|title:_MG_5794.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5797.jpg|title:_MG_5797.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5801.jpg|title:_MG_5801.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5802.jpg|title:_MG_5802.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5807.jpg|title:_MG_5807.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5809.jpg|title:_MG_5809.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5811.jpg|title:_MG_5811.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5816.jpg|title:_MG_5816.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5818.jpg|title:_MG_5818.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5825.jpg|title:_MG_5825.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5828.jpg|title:_MG_5828.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5832.jpg|title:_MG_5832.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5837.jpg|title:_MG_5837.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5840.jpg|title:_MG_5840.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5844.jpg|title:_MG_5844.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5849.jpg|title:_MG_5849.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5851.jpg|title:_MG_5851.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5852.jpg|title:_MG_5852.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5855.jpg|title:_MG_5855.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5867.jpg|title:_MG_5867.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5868.jpg|title:_MG_5868.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5904.jpg|title:_MG_5904.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5905.jpg|title:_MG_5905.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5913.jpg|title:_MG_5913.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5923.jpg|title:_MG_5923.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5926.jpg|title:_MG_5926.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5927.jpg|title:_MG_5927.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5933.jpg|title:_MG_5933.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5961.jpg|title:_MG_5961.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5937.jpg|title:_MG_5937.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5938.jpg|title:_MG_5938.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5939.jpg|title:_MG_5939.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5950.jpg|title:_MG_5950.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5957.jpg|title:_MG_5957.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6153.jpg|title:_MG_6153.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6159.jpg|title:_MG_6159.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6168.jpg|title:_MG_6168.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6173.jpg|title:_MG_6173.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6176.jpg|title:_MG_6176.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6177.jpg|title:_MG_6177.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6196.jpg|title:_MG_6196.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6199.jpg|title:_MG_6199.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6206.jpg|title:_MG_6206.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6212.jpg|title:_MG_6212.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6213.jpg|title:_MG_6213.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6223.jpg|title:_MG_6223.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6255.jpg|title:_MG_6255.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6270.jpg|title:_MG_6270.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6271.jpg|title:_MG_6271.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6273.jpg|title:_MG_6273.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6277.jpg|title:_MG_6277.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6295.jpg|title:_MG_6295.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6296.jpg|title:_MG_6296.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6305.jpg|title:_MG_6305.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6309.jpg|title:_MG_6309.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6323.jpg|title:_MG_6323.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6354.jpg|title:_MG_6354.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6356.jpg|title:_MG_6356.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6357.jpg|title:_MG_6357.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6377.jpg|title:_MG_6377.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6416.jpg|title:_MG_6416.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6419.jpg|title:_MG_6419.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6424.jpg|title:_MG_6424.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6438.jpg|title:_MG_6438.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6459.jpg|title:_MG_6459.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6478.jpg|title:_MG_6478.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5970.jpg|title:_MG_5970.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5976.jpg|title:_MG_5976.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5985.jpg|title:_MG_5985.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_5998.jpg|title:_MG_5998.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6007.jpg|title:_MG_6007.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6020.jpg|title:_MG_6020.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6029.jpg|title:_MG_6029.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6034.jpg|title:_MG_6034.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6100.jpg|title:_MG_6100.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6108.jpg|title:_MG_6108.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6128.jpg|title:_MG_6128.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6139.jpg|title:_MG_6139.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6145.jpg|title:_MG_6145.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6500.jpg|title:_MG_6500.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6506.jpg|title:_MG_6506.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6509.jpg|title:_MG_6509.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6528.jpg|title:_MG_6528.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6537.jpg|title:_MG_6537.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6548.jpg|title:_MG_6548.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6554.jpg|title:_MG_6554.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6556.jpg|title:_MG_6556.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6559.jpg|title:_MG_6559.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6489.jpg|title:_MG_6489.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6495.jpg|title:_MG_6495.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6870.jpg|title:_MG_6870.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6873.jpg|title:_MG_6873.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6880.jpg|title:_MG_6880.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6881.jpg|title:_MG_6881.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6882.jpg|title:_MG_6882.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6567.jpg|title:_MG_6567.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6572.jpg|title:_MG_6572.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6590.jpg|title:_MG_6590.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6598.jpg|title:_MG_6598.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6605.jpg|title:_MG_6605.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6606.jpg|title:_MG_6606.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6610.jpg|title:_MG_6610.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6612.jpg|title:_MG_6612.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6629.jpg|title:_MG_6629.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6634.jpg|title:_MG_6634.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6638.jpg|title:_MG_6638.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6642.jpg|title:_MG_6642.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6654.jpg|title:_MG_6654.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6660.jpg|title:_MG_6660.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6665.jpg|title:_MG_6665.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6670.jpg|title:_MG_6670.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6682.jpg|title:_MG_6682.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6691.jpg|title:_MG_6691.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6695.jpg|title:_MG_6695.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6701.jpg|title:_MG_6701.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6716.jpg|title:_MG_6716.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6718.jpg|title:_MG_6718.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6722.jpg|title:_MG_6722.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6733.jpg|title:_MG_6733.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6750.jpg|title:_MG_6750.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6757.jpg|title:_MG_6757.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6771.jpg|title:_MG_6771.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6775.jpg|title:_MG_6775.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6795.jpg|title:_MG_6795.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6812.jpg|title:_MG_6812.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6816.jpg|title:_MG_6816.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6823.jpg|title:_MG_6823.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6827.jpg|title:_MG_6827.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6843.jpg|title:_MG_6843.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6855.jpg|title:_MG_6855.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6857.jpg|title:_MG_6857.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6863.jpg|title:_MG_6863.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6866.jpg|title:_MG_6866.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6867.jpg|title:_MG_6867.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6893.jpg|title:_MG_6893.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6901.jpg|title:_MG_6901.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6905.jpg|title:_MG_6905.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6971.jpg|title:_MG_6971.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6908.jpg|title:_MG_6908.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6917.jpg|title:_MG_6917.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6922.jpg|title:_MG_6922.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6927.jpg|title:_MG_6927.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6930.jpg|title:_MG_6930.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6944.jpg|title:_MG_6944.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6949.jpg|title:_MG_6949.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6950.jpg|title:_MG_6950.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6955.jpg|title:_MG_6955.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6958.jpg|title:_MG_6958.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6961.jpg|title:_MG_6961.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6966.jpg|title:_MG_6966.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7522.jpg|title:_MG_7522.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6982.jpg|title:_MG_6982.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_6993.jpg|title:_MG_6993.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7004.jpg|title:_MG_7004.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7012.jpg|title:_MG_7012.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7016.jpg|title:_MG_7016.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7021.jpg|title:_MG_7021.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7023.jpg|title:_MG_7023.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7026.jpg|title:_MG_7026.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7032.jpg|title:_MG_7032.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7034.jpg|title:_MG_7034.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7040.jpg|title:_MG_7040.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7044.jpg|title:_MG_7044.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7048.jpg|title:_MG_7048.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7050.jpg|title:_MG_7050.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7052.jpg|title:_MG_7052.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7055.jpg|title:_MG_7055.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7071.jpg|title:_MG_7071.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7074.jpg|title:_MG_7074.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7082.jpg|title:_MG_7082.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7084.jpg|title:_MG_7084.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7088.jpg|title:_MG_7088.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7101.jpg|title:_MG_7101.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7105.jpg|title:_MG_7105.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7114.jpg|title:_MG_7114.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7118.jpg|title:_MG_7118.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7121.jpg|title:_MG_7121.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7122.jpg|title:_MG_7122.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7123.jpg|title:_MG_7123.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7125.jpg|title:_MG_7125.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7129.jpg|title:_MG_7129.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7139.jpg|title:_MG_7139.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7144.jpg|title:_MG_7144.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7149.jpg|title:_MG_7149.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7151.jpg|title:_MG_7151.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7155.jpg|title:_MG_7155.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7162.jpg|title:_MG_7162.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7167.jpg|title:_MG_7167.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7172.jpg|title:_MG_7172.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7174.jpg|title:_MG_7174.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7181.jpg|title:_MG_7181.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7185.jpg|title:_MG_7185.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7189.jpg|title:_MG_7189.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7197.jpg|title:_MG_7197.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7201.jpg|title:_MG_7201.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7207.jpg|title:_MG_7207.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7210.jpg|title:_MG_7210.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7222.jpg|title:_MG_7222.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7223.jpg|title:_MG_7223.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7230.jpg|title:_MG_7230.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7238.jpg|title:_MG_7238.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7248.jpg|title:_MG_7248.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7250.jpg|title:_MG_7250.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7255.jpg|title:_MG_7255.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7272.jpg|title:_MG_7272.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7274.jpg|title:_MG_7274.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7279.jpg|title:_MG_7279.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7296.jpg|title:_MG_7296.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7299.jpg|title:_MG_7299.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7304.jpg|title:_MG_7304.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7314.jpg|title:_MG_7314.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7327.jpg|title:_MG_7327.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7331.jpg|title:_MG_7331.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7338.jpg|title:_MG_7338.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7344.jpg|title:_MG_7344.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7345.jpg|title:_MG_7345.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7349.jpg|title:_MG_7349.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7374.jpg|title:_MG_7374.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7377.jpg|title:_MG_7377.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7379.jpg|title:_MG_7379.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7400.jpg|title:_MG_7400.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7431.jpg|title:_MG_7431.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7434.jpg|title:_MG_7434.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7437.jpg|title:_MG_7437.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7452.jpg|title:_MG_7452.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7455.jpg|title:_MG_7455.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7459.jpg|title:_MG_7459.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7516.jpg|title:_MG_7516.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7502.jpg|title:_MG_7502.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3606.jpg|title:BV7Q3606.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3639.jpg|title:BV7Q3639.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3671.jpg|title:BV7Q3671.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3685.jpg|title:BV7Q3685.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3707.jpg|title:BV7Q3707.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3712.jpg|title:BV7Q3712.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3716.jpg|title:BV7Q3716.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3723.jpg|title:BV7Q3723.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3726.jpg|title:BV7Q3726.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3513.jpg|title:BV7Q3513.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3521.jpg|title:BV7Q3521.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3541.jpg|title:BV7Q3541.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3582.jpg|title:BV7Q3582.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/BV7Q3596.jpg|title:BV7Q3596.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7882.jpg|title:_MG_7882.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7899.jpg|title:_MG_7899.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7908.jpg|title:_MG_7908.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7918.jpg|title:_MG_7918.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7924.jpg|title:_MG_7924.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7525.jpg|title:_MG_7525.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7530.jpg|title:_MG_7530.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7536.jpg|title:_MG_7536.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7541.jpg|title:_MG_7541.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7555.jpg|title:_MG_7555.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7566.jpg|title:_MG_7566.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7581.jpg|title:_MG_7581.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7606.jpg|title:_MG_7606.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7607.jpg|title:_MG_7607.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7612.jpg|title:_MG_7612.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7618.jpg|title:_MG_7618.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7621.jpg|title:_MG_7621.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7628.jpg|title:_MG_7628.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7642.jpg|title:_MG_7642.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7649.jpg|title:_MG_7649.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7657.jpg|title:_MG_7657.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7667.jpg|title:_MG_7667.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7673.jpg|title:_MG_7673.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7679.jpg|title:_MG_7679.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7684.jpg|title:_MG_7684.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7695.jpg|title:_MG_7695.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7701.jpg|title:_MG_7701.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7708.jpg|title:_MG_7708.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7712.jpg|title:_MG_7712.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7714.jpg|title:_MG_7714.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7716.jpg|title:_MG_7716.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7723.jpg|title:_MG_7723.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7728.jpg|title:_MG_7728.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7739.jpg|title:_MG_7739.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7744.jpg|title:_MG_7744.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7747.jpg|title:_MG_7747.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7749.jpg|title:_MG_7749.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7763.jpg|title:_MG_7763.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7771.jpg|title:_MG_7771.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7790.jpg|title:_MG_7790.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7794.jpg|title:_MG_7794.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7825.jpg|title:_MG_7825.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7843.jpg|title:_MG_7843.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7846.jpg|title:_MG_7846.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7856.jpg|title:_MG_7856.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7872.jpg|title:_MG_7872.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7879.jpg|title:_MG_7879.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7881.jpg|title:_MG_7881.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7968.jpg|title:_MG_7968.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7943.jpg|title:_MG_7943.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_7946.jpg|title:_MG_7946.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/IMG_7950.jpg|title:IMG_7950.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8208.jpg|title:_MG_8208.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8003.jpg|title:_MG_8003.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8007.jpg|title:_MG_8007.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8010.jpg|title:_MG_8010.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8012.jpg|title:_MG_8012.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8016.jpg|title:_MG_8016.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8019.jpg|title:_MG_8019.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8023.jpg|title:_MG_8023.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8032.jpg|title:_MG_8032.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8034.jpg|title:_MG_8034.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8039.jpg|title:_MG_8039.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8042.jpg|title:_MG_8042.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8044.jpg|title:_MG_8044.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8051.jpg|title:_MG_8051.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8057.jpg|title:_MG_8057.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8060.jpg|title:_MG_8060.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8065.jpg|title:_MG_8065.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8067.jpg|title:_MG_8067.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8073.jpg|title:_MG_8073.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8083.jpg|title:_MG_8083.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8098.jpg|title:_MG_8098.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8099.jpg|title:_MG_8099.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8104.jpg|title:_MG_8104.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8122.jpg|title:_MG_8122.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8123.jpg|title:_MG_8123.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8129.jpg|title:_MG_8129.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8135.jpg|title:_MG_8135.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8143.jpg|title:_MG_8143.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8145.jpg|title:_MG_8145.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8150.jpg|title:_MG_8150.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8153.jpg|title:_MG_8153.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8158.jpg|title:_MG_8158.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8161.jpg|title:_MG_8161.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8163.jpg|title:_MG_8163.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8164.jpg|title:_MG_8164.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8168.jpg|title:_MG_8168.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8174.jpg|title:_MG_8174.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8176.jpg|title:_MG_8176.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8177.jpg|title:_MG_8177.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8187.jpg|title:_MG_8187.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8189.jpg|title:_MG_8189.jpg
+author:Tuomas Siitonen|galleriafi:/kuvat/Assembly Summer 2012/Tuomas Siitonen/_MG_8201.jpg|title:_MG_8201.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6778.jpg|title:1A1C6778.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6780.jpg|title:1A1C6780.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6782.jpg|title:1A1C6782.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6787.jpg|title:1A1C6787.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6789.jpg|title:1A1C6789.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6795.jpg|title:1A1C6795.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6803.jpg|title:1A1C6803.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6805.jpg|title:1A1C6805.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6810.jpg|title:1A1C6810.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6811.jpg|title:1A1C6811.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6813.jpg|title:1A1C6813.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6816.jpg|title:1A1C6816.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6819.jpg|title:1A1C6819.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6823.jpg|title:1A1C6823.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6827.jpg|title:1A1C6827.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6832.jpg|title:1A1C6832.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6834.jpg|title:1A1C6834.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6837.jpg|title:1A1C6837.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6844.jpg|title:1A1C6844.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6849.jpg|title:1A1C6849.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6851.jpg|title:1A1C6851.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6853.jpg|title:1A1C6853.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6855.jpg|title:1A1C6855.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6858.jpg|title:1A1C6858.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6860.jpg|title:1A1C6860.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6863.jpg|title:1A1C6863.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6864.jpg|title:1A1C6864.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6867.jpg|title:1A1C6867.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6872.jpg|title:1A1C6872.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6874.jpg|title:1A1C6874.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6885.jpg|title:1A1C6885.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6898.jpg|title:1A1C6898.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6907.jpg|title:1A1C6907.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6908.jpg|title:1A1C6908.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6911.jpg|title:1A1C6911.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6913.jpg|title:1A1C6913.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6914.jpg|title:1A1C6914.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6915.jpg|title:1A1C6915.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6930.jpg|title:1A1C6930.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6933.jpg|title:1A1C6933.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6939.jpg|title:1A1C6939.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6941.jpg|title:1A1C6941.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6951.jpg|title:1A1C6951.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6966.jpg|title:1A1C6966.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6981.jpg|title:1A1C6981.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6985.jpg|title:1A1C6985.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6987.jpg|title:1A1C6987.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C6992.jpg|title:1A1C6992.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7014.jpg|title:1A1C7014.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7028.jpg|title:1A1C7028.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7031.jpg|title:1A1C7031.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7042.jpg|title:1A1C7042.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7051.jpg|title:1A1C7051.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7062.jpg|title:1A1C7062.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7071.jpg|title:1A1C7071.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7084.jpg|title:1A1C7084.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7090.jpg|title:1A1C7090.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7091.jpg|title:1A1C7091.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7092.jpg|title:1A1C7092.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7096.jpg|title:1A1C7096.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7098.jpg|title:1A1C7098.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7103.jpg|title:1A1C7103.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7112.jpg|title:1A1C7112.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7113.jpg|title:1A1C7113.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7118.jpg|title:1A1C7118.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7131.jpg|title:1A1C7131.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7135.jpg|title:1A1C7135.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7137.jpg|title:1A1C7137.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7151.jpg|title:1A1C7151.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7161.jpg|title:1A1C7161.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7178.jpg|title:1A1C7178.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7209.jpg|title:1A1C7209.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7213.jpg|title:1A1C7213.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7214.jpg|title:1A1C7214.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7218.jpg|title:1A1C7218.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7233.jpg|title:1A1C7233.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7248.jpg|title:1A1C7248.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7267.jpg|title:1A1C7267.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7274.jpg|title:1A1C7274.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7286.jpg|title:1A1C7286.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7291.jpg|title:1A1C7291.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7306.jpg|title:1A1C7306.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7309.jpg|title:1A1C7309.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7310.jpg|title:1A1C7310.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7311.jpg|title:1A1C7311.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7320.jpg|title:1A1C7320.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7322.jpg|title:1A1C7322.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7323.jpg|title:1A1C7323.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7325.jpg|title:1A1C7325.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7326.jpg|title:1A1C7326.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7330.jpg|title:1A1C7330.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7331.jpg|title:1A1C7331.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7335.jpg|title:1A1C7335.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7345.jpg|title:1A1C7345.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7348.jpg|title:1A1C7348.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7355.jpg|title:1A1C7355.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7358.jpg|title:1A1C7358.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7361.jpg|title:1A1C7361.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7363.jpg|title:1A1C7363.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7364.jpg|title:1A1C7364.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7368.jpg|title:1A1C7368.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7374.jpg|title:1A1C7374.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7379.jpg|title:1A1C7379.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7389.jpg|title:1A1C7389.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7394.jpg|title:1A1C7394.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7395.jpg|title:1A1C7395.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7398.jpg|title:1A1C7398.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7402.jpg|title:1A1C7402.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7407.jpg|title:1A1C7407.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7413.jpg|title:1A1C7413.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7418.jpg|title:1A1C7418.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7419.jpg|title:1A1C7419.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7420.jpg|title:1A1C7420.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7426.jpg|title:1A1C7426.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7431.jpg|title:1A1C7431.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7435.jpg|title:1A1C7435.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7449.jpg|title:1A1C7449.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7462.jpg|title:1A1C7462.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7466.jpg|title:1A1C7466.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7471.jpg|title:1A1C7471.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7476.jpg|title:1A1C7476.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7481.jpg|title:1A1C7481.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7487.jpg|title:1A1C7487.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7490.jpg|title:1A1C7490.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7491.jpg|title:1A1C7491.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7493.jpg|title:1A1C7493.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7494.jpg|title:1A1C7494.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7495.jpg|title:1A1C7495.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7496.jpg|title:1A1C7496.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7499.jpg|title:1A1C7499.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7502.jpg|title:1A1C7502.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7504.jpg|title:1A1C7504.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7506.jpg|title:1A1C7506.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7510.jpg|title:1A1C7510.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7511.jpg|title:1A1C7511.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7514.jpg|title:1A1C7514.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7515.jpg|title:1A1C7515.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7516.jpg|title:1A1C7516.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7517.jpg|title:1A1C7517.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7522.jpg|title:1A1C7522.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7523.jpg|title:1A1C7523.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7527.jpg|title:1A1C7527.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7529.jpg|title:1A1C7529.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7530.jpg|title:1A1C7530.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7531.jpg|title:1A1C7531.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7535.jpg|title:1A1C7535.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7536.jpg|title:1A1C7536.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7540.jpg|title:1A1C7540.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7542.jpg|title:1A1C7542.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7544.jpg|title:1A1C7544.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7545.jpg|title:1A1C7545.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7546.jpg|title:1A1C7546.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7548.jpg|title:1A1C7548.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7549.jpg|title:1A1C7549.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7550.jpg|title:1A1C7550.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7551.jpg|title:1A1C7551.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7552.jpg|title:1A1C7552.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7553.jpg|title:1A1C7553.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7554.jpg|title:1A1C7554.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7556.jpg|title:1A1C7556.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7557.jpg|title:1A1C7557.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7558.jpg|title:1A1C7558.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7559.jpg|title:1A1C7559.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7561.jpg|title:1A1C7561.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7563.jpg|title:1A1C7563.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7564.jpg|title:1A1C7564.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7565.jpg|title:1A1C7565.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7569.jpg|title:1A1C7569.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7573.jpg|title:1A1C7573.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7579.jpg|title:1A1C7579.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7580.jpg|title:1A1C7580.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7581.jpg|title:1A1C7581.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7586.jpg|title:1A1C7586.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7603.jpg|title:1A1C7603.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7612.jpg|title:1A1C7612.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7624.jpg|title:1A1C7624.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7628.jpg|title:1A1C7628.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7631.jpg|title:1A1C7631.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7638.jpg|title:1A1C7638.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7642.jpg|title:1A1C7642.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7648.jpg|title:1A1C7648.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7655.jpg|title:1A1C7655.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7662.jpg|title:1A1C7662.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7669.jpg|title:1A1C7669.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7690.jpg|title:1A1C7690.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7710.jpg|title:1A1C7710.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7718.jpg|title:1A1C7718.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7759.jpg|title:1A1C7759.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7773.jpg|title:1A1C7773.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7785.jpg|title:1A1C7785.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7791.jpg|title:1A1C7791.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7805.jpg|title:1A1C7805.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7812.jpg|title:1A1C7812.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7826.jpg|title:1A1C7826.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7832.jpg|title:1A1C7832.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7834.jpg|title:1A1C7834.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7835.jpg|title:1A1C7835.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7843.jpg|title:1A1C7843.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7848.jpg|title:1A1C7848.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7853.jpg|title:1A1C7853.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7869.jpg|title:1A1C7869.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7879.jpg|title:1A1C7879.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7884.jpg|title:1A1C7884.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7890.jpg|title:1A1C7890.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7903.jpg|title:1A1C7903.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7923.jpg|title:1A1C7923.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7940.jpg|title:1A1C7940.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7947.jpg|title:1A1C7947.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7949.jpg|title:1A1C7949.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7950.jpg|title:1A1C7950.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7952.jpg|title:1A1C7952.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7954.jpg|title:1A1C7954.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7955.jpg|title:1A1C7955.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7962.jpg|title:1A1C7962.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7965.jpg|title:1A1C7965.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7967.jpg|title:1A1C7967.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7970.jpg|title:1A1C7970.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7976.jpg|title:1A1C7976.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7981.jpg|title:1A1C7981.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7982.jpg|title:1A1C7982.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7984.jpg|title:1A1C7984.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7987.jpg|title:1A1C7987.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7989.jpg|title:1A1C7989.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7991.jpg|title:1A1C7991.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7992.jpg|title:1A1C7992.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7994.jpg|title:1A1C7994.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7996.jpg|title:1A1C7996.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C7998.jpg|title:1A1C7998.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8004.jpg|title:1A1C8004.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8005.jpg|title:1A1C8005.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8006.jpg|title:1A1C8006.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8007.jpg|title:1A1C8007.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8008.jpg|title:1A1C8008.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8009.jpg|title:1A1C8009.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8012.jpg|title:1A1C8012.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8013.jpg|title:1A1C8013.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8020.jpg|title:1A1C8020.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8024.jpg|title:1A1C8024.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8026.jpg|title:1A1C8026.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8035.jpg|title:1A1C8035.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8037.jpg|title:1A1C8037.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8039.jpg|title:1A1C8039.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8040.jpg|title:1A1C8040.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8041.jpg|title:1A1C8041.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8042.jpg|title:1A1C8042.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8044.jpg|title:1A1C8044.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8046.jpg|title:1A1C8046.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8047.jpg|title:1A1C8047.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8050.jpg|title:1A1C8050.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8051.jpg|title:1A1C8051.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8053.jpg|title:1A1C8053.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8054.jpg|title:1A1C8054.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8056.jpg|title:1A1C8056.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8059.jpg|title:1A1C8059.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8062.jpg|title:1A1C8062.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8065.jpg|title:1A1C8065.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8068.jpg|title:1A1C8068.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8071.jpg|title:1A1C8071.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8072.jpg|title:1A1C8072.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8075.jpg|title:1A1C8075.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8077.jpg|title:1A1C8077.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8078.jpg|title:1A1C8078.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8079.jpg|title:1A1C8079.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8081.jpg|title:1A1C8081.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8083.jpg|title:1A1C8083.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8084.jpg|title:1A1C8084.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8087.jpg|title:1A1C8087.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8089.jpg|title:1A1C8089.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8091.jpg|title:1A1C8091.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8094.jpg|title:1A1C8094.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8095.jpg|title:1A1C8095.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8096.jpg|title:1A1C8096.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8097.jpg|title:1A1C8097.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8100.jpg|title:1A1C8100.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8101.jpg|title:1A1C8101.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8102.jpg|title:1A1C8102.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8104.jpg|title:1A1C8104.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8105.jpg|title:1A1C8105.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8107.jpg|title:1A1C8107.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8110.jpg|title:1A1C8110.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8111.jpg|title:1A1C8111.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8112.jpg|title:1A1C8112.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8113.jpg|title:1A1C8113.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8118.jpg|title:1A1C8118.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8122.jpg|title:1A1C8122.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8123.jpg|title:1A1C8123.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8127.jpg|title:1A1C8127.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8131.jpg|title:1A1C8131.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8167.jpg|title:1A1C8167.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8168.jpg|title:1A1C8168.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8175.jpg|title:1A1C8175.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8177.jpg|title:1A1C8177.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8180.jpg|title:1A1C8180.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8182.jpg|title:1A1C8182.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8185.jpg|title:1A1C8185.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8227.jpg|title:1A1C8227.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8196.jpg|title:1A1C8196.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8239.jpg|title:1A1C8239.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8204.jpg|title:1A1C8204.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8243.jpg|title:1A1C8243.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8210.jpg|title:1A1C8210.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8249.jpg|title:1A1C8249.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8220.jpg|title:1A1C8220.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8193.jpg|title:1A1C8193.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8252.jpg|title:1A1C8252.jpg
+author:Tuula Ylikorpi|galleriafi:/kuvat/Assembly Summer 2012/Tuula Ylikorpi/1A1C8190.jpg|title:1A1C8190.jpg
 
