@@ -36,6 +36,7 @@ author:OtakInc|position:3|pouet:6387|sceneorg:/parties/1999/assembly99/java/lain
 
 
 :section MP3 music
+:section-thumbnail music-thumbnail
 :youtube-playlist E06CC8368F659925
 :description <p>In <a href="http://en.wikipedia.org/wiki/MP3">MP3</a> music competition entries could be any type of music from any genre created with any method.</p>
 
@@ -74,6 +75,7 @@ author:Statik|position:4|sceneorg:/parties/1999/assembly99/c64/grfx/please_h.zip
 
 
 :section Tiny music
+:section-thumbnail music-thumbnail
 :youtube-playlist 4C5F0CB0E2928A97
 
 author:Quasian|media:/vod/.oldies-goldies/compos/ASM99 tiny music - 1st - Parasite Blessing by Quasian_h264_1856kbit.mp4|position:1|sceneorg:/parties/1999/assembly99/tinymusic/parasite.zip|title:Parasite Blessing|webfile:tiny_music/parasite_blessing_by_quasian.mp3|youtube:PYjDmQnkEXs

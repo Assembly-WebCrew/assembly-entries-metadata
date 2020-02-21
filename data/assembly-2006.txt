@@ -93,6 +93,7 @@ author:Slurps Entertainment|sceneorg:/parties/2006/assembly06/fast/grfx/whiskie_
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist FF3AA6CD714B5A6B
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 
