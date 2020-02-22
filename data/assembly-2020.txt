@@ -7,6 +7,10 @@
 :section Winter Fast Effect
 :description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
 :public false
+author:Butterflies make all the difference|title:TucE|description:Tools: ShaderToy, includes GPU Sounds|shadertoy:wtVXzh
+author:fast compofiller|title:eimink|description:rip inventor of copy/paste|shadertoy:tlKXRW
+author:Turbulent Chaos	Randomi|title:Randomi|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|shadertoy:wlVXzW
+
 
 :section Winter Tracked Music
 :section-thumbnail music-thumbnail-winter
