@@ -185,6 +185,7 @@ author:Ixtor|image-file:fast-graphics/000-618-i-am-not-on-drugs.png|platform:Pho
 
 
 :section Dance music
+:section-thumbnail music-thumbnail
 :youtube-playlist DFDC28827702EFA7
 :pms-category dance_music
 :description <p>The Dance music competition is for music that has a danceable beat and character. It is something that you can groove to, get your energy flowing and feet moving.</p>
@@ -206,6 +207,7 @@ author:Dj Tabasco|pms-id:asm12/dance_music/623|position:6|techniques:FL Studio 9
 
 
 :section Listening music
+:section-thumbnail music-thumbnail
 :youtube-playlist 1352BB3871323D13
 :pms-category listening_music
 :description <p>The listening music competition is for all music that isn't dance music. For example ambient, orchestral, ballads, fantasy music and game soundtracks.</p>
@@ -227,6 +229,7 @@ author:notsie/npli|platform:All supported platforms|pms-id:asm12/listening_music
 
 
 :section Fast music
+:section-thumbnail music-thumbnail
 :youtube-playlist 87EBD6D539F6EA75
 :pms-category fast_music
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
