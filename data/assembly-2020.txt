@@ -3,13 +3,21 @@
 :section Winter One Scene
 :public false
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
+title:suomi finland disco experience|author:yzin humppatehdas
+title:Silicon Life|author:Exometrium
+title:treeple|author:eastgate|description:OpenGL, Windows PC
+title:Magic Bean Sausages|author:Siils|description:WARNING: contains flashing lights and high pitched sounds
+title:Inhibitor|author:Adapt|description:no rocket, rodeo, no sex
+title:Fresh Moon|author:Adapt|description:not so fresh after partycoding
+title:Particle sim thingy|author:Mehu|description:Thanks to ribula for the music
+title:My Theory of Chaos|author:Quadtrip|description:Started and finished in 2h before the compo deadline. Nootch.
 
 :section Winter Fast Effect
 :description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
 :public false
-author:Butterflies make all the difference|title:TucE|description:Tools: ShaderToy, includes GPU Sounds|shadertoy:wtVXzh
-author:fast compofiller|title:eimink|description:rip inventor of copy/paste|shadertoy:tlKXRW
-author:Turbulent Chaos	Randomi|title:Randomi|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|shadertoy:wlVXzW
+author:TucE|title:Butterflies make all the difference|description:Tools: ShaderToy, includes GPU Sounds|shadertoy:wtVXzh
+author:eimink|title:fast compofiller|description:rip inventor of copy/paste|shadertoy:tlKXRW
+author:Randomi|title:Turbulent Chaos|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|shadertoy:wlVXzW
 
 
 :section Winter Tracked Music
