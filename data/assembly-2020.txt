@@ -12,10 +12,20 @@
 :section-thumbnail music-thumbnail-winter
 :public false
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+title:2020 - Ram vs Ravan|author:adkd|description:MilkyTracker|youtube:Bvx7fvgUqMI
+title:Destroy all lamers!|author:mayday/hedelmae|description:Amiga + ProTracker|youtube:otocC0659l4
+title:Dark Core Winter|author:spiikki / nalleperhe|description:OpenModPlugTracker<br/>Samples from Lucid Samples|youtube:-1djFHb1eNA
+title:Remote Control Ninja Battery Failure|author:rawArgon|description:FastTracker II Clone<br/>OPN2 &amp; SN76496 ftw!|youtube:fo0VwdS0kTQ
+title:stay cool daddy-o|author:e!ghtbm|description:.XM (4 channels)|youtube:ARUR6B2-oLE
+title:Angerkoski|author:Roz / Fit ^ Byterapers|description:14 ch XM|youtube:ZUAt_EnXuAI
 
 :section Winter Graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 :public false
+title:Moon with milkyway|author:Jani Vaskola|description:Canon 6D<br/>Sigma 600mm + SamYang 14mm<br/>Photoshop 2020|image-file:winter-graphics/moon-with-milkyway-by-jani-vaskola.jpeg
+title:Blindfolded warrior|author:Bass Cadet|description:Ipad, Apple Pencil and Procreate. Done at Assembly on Thursday. No reference images used.|image-file:winter-graphics/blindfolded-warrior-by-bass-cadet.png
+title:Apex Predator|author:Ukkis|description:It comes like a pike from the reeds. (Zbrush,Blender,PS)|image-file:winter-graphics/apex-predator-by-ukkis.png
+title:Power|author:Lionelle/Leonardo Casciarola|description:Techniques: Digital painting<br/>Software: Photoshop|image-file:winter-graphics/power-by-lionelle-leonardo-casciarola.jpeg
 
 :section Winter AssemblyTV
 :ranked false
