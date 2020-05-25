@@ -12,6 +12,7 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument("background_file")
     parser.add_argument("thumbnails_dir")
+    parser.add_argument("--prefix", default="music-thumbnail")
     args = parser.parse_args(argv[1:])
 
     convert_params = [
@@ -39,7 +40,7 @@ def main(argv):
                 extra_width, extra_height, convert_params))
 
     filename = args.background_file
-    out_prefix = os.path.join(args.thumbnails_dir, "music-thumbnail")
+    out_prefix = os.path.join(args.thumbnails_dir, args.prefix)
     create_thumbnail_calls = archivethumbnails.create_thumbnails_tasks(
         filename, out_prefix, size_default, extra_sizes)
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
