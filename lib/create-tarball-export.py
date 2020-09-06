@@ -288,6 +288,17 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     if display_author is not None:
         description += u"Author: %s\n" % html.escape(display_author)
 
+    if "twitch" in entry:
+        twitch_id_time = asmmetadata.get_timed_twitch_id(entry)
+        has_media = True
+        external_links.add(
+            "View on",
+            "Twitch",
+            "https://twitch.tv/videos/%s" % twitch_id_time)
+        asset = {
+            "type": "twitch",
+            "data": {"id": twitch_id_time},
+        }
     # Youtube is our primary location
     if "youtube" in entry:
         youtube_id_time = asmmetadata.get_timed_youtube_id(entry)
@@ -296,29 +307,10 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             "View on",
             "YouTube",
             "https://www.youtube.com/watch?v=%s" % youtube_id_time)
-        #locations += "<location type='youtube'>%s</location>" % youtube_id_time
         asset = {
             "type": "youtube",
             "data": {"id": youtube_id_time},
         }
-    if "twitch" in entry:
-        twitch_id_time = asmmetadata.get_timed_twitch_id(entry)
-        has_media = True
-        external_links.add(
-            "View on",
-            "Twitch",
-            "https://twitch.tv/videos/%s" % twitch_id_time)
-        #locations += "<location type='youtube'>%s</location>" % youtube_id_time
-        asset = {
-            "type": "twitch",
-            "data": {"id": twitch_id_time},
-        }
-    # Demoscenetv is no more
-    # demoscenetv = entry.get('dtv')
-    # if demoscenetv:
-    #     has_media = True
-        #locations += "<location type='demoscenetv'>%s</location>" % (escape(demoscenetv))
-
     if entry.get('image-file') or entry.get('galleriafi'):
         image_file = entry.get('image-file')
         if entry.get("galleriafi"):
