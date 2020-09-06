@@ -27,7 +27,7 @@ if __name__ == "__main__":
     # Retrieve the contentDetails part of the channel resource for the
     # authenticated user's channel.
     channels_response = yt_service.channels().list(
-        mine=True,
+        forUsername="AssemblyTV",
         part="contentDetails"
     ).execute()
 
