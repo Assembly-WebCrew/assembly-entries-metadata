@@ -1,6 +1,7 @@
 :year 2020
 
 :section Winter One Scene
+:public false
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 title:Fresh Moon|author:Adapt|description:not so fresh after partycoding|position:1
 title:treeple|author:eastgate|description:OpenGL, Windows PC|position:2
@@ -12,6 +13,7 @@ title:My Theory of Chaos|author:Quadtrip|description:Started and finished in 2h 
 title:Magic Bean Sausages|author:Siils|description:WARNING: contains flashing lights and high pitched sounds|position:8
 
 :section Winter Fast Effect
+:public false
 :description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
 author:TucE|title:Butterflies make all the difference|description:Tools: ShaderToy, includes GPU Sounds|shadertoy:wtVXzh|position:1
 author:Randomi|title:Turbulent Chaos|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|shadertoy:wlVXzW|position:2
