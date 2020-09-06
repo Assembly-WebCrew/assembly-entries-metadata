@@ -180,6 +180,8 @@ def normalize_key(value):
 
 
 def get_entry_key(entry):
+    if not entry.get("author"):
+        return normalize_key(entry["title"])
     return normalize_key(u"%s-by-%s" % (entry['title'], entry['author']))
 
 
@@ -469,6 +471,9 @@ def select_thumbnail_base(entry):
     youtube_id = get_clean_youtube_id(entry)
     if youtube_id:
         return 'youtube-thumbnails/%s' % youtube_id
+    twitch_id = get_clean_twitch_id(entry)
+    if twitch_id:
+        return 'twitch-thumbnails/%s' % twitch_id
     if 'dtv' in entry:
         demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
         return 'dtv-thumbnails/%s' % demoscenetv_thumb
@@ -748,6 +753,21 @@ def get_clean_youtube_id(entry):
     cleaned = youtube_id.split("?", 1)[0]
     cleaned = cleaned.split("#", 1)[0]
     return cleaned
+
+
+def get_clean_twitch_id(entry):
+    """Clean timestamps references from a Twitch ID"""
+    twitch_id = entry.get("twitch", None)
+    if not twitch_id:
+        return None
+    # twitch-id#0h0m12s
+    cleaned = twitch_id.split("?", 1)[0]
+    return cleaned
+
+
+def get_timed_twitch_id(entry):
+    """Twitch IDs are timed as they are"""
+    return entry.get("twitch")
 
 
 def get_timed_youtube_id(entry):

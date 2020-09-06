@@ -301,7 +301,18 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             "type": "youtube",
             "data": {"id": youtube_id_time},
         }
-
+    if "twitch" in entry:
+        twitch_id_time = asmmetadata.get_timed_twitch_id(entry)
+        has_media = True
+        external_links.add(
+            "View on",
+            "Twitch",
+            "https://twitch.tv/videos/%s" % twitch_id_time)
+        #locations += "<location type='youtube'>%s</location>" % youtube_id_time
+        asset = {
+            "type": "twitch",
+            "data": {"id": twitch_id_time},
+        }
     # Demoscenetv is no more
     # demoscenetv = entry.get('dtv')
     # if demoscenetv:
