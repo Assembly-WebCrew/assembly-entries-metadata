@@ -253,7 +253,7 @@ def parse_file(file_handle):
     section = None
 
     known_keys = set()
-    for line in file_handle:
+    for lineno, line in enumerate(file_handle, 1):
         line = line.strip()
         if line == "":
             continue
@@ -263,7 +263,7 @@ def parse_file(file_handle):
             try:
                 data_type, value = line.strip().split(" ", 1)
             except ValueError:
-                print("Invalid line: %s" % line.strip())
+                print("Invalid line %d: %s" % (lineno, line.strip()))
                 raise
             if data_type == ":year":
                 assert result.year is None
@@ -293,6 +293,13 @@ def parse_file(file_handle):
                 assert 'pms-category' not in section
                 if len(value):
                     section['pms-category'] = value
+            elif data_type == ":partyman-slug":
+                # Categories can only be under section.
+                assert section is not None
+                # Only one category per section is allowed.
+                assert 'partyman-slug' not in section
+                if len(value):
+                    section['partyman-slug'] = value
             elif data_type == ":ongoing":
                 if value.lower() == "true":
                     section['ongoing'] = True
@@ -430,6 +437,8 @@ def print_metadata(outfile, year_entry_data):
             if section['manage-youtube-descriptions'] is False:
                 manage_text = "false"
             outfile.write(":manage-youtube-descriptions %s\n" % manage_text)
+        if 'partyman-slug' in section:
+            outfile.write(":partyman-slug %s\n" % section['partyman-slug'])
 
         outfile.write("\n")
 

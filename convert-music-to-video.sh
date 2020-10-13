@@ -12,7 +12,7 @@ test -d "$CATEGORY" || exit 1
 # missing.
 test -f "$MUSIC_BACKGROUND".mp4 || exit 1
 
-for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
+for MUSIC_FILE in "$CATEGORY"/{*.aac,*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
     [[ -f "$MUSIC_FILE" ]] || continue
     TARGET_FILE="$MUSIC_FILE".mp4
 
@@ -24,7 +24,7 @@ for MUSIC_FILE in "$CATEGORY"/{*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
     "${FFMPEG[@]}" \
         -i "$MUSIC_BACKGROUND".mp4 -i "$MUSIC_FILE" \
         -shortest \
-        -c:a aac -b:a 384k \
+        -c:a copy \
         -c:v copy \
         -y "$TARGET_FILE"
 done

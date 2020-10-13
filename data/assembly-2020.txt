@@ -1,55 +1,188 @@
 :year 2020
 
-:section Summer Loves Demoscene
+:section Online PC demo
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
+
+
+
+:section Online Oldskool demo
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+
+
+
+:section Online 4k intro
+:pms-category 4k-intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+
+
+
+:section Online 1k intro
+:description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:partyman-slug 1k-intro
+
+author:rawArgon|partyman-id:26|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
+author:Ivory Labs|partyman-id:27|title:Tranquility Falls
+author:Fit|partyman-id:28|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes
+author:RIBBON|partyman-id:29|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE
+author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability to read deadlines... Sorry for the minimal sound. Uses Crinkler + custom tools.|title:Jumpgate 10.24
+
+
+:section Online Pico-8 demo
+:partyman-slug pico-8-demo
+
+author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope
+author:rawArgon|partyman-id:25|title:karkki8
+author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam
+
+
+:section Online Real wild demo
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+
+
+
+:section Online Short film
+:youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
+:description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+
+
+
+:section Online Acid music
+:author-in-title false
+:public false
+
+
+
+:section Online Streaming music
+:author-in-title false
+:youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
+:public false
+
+
+
+:section Online Fast music
+:author-in-title false
+:youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
+:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:public false
+
+
+
+:section Online Fast graphics
+:author-in-title false
+:description <p>Competitors had 1.5 hours to create an image with "" theme.</p>
+:public false
+
+
+
+:section Online Themed photo
+:author-in-title false
+:public false
+:partyman-slug themed-photo
+
+partyman-id:35|techniques:iPhone 7 + Lightroom|title:Hack the Planet
+partyman-id:32|title:Meaning of light
+partyman-id:34|techniques:Greetings to In-Sect|title:Ray of Love
+partyman-id:33|techniques:Red discs and light|title:Red Discs
+partyman-id:31|title:14 Years of Bad Luck
+partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+
+
+:section Online Tracked Music
+:author-in-title false
+:youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
+:description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+:public false
+:manage-youtube-descriptions true
+:partyman-slug tracked-music
+
+partyman-id:12|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
+partyman-id:11|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
+partyman-id:14|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
+partyman-id:15|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
+partyman-id:16|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
+partyman-id:17|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
+partyman-id:18|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
+partyman-id:19|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
+partyman-id:20|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
+partyman-id:21|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
+partyman-id:22|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+
+
+:section Online Gamedev
+:youtube-playlist PLJO4AtxKJiFNJo8AuLcrU6m0Vb_b2V5ze
+:description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
+:public false
 :manage-youtube-descriptions false
+:partyman-slug gamedev
+
+author:Finlander, Ataverti|partyman-id:7|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku
+author:The 7th Division and Vintage Computing Carinthia|partyman-id:8|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure
+author:Kultisti & Aries W|partyman-id:9|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O
+author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer
+
+
+:section Summer Loves Demoscene
 :author-in-title false
 :description <p>Regular Assembly Summer event program was moved to October. Demoscene program from the past was still broadcasted over the Internet.</p>
-title:Hello worl-- internet!|author:AssemblyTV|twitch:703187517
+:manage-youtube-descriptions false
+
+author:AssemblyTV|title:Hello worl-- internet!|twitch:703187517
+
 
 :section Winter One Scene
-:public false
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
-title:Fresh Moon|author:Adapt|description:not so fresh after partycoding|position:1
-title:treeple|author:eastgate|description:OpenGL, Windows PC|position:2
-title:Inhibitor|author:Adapt|description:no rocket, rodeo, no sex|position:3
-title:suomi finland disco experience|author:yzin humppatehdas|position:4
-title:Silicon Life|author:Exometrium|position:5
-title:Particle sim thingy|author:Mehu|description:Thanks to ribula for the music|position:6
-title:My Theory of Chaos|author:Quadtrip|description:Started and finished in 2h before the compo deadline. Nootch.|position:7
-title:Magic Bean Sausages|author:Siils|description:WARNING: contains flashing lights and high pitched sounds|position:8
+:public false
+
+author:Adapt|description:not so fresh after partycoding|position:1|title:Fresh Moon
+author:eastgate|description:OpenGL, Windows PC|position:2|title:treeple
+author:Adapt|description:no rocket, rodeo, no sex|position:3|title:Inhibitor
+author:yzin humppatehdas|position:4|title:suomi finland disco experience
+author:Exometrium|position:5|title:Silicon Life
+author:Mehu|description:Thanks to ribula for the music|position:6|title:Particle sim thingy
+author:Quadtrip|description:Started and finished in 2h before the compo deadline. Nootch.|position:7|title:My Theory of Chaos
+author:Siils|description:WARNING: contains flashing lights and high pitched sounds|position:8|title:Magic Bean Sausages
+
 
 :section Winter Fast Effect
-:public false
 :description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
-author:TucE|title:Butterflies make all the difference|description:Tools: ShaderToy, includes GPU Sounds|shadertoy:wtVXzh|position:1
-author:Randomi|title:Turbulent Chaos|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|shadertoy:wlVXzW|position:2
-author:eimink|title:fast compofiller|description:rip inventor of copy/paste|shadertoy:tlKXRW|position:3
+:public false
+
+author:TucE|description:Tools: ShaderToy, includes GPU Sounds|position:1|shadertoy:wtVXzh|title:Butterflies make all the difference
+author:Randomi|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. Profit?<br/>12 lines of code, 12 cups of coffee|position:2|shadertoy:wlVXzW|title:Turbulent Chaos
+author:eimink|description:rip inventor of copy/paste|position:3|shadertoy:tlKXRW|title:fast compofiller
 
 
 :section Winter Tracked Music
-:section-thumbnail music-thumbnail-winter
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
-title:Angerkoski|author:Roz / Fit ^ Byterapers|description:14 ch XM|youtube:ZUAt_EnXuAI|position:1
-title:stay cool daddy-o|author:e!ghtbm|description:.XM (4 channels)|youtube:ARUR6B2-oLE|position:2
-title:Remote Control Ninja Battery Failure|author:rawArgon|description:FastTracker II Clone<br/>OPN2 &amp; SN76496 ftw!|youtube:fo0VwdS0kTQ|position:3
-title:Dark Core Winter|author:spiikki / nalleperhe|description:OpenModPlugTracker<br/>Samples from Lucid Samples|youtube:-1djFHb1eNA|position:4
-title:Destroy all lamers!|author:mayday/hedelmae|description:Amiga + ProTracker|youtube:otocC0659l4|position:5
-title:2020 - Ram vs Ravan|author:adkd|description:MilkyTracker|youtube:Bvx7fvgUqMI|position:6
+
+author:Roz / Fit ^ Byterapers|description:14 ch XM|position:1|title:Angerkoski|youtube:ZUAt_EnXuAI
+author:e!ghtbm|description:.XM (4 channels)|position:2|title:stay cool daddy-o|youtube:ARUR6B2-oLE
+author:rawArgon|description:FastTracker II Clone<br/>OPN2 &amp; SN76496 ftw!|position:3|title:Remote Control Ninja Battery Failure|youtube:fo0VwdS0kTQ
+author:spiikki / nalleperhe|description:OpenModPlugTracker<br/>Samples from Lucid Samples|position:4|title:Dark Core Winter|youtube:-1djFHb1eNA
+author:mayday/hedelmae|description:Amiga + ProTracker|position:5|title:Destroy all lamers!|youtube:otocC0659l4
+author:adkd|description:MilkyTracker|position:6|title:2020 - Ram vs Ravan|youtube:Bvx7fvgUqMI
+
 
 :section Winter Graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
-title:Apex Predator|author:Ukkis|description:It comes like a pike from the reeds. (Zbrush,Blender,PS)|image-file:winter-graphics/apex-predator-by-ukkis.png|position:1
-title:Power|author:Lionelle/Leonardo Casciarola|description:Techniques: Digital painting<br/>Software: Photoshop|image-file:winter-graphics/power-by-lionelle-leonardo-casciarola.jpeg|position:2
-title:Moon with milkyway|author:Jani Vaskola|description:Canon 6D<br/>Sigma 600mm + SamYang 14mm<br/>Photoshop 2020|image-file:winter-graphics/moon-with-milkyway-by-jani-vaskola.jpeg|position:3
-title:Blindfolded warrior|author:Bass Cadet|description:Ipad, Apple Pencil and Procreate. Done at Assembly on Thursday. No reference images used.|image-file:winter-graphics/blindfolded-warrior-by-bass-cadet.png|position:4
+
+author:Ukkis|description:It comes like a pike from the reeds. (Zbrush,Blender,PS)|image-file:winter-graphics/apex-predator-by-ukkis.png|position:1|title:Apex Predator
+author:Lionelle/Leonardo Casciarola|description:Techniques: Digital painting<br/>Software: Photoshop|image-file:winter-graphics/power-by-lionelle-leonardo-casciarola.jpeg|position:2|title:Power
+author:Jani Vaskola|description:Canon 6D<br/>Sigma 600mm + SamYang 14mm<br/>Photoshop 2020|image-file:winter-graphics/moon-with-milkyway-by-jani-vaskola.jpeg|position:3|title:Moon with milkyway
+author:Bass Cadet|description:Ipad, Apple Pencil and Procreate. Done at Assembly on Thursday. No reference images used.|image-file:winter-graphics/blindfolded-warrior-by-bass-cadet.png|position:4|title:Blindfolded warrior
+
 
 :section Winter AssemblyTV
-:public false
 :ranked false
 :author-in-title false
-:manage-youtube-descriptions false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:public false
+:manage-youtube-descriptions false
+
+
 
 :section Photos Winter
 :ranked false
 :public false
+
+
