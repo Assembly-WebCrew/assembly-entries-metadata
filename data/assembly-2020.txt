@@ -29,10 +29,11 @@ author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability 
 
 :section Online Pico-8 demo
 :partyman-slug pico-8-demo
+:youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
 
-author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope
-author:rawArgon|partyman-id:25|title:karkki8
-author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam
+author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
+author:rawArgon|partyman-id:25|title:karkki8|youtube:WA6s3Sn0FiY
+author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
 
 
 :section Online Real wild demo
@@ -115,10 +116,10 @@ partyman-id:22|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.1
 :manage-youtube-descriptions false
 :partyman-slug gamedev
 
-author:Finlander, Ataverti|partyman-id:7|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku
-author:The 7th Division and Vintage Computing Carinthia|partyman-id:8|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure
-author:Kultisti & Aries W|partyman-id:9|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O
-author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer
+author:Finlander, Ataverti|partyman-id:7|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku|youtube:P20IXWiQiq0
+author:The 7th Division and Vintage Computing Carinthia|partyman-id:8|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
+author:Kultisti & Aries W|partyman-id:9|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
+author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
 
 
 :section Summer Loves Demoscene
