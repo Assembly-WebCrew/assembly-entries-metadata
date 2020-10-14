@@ -16,6 +16,10 @@ for MUSIC_FILE in "$CATEGORY"/{*.aac,*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
     [[ -f "$MUSIC_FILE" ]] || continue
     TARGET_FILE="$MUSIC_FILE".mp4
 
+    AUDIO_ARGS=(-c:a aac -b:a 384k)
+    if [[ "$(basename "$MUSIC_FILE")" = *.aac ]]; then
+        AUDIO_ARGS=(-c:a copy)
+    fi
     # "${FFMPEG[@]}" -loop 1 -r 10 \
     #     -i "$MUSIC_BACKGROUND" -i "$MUSIC_FILE" \
     #     -c:a aac -b:a 384k \
@@ -24,7 +28,7 @@ for MUSIC_FILE in "$CATEGORY"/{*.aac,*.wav,*.ogg,*.mp3,*.flac,*.aif,*.aiff}; do
     "${FFMPEG[@]}" \
         -i "$MUSIC_BACKGROUND".mp4 -i "$MUSIC_FILE" \
         -shortest \
-        -c:a copy \
+        "${AUDIO_ARGS[@]}" \
         -c:v copy \
         -y "$TARGET_FILE"
 done
