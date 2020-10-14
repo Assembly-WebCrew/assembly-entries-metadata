@@ -85,12 +85,12 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :public false
 :partyman-slug themed-photo
 
-author:author-will-be-revealed-after-compo|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet
-author:author-will-be-revealed-after-compo|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light
-author:author-will-be-revealed-after-compo|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love
-author:author-will-be-revealed-after-compo|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs
-author:author-will-be-revealed-after-compo|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck
-author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+author:author-will-be-revealed-after-compo|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet|image-file:online-themed-photo/01_hack_the_planet.jpg
+author:author-will-be-revealed-after-compo|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light|image-file:online-themed-photo/02_Meaning_of_light.jpg
+author:author-will-be-revealed-after-compo|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love|image-file:online-themed-photo/03_Ray_of_Love.jpg
+author:author-will-be-revealed-after-compo|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs|image-file:online-themed-photo/04_Red_Discs.jpg
+author:author-will-be-revealed-after-compo|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg
+author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg
 
 
 :section Online Tracked Music
