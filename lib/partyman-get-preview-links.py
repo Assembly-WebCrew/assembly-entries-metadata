@@ -23,11 +23,18 @@ def main(argv):
     for section in metadata.sections:
         print(section["name"])
         for entry in section["entries"]:
-            if "partyman-id" in entry and "youtube" in entry:
-                partyman_entry = entries_by_uuid[entry["partyman-id"]]
+            if "partyman-id" not in entry:
+                continue
+            partyman_entry = entries_by_uuid[entry["partyman-id"]]
+            if "youtube" in entry:
                 print(
                     partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v1", "admin") + "detail/", "\t",
                     "https://www.youtube.com/watch?v=%s" % entry["youtube"], entry["title"])
+            if 'image-file' in entry:
+                preview_link = asmmetadata.get_archive_link_entry(entry)
+                print(
+                    partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v1", "admin") + "detail/", "\t",
+                    preview_link, "\t", entry["title"])
         print()
     return os.EX_OK
 

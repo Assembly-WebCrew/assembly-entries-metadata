@@ -110,7 +110,6 @@ author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
-:public false
 :ongoing true
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
