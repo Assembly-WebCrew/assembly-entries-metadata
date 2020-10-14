@@ -48,12 +48,14 @@ author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pi
 
 
 :section Online Acid music
+:section-thumbnail music-thumbnail-online
 :author-in-title false
 :public false
 
 
 
 :section Online Streaming music
+:section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
 :public false
@@ -61,6 +63,7 @@ author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pi
 
 
 :section Online Fast music
+:section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
@@ -89,6 +92,7 @@ partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|tit
 
 
 :section Online Tracked Music
+:section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
@@ -154,6 +158,7 @@ author:eimink|description:rip inventor of copy/paste|position:3|shadertoy:tlKXRW
 
 
 :section Winter Tracked Music
+:section-thumbnail music-thumbnail-winter
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 
 author:Roz / Fit ^ Byterapers|description:14 ch XM|position:1|title:Angerkoski|youtube:ZUAt_EnXuAI
