@@ -1,28 +1,29 @@
 :year 2020
 
 :section Online PC demo
-:ongoing true
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
+:ongoing true
 
 
 
 :section Online Oldskool demo
-:ongoing true
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
+:ongoing true
 
 
 
 :section Online 4k intro
-:pms-category 4k-intro
-:ongoing true
+:youtube-playlist PLJO4AtxKJiFNqE0cR3jSbtEklC77A-SUK
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
+:ongoing true
 
 
 
 :section Online 1k intro
+:youtube-playlist PLJO4AtxKJiFPUavDP_Z-DOQOe0oPe1Uss
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:public false
 :ongoing true
+:public false
 :partyman-slug 1k-intro
 
 author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
@@ -34,8 +35,8 @@ author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|techniques
 
 :section Online Pico-8 demo
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
-:public false
 :ongoing true
+:public false
 :partyman-slug pico-8-demo
 
 author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
@@ -44,23 +45,34 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 
 
 :section Online Real wild demo
+:youtube-playlist PLJO4AtxKJiFM89d62hG299DeHt2SG6sl8
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
+:partyman-slug real-wild
 
+author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge
+author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|techniques:Platform: Timex Datalink 150 wrist watch<br/>Tools: asm6805, ida pro, custom tools|title:watch out
+author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office
 
 
 :section Online Short film
 :youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
+:partyman-slug short-film
 
+author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01
+author:Bobi|partyman-id:b52d0e85-1966-4037-8234-687577ae4d24|techniques:This the music video for this song|title:Dinner Alone: A Halloween Tale
+author:SBA|partyman-id:0f8e4ec3-5ec0-4128-b3f0-df0790928618|techniques:Iso kiitos Teiskon elokuvakerholle!|title:HOMEVID-20
+author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|techniques:Genre: Eurobeat<br/>We have a permission from Apetor to use this personalized clip.|title:Datanomination! (I have a Vocational Degree in Business Information Technology) ft. Apetor
+author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield
 
 
 :section Online Acid music
 :section-thumbnail music-thumbnail-online
 :author-in-title false
-:public false
 :ongoing true
+:public false
 
 
 
@@ -68,9 +80,24 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
-:public false
 :ongoing true
+:public false
+:partyman-slug streaming-music
 
+author:author-will-be-revealed-after-compo|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|techniques:Reaper|title:Hyvä Synabiisi
+author:author-will-be-revealed-after-compo|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro
+author:author-will-be-revealed-after-compo|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem
+author:author-will-be-revealed-after-compo|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|techniques:FL Studio 20 / Windows|title:Perpetual Cruising
+author:author-will-be-revealed-after-compo|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow
+author:author-will-be-revealed-after-compo|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|techniques:Ableton 10|title:Let There Be Neon Light
+author:author-will-be-revealed-after-compo|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits
+author:author-will-be-revealed-after-compo|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera
+author:author-will-be-revealed-after-compo|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|techniques:Buzzerille terveisiä|title:Blues for Keke
+author:author-will-be-revealed-after-compo|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two
+author:author-will-be-revealed-after-compo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele
+author:author-will-be-revealed-after-compo|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|title:Memory of Tomorrow
+author:author-will-be-revealed-after-compo|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts
+author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds
 
 
 :section Online Fast music
@@ -78,31 +105,31 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Online Fast graphics
 :author-in-title false
 :description <p>Competitors had 1.5 hours to create an image with "" theme.</p>
-:public false
 :ongoing true
+:public false
 
 
 
 :section Online Themed photo
 :author-in-title false
-:public false
 :ongoing true
+:public false
 :partyman-slug themed-photo
 
-author:author-will-be-revealed-after-compo|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet|image-file:online-themed-photo/01_hack_the_planet.jpg
-author:author-will-be-revealed-after-compo|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light|image-file:online-themed-photo/02_Meaning_of_light.jpg
-author:author-will-be-revealed-after-compo|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love|image-file:online-themed-photo/03_Ray_of_Love.jpg
-author:author-will-be-revealed-after-compo|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs|image-file:online-themed-photo/04_Red_Discs.jpg
-author:author-will-be-revealed-after-compo|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg
-author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/02_Meaning_of_light.jpg|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/03_Ray_of_Love.jpg|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/04_Red_Discs.jpg|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck
+author:author-will-be-revealed-after-compo|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
 
 
 :section Online Tracked Music
