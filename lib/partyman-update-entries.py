@@ -21,24 +21,29 @@ def update_section_partyman_data(section, partyman_competitions):
 
     section_entries = []
     for partyman_entry in entries:
+        entry_entry = partyman_entry["entry"]
         existing_data = None
         for metadata_entry in section['entries']:
-            if partyman_entry['pk'] == int(metadata_entry.get('partyman-id')):
+            try:
+                uuid = int(metadata_entry.get('partyman-id'))
+            except:
+                uuid = metadata_entry.get('partyman-id')
+            if (partyman_entry['pk'] == uuid or entry_entry["uuid"] == uuid):
                 existing_data = metadata_entry
                 break
         addable_data = existing_data
         if existing_data is None:
             addable_data = {'section': section}
-        addable_data['partyman-id'] = partyman_entry['pk']
-        title = partyman_entry["entry"]['title']
+        addable_data['partyman-id'] = entry_entry['uuid']
+        title = entry_entry['title']
         title = title.replace("|", "-")
         addable_data['title'] = title
-        author = partyman_entry["entry"].get("by")
+        author = entry_entry.get("by")
         if not author:
             author = "author-will-be-revealed-after-compo"
         author = author.replace("|", "-")
         addable_data['author'] = author
-        slide_info = partyman_entry["entry"].get("slide_info")
+        slide_info = entry_entry.get("slide_info")
         if slide_info:
              slide_info = slide_info.strip()
              slide_info = slide_info.replace("&", "&amp;")

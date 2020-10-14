@@ -21,11 +21,11 @@
 :public false
 :partyman-slug 1k-intro
 
-author:rawArgon|partyman-id:26|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
-author:Ivory Labs|partyman-id:27|title:Tranquility Falls
-author:Fit|partyman-id:28|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes
-author:RIBBON|partyman-id:29|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE
-author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability to read deadlines... Sorry for the minimal sound. Uses Crinkler + custom tools.|title:Jumpgate 10.24
+author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
+author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|title:Tranquility Falls
+author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes
+author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE
+author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|techniques:Made in a hurry due to inability to read deadlines... Sorry for the minimal sound. Uses Crinkler + custom tools.|title:Jumpgate 10.24
 
 
 :section Online Pico-8 demo
@@ -33,9 +33,9 @@ author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability 
 :public false
 :partyman-slug pico-8-demo
 
-author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
-author:rawArgon|partyman-id:25|title:karkki8|youtube:WA6s3Sn0FiY
-author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
+author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
+author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|title:karkki8|youtube:WA6s3Sn0FiY
+author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
 
 
 :section Online Real wild demo
@@ -85,12 +85,12 @@ author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pi
 :public false
 :partyman-slug themed-photo
 
-author:author-will-be-revealed-after-compo|partyman-id:35|techniques:iPhone 7 + Lightroom|title:Hack the Planet
-author:author-will-be-revealed-after-compo|partyman-id:32|title:Meaning of light
-author:author-will-be-revealed-after-compo|partyman-id:34|techniques:Greetings to In-Sect|title:Ray of Love
-author:author-will-be-revealed-after-compo|partyman-id:33|techniques:Red discs and light|title:Red Discs
-author:author-will-be-revealed-after-compo|partyman-id:31|title:14 Years of Bad Luck
-author:author-will-be-revealed-after-compo|partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+author:author-will-be-revealed-after-compo|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet
+author:author-will-be-revealed-after-compo|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light
+author:author-will-be-revealed-after-compo|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love
+author:author-will-be-revealed-after-compo|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs
+author:author-will-be-revealed-after-compo|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck
+author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
 
 
 :section Online Tracked Music
@@ -102,17 +102,17 @@ author:author-will-be-revealed-after-compo|partyman-id:36|techniques:Olympus E-M
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
 
-author:author-will-be-revealed-after-compo|partyman-id:12|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
-author:author-will-be-revealed-after-compo|partyman-id:11|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
-author:author-will-be-revealed-after-compo|partyman-id:14|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
-author:author-will-be-revealed-after-compo|partyman-id:15|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
-author:author-will-be-revealed-after-compo|partyman-id:16|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
-author:author-will-be-revealed-after-compo|partyman-id:17|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
-author:author-will-be-revealed-after-compo|partyman-id:18|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
-author:author-will-be-revealed-after-compo|partyman-id:19|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
-author:author-will-be-revealed-after-compo|partyman-id:20|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
-author:author-will-be-revealed-after-compo|partyman-id:21|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
-author:author-will-be-revealed-after-compo|partyman-id:22|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+author:author-will-be-revealed-after-compo|partyman-id:ce767c68-4ff8-4d54-8b4d-f054ebfc7203|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
+author:author-will-be-revealed-after-compo|partyman-id:b0087945-bc65-4835-8cbd-59c60805f2c0|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
+author:author-will-be-revealed-after-compo|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
+author:author-will-be-revealed-after-compo|partyman-id:59f7b938-d757-4180-9f14-bd271b318df3|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
+author:author-will-be-revealed-after-compo|partyman-id:ab9bae43-3930-4170-a81f-f497632db038|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
+author:author-will-be-revealed-after-compo|partyman-id:d1d5bec8-c772-4d9e-b04f-ea6e417596e2|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
+author:author-will-be-revealed-after-compo|partyman-id:59f75f04-c050-454c-b623-111fe8b0b2ae|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
+author:author-will-be-revealed-after-compo|partyman-id:fb4d5138-ec8c-489c-bdaa-d1a631e814cc|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
+author:author-will-be-revealed-after-compo|partyman-id:bc15f144-9719-4ce0-9348-e2aabef44b49|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
+author:author-will-be-revealed-after-compo|partyman-id:3402fc27-897f-4525-841f-5379c637a7ac|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
+author:author-will-be-revealed-after-compo|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
 
 
 :section Online Gamedev
@@ -122,10 +122,10 @@ author:author-will-be-revealed-after-compo|partyman-id:22|techniques:144kb .IT, 
 :manage-youtube-descriptions false
 :partyman-slug gamedev
 
-author:Finlander, Ataverti|partyman-id:7|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku|youtube:P20IXWiQiq0
-author:The 7th Division and Vintage Computing Carinthia|partyman-id:8|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
-author:Kultisti & Aries W|partyman-id:9|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
-author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
+author:Finlander, Ataverti|partyman-id:01e6f1f2-5e34-4e43-a561-09b2dfaf2402|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku|youtube:P20IXWiQiq0
+author:The 7th Division and Vintage Computing Carinthia|partyman-id:44742eb4-75f1-4ea4-8f62-5b876c61b661|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
+author:Kultisti & Aries W|partyman-id:f24af1b7-c112-4b5a-90f3-f4d7387cbcb5|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
+author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
 
 
 :section Summer Loves Demoscene
