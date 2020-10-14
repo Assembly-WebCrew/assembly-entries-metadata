@@ -1,17 +1,20 @@
 :year 2020
 
 :section Online PC demo
+:ongoing true
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
 
 
 
 :section Online Oldskool demo
+:ongoing true
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 
 
 
 :section Online 4k intro
 :pms-category 4k-intro
+:ongoing true
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 
 
@@ -19,6 +22,7 @@
 :section Online 1k intro
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :public false
+:ongoing true
 :partyman-slug 1k-intro
 
 author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
@@ -31,6 +35,7 @@ author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|techniques
 :section Online Pico-8 demo
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
 :public false
+:ongoing true
 :partyman-slug pico-8-demo
 
 author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
@@ -40,12 +45,14 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 
 :section Online Real wild demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
+:ongoing true
 
 
 
 :section Online Short film
 :youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
+:ongoing true
 
 
 
@@ -53,6 +60,7 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :public false
+:ongoing true
 
 
 
@@ -61,6 +69,7 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
 :public false
+:ongoing true
 
 
 
@@ -70,6 +79,7 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :public false
+:ongoing true
 
 
 
@@ -77,12 +87,14 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :author-in-title false
 :description <p>Competitors had 1.5 hours to create an image with "" theme.</p>
 :public false
+:ongoing true
 
 
 
 :section Online Themed photo
 :author-in-title false
 :public false
+:ongoing true
 :partyman-slug themed-photo
 
 author:author-will-be-revealed-after-compo|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet|image-file:online-themed-photo/01_hack_the_planet.jpg
@@ -99,6 +111,7 @@ author:author-will-be-revealed-after-compo|partyman-id:6a27b11e-145a-48d9-9eab-0
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 :public false
+:ongoing true
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
 
@@ -119,6 +132,7 @@ author:author-will-be-revealed-after-compo|partyman-id:574d9ab8-b11b-4894-9e35-4
 :youtube-playlist PLJO4AtxKJiFNJo8AuLcrU6m0Vb_b2V5ze
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :public false
+:ongoing true
 :manage-youtube-descriptions false
 :partyman-slug gamedev
 

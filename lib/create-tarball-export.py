@@ -107,8 +107,7 @@ def generate_section_description(section_data, pms_path_template):
     if 'description' in section:
         description += section['description']
         if section.get('ongoing', False) is True:
-            pms_path = pms_path_template % section['pms-category']
-            description += "<p>You can vote these entries at <a href='%s'>PMS</a>!</p>" % pms_path
+            description += "<p>You can vote these entries at <a href'https://scene.assembly.org/'>scene.assembly.org</a>!</p>"
     if 'youtube-playlist' in section:
         description += """<p><a href="https://www.youtube.com/playlist?list=%s">Youtube playlist of these entries</a></p>""" % section['youtube-playlist']
     return description
@@ -228,8 +227,7 @@ def entry_position_description_factory(pms_vote_template):
                 description += u"Not qualified to be shown on the big screen"
             description += u".</p>\n<p>\n"
         else:
-            pms_path = pms_vote_template % entry['section']['pms-category']
-            description += "<p>You can vote this entry at <a href='%s'>PMS</a>!</p>" % pms_path
+            description += "<p>You can vote this entry at <a href='https://scene.assembly.org/'>scene.assembly.org</a>!</p>"
         return description
     return generator
 
