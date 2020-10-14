@@ -11,6 +11,7 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('metadata_file', type=argparse.FileType("r"))
     parser.add_argument('partyman_entry_file', type=argparse.FileType("r"))
+    parser.add_argument('--section')
     args = parser.parse_args(argv[1:])
 
     metadata = asmmetadata.parse_file(args.metadata_file)
@@ -21,6 +22,9 @@ def main(argv):
         entries_by_uuid[entry["uuid"]] = entry
 
     for section in metadata.sections:
+        if args.section is not None:
+            if asmmetadata.normalize_key(section["name"]) != args.section:
+                continue
         print(section["name"])
         for entry in section["entries"]:
             if "partyman-id" not in entry:
