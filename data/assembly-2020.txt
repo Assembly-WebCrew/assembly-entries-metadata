@@ -130,7 +130,6 @@ author:author-will-be-revealed-after-compo|partyman-id:574d9ab8-b11b-4894-9e35-4
 :section Online Gamedev
 :youtube-playlist PLJO4AtxKJiFNJo8AuLcrU6m0Vb_b2V5ze
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:public false
 :ongoing true
 :manage-youtube-descriptions false
 :partyman-slug gamedev
