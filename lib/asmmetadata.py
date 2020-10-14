@@ -400,6 +400,8 @@ def print_metadata(outfile, year_entry_data):
             if section["ranked"] is False:
                 ranked_text = "false"
             outfile.write(":ranked %s\n" % ranked_text)
+        if 'section-thumbnail' in section:
+            outfile.write(":section-thumbnail %s\n" % section["section-thumbnail"])
         if 'author-in-title' in section:
             author_in_title_text = "true"
             if section["author-in-title"] is False:

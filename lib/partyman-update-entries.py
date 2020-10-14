@@ -33,10 +33,9 @@ def update_section_partyman_data(section, partyman_competitions):
         title = partyman_entry["entry"]['title']
         title = title.replace("|", "-")
         addable_data['title'] = title
-        addable_data['author'] = partyman_entry["entry"].get("by")
-        if not addable_data['author']:
+        author = partyman_entry["entry"].get("by")
+        if not author:
             author = "author-will-be-revealed-after-compo"
-        author = addable_data["author"]
         author = author.replace("|", "-")
         addable_data['author'] = author
         slide_info = partyman_entry["entry"].get("slide_info")

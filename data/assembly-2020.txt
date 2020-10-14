@@ -17,8 +17,8 @@
 
 
 :section Online 1k intro
-:public false
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
+:public false
 :partyman-slug 1k-intro
 
 author:rawArgon|partyman-id:26|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat
@@ -29,9 +29,9 @@ author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability 
 
 
 :section Online Pico-8 demo
-:partyman-slug pico-8-demo
-:public false
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
+:public false
+:partyman-slug pico-8-demo
 
 author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
 author:rawArgon|partyman-id:25|title:karkki8|youtube:WA6s3Sn0FiY
@@ -85,12 +85,12 @@ author:Inversion|partyman-id:23|techniques:Done, with several bytes to spare. Pi
 :public false
 :partyman-slug themed-photo
 
-partyman-id:35|techniques:iPhone 7 + Lightroom|title:Hack the Planet
-partyman-id:32|title:Meaning of light
-partyman-id:34|techniques:Greetings to In-Sect|title:Ray of Love
-partyman-id:33|techniques:Red discs and light|title:Red Discs
-partyman-id:31|title:14 Years of Bad Luck
-partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+author:author-will-be-revealed-after-compo|partyman-id:35|techniques:iPhone 7 + Lightroom|title:Hack the Planet
+author:author-will-be-revealed-after-compo|partyman-id:32|title:Meaning of light
+author:author-will-be-revealed-after-compo|partyman-id:34|techniques:Greetings to In-Sect|title:Ray of Love
+author:author-will-be-revealed-after-compo|partyman-id:33|techniques:Red discs and light|title:Red Discs
+author:author-will-be-revealed-after-compo|partyman-id:31|title:14 Years of Bad Luck
+author:author-will-be-revealed-after-compo|partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
 
 
 :section Online Tracked Music
@@ -98,20 +98,21 @@ partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|tit
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+:public false
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
 
-partyman-id:12|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
-partyman-id:11|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
-partyman-id:14|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
-partyman-id:15|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
-partyman-id:16|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
-partyman-id:17|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
-partyman-id:18|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
-partyman-id:19|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
-partyman-id:20|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
-partyman-id:21|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
-partyman-id:22|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+author:author-will-be-revealed-after-compo|partyman-id:12|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
+author:author-will-be-revealed-after-compo|partyman-id:11|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
+author:author-will-be-revealed-after-compo|partyman-id:14|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
+author:author-will-be-revealed-after-compo|partyman-id:15|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
+author:author-will-be-revealed-after-compo|partyman-id:16|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
+author:author-will-be-revealed-after-compo|partyman-id:17|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
+author:author-will-be-revealed-after-compo|partyman-id:18|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
+author:author-will-be-revealed-after-compo|partyman-id:19|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
+author:author-will-be-revealed-after-compo|partyman-id:20|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
+author:author-will-be-revealed-after-compo|partyman-id:21|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
+author:author-will-be-revealed-after-compo|partyman-id:22|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
 
 
 :section Online Gamedev
@@ -129,8 +130,8 @@ author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling
 
 :section Summer Loves Demoscene
 :author-in-title false
-:public false
 :description <p>Regular Assembly Summer event program was moved to October. Demoscene program from the past was still broadcasted over the Internet.</p>
+:public false
 :manage-youtube-descriptions false
 
 author:AssemblyTV|title:Hello worl-- internet!|twitch:703187517
