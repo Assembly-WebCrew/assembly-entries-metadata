@@ -84,20 +84,20 @@ author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques
 :public false
 :partyman-slug streaming-music
 
-author:author-will-be-revealed-after-compo|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|techniques:Reaper|title:Hyvä Synabiisi
-author:author-will-be-revealed-after-compo|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro
-author:author-will-be-revealed-after-compo|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem
-author:author-will-be-revealed-after-compo|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|techniques:FL Studio 20 / Windows|title:Perpetual Cruising
-author:author-will-be-revealed-after-compo|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow
-author:author-will-be-revealed-after-compo|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|techniques:Ableton 10|title:Let There Be Neon Light
-author:author-will-be-revealed-after-compo|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits
-author:author-will-be-revealed-after-compo|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera
-author:author-will-be-revealed-after-compo|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|techniques:Buzzerille terveisiä|title:Blues for Keke
-author:author-will-be-revealed-after-compo|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two
-author:author-will-be-revealed-after-compo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele
-author:author-will-be-revealed-after-compo|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|title:Memory of Tomorrow
-author:author-will-be-revealed-after-compo|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts
-author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds
+author:author-will-be-revealed-after-compo|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
+author:author-will-be-revealed-after-compo|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro|youtube:alF009M-ZC0
+author:author-will-be-revealed-after-compo|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem|youtube:ZxetoFohvY0
+author:author-will-be-revealed-after-compo|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|techniques:FL Studio 20 / Windows|title:Perpetual Cruising|youtube:_Exaf7VmWGk
+author:author-will-be-revealed-after-compo|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow|youtube:GJscn3E4D54
+author:author-will-be-revealed-after-compo|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|techniques:Ableton 10|title:Let There Be Neon Light|youtube:l-_06SETc8o
+author:author-will-be-revealed-after-compo|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits|youtube:aoaPhKxnkzE
+author:author-will-be-revealed-after-compo|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera|youtube:adgTC0YlRPc
+author:author-will-be-revealed-after-compo|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|techniques:Buzzerille terveisiä|title:Blues for Keke|youtube:SujgQfeXopY
+author:author-will-be-revealed-after-compo|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two|youtube:i_SQug3bja8
+author:author-will-be-revealed-after-compo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele|youtube:GOOAty0kn0M
+author:author-will-be-revealed-after-compo|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|title:Memory of Tomorrow|youtube:3XFBn7Bpeio
+author:author-will-be-revealed-after-compo|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts|youtube:VYSBBCgy1N8
+author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
 
 
 :section Online Fast music
