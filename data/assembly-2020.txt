@@ -17,6 +17,7 @@
 
 
 :section Online 1k intro
+:public false
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :partyman-slug 1k-intro
 
@@ -29,6 +30,7 @@ author:Seven/Fulcrum|partyman-id:30|techniques:Made in a hurry due to inability 
 
 :section Online Pico-8 demo
 :partyman-slug pico-8-demo
+:public false
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
 
 author:Quadtrip|partyman-id:24|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
@@ -96,7 +98,6 @@ partyman-id:36|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|tit
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
-:public false
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
 
@@ -128,6 +129,7 @@ author:Bitplane Technomantes|partyman-id:10|techniques:A 50hz vertical scrolling
 
 :section Summer Loves Demoscene
 :author-in-title false
+:public false
 :description <p>Regular Assembly Summer event program was moved to October. Demoscene program from the past was still broadcasted over the Internet.</p>
 :manage-youtube-descriptions false
 

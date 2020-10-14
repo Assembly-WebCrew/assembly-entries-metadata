@@ -242,7 +242,7 @@ def calculate_checksum(data):
 
 def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
     title = entry['title']
-    author = entry['author']
+    author = entry.get('author', "author-will-be-revealed-later")
     section_name = entry['section']['name']
     name = asmmetadata.get_entry_name(entry)
 
