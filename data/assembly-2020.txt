@@ -3,6 +3,7 @@
 :section Online PC demo
 :youtube-playlist PLJO4AtxKJiFOzqiDWzwf8hnhwHO17g_h3
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
+:public false
 :ongoing true
 
 
@@ -11,6 +12,7 @@
 :youtube-playlist PLJO4AtxKJiFMonJOLghDFxUrx-QROPn5y
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
+:public false
 :partyman-slug oldskool-demo
 
 author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler
@@ -22,6 +24,7 @@ author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo
 :youtube-playlist PLJO4AtxKJiFNqE0cR3jSbtEklC77A-SUK
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
+:public false
 :partyman-slug 4k-intro
 
 author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|techniques:Compofiller studio|title:Koronalinko
@@ -60,6 +63,7 @@ author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Don
 :youtube-playlist PLJO4AtxKJiFM89d62hG299DeHt2SG6sl8
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
+:public false
 :partyman-slug real-wild
 
 author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge|youtube:z1In2mX4R_Y
@@ -71,6 +75,7 @@ author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|techniques:Micr
 :youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
+:public false
 :partyman-slug short-film
 
 author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01|youtube:ZfxtFjZ8fI8
@@ -92,7 +97,6 @@ author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
 :ongoing true
-:public false
 :partyman-slug streaming-music
 
 author:author-will-be-revealed-after-compo|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
@@ -165,7 +169,6 @@ author:author-will-be-revealed-after-compo|partyman-id:ab50ff73-7717-47f7-837b-f
 :section Online Themed photo
 :author-in-title false
 :ongoing true
-:public false
 :partyman-slug themed-photo
 
 author:author-will-be-revealed-after-compo|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet
