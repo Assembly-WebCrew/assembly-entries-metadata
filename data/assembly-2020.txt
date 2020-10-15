@@ -1,12 +1,14 @@
 :year 2020
 
 :section Online PC demo
+:youtube-playlist PLJO4AtxKJiFOzqiDWzwf8hnhwHO17g_h3
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
 :ongoing true
 
 
 
 :section Online Oldskool demo
+:youtube-playlist PLJO4AtxKJiFMonJOLghDFxUrx-QROPn5y
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
 :partyman-slug oldskool-demo
