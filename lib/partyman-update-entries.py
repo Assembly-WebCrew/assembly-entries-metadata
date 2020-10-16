@@ -2,10 +2,24 @@
 
 import argparse
 import asmmetadata
+import http.cookiejar
 import json
 import os
 import re
 import sys
+import urllib.request
+
+
+def fetch_data(cookie_jar):
+    jar = http.cookiejar.MozillaCookieJar(cookie_jar)
+    jar.load()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+    request_entry = opener.open("https://scene.assembly.org/api/v1/entry/?format=json")
+    entries = json.loads(request_entry.read())
+    request_playlist = opener.open("https://scene.assembly.org/api/v1/playlist/?format=json")
+    playlists = json.loads(request_playlist.read())
+    return entries, playlists
+
 
 def update_section_partyman_data(section, partyman_competitions):
     slug = section.get("partyman-slug")
@@ -66,26 +80,28 @@ def update_section_partyman_data(section, partyman_competitions):
     return section
 
 
-def main(argv):
-    parser = argparse.ArgumentParser()
-    parser.add_argument('metadata_file', type=argparse.FileType("r"))
-    # https://scene.assembly.org/api/v1/entry/
-    # https://scene.assembly.org/api/v1/playlist/
-    parser.add_argument("partyman_playlist", type=argparse.FileType("r"))
-    args = parser.parse_args(argv[1:])
-
-    metadata = asmmetadata.parse_file(args.metadata_file)
-    partyman_data = json.load(args.partyman_playlist)
+def fetch_update_data(metadata_file, cookie_jar):
+    entries, playlists = fetch_data(cookie_jar)
+    metadata = asmmetadata.parse_file(metadata_file)
 
     metadata_partyman_slugs = []
     for section in metadata.sections:
         slug = section.get("partyman-slug")
         if slug is None:
             continue
-        update_section_partyman_data(section, partyman_data)
+        update_section_partyman_data(section, playlists)
 
-    with open(args.metadata_file.name, "w") as fp:
+    with open(metadata_file.name, "w") as fp:
         asmmetadata.print_metadata(fp, metadata)
+
+
+def main(argv):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('metadata_file', type=argparse.FileType("r"))
+    parser.add_argument('cookie_jar')
+    args = parser.parse_args(argv[1:])
+    fetch_update_data(args.metadata_file, args.cookie_jar)
+
     return os.EX_OK
 
 if __name__ == "__main__":
