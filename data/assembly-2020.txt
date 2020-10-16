@@ -27,10 +27,10 @@ author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo
 :partyman-slug 4k-intro
 
 author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
-author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:TX-wEbciRqY
-author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|techniques:we love you|title:hagiri hanzo|youtube:3Qc24vbfS44
-author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:xCmlW8zSF2Y
-author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:HrBqTgVLflA
+author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
+author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
+author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
+author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
 
 
 :section Online 1k intro
@@ -39,10 +39,10 @@ author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|techniques:Cr
 :ongoing true
 :partyman-slug 1k-intro
 
-author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:ce6wrLYRanw
+author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:6_xgtStH2TE
 author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|title:Tranquility Falls|youtube:T6hZfqo4pEQ
 author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes|youtube:gl3h3j_ockk
-author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:6_xgtStH2TE
+author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:ce6wrLYRanw
 author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|techniques:First and only release this year, got to make it count. Greets to<br/>everyone I couldn't meet at parties... Tools used: Crinkler, custom tools|title:Jumpgate 10.24|youtube:OmgjLRicszk
 
 
