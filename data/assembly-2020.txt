@@ -114,7 +114,7 @@ author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-6
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
-:description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
+:description <p>Competitors had 2 hours to create a song with  3/4 time signature. Music could be created with any tools desired.</p>
 :ongoing true
 :partyman-slug fast-music
 
@@ -140,7 +140,6 @@ author:author-will-be-revealed-after-compo|partyman-id:76df584a-5a96-4fc1-ae8c-2
 :section Online freestyle graphics
 :author-in-title false
 :ongoing true
-:public false
 :partyman-slug freestyle-graphics
 
 author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/01-trip-to-the-forest.png|partyman-id:8b0e71ce-4fe3-4a86-a8a4-8c6a0aeba087|techniques:Tools: Zbrush, 3ds Max, Photoshop, Substance Painter, Marmoset Toolbag<br/>Techniques: 3D, 2D and photography<br/>Platform: PC <br/>Size: 1920x1080|title:Trip To The Forest
@@ -156,9 +155,8 @@ author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/
 
 :section Online fast graphics
 :author-in-title false
-:description <p>Competitors had 1.5 hours to create an image with "" theme.</p>
+:description <p>Competitors had 2 hours to create an image with "safety regulations" theme.</p>
 :ongoing true
-:public false
 :partyman-slug fast-graphics
 
 author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/01-kypara.png|partyman-id:85cce667-1c04-4336-92a8-78dfda634887|techniques:Scooter - Back in the house! Also, safety first partypeople. Remeber to wear your kypäräs!<br/>(80x25 ANSI originally)|title:Kypärä

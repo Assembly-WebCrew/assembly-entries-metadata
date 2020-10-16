@@ -385,7 +385,7 @@ def get_archive_link_section(section):
 
 
 def get_archive_link_entry(entry):
-    key = get_entry_key(entry)
+    key = normalize_key(get_entry_name(entry))
     return "https://archive.assembly.org/%d/%s/%s" % (
         entry["section"]["year"], entry["section"]["key"], key)
 
