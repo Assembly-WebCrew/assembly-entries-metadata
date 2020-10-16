@@ -24,7 +24,6 @@ author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo
 :youtube-playlist PLJO4AtxKJiFNqE0cR3jSbtEklC77A-SUK
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :ongoing true
-:public false
 :partyman-slug 4k-intro
 
 author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
@@ -38,7 +37,6 @@ author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|techniques:Cr
 :youtube-playlist PLJO4AtxKJiFPUavDP_Z-DOQOe0oPe1Uss
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :ongoing true
-:public false
 :partyman-slug 1k-intro
 
 author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:ce6wrLYRanw
