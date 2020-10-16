@@ -8,7 +8,7 @@
 
 
 
-:section Online Oldskool demo
+:section Online oldskool demo
 :youtube-playlist PLJO4AtxKJiFMonJOLghDFxUrx-QROPn5y
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
@@ -56,7 +56,7 @@ author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|title:karkki8|y
 author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
 
 
-:section Online Real wild demo
+:section Online real wild demo
 :youtube-playlist PLJO4AtxKJiFM89d62hG299DeHt2SG6sl8
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :ongoing true
@@ -67,7 +67,7 @@ author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|techniques:Pl
 author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office|youtube:RZHBa3aHyFs
 
 
-:section Online Short film
+:section Online short film
 :youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :ongoing true
@@ -79,7 +79,7 @@ author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|techniques:Ge
 author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield|youtube:TtAxpABuenY
 
 
-:section Online Acid music
+:section Online acid music
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :ongoing true
@@ -87,7 +87,7 @@ author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques
 
 
 
-:section Online Streaming music
+:section Online streaming music
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
@@ -110,13 +110,12 @@ author:author-will-be-revealed-after-compo|partyman-id:0b7cdef6-3f61-498c-b4a7-b
 author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
 
 
-:section Online Fast music
+:section Online fast music
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
 :description <p>Competitors had 1.5 hours to create a song that includes clearly distinguishable predefined chords in its main part. Otherwise music could be created with any tools desired.</p>
 :ongoing true
-:public false
 :partyman-slug fast-music
 
 author:author-will-be-revealed-after-compo|partyman-id:649e7b03-dd66-487e-9a17-524d27fdb3bd|techniques:Reason / PC|title:Swinging by|youtube:0YwpvfXCoBk
@@ -178,7 +177,7 @@ author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/13-si
 author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/14-remember-them-masks.png|partyman-id:ab50ff73-7717-47f7-837b-f67689cc3adb|techniques:Photoshop CC|title:Remember them masks
 
 
-:section Online Themed photo
+:section Online themed photo
 :author-in-title false
 :ongoing true
 :partyman-slug themed-photo
@@ -191,7 +190,7 @@ author:author-will-be-revealed-after-compo|image-file:online-themed-photo/05_14_
 author:author-will-be-revealed-after-compo|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
 
 
-:section Online Tracked Music
+:section Online tracked music
 :section-thumbnail music-thumbnail-online
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
@@ -213,7 +212,7 @@ author:author-will-be-revealed-after-compo|partyman-id:3402fc27-897f-4525-841f-5
 author:author-will-be-revealed-after-compo|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
 
 
-:section Online Gamedev
+:section Online gamedev
 :youtube-playlist PLJO4AtxKJiFNJo8AuLcrU6m0Vb_b2V5ze
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
 :ongoing true
@@ -235,7 +234,7 @@ author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|te
 author:AssemblyTV|title:Hello worl-- internet!|twitch:703187517
 
 
-:section Winter One Scene
+:section Winter one scene
 :description <p>In one scene competition the idea is to make a demo (real-time multimedia presentation) with a single scene only. This competition is suitable for beginners and people who do not have time to do a full-fledged demo.</p>
 :public false
 
@@ -249,7 +248,7 @@ author:Quadtrip|description:Started and finished in 2h before the compo deadline
 author:Siils|description:WARNING: contains flashing lights and high pitched sounds|position:8|title:Magic Bean Sausages
 
 
-:section Winter Fast Effect
+:section Winter fast effect
 :description <p>Fast effect competition had 19 hours to create a <a href="https://en.wikipedia.org/wiki/Shader">shader effect</a> with "chaos theory" theme. A <a href="https://www.youtube.com/watch?v=962DNCTc_OY">fast effect workshop</a> was organized before the competition to introduce shader effects to visitors.</p>
 :public false
 
@@ -258,7 +257,7 @@ author:Randomi|description:1. "Pitäis tehä entry..."<br/>2. Tee entry<br/>3. P
 author:eimink|description:rip inventor of copy/paste|position:3|shadertoy:tlKXRW|title:fast compofiller
 
 
-:section Winter Tracked Music
+:section Winter tracked music
 :section-thumbnail music-thumbnail-winter
 :description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
 
@@ -270,7 +269,7 @@ author:mayday/hedelmae|description:Amiga + ProTracker|position:5|title:Destroy a
 author:adkd|description:MilkyTracker|position:6|title:2020 - Ram vs Ravan|youtube:Bvx7fvgUqMI
 
 
-:section Winter Graphics
+:section Winter graphics
 :description <p>In Graphics competition images may be created with any desired method about anything.</p>
 
 author:Ukkis|description:It comes like a pike from the reeds. (Zbrush,Blender,PS)|image-file:winter-graphics/apex-predator-by-ukkis.png|position:1|title:Apex Predator
