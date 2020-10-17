@@ -7,17 +7,17 @@
 :public false
 :partyman-slug demo
 
-author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!
-author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|techniques:Win, DX8(bug), FL|title:Attempt8
-author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man
-author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork
-author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction
-author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|techniques:greetings to the hypnotoad|title:Bad Brain Sector
-author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|title:Stranger
-author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|techniques:Made with Notch.|title:Demons
-author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|techniques:Windows, Unreal Engine|title:Superwide Reality
-author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity
-author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream
+author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
+author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|techniques:Win, DX8(bug), FL|title:Attempt8|youtube:0mIhKiuhVy8
+author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man|youtube:KbGSn6lA0b8
+author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork|youtube:4by04c7_aPw
+author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction|youtube:BfGD-uoG0Ng
+author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|techniques:greetings to the hypnotoad|title:Bad Brain Sector|youtube:4OyXPiCc07g
+author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|title:Stranger|youtube:XBhkRT0y5pI
+author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|techniques:Made with Notch.|title:Demons|youtube:Mce5j71xBhM
+author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|techniques:Windows, Unreal Engine|title:Superwide Reality|youtube:9JYsCnbjlDA
+author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity|youtube:3c_LmwkiWDk
+author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream|youtube:a6VWul2AXZ8
 
 
 :section Online oldskool demo
@@ -232,6 +232,14 @@ author:Finlander, Ataverti|partyman-id:01e6f1f2-5e34-4e43-a561-09b2dfaf2402|tech
 author:The 7th Division and Vintage Computing Carinthia|partyman-id:44742eb4-75f1-4ea4-8f62-5b876c61b661|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
 author:Kultisti & Aries W|partyman-id:f24af1b7-c112-4b5a-90f3-f4d7387cbcb5|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
 author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
+
+:section Online AssemblyTV
+:ranked false
+:author-in-title false
+:youtube-playlist PLJO4AtxKJiFOYrU5TLWAx8SFQZukI6Ca8
+:description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
+:manage-youtube-descriptions false
+
 
 
 :section Summer Loves Demoscene
