@@ -266,23 +266,22 @@ author:AssemblyTV|description:Assembly Online is on!</p><p>Miten online tapahtum
 :section Summer Loves Demoscene
 :author-in-title false
 :description <p>Regular Assembly Summer event program was moved to October. Demoscene program from the past was still broadcasted over the Internet.</p>
-:public false
 :manage-youtube-descriptions false
 
 author:Franky|description:In this Assembly loves Demoscene Special, Chips and Bricks has a look at the Amiga Fruit Wars that never was.  Melon versus Lemon.  All Amiga demos and intros running live from real hardware, with additional info from an arrogant bastard.</p><p>Check www.twitch.tv/chipsnbricks for the regular shows.|title:Oldskool Amiga Fruit War That Never Was - Melon vs Lemon|youtube:iqSvuIJbX6E
 author:AssemblyTV|description:Boozedrome III is the most hard core music competition of the year held in Boozembly hills, Helsinki, Finland brought to you by Dekadence! All the competition entries are shown in this video following some live footage from the venue.|title:Boozedrome III and report from the hills|youtube:U2IIYfZgfKA
 author:AssemblyTV|description:All things must end eventually. We hope to see you again on next Assembly event!</p><p>More information: https://www.assembly.org/|title:Closing|youtube:DWNFLO1Y_Y0
 author:AssemblyTV|description:Bleak, Uncertain, Beautiful: 25 years of Artistic Continuum in PC Demoscene is a demoshow curated by Noby. Let your mind rest watching.</p><p>The demoshow was originally screened at Assembly Summer 2019.|title:Bleak, Uncertain, Beautiful: 25 years of Artistic Continuum in PC Demoscene (Assembly Summer 2019)|youtube:DWVil2wEMwY
-author:Visy (Assembly Summer 2019)|description:Visy picked some ZX Spectrum jewels  for our entertainment. Enjoy!</p><p>The demoshow was originally showed at Assembly Summer 2019.|title:Spectrum demoshow|youtube:faSRhtSXzpU
+author:Visy|description:Visy picked some ZX Spectrum jewels  for our entertainment. Enjoy!</p><p>The demoshow was originally showed at Assembly Summer 2019.|title:Spectrum demoshow|youtube:faSRhtSXzpU
 author:AssemblyTV|description:Dive into a memory lane with Aketzu. In this show we think back to past Assembly events and refresh our memory with old AssemblyTV clips, demos and other footage from our past events.|title:Memories From the Past Events|youtube:wW03kvBzAt8
-author:Byproduct & closedeyevisyals (Assembly Summer 2020 Demoscene)|description:Byproduct &amp; closedeyevisyals take us back to 2019 with this amazing mix. All the tunes are from demoscene releases of 2019. Enjoy!</p><p>Soundcloud: https://soundcloud.com/byproduct/music-from-demoparties-2019|title:Scene Music Highlights from 2019|youtube:k75BKvLcK_8
+author:Byproduct & closedeyevisyals|description:Byproduct &amp; closedeyevisyals take us back to 2019 with this amazing mix. All the tunes are from demoscene releases of 2019. Enjoy!</p><p>Soundcloud: https://soundcloud.com/byproduct/music-from-demoparties-2019|title:Scene Music Highlights from 2019|youtube:k75BKvLcK_8
 author:AssemblyTV|description:Welcome to  watch Assembly Loves Demoscene!|title:Hello worl-- internet!|twitch:703187517|youtube:hJR9HndhZzA
 author:AssemblyTV|description:Difficulties to wake up? At least we have! Enjoy your breakfast with Solarius and rimina; the sleepiest morning show hosts ever.|title:Pyjama Party at Assembly Office|youtube:tWYL8vccutg
 author:AssemblyTV|description:Thoron, Solarius and Zog will bring you some quality night time entertainment with their unique style. This is not a recap but very live experience! And this time also in English!|title:Latenight Gameshow Snack|youtube:sQNaLTFR0wI
 author:Branch, Lamogui and Exca|description:DJ Eimink delivers you some quality beats. The visuals are live coded during the dj-set by lamogui, Exca and Visy using Bonzomatic live shader coding platform.|title:DJ Eimink + Shader jam|youtube:m7b1lIHiZc8
 author:AssemblyTV|description:Our organizers have hand picked some quality demoscene productions released in Assembly over the years. The focus of the show is in PC demos released since 2000 till today. We had also two Amiga demoshows and a ZX Spectrum demoshow during the event.|title:Assembly Higlights Demoshow|youtube:y2s9k1y0S6M
 author:Visy, evvvvil and Leon Denise|description:DJ Mayor entertains you with quality music! The visuals are live coded during the dj-set by visy, Leon Denise and evvvvil using Bonzomatic live shader coding platform.|title:DJ Mayor + Shader jam|youtube:3-jwyYfI7Q8
-author:Alumni (copyright free edit, Assembly Summer 2020 Loves Demoscene)|description:Hand picked Amiga Demos captured with real hardware. Hosts of the demoshow are Terwiz and Freon of Alumni.|title:Amiga Demoshow|youtube:jacXGsYzv88
+author:Alumni|description:Hand picked Amiga Demos captured with real hardware. Hosts of the demoshow are Terwiz and Freon of Alumni. Copyright free edit.|title:Amiga Demoshow|youtube:jacXGsYzv88
 
 
 :section Winter one scene
@@ -333,7 +332,6 @@ author:Bass Cadet|description:Ipad, Apple Pencil and Procreate. Done at Assembly
 :ranked false
 :author-in-title false
 :description <p>Assembly has its own TV channel that is broadcast during the event. This section includes clips that AssemblyTV has created.</p>
-:public false
 :manage-youtube-descriptions false
 
 author:AssemblyTV|title:Fast effect theme publishing|youtube:woMQDskLDg4
