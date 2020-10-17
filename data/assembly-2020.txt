@@ -5,19 +5,30 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
 :ongoing true
 :public false
+:partyman-slug demo
 
+author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!
+author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|techniques:Win, DX8(bug), FL|title:Attempt8
+author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man
+author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork
+author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction
+author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|techniques:greetings to the hypnotoad|title:Bad Brain Sector
+author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|title:Stranger
+author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|techniques:Made with Notch.|title:Demons
+author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|techniques:Windows, Unreal Engine|title:Superwide Reality
+author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity
+author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream
 
 
 :section Online oldskool demo
 :youtube-playlist PLJO4AtxKJiFMonJOLghDFxUrx-QROPn5y
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :ongoing true
-:public false
 :partyman-slug oldskool-demo
 
 author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler|youtube:fMSv7RW4xE0
-author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:coIEZ1iLTfA
-author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:R13RSBE57K8
+author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:R13RSBE57K8
+author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:coIEZ1iLTfA
 
 
 :section Online 4k intro
