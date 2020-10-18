@@ -4,7 +4,6 @@
 :youtube-playlist PLJO4AtxKJiFOzqiDWzwf8hnhwHO17g_h3
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
 :ongoing true
-:public false
 :partyman-slug demo
 
 author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
