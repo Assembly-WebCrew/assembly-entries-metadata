@@ -156,7 +156,9 @@ def print_section_entries(ranges: Ranges, section, interactive: bool):
         print()
         print(youtube_info["description"])
         if interactive:
-            input()
+            result = input()
+            if result == "q":
+                break
 
 def main(argv) -> int:
     parser = argparse.ArgumentParser()

@@ -20,7 +20,7 @@ def has_youtube_entries(section):
 
 def get_playlist_title(section):
     return u"%s %s" % (
-        asmmetadata.get_party_name(section["year"], section['name']),
+        asmmetadata.get_party_name(section),
         asmmetadata.get_long_section_name(section))
 
 

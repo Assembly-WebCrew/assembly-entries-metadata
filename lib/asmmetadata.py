@@ -17,7 +17,11 @@ def is_image(filename):
     return re.match(r".+\.(png|jpg|jpeg|gif|tiff|webp)$", filename, re.IGNORECASE)
 
 
-def get_party_name(year, section_name):
+def get_party_name(section):
+    if "party-name" in section:
+        return section["party-name"]
+    year = section['year']
+    section_name = section['name']
     if year < 2007:
         return u"Assembly %d" % year
     elif 'winter' in section_name.lower():
@@ -25,6 +29,10 @@ def get_party_name(year, section_name):
     else:
         return u"Assembly Summer %d" % year
 
+def get_competition_name(section):
+    if "compo-name" in section:
+        return section["compo-name"]
+    return section["name"]
 
 def get_party_tags(year, section_name):
     tags = []
@@ -282,6 +290,14 @@ def parse_file(file_handle):
                 assert 'description' not in section
                 if len(value):
                     section['description'] = value
+            elif data_type == ":party-name":
+                assert section is not None
+                assert 'party-name' not in section
+                section['party-name'] = value
+            elif data_type == ":compo-name":
+                assert section is not None
+                assert 'compo-name' not in section
+                section['compo-name'] = value
             elif data_type == ":youtube-playlist":
                 assert section is not None
                 assert 'youtube-playlist' not in section
@@ -395,6 +411,10 @@ def print_metadata(outfile, year_entry_data):
 
     for section in year_entry_data.sections:
         outfile.write("\n:section %s\n" % section['name'])
+        if "party-name" in section:
+            outfile.write(":party-name %s\n" % section["party-name"])
+        if "compo-name" in section:
+            outfile.write(":compo-name %s\n" % section["compo-name"])
         if 'ranked' in section:
             ranked_text = "true"
             if section["ranked"] is False:
@@ -533,8 +553,7 @@ def get_youtube_timestamps_title_description(youtube_entry):
     youtube_id, _ = youtube_entry["youtube"].split("#")
     description = ""
     section = youtube_entry["section"]
-    party_name = get_party_name(
-        section['year'], section['name'])
+    party_name = get_party_name(section)
     if section.get("ranked", True):
         description += "%s %s competition entries\n\n" % (
             party_name, section["name"])
@@ -606,8 +625,7 @@ def get_youtube_entry_title_description(entry):
         if position != 0:
             position_str = str(position) + get_ordinal_suffix(position) + " place"
 
-    party_name = get_party_name(
-        entry['section']['year'], entry['section']['name'])
+    party_name = get_party_name(entry['section'])
 
     display_author = None
     if "Misc" in section_name or "Photos" in section_name:
@@ -615,7 +633,8 @@ def get_youtube_entry_title_description(entry):
     elif not "AssemblyTV" in section_name and not "Winter" in section_name:
         display_author = author
         if entry["section"].get("ranked", True):
-            description += "%s %s competition entry" % (party_name, section_name)
+            compo_name = get_competition_name(entry["section"])
+            description += "%s %s competition entry" % (party_name, compo_name)
             if entry['section'].get('ongoing', False) is False:
                 if position_str is not None:
                     description += ", %s" % position_str
