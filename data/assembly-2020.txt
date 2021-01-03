@@ -125,20 +125,20 @@ author:Synaesthesia|partyman-id:c1827717-eac3-4017-9b8a-0eee4a2e274e|position:18
 :youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
 :partyman-slug streaming-music
 
-author:Aikapallo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|position:1|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele|youtube:GOOAty0kn0M
-author:Paokala|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|position:2|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
-author:E621|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|position:3|title:Memory of Tomorrow|youtube:3XFBn7Bpeio
-author:Chipremacy|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|position:4|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two|youtube:i_SQug3bja8
-author:Yzi|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|position:5|techniques:Buzzerille terveisiä|title:Blues for Keke|youtube:SujgQfeXopY
-author:jeenio|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|position:6|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera|youtube:adgTC0YlRPc
-author:Roz / Fit ^ Byterapers|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|position:7|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts|youtube:VYSBBCgy1N8
-author:EPHMERIX|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|position:8|techniques:Ableton 10|title:Let There Be Neon Light|youtube:l-_06SETc8o
-author:KoomaDot|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|position:9|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem|youtube:ZxetoFohvY0
-author:VilunE|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|position:10|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
-author:Mrs Beanbag|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|position:11|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow|youtube:GJscn3E4D54
-author:lemonade of #CBC / Nectarine|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|position:12|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits|youtube:aoaPhKxnkzE
-author:Buzzer of Brainstorm|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|position:13|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro|youtube:alF009M-ZC0
-author:Jaach Ankka|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|position:14|techniques:FL Studio 20 / Windows|title:Perpetual Cruising|youtube:_Exaf7VmWGk
+author:Aikapallo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|position:1|sceneorg:/parties/2020/assembly20/music_streaming/sahkoperkele.mp3|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele|youtube:GOOAty0kn0M
+author:Paokala|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|position:2|sceneorg:/parties/2020/assembly20/music_streaming/paokala-ten-thousand-homeworlds.mp3|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
+author:E621|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|position:3|sceneorg:/parties/2020/assembly20/music_streaming/e621_-_memory_of_tomorrow..wav|title:Memory of Tomorrow|youtube:3XFBn7Bpeio
+author:Chipremacy|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|position:4|sceneorg:/parties/2020/assembly20/music_streaming/player_two.zip|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two|youtube:i_SQug3bja8
+author:Yzi|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|position:5|sceneorg:/parties/2020/assembly20/music_streaming/yzi_blues_for_keke.mp3|techniques:Buzzerille terveisiä|title:Blues for Keke|youtube:SujgQfeXopY
+author:jeenio|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|position:6|sceneorg:/parties/2020/assembly20/music_streaming/jeenio_-_quando_vier_a_primavera.wav|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera|youtube:adgTC0YlRPc
+author:Roz / Fit ^ Byterapers|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|position:7|sceneorg:/parties/2020/assembly20/music_streaming/roz-march_of_the_halibuts.wav|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts|youtube:VYSBBCgy1N8
+author:EPHMERIX|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|position:8|sceneorg:/parties/2020/assembly20/music_streaming/ephmerix_-_let_there_be_neon_light.wav|techniques:Ableton 10|title:Let There Be Neon Light|youtube:l-_06SETc8o
+author:KoomaDot|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|position:9|sceneorg:/parties/2020/assembly20/music_streaming/s13ge_-_hardstyle_party_anthem.mp3|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem|youtube:ZxetoFohvY0
+author:VilunE|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|position:10|sceneorg:/parties/2020/assembly20/music_streaming/hyva_synabiisi.mp3|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
+author:Mrs Beanbag|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|position:11|sceneorg:/parties/2020/assembly20/music_streaming/leave_it_for_tomorrow.ogg|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow|youtube:GJscn3E4D54
+author:lemonade of #CBC / Nectarine|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|position:12|sceneorg:/parties/2020/assembly20/music_streaming/lemonade_-_returning_borrowed_bits.zip|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits|youtube:aoaPhKxnkzE
+author:Buzzer of Brainstorm|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|position:13|sceneorg:/parties/2020/assembly20/music_streaming/buzzer-elektro.zip|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro|youtube:alF009M-ZC0
+author:Jaach Ankka|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|position:14|sceneorg:/parties/2020/assembly20/music_streaming/perpetual_cruising.zip|techniques:FL Studio 20 / Windows|title:Perpetual Cruising|youtube:_Exaf7VmWGk
 
 
 :section Online fast music
