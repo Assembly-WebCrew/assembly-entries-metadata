@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 
 import cgi
+import dataclasses
 import dateutil.parser
 import hashlib
 import re
+import typing
 import unicodedata
 import urllib
 import urllib.parse
@@ -12,12 +14,18 @@ import urllib.parse
 
 YOUTUBE_MAX_TITLE_LENGTH = 100
 
+Entry = typing.Dict[str, typing.Any]
+Section = typing.Dict[str, typing.Any]
 
-def is_image(filename):
-    return re.match(r".+\.(png|jpg|jpeg|gif|tiff|webp)$", filename, re.IGNORECASE)
+def is_image(filename: str) -> bool:
+    match_result = re.match(
+        r".+\.(png|jpg|jpeg|gif|tiff|webp)$",
+        filename,
+        re.IGNORECASE)
+    return match_result and True or False
 
 
-def get_party_name(section):
+def get_party_name(section) -> str:
     if "party-name" in section:
         return section["party-name"]
     year = section['year']
@@ -29,12 +37,12 @@ def get_party_name(section):
     else:
         return u"Assembly Summer %d" % year
 
-def get_competition_name(section):
+def get_competition_name(section) -> str:
     if "compo-name" in section:
         return section["compo-name"]
     return section["name"]
 
-def get_party_tags(year, section_name):
+def get_party_tags(year, section_name) -> typing.List[str]:
     tags = []
     if year < 2007:
         tags.extend(["assembly", str(year), "asm%02d" % (year % 100), "Assembly %d" % year])
@@ -47,7 +55,7 @@ def get_party_tags(year, section_name):
     return tags
 
 
-def get_entry_name(entry):
+def get_entry_name(entry) -> str:
     title = entry['title']
     author = entry['author']
     if entry["section"].get("author-in-title", True):
@@ -57,7 +65,7 @@ def get_entry_name(entry):
     return name
 
 
-def get_content_types(section_name):
+def get_content_types(section_name) -> typing.Set[str]:
     normalized_section_name = normalize_key(section_name)
 
     # Major non-computer generated recordings.
@@ -164,7 +172,7 @@ def get_content_types(section_name):
     return set(types)
 
 
-def get_long_section_name(section):
+def get_long_section_name(section) -> str:
     if "winter" in section["name"].lower():
         return u"AssemblyTV"
     elif "assemblytv" in section["name"].lower():
@@ -175,7 +183,7 @@ def get_long_section_name(section):
         return u"%s competition" % section["name"]
 
 
-def normalize_key(value):
+def normalize_key(value: str) -> str:
     normalized = value.strip().lower()
     normalized = unicodedata.normalize('NFKC', normalized)
     normalized = normalized.replace(u"ä", u"a")
@@ -187,43 +195,44 @@ def normalize_key(value):
     return normalized
 
 
-def get_entry_key(entry):
+def get_entry_key(entry) -> str:
     if not entry.get("author"):
         return normalize_key(entry["title"])
     return normalize_key(u"%s-by-%s" % (entry['title'], entry['author']))
 
 
 class EntryYear(object):
-    year = None
+    year: int = 0
 
     def __init__(self):
         self.sections = []
         self.entries = []
 
-    def getSection(self, name):
+    def getSection(self, name: str) -> typing.Optional[Section]:
         for section in self.sections:
             if section['key'] == normalize_key(name):
                 return section
         return None
 
-    def createSection(self, name):
-        if not self.getSection(name) is None:
-            return self.getSection(name)
-        section = {
+    def createSection(self, name: str) -> Section:
+        existing_section = self.getSection(name)
+        if existing_section is not None:
+            return existing_section
+        new_section: Section = {
                 'key': normalize_key(name),
                 'name': name,
                 'year': self.year,
                 'entries': [],
                 }
-        self.sections.append(section)
-        return section
+        self.sections.append(new_section)
+        return new_section
 
-    def addEntry(self, section, entryData):
+    def addEntry(self, section: Section, entryData):
         entryData['section'] = section
         section['entries'].append(entryData)
         self.entries.append(entryData)
 
-    def findEntry(self, field, value):
+    def findEntry(self, field: str, value: typing.Any) -> typing.Optional[Entry]:
         assert value is not None
         for entry in self.entries:
             if entry.get(field) == value:
@@ -231,7 +240,7 @@ class EntryYear(object):
         return None
 
 
-def parse_entry_line(line):
+def parse_entry_line(line: str) -> Entry:
     try:
         data_dict = dict(
             (str(x.split(":", 1)[0]),
@@ -242,7 +251,7 @@ def parse_entry_line(line):
 
     position = int(data_dict.get('position', u'0'))
     if position != 0:
-        data_dict['position'] = position
+        data_dict['position'] = position  # type: ignore
     elif 'position' in data_dict:
         del data_dict['position']
 
@@ -254,11 +263,11 @@ def parse_entry_line(line):
     return data_dict
 
 
-def parse_file(file_handle):
+def parse_file(file_handle: typing.TextIO) -> EntryYear:
     result = EntryYear()
 
-    year = None
-    section = None
+    year: typing.Optional[int] = None
+    section: typing.Optional[Section] = None
 
     known_keys = set()
     for lineno, line in enumerate(file_handle, 1):
@@ -274,7 +283,7 @@ def parse_file(file_handle):
                 print("Invalid line %d: %s" % (lineno, line.strip()))
                 raise
             if data_type == ":year":
-                assert result.year is None
+                assert result.year == 0
                 year = int(value)
                 result.year = year
             elif data_type == ":section":
@@ -318,15 +327,20 @@ def parse_file(file_handle):
                     section['partyman-slug'] = value
             elif data_type == ":ongoing":
                 if value.lower() == "true":
+                    assert section is not None
                     section['ongoing'] = True
             elif data_type == ":public":
                 if value.lower() == "false":
+                    assert section is not None
                     section['public'] = False
             elif data_type == ":public-after":
+                assert section is not None
                 section['public-after'] = dateutil.parser.parse(value)
             elif data_type == ":sceneorg":
+                assert section is not None
                 section['sceneorg'] = value
             elif data_type == ":galleriafi":
+                assert section is not None
                 section['galleriafi'] = value
             elif data_type == ":elaine-category":
                 # Categories can only be under section.
@@ -336,6 +350,7 @@ def parse_file(file_handle):
                 if len(value):
                     section['elaine-category'] = value
             elif data_type == ":ranked":
+                assert section is not None
                 # By default sections are ranked as they mostly
                 # represent demoscene competition results.
                 if value.lower() == "false":
@@ -343,6 +358,7 @@ def parse_file(file_handle):
                 else:
                     section['ranked'] = True
             elif data_type == ":author-in-title":
+                assert section is not None
                 # By default authors are part of the title in form of:
                 # <name> by <author>
                 #
@@ -354,6 +370,7 @@ def parse_file(file_handle):
                 else:
                     section["author-in-title"] = True
             elif data_type == ":manage-youtube-descriptions":
+                assert section is not None
                 # All kinds of eSports and AssemblyTV have author
                 # added descriptions that we don't want to overwrite.
                 if value.lower() == "false":
@@ -384,29 +401,29 @@ def parse_file(file_handle):
     return result
 
 
-def unescape_value(value):
+def unescape_value(value: str) -> str:
     return value.replace("&#124;", "|")
 
 
-def escape_value(value):
+def escape_value(value: str) -> str:
     return value.replace("|", "&#124;")
 
 
-def get_section_archive_path(section):
+def get_section_archive_path(section: Section) -> str:
     return "%d/%s" % (section["year"], section["key"])
 
 
-def get_archive_link_section(section):
+def get_archive_link_section(section: Section) -> str:
     return "https://archive.assembly.org/%s" % get_section_archive_path(section)
 
 
-def get_archive_link_entry(entry):
+def get_archive_link_entry(entry: Entry) -> str:
     key = normalize_key(get_entry_name(entry))
     return "https://archive.assembly.org/%d/%s/%s" % (
         entry["section"]["year"], entry["section"]["key"], key)
 
 
-def print_metadata(outfile, year_entry_data):
+def print_metadata(outfile: typing.TextIO, year_entry_data: EntryYear):
     outfile.write(":year %d\n" % year_entry_data.year)
 
     for section in year_entry_data.sections:
@@ -743,7 +760,15 @@ def get_youtube_metadata(entry):
     return {"tags": tags, "category": category}
 
 
-def get_youtube_info_data(entry):
+@dataclasses.dataclass
+class YoutubeInfo:
+    title: str
+    description: str
+    tags: typing.List[str]
+    category: str
+
+
+def get_youtube_info_data(entry: Entry) -> YoutubeInfo:
     # Special handling for things that have timestamps to stream
     # captures:
     if "#t=" in entry["youtube"]:
@@ -756,26 +781,28 @@ def get_youtube_info_data(entry):
     description = youtube_metadata["description"]
     description = description.replace("<", "-")
     description = description.replace(">", "-")
+    description = description.strip()
 
     title = youtube_metadata["title"]
     title = title.replace("<", "-")
     title = title.replace(">", "-")
+    title = title.strip()
 
-    return {
-        'title': title[:YOUTUBE_MAX_TITLE_LENGTH],
-        'description': description,
-        'tags': list(video_metadata["tags"]),
-        'category': video_metadata["category"],
-    }
+    return YoutubeInfo(
+        title=title[:YOUTUBE_MAX_TITLE_LENGTH],
+        description=description,
+        tags=list(video_metadata["tags"]),
+        category=video_metadata["category"],
+    )
 
 
-def reorder_positioned_section_entries(inout_entries):
+def reorder_positioned_section_entries(inout_entries: typing.List[Entry]):
     def _get_key(value):
         return value.get("position", 99999)
     inout_entries.sort(key=_get_key)
 
 
-def get_clean_youtube_id(entry):
+def get_clean_youtube_id(entry: Entry) -> typing.Optional[str]:
     """Clean timestamps references from a Youtube ID"""
     youtube_id = entry.get("youtube", None)
     if not youtube_id:
@@ -785,7 +812,7 @@ def get_clean_youtube_id(entry):
     return cleaned
 
 
-def get_clean_twitch_id(entry):
+def get_clean_twitch_id(entry: Entry) -> typing.Optional[str]:
     """Clean timestamps references from a Twitch ID"""
     twitch_id = entry.get("twitch", None)
     if not twitch_id:
@@ -795,12 +822,12 @@ def get_clean_twitch_id(entry):
     return cleaned
 
 
-def get_timed_twitch_id(entry):
+def get_timed_twitch_id(entry: Entry) -> typing.Optional[str]:
     """Twitch IDs are timed as they are"""
     return entry.get("twitch")
 
 
-def get_timed_youtube_id(entry):
+def get_timed_youtube_id(entry: Entry) -> typing.Optional[str]:
     """Get youtube timestamps in seconds"""
     youtube_id = entry.get("youtube", None)
     if not youtube_id:

@@ -152,9 +152,9 @@ def print_section_entries(ranges: Ranges, section, interactive: bool):
         youtube_info = asmmetadata.get_youtube_info_data(entry)
         print("########## %d" % (index + 1))
         print("https://studio.youtube.com/video/%s/edit" % entry["youtube"])
-        print(youtube_info["title"])
+        print(youtube_info.title)
         print()
-        print(youtube_info["description"])
+        print(youtube_info.description)
         if interactive:
             result = input()
             if result == "q":

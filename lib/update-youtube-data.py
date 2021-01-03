@@ -23,7 +23,7 @@ def update_youtube_info_entry(yt_service, channel_id, entry):
         youtube_id, _ = youtube_id.split("#")
 
     videos_list = asmyoutube.try_operation(
-        "get info for %s" % youtube_info['title'],
+        "get info for %s" % youtube_info.title,
         lambda: yt_service.videos().list(
             id=youtube_id, part="snippet").execute(),
         sleep=1)
@@ -38,24 +38,24 @@ def update_youtube_info_entry(yt_service, channel_id, entry):
         return
 
     update_entry = False
-    if video_snippet["title"] != youtube_info["title"]:
+    if video_snippet["title"] != youtube_info.title:
         update_entry = True
-        video_snippet["title"] = youtube_info["title"]
-    if video_snippet["description"] != youtube_info['description'].strip():
+        video_snippet["title"] = youtube_info.title
+    if video_snippet["description"] != youtube_info.description.strip():
         update_entry = True
-        video_snippet["description"] = youtube_info['description'].strip()
+        video_snippet["description"] = youtube_info.description.strip()
     existing_tags = []
     if video_snippet.get("tags"):
         existing_tags = sorted(
             [tag.strip().lower() for tag in video_snippet["tags"]])
     if existing_tags != sorted(
-            [tag.strip().lower() for tag in youtube_info["tags"]]):
+            [tag.strip().lower() for tag in youtube_info.tags]):
         update_entry = True
-        video_snippet["tags"] = youtube_info["tags"]
+        video_snippet["tags"] = youtube_info.tags
 
     if update_entry:
         asmyoutube.try_operation(
-            "update %s" % youtube_info['title'],
+            "update %s" % youtube_info.title,
             lambda: yt_service.videos().update(
                 part="snippet",
                 body=dict(
