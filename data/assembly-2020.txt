@@ -189,35 +189,35 @@ author:deetsay|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|position:11|scen
 :section Online freestyle graphics
 :partyman-slug freestyle-graphics
 
-author:Darkki|image-file:online-freestyle-graphics/09-release-the-kwaken.png|partyman-id:d5543704-e2ac-4613-86f4-2e1ffaa82311|position:1|techniques:3dsmax, photoshop, corona (render engine, not virus)|title:Release the Kwaken!
-author:Lyde|image-file:online-freestyle-graphics/08-hex-sonata.png|partyman-id:496c4b97-04ae-4159-b265-0fbe89402762|position:2|title:Hex Sonata
-author:Partikle|image-file:online-freestyle-graphics/07-gathering.png|partyman-id:52475178-fa30-4a85-9d1f-3555218f6c66|position:3|techniques:Photoshop CC, 3dcoat, zbrush, 3dsmax, tyFlow, Corona renderer|title:Gathering
-author:Wiljami|image-file:online-freestyle-graphics/06-epic-battle.png|partyman-id:6b0dbe4e-9c9a-499c-afcb-278058f4ec99|position:4|techniques:3DsMax, zBrush, SubstancePainter, CoronaRenderer, Photoshop|title:Epic Battle
-author:Honcho|image-file:online-freestyle-graphics/05-battle-of-the-skies.png|partyman-id:5f6665ae-46d3-486b-bbec-e5cc630febff|position:5|techniques:Hand-drawn in Photoshop, original size 5760x3240 but resized to 1920x1080 for the compo.|title:Battle of the skies
-author:Plasticbunny|image-file:online-freestyle-graphics/04-hollow-spirits.png|partyman-id:05a3b6ce-bf3e-4f57-a1b6-b94041a82354|position:6|techniques:Blender, Procreate, Photoshop|title:Hollow Spirits
-author:Midi|image-file:online-freestyle-graphics/03-dragon-dream.png|partyman-id:1f82b618-170e-4dac-8945-c888326fff92|position:7|techniques:Watercolor paper, Derwent pencils, Photoshop|title:Dragon Dream
-author:Neon|image-file:online-freestyle-graphics/01-trip-to-the-forest.png|partyman-id:8b0e71ce-4fe3-4a86-a8a4-8c6a0aeba087|position:8|techniques:Tools: Zbrush, 3ds Max, Photoshop, Substance Painter, Marmoset Toolbag<br/>Techniques: 3D, 2D and photography<br/>Platform: PC <br/>Size: 1920x1080|title:Trip To The Forest
-author:maxon|image-file:online-freestyle-graphics/02-cosmic-fisherman.png|partyman-id:42c38a78-cf26-45a6-8745-ca3f9f2fc564|position:9|techniques:Made in Blender, GIMP and Krita in Pop!_OS 20.04 LTS|title:Cosmic Fisherman
+author:Darkki|image-file:online-freestyle-graphics/09-release-the-kwaken.png|partyman-id:d5543704-e2ac-4613-86f4-2e1ffaa82311|position:1|sceneorg:/parties/2020/assembly20/gfx_freestyle/release_the_kwaken_by_darkki.zip|techniques:3dsmax, photoshop, corona (render engine, not virus)|title:Release the Kwaken!
+author:Lyde|image-file:online-freestyle-graphics/08-hex-sonata.png|partyman-id:496c4b97-04ae-4159-b265-0fbe89402762|position:2|sceneorg:/parties/2020/assembly20/gfx_freestyle/hex_sonata.zip|title:Hex Sonata
+author:Partikle|image-file:online-freestyle-graphics/07-gathering.png|partyman-id:52475178-fa30-4a85-9d1f-3555218f6c66|position:3|sceneorg:/parties/2020/assembly20/gfx_freestyle/gathering.zip|techniques:Photoshop CC, 3dcoat, zbrush, 3dsmax, tyFlow, Corona renderer|title:Gathering
+author:Wiljami|image-file:online-freestyle-graphics/06-epic-battle.png|partyman-id:6b0dbe4e-9c9a-499c-afcb-278058f4ec99|position:4|sceneorg:/parties/2020/assembly20/gfx_freestyle/epic_battle.zip|techniques:3DsMax, zBrush, SubstancePainter, CoronaRenderer, Photoshop|title:Epic Battle
+author:Honcho|image-file:online-freestyle-graphics/05-battle-of-the-skies.png|partyman-id:5f6665ae-46d3-486b-bbec-e5cc630febff|position:5|sceneorg:/parties/2020/assembly20/gfx_freestyle/battle_of_the_skies.zip|techniques:Hand-drawn in Photoshop, original size 5760x3240 but resized to 1920x1080 for the compo.|title:Battle of the skies
+author:Plasticbunny|image-file:online-freestyle-graphics/04-hollow-spirits.png|partyman-id:05a3b6ce-bf3e-4f57-a1b6-b94041a82354|position:6|sceneorg:/parties/2020/assembly20/gfx_freestyle/hollow_spirits.zip|techniques:Blender, Procreate, Photoshop|title:Hollow Spirits
+author:Midi|image-file:online-freestyle-graphics/03-dragon-dream.png|partyman-id:1f82b618-170e-4dac-8945-c888326fff92|position:7|sceneorg:/parties/2020/assembly20/gfx_freestyle/dragon_dream.zip|techniques:Watercolor paper, Derwent pencils, Photoshop|title:Dragon Dream
+author:Neon|image-file:online-freestyle-graphics/01-trip-to-the-forest.png|partyman-id:8b0e71ce-4fe3-4a86-a8a4-8c6a0aeba087|position:8|sceneorg:/parties/2020/assembly20/gfx_freestyle/trip_to_the_forest_by_neon.zip|techniques:Tools: Zbrush, 3ds Max, Photoshop, Substance Painter, Marmoset Toolbag<br/>Techniques: 3D, 2D and photography<br/>Platform: PC <br/>Size: 1920x1080|title:Trip To The Forest
+author:maxon|image-file:online-freestyle-graphics/02-cosmic-fisherman.png|partyman-id:42c38a78-cf26-45a6-8745-ca3f9f2fc564|position:9|sceneorg:/parties/2020/assembly20/gfx_freestyle/cosmic_fisherman_by_maxon.zip|techniques:Made in Blender, GIMP and Krita in Pop!_OS 20.04 LTS|title:Cosmic Fisherman
 
 
 :section Online fast graphics
 :description <p>Competitors had 2 hours to create an image with "safety regulations" theme.</p>
 :partyman-slug fast-graphics
 
-author:Partikle|image-file:online-fast-graphics/14-remember-them-masks.png|partyman-id:ab50ff73-7717-47f7-837b-f67689cc3adb|position:1|techniques:Photoshop CC|title:Remember them masks
-author:maxon / HBC|image-file:online-fast-graphics/13-six-more.png|partyman-id:6d469910-b80c-4077-b4e2-8bdfeebc5b51|position:2|techniques:Blender and Krita in Pop!_OS 20.04|title:Six more
-author:Darkki|image-file:online-fast-graphics/12-new-regulated-safe-for-work-toolkit.png|partyman-id:afc667e2-0570-4f84-9ed5-d75fec6e3856|position:3|techniques:Oculus medium, 3dsmax, photoshop, Corona (Renderer not virus :D:D:D)|title:New regulated safe for work toolkit
-author:Wiljami|image-file:online-fast-graphics/11-kuinka-monta-kalustetta-tarvitaan-vaihtamaan-lamppua.png|partyman-id:ce3e9f19-71d7-4e2f-8930-6dea6fdb4e7a|position:4|techniques:3ds max, corona renderer|title:Kuinka monta kalustetta tarvitaan vaihtamaan lamppua?
-author:tug|image-file:online-fast-graphics/08-turdhenge.png|partyman-id:22d2f9dc-4e7b-4a0e-980d-771526775a20|position:5|techniques:Blender 2.9|title:Turdhenge
-author:Felor|image-file:online-fast-graphics/10-falling-danger.png|partyman-id:cfa9824f-5d9b-438d-85f6-e1ad686b7c97|position:6|techniques:Blender Cycles, Photo Shop|title:Falling Danger
-author:Plasticbunny|image-file:online-fast-graphics/07-many-faces-of-safe-distancing.png|partyman-id:ed0b20d3-d29f-4540-9e2d-552233fd94b5|position:7|techniques:Blender, Procreate|title:Many faces of safe-distancing
-author:Neon|image-file:online-fast-graphics/03-safety-first.png|partyman-id:dd06d49e-0e23-4ba4-9d0c-0d99af7c3f21|position:8|techniques:Techniques: drawing in Photoshop|title:Safety First
-author:digimaalari|image-file:online-fast-graphics/09-covid-panic.png|partyman-id:62f16176-caca-47e2-abfb-e2369461ac4d|position:9|techniques:Painted in photoshop with wacom cintiq|title:Covid panic
-author:Zagupi|image-file:online-fast-graphics/05-mega-ram.png|partyman-id:2bdd0b4e-8753-4a1e-8a14-da01d96a090a|position:10|techniques:Blender + Krita|title:Mega Ram
-author:bataattimuusi|image-file:online-fast-graphics/04-boys-on-the-street.png|partyman-id:592ea9eb-3b08-4449-bd45-104be1eff019|position:11|techniques:krita, kiire|title:Boys on the street
-author:Noora|image-file:online-fast-graphics/06-they-re-watching.png|partyman-id:82100c6f-7723-465d-90ad-2bf0ce0d5cba|position:12|title:They're watching
-author:dexter of cellfish|image-file:online-fast-graphics/01-kypara.png|partyman-id:85cce667-1c04-4336-92a8-78dfda634887|position:13|techniques:Scooter - Back in the house! Also, safety first partypeople. Remeber to wear your kypäräs!<br/>(80x25 ANSI originally)|title:Kypärä
-author:ShiroiCheri|image-file:online-fast-graphics/02-mind-your-mind.png|partyman-id:a37b3d33-8262-408b-9bb7-fe8ae495a66c|position:14|techniques:Intuition, Krita, Wacom tablet|title:Mind your mind
+author:Partikle|image-file:online-fast-graphics/14-remember-them-masks.png|partyman-id:ab50ff73-7717-47f7-837b-f67689cc3adb|position:1|sceneorg:/parties/2020/assembly20/gfx_fast/remember_the_masks_nosig.jpg|techniques:Photoshop CC|title:Remember them masks
+author:maxon / HBC|image-file:online-fast-graphics/13-six-more.png|partyman-id:6d469910-b80c-4077-b4e2-8bdfeebc5b51|position:2|sceneorg:/parties/2020/assembly20/gfx_fast/six_more_by_maxon.zip|techniques:Blender and Krita in Pop!_OS 20.04|title:Six more
+author:Darkki|image-file:online-fast-graphics/12-new-regulated-safe-for-work-toolkit.png|partyman-id:afc667e2-0570-4f84-9ed5-d75fec6e3856|position:3|sceneorg:/parties/2020/assembly20/gfx_fast/new_regulated_safe_for_work_toolkit_by_darkki.jpg|techniques:Oculus medium, 3dsmax, photoshop, Corona (Renderer not virus :D:D:D)|title:New regulated safe for work toolkit
+author:Wiljami|image-file:online-fast-graphics/11-kuinka-monta-kalustetta-tarvitaan-vaihtamaan-lamppua.png|partyman-id:ce3e9f19-71d7-4e2f-8930-6dea6fdb4e7a|position:4|sceneorg:/parties/2020/assembly20/gfx_fast/fastgraphics2.png|techniques:3ds max, corona renderer|title:Kuinka monta kalustetta tarvitaan vaihtamaan lamppua?
+author:tug|image-file:online-fast-graphics/08-turdhenge.png|partyman-id:22d2f9dc-4e7b-4a0e-980d-771526775a20|position:5|sceneorg:/parties/2020/assembly20/gfx_fast/turdhenge_by_tug.zip|techniques:Blender 2.9|title:Turdhenge
+author:Felor|image-file:online-fast-graphics/10-falling-danger.png|partyman-id:cfa9824f-5d9b-438d-85f6-e1ad686b7c97|position:6|sceneorg:/parties/2020/assembly20/gfx_fast/fallingdanger-by-felor.png|techniques:Blender Cycles, Photo Shop|title:Falling Danger
+author:Plasticbunny|image-file:online-fast-graphics/07-many-faces-of-safe-distancing.png|partyman-id:ed0b20d3-d29f-4540-9e2d-552233fd94b5|position:7|sceneorg:/parties/2020/assembly20/gfx_fast/many_faces_of-safe-distancing.png|techniques:Blender, Procreate|title:Many faces of safe-distancing
+author:Neon|image-file:online-fast-graphics/03-safety-first.png|partyman-id:dd06d49e-0e23-4ba4-9d0c-0d99af7c3f21|position:8|sceneorg:/parties/2020/assembly20/gfx_fast/safety_first_by_neon_nosig.png|techniques:Techniques: drawing in Photoshop|title:Safety First
+author:digimaalari|image-file:online-fast-graphics/09-covid-panic.png|partyman-id:62f16176-caca-47e2-abfb-e2369461ac4d|position:9|sceneorg:/parties/2020/assembly20/gfx_fast/safety.rar|techniques:Painted in photoshop with wacom cintiq|title:Covid panic
+author:Zagupi|image-file:online-fast-graphics/05-mega-ram.png|partyman-id:2bdd0b4e-8753-4a1e-8a14-da01d96a090a|position:10|sceneorg:/parties/2020/assembly20/gfx_fast/mega_ram_by_zagupi.png|techniques:Blender + Krita|title:Mega Ram
+author:bataattimuusi|image-file:online-fast-graphics/04-boys-on-the-street.png|partyman-id:592ea9eb-3b08-4449-bd45-104be1eff019|position:11|sceneorg:/parties/2020/assembly20/gfx_fast/fastgraph2020-nosig.png|techniques:krita, kiire|title:Boys on the street
+author:Noora|image-file:online-fast-graphics/06-they-re-watching.png|partyman-id:82100c6f-7723-465d-90ad-2bf0ce0d5cba|position:12|sceneorg:/parties/2020/assembly20/gfx_fast/theyre_watching.png|title:They're watching
+author:dexter of cellfish|image-file:online-fast-graphics/01-kypara.png|partyman-id:85cce667-1c04-4336-92a8-78dfda634887|position:13|sceneorg:/parties/2020/assembly20/gfx_fast/dexter-kypara.zip|techniques:Scooter - Back in the house! Also, safety first partypeople. Remeber to wear your kypäräs!<br/>(80x25 ANSI originally)|title:Kypärä
+author:ShiroiCheri|image-file:online-fast-graphics/02-mind-your-mind.png|partyman-id:a37b3d33-8262-408b-9bb7-fe8ae495a66c|position:14|sceneorg:/parties/2020/assembly20/gfx_fast/mind_your_mind.png|techniques:Intuition, Krita, Wacom tablet|title:Mind your mind
 
 
 :section Online themed photo
