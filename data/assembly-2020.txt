@@ -76,10 +76,10 @@ author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|position:3|scen
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
 :partyman-slug short-film
 
-author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|position:1|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield|youtube:TtAxpABuenY
-author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|position:2|techniques:Genre: Eurobeat<br/>We have a permission from Apetor to use this personalized clip.|title:Datanomination! (I have a Vocational Degree in Business Information Technology) ft. Apetor|youtube:gbqBGeeScbs
-author:SBA|partyman-id:0f8e4ec3-5ec0-4128-b3f0-df0790928618|position:3|techniques:Iso kiitos Teiskon elokuvakerholle!|title:HOMEVID-20|youtube:SAQUnQXe7I0
-author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|position:4|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01|youtube:ZfxtFjZ8fI8
+author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|position:1|sceneorg:/parties/2020/assembly20/shortfilm/mds-scene-is-a-battlefield.mp4|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield|youtube:TtAxpABuenY
+author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|position:2|sceneorg:/parties/2020/assembly20/shortfilm/datanomi_4.mp4|techniques:Genre: Eurobeat<br/>We have a permission from Apetor to use this personalized clip.|title:Datanomination! (I have a Vocational Degree in Business Information Technology) ft. Apetor|youtube:gbqBGeeScbs
+author:SBA|partyman-id:0f8e4ec3-5ec0-4128-b3f0-df0790928618|position:3|sceneorg:/parties/2020/assembly20/shortfilm/sba_homevid-20_final.mp4|techniques:Iso kiitos Teiskon elokuvakerholle!|title:HOMEVID-20|youtube:SAQUnQXe7I0
+author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|position:4|sceneorg:/parties/2020/assembly20/shortfilm/hogmanay.party_invite.zip|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01|youtube:ZfxtFjZ8fI8
 
 
 :section Online gamedev
