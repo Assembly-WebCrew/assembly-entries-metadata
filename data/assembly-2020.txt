@@ -3,253 +3,232 @@
 :section Online PC demo
 :youtube-playlist PLJO4AtxKJiFOzqiDWzwf8hnhwHO17g_h3
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
-:ongoing true
 :partyman-slug demo
 
-author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
-author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|techniques:Win, DX8(bug), FL|title:Attempt8|youtube:0mIhKiuhVy8
-author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man|youtube:KbGSn6lA0b8
-author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork|youtube:4by04c7_aPw
-author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction|youtube:BfGD-uoG0Ng
-author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|techniques:greetings to the hypnotoad|title:Bad Brain Sector|youtube:4OyXPiCc07g
-author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|title:Stranger|youtube:XBhkRT0y5pI
-author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|techniques:Made with Notch.|title:Demons|youtube:Mce5j71xBhM
-author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|techniques:Windows, Unreal Engine|title:Superwide Reality|youtube:9JYsCnbjlDA
-author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity|youtube:3c_LmwkiWDk
-author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream|youtube:a6VWul2AXZ8
+author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|position:1|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream|youtube:a6VWul2AXZ8
+author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|position:2|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity|youtube:3c_LmwkiWDk
+author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|position:3|techniques:Made with Notch.|title:Demons|youtube:Mce5j71xBhM
+author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|position:4|techniques:Windows, Unreal Engine|title:Superwide Reality|youtube:9JYsCnbjlDA
+author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|position:5|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction|youtube:BfGD-uoG0Ng
+author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|position:6|title:Stranger|youtube:XBhkRT0y5pI
+author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|position:7|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork|youtube:4by04c7_aPw
+author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|position:8|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man|youtube:KbGSn6lA0b8
+author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|position:9|techniques:greetings to the hypnotoad|title:Bad Brain Sector|youtube:4OyXPiCc07g
+author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|position:10|techniques:Win, DX8(bug), FL|title:Attempt8|youtube:0mIhKiuhVy8
+author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|position:11|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
 
 
 :section Online oldskool demo
 :youtube-playlist PLJO4AtxKJiFMonJOLghDFxUrx-QROPn5y
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
-:ongoing true
 :partyman-slug oldskool-demo
 
-author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler|youtube:fMSv7RW4xE0
-author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:R13RSBE57K8
-author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:coIEZ1iLTfA
+author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|position:1|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:coIEZ1iLTfA
+author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|position:2|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:R13RSBE57K8
+author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|position:3|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler|youtube:fMSv7RW4xE0
 
 
 :section Online 4k intro
 :youtube-playlist PLJO4AtxKJiFNqE0cR3jSbtEklC77A-SUK
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
-:ongoing true
 :partyman-slug 4k-intro
 
-author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
-author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
-author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
-author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
-author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
+author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|position:1|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
+author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|position:2|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
+author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|position:3|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
+author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|position:4|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
+author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|position:5|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
 
 
 :section Online 1k intro
 :youtube-playlist PLJO4AtxKJiFPUavDP_Z-DOQOe0oPe1Uss
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
-:ongoing true
 :partyman-slug 1k-intro
 
-author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:6_xgtStH2TE
-author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|title:Tranquility Falls|youtube:T6hZfqo4pEQ
-author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes|youtube:gl3h3j_ockk
-author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:ce6wrLYRanw
-author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|techniques:First and only release this year, got to make it count. Greets to<br/>everyone I couldn't meet at parties... Tools used: Crinkler, custom tools|title:Jumpgate 10.24|youtube:OmgjLRicszk
+author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|position:1|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:ce6wrLYRanw
+author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|position:2|techniques:First and only release this year, got to make it count. Greets to<br/>everyone I couldn't meet at parties... Tools used: Crinkler, custom tools|title:Jumpgate 10.24|youtube:OmgjLRicszk
+author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|position:3|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes|youtube:gl3h3j_ockk
+author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|position:4|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:6_xgtStH2TE
+author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|position:5|title:Tranquility Falls|youtube:T6hZfqo4pEQ
 
 
 :section Online Pico-8 demo
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
-:ongoing true
 :partyman-slug pico-8-demo
 
-author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
-author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|title:karkki8|youtube:WA6s3Sn0FiY
-author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
+author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|position:1|title:karkki8|youtube:WA6s3Sn0FiY
+author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|position:2|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
+author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|position:3|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
 
 
 :section Online real wild demo
 :youtube-playlist PLJO4AtxKJiFM89d62hG299DeHt2SG6sl8
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
-:ongoing true
 :partyman-slug real-wild
 
-author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge|youtube:z1In2mX4R_Y
-author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|techniques:Platform: Timex Datalink 150 wrist watch<br/>Tools: asm6805, ida pro, custom tools|title:watch out|youtube:jKgTkgPjp6A
-author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office|youtube:RZHBa3aHyFs
+author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|position:1|techniques:Platform: Timex Datalink 150 wrist watch<br/>Tools: asm6805, ida pro, custom tools|title:watch out|youtube:jKgTkgPjp6A
+author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|position:2|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge|youtube:z1In2mX4R_Y
+author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|position:3|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office|youtube:RZHBa3aHyFs
 
 
 :section Online short film
 :youtube-playlist PLJO4AtxKJiFPLtEGpZS2auclh7luyFVZ3
 :description <p>In Short film competition videos can be produced with any method desired. They can be animations, home videos or anything that comes to mind.</p>
-:ongoing true
 :partyman-slug short-film
 
-author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01|youtube:ZfxtFjZ8fI8
-author:SBA|partyman-id:0f8e4ec3-5ec0-4128-b3f0-df0790928618|techniques:Iso kiitos Teiskon elokuvakerholle!|title:HOMEVID-20|youtube:SAQUnQXe7I0
-author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|techniques:Genre: Eurobeat<br/>We have a permission from Apetor to use this personalized clip.|title:Datanomination! (I have a Vocational Degree in Business Information Technology) ft. Apetor|youtube:gbqBGeeScbs
-author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield|youtube:TtAxpABuenY
-
-
-:section Online acid music
-:section-thumbnail music-thumbnail-online
-:author-in-title false
-:ongoing true
-:public false
-:partyman-slug acid-music
-
-author:Synaesthesia|partyman-id:c1827717-eac3-4017-9b8a-0eee4a2e274e|title:Stepping the Acid Loop
-author:Aldroid|partyman-id:cf46cc30-a9d7-4c11-95ba-38ee80afded7|techniques:Your acid is important to us.|title:Acid Hotline
-author:Teo / Focus Design ^ Rebels|partyman-id:750586a6-cd57-4211-8984-e2c6cff5fb71|techniques:Big hug to all the acidheads out there! <br/>&lt;3 303 &lt;3|title:Acid Rituals - Phase II
-author:noby|partyman-id:7b73f680-60e4-4600-9cd8-e3f5cde906bb|techniques:Made in a about 3 hours, recorded 100% live~|title:1010
-author:BAAB|partyman-id:7e879031-388a-4009-afb7-b636a933b6c3|techniques:Beats And Analogue Bass.|title:Orotund
-author:Dave Napier|partyman-id:799159b8-d16e-4ecb-afe1-897d75505156|techniques:Instructions:<br/>1. Turn on 303<br/>2. Extract acid<br/>3. Apply acid to face vigorously<br/>Tools used: Reaper, ABL3 (&lt;3 rp), Battery, Massive, Guitar Rig, Ozone AND DEADLINE PANIC<br/>Greets to the Schleudertrauma posse|title:Stupid Bits (golden duck edit)
-author:Puryx|partyman-id:00325441-0a98-4b7e-b2d6-4b8e770f6c7c|techniques:The Acid Compo will never die!<br/>Reason &amp; ABL3<br/>&lt;3 &lt;3 &lt;3 to everyone competing!<br/>See you at TRSAC - once it will possible again :)|title:The Masquerave
-author:Izard ^ Inque|partyman-id:369cb033-0c1e-4eef-a9d0-f28c40c68654|techniques:Quick acid banger for your pleasure!|title:When in doubt, add 303!
-author:Roz / Fit ^ Byterapers|partyman-id:1205405d-3f4b-4021-9ffb-735586e320a7|techniques:Cubase 10.5 + TB-03 + Boss BX-800 + Hydrasynth + Omnisphere|title:Unvalidated Disko
-author:FLACCID MEMBER|partyman-id:a733e5c6-b4a8-4625-9ef4-3a37e51e9885|techniques:Emil Antonowsky approves this message|title:Memory Leak
-author:Booster / DUB^LNS^DSR^FD|partyman-id:5bfbd188-6d51-4518-ab0c-32dc4e723a35|techniques:&lt;3 Acid &lt;3|title:Triple A
-author:Subi|partyman-id:26df9f59-68e5-432f-a29f-ba99df88d28c|techniques:PLAY IT LOUD<br/>THERE IS NO OTHER WAY<br/>THANK YOU|title:We Have To Stop London
-author:fugl|partyman-id:701c5129-1c48-4cfc-a0e0-3cf58cbcdafe|techniques:Renoise, Moog DFAM, ABL3. Distortion: Wampler Tumnus and Mooer Black Secret.|title:Fractures / Cities 002 (TRSOL Edit)
-author:E621|partyman-id:eebe8bc2-6f84-4ac2-b7e4-afef2955a555|title:Extraction
-author:Fractronik [FIN]|partyman-id:525ef1b8-8e07-45fc-bd5c-35f2e40cf04d|techniques:Recorded live in Helsinki 2020 for Assembly and TRSAC Acid Music 2020! KEEP THE SCENE, ACID MUSIC AND *ISO* ALIVE!|title:Bunga-bunga's Acid Bangers Ball
-author:jeenio|partyman-id:1709273b-753c-4f96-bd8f-0dfe4d44534d|techniques:My first attempt at acid music. Didn't really succeed, jazz always wins...<br/>sing along:<br/>Acid music is so fine<br/>Feel the beat of 909<br/>Acid music sets you free<br/>Fly away with 303|title:Acid Music is so fine
-author:eladamri ^ kvasigen|partyman-id:3f9f2b39-4fad-47ee-ad38-3c693a2f4baa|techniques:mwuhahaha!|title:Restraints
-author:Two Captains|partyman-id:d079aba9-b145-4134-bfcb-e2088ffeddcc|techniques:Strictly hardcore, no sellout rubbish|title:T 2 da C
-
-
-:section Online streaming music
-:section-thumbnail music-thumbnail-online
-:author-in-title false
-:youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
-:ongoing true
-:partyman-slug streaming-music
-
-author:author-will-be-revealed-after-compo|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
-author:author-will-be-revealed-after-compo|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro|youtube:alF009M-ZC0
-author:author-will-be-revealed-after-compo|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem|youtube:ZxetoFohvY0
-author:author-will-be-revealed-after-compo|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|techniques:FL Studio 20 / Windows|title:Perpetual Cruising|youtube:_Exaf7VmWGk
-author:author-will-be-revealed-after-compo|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow|youtube:GJscn3E4D54
-author:author-will-be-revealed-after-compo|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|techniques:Ableton 10|title:Let There Be Neon Light|youtube:l-_06SETc8o
-author:author-will-be-revealed-after-compo|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits|youtube:aoaPhKxnkzE
-author:author-will-be-revealed-after-compo|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera|youtube:adgTC0YlRPc
-author:author-will-be-revealed-after-compo|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|techniques:Buzzerille terveisiä|title:Blues for Keke|youtube:SujgQfeXopY
-author:author-will-be-revealed-after-compo|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two|youtube:i_SQug3bja8
-author:author-will-be-revealed-after-compo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele|youtube:GOOAty0kn0M
-author:author-will-be-revealed-after-compo|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|title:Memory of Tomorrow|youtube:3XFBn7Bpeio
-author:author-will-be-revealed-after-compo|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts|youtube:VYSBBCgy1N8
-author:author-will-be-revealed-after-compo|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
-
-
-:section Online fast music
-:section-thumbnail music-thumbnail-online
-:author-in-title false
-:youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
-:description <p>Competitors had 2 hours to create a song with  3/4 time signature. Music could be created with any tools desired.</p>
-:ongoing true
-:partyman-slug fast-music
-
-author:author-will-be-revealed-after-compo|partyman-id:649e7b03-dd66-487e-9a17-524d27fdb3bd|techniques:Reason / PC|title:Swinging by|youtube:0YwpvfXCoBk
-author:author-will-be-revealed-after-compo|partyman-id:ef82f327-6f49-4721-bbb2-20b4033805f0|techniques:When you miss first 1 hour...|title:KolmeNeljäsosaFarssi|youtube:PVFQ362Yygk
-author:author-will-be-revealed-after-compo|partyman-id:3e03d5ad-be92-4146-b8ab-4c1266c94d3f|techniques:Made with Logic Pro X and soft synths and chocolate|title:Vangelis tanssittaa Enyaa|youtube:SsXIfXWKwDg
-author:author-will-be-revealed-after-compo|partyman-id:a00d001c-f014-4387-a5ed-9459e40eec85|techniques:Christmas came early this year!|title:Juleljus|youtube:tZ5Tmcn36ko
-author:author-will-be-revealed-after-compo|partyman-id:4caea10a-132f-456d-bc2f-d4e27174ec6b|techniques:Reason, 60 minutes.|title:Amen Waltz|youtube:mKrW-AfEJqA
-author:author-will-be-revealed-after-compo|partyman-id:597cc4e0-167f-4fd2-914d-112f097ac990|title:Sukellusvene|youtube:IZa16tHuW0k
-author:author-will-be-revealed-after-compo|partyman-id:aa3aabc0-a3fc-49ad-b3a0-078fc140c1cb|techniques:Logic Pro X|title:Tree Versus Four|youtube:h6uWpNeD98U
-author:author-will-be-revealed-after-compo|partyman-id:047d680c-039c-4c92-b0a7-4f49a280c13e|techniques:Spooky Waltz type of music. Perfect for a graveyard!<br/>DAW: FL Studio<br/>Plugins: Kontakt, Massive<br/>Libraries: Kontakt Factory Library, Audio Imperia Nucleus|title:The Sad Fate of the Cute Ghosts|youtube:fO1woH92pGk
-author:author-will-be-revealed-after-compo|partyman-id:f293f20f-f018-40b2-8437-b0820d583b0b|techniques:Just some piano improv... once again ran out of time. Them deadlines :(<br/>Sequenced to Cubase Pro 10.5 using VSL Synchron Steinway Lite|title:Piano Improvisation #7193|youtube:tC9EOzQS0go
-author:author-will-be-revealed-after-compo|partyman-id:13a0d513-b098-45e5-8339-89b4616c4df4|techniques:Logic|title:minimums|youtube:ollCREMgDbU
-author:author-will-be-revealed-after-compo|partyman-id:d1d7763e-6a7c-495e-9148-24bb1ac045ba|techniques:Renoise, terrible reverbs, apologies for the solo|title:Relentlessly Pastel-shaded Waiting Room Stoicism|youtube:gcwMoaVfrzo
-author:author-will-be-revealed-after-compo|partyman-id:46865e3e-4324-4f01-8731-d053ae302dbc|techniques:VSTs|title:viii|youtube:Tks_eo_i180
-author:author-will-be-revealed-after-compo|partyman-id:615569f6-67b4-4190-9a35-d4bdcb7554d6|techniques:3/4 tracker drum &amp; bass in your FACE! (8 ch XM)|title:Braintwist|youtube:MnnQWcn31s8
-author:author-will-be-revealed-after-compo|partyman-id:addc8da5-1343-4e34-a168-31ad1fdfdace|techniques:A small little chiptune made in 1 hour on my Amiga 600. 4channels of bleeps. Please do try to enjoy. Greetings to ... ALL... Short as the chiptune. mAZE out...|title:Assembly Chip Waltz|youtube:h2vVfNc3LYo
-author:author-will-be-revealed-after-compo|partyman-id:c9f77931-eda6-47f9-aa01-31ae84e665f1|techniques:My amateur tribute to Lyle Mays (1953 - 2020). Made in Ableton Live from scratch in 2 hours, so apologies for bad mixing and playing!|title:Lapset vauhdilla nukkumaan|youtube:7JDUlSbOYOs
-author:author-will-be-revealed-after-compo|partyman-id:a6ea1b72-6870-463c-98ef-02678b72a23b|techniques:gala keyboard, hammond melodion, tambourine, a professional vocalist, cubase 10.5, zoom h4n, 2gb sd card. that was fun.|title:Triple Troll|youtube:AxUy6zGPr2Y
-author:author-will-be-revealed-after-compo|partyman-id:76df584a-5a96-4fc1-ae8c-2488135f0cea|techniques:done in 1 hour. greetings to everyone.|title:Waltz with me|youtube:6fxyZHiMw2Q
-
-
-:section Online freestyle graphics
-:author-in-title false
-:ongoing true
-:partyman-slug freestyle-graphics
-
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/01-trip-to-the-forest.png|partyman-id:8b0e71ce-4fe3-4a86-a8a4-8c6a0aeba087|techniques:Tools: Zbrush, 3ds Max, Photoshop, Substance Painter, Marmoset Toolbag<br/>Techniques: 3D, 2D and photography<br/>Platform: PC <br/>Size: 1920x1080|title:Trip To The Forest
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/02-cosmic-fisherman.png|partyman-id:42c38a78-cf26-45a6-8745-ca3f9f2fc564|techniques:Made in Blender, GIMP and Krita in Pop!_OS 20.04 LTS|title:Cosmic Fisherman
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/03-dragon-dream.png|partyman-id:1f82b618-170e-4dac-8945-c888326fff92|techniques:Watercolor paper, Derwent pencils, Photoshop|title:Dragon Dream
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/04-hollow-spirits.png|partyman-id:05a3b6ce-bf3e-4f57-a1b6-b94041a82354|techniques:Blender, Procreate, Photoshop|title:Hollow Spirits
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/05-battle-of-the-skies.png|partyman-id:5f6665ae-46d3-486b-bbec-e5cc630febff|techniques:Hand-drawn in Photoshop, original size 5760x3240 but resized to 1920x1080 for the compo.|title:Battle of the skies
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/06-epic-battle.png|partyman-id:6b0dbe4e-9c9a-499c-afcb-278058f4ec99|techniques:3DsMax, zBrush, SubstancePainter, CoronaRenderer, Photoshop|title:Epic Battle
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/07-gathering.png|partyman-id:52475178-fa30-4a85-9d1f-3555218f6c66|techniques:Photoshop CC, 3dcoat, zbrush, 3dsmax, tyFlow, Corona renderer|title:Gathering
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/08-hex-sonata.png|partyman-id:496c4b97-04ae-4159-b265-0fbe89402762|title:Hex Sonata
-author:author-will-be-revealed-after-compo|image-file:online-freestyle-graphics/09-release-the-kwaken.png|partyman-id:d5543704-e2ac-4613-86f4-2e1ffaa82311|techniques:3dsmax, photoshop, corona (render engine, not virus)|title:Release the Kwaken!
-
-
-:section Online fast graphics
-:author-in-title false
-:description <p>Competitors had 2 hours to create an image with "safety regulations" theme.</p>
-:ongoing true
-:partyman-slug fast-graphics
-
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/01-kypara.png|partyman-id:85cce667-1c04-4336-92a8-78dfda634887|techniques:Scooter - Back in the house! Also, safety first partypeople. Remeber to wear your kypäräs!<br/>(80x25 ANSI originally)|title:Kypärä
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/02-mind-your-mind.png|partyman-id:a37b3d33-8262-408b-9bb7-fe8ae495a66c|techniques:Intuition, Krita, Wacom tablet|title:Mind your mind
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/03-safety-first.png|partyman-id:dd06d49e-0e23-4ba4-9d0c-0d99af7c3f21|techniques:Techniques: drawing in Photoshop|title:Safety First
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/04-boys-on-the-street.png|partyman-id:592ea9eb-3b08-4449-bd45-104be1eff019|techniques:krita, kiire|title:Boys on the street
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/05-mega-ram.png|partyman-id:2bdd0b4e-8753-4a1e-8a14-da01d96a090a|techniques:Blender + Krita|title:Mega Ram
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/06-they-re-watching.png|partyman-id:82100c6f-7723-465d-90ad-2bf0ce0d5cba|title:They're watching
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/07-many-faces-of-safe-distancing.png|partyman-id:ed0b20d3-d29f-4540-9e2d-552233fd94b5|techniques:Blender, Procreate|title:Many faces of safe-distancing
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/08-turdhenge.png|partyman-id:22d2f9dc-4e7b-4a0e-980d-771526775a20|techniques:Blender 2.9|title:Turdhenge
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/09-covid-panic.png|partyman-id:62f16176-caca-47e2-abfb-e2369461ac4d|techniques:Painted in photoshop with wacom cintiq|title:Covid panic
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/10-falling-danger.png|partyman-id:cfa9824f-5d9b-438d-85f6-e1ad686b7c97|techniques:Blender Cycles, Photo Shop|title:Falling Danger
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/11-kuinka-monta-kalustetta-tarvitaan-vaihtamaan-lamppua.png|partyman-id:ce3e9f19-71d7-4e2f-8930-6dea6fdb4e7a|techniques:3ds max, corona renderer|title:Kuinka monta kalustetta tarvitaan vaihtamaan lamppua?
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/12-new-regulated-safe-for-work-toolkit.png|partyman-id:afc667e2-0570-4f84-9ed5-d75fec6e3856|techniques:Oculus medium, 3dsmax, photoshop, Corona (Renderer not virus :D:D:D)|title:New regulated safe for work toolkit
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/13-six-more.png|partyman-id:6d469910-b80c-4077-b4e2-8bdfeebc5b51|techniques:Blender and Krita in Pop!_OS 20.04|title:Six more
-author:author-will-be-revealed-after-compo|image-file:online-fast-graphics/14-remember-them-masks.png|partyman-id:ab50ff73-7717-47f7-837b-f67689cc3adb|techniques:Photoshop CC|title:Remember them masks
-
-
-:section Online themed photo
-:author-in-title false
-:ongoing true
-:partyman-slug themed-photo
-
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|techniques:iPhone 7 + Lightroom|title:Hack the Planet
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/02_Meaning_of_light.jpg|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|title:Meaning of light
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/03_Ray_of_Love.jpg|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|techniques:Greetings to In-Sect|title:Ray of Love
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/04_Red_Discs.jpg|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|techniques:Red discs and light|title:Red Discs
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|title:14 Years of Bad Luck
-author:author-will-be-revealed-after-compo|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
-
-
-:section Online tracked music
-:section-thumbnail music-thumbnail-online
-:author-in-title false
-:youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
-:description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
-:ongoing true
-:manage-youtube-descriptions true
-:partyman-slug tracked-music
-
-author:author-will-be-revealed-after-compo|partyman-id:ce767c68-4ff8-4d54-8b4d-f054ebfc7203|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
-author:author-will-be-revealed-after-compo|partyman-id:b0087945-bc65-4835-8cbd-59c60805f2c0|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
-author:author-will-be-revealed-after-compo|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
-author:author-will-be-revealed-after-compo|partyman-id:59f7b938-d757-4180-9f14-bd271b318df3|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
-author:author-will-be-revealed-after-compo|partyman-id:ab9bae43-3930-4170-a81f-f497632db038|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
-author:author-will-be-revealed-after-compo|partyman-id:d1d5bec8-c772-4d9e-b04f-ea6e417596e2|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
-author:author-will-be-revealed-after-compo|partyman-id:59f75f04-c050-454c-b623-111fe8b0b2ae|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
-author:author-will-be-revealed-after-compo|partyman-id:fb4d5138-ec8c-489c-bdaa-d1a631e814cc|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
-author:author-will-be-revealed-after-compo|partyman-id:bc15f144-9719-4ce0-9348-e2aabef44b49|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
-author:author-will-be-revealed-after-compo|partyman-id:3402fc27-897f-4525-841f-5379c637a7ac|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
-author:author-will-be-revealed-after-compo|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+author:moods plateau|partyman-id:98323ae2-89dc-49b5-9077-bd998a4b8712|position:1|techniques:Thank you, for all the love during the past years! Never stop that feeling.|title:Scene is a Battlefield|youtube:TtAxpABuenY
+author:Meemih!mot|partyman-id:f31e43d4-ed09-4db0-bef6-696767b4a4d8|position:2|techniques:Genre: Eurobeat<br/>We have a permission from Apetor to use this personalized clip.|title:Datanomination! (I have a Vocational Degree in Business Information Technology) ft. Apetor|youtube:gbqBGeeScbs
+author:SBA|partyman-id:0f8e4ec3-5ec0-4128-b3f0-df0790928618|position:3|techniques:Iso kiitos Teiskon elokuvakerholle!|title:HOMEVID-20|youtube:SAQUnQXe7I0
+author:Hogmanay.Party|partyman-id:8fdbecce-ef11-4d8d-9d5f-2a120dc318a5|position:4|techniques:A very quick badly made invite to Hogmanay.Party 31.12.2020 / 01.01.2021|title:Hogmanay.Party Invite 01|youtube:ZfxtFjZ8fI8
 
 
 :section Online gamedev
 :youtube-playlist PLJO4AtxKJiFNJo8AuLcrU6m0Vb_b2V5ze
 :description <p>In Game development competition entries are playable games that are published before Assembly starts and also include a short gameplay video that is shown during the event.</p>
-:ongoing true
 :manage-youtube-descriptions false
 :partyman-slug gamedev
 
-author:Finlander, Ataverti|partyman-id:01e6f1f2-5e34-4e43-a561-09b2dfaf2402|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku|youtube:P20IXWiQiq0
-author:The 7th Division and Vintage Computing Carinthia|partyman-id:44742eb4-75f1-4ea4-8f62-5b876c61b661|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
-author:Kultisti & Aries W|partyman-id:f24af1b7-c112-4b5a-90f3-f4d7387cbcb5|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
-author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
+author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|position:1|techniques:A 50hz vertical scrolling shmup for the Amstrad CPC. You only need a CPC 464 to enjoy the game at full framerate! 3 difficulty levels.|title:CORSAIR Trainer|youtube:7xLliHkEE18
+author:The 7th Division and Vintage Computing Carinthia|partyman-id:44742eb4-75f1-4ea4-8f62-5b876c61b661|position:2|techniques:You wake up with a cramp starting in your left toe and sand in yourmouth. Wind brings a salty breeze and on an island nobody else is there. This is the beginning of an interactive fiction game for the C64. Can you survive?|title:Survival Messenger Adventure|youtube:g31Knb_rv7M
+author:Finlander, Ataverti|partyman-id:01e6f1f2-5e34-4e43-a561-09b2dfaf2402|position:3|techniques:Dunkku, dungeon crawler<br/>Platform: Windows 10<br/>Tools: Unity3D, 3Ds Max, Paint 3D, Blender, GIMP|title:Dunkku|youtube:P20IXWiQiq0
+author:Kultisti & Aries W|partyman-id:f24af1b7-c112-4b5a-90f3-f4d7387cbcb5|position:4|techniques:Windows PC, Single-player, contains flashing colors, no worms were harmed during the development|title:M47O|youtube:sxe_oUzFf1M
+
+
+:section Online acid music
+:section-thumbnail music-thumbnail-online
+:partyman-slug acid-music
+:description DJ set from Norway with commentary from Denmark in a party from Finland. Made in collaboration with TRSAC.
+:manage-youtube-descriptions false
+
+author:Roz / Fit ^ Byterapers|partyman-id:1205405d-3f4b-4021-9ffb-735586e320a7|position:1|techniques:Cubase 10.5 + TB-03 + Boss BX-800 + Hydrasynth + Omnisphere|title:Unvalidated Disko|youtube:QblfQ1ROmFY#t=25m24s
+author:eladamri ^ kvasigen|partyman-id:3f9f2b39-4fad-47ee-ad38-3c693a2f4baa|position:2|techniques:mwuhahaha!|title:Restraints|youtube:QblfQ1ROmFY#t=48m23s
+author:Two Captains|partyman-id:d079aba9-b145-4134-bfcb-e2088ffeddcc|position:3|techniques:Strictly hardcore, no sellout rubbish|title:T 2 da C|youtube:QblfQ1ROmFY#t=52m28s
+author:Puryx|partyman-id:00325441-0a98-4b7e-b2d6-4b8e770f6c7c|position:4|techniques:The Acid Compo will never die!<br/>Reason &amp; ABL3<br/>&lt;3 &lt;3 &lt;3 to everyone competing!<br/>See you at TRSAC - once it will possible again :)|title:The Masquerave|youtube:QblfQ1ROmFY#t=18m25s
+author:jeenio|partyman-id:1709273b-753c-4f96-bd8f-0dfe4d44534d|position:5|techniques:My first attempt at acid music. Didn't really succeed, jazz always wins...<br/>sing along:<br/>Acid music is so fine<br/>Feel the beat of 909<br/>Acid music sets you free<br/>Fly away with 303|title:Acid Music is so fine|youtube:QblfQ1ROmFY#t=45m32s
+author:Subi|partyman-id:26df9f59-68e5-432f-a29f-ba99df88d28c|position:6|techniques:PLAY IT LOUD<br/>THERE IS NO OTHER WAY<br/>THANK YOU|title:We Have To Stop London|youtube:QblfQ1ROmFY#t=35m32s
+author:Booster / DUB^LNS^DSR^FD|partyman-id:5bfbd188-6d51-4518-ab0c-32dc4e723a35|position:7|techniques:&lt;3 Acid &lt;3|title:Triple A|youtube:QblfQ1ROmFY#t=32m15s
+author:Teo / Focus Design ^ Rebels|partyman-id:750586a6-cd57-4211-8984-e2c6cff5fb71|position:8|techniques:Big hug to all the acidheads out there! <br/>&lt;3 303 &lt;3|title:Acid Rituals - Phase II|youtube:QblfQ1ROmFY#t=7m
+author:FLACCID MEMBER|partyman-id:a733e5c6-b4a8-4625-9ef4-3a37e51e9885|position:9|techniques:Emil Antonowsky approves this message|title:Memory Leak|youtube:QblfQ1ROmFY#t=28m03s
+author:noby|partyman-id:7b73f680-60e4-4600-9cd8-e3f5cde906bb|position:10|techniques:Made in a about 3 hours, recorded 100% live~|title:1010|youtube:QblfQ1ROmFY#t=9m29s
+author:Dave Napier|partyman-id:799159b8-d16e-4ecb-afe1-897d75505156|position:11|techniques:Instructions:<br/>1. Turn on 303<br/>2. Extract acid<br/>3. Apply acid to face vigorously<br/>Tools used: Reaper, ABL3 (&lt;3 rp), Battery, Massive, Guitar Rig, Ozone AND DEADLINE PANIC<br/>Greets to the Schleudertrauma posse|title:Stupid Bits (golden duck edit)|youtube:QblfQ1ROmFY#t=15m14s
+author:E621|partyman-id:eebe8bc2-6f84-4ac2-b7e4-afef2955a555|position:12|title:Extraction|youtube:QblfQ1ROmFY#t=40m09s
+author:BAAB|partyman-id:7e879031-388a-4009-afb7-b636a933b6c3|position:13|techniques:Beats And Analogue Bass.|title:Orotund|youtube:QblfQ1ROmFY#t=11m57s
+author:Izard ^ Inque|partyman-id:369cb033-0c1e-4eef-a9d0-f28c40c68654|position:14|techniques:Quick acid banger for your pleasure!|title:When in doubt, add 303!|youtube:QblfQ1ROmFY#t=21m34s
+author:fugl|partyman-id:701c5129-1c48-4cfc-a0e0-3cf58cbcdafe|position:15|techniques:Renoise, Moog DFAM, ABL3. Distortion: Wampler Tumnus and Mooer Black Secret.|title:Fractures / Cities 002 (TRSOL Edit)|youtube:QblfQ1ROmFY#t=38m23s
+author:Fractronik [FIN]|partyman-id:525ef1b8-8e07-45fc-bd5c-35f2e40cf04d|position:16|techniques:Recorded live in Helsinki 2020 for Assembly and TRSAC Acid Music 2020! KEEP THE SCENE, ACID MUSIC AND *ISO* ALIVE!|title:Bunga-bunga's Acid Bangers Ball|youtube:QblfQ1ROmFY#t=43m09s
+author:Aldroid|partyman-id:cf46cc30-a9d7-4c11-95ba-38ee80afded7|position:17|techniques:Your acid is important to us.|title:Acid Hotline|youtube:QblfQ1ROmFY#t=4m32s
+author:Synaesthesia|partyman-id:c1827717-eac3-4017-9b8a-0eee4a2e274e|position:18|title:Stepping the Acid Loop|youtube:QblfQ1ROmFY#t=2m25s
+
+
+:section Online streaming music
+:section-thumbnail music-thumbnail-online
+:youtube-playlist PLJO4AtxKJiFMe2w5UcX4ls-vGb9vxPa_t
+:partyman-slug streaming-music
+
+author:Aikapallo|partyman-id:8af1eff3-b44b-4db1-a194-4567ba009f4c|position:1|techniques:Cubase, vsti, bass, guitar and synths|title:Sähköperkele|youtube:GOOAty0kn0M
+author:Paokala|partyman-id:231fa576-df55-48bb-8444-69541c22efbf|position:2|techniques:FL11 (ei huumori_huiskausta tällä kertaa)|title:Ten Thousand Homeworlds|youtube:yzwCLLqweRk
+author:E621|partyman-id:b66ef625-02b5-4982-9b93-3bd8c4e669e7|position:3|title:Memory of Tomorrow|youtube:3XFBn7Bpeio
+author:Chipremacy|partyman-id:338b1d23-ea9b-444b-bd3a-86b9955594e9|position:4|techniques:Logic Pro X + Reaper + Electric Guitar|title:Player Two|youtube:i_SQug3bja8
+author:Yzi|partyman-id:9b6a7f3b-8392-4b92-bc15-a991c3c53f5e|position:5|techniques:Buzzerille terveisiä|title:Blues for Keke|youtube:SujgQfeXopY
+author:jeenio|partyman-id:51df936c-173d-4946-b88c-6c98e35ca2e7|position:6|techniques:My first attempt at drum'n'bass. Didn't quite succeed, somehow jazz always wins... Excerpt of poem "Quando Vier a Primavera" by Alberto Caeiro, with many thanks to Pedro Lamares.|title:Quando Vier a Primavera|youtube:adgTC0YlRPc
+author:Roz / Fit ^ Byterapers|partyman-id:0b7cdef6-3f61-498c-b4a7-b95b9b25e319|position:7|techniques:Last moment panic + Cubase 10.5 + Omnisphere + Hydrasynth|title:March of the Halibuts|youtube:VYSBBCgy1N8
+author:EPHMERIX|partyman-id:b405c657-453f-4abc-8feb-35e2546daef5|position:8|techniques:Ableton 10|title:Let There Be Neon Light|youtube:l-_06SETc8o
+author:KoomaDot|partyman-id:4880df86-0b41-4810-b3b6-b47298b85155|position:9|techniques:FLStudio. Hardstyle, maybe?|title:Hardstyle Party Anthem|youtube:ZxetoFohvY0
+author:VilunE|partyman-id:c7daac41-d5ec-49a3-9ab3-d33d9a99e9ae|position:10|techniques:Reaper|title:Hyvä Synabiisi|youtube:qh6cL4VD9Ek
+author:Mrs Beanbag|partyman-id:df25a261-20c8-4ff2-9a2e-1e5a7b72e764|position:11|techniques:Made in Renoise using free soundfonts that i found online. Mastered using Matcherator. No potatoes.|title:Leave it for Tomorrow|youtube:GJscn3E4D54
+author:lemonade of #CBC / Nectarine|partyman-id:582f6919-e3da-4d8f-9fe0-f0cbacff5d8c|position:12|techniques:Renoise/Linux, VST's &amp; samples|title:Returning borrowed bits|youtube:aoaPhKxnkzE
+author:Buzzer of Brainstorm|partyman-id:d6fed850-f6f2-49d8-9bb2-c11f0cafc41d|position:13|techniques:Reason PC<br/>Greetings to friends and Asm partyppl!|title:Elektro|youtube:alF009M-ZC0
+author:Jaach Ankka|partyman-id:8f6d9eca-3bd0-492a-8d46-3c6b979b1253|position:14|techniques:FL Studio 20 / Windows|title:Perpetual Cruising|youtube:_Exaf7VmWGk
+
+
+:section Online fast music
+:section-thumbnail music-thumbnail-online
+:youtube-playlist PLJO4AtxKJiFOnPnJSCFPXWCJWets1DZPb
+:description <p>Competitors had 2 hours to create a song with  3/4 time signature. Music could be created with any tools desired.</p>
+:partyman-slug fast-music
+
+author:jco feat. GALA Keyboard Service DIAMANT|partyman-id:a6ea1b72-6870-463c-98ef-02678b72a23b|position:1|techniques:gala keyboard, hammond melodion, tambourine, a professional vocalist, cubase 10.5, zoom h4n, 2gb sd card. that was fun.|title:Triple Troll|youtube:AxUy6zGPr2Y
+author:Yzi|partyman-id:c9f77931-eda6-47f9-aa01-31ae84e665f1|position:2|techniques:My amateur tribute to Lyle Mays (1953 - 2020). Made in Ableton Live from scratch in 2 hours, so apologies for bad mixing and playing!|title:Lapset vauhdilla nukkumaan|youtube:7JDUlSbOYOs
+author:jeenio|partyman-id:76df584a-5a96-4fc1-ae8c-2488135f0cea|position:3|techniques:done in 1 hour. greetings to everyone.|title:Waltz with me|youtube:6fxyZHiMw2Q
+author:mAZE / dSr & RSE & Mds|partyman-id:addc8da5-1343-4e34-a168-31ad1fdfdace|position:4|techniques:A small little chiptune made in 1 hour on my Amiga 600. 4channels of bleeps. Please do try to enjoy. Greetings to ... ALL... Short as the chiptune. mAZE out...|title:Assembly Chip Waltz|youtube:h2vVfNc3LYo
+author:Roz / Fit ^ Byterapers|partyman-id:615569f6-67b4-4190-9a35-d4bdcb7554d6|position:5|techniques:3/4 tracker drum &amp; bass in your FACE! (8 ch XM)|title:Braintwist|youtube:MnnQWcn31s8
+author:ihanalammas|partyman-id:46865e3e-4324-4f01-8731-d053ae302dbc|position:6|techniques:VSTs|title:viii|youtube:Tks_eo_i180
+author:Cepukka|partyman-id:047d680c-039c-4c92-b0a7-4f49a280c13e|position:7|techniques:Spooky Waltz type of music. Perfect for a graveyard!<br/>DAW: FL Studio<br/>Plugins: Kontakt, Massive<br/>Libraries: Kontakt Factory Library, Audio Imperia Nucleus|title:The Sad Fate of the Cute Ghosts|youtube:fO1woH92pGk
+author:Castor / Inversion (Roger Ojala)|partyman-id:a00d001c-f014-4387-a5ed-9459e40eec85|position:8|techniques:Christmas came early this year!|title:Juleljus|youtube:tZ5Tmcn36ko
+author:rawArgon|partyman-id:d1d7763e-6a7c-495e-9148-24bb1ac045ba|position:9|techniques:Renoise, terrible reverbs, apologies for the solo|title:Relentlessly Pastel-shaded Waiting Room Stoicism|youtube:gcwMoaVfrzo
+author:Chipremacy|partyman-id:aa3aabc0-a3fc-49ad-b3a0-078fc140c1cb|position:10|techniques:Logic Pro X|title:Tree Versus Four|youtube:h6uWpNeD98U
+author:akole/npli|partyman-id:f293f20f-f018-40b2-8437-b0820d583b0b|position:11|techniques:Just some piano improv... once again ran out of time. Them deadlines :(<br/>Sequenced to Cubase Pro 10.5 using VSL Synchron Steinway Lite|title:Piano Improvisation #7193|youtube:tC9EOzQS0go
+author:windytan|partyman-id:13a0d513-b098-45e5-8339-89b4616c4df4|position:12|techniques:Logic|title:minimums|youtube:ollCREMgDbU
+author:Bass Cadet|partyman-id:4caea10a-132f-456d-bc2f-d4e27174ec6b|position:13|techniques:Reason, 60 minutes.|title:Amen Waltz|youtube:mKrW-AfEJqA
+author:Deetail / Zenon|partyman-id:3e03d5ad-be92-4146-b8ab-4c1266c94d3f|position:14|techniques:Made with Logic Pro X and soft synths and chocolate|title:Vangelis tanssittaa Enyaa|youtube:SsXIfXWKwDg
+author:Mergente|partyman-id:597cc4e0-167f-4fd2-914d-112f097ac990|position:15|title:Sukellusvene|youtube:IZa16tHuW0k
+author:Dj Rakofobia|partyman-id:ef82f327-6f49-4721-bbb2-20b4033805f0|position:16|techniques:When you miss first 1 hour...|title:KolmeNeljäsosaFarssi|youtube:PVFQ362Yygk
+author:Yksikkö 303|partyman-id:649e7b03-dd66-487e-9a17-524d27fdb3bd|position:17|techniques:Reason / PC|title:Swinging by|youtube:0YwpvfXCoBk
+
+
+:section Online tracked music
+:section-thumbnail music-thumbnail-online
+:youtube-playlist PLJO4AtxKJiFOFSd5Kj3lzIyeqnGyipb7Z
+:description <p>The tracked music competition requires the competitors to create music in a <a href="https://en.wikipedia.org/wiki/Music_tracker">tracker music format</a> that has a limitation of 2 megabytes in size.</p>
+:manage-youtube-descriptions true
+:partyman-slug tracked-music
+
+author:laamaa|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|position:1|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+author:Mibri / Proxima|partyman-id:bc15f144-9719-4ce0-9348-e2aabef44b49|position:2|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
+author:Roz / Fit ^ Byterapers|partyman-id:3402fc27-897f-4525-841f-5379c637a7ac|position:3|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
+author:Chipremacy|partyman-id:59f75f04-c050-454c-b623-111fe8b0b2ae|position:4|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
+author:Catonator|partyman-id:d1d5bec8-c772-4d9e-b04f-ea6e417596e2|position:5|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
+author:rawArgon|partyman-id:59f7b938-d757-4180-9f14-bd271b318df3|position:6|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
+author:e!ghtbm|partyman-id:fb4d5138-ec8c-489c-bdaa-d1a631e814cc|position:7|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
+author:Juippi / faemiyah|partyman-id:ab9bae43-3930-4170-a81f-f497632db038|position:8|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
+author:la_mettrie / cms|partyman-id:ce767c68-4ff8-4d54-8b4d-f054ebfc7203|position:9|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
+author:Synaesthesia|partyman-id:b0087945-bc65-4835-8cbd-59c60805f2c0|position:10|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
+author:deetsay|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|position:11|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
+
+
+:section Online freestyle graphics
+:partyman-slug freestyle-graphics
+
+author:Darkki|image-file:online-freestyle-graphics/09-release-the-kwaken.png|partyman-id:d5543704-e2ac-4613-86f4-2e1ffaa82311|position:1|techniques:3dsmax, photoshop, corona (render engine, not virus)|title:Release the Kwaken!
+author:Lyde|image-file:online-freestyle-graphics/08-hex-sonata.png|partyman-id:496c4b97-04ae-4159-b265-0fbe89402762|position:2|title:Hex Sonata
+author:Partikle|image-file:online-freestyle-graphics/07-gathering.png|partyman-id:52475178-fa30-4a85-9d1f-3555218f6c66|position:3|techniques:Photoshop CC, 3dcoat, zbrush, 3dsmax, tyFlow, Corona renderer|title:Gathering
+author:Wiljami|image-file:online-freestyle-graphics/06-epic-battle.png|partyman-id:6b0dbe4e-9c9a-499c-afcb-278058f4ec99|position:4|techniques:3DsMax, zBrush, SubstancePainter, CoronaRenderer, Photoshop|title:Epic Battle
+author:Honcho|image-file:online-freestyle-graphics/05-battle-of-the-skies.png|partyman-id:5f6665ae-46d3-486b-bbec-e5cc630febff|position:5|techniques:Hand-drawn in Photoshop, original size 5760x3240 but resized to 1920x1080 for the compo.|title:Battle of the skies
+author:Plasticbunny|image-file:online-freestyle-graphics/04-hollow-spirits.png|partyman-id:05a3b6ce-bf3e-4f57-a1b6-b94041a82354|position:6|techniques:Blender, Procreate, Photoshop|title:Hollow Spirits
+author:Midi|image-file:online-freestyle-graphics/03-dragon-dream.png|partyman-id:1f82b618-170e-4dac-8945-c888326fff92|position:7|techniques:Watercolor paper, Derwent pencils, Photoshop|title:Dragon Dream
+author:Neon|image-file:online-freestyle-graphics/01-trip-to-the-forest.png|partyman-id:8b0e71ce-4fe3-4a86-a8a4-8c6a0aeba087|position:8|techniques:Tools: Zbrush, 3ds Max, Photoshop, Substance Painter, Marmoset Toolbag<br/>Techniques: 3D, 2D and photography<br/>Platform: PC <br/>Size: 1920x1080|title:Trip To The Forest
+author:maxon|image-file:online-freestyle-graphics/02-cosmic-fisherman.png|partyman-id:42c38a78-cf26-45a6-8745-ca3f9f2fc564|position:9|techniques:Made in Blender, GIMP and Krita in Pop!_OS 20.04 LTS|title:Cosmic Fisherman
+
+
+:section Online fast graphics
+:description <p>Competitors had 2 hours to create an image with "safety regulations" theme.</p>
+:partyman-slug fast-graphics
+
+author:Partikle|image-file:online-fast-graphics/14-remember-them-masks.png|partyman-id:ab50ff73-7717-47f7-837b-f67689cc3adb|position:1|techniques:Photoshop CC|title:Remember them masks
+author:maxon / HBC|image-file:online-fast-graphics/13-six-more.png|partyman-id:6d469910-b80c-4077-b4e2-8bdfeebc5b51|position:2|techniques:Blender and Krita in Pop!_OS 20.04|title:Six more
+author:Darkki|image-file:online-fast-graphics/12-new-regulated-safe-for-work-toolkit.png|partyman-id:afc667e2-0570-4f84-9ed5-d75fec6e3856|position:3|techniques:Oculus medium, 3dsmax, photoshop, Corona (Renderer not virus :D:D:D)|title:New regulated safe for work toolkit
+author:Wiljami|image-file:online-fast-graphics/11-kuinka-monta-kalustetta-tarvitaan-vaihtamaan-lamppua.png|partyman-id:ce3e9f19-71d7-4e2f-8930-6dea6fdb4e7a|position:4|techniques:3ds max, corona renderer|title:Kuinka monta kalustetta tarvitaan vaihtamaan lamppua?
+author:tug|image-file:online-fast-graphics/08-turdhenge.png|partyman-id:22d2f9dc-4e7b-4a0e-980d-771526775a20|position:5|techniques:Blender 2.9|title:Turdhenge
+author:Felor|image-file:online-fast-graphics/10-falling-danger.png|partyman-id:cfa9824f-5d9b-438d-85f6-e1ad686b7c97|position:6|techniques:Blender Cycles, Photo Shop|title:Falling Danger
+author:Plasticbunny|image-file:online-fast-graphics/07-many-faces-of-safe-distancing.png|partyman-id:ed0b20d3-d29f-4540-9e2d-552233fd94b5|position:7|techniques:Blender, Procreate|title:Many faces of safe-distancing
+author:Neon|image-file:online-fast-graphics/03-safety-first.png|partyman-id:dd06d49e-0e23-4ba4-9d0c-0d99af7c3f21|position:8|techniques:Techniques: drawing in Photoshop|title:Safety First
+author:digimaalari|image-file:online-fast-graphics/09-covid-panic.png|partyman-id:62f16176-caca-47e2-abfb-e2369461ac4d|position:9|techniques:Painted in photoshop with wacom cintiq|title:Covid panic
+author:Zagupi|image-file:online-fast-graphics/05-mega-ram.png|partyman-id:2bdd0b4e-8753-4a1e-8a14-da01d96a090a|position:10|techniques:Blender + Krita|title:Mega Ram
+author:bataattimuusi|image-file:online-fast-graphics/04-boys-on-the-street.png|partyman-id:592ea9eb-3b08-4449-bd45-104be1eff019|position:11|techniques:krita, kiire|title:Boys on the street
+author:Noora|image-file:online-fast-graphics/06-they-re-watching.png|partyman-id:82100c6f-7723-465d-90ad-2bf0ce0d5cba|position:12|title:They're watching
+author:dexter of cellfish|image-file:online-fast-graphics/01-kypara.png|partyman-id:85cce667-1c04-4336-92a8-78dfda634887|position:13|techniques:Scooter - Back in the house! Also, safety first partypeople. Remeber to wear your kypäräs!<br/>(80x25 ANSI originally)|title:Kypärä
+author:ShiroiCheri|image-file:online-fast-graphics/02-mind-your-mind.png|partyman-id:a37b3d33-8262-408b-9bb7-fe8ae495a66c|position:14|techniques:Intuition, Krita, Wacom tablet|title:Mind your mind
+
+
+:section Online themed photo
+:partyman-slug themed-photo
+
+author:Speedu / Damones|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|position:1|title:14 Years of Bad Luck
+author:Wode / Doomsday|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|position:2|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+author:Midi|image-file:online-themed-photo/04_Red_Discs.jpg|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|position:3|techniques:Red discs and light|title:Red Discs
+author:Leia / Cellfish|image-file:online-themed-photo/03_Ray_of_Love.jpg|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|position:4|techniques:Greetings to In-Sect|title:Ray of Love
+author:SeraluoT|image-file:online-themed-photo/02_Meaning_of_light.jpg|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|position:5|title:Meaning of light
+author:eimink|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|position:6|techniques:iPhone 7 + Lightroom|title:Hack the Planet
 
 
 :section Online AssemblyTV
@@ -261,9 +240,12 @@ author:Bitplane Technomantes|partyman-id:ac590fe6-37c9-49a3-af6a-8f6d18d0ba26|te
 
 author:AssemblyTV|description:Assembly Online is on!</p><p>Miten online tapahtuma toimii? Mitä alustoja on käytössä? Workshopit, Esports, Creative ja Demoscene kisat, tsekkaa miten voit osallistua!|title:Assembly Online 101 ja avajaiset|youtube:0GOYHjJ9Yf0
 
+
 :section Talent Assembly casting
+:ranked false
 :author-in-title false
 :youtube-playlist PLJO4AtxKJiFMjgrZ9VtGEXh4rUwhWgQdy
+
 author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoitko aina kaveriporukan peleissä omien ja vihulaisten toimintaa? Eikö sanominen lopu kesken hitaammankaan pelin parissa? Etsimme seuraavaa talenttia, castaajaa, joka selostuksellaan pitää otteessaan pelin alkuminuuteista aina loppuratkaisuun asti!</p><p>Selostajaksi Assembly-studioon<br/>Asiantuntijaraati valitsee hakijoista voittajan, ja voittaja pääsee ammattiselostajan pariksi Assembly Onlinen päälähetykseen selostamaan lauantain Valorant casual turnauksen finaalia! Nyt on sinun tilaisuutesi päästä kokemaan miten ammattimaiset esports-tuotannot toteutetaan, ja tulla vilkaisemaan Assembly-studion kulissien taakse.|title:Talent Assembly Casting-kilpailu 2020 CSGO|youtube:WOTZq-xgnMQ
 author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoitko aina kaveriporukan peleissä omien ja vihulaisten toimintaa? Eikö sanominen lopu kesken hitaammankaan pelin parissa? Etsimme seuraavaa talenttia, castaajaa, joka selostuksellaan pitää otteessaan pelin alkuminuuteista aina loppuratkaisuun asti!</p><p>Selostajaksi Assembly-studioon<br/>Asiantuntijaraati valitsee hakijoista voittajan, ja voittaja pääsee ammattiselostajan pariksi Assembly Onlinen päälähetykseen selostamaan lauantain Valorant casual turnauksen finaalia! Nyt on sinun tilaisuutesi päästä kokemaan miten ammattimaiset esports-tuotannot toteutetaan, ja tulla vilkaisemaan Assembly-studion kulissien taakse.|title:Talent Assembly Casting-kilpailu 2020 Valorant|youtube:JZV_XemnjHI
 author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoitko aina kaveriporukan peleissä omien ja vihulaisten toimintaa? Eikö sanominen lopu kesken hitaammankaan pelin parissa? Etsimme seuraavaa talenttia, castaajaa, joka selostuksellaan pitää otteessaan pelin alkuminuuteista aina loppuratkaisuun asti!</p><p>Selostajaksi Assembly-studioon<br/>Asiantuntijaraati valitsee hakijoista voittajan, ja voittaja pääsee ammattiselostajan pariksi Assembly Onlinen päälähetykseen selostamaan lauantain Valorant casual turnauksen finaalia! Nyt on sinun tilaisuutesi päästä kokemaan miten ammattimaiset esports-tuotannot toteutetaan, ja tulla vilkaisemaan Assembly-studion kulissien taakse.|title:Talent Assembly Casting 2020 - CS:GO|youtube:xyHkFg0RJNI
@@ -271,7 +253,9 @@ author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoi
 author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoitko aina kaveriporukan peleissä omien ja vihulaisten toimintaa? Eikö sanominen lopu kesken hitaammankaan pelin parissa? Etsimme seuraavaa talenttia, castaajaa, joka selostuksellaan pitää otteessaan pelin alkuminuuteista aina loppuratkaisuun asti!</p><p>Selostajaksi Assembly-studioon<br/>Asiantuntijaraati valitsee hakijoista voittajan, ja voittaja pääsee ammattiselostajan pariksi Assembly Onlinen päälähetykseen selostamaan lauantain Valorant casual turnauksen finaalia! Nyt on sinun tilaisuutesi päästä kokemaan miten ammattimaiset esports-tuotannot toteutetaan, ja tulla vilkaisemaan Assembly-studion kulissien taakse.|title:Talent Assembly Casting 2020 - LoL|youtube:_JjvXUwKudU
 author:AssemblyTV|description:Assembly Online 2020 14-18.10.2020</p><p>Kommentoitko aina kaveriporukan peleissä omien ja vihulaisten toimintaa? Eikö sanominen lopu kesken hitaammankaan pelin parissa? Etsimme seuraavaa talenttia, castaajaa, joka selostuksellaan pitää otteessaan pelin alkuminuuteista aina loppuratkaisuun asti!</p><p>Selostajaksi Assembly-studioon<br/>Asiantuntijaraati valitsee hakijoista voittajan, ja voittaja pääsee ammattiselostajan pariksi Assembly Onlinen päälähetykseen selostamaan lauantain Valorant casual turnauksen finaalia! Nyt on sinun tilaisuutesi päästä kokemaan miten ammattimaiset esports-tuotannot toteutetaan, ja tulla vilkaisemaan Assembly-studion kulissien taakse.|title:Talent Assembly Casting 2020 - Valorant|youtube:CLndyyi_nbM
 
+
 :section Summer Loves Demoscene
+:ranked false
 :author-in-title false
 :description <p>Regular Assembly Summer event program was moved to October. Demoscene program from the past was still broadcasted over the Internet.</p>
 :manage-youtube-descriptions false
