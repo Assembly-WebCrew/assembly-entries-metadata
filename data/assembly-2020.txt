@@ -173,17 +173,17 @@ author:Yksikkö 303|partyman-id:649e7b03-dd66-487e-9a17-524d27fdb3bd|position:17
 :manage-youtube-descriptions true
 :partyman-slug tracked-music
 
-author:laamaa|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|position:1|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
-author:Mibri / Proxima|partyman-id:bc15f144-9719-4ce0-9348-e2aabef44b49|position:2|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
-author:Roz / Fit ^ Byterapers|partyman-id:3402fc27-897f-4525-841f-5379c637a7ac|position:3|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
-author:Chipremacy|partyman-id:59f75f04-c050-454c-b623-111fe8b0b2ae|position:4|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
-author:Catonator|partyman-id:d1d5bec8-c772-4d9e-b04f-ea6e417596e2|position:5|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
-author:rawArgon|partyman-id:59f7b938-d757-4180-9f14-bd271b318df3|position:6|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
-author:e!ghtbm|partyman-id:fb4d5138-ec8c-489c-bdaa-d1a631e814cc|position:7|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
-author:Juippi / faemiyah|partyman-id:ab9bae43-3930-4170-a81f-f497632db038|position:8|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
-author:la_mettrie / cms|partyman-id:ce767c68-4ff8-4d54-8b4d-f054ebfc7203|position:9|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
-author:Synaesthesia|partyman-id:b0087945-bc65-4835-8cbd-59c60805f2c0|position:10|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
-author:deetsay|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|position:11|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
+author:laamaa|partyman-id:574d9ab8-b11b-4894-9e35-4d8ae5792bcd|position:1|sceneorg:/parties/2020/assembly20/music_tracked/laamaa_-_talossa2_edit.zip|techniques:144kb .IT, created with Schism Tracker<br/>Uses IT 2.14 filters heavily, so requires a Pentium MMX for optimum experience!|title:talossa II (edit)|youtube:WKrabb-jdbc
+author:Mibri / Proxima|partyman-id:bc15f144-9719-4ce0-9348-e2aabef44b49|position:2|sceneorg:/parties/2020/assembly20/music_tracked/eldon_square_stinkin_park.zip|techniques:Nu metal, kicking and screaming its way to your Amiga. Kerrang! magazine would have given this five 'K's had it been released in the year 2000, but you can vote however you want, I don't care, you're not even my real dad.|title:Eldon Square (Stinkin' Park)|youtube:j0OXmqRtcxM
+author:Roz / Fit ^ Byterapers|partyman-id:3402fc27-897f-4525-841f-5379c637a7ac|position:3|sceneorg:/parties/2020/assembly20/music_tracked/roz-siemen.zip|techniques:14 ch XM, FT2 Clone, Hydrasynth + Mopho|title:Siemen|youtube:eucUAiNafWg
+author:Chipremacy|partyman-id:59f75f04-c050-454c-b623-111fe8b0b2ae|position:4|sceneorg:/parties/2020/assembly20/music_tracked/pressfiretorock.zip|techniques:FastTracker II Clone (song) + Logic Pro X (samples)|title:Press Fire to Rock|youtube:sov22kdAVVQ
+author:Catonator|partyman-id:d1d5bec8-c772-4d9e-b04f-ea6e417596e2|position:5|sceneorg:/parties/2020/assembly20/music_tracked/cat_afterm.xm|techniques:OpenMPT, synths, pain|title:Aftermath|youtube:Qr4XZo8v35U
+author:rawArgon|partyman-id:59f7b938-d757-4180-9f14-bd271b318df3|position:6|sceneorg:/parties/2020/assembly20/music_tracked/silver_salmon-snake_etc_xm.zip|techniques:Fasttracker II clone, surly raw waveforms &amp; crunchy samples|title:Silver Salmon-Snake's Stellar Lawnmower|youtube:0HfybpywEm8
+author:e!ghtbm|partyman-id:fb4d5138-ec8c-489c-bdaa-d1a631e814cc|position:7|sceneorg:/parties/2020/assembly20/music_tracked/polarstern_brutalism.xm|techniques:A lot of the samples for this tune were created on the analogue gear f.e. Microbrute with the June-60 chorus pedal etc. Enjoy listening !|title:polarstern brutalism|youtube:-nL0UmjNzYw
+author:Juippi / faemiyah|partyman-id:ab9bae43-3930-4170-a81f-f497632db038|position:8|sceneorg:/parties/2020/assembly20/music_tracked/nouse.it|techniques:Schism Tracker|title:No use trying|youtube:zIkneUp3ccQ
+author:la_mettrie / cms|partyman-id:ce767c68-4ff8-4d54-8b4d-f054ebfc7203|position:9|sceneorg:/parties/2020/assembly20/music_tracked/la_mettrie-descending_to_the_bit-level.zip|techniques:32 channel Impulse Tracker module made mostly with Schism Tracker.|title:Descending to the bit-level|youtube:8HbwvApubBs
+author:Synaesthesia|partyman-id:b0087945-bc65-4835-8cbd-59c60805f2c0|position:10|sceneorg:/parties/2020/assembly20/music_tracked/synesthesia_of_rift_-_darkness_syndrome.zip|techniques:Gothic dnb for mortals.|title:Darkness Syndrome|youtube:d_U-qbvE9kE
+author:deetsay|partyman-id:d2b3bea3-6ba0-4b89-b9e4-000845b71482|position:11|sceneorg:/parties/2020/assembly20/music_tracked/blob_rockster.mod|techniques:Amiga 4 channels 300kb, ulikolkkisamples|title:Blob Rockster|youtube:xw2ldClQpg0
 
 
 :section Online freestyle graphics
