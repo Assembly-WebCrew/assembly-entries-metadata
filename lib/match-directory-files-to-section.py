@@ -1,7 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import argparse
 import asmmetadata
+import logging
 import os
 import pyjarowinkler.distance
 import re
@@ -53,6 +54,9 @@ def main(argv):
     entry_data = asmmetadata.parse_file(open(args.datafile, "r"))
 
     section = entry_data.getSection(args.section)
+    if section is None:
+        logging.error("No section with key %r", args.section)
+        return os.EX_DATAERR
 
     for _, _, filenames in os.walk(args.directory):
         filenames = [x for x in filenames if not x.endswith(".diz")]

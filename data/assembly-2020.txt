@@ -5,17 +5,17 @@
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2020 PC computer.</p>
 :partyman-slug demo
 
-author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|position:1|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream|youtube:a6VWul2AXZ8
-author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|position:2|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity|youtube:3c_LmwkiWDk
-author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|position:3|techniques:Made with Notch.|title:Demons|youtube:Mce5j71xBhM
-author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|position:4|techniques:Windows, Unreal Engine|title:Superwide Reality|youtube:9JYsCnbjlDA
-author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|position:5|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction|youtube:BfGD-uoG0Ng
-author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|position:6|title:Stranger|youtube:XBhkRT0y5pI
-author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|position:7|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork|youtube:4by04c7_aPw
-author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|position:8|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man|youtube:KbGSn6lA0b8
-author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|position:9|techniques:greetings to the hypnotoad|title:Bad Brain Sector|youtube:4OyXPiCc07g
-author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|position:10|techniques:Win, DX8(bug), FL|title:Attempt8|youtube:0mIhKiuhVy8
-author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|position:11|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
+author:adapt|partyman-id:252e448b-5f39-4ef9-bf38-fda1eabe176f|position:1|sceneorg:/parties/2020/assembly20/demo/adaptemberdreamv10.zip|techniques:It was a different fall, and we saw an ember dream. Dream on and demo.|title:ember dream|youtube:a6VWul2AXZ8
+author:MFX / DCS / RNO / HOLON|partyman-id:5dbcaee9-a24b-40fc-9741-ae6920f46605|position:2|sceneorg:/parties/2020/assembly20/demo/if_there_was_no_gravity.zip|techniques:Made with cables.gl. Contains WebGL and cheese.|title:If There Was No Gravity|youtube:3c_LmwkiWDk
+author:TPOLM|partyman-id:c1b6e898-ee8f-4278-863f-9ff979afa6fb|position:3|sceneorg:/parties/2020/assembly20/demo/tpolm-demons.zip|techniques:Made with Notch.|title:Demons|youtube:Mce5j71xBhM
+author:Astral|partyman-id:311fca0f-929f-48a5-98d1-f8bff322f7d1|position:4|sceneorg:/parties/2020/assembly20/demo/superwidereality.zip|techniques:Windows, Unreal Engine|title:Superwide Reality|youtube:9JYsCnbjlDA
+author:Wide Load|partyman-id:933dd903-7b72-4bf9-b6f4-7d45551ff88f|position:5|sceneorg:/parties/2020/assembly20/demo/pulse_fiction_by_wide_load.zip|techniques:Webgl2, Typescript, Konvergence Demo Engine 2.0|title:Pulse Fiction|youtube:BfGD-uoG0Ng
+author:Eastgate|partyman-id:47c7ccf0-1c2f-440d-a2c0-9796ac23ccc0|position:6|sceneorg:/parties/2020/assembly20/demo/eg8-strngr-v2.zip|title:Stranger|youtube:XBhkRT0y5pI
+author:Peetu Nuottajärvi|partyman-id:9cc0b67d-7a19-4da2-9373-7455087dc42d|position:7|sceneorg:/parties/2020/assembly20/demo/clockworkrelease.zip|techniques:Windows, C++, OpenGL (glfw, glad)|title:Clockwork|youtube:4by04c7_aPw
+author:XKikkel7|partyman-id:162ca1cb-d281-48d0-ab68-ba7670e85358|position:8|sceneorg:/parties/2020/assembly20/demo/peter_the_man_by_xkikkel7.zip|techniques:All the effects are pure fragment shaders. <br/>Unity3d was only used to display them and to display the texts and to play the music.<br/>Peter the Man, Peter the Spaceman|title:Peter the Man|youtube:KbGSn6lA0b8
+author:Humane|partyman-id:389e760c-cf1f-433a-b370-992bdadfb219|position:9|sceneorg:/parties/2020/assembly20/demo/hmn-bbs.zip|techniques:greetings to the hypnotoad|title:Bad Brain Sector|youtube:4OyXPiCc07g
+author:KoomaDot|partyman-id:19d9cd75-b245-43a1-b7cd-5f7126849a4b|position:10|sceneorg:/parties/2020/assembly20/demo/attempt8_by_koomadot.zip|techniques:Win, DX8(bug), FL|title:Attempt8|youtube:0mIhKiuhVy8
+author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|position:11|sceneorg:/parties/2020/assembly20/demo/oh-crap-demo.zip|techniques:Created for Windows with Processing 3, models created with Blender and all animations/effects/shaders custom-coded|title:Oh crap, Assembly is in two days!|youtube:z3IZBkvPDO0
 
 
 :section Online oldskool demo
@@ -96,9 +96,9 @@ author:Kultisti & Aries W|partyman-id:f24af1b7-c112-4b5a-90f3-f4d7387cbcb5|posit
 
 :section Online acid music
 :section-thumbnail music-thumbnail-online
-:partyman-slug acid-music
 :description DJ set from Norway with commentary from Denmark in a party from Finland. Made in collaboration with TRSAC.
 :manage-youtube-descriptions false
+:partyman-slug acid-music
 
 author:Roz / Fit ^ Byterapers|partyman-id:1205405d-3f4b-4021-9ffb-735586e320a7|position:1|techniques:Cubase 10.5 + TB-03 + Boss BX-800 + Hydrasynth + Omnisphere|title:Unvalidated Disko|youtube:QblfQ1ROmFY#t=25m24s
 author:eladamri ^ kvasigen|partyman-id:3f9f2b39-4fad-47ee-ad38-3c693a2f4baa|position:2|techniques:mwuhahaha!|title:Restraints|youtube:QblfQ1ROmFY#t=48m23s
