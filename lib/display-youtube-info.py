@@ -9,7 +9,7 @@ import sys
 import typing
 
 
-def print_sections(entry_data: asmmetadata.EntryYear, stream: io.TextIOBase):
+def print_sections(entry_data: asmmetadata.EntryYear, stream: typing.TextIO):
     for section in entry_data.sections:
         stream.write("%s %s\n" % (section["key"], section["name"]))
 
@@ -25,10 +25,12 @@ class Range:
         if self.start is None and self.end is None:
             return True
         if self.start is None:
+            assert self.end is not None
             if index <= self.end:
                 return True
             return False
         if self.end is None:
+            assert self.start is not None
             if self.start <= index:
                 return True
             return False
@@ -38,7 +40,7 @@ class Range:
         return "Range<start=%r,end=%r>" % (self.start, self.end)
 
 class Ranges:
-    ranges: list[Range] = []
+    ranges: typing.List[Range] = []
 
     def __init__(self, ranges):
         self.ranges = ranges
@@ -175,7 +177,7 @@ def main(argv) -> int:
         return os.EX_OK
 
     if not args.section:
-        sys.stderr.write("ERROR: need to give one of following sections as --section:\n")
+        sys.stderr.write("ERROR: need to give one of following sections as --section\n\n")
         print_sections(entry_data, sys.stderr)
         return os.EX_USAGE
     section = entry_data.getSection(args.section)
