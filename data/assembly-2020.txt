@@ -23,9 +23,9 @@ author:Nanohenry|partyman-id:21c1e587-16dc-417e-937a-344f798180c5|position:11|sc
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>Limitation for Oldskool demo competition is a predefined older hardware.</p>
 :partyman-slug oldskool-demo
 
-author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|position:1|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:coIEZ1iLTfA
-author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|position:2|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:R13RSBE57K8
-author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|position:3|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler|youtube:fMSv7RW4xE0
+author:Siesta|partyman-id:65127a86-e63d-4c65-a130-05a47827aa99|position:1|sceneorg:/parties/2020/assembly20/oldskool/fantomas_by_siesta.zip|techniques:A demo for the Commodore 64.|title:Fantomas|youtube:coIEZ1iLTfA
+author:Genesis Project|partyman-id:e1a371c1-fc5f-4511-8b81-5f3b1368d82e|position:2|sceneorg:/parties/2020/assembly20/oldskool/futuro_mz_by_genesis_project.zip|techniques:Demo for Sharp MZ-700.<br/>1982 home computer, 40x25 textmode only, no redefinable chars, 8 ugly RGB colours.|title:Futuro MZ|youtube:R13RSBE57K8
+author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|position:3|sceneorg:/parties/2020/assembly20/oldskool/renaissancefiller_by_eimink.zip|techniques:Gameboy, GB Studio Version 2 Beta and some "party"coding.|title:Renaissance Filler|youtube:fMSv7RW4xE0
 
 
 :section Online 4k intro
@@ -33,11 +33,11 @@ author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|position:3|techni
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 4k intro competition these programs are limited in size to maximum 4096 bytes on a high-end 2020 PC computer. 4096 bytes is comparable to the amount of text on one A4 sized page and therefore takes real skill to fit great effects and music to that size.</p>
 :partyman-slug 4k-intro
 
-author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|position:1|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
-author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|position:2|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
-author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|position:3|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
-author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|position:4|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
-author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|position:5|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
+author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|position:1|sceneorg:/parties/2020/assembly20/in4k/hbc-00020_virgo_1302.zip|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
+author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|position:2|sceneorg:/parties/2020/assembly20/in4k/shroud.zip|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
+author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|position:3|sceneorg:/parties/2020/assembly20/in4k/hagirihanzo.zip|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
+author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|position:4||sceneorg:/parties/2020/assembly20/in4k/oo__trisu_best.zip|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
+author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|position:5|sceneorg:/parties/2020/assembly20/in4k/koronalinko.exe|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
 
 
 :section Online 1k intro
