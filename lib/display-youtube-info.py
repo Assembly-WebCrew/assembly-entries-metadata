@@ -142,23 +142,28 @@ def type_entry_range(value) -> Ranges:
     return Ranges(ranges)
 
 
-def print_section_entries(ranges: Ranges, section):
+def print_section_entries(ranges: Ranges, section, interactive: bool):
     print("%d %s" % (section["year"], section["name"]))
     for index, entry in enumerate(section["entries"]):
         if not entry.get("youtube"):
             continue
+        if not ranges.matches(index + 1):
+            continue
         youtube_info = asmmetadata.get_youtube_info_data(entry)
-        print("########## %d" % index)
+        print("########## %d" % (index + 1))
         print("https://studio.youtube.com/video/%s/edit" % entry["youtube"])
         print(youtube_info["title"])
         print()
         print(youtube_info["description"])
+        if interactive:
+            input()
 
 def main(argv) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--list", action="store_true")
     parser.add_argument("--ranges", type=type_entry_range, default=Ranges([Range()]))
     parser.add_argument("--section")
+    parser.add_argument("-i", "--interactive", action="store_true")
     parser.add_argument("datafile")
     args = parser.parse_args(argv[1:])
 
@@ -174,6 +179,9 @@ def main(argv) -> int:
                 "ERROR: section %r is not part of the known sections:\n" % args.section)
             print_sections(entry_data, sys.stderr)
             return os.EX_USAGE
+        for entry in section["entries"]:
+            print("%02d %s" % (
+                entry.get("position", 0), asmmetadata.get_entry_name(entry)))
         return os.EX_OK
 
     if not args.section:
@@ -187,7 +195,7 @@ def main(argv) -> int:
         print_sections(entry_data, sys.stderr)
         return os.EX_USAGE
 
-    print_section_entries(args.ranges, section)
+    print_section_entries(args.ranges, section, args.interactive)
     return os.EX_OK
 
 if __name__ == "__main__":
