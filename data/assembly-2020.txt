@@ -66,9 +66,9 @@ author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|position:3|scen
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Real wild demo competition the demo platform can be anything that can run real time moving images, like mobile phones, oscilloscopes, browsers or even platforms that the competitor has built himself.</p>
 :partyman-slug real-wild
 
-author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|position:1|techniques:Platform: Timex Datalink 150 wrist watch<br/>Tools: asm6805, ida pro, custom tools|title:watch out|youtube:jKgTkgPjp6A
-author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|position:2|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge|youtube:z1In2mX4R_Y
-author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|position:3|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office|youtube:RZHBa3aHyFs
+author:pasi toska|partyman-id:dcc7cd87-730c-42da-800b-bb0946930ca0|position:1|sceneorg:/parties/2020/assembly20/wild/watchout.zip|techniques:Platform: Timex Datalink 150 wrist watch<br/>Tools: asm6805, ida pro, custom tools|title:watch out|youtube:jKgTkgPjp6A
+author:Abaddon|partyman-id:c9b51fd9-105c-40d8-97f3-95ca3f3f5b45|position:2|sceneorg:/parties/2020/assembly20/wild/crevenge.zip|techniques:software rendering and softsynth:<br/>My 25-years-old dream came true...<br/>HiRes-TrueColor realtime raytracing with fast SSE code<br/>three different scenes sync to PC speaker PWM music<br/>all in 1024 bytes only!<br/>boot your FreeDOS and enjoy the show!|title:Chrome Revenge|youtube:z1In2mX4R_Y
+author:Mielikki|partyman-id:194fd515-835d-455e-bb67-88ee101528f6|position:3|sceneorg:/parties/2020/assembly20/wild/excel.zip|techniques:Microsoft Excel for Microsoft 365 MSO (16.0.13231.20250) /Windows 10 64bit / 1920 * 1080 / VBA|title:The Office|youtube:RZHBa3aHyFs
 
 
 :section Online short film
