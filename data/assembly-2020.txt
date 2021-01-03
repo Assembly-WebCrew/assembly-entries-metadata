@@ -223,12 +223,12 @@ author:ShiroiCheri|image-file:online-fast-graphics/02-mind-your-mind.png|partyma
 :section Online themed photo
 :partyman-slug themed-photo
 
-author:Speedu / Damones|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|position:1|title:14 Years of Bad Luck
-author:Wode / Doomsday|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|position:2|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
-author:Midi|image-file:online-themed-photo/04_Red_Discs.jpg|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|position:3|techniques:Red discs and light|title:Red Discs
-author:Leia / Cellfish|image-file:online-themed-photo/03_Ray_of_Love.jpg|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|position:4|techniques:Greetings to In-Sect|title:Ray of Love
-author:SeraluoT|image-file:online-themed-photo/02_Meaning_of_light.jpg|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|position:5|title:Meaning of light
-author:eimink|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|position:6|techniques:iPhone 7 + Lightroom|title:Hack the Planet
+author:Speedu / Damones|image-file:online-themed-photo/05_14_Years_Of_Bad_Luck.jpg|partyman-id:873f08e2-d6a5-4b1e-aad8-37464511fed1|position:1|sceneorg:/parties/2020/assembly20/photo/14yearsofbadluck.zip|title:14 Years of Bad Luck
+author:Wode / Doomsday|image-file:online-themed-photo/06_a_blink_with_the_stars.jpg|partyman-id:6a27b11e-145a-48d9-9eab-0adf4eb090f3|position:2|sceneorg:/parties/2020/assembly20/photo/a_blink_with_the_stars.zip|techniques:Olympus E-M1 Mark II, ISO 100, 75mm, F/1.8, 15 sec|title:"a blink, with the stars"
+author:Midi|image-file:online-themed-photo/04_Red_Discs.jpg|partyman-id:6283f50e-0df2-4514-8985-6d3018d1d0db|position:3|sceneorg:/parties/2020/assembly20/photo/reddiscs.zip|techniques:Red discs and light|title:Red Discs
+author:Leia / Cellfish|image-file:online-themed-photo/03_Ray_of_Love.jpg|partyman-id:a6f62823-ca56-48d8-902b-1dafad01787c|position:4|sceneorg:/parties/2020/assembly20/photo/rayoflove.zip|techniques:Greetings to In-Sect|title:Ray of Love
+author:SeraluoT|image-file:online-themed-photo/02_Meaning_of_light.jpg|partyman-id:359a3921-ad26-4902-a0c7-b8f10f68a45c|position:5|sceneorg:/parties/2020/assembly20/photo/meaningoflight.zip|title:Meaning of light
+author:eimink|image-file:online-themed-photo/01_hack_the_planet.jpg|partyman-id:f7b933e4-3e4f-455d-8b34-72138eb3cf41|position:6|sceneorg:/parties/2020/assembly20/photo/hack_the_planet_by_eimink.zip|techniques:iPhone 7 + Lightroom|title:Hack the Planet
 
 
 :section Online AssemblyTV
