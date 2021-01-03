@@ -423,83 +423,89 @@ def get_archive_link_entry(entry: Entry) -> str:
         entry["section"]["year"], entry["section"]["key"], key)
 
 
+def _print_section_metadata(outfile: typing.TextIO, section: Section):
+    outfile.write("\n:section %s\n" % section['name'])
+    if "party-name" in section:
+        outfile.write(":party-name %s\n" % section["party-name"])
+    if "compo-name" in section:
+        outfile.write(":compo-name %s\n" % section["compo-name"])
+    if 'ranked' in section:
+        ranked_text = "true"
+        if section["ranked"] is False:
+            ranked_text = "false"
+        outfile.write(":ranked %s\n" % ranked_text)
+    if 'section-thumbnail' in section:
+        outfile.write(":section-thumbnail %s\n" % section["section-thumbnail"])
+    if 'author-in-title' in section:
+        author_in_title_text = "true"
+        if section["author-in-title"] is False:
+            author_in_title_text = "false"
+        outfile.write(":author-in-title %s\n" % author_in_title_text)
+    if 'youtube-playlist' in section:
+        outfile.write(
+            ":youtube-playlist %s\n" % section['youtube-playlist'])
+    if 'pms-category' in section:
+        outfile.write(":pms-category %s\n" % section['pms-category'])
+    if 'elaine-category' in section:
+        outfile.write(":elaine-category %s\n" % section['elaine-category'])
+    if 'description' in section:
+        outfile.write(
+            ":description %s\n" % section['description'])
+    if 'sceneorg' in section:
+        outfile.write(":sceneorg %s\n" % section['sceneorg'])
+    if 'ongoing' in section:
+        ongoing_text = "false"
+        if section['ongoing'] is True:
+            ongoing_text = "true"
+        outfile.write(":ongoing %s\n" % ongoing_text)
+    if 'public' in section:
+        public_text = "true"
+        if section['public'] is False:
+            public_text = "false"
+        outfile.write(":public %s\n" % public_text)
+    if 'public-after' in section:
+        public_after_text = section['public-after'].strftime("%Y-%m-%d %H:%M%z")
+        outfile.write(":public-after %s\n" % public_after_text)
+    if 'galleriafi' in section:
+        outfile.write(":galleriafi %s\n" % section['galleriafi'])
+    if 'manage-youtube-descriptions' in section:
+        manage_text = "true"
+        if section['manage-youtube-descriptions'] is False:
+            manage_text = "false"
+        outfile.write(":manage-youtube-descriptions %s\n" % manage_text)
+    if 'partyman-slug' in section:
+        outfile.write(":partyman-slug %s\n" % section['partyman-slug'])
+
+    outfile.write("\n")
+
+
+def _print_section_entries(outfile: typing.TextIO, section: Section):
+    for entry in section['entries']:
+        del entry['section']
+
+        for key, value in entry.items():
+            if value is None:
+                del entry[key]
+
+        for key, value in entry.items():
+            entry[key] = escape_value("%s" % value)
+
+        parts = sorted(
+            "%s:%s" % (key, value) for key, value in entry.items())
+        outline = "|".join(parts)
+        outfile.write("%s\n" % outline)
+
+    outfile.write("\n")
+
 def print_metadata(outfile: typing.TextIO, year_entry_data: EntryYear):
     outfile.write(":year %d\n" % year_entry_data.year)
 
     for section in year_entry_data.sections:
-        outfile.write("\n:section %s\n" % section['name'])
-        if "party-name" in section:
-            outfile.write(":party-name %s\n" % section["party-name"])
-        if "compo-name" in section:
-            outfile.write(":compo-name %s\n" % section["compo-name"])
-        if 'ranked' in section:
-            ranked_text = "true"
-            if section["ranked"] is False:
-                ranked_text = "false"
-            outfile.write(":ranked %s\n" % ranked_text)
-        if 'section-thumbnail' in section:
-            outfile.write(":section-thumbnail %s\n" % section["section-thumbnail"])
-        if 'author-in-title' in section:
-            author_in_title_text = "true"
-            if section["author-in-title"] is False:
-                author_in_title_text = "false"
-            outfile.write(":author-in-title %s\n" % author_in_title_text)
-        if 'youtube-playlist' in section:
-            outfile.write(
-                ":youtube-playlist %s\n" % section['youtube-playlist'])
-        if 'pms-category' in section:
-            outfile.write(":pms-category %s\n" % section['pms-category'])
-        if 'elaine-category' in section:
-            outfile.write(":elaine-category %s\n" % section['elaine-category'])
-        if 'description' in section:
-            outfile.write(
-                ":description %s\n" % section['description'])
-        if 'sceneorg' in section:
-            outfile.write(":sceneorg %s\n" % section['sceneorg'])
-        if 'ongoing' in section:
-            ongoing_text = "false"
-            if section['ongoing'] is True:
-                ongoing_text = "true"
-            outfile.write(":ongoing %s\n" % ongoing_text)
-        if 'public' in section:
-            public_text = "true"
-            if section['public'] is False:
-                public_text = "false"
-            outfile.write(":public %s\n" % public_text)
-        if 'public-after' in section:
-            public_after_text = section['public-after'].strftime("%Y-%m-%d %H:%M%z")
-            outfile.write(":public-after %s\n" % public_after_text)
-        if 'galleriafi' in section:
-            outfile.write(":galleriafi %s\n" % section['galleriafi'])
-        if 'manage-youtube-descriptions' in section:
-            manage_text = "true"
-            if section['manage-youtube-descriptions'] is False:
-                manage_text = "false"
-            outfile.write(":manage-youtube-descriptions %s\n" % manage_text)
-        if 'partyman-slug' in section:
-            outfile.write(":partyman-slug %s\n" % section['partyman-slug'])
-
-        outfile.write("\n")
-
-        for entry in section['entries']:
-            del entry['section']
-
-            for key, value in entry.items():
-                if value is None:
-                    del entry[key]
-
-            for key, value in entry.items():
-                entry[key] = escape_value("%s" % value)
-
-            parts = sorted(
-                "%s:%s" % (key, value) for key, value in entry.items())
-            outline = "|".join(parts)
-            outfile.write("%s\n" % outline)
-
-        outfile.write("\n")
+        _print_section_metadata(outfile, section)
+        _print_section_entries(outfile, section)
 
 
-def sort_entries(entries):
+def sort_entries(entries: typing.List[Entry]) -> typing.List[Entry]:
     return sorted(
         entries,
         key=lambda x: x.get('position', 999))
@@ -509,7 +515,7 @@ def get_galleriafi_path(entry):
     pass
 
 
-def get_galleriafi_filename(galleriafi_path):
+def get_galleriafi_filename(galleriafi_path: str) -> str:
     path_parts = galleriafi_path.split("/")
     image_filename = "%s-%s" % tuple(path_parts[-2:])
     return image_filename
@@ -555,7 +561,7 @@ def create_merged_image_base(start, entries):
         )
 
 
-def get_ordinal_suffix(number):
+def get_ordinal_suffix(number: int) -> str:
     suffixes = {
         1: 'st',
         2: 'nd',
@@ -735,7 +741,13 @@ def get_youtube_entry_title_description(entry):
     return {"title": get_entry_name(entry), "description": description}
 
 
-def get_youtube_metadata(entry):
+@dataclasses.dataclass
+class MetadataForYoutube:
+    tags: typing.Set[str]
+    category: str
+
+
+def _get_metadata_for_youtube(entry: Entry) -> MetadataForYoutube:
     tags = set(get_party_tags(
             entry['section']['year'], entry['section']['name']))
 
@@ -757,7 +769,10 @@ def get_youtube_metadata(entry):
     if "Seminars" in entry['section']['name']:
         category = "Tech"
 
-    return {"tags": tags, "category": category}
+    return MetadataForYoutube(
+        tags=tags,
+        category=category
+    )
 
 
 @dataclasses.dataclass
@@ -776,7 +791,7 @@ def get_youtube_info_data(entry: Entry) -> YoutubeInfo:
     else:
         youtube_metadata = get_youtube_entry_title_description(entry)
 
-    video_metadata = get_youtube_metadata(entry)
+    video_metadata = _get_metadata_for_youtube(entry)
 
     description = youtube_metadata["description"]
     description = description.replace("<", "-")
@@ -791,8 +806,8 @@ def get_youtube_info_data(entry: Entry) -> YoutubeInfo:
     return YoutubeInfo(
         title=title[:YOUTUBE_MAX_TITLE_LENGTH],
         description=description,
-        tags=list(video_metadata["tags"]),
-        category=video_metadata["category"],
+        tags=list(video_metadata.tags),
+        category=video_metadata.category,
     )
 
 
