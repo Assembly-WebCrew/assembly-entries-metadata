@@ -36,7 +36,7 @@ author:eimink|partyman-id:8c97dc98-c451-4bbc-8e42-e6ce9696fbc7|position:3|sceneo
 author:HBC|partyman-id:81bdd416-fefe-4239-ba8c-f2a615196dee|position:1|sceneorg:/parties/2020/assembly20/in4k/hbc-00020_virgo_1302.zip|techniques:Javascript, WebGL2|title:VIRGO 1302|youtube:3Qc24vbfS44
 author:Deliberate|partyman-id:267ebec9-7778-4883-b093-1801a34de28a|position:2|sceneorg:/parties/2020/assembly20/in4k/shroud.zip|techniques:Crinkler, GLSL, Oidos, Shader Minifier<br/>Nice, thicc precalc|title:Shroud|youtube:xCmlW8zSF2Y
 author:chlumpie|partyman-id:661df03c-ae28-41f9-bbe3-268b5bd8b40f|position:3|sceneorg:/parties/2020/assembly20/in4k/hagirihanzo.zip|techniques:we love you|title:hagiri hanzo|youtube:TX-wEbciRqY
-author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|position:4||sceneorg:/parties/2020/assembly20/in4k/oo__trisu_best.zip|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
+author:oo|partyman-id:f2c2335c-ae3e-4bdd-bcd6-34762204ad7f|position:4|sceneorg:/parties/2020/assembly20/in4k/oo__trisu_best.zip|techniques:GLSL, C++, Crinkler, 4klang, GNU Rocket and love.|title:Trisu Best|youtube:HrBqTgVLflA
 author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|position:5|sceneorg:/parties/2020/assembly20/in4k/koronalinko.exe|techniques:Compofiller studio|title:Koronalinko|youtube:GOZvZZUvtwc
 
 
@@ -45,20 +45,20 @@ author:Drai|partyman-id:be3e6082-505c-4761-af77-880ac44be06d|position:5|sceneorg
 :description <p>Demos are programs that generate multimedia presentations in real-time while demo is running. This separates demos from animations that are not limited with this real-time constraint.</p><p>In 1k intro competition these programs are limited in size to maximum 1024 bytes on a high-end 2020 PC computer. 1024 bytes is comparable to the amount of text that two or three paragraphs take.</p>
 :partyman-slug 1k-intro
 
-author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|position:1|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:ce6wrLYRanw
-author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|position:2|techniques:First and only release this year, got to make it count. Greets to<br/>everyone I couldn't meet at parties... Tools used: Crinkler, custom tools|title:Jumpgate 10.24|youtube:OmgjLRicszk
-author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|position:3|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes|youtube:gl3h3j_ockk
-author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|position:4|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:6_xgtStH2TE
-author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|position:5|title:Tranquility Falls|youtube:T6hZfqo4pEQ
+author:RIBBON|partyman-id:56497486-cf2c-4b4f-9d08-0935282e9a8d|position:1|sceneorg:/parties/2020/assembly20/in1k/monospace.zip|techniques:MONOSPACE: FLIPS DOTS WITH FEELINGS<br/>1021 bytes of JavaScript &amp; love|title:MONOSPACE|youtube:ce6wrLYRanw
+author:Seven/Fulcrum|partyman-id:5cd5f590-a76f-4d69-8fba-4b5ba55f23cf|position:2|sceneorg:/parties/2020/assembly20/in1k/jumpgate_10.24_by_fulcrum.zip|techniques:First and only release this year, got to make it count. Greets to<br/>everyone I couldn't meet at parties... Tools used: Crinkler, custom tools|title:Jumpgate 10.24|youtube:OmgjLRicszk
+author:Fit|partyman-id:9eefc09a-0a4a-4eb1-8da6-b7cbe38adf20|position:3|sceneorg:/parties/2020/assembly20/in1k/fire_and_eyes_1k.zip|techniques:The usual stuff, Crinkler etc. Big thanks to Asm organizing and all 1k makers!|title:Fire and Eyes|youtube:gl3h3j_ockk
+author:rawArgon|partyman-id:69c9546a-953f-47b8-b96b-5f13360f5394|position:4|sceneorg:/parties/2020/assembly20/in1k/palluratuhat.zip|techniques:JavaScript, UglifyJS3, pnginator|title:palluratuhat|youtube:6_xgtStH2TE
+author:Ivory Labs|partyman-id:b09283f0-2346-41e5-bdf2-85a04aa20375|position:5|sceneorg:/parties/2020/assembly20/in1k/tranquilityfalls.zip|title:Tranquility Falls|youtube:T6hZfqo4pEQ
 
 
 :section Online Pico-8 demo
 :youtube-playlist PLJO4AtxKJiFNT5jdjZFgICj8CdeRVN2FS
 :partyman-slug pico-8-demo
 
-author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|position:1|title:karkki8|youtube:WA6s3Sn0FiY
-author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|position:2|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
-author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|position:3|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
+author:rawArgon|partyman-id:733edbf3-324c-4ca7-8fdb-2f27e990e574|position:1|sceneorg:/parties/2020/assembly20/pico8/karkki8.zip|title:karkki8|youtube:WA6s3Sn0FiY
+author:Inversion|partyman-id:2340f651-bbb0-4eec-aeca-89598d038e8b|position:2|sceneorg:/parties/2020/assembly20/pico8/racerbeam.png|techniques:Done, with several bytes to spare. Pico 8 is delightful!|title:Racerbeam|youtube:hGSri-MLH5k
+author:Quadtrip|partyman-id:0c1f52f2-1e5e-4b60-a398-c28d56741902|position:3|sceneorg:/parties/2020/assembly20/pico8/rayofhope.p8.png|techniques:Using pumpuli's advanced PICO-8 music routines &amp; torus noise|title:A Tiny Ray of Hope|youtube:duWDiMJcu7c
 
 
 :section Online real wild demo
