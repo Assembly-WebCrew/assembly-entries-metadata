@@ -25,7 +25,7 @@ def is_image(filename: str) -> bool:
     return match_result and True or False
 
 
-def get_party_name(section) -> str:
+def get_party_name(section: Section) -> str:
     if "party-name" in section:
         return section["party-name"]
     year = section['year']
@@ -37,12 +37,13 @@ def get_party_name(section) -> str:
     else:
         return u"Assembly Summer %d" % year
 
-def get_competition_name(section) -> str:
+
+def get_competition_name(section: Section) -> str:
     if "compo-name" in section:
         return section["compo-name"]
     return section["name"]
 
-def get_party_tags(year, section_name) -> typing.List[str]:
+def get_party_tags(year: int, section_name: str) -> typing.List[str]:
     tags = []
     if year < 2007:
         tags.extend(["assembly", str(year), "asm%02d" % (year % 100), "Assembly %d" % year])
@@ -55,7 +56,7 @@ def get_party_tags(year, section_name) -> typing.List[str]:
     return tags
 
 
-def get_entry_name(entry) -> str:
+def get_entry_name(entry: Entry) -> str:
     title = entry['title']
     author = entry['author']
     if entry["section"].get("author-in-title", True):
@@ -65,7 +66,7 @@ def get_entry_name(entry) -> str:
     return name
 
 
-def get_content_types(section_name) -> typing.Set[str]:
+def get_content_types(section_name: str) -> typing.Set[str]:
     normalized_section_name = normalize_key(section_name)
 
     # Major non-computer generated recordings.
@@ -172,7 +173,7 @@ def get_content_types(section_name) -> typing.Set[str]:
     return set(types)
 
 
-def get_long_section_name(section) -> str:
+def get_long_section_name(section: Section) -> str:
     if "winter" in section["name"].lower():
         return u"AssemblyTV"
     elif "assemblytv" in section["name"].lower():
@@ -195,16 +196,18 @@ def normalize_key(value: str) -> str:
     return normalized
 
 
-def get_entry_key(entry) -> str:
+def get_entry_key(entry: Entry) -> str:
     if not entry.get("author"):
         return normalize_key(entry["title"])
     return normalize_key(u"%s-by-%s" % (entry['title'], entry['author']))
 
 
 class EntryYear(object):
+    entries: typing.List[Entry]
+    sections: typing.List[Section]
     year: int = 0
 
-    def __init__(self):
+    def __init__(self) -> None:
         self.sections = []
         self.entries = []
 
@@ -227,7 +230,7 @@ class EntryYear(object):
         self.sections.append(new_section)
         return new_section
 
-    def addEntry(self, section: Section, entryData):
+    def addEntry(self, section: Section, entryData: Entry) -> None:
         entryData['section'] = section
         section['entries'].append(entryData)
         self.entries.append(entryData)
@@ -423,7 +426,7 @@ def get_archive_link_entry(entry: Entry) -> str:
         entry["section"]["year"], entry["section"]["key"], key)
 
 
-def _print_section_metadata(outfile: typing.TextIO, section: Section):
+def _print_section_metadata(outfile: typing.TextIO, section: Section) -> None:
     outfile.write("\n:section %s\n" % section['name'])
     if "party-name" in section:
         outfile.write(":party-name %s\n" % section["party-name"])
@@ -479,7 +482,7 @@ def _print_section_metadata(outfile: typing.TextIO, section: Section):
     outfile.write("\n")
 
 
-def _print_section_entries(outfile: typing.TextIO, section: Section):
+def _print_section_entries(outfile: typing.TextIO, section: Section) -> None:
     for entry in section['entries']:
         del entry['section']
 
@@ -497,7 +500,7 @@ def _print_section_entries(outfile: typing.TextIO, section: Section):
 
     outfile.write("\n")
 
-def print_metadata(outfile: typing.TextIO, year_entry_data: EntryYear):
+def print_metadata(outfile: typing.TextIO, year_entry_data: EntryYear) -> None:
     outfile.write(":year %d\n" % year_entry_data.year)
 
     for section in year_entry_data.sections:
@@ -511,33 +514,27 @@ def sort_entries(entries: typing.List[Entry]) -> typing.List[Entry]:
         key=lambda x: x.get('position', 999))
 
 
-def get_galleriafi_path(entry):
-    pass
-
-
 def get_galleriafi_filename(galleriafi_path: str) -> str:
     path_parts = galleriafi_path.split("/")
     image_filename = "%s-%s" % tuple(path_parts[-2:])
     return image_filename
 
 
-def select_thumbnail_base(entry):
+def select_thumbnail_base(entry: Entry) -> typing.Optional[str]:
     youtube_id = get_clean_youtube_id(entry)
     if youtube_id:
         return 'youtube-thumbnails/%s' % youtube_id
     twitch_id = get_clean_twitch_id(entry)
     if twitch_id:
         return 'twitch-thumbnails/%s' % twitch_id
-    if 'dtv' in entry:
-        demoscenetv_thumb = cgi.parse_qs(entry['dtv'])['image'][0].split("/")[-1].split(".")[0]
-        return 'dtv-thumbnails/%s' % demoscenetv_thumb
     if 'webfile' in entry or 'image-file' in entry or 'galleriafi' in entry:
         filename = entry.get('webfile') or entry.get('image-file')
-        if entry.get("galleriafi"):
+        galleriafi_path = entry.get("galleriafi")
+        if galleriafi_path:
             normalized_section = normalize_key(entry["section"]["name"])
             filename = "%s/%s" % (
                 normalized_section,
-                get_galleriafi_filename(entry.get("galleriafi")))
+                get_galleriafi_filename(galleriafi_path))
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (normalize_key(entry['section']['name']), normalize_key(entry['title']), normalize_key(entry['author']))
         _, baseprefix_r = filename[::-1].split(".", 1)
@@ -545,20 +542,6 @@ def select_thumbnail_base(entry):
         if is_image(filename):
             return 'thumbnails/small/%s' % baseprefix
     return None
-
-
-def create_merged_image_base(start, entries):
-    merged_name = "|".join(
-        map(normalize_key,
-            map(lambda entry: "%s-by-%s" % (entry['title'], entry['author']),
-                entries)))
-    filenames_digest = hashlib.md5(merged_name).hexdigest()
-    return "merged-%s-%02d-%02d-%s" % (
-        entries[0]['section']['key'],
-        start,
-        start + len(entries) - 1,
-        filenames_digest,
-        )
 
 
 def get_ordinal_suffix(number: int) -> str:
@@ -572,7 +555,13 @@ def get_ordinal_suffix(number: int) -> str:
     return suffix
 
 
-def get_youtube_timestamps_title_description(youtube_entry):
+@dataclasses.dataclass
+class TitleDescriptionForYoutube:
+    title: str
+    description: str
+
+
+def get_youtube_timestamps_title_description(youtube_entry: Entry) -> TitleDescriptionForYoutube:
     youtube_id, _ = youtube_entry["youtube"].split("#")
     description = ""
     section = youtube_entry["section"]
@@ -629,10 +618,13 @@ def get_youtube_timestamps_title_description(youtube_entry):
     title = section["name"]
 
     title = "%s %s" % (party_name, section["name"])
-    return {"title": title, "description": description}
+    return TitleDescriptionForYoutube(
+        title=title,
+        description=description,
+    )
 
 
-def get_youtube_entry_title_description(entry):
+def get_youtube_entry_title_description(entry: Entry) -> TitleDescriptionForYoutube:
     title = entry['title']
     author = entry['author']
     section_name = entry['section']['name']
@@ -738,7 +730,10 @@ def get_youtube_entry_title_description(entry):
         description += "Youtube playlist: https://www.youtube.com/playlist?list=%s\n" % entry["section"]["youtube-playlist"]
     description += "This entry at Assembly Archive: %s\n" % get_archive_link_entry(entry)
     description += "Event website: https://www.assembly.org/\n"
-    return {"title": get_entry_name(entry), "description": description}
+    return TitleDescriptionForYoutube(
+        title=get_entry_name(entry),
+        description=description,
+    )
 
 
 @dataclasses.dataclass
@@ -787,18 +782,18 @@ def get_youtube_info_data(entry: Entry) -> YoutubeInfo:
     # Special handling for things that have timestamps to stream
     # captures:
     if "#t=" in entry["youtube"]:
-        youtube_metadata = get_youtube_timestamps_title_description(entry)
+        youtube_basic_info = get_youtube_timestamps_title_description(entry)
     else:
-        youtube_metadata = get_youtube_entry_title_description(entry)
+        youtube_basic_info = get_youtube_entry_title_description(entry)
 
     video_metadata = _get_metadata_for_youtube(entry)
 
-    description = youtube_metadata["description"]
+    description = youtube_basic_info.description
     description = description.replace("<", "-")
     description = description.replace(">", "-")
     description = description.strip()
 
-    title = youtube_metadata["title"]
+    title = youtube_basic_info.title
     title = title.replace("<", "-")
     title = title.replace(">", "-")
     title = title.strip()
@@ -811,8 +806,8 @@ def get_youtube_info_data(entry: Entry) -> YoutubeInfo:
     )
 
 
-def reorder_positioned_section_entries(inout_entries: typing.List[Entry]):
-    def _get_key(value):
+def reorder_positioned_section_entries(inout_entries: typing.List[Entry]) -> None:
+    def _get_key(value: Entry) -> int:
         return value.get("position", 99999)
     inout_entries.sort(key=_get_key)
 

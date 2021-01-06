@@ -1,8 +1,22 @@
 import asmmetadata
+import hashlib
 import optparse
 import os
 import os.path
 import sys
+
+def create_merged_image_base(start, entries):
+    merged_name = "|".join(
+        map(normalize_key,
+            map(lambda entry: "%s-by-%s" % (entry['title'], entry['author']),
+                entries)))
+    filenames_digest = hashlib.md5(merged_name).hexdigest()
+    return "merged-%s-%02d-%02d-%s" % (
+        entries[0]['section']['key'],
+        start,
+        start + len(entries) - 1,
+        filenames_digest,
+        )
 
 parser = optparse.OptionParser()
 
@@ -15,7 +29,7 @@ merge_limit = int(args[1])
 entry_data = asmmetadata.parse_file(sys.stdin)
 
 def create_merged_image(fileroot, start, entries):
-    outfile_base = asmmetadata.create_merged_image_base(start, entries)
+    outfile_base = create_merged_image_base(start, entries)
     out_filename_png = os.path.join(fileroot, "thumbnails/small/%s.png" % outfile_base)
     out_filename_jpeg = os.path.join(fileroot, "thumbnails/small/%s.jpeg" % outfile_base)
     thumbnail_paths = []
