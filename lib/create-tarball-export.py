@@ -127,16 +127,10 @@ def generate_section_description(
     return description
 
 
-@dataclasses.dataclass
-class ImageSize:
-    x: int
-    y: int
-
-
-def get_image_size(data: bytes) -> ImageSize:
+def get_image_size(data: bytes) -> JsonDict:
     image = PIL.Image.open(io.BytesIO(data))
     x, y = image.size
-    return ImageSize(x=x, y=y)
+    return {"x": x, "y": y}
 
 
 def meta_year_file(sections: typing.List[asmmetadata.Section]) -> typing.Tuple[str, JsonDict]:
