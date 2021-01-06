@@ -4,6 +4,7 @@ import argparse
 import asmmetadata
 import base64
 import collections
+import dataclasses
 import datetime
 import hashlib
 import html
@@ -11,13 +12,16 @@ import io
 import json
 import logging
 import os.path
-import PIL.Image
+import PIL.Image  # type: ignore
 import pytz
 import subprocess
 import sys
 import tarfile
+import typing
 import time
 import urllib
+
+JsonDict = typing.Dict[str, typing.Optional[typing.Any]]
 
 CURRENT_TIME = time.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -51,10 +55,18 @@ ExternalLinksSection = collections.namedtuple(
 
 
 class ExternalLinks:
-    def __init__(self):
+    sections: typing.List[asmmetadata.Section]
+
+    def __init__(self) -> None:
         self.sections = []
 
-    def add(self, section_name, contents, href, notes=""):
+    def add(
+            self,
+            section_name: str,
+            contents: str,
+            href: str,
+            notes: str=""
+    ) -> None:
         for section in self.sections:
             if section["name"] == section_name:
                 section["links"].append({
@@ -73,7 +85,7 @@ class ExternalLinks:
         })
 
 
-def add_to_tar(tar, filename, data):
+def add_to_tar(tar: tarfile.TarFile, filename: str, data: bytes) -> None:
     data_str = data
     info = tarfile.TarInfo(filename)
     info.size = len(data_str)
@@ -83,12 +95,12 @@ def add_to_tar(tar, filename, data):
     tar.addfile(info, io.BytesIO(data_str))
 
 
-def json_dumps(data):
+def json_dumps(data: JsonDict) -> bytes:
     return json.dumps(
         data, sort_keys=True, indent=2, separators=(',', ': ')).encode("utf-8")
 
 
-def select_smaller_thumbnail(fileprefix):
+def select_smaller_thumbnail(fileprefix: str) -> typing.Tuple[typing.Optional[bytes], typing.Optional[str]]:
     if not os.path.isfile(fileprefix + ".jpeg"):
         return None, None
     if not os.path.isfile(fileprefix + ".png"):
@@ -102,7 +114,9 @@ def select_smaller_thumbnail(fileprefix):
         return thumbnail_png, 'png'
 
 
-def generate_section_description(section_data, pms_path_template):
+def generate_section_description(
+        section_data: asmmetadata.Section,
+        pms_path_template: str) -> str:
     description = ''
     if 'description' in section:
         description += section['description']
@@ -113,20 +127,30 @@ def generate_section_description(section_data, pms_path_template):
     return description
 
 
-def get_image_size(data):
+@dataclasses.dataclass
+class ImageSize:
+    x: int
+    y: int
+
+
+def get_image_size(data: bytes) -> ImageSize:
     image = PIL.Image.open(io.BytesIO(data))
     x, y = image.size
-    return {"x": x, "y": y}
+    return ImageSize(x=x, y=y)
 
 
-def meta_year(sections):
+def meta_year_file(sections: typing.List[asmmetadata.Section]) -> typing.Tuple[str, JsonDict]:
     section_keys = [section["key"] for section in sections]
     return "meta.json", {
         "sections": section_keys,
     }
 
 
-def meta_section(section, included_entries, description):
+def meta_section_file(
+        section: asmmetadata.Section,
+        included_entries: typing.List[asmmetadata.Entry],
+        description: str,
+) -> typing.Tuple[str, JsonDict]:
     normalized_section = section['key']
     entry_keys = []
     for entry in included_entries:
@@ -143,7 +167,10 @@ def meta_section(section, included_entries, description):
     }
 
 
-def get_thumbnail_data(entry, size):
+def get_thumbnail_data(
+        entry: asmmetadata.Entry,
+        size: str,
+) -> typing.Tuple[typing.Optional[bytes], typing.Optional[str]]:
     thumbnail_base = asmmetadata.select_thumbnail_base(entry)
     thumbnail = None
     if thumbnail_base is not None:
@@ -164,7 +191,12 @@ def get_thumbnail_data(entry, size):
     return thumbnail, suffix
 
 
-def get_image(filename_archive_prefix, image_base, extra_prefix=""):
+def get_image(
+        filename_archive_prefix: str,
+        image_base: str,
+        extra_prefix: str="") -> typing.Tuple[
+            typing.Optional[bytes],
+            typing.Optional[JsonDict]]:
     viewfile, postfix = select_smaller_thumbnail(
         os.path.join(FILEROOT, image_base))
     if viewfile is None:
@@ -182,14 +214,16 @@ def get_image(filename_archive_prefix, image_base, extra_prefix=""):
 
 
 def get_images(
-        archive_dir,
-        filename_prefix,
-        image_base,
-        default_size,
-        extra_sizes,
-        extra_prefix=""):
+        archive_dir: str,
+        filename_prefix: str,
+        image_base: str,
+        default_size: str,
+        extra_sizes: typing.List[str],
+        extra_prefix: str="") -> typing.Tuple[
+            typing.List[typing.Tuple[str, bytes]],
+            JsonDict]:
     files = []
-    result = {}
+    result: JsonDict = {}
     default_file, default_data = get_image(
         filename_prefix, "%s-%s" % (image_base, default_size), extra_prefix)
     if default_file is None:
@@ -197,26 +231,40 @@ def get_images(
             filename_prefix, image_base, extra_prefix)
     if default_file is None:
         raise RuntimeError("No image for base %s" % image_base)
-    filename = "%s/%s" % (archive_dir, os.path.basename(
-        default_data["filename"]))
+    assert default_data is not None
+    default_filename = default_data["filename"]
+    assert default_filename is not None
+    filename = "%s/%s" % (
+        archive_dir, os.path.basename(default_filename))
     files.append((filename, default_file))
     result["default"] = default_data
-    result["sources"] = [default_data]
+    result_sources = [default_data]
     for extra_size in extra_sizes:
         filename_base = "%s-%s" % (image_base, extra_size)
         extra_file, extra_data = get_image(
             filename_prefix, filename_base, extra_prefix)
         if extra_file is None:
             continue
+        assert extra_data is not None
+        image_path = extra_data["filename"]
+        assert image_path is not None
         filename = "%s/%s" % (
-            archive_dir, os.path.basename(extra_data["filename"]))
+            archive_dir, os.path.basename(image_path))
         files.append((filename, extra_file))
-        result["sources"].append(extra_data)
+        result_sources.append(extra_data)
+    result["sources"] = result_sources
     return files, result
 
 
-def entry_position_description_factory(pms_vote_template):
-    def generator(entry, position_str):
+PositionDescriptor = typing.Callable[
+    [asmmetadata.Entry, typing.Optional[str]],
+    str]
+
+def entry_position_description_factory(
+        pms_vote_template: str) -> PositionDescriptor:
+    def generator(
+            entry: asmmetadata.Entry,
+            position_str: typing.Optional[str]) -> str:
         if not entry["section"].get("ranked", True):
             return ""
         description = ""
@@ -232,13 +280,19 @@ def entry_position_description_factory(pms_vote_template):
     return generator
 
 
-def calculate_checksum(data):
+def calculate_checksum(data: bytes) -> str:
     m = hashlib.sha256()
     m.update(data)
     return base64.urlsafe_b64encode(m.digest())[:6].decode("utf-8")
 
 
-def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
+def meta_entry(
+        outfile: tarfile.TarFile,
+        year: int,
+        entry: asmmetadata.Entry,
+        description_generator: PositionDescriptor,
+        music_thumbnails: typing.Optional[typing.Any]
+) -> typing.Optional[typing.Tuple[str, JsonDict]]:
     title = entry['title']
     author = entry.get('author', "author-will-be-revealed-later")
     section_name = entry['section']['name']
@@ -312,10 +366,11 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         }
     if entry.get('image-file') or entry.get('galleriafi'):
         image_file = entry.get('image-file')
-        if entry.get("galleriafi"):
+        galleriafi_path = entry.get("galleriafi")
+        if galleriafi_path:
             image_file = "%s/%s" % (
                 normalized_section,
-                asmmetadata.get_galleriafi_filename(entry.get("galleriafi")))
+                asmmetadata.get_galleriafi_filename(galleriafi_path))
         if image_file is None:
             image_file = "%s/%s.jpeg" % (normalized_section, normalized_name)
         if asmmetadata.is_image(image_file):
@@ -346,6 +401,11 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
             baseprefix = baseprefix_r[::-1]
             viewfile, postfix = select_smaller_thumbnail(
                 os.path.join(FILEROOT, 'thumbnails/large/%s' % baseprefix))
+            if viewfile is None:
+                logging.error(
+                    "Image file %s did not have an expected thumbnail",
+                    baseprefix)
+                raise RuntimeError("No thumbnail for image file")
             viewfile_basename = "%s.%s" % (normalized_name, postfix)
             viewfile_filename = "%s/%s/%s" % (
                 normalized_section, normalized_name, viewfile_basename)
@@ -454,7 +514,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         #locations += "<location type='download'>http://assembly.galleria.fi%s|Original image</location>" % (galleriafi)
 
     if not has_media:
-        return
+        return None
 
     has_thumbnail = False
     if entry.get('use-parent-thumbnail', False) is True:
@@ -462,6 +522,7 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
         thumbnails = music_thumbnails
     else:
         thumbnail_base = asmmetadata.select_thumbnail_base(entry)
+        assert thumbnail_base is not None
         archive_dir = "%s/%s" % (
             normalized_section, normalized_name)
         try:
@@ -471,15 +532,15 @@ def meta_entry(outfile, year, entry, description_generator, music_thumbnails):
                 thumbnail_base,
                 DEFAULT_THUMBNAIL_SIZE,
                 EXTRA_THUMBNAIL_WIDTHS)
-            for filename, data in files:
-                add_to_tar(outfile, filename, data)
+            for thumbnail_tar_filename, thumbnail_tar_data in files:
+                add_to_tar(outfile, thumbnail_tar_filename, thumbnail_tar_data)
             has_thumbnail = True
         except Exception as e:
             logging.warning(
                 "No thumbnail for %s: %s", thumbnail_base, e)
 
     if not has_thumbnail:
-        return
+        return None
 
     tags = set()
     entry_tags = entry.get('tags')
@@ -540,8 +601,8 @@ for section in entry_data.sections:
                 DEFAULT_THUMBNAIL_SIZE,
                 EXTRA_THUMBNAIL_WIDTHS,
                 "../../")
-            for filename, data in section_thumbnail_files:
-                add_to_tar(outfile, filename, data)
+            for thumbnail_tar_filename, data in section_thumbnail_files:
+                add_to_tar(outfile, thumbnail_tar_filename, data)
             section_thumbnails[section_thumbnail] = section_thumbnails_meta
         section_thumbnails_meta = section_thumbnails[section_thumbnail]
         for entry in sorted_entries:
@@ -562,13 +623,14 @@ for section in entry_data.sections:
         entry_filename, entry_metadata = entry_out
         add_to_tar(outfile, entry_filename, json_dumps(entry_metadata))
 
-    filename, data = meta_section(
+    entry_filename, entry_data_dict = meta_section_file(
         section,
         included_entries,
         section_description)
-    add_to_tar(outfile, filename, json_dumps(data))
+    tarfile_data = json_dumps(entry_data_dict)
+    add_to_tar(outfile, entry_filename, tarfile_data)
 
-year_filename, year_metadata = meta_year(included_sections)
+year_filename, year_metadata = meta_year_file(included_sections)
 add_to_tar(outfile, year_filename, json_dumps(year_metadata))
 outfile.close()
 with open(args.outfile, "wb") as out_tarball:
