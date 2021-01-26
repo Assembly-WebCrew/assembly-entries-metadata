@@ -3,6 +3,7 @@
 import asmmetadata
 import archivethumbnails
 import argparse
+import logging
 import multiprocessing
 import os
 import os.path
@@ -17,6 +18,7 @@ def main(argv):
     parser.add_argument("base_width", type=int)
     parser.add_argument("--no-height", action='store_true')
     parser.add_argument("--low-quality", action='store_true')
+    parser.add_argument("--face-detect-model", type=str)
     args = parser.parse_args(argv[1:])
 
     convert_params = []
@@ -47,6 +49,7 @@ def main(argv):
             archivethumbnails.ImageSize(
                 extra_width, extra_height, convert_params))
 
+    facedetect_calls = []
     create_thumbnail_calls = []
     entry_data = asmmetadata.parse_file(open(args.datafile))
     for entry in entry_data.entries:
@@ -77,6 +80,18 @@ def main(argv):
                 prefix,
                 size_default,
                 extra_sizes))
+        facedetect_calls.append(filename)
+
+    # Face detection can take 10 GB memory/image. Serialize it and
+    # cache the results. Parallelism is not a good idea in here..
+    if args.face_detect_model:
+        detector = archivethumbnails.FaceDetector(
+            args.face_detect_model)
+        for filename in facedetect_calls:
+            detector(filename)
+
+    return os.EX_DATAERR
+
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
     pool.starmap(archivethumbnails.create_thumbnail, create_thumbnail_calls)
 
