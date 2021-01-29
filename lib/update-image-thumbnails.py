@@ -88,6 +88,7 @@ def main(argv):
         detector = archivethumbnails.FaceDetector(
             args.face_detect_model)
         for filename in facedetect_calls:
+            print("Face: %s" % filename)
             detector(filename)
 
     return os.EX_DATAERR

@@ -144,7 +144,12 @@ class FaceDetector:
 
         image = dlib.load_rgb_image(original_image)
         width, height, _ = image.shape
-        detections = self.detector(image, 1)
+
+        upscales = 1
+        # Around 9M pixels we exceed 32 GB memory limits when upscaling.
+        if width * height > 8500000:
+            upscales = 0
+        detections = self.detector(image, upscales)
 
         faces: typing.List[FaceInfo] = []
         for detection in detections:
@@ -160,7 +165,7 @@ class FaceDetector:
         face_detect_data = FaceDetectData(
             fd_algorithm=self.algorithm,
             fd_data_id=self.data_id,
-            fd_parameters="upscales=1",
+            fd_parameters="upscales=%d" % upscales,
             image_width=width,
             image_height=height,
             faces=faces,
