@@ -4,6 +4,7 @@ import collections
 import dataclasses
 import dlib  # type: ignore
 import logging
+import math
 import os
 import os.path
 import PIL.Image  # type: ignore
@@ -130,6 +131,23 @@ def save_face_detect_data(filename: str, data: FaceDetectData) -> None:
     atomic_write_file(filename, out_image_data + faces_str)
 
 
+def resize_image(image, max_pixels):
+    width, height, _ = image.shape
+    scaling_factor = math.sqrt(float(max_pixels) / (width * height))
+    new_width = int(scaling_factor * width)
+    new_height = int(scaling_factor * height)
+    logging.warning(
+        "Picture size %dx%d = %d pixels > %d pixels. "
+        "Scaling to %dx%d",
+        width,
+        height,
+        width * height,
+        max_pixels,
+        new_width,
+        new_height)
+    return dlib.resize_image(image, cols=new_width, rows=new_height)
+
+
 class FaceDetector:
     def __init__(self, datafile: str):
         self.algorithm = "dlib.cnn_face_detection_model_v1"
@@ -147,8 +165,9 @@ class FaceDetector:
 
         upscales = 1
         # Around 9M pixels we exceed 32 GB memory limits when upscaling.
-        if width * height > 8500000:
-            upscales = 0
+        max_image_pixels = 7500000
+        if width * height > max_image_pixels:
+            image = resize_image(image, max_image_pixels)
         detections = self.detector(image, upscales)
 
         faces: typing.List[FaceInfo] = []
