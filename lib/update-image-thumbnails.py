@@ -85,10 +85,11 @@ def main(argv):
     # Face detection can take 10 GB memory/image. Serialize it and
     # cache the results. Parallelism is not a good idea in here..
     if args.face_detect_model:
+        total_images = len(facedetect_calls)
         detector = archivethumbnails.FaceDetector(
             args.face_detect_model)
-        for filename in facedetect_calls:
-            print("Face: %s" % filename)
+        for i, filename in enumerate(facedetect_calls):
+            print("Face %d/%d: %s" % (i, total_images, filename))
             detector(filename)
 
     return os.EX_DATAERR
