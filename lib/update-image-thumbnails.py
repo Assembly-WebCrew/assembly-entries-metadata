@@ -88,7 +88,7 @@ def main(argv):
         total_images = len(facedetect_calls)
         detector = archivethumbnails.FaceDetector(
             args.face_detect_model)
-        for i, filename in enumerate(facedetect_calls):
+        for i, filename in enumerate(facedetect_calls, 1):
             print("Face %d/%d: %s" % (i, total_images, filename))
             detector(filename)
 
