@@ -154,13 +154,17 @@ class FaceDetector:
         self.data_id = os.path.basename(datafile)
         self.detector = dlib.cnn_face_detection_model_v1(datafile)
 
-    def __call__(self, original_image: str) -> FaceDetectData:
+    def __call__(self, original_image: str) -> typing.Optional[FaceDetectData]:
         face_detect_file = original_image + ".faces.txt"
         face_detect_data = load_face_detect_data(face_detect_file)
         if face_detect_data is not None:
             return face_detect_data
 
-        image = dlib.load_rgb_image(original_image)
+        try:
+            image = dlib.load_rgb_image(original_image)
+        except RuntimeError as e:
+            logging.warning("Unable to load image %r: %r", original_image, e)
+            return None
         width, height, _ = image.shape
 
         upscales = 1
@@ -169,6 +173,8 @@ class FaceDetector:
         if width * height > max_image_pixels:
             image = resize_image(image, max_image_pixels)
         detections = self.detector(image, upscales)
+        if detections is None:
+            return None
 
         faces: typing.List[FaceInfo] = []
         for detection in detections:
