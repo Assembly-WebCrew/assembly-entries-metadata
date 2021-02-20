@@ -169,7 +169,7 @@ class FaceDetector:
 
         upscales = 1
         # Around 9M pixels we exceed 32 GB memory limits when upscaling.
-        max_image_pixels = 7500000
+        max_image_pixels = 7300000
         if width * height > max_image_pixels:
             image = resize_image(image, max_image_pixels)
         detections = self.detector(image, upscales)
