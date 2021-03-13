@@ -71,7 +71,7 @@ author:Limba|guid:2025|media:/vod/2015/Compos/2025_RealWild_Night_Coding_by_Limb
 :section Amiga demo
 :youtube-playlist PLJO4AtxKJiFOTIYmdUFB4dVFSD4dk2NHk
 :pms-category amiga
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In this demo competitions demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running and this separates demos from animations, which are not limited with this real time constraint.</p><p>In Amiga demo competition demos are limited to be running on <a href="https://en.wikipedia.org/wiki/Amiga">Amiga hardware</a> to celebrate 30 years of Amiga.</p>
 
 author:Dekadence|guid:1960|media:/vod/2015/Compos/1960_Oldskool_Carbon_Based_by_Dekadence.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/714|position:1|techniques:Amigaaaaaah!|title:Carbon Based|youtube:5EIyoTzdWOs
 author:Desire|guid:1962|media:/vod/2015/Compos/1962_Oldskool_Master_Control_Program_by_Desire.mp4|platform:A1200 AGA/060|pms-id:asm15/amiga/727|position:2|techniques:AGA, triangles, lines, subpixel acc dots, voxels, GNU rocket, etc.|title:Master Control Program|youtube:h8PHmaLrNk0
