@@ -1,0 +1,101 @@
+:year 2021
+
+:section Winter demo
+:party-name Assembly Winter 2021
+:compo-name demo
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end YYYY PC computer.</p>
+:ongoing true
+:public false
+
+
+
+:section Winter intro
+:party-name Assembly Winter 2021
+:compo-name intro
+:description <p></p>
+:ongoing true
+:public false
+
+
+
+:section Winter one scene
+:party-name Assembly Winter 2021
+:compo-name one scene
+:description <p></p>
+:ongoing true
+:public false
+
+
+
+:section Winter short film
+:party-name Assembly Winter 2021
+:compo-name short film
+:description <p></p>
+:ongoing true
+:public false
+
+
+
+:section Winter graphics
+:party-name Assembly Winter 2021
+:compo-name graphics
+:description <p></p>
+:ongoing true
+:public false
+
+
+
+:section Winter photo
+:party-name Assembly Winter 2021
+:compo-name Demo
+:description <p></p>
+:ongoing true
+:public false
+
+
+
+:section Winter streaming music
+:party-name Assembly Winter 2021
+:compo-name streaming music
+:description <p></p>
+:ongoing true
+:public false
+:partyman-slug streaming-music
+
+author:Soundcat|partyman-id:1ee78bfd-3ed5-4558-9c08-1e97c70f6786|title:EkTune
+author:koltiainen / - the lost underground -|partyman-id:b5fb9a1b-ceaa-4e32-b412-75e5d19ace3a|title:Baretta Island Exotica II
+author:FRANK KUKAT / PELTO|partyman-id:dc1c1cf2-2ca4-4482-bbf0-8d61b3a049ca|title:Stranger to this world
+author:Jarsk1e|partyman-id:8879e3fa-7e30-46b0-8ab5-25629a1c4ee1|title:Digital Future
+author:Pyrdelic|partyman-id:b5371213-0592-4024-adef-acccc1887380|title:Determination
+author:Mergente|partyman-id:26226ecb-43cb-48b7-9baa-707dfb1c7112|title:Ikuinen jahti
+author:mAZE / dSr|partyman-id:eaca249d-fb25-45e8-a5e2-4a2c63fca77c|title:Escape from Reality
+author:Jon Tardis|partyman-id:732d82ec-b7a6-4f62-8a4c-f799aeec3e18|title:moon is made of cheese
+author:eimink / Wide Load ^ Vanha Mediakunta|partyman-id:4d57dfb0-6f37-4553-82fc-bcd6557d289e|title:Back to the 00s
+author:mad droid|partyman-id:996499c8-1816-4538-807e-f092e4470d3d|title:initialization
+author:Kamson / ind.|partyman-id:da3893f0-2eb9-45f0-b620-a8e78f6d196a|title:Approaching Regis III (party ver.)
+author:Spacey|partyman-id:ca2f41be-d76c-43d4-ad61-d0c2081e0778|title:wOOt
+author:Aikapallo|partyman-id:e9884e87-7123-45cf-81e9-73153734aaf0|title:Sons of Mars
+author:Roz / Fit ^ Byterapers|partyman-id:ea34c6d0-3f93-4e6d-9a69-aa961eed2140|title:Nuances
+author:jeenio|partyman-id:be6c2fb1-c29b-4f35-8381-eb4406b8c12a|title:My Wooden Lover
+author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|title:LASERTREE
+
+
+:section Winter tracked music
+:party-name Assembly Winter 2021
+:compo-name tracked music
+:description <p></p>
+:ongoing true
+:public false
+:partyman-slug tracker-music
+
+author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|title:Resistant to hatred
+author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|title:Dub Man II
+author:grogon|partyman-id:b71faf10-5870-4083-881f-65260878af4d|title:lectreonic luzyonit
+author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|title:snow down
+author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|title:Aftertime
+author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|title:In My Tiny Starship
+author:e!ghtbm|partyman-id:6063a8c2-5c25-408e-b72f-d529128a0136|title:i dream about the wires
+author:rawArgon|partyman-id:3f7db2a2-5710-4dcf-951d-7f4b34c00fac|title:Shrine of the Carboxylated Cetaceans
+author:Roz / Fit ^ Byterapers|partyman-id:8e20b935-a451-4e3d-8c15-51d4761fbec4|title:Everyhero
+author:Defilus|partyman-id:23da5cef-0f56-4ab5-9cd6-fe2227b3cd96|title:Ce la vie
+
