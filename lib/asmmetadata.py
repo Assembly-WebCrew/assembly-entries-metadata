@@ -569,6 +569,8 @@ def get_youtube_timestamps_title_description(youtube_entry: Entry) -> TitleDescr
     if section.get("ranked", True):
         description += "%s %s competition entries\n\n" % (
             party_name, section["name"])
+
+    description += "00:00 %s compo\n" % section["name"]
     timestamped_entries = []
     for entry in section["entries"]:
         entry_str = ""
