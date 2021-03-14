@@ -1,0 +1,9 @@
+Pillow
+pytz
+python-dateutil
+requests
+google-api-python-client
+pyjarowinkler
+oauth2client
+mypy
+dlib

@@ -4,32 +4,37 @@ import argparse
 import asmmetadata
 import http.cookiejar
 import json
+import logging
 import os
 import re
 import sys
 import urllib.request
 
 
-def fetch_data(cookie_jar):
-    jar = http.cookiejar.MozillaCookieJar(cookie_jar)
-    jar.load()
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
-    request_entry = opener.open("https://scene.assembly.org/api/v1/entry/?format=json")
-    entries = json.loads(request_entry.read())
-    request_playlist = opener.open("https://scene.assembly.org/api/v1/playlist/?format=json")
-    playlists = json.loads(request_playlist.read())
-    return entries, playlists
+def fetch_data(auth_token):
+    auth_header = ("Authorization", "Token %s" % auth_token)
+    playlists_request = urllib.request.Request("https://scene.assembly.org/api/v1/playlist/")
+    playlists_request.add_header(*auth_header)
+    playlists_result = urllib.request.urlopen(playlists_request)
+    playlists = json.loads(playlists_result.read())
+    all_playlists = {}
+    for playlist in playlists:
+        slug = playlist["competition"]["slug"]
+        entries_request = urllib.request.Request(
+            "https://scene.assembly.org/api/v1/playlist/%s" % slug)
+        entries_request.add_header(*auth_header)
+        entries_result = urllib.request.urlopen(entries_request)
+        entries = json.loads(entries_result.read())
+        all_playlists[slug] = entries
+    return all_playlists
 
 
-def update_section_partyman_data(section, partyman_competitions):
+def update_section_partyman_data(section, partyman_playlist):
     slug = section.get("partyman-slug")
     competition_meta = None
     entries = None
-    for partyman_competition in partyman_competitions:
-        if partyman_competition["competition"]["slug"] == slug:
-            competition_meta = partyman_competition["competition"]
-            entries = partyman_competition["entries"]
-            break
+    competition_meta = partyman_playlist["competition"]
+    entries = partyman_playlist["entries"]
     if entries is None:
         raise RuntimeError("Missing partyman data for slug %r" % slug)
 
@@ -80,8 +85,8 @@ def update_section_partyman_data(section, partyman_competitions):
     return section
 
 
-def fetch_update_data(metadata_file, cookie_jar):
-    entries, playlists = fetch_data(cookie_jar)
+def fetch_update_data(metadata_file, api_token: str):
+    playlists = fetch_data(api_token)
     metadata = asmmetadata.parse_file(metadata_file)
 
     metadata_partyman_slugs = []
@@ -89,7 +94,9 @@ def fetch_update_data(metadata_file, cookie_jar):
         slug = section.get("partyman-slug")
         if slug is None:
             continue
-        update_section_partyman_data(section, playlists)
+        if slug not in playlists:
+            continue
+        update_section_partyman_data(section, playlists[slug])
 
     with open(metadata_file.name, "w") as fp:
         asmmetadata.print_metadata(fp, metadata)
@@ -98,9 +105,15 @@ def fetch_update_data(metadata_file, cookie_jar):
 def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('metadata_file', type=argparse.FileType("r"))
-    parser.add_argument('cookie_jar')
+
+    partyman_api_token = os.getenv("PARTYMAN_API_TOKEN", None)
+    if not partyman_api_token:
+        logging.error("""\
+PARTYMAN_API_TOKEN environment variable should be set with an \
+appropriate Partyman API Token value!""")
+        return os.EX_DATAERR
     args = parser.parse_args(argv[1:])
-    fetch_update_data(args.metadata_file, args.cookie_jar)
+    fetch_update_data(args.metadata_file, partyman_api_token)
 
     return os.EX_OK
 
