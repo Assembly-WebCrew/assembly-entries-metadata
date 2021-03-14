@@ -61,6 +61,7 @@
 :ongoing true
 :public false
 :partyman-slug streaming-music
+:section-thumbnail music-thumbnail-winter
 
 author:Soundcat|partyman-id:1ee78bfd-3ed5-4558-9c08-1e97c70f6786|title:EkTune
 author:koltiainen / - the lost underground -|partyman-id:b5fb9a1b-ceaa-4e32-b412-75e5d19ace3a|title:Baretta Island Exotica II
@@ -87,15 +88,16 @@ author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|title:LASERT
 :ongoing true
 :public false
 :partyman-slug tracker-music
+:section-thumbnail music-thumbnail-winter
 
-author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|title:Resistant to hatred
-author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|title:Dub Man II
-author:grogon|partyman-id:b71faf10-5870-4083-881f-65260878af4d|title:lectreonic luzyonit
-author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|title:snow down
-author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|title:Aftertime
-author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|title:In My Tiny Starship
-author:e!ghtbm|partyman-id:6063a8c2-5c25-408e-b72f-d529128a0136|title:i dream about the wires
-author:rawArgon|partyman-id:3f7db2a2-5710-4dcf-951d-7f4b34c00fac|title:Shrine of the Carboxylated Cetaceans
-author:Roz / Fit ^ Byterapers|partyman-id:8e20b935-a451-4e3d-8c15-51d4761fbec4|title:Everyhero
-author:Defilus|partyman-id:23da5cef-0f56-4ab5-9cd6-fe2227b3cd96|title:Ce la vie
+author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|title:Resistant to hatred|youtube:h_uClISibOM
+author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|title:Dub Man II|youtube:tZ-sgDkBNBI
+author:grogon|partyman-id:b71faf10-5870-4083-881f-65260878af4d|title:lectreonic luzyonit|youtube:miPRQarfTn8
+author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|title:snow down|youtube:i5TTfnwooxc
+author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|title:Aftertime|youtube:hIgbsQTh0Do
+author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|title:In My Tiny Starship|youtube:uAe9wZHMqTc
+author:e!ghtbm|partyman-id:6063a8c2-5c25-408e-b72f-d529128a0136|title:i dream about the wires|youtube:zP_z4zLsF-8
+author:rawArgon|partyman-id:3f7db2a2-5710-4dcf-951d-7f4b34c00fac|title:Shrine of the Carboxylated Cetaceans|youtube:XCUI-Gn1EhA
+author:Roz / Fit ^ Byterapers|partyman-id:8e20b935-a451-4e3d-8c15-51d4761fbec4|title:Everyhero|youtube:JIWZ6dHb1Cg
+author:Defilus|partyman-id:23da5cef-0f56-4ab5-9cd6-fe2227b3cd96|title:Ce la vie|youtube:T7LTuqwDqI8
 
