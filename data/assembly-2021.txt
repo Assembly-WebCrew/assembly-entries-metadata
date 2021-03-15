@@ -57,9 +57,8 @@
 :section Winter streaming music
 :party-name Assembly Winter 2021
 :compo-name streaming music
-:description <p></p>
 :ongoing true
-:public false
+:public true
 :partyman-slug streaming-music
 :section-thumbnail music-thumbnail-winter
 :youtube-playlist PLJO4AtxKJiFPyNljRysN3fXfQH8YoGV-w
