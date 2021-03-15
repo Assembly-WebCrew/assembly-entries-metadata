@@ -20,23 +20,17 @@ def fetch_partyman_data(cookie_jar):
     return entries
 
 
-def update_entry_preview_link(cookie_jar, partyman_entry, preview_link):
-    if partyman_entry["preview_url"] == preview_link:
-        return
+def update_entry_preview_link(
+        partyman_api_token: str,
+        entry: asmmetadata.Entry,
+        preview_link: str):
     session = requests.Session()
-    print("Updating %s by %s" % (partyman_entry["title"], partyman_entry["by"]))
-    entry_detail_url = partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v0", "admin") + "detail/"
-    result = session.get(url=entry_detail_url, cookies = cookie_jar)
-    # print(result.ok)
-
-    requests.utils.add_dict_to_cookiejar(cookie_jar, requests.utils.dict_from_cookiejar(result.cookies))
-    entry_api_url = partyman_entry["url"].replace("http://shader", "https://scene")
-    csrf_token = requests.utils.dict_from_cookiejar(result.cookies)["csrftoken"]
+    print("Updating %s" % asmmetadata.get_entry_name(entry))
+    entry_api_url = "https://scene.assembly.org/api/v1/entry/%s/" % entry["partyman-id"]
     response = session.patch(
         url = entry_api_url,
-        headers = {"X-CSRFToken": csrf_token},
-        data = {"preview_url": preview_link},
-        cookies = cookie_jar)
+        headers = {"Authorization": "Token %s" % partyman_api_token},
+        data = {"preview_url": preview_link})
     if not response.ok:
         print(response.text)
     # opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
@@ -50,29 +44,24 @@ def update_entry_preview_link(cookie_jar, partyman_entry, preview_link):
 def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('metadata_file', type=argparse.FileType("r"))
-    parser.add_argument('cookie_jar')
-    parser.add_argument('--section')
+    parser.add_argument('--section', required=True)
+    partyman_api_token = os.getenv("PARTYMAN_API_TOKEN", None)
+    if not partyman_api_token:
+        logging.error("""\
+PARTYMAN_API_TOKEN environment variable should be set with an \
+appropriate Partyman API Token value!""")
+        return os.EX_DATAERR
     args = parser.parse_args(argv[1:])
 
-    cookie_jar = http.cookiejar.MozillaCookieJar(args.cookie_jar)
-    cookie_jar.load()
-    partyman_entries = fetch_partyman_data(cookie_jar)
-    print(partyman_entries)
     metadata = asmmetadata.parse_file(args.metadata_file)
-
-    entries_by_uuid = {}
-    for entry_id, entry in enumerate(partyman_entries):
-        entry["id"] = entry_id
-        entries_by_uuid[entry["uuid"]] = entry
 
     for section in metadata.sections:
         if args.section is not None:
-            if asmmetadata.normalize_key(section["name"]) != args.section:
+            if asmmetadata.normalize_key(section["compo-name"]) != args.section:
                 continue
         for entry in section["entries"]:
             if "partyman-id" not in entry:
                 continue
-            partyman_entry = entries_by_uuid[entry["partyman-id"]]
             preview_link = None
             if "youtube" in entry:
                 preview_link = "https://www.youtube.com/watch?v=%s" % entry["youtube"]
@@ -80,7 +69,7 @@ def main(argv):
                 preview_link = asmmetadata.get_archive_link_entry(entry)
             if preview_link is None:
                 continue
-            update_entry_preview_link(cookie_jar, partyman_entry, preview_link)
+            update_entry_preview_link(partyman_api_token, entry, preview_link)
     return os.EX_OK
 
 if __name__ == "__main__":
