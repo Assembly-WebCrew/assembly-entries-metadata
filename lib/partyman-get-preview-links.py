@@ -32,12 +32,12 @@ def main(argv):
             partyman_entry = entries_by_uuid[entry["partyman-id"]]
             if "youtube" in entry:
                 print(
-                    partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v1", "admin") + "detail/", "\t",
+                    partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v0", "admin") + "detail/", "\t",
                     "https://www.youtube.com/watch?v=%s" % entry["youtube"], entry["title"])
             if 'image-file' in entry:
                 preview_link = asmmetadata.get_archive_link_entry(entry)
                 print(
-                    partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v1", "admin") + "detail/", "\t",
+                    partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v0", "admin") + "detail/", "\t",
                     preview_link, "\t", entry["title"])
         print()
     return os.EX_OK

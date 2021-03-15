@@ -62,7 +62,12 @@ def update_section_partyman_data(section, partyman_playlist):
             author = "author-will-be-revealed-after-compo"
         author = author.replace("|", "-")
         addable_data['author'] = author
-        slide_info = entry_entry.get("slide_info")
+        slide_info_list = []
+        if "slide_text" in entry_entry:
+            slide_info.append(entry_entry.get("slide_text"))
+        if "techniques" in entry_entry:
+            slide_info.append(entry_entry.get("techniques"))
+        slide_info = "\n".join(slide_info_list)
         if slide_info:
              slide_info = slide_info.strip()
              slide_info = slide_info.replace("&", "&amp;")

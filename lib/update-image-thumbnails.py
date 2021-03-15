@@ -92,8 +92,6 @@ def main(argv):
             print("Face %d/%d: %s" % (i, total_images, filename))
             detector(filename)
 
-    return os.EX_DATAERR
-
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
     pool.starmap(archivethumbnails.create_thumbnail, create_thumbnail_calls)
 

@@ -14,7 +14,7 @@ import urllib.request
 
 def fetch_partyman_data(cookie_jar):
     result = requests.get(
-        url="https://scene.assembly.org/api/v1/entry/?format=json",
+        url="https://scene.assembly.org/api/v0/entry/?format=json",
         cookies = cookie_jar)
     entries = result.json()
     return entries
@@ -25,7 +25,7 @@ def update_entry_preview_link(cookie_jar, partyman_entry, preview_link):
         return
     session = requests.Session()
     print("Updating %s by %s" % (partyman_entry["title"], partyman_entry["by"]))
-    entry_detail_url = partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v1", "admin") + "detail/"
+    entry_detail_url = partyman_entry["url"].replace("http://shader", "https://scene").replace("api/v0", "admin") + "detail/"
     result = session.get(url=entry_detail_url, cookies = cookie_jar)
     # print(result.ok)
 
@@ -44,7 +44,7 @@ def update_entry_preview_link(cookie_jar, partyman_entry, preview_link):
     # data_string = "preview_link=%s" % 
     # result = opener.open(, data=data_string.encode("utf-8"))
     # result.read()
-    #request_entry = opener.open("https://scene.assembly.org/api/v1/entry/?format=json")
+    #request_entry = opener.open("https://scene.assembly.org/api/v0/entry/?format=json")
 
 
 def main(argv):
@@ -57,6 +57,7 @@ def main(argv):
     cookie_jar = http.cookiejar.MozillaCookieJar(args.cookie_jar)
     cookie_jar.load()
     partyman_entries = fetch_partyman_data(cookie_jar)
+    print(partyman_entries)
     metadata = asmmetadata.parse_file(args.metadata_file)
 
     entries_by_uuid = {}
