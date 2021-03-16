@@ -85,9 +85,6 @@ author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|techniques:F
 :compo-name tracked music
 :section-thumbnail music-thumbnail-winter
 :youtube-playlist PLJO4AtxKJiFPPUowVTUBKFBY2z5lsh-rC
-:description <p></p>
-:ongoing true
-:public false
 :partyman-slug tracker-music
 
 author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|techniques:Old scene rules! Amiga not dead!<br/>The module is in .xm format  (FastTracker)   but i made it on DigiBooster Pro on Amiga 1200 :)|title:Resistant to hatred|youtube:h_uClISibOM
