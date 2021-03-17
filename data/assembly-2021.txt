@@ -46,13 +46,11 @@ author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|techniques:wap
 :section Winter short film
 :party-name Assembly Winter 2021
 :compo-name short film
-:description <p></p>
 :ongoing true
-:public false
 :partyman-slug short-film
 
-author:- the lost underground -|partyman-id:3a9b6ddf-fb14-415a-a2e7-830173bb3859|techniques:Join us on a journey to find peace amidst the chaos...<br/>Video Art compositing in After Effects, many digital and analog assets combined with an ambient synchronised audio soundscape.|title:A Psychedelic Peace
-author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|techniques:What happens when you make a 7 minute edit and lose all the files? It's 1.5x time!<br/>Three agents get in a mission to steal an important flash drive full of confidential info. What happens next? Watch to find out?!!!?<br/>VivaCut, Adobe Premiere, mazda miata, sony camera|title:The Heist II - Electric Boogaloo
+author:- the lost underground -|partyman-id:3a9b6ddf-fb14-415a-a2e7-830173bb3859|techniques:Join us on a journey to find peace amidst the chaos...<br/>Video Art compositing in After Effects, many digital and analog assets combined with an ambient synchronised audio soundscape.|title:A Psychedelic Peace|youtube:hUh1C2RTgtM
+author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|techniques:What happens when you make a 7 minute edit and lose all the files? It's 1.5x time!<br/>Three agents get in a mission to steal an important flash drive full of confidential info. What happens next? Watch to find out?!!!?<br/>VivaCut, Adobe Premiere, mazda miata, sony camera|title:The Heist II - Electric Boogaloo|youtube:E7tTIZSsSNg
 
 
 :section Winter graphics
