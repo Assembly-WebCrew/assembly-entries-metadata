@@ -55,19 +55,23 @@ author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|techniques:Wh
 :section Winter graphics
 :party-name Assembly Winter 2021
 :compo-name graphics
-:description <p></p>
 :ongoing true
-:public false
+:partyman-slug graphics
 
+author:Midi|partyman-id:74d02bc1-a803-473a-b7df-a8595e9393d5|techniques:Photoshop, Wacom Intuos|title:Tundra Wanderers|image-file:winter-graphics/tundra-wanderers-by-midi.png
+author:Callisto / Syn[Rj]|partyman-id:37818c65-e026-41a4-b9d7-e1e14690391a|techniques:We invite you to the Shadow-party.org ;)<br/>Photoshop + wacom|title:You seem so delicious|image-file:winter-graphics/you-seem-so-delicious-by-callisto-syn-rj.png
 
 
 :section Winter photo
 :party-name Assembly Winter 2021
 :compo-name Demo
-:description <p></p>
 :ongoing true
-:public false
+:partyman-slug photo
 
+author:Janskuvaan|partyman-id:9947b945-d0e7-462c-bc4c-53ac1c569122|techniques:Things I took up due to COVID-19.<br/>iPhone 8 and Snapseed|title:What can you do within 4 walls?|image-file:winter-photo/what-can-you-do-with-4-walls-by-janskuvaan.jpeg
+author:malomaz|partyman-id:524aafd9-7b44-418c-8baa-7ded3fcd7594|techniques:Camera: Nikon D3300<br/>Lense: Samyang Fish-Eye CS 8mm f3.5<br/>Lightroom|title:Wait, what?|image-file:winter-photo/wait-what-by-malomaz.jpeg
+author:imjustpickle / - the lost underground -|partyman-id:cc0ff314-e782-40e5-9cc5-31b20425fa6d|techniques:'Not the Room We Booked' is part of a series of <br/>an old boarding house I was exploring before <br/>its final tear down.<br/>Shot on iPhone 5s<br/>Lightroom edits:<br/>-Lens Correction<br/>-Exposure<br/>-Colour Temperature<br/>-White Balance|title:Not the Room We Booked|image-file:winter-photo/not-the-room-we-booked-by-imjustpickle-the-lost-underground.jpeg
+author:Wode / Doomsday|partyman-id:103209c3-956e-4bd7-8691-97aa0d3c72a1|techniques:ISO64, 75mm, f/1.8, 13sec|title:Honey, don't play with matches... HONEY!!!|image-file:winter-photo/honey-don-t-play-with-matches-honey-by-wode-doomsday.jpeg
 
 
 :section Winter streaming music
