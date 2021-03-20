@@ -3,7 +3,7 @@
 :section Winter demo
 :party-name Assembly Winter 2021
 :compo-name demo
-:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end YYYY PC computer.</p>
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2021 PC computer.</p>
 :ongoing true
 :partyman-slug demo
 
