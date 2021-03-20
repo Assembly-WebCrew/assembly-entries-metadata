@@ -57,7 +57,7 @@ appropriate Partyman API Token value!""")
 
     for section in metadata.sections:
         if args.section is not None:
-            if asmmetadata.normalize_key(section["compo-name"]) != args.section:
+            if asmmetadata.normalize_key(section["name"]) != args.section:
                 continue
         for entry in section["entries"]:
             if "partyman-id" not in entry:

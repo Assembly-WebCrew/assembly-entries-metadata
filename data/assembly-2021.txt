@@ -8,8 +8,8 @@
 :public false
 :partyman-slug demo
 
-author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|techniques:Here is an invitation to the Shadow-Party held the 21-23 may 2021<br/>Demo version is in Win32 (final version will also be available for MacOs, Linux and WebGL)|title:Shadow-Party 2021
-author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Only happened due to extended deadline<br/>Webgl2, KVG Engine, Webaudio, Affinity, Flame painter|title:Argon
+author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|techniques:Here is an invitation to the Shadow-Party held the 21-23 may 2021<br/>Demo version is in Win32 (final version will also be available for MacOs, Linux and WebGL)|title:Shadow-Party 2021|youtube:Ax-XUV7c-1c
+author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Only happened due to extended deadline<br/>Webgl2, KVG Engine, Webaudio, Affinity, Flame painter|title:Argon|youtube:A60Qy2O6kng
 
 
 :section Winter intro
@@ -20,27 +20,26 @@ author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Onl
 :public false
 :partyman-slug intro
 
-author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b032|techniques:long ping-pong delay experiment<br/>Windows, 4klang, Crinkler, etc. Compofiller Studio|title:A Merihakan Dream
-author:The Fiture Crew|partyman-id:10274a12-7844-40cb-9926-5360392c0aff|techniques:Fit 30 years and still going strong 2021! Thanks everybody and keep on making demos.<br/>Windows 4k intro, GLSL, 4klang (with ForkedKlang extras), Crinkler and Compofiller Studio of course.|title:This is not Merihaka
-author:Fiture Crew Lamer Section|partyman-id:46647b07-a8dd-45d3-85b1-7ae6c4ce061f|techniques:Greetings to Buzzer<br/>Windows, 4klang (Forked Klang), Crinkler, Compofiller Studio|title:Merihaka tanssii ja soi
-author:eimink|partyman-id:af5fe2c8-6bca-44ca-8497-9fa55cc299f9|techniques:Noticed lack of entries so here's my first 4k. (3184 bytes)<br/>glsl, 4klang, crinkler and compofiller studio|title:Project R-26 B
-author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|techniques:oi oi  libbie libbie. she wanna tell you a storie.<br/>4klang, compofillar studio &amp; crinkler|title:libbie
+author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b032|techniques:long ping-pong delay experiment<br/>Windows, 4klang, Crinkler, etc. Compofiller Studio|title:A Merihakan Dream|youtube:v2iP3clM4lE
+author:The Fiture Crew|partyman-id:10274a12-7844-40cb-9926-5360392c0aff|techniques:Fit 30 years and still going strong 2021! Thanks everybody and keep on making demos.<br/>Windows 4k intro, GLSL, 4klang (with ForkedKlang extras), Crinkler and Compofiller Studio of course.|title:This is not Merihaka|youtube:4NqlO53nHH4
+author:Fiture Crew Lamer Section|partyman-id:46647b07-a8dd-45d3-85b1-7ae6c4ce061f|techniques:Greetings to Buzzer<br/>Windows, 4klang (Forked Klang), Crinkler, Compofiller Studio|title:Merihaka tanssii ja soi|youtube:Z9jgGWO0oVM
+author:eimink|partyman-id:af5fe2c8-6bca-44ca-8497-9fa55cc299f9|techniques:Noticed lack of entries so here's my first 4k. (3184 bytes)<br/>glsl, 4klang, crinkler and compofiller studio|title:Project R-26 B|youtube:sowSuRfOEAs
+author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|techniques:oi oi  libbie libbie. she wanna tell you a storie.<br/>4klang, compofillar studio &amp; crinkler|title:libbie|youtube:v2iP3clM4lE
 
 
 :section Winter one scene
 :party-name Assembly Winter 2021
 :compo-name one scene
-:description <p></p>
 :ongoing true
-:public false
 :partyman-slug one-scene
+:youtube-playlist PLJO4AtxKJiFOFLTeRdJ9eQJsNea-RkHu1
 
-author:Janskuvaan|partyman-id:73d6887e-8dbb-4373-960c-e9b2772f0df9|techniques:My first take in programming compos, bringing cuteness to demoscene &lt;3<br/>Special thanks to my dad for being my mentor in coding!<br/>Mac, Processing|title:uwu overload
-author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|techniques:Prepare to be underwhelmed!<br/>GFX using Processing P3D, Moonlander &amp; minim. -- MUSIC with Reason Intro 10.|title:alarm
-author:Fit|partyman-id:7332426c-44b1-4006-b2d2-5e31483454bc|techniques:Windows 4k intro (.exe 4094 bytes). My first path tracing experiment, 100 rays per pixel, max 4 bounces per ray. Started coding after intro deadline, so here it is in One Scene compo.<br/>4klang, Crinkler, Shader Minifier, Compofiller Studio etc.|title:Valotaulu
-author:rimina|partyman-id:f67b79d6-24cc-4207-a439-0d1862d42ff7|techniques:&lt;3<br/>OpenGL, GLSL, Leviathan 2.0|title:Finding Atlantis
-author:eimink|partyman-id:d62b101c-837e-4d86-8405-8e9f348072ec|techniques:Fake glow is best glow.<br/>GLSL, Processing, Ableton Live 11, Roland Cloud|title:Roeoeri
-author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|techniques:wappuradio.fi/sceneradio<br/>webg2l, Kvg engine, typescript, glsl|title:Sceneradio invitation
+author:Janskuvaan|partyman-id:73d6887e-8dbb-4373-960c-e9b2772f0df9|techniques:My first take in programming compos, bringing cuteness to demoscene &lt;3<br/>Special thanks to my dad for being my mentor in coding!<br/>Mac, Processing|title:uwu overload|youtube:q0zVNpP1qDo
+author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|techniques:Prepare to be underwhelmed!<br/>GFX using Processing P3D, Moonlander &amp; minim. -- MUSIC with Reason Intro 10.|title:alarm|youtube:V41SrGTGehc
+author:Fit|partyman-id:7332426c-44b1-4006-b2d2-5e31483454bc|techniques:Windows 4k intro (.exe 4094 bytes). My first path tracing experiment, 100 rays per pixel, max 4 bounces per ray. Started coding after intro deadline, so here it is in One Scene compo.<br/>4klang, Crinkler, Shader Minifier, Compofiller Studio etc.|title:Valotaulu|youtube:rTqDfC8mIww
+author:rimina|partyman-id:f67b79d6-24cc-4207-a439-0d1862d42ff7|techniques:&lt;3<br/>OpenGL, GLSL, Leviathan 2.0|title:Finding Atlantis|youtube:lz1HLzJFHhA
+author:eimink|partyman-id:d62b101c-837e-4d86-8405-8e9f348072ec|techniques:Fake glow is best glow.<br/>GLSL, Processing, Ableton Live 11, Roland Cloud|title:Roeoeri|youtube:5DhuQJzLU-U
+author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|techniques:wappuradio.fi/sceneradio<br/>webg2l, Kvg engine, typescript, glsl|title:Sceneradio invitation|youtube:SmOgVCDKqVk
 
 
 :section Winter short film
@@ -105,7 +104,7 @@ author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|techniques:F
 :partyman-slug tracker-music
 
 author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|techniques:Old scene rules! Amiga not dead!<br/>The module is in .xm format  (FastTracker)   but i made it on DigiBooster Pro on Amiga 1200 :)|title:Resistant to hatred|youtube:h_uClISibOM
-author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|techniques:10 PRINT "HELLO, WORLD"; 20 GOTO 10<br/>PC, FastTracker II, 4 channels and NES samples|title:Dub Man II|youtube:tZ-sgDkBNBI
+author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|techniques:10 PRINT "HELLO, WORLD"; 20 GOTO 10<br/>PC, FastTracker II, 4 channels and NES samples|title:Dub Man II|youtube:mTbxgViOCe4
 author:grogon|partyman-id:b71faf10-5870-4083-881f-65260878af4d|techniques:amiga rulez!<br/>Protracker|title:lectreonic luzyonit|youtube:miPRQarfTn8
 author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|techniques:|title:snow down|youtube:i5TTfnwooxc
 author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|techniques:Amiga 4ch MOD.|title:Aftertime|youtube:hIgbsQTh0Do
