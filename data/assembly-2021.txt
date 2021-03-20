@@ -5,7 +5,6 @@
 :compo-name demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end YYYY PC computer.</p>
 :ongoing true
-:public false
 :partyman-slug demo
 
 author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|techniques:Here is an invitation to the Shadow-Party held the 21-23 may 2021<br/>Demo version is in Win32 (final version will also be available for MacOs, Linux and WebGL)|title:Shadow-Party 2021|youtube:Ax-XUV7c-1c
@@ -17,7 +16,6 @@ author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Onl
 :compo-name intro
 :description <p></p>
 :ongoing true
-:public false
 :partyman-slug intro
 
 author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b032|techniques:long ping-pong delay experiment<br/>Windows, 4klang, Crinkler, etc. Compofiller Studio|title:A Merihakan Dream|youtube:v2iP3clM4lE
