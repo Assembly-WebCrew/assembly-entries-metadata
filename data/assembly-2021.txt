@@ -30,9 +30,9 @@ author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|techniques:oi o
 :section Winter one scene
 :party-name Assembly Winter 2021
 :compo-name one scene
+:youtube-playlist PLJO4AtxKJiFOFLTeRdJ9eQJsNea-RkHu1
 :ongoing true
 :partyman-slug one-scene
-:youtube-playlist PLJO4AtxKJiFOFLTeRdJ9eQJsNea-RkHu1
 
 author:Janskuvaan|partyman-id:73d6887e-8dbb-4373-960c-e9b2772f0df9|techniques:My first take in programming compos, bringing cuteness to demoscene &lt;3<br/>Special thanks to my dad for being my mentor in coding!<br/>Mac, Processing|title:uwu overload|youtube:q0zVNpP1qDo
 author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|techniques:Prepare to be underwhelmed!<br/>GFX using Processing P3D, Moonlander &amp; minim. -- MUSIC with Reason Intro 10.|title:alarm|youtube:V41SrGTGehc
@@ -105,7 +105,6 @@ author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|techniques:F
 
 author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|techniques:Old scene rules! Amiga not dead!<br/>The module is in .xm format  (FastTracker)   but i made it on DigiBooster Pro on Amiga 1200 :)|title:Resistant to hatred|youtube:h_uClISibOM
 author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|techniques:10 PRINT "HELLO, WORLD"; 20 GOTO 10<br/>PC, FastTracker II, 4 channels and NES samples|title:Dub Man II|youtube:mTbxgViOCe4
-author:grogon|partyman-id:b71faf10-5870-4083-881f-65260878af4d|techniques:amiga rulez!<br/>Protracker|title:lectreonic luzyonit|youtube:miPRQarfTn8
 author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|techniques:|title:snow down|youtube:i5TTfnwooxc
 author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|techniques:Amiga 4ch MOD.|title:Aftertime|youtube:hIgbsQTh0Do
 author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|techniques:Visit 'https://noizzica.blogspot.com/' for more chiptunes!<br/>Made with Hively Tracker.|title:In My Tiny Starship|youtube:uAe9wZHMqTc
