@@ -7,8 +7,8 @@
 :ongoing true
 :partyman-slug demo
 
-author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|techniques:Here is an invitation to the Shadow-Party held the 21-23 may 2021<br/>Demo version is in Win32 (final version will also be available for MacOs, Linux and WebGL)|title:Shadow-Party 2021|youtube:Ax-XUV7c-1c
-author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Only happened due to extended deadline<br/>Webgl2, KVG Engine, Webaudio, Affinity, Flame painter|title:Argon|youtube:A60Qy2O6kng
+author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|position:1|techniques:Only happened due to extended deadline<br/>Webgl2, KVG Engine, Webaudio, Affinity, Flame painter|title:Argon|youtube:A60Qy2O6kng
+author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|position:2|techniques:Here is an invitation to the Shadow-Party held the 21-23 may 2021<br/>Demo version is in Win32 (final version will also be available for MacOs, Linux and WebGL)|title:Shadow-Party 2021|youtube:Ax-XUV7c-1c
 
 
 :section Winter intro
@@ -18,11 +18,11 @@ author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|techniques:Onl
 :ongoing true
 :partyman-slug intro
 
-author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b032|techniques:long ping-pong delay experiment<br/>Windows, 4klang, Crinkler, etc. Compofiller Studio|title:A Merihakan Dream|youtube:v2iP3clM4lE
-author:The Fiture Crew|partyman-id:10274a12-7844-40cb-9926-5360392c0aff|techniques:Fit 30 years and still going strong 2021! Thanks everybody and keep on making demos.<br/>Windows 4k intro, GLSL, 4klang (with ForkedKlang extras), Crinkler and Compofiller Studio of course.|title:This is not Merihaka|youtube:4NqlO53nHH4
-author:Fiture Crew Lamer Section|partyman-id:46647b07-a8dd-45d3-85b1-7ae6c4ce061f|techniques:Greetings to Buzzer<br/>Windows, 4klang (Forked Klang), Crinkler, Compofiller Studio|title:Merihaka tanssii ja soi|youtube:Z9jgGWO0oVM
-author:eimink|partyman-id:af5fe2c8-6bca-44ca-8497-9fa55cc299f9|techniques:Noticed lack of entries so here's my first 4k. (3184 bytes)<br/>glsl, 4klang, crinkler and compofiller studio|title:Project R-26 B|youtube:sowSuRfOEAs
-author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|techniques:oi oi  libbie libbie. she wanna tell you a storie.<br/>4klang, compofillar studio &amp; crinkler|title:libbie|youtube:mGKQyDbrmuc
+author:eimink|partyman-id:af5fe2c8-6bca-44ca-8497-9fa55cc299f9|position:1|techniques:Noticed lack of entries so here's my first 4k. (3184 bytes)<br/>glsl, 4klang, crinkler and compofiller studio|title:Project R-26 B|youtube:sowSuRfOEAs
+author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|position:2|techniques:oi oi  libbie libbie. she wanna tell you a storie.<br/>4klang, compofillar studio &amp; crinkler|title:libbie|youtube:mGKQyDbrmuc
+author:Fiture Crew Lamer Section|partyman-id:46647b07-a8dd-45d3-85b1-7ae6c4ce061f|position:3|techniques:Greetings to Buzzer<br/>Windows, 4klang (Forked Klang), Crinkler, Compofiller Studio|title:Merihaka tanssii ja soi|youtube:Z9jgGWO0oVM
+author:The Fiture Crew|partyman-id:10274a12-7844-40cb-9926-5360392c0aff|position:4|techniques:Fit 30 years and still going strong 2021! Thanks everybody and keep on making demos.<br/>Windows 4k intro, GLSL, 4klang (with ForkedKlang extras), Crinkler and Compofiller Studio of course.|title:This is not Merihaka|youtube:4NqlO53nHH4
+author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b032|position:5|techniques:long ping-pong delay experiment<br/>Windows, 4klang, Crinkler, etc. Compofiller Studio|title:A Merihakan Dream|youtube:v2iP3clM4lE
 
 
 :section Winter one scene
@@ -32,12 +32,12 @@ author:chlumpie|partyman-id:4df5d22d-7182-47a5-846c-4d5e70684977|techniques:oi o
 :ongoing true
 :partyman-slug one-scene
 
-author:Janskuvaan|partyman-id:73d6887e-8dbb-4373-960c-e9b2772f0df9|techniques:My first take in programming compos, bringing cuteness to demoscene &lt;3<br/>Special thanks to my dad for being my mentor in coding!<br/>Mac, Processing|title:uwu overload|youtube:q0zVNpP1qDo
-author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|techniques:Prepare to be underwhelmed!<br/>GFX using Processing P3D, Moonlander &amp; minim. -- MUSIC with Reason Intro 10.|title:alarm|youtube:V41SrGTGehc
-author:Fit|partyman-id:7332426c-44b1-4006-b2d2-5e31483454bc|techniques:Windows 4k intro (.exe 4094 bytes). My first path tracing experiment, 100 rays per pixel, max 4 bounces per ray. Started coding after intro deadline, so here it is in One Scene compo.<br/>4klang, Crinkler, Shader Minifier, Compofiller Studio etc.|title:Valotaulu|youtube:rTqDfC8mIww
-author:rimina|partyman-id:f67b79d6-24cc-4207-a439-0d1862d42ff7|techniques:&lt;3<br/>OpenGL, GLSL, Leviathan 2.0|title:Finding Atlantis|youtube:lz1HLzJFHhA
-author:eimink|partyman-id:d62b101c-837e-4d86-8405-8e9f348072ec|techniques:Fake glow is best glow.<br/>GLSL, Processing, Ableton Live 11, Roland Cloud|title:Roeoeri|youtube:5DhuQJzLU-U
-author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|techniques:wappuradio.fi/sceneradio<br/>webg2l, Kvg engine, typescript, glsl|title:Sceneradio invitation|youtube:SmOgVCDKqVk
+author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|position:1|techniques:wappuradio.fi/sceneradio<br/>webg2l, Kvg engine, typescript, glsl|title:Sceneradio invitation|youtube:SmOgVCDKqVk
+author:rimina|partyman-id:f67b79d6-24cc-4207-a439-0d1862d42ff7|position:2|techniques:&lt;3<br/>OpenGL, GLSL, Leviathan 2.0|title:Finding Atlantis|youtube:lz1HLzJFHhA
+author:Fit|partyman-id:7332426c-44b1-4006-b2d2-5e31483454bc|position:3|techniques:Windows 4k intro (.exe 4094 bytes). My first path tracing experiment, 100 rays per pixel, max 4 bounces per ray. Started coding after intro deadline, so here it is in One Scene compo.<br/>4klang, Crinkler, Shader Minifier, Compofiller Studio etc.|title:Valotaulu|youtube:rTqDfC8mIww
+author:eimink|partyman-id:d62b101c-837e-4d86-8405-8e9f348072ec|position:4|techniques:Fake glow is best glow.<br/>GLSL, Processing, Ableton Live 11, Roland Cloud|title:Roeoeri|youtube:5DhuQJzLU-U
+author:Janskuvaan|partyman-id:73d6887e-8dbb-4373-960c-e9b2772f0df9|position:5|techniques:My first take in programming compos, bringing cuteness to demoscene &lt;3<br/>Special thanks to my dad for being my mentor in coding!<br/>Mac, Processing|title:uwu overload|youtube:q0zVNpP1qDo
+author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|position:6|techniques:Prepare to be underwhelmed!<br/>GFX using Processing P3D, Moonlander &amp; minim. -- MUSIC with Reason Intro 10.|title:alarm|youtube:V41SrGTGehc
 
 
 :section Winter short film
@@ -46,8 +46,8 @@ author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|techniques:wap
 :ongoing true
 :partyman-slug short-film
 
-author:- the lost underground -|partyman-id:3a9b6ddf-fb14-415a-a2e7-830173bb3859|techniques:Join us on a journey to find peace amidst the chaos...<br/>Video Art compositing in After Effects, many digital and analog assets combined with an ambient synchronised audio soundscape.|title:A Psychedelic Peace|youtube:hUh1C2RTgtM
-author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|techniques:What happens when you make a 7 minute edit and lose all the files? It's 1.5x time!<br/>Three agents get in a mission to steal an important flash drive full of confidential info. What happens next? Watch to find out?!!!?<br/>VivaCut, Adobe Premiere, mazda miata, sony camera|title:The Heist II - Electric Boogaloo|youtube:E7tTIZSsSNg
+author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|position:1|techniques:What happens when you make a 7 minute edit and lose all the files? It's 1.5x time!<br/>Three agents get in a mission to steal an important flash drive full of confidential info. What happens next? Watch to find out?!!!?<br/>VivaCut, Adobe Premiere, mazda miata, sony camera|title:The Heist II - Electric Boogaloo|youtube:E7tTIZSsSNg
+author:- the lost underground -|partyman-id:3a9b6ddf-fb14-415a-a2e7-830173bb3859|position:2|techniques:Join us on a journey to find peace amidst the chaos...<br/>Video Art compositing in After Effects, many digital and analog assets combined with an ambient synchronised audio soundscape.|title:A Psychedelic Peace|youtube:hUh1C2RTgtM
 
 
 :section Winter graphics
@@ -56,8 +56,8 @@ author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|techniques:Wh
 :ongoing true
 :partyman-slug graphics
 
-author:Midi|partyman-id:74d02bc1-a803-473a-b7df-a8595e9393d5|techniques:Photoshop, Wacom Intuos|title:Tundra Wanderers|image-file:winter-graphics/tundra-wanderers-by-midi.png
-author:Callisto / Syn[Rj]|partyman-id:37818c65-e026-41a4-b9d7-e1e14690391a|techniques:We invite you to the Shadow-party.org ;)<br/>Photoshop + wacom|title:You seem so delicious|image-file:winter-graphics/you-seem-so-delicious-by-callisto-syn-rj.png
+author:Callisto / Syn[Rj]|image-file:winter-graphics/you-seem-so-delicious-by-callisto-syn-rj.png|partyman-id:37818c65-e026-41a4-b9d7-e1e14690391a|position:1|techniques:We invite you to the Shadow-party.org ;)<br/>Photoshop + wacom|title:You seem so delicious
+author:Midi|image-file:winter-graphics/tundra-wanderers-by-midi.png|partyman-id:74d02bc1-a803-473a-b7df-a8595e9393d5|position:2|techniques:Photoshop, Wacom Intuos|title:Tundra Wanderers
 
 
 :section Winter photo
@@ -66,10 +66,10 @@ author:Callisto / Syn[Rj]|partyman-id:37818c65-e026-41a4-b9d7-e1e14690391a|techn
 :ongoing true
 :partyman-slug photo
 
-author:Janskuvaan|partyman-id:9947b945-d0e7-462c-bc4c-53ac1c569122|techniques:Things I took up due to COVID-19.<br/>iPhone 8 and Snapseed|title:What can you do within 4 walls?|image-file:winter-photo/what-can-you-do-with-4-walls-by-janskuvaan.jpeg
-author:malomaz|partyman-id:524aafd9-7b44-418c-8baa-7ded3fcd7594|techniques:Camera: Nikon D3300<br/>Lense: Samyang Fish-Eye CS 8mm f3.5<br/>Lightroom|title:Wait, what?|image-file:winter-photo/wait-what-by-malomaz.jpeg
-author:imjustpickle / - the lost underground -|partyman-id:cc0ff314-e782-40e5-9cc5-31b20425fa6d|techniques:'Not the Room We Booked' is part of a series of <br/>an old boarding house I was exploring before <br/>its final tear down.<br/>Shot on iPhone 5s<br/>Lightroom edits:<br/>-Lens Correction<br/>-Exposure<br/>-Colour Temperature<br/>-White Balance|title:Not the Room We Booked|image-file:winter-photo/not-the-room-we-booked-by-imjustpickle-the-lost-underground.jpeg
-author:Wode / Doomsday|partyman-id:103209c3-956e-4bd7-8691-97aa0d3c72a1|techniques:ISO64, 75mm, f/1.8, 13sec|title:Honey, don't play with matches... HONEY!!!|image-file:winter-photo/honey-don-t-play-with-matches-honey-by-wode-doomsday.jpeg
+author:Wode / Doomsday|image-file:winter-photo/honey-don-t-play-with-matches-honey-by-wode-doomsday.jpeg|partyman-id:103209c3-956e-4bd7-8691-97aa0d3c72a1|position:1|techniques:ISO64, 75mm, f/1.8, 13sec|title:Honey, don't play with matches... HONEY!!!
+author:malomaz|image-file:winter-photo/wait-what-by-malomaz.jpeg|partyman-id:524aafd9-7b44-418c-8baa-7ded3fcd7594|position:2|techniques:Camera: Nikon D3300<br/>Lense: Samyang Fish-Eye CS 8mm f3.5<br/>Lightroom|title:Wait, what?
+author:imjustpickle / - the lost underground -|image-file:winter-photo/not-the-room-we-booked-by-imjustpickle-the-lost-underground.jpeg|partyman-id:cc0ff314-e782-40e5-9cc5-31b20425fa6d|position:3|techniques:'Not the Room We Booked' is part of a series of <br/>an old boarding house I was exploring before <br/>its final tear down.<br/>Shot on iPhone 5s<br/>Lightroom edits:<br/>-Lens Correction<br/>-Exposure<br/>-Colour Temperature<br/>-White Balance|title:Not the Room We Booked
+author:Janskuvaan|image-file:winter-photo/what-can-you-do-with-4-walls-by-janskuvaan.jpeg|partyman-id:9947b945-d0e7-462c-bc4c-53ac1c569122|position:4|techniques:Things I took up due to COVID-19.<br/>iPhone 8 and Snapseed|title:What can you do within 4 walls?
 
 
 :section Winter streaming music
@@ -80,22 +80,22 @@ author:Wode / Doomsday|partyman-id:103209c3-956e-4bd7-8691-97aa0d3c72a1|techniqu
 :ongoing true
 :partyman-slug streaming-music
 
-author:Soundcat|partyman-id:1ee78bfd-3ed5-4558-9c08-1e97c70f6786|techniques:This is my first C64 SID Track and first entry to a demo competition, a drum and bass tune made on a C64C.<br/>Made natively on a PAL Commodore 64C with MOS Technology 8580 SID, using SidWizard 1.8.|title:EkTune|youtube:4nxJ-QSAjk0
-author:koltiainen / - the lost underground -|partyman-id:b5fb9a1b-ceaa-4e32-b412-75e5d19ace3a|techniques:‘Baretta Island Exotica II’ is a bouncy track bringing island vibes, letting inhibitions go...<br/>( also reference to the TV show :P )<br/>- tlu -’s Finnish member is proud to present his first submission to the infamous Assembly party!<br/>MPC Beats PC (Free Version)<br/>Old Casio Keyboard (Drum Samples)<br/>Baretta LP (Drum Samples)<br/>Vocals (Old Unknown VHS Movie)<br/>03:06 Length<br/>40Mb File Size|title:Baretta Island Exotica II|youtube:jJLf0kYOGaQ
-author:FRANK KUKAT / PELTO|partyman-id:dc1c1cf2-2ca4-4482-bbf0-8d61b3a049ca|techniques:I have been making psychedelic electronic music since 90s in various collabs and projects, also releasing some for Human Spectrum Records and Random Records labels. In my music I value mysticism, spirituality and ofc  trancendance!<br/>FLStudio, samples, VST synths and effects. Self-mastered using Audacity and Izotope Ozone|title:Stranger to this world|youtube:adQ1Pk403k0
-author:Jarsk1e|partyman-id:8879e3fa-7e30-46b0-8ab5-25629a1c4ee1|techniques:Hi mum, I'm on TV!<br/>Renoise and bunch of VSTs|title:Digital Future|youtube:EDwGSdRJuyc
-author:Pyrdelic|partyman-id:b5371213-0592-4024-adef-acccc1887380|techniques:&lt;3<br/>Reaper DAW, Massive, BazzISM2|title:Determination|youtube:Erz5TiazJWs
-author:Mergente|partyman-id:26226ecb-43cb-48b7-9baa-707dfb1c7112|techniques:Inspired by the sound of George Clanton<br/>FL Studio|title:Ikuinen jahti|youtube:OgUST4kV5Qs
-author:mAZE / dSr|partyman-id:eaca249d-fb25-45e8-a5e2-4a2c63fca77c|techniques:Just a little something for this streaming compo. Its 23seconds too long. Sorry about that.. Big thanks to Virgill for some minor mastering.<br/>FL Studio 20, Reveal Spire, 9,1mb.|title:Escape from Reality|youtube:Lob34ryMWOU
-author:Jon Tardis|partyman-id:732d82ec-b7a6-4f62-8a4c-f799aeec3e18|techniques:|title:moon is made of cheese|youtube:C2Svms34dFw
-author:eimink / Wide Load ^ Vanha Mediakunta|partyman-id:4d57dfb0-6f37-4553-82fc-bcd6557d289e|techniques:Back to the trance.<br/>Ableton Live 11, Roland Cloud|title:Back to the 00s|youtube:r-893vNZvYI
-author:mad droid|partyman-id:996499c8-1816-4538-807e-f092e4470d3d|techniques:|title:initialization|youtube:EcF0wn0VQgQ
-author:Kamson / ind.|partyman-id:da3893f0-2eb9-45f0-b620-a8e78f6d196a|techniques:Made almost entirely with smartphones! Beat: G-Stomper Rhythm (Android); the rest: Garage Band (iOS). Minor plug-in post-processing with Cakewalk (PC).|title:Approaching Regis III (party ver.)|youtube:j2JizOLFp30
-author:Spacey|partyman-id:ca2f41be-d76c-43d4-ad61-d0c2081e0778|techniques:Renoise 3|title:wOOt|youtube:_pHC6Urb7Bg
-author:Aikapallo|partyman-id:e9884e87-7123-45cf-81e9-73153734aaf0|techniques:Pax et Bonum! Greetings to Pyrotech.<br/>Cubase and multiple VSTi|title:Sons of Mars|youtube:Tjs_Kd9XKiQ
-author:Roz / Fit ^ Byterapers|partyman-id:ea34c6d0-3f93-4e6d-9a69-aa961eed2140|techniques:1989 called. Wants his disco back.<br/>Cubase 11, Omnisphere, ASM Hydrasynth, Roland Integra-7, TB-03 + BX-800|title:Nuances|youtube:bxvrHRRKyxA
-author:jeenio|partyman-id:be6c2fb1-c29b-4f35-8381-eb4406b8c12a|techniques:Puinen rakastajani.<br/>Rakkauteni sinua kohtaan on syvempi kuin syvin nuotti, jonka annat minulle.<br/>Reaper, NI Komplete, Google translate speech synth|title:My Wooden Lover|youtube:5s99zJ-YxW8
-author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|techniques:Free VSTs, skill, good vibes|title:LASERTREE|youtube:pjsGbwUBHq4
+author:Jarsk1e|partyman-id:8879e3fa-7e30-46b0-8ab5-25629a1c4ee1|position:1|techniques:Hi mum, I'm on TV!<br/>Renoise and bunch of VSTs|title:Digital Future|youtube:EDwGSdRJuyc
+author:Aikapallo|partyman-id:e9884e87-7123-45cf-81e9-73153734aaf0|position:2|techniques:Pax et Bonum! Greetings to Pyrotech.<br/>Cubase and multiple VSTi|title:Sons of Mars|youtube:Tjs_Kd9XKiQ
+author:Roz / Fit ^ Byterapers|partyman-id:ea34c6d0-3f93-4e6d-9a69-aa961eed2140|position:3|techniques:1989 called. Wants his disco back.<br/>Cubase 11, Omnisphere, ASM Hydrasynth, Roland Integra-7, TB-03 + BX-800|title:Nuances|youtube:bxvrHRRKyxA
+author:Spacey|partyman-id:ca2f41be-d76c-43d4-ad61-d0c2081e0778|position:4|techniques:Renoise 3|title:wOOt|youtube:_pHC6Urb7Bg
+author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|position:5|techniques:Free VSTs, skill, good vibes|title:LASERTREE|youtube:pjsGbwUBHq4
+author:jeenio|partyman-id:be6c2fb1-c29b-4f35-8381-eb4406b8c12a|position:6|techniques:Puinen rakastajani.<br/>Rakkauteni sinua kohtaan on syvempi kuin syvin nuotti, jonka annat minulle.<br/>Reaper, NI Komplete, Google translate speech synth|title:My Wooden Lover|youtube:5s99zJ-YxW8
+author:eimink / Wide Load ^ Vanha Mediakunta|partyman-id:4d57dfb0-6f37-4553-82fc-bcd6557d289e|position:7|techniques:Back to the trance.<br/>Ableton Live 11, Roland Cloud|title:Back to the 00s|youtube:r-893vNZvYI
+author:Pyrdelic|partyman-id:b5371213-0592-4024-adef-acccc1887380|position:8|techniques:&lt;3<br/>Reaper DAW, Massive, BazzISM2|title:Determination|youtube:Erz5TiazJWs
+author:mAZE / dSr|partyman-id:eaca249d-fb25-45e8-a5e2-4a2c63fca77c|position:9|techniques:Just a little something for this streaming compo. Its 23seconds too long. Sorry about that.. Big thanks to Virgill for some minor mastering.<br/>FL Studio 20, Reveal Spire, 9,1mb.|title:Escape from Reality|youtube:Lob34ryMWOU
+author:FRANK KUKAT / PELTO|partyman-id:dc1c1cf2-2ca4-4482-bbf0-8d61b3a049ca|position:10|techniques:I have been making psychedelic electronic music since 90s in various collabs and projects, also releasing some for Human Spectrum Records and Random Records labels. In my music I value mysticism, spirituality and ofc  trancendance!<br/>FLStudio, samples, VST synths and effects. Self-mastered using Audacity and Izotope Ozone|title:Stranger to this world|youtube:adQ1Pk403k0
+author:Mergente|partyman-id:26226ecb-43cb-48b7-9baa-707dfb1c7112|position:11|techniques:Inspired by the sound of George Clanton<br/>FL Studio|title:Ikuinen jahti|youtube:OgUST4kV5Qs
+author:Jon Tardis|partyman-id:732d82ec-b7a6-4f62-8a4c-f799aeec3e18|position:11|techniques:|title:moon is made of cheese|youtube:C2Svms34dFw
+author:Soundcat|partyman-id:1ee78bfd-3ed5-4558-9c08-1e97c70f6786|position:13|techniques:This is my first C64 SID Track and first entry to a demo competition, a drum and bass tune made on a C64C.<br/>Made natively on a PAL Commodore 64C with MOS Technology 8580 SID, using SidWizard 1.8.|title:EkTune|youtube:4nxJ-QSAjk0
+author:mad droid|partyman-id:996499c8-1816-4538-807e-f092e4470d3d|position:14|techniques:|title:initialization|youtube:EcF0wn0VQgQ
+author:Kamson / ind.|partyman-id:da3893f0-2eb9-45f0-b620-a8e78f6d196a|position:15|techniques:Made almost entirely with smartphones! Beat: G-Stomper Rhythm (Android); the rest: Garage Band (iOS). Minor plug-in post-processing with Cakewalk (PC).|title:Approaching Regis III (party ver.)|youtube:j2JizOLFp30
+author:koltiainen / - the lost underground -|partyman-id:b5fb9a1b-ceaa-4e32-b412-75e5d19ace3a|position:16|techniques:‘Baretta Island Exotica II’ is a bouncy track bringing island vibes, letting inhibitions go...<br/>( also reference to the TV show :P )<br/>- tlu -’s Finnish member is proud to present his first submission to the infamous Assembly party!<br/>MPC Beats PC (Free Version)<br/>Old Casio Keyboard (Drum Samples)<br/>Baretta LP (Drum Samples)<br/>Vocals (Old Unknown VHS Movie)<br/>03:06 Length<br/>40Mb File Size|title:Baretta Island Exotica II|youtube:jJLf0kYOGaQ
 
 
 :section Winter tracked music
@@ -105,13 +105,13 @@ author:ihanalammas|partyman-id:6cb4cc9d-41eb-47f4-9abb-0df32ef4ba7f|techniques:F
 :youtube-playlist PLJO4AtxKJiFPPUowVTUBKFBY2z5lsh-rC
 :partyman-slug tracker-music
 
-author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|techniques:Old scene rules! Amiga not dead!<br/>The module is in .xm format  (FastTracker)   but i made it on DigiBooster Pro on Amiga 1200 :)|title:Resistant to hatred|youtube:h_uClISibOM
-author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|techniques:10 PRINT "HELLO, WORLD"; 20 GOTO 10<br/>PC, FastTracker II, 4 channels and NES samples|title:Dub Man II|youtube:mTbxgViOCe4
-author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|techniques:|title:snow down|youtube:i5TTfnwooxc
-author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|techniques:Amiga 4ch MOD.|title:Aftertime|youtube:hIgbsQTh0Do
-author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|techniques:Visit 'https://noizzica.blogspot.com/' for more chiptunes!<br/>Made with Hively Tracker.|title:In My Tiny Starship|youtube:uAe9wZHMqTc
-author:e!ghtbm|partyman-id:6063a8c2-5c25-408e-b72f-d529128a0136|techniques:dreaming about a cord of patchcables, dancing into the patch bay of a red modular system ...<br/>recorded with a little help of my deepmind6 &amp; blofeld|title:i dream about the wires|youtube:zP_z4zLsF-8
-author:rawArgon|partyman-id:3f7db2a2-5710-4dcf-951d-7f4b34c00fac|techniques:Buzzy samples<br/>FT2 clone, 14-channel xm|title:Shrine of the Carboxylated Cetaceans|youtube:XCUI-Gn1EhA
-author:Roz / Fit ^ Byterapers|partyman-id:8e20b935-a451-4e3d-8c15-51d4761fbec4|techniques:Four channels of double bassdrum ought to be enough.<br/>FT 2 clone, Roland Integra-7, TB-03+BX-800|title:Everyhero|youtube:JIWZ6dHb1Cg
-author:Defilus|partyman-id:23da5cef-0f56-4ab5-9cd6-fe2227b3cd96|techniques:2021<br/>.skm 4ch|title:Ce la vie|youtube:T7LTuqwDqI8
+author:Roz / Fit ^ Byterapers|partyman-id:8e20b935-a451-4e3d-8c15-51d4761fbec4|position:1|techniques:Four channels of double bassdrum ought to be enough.<br/>FT 2 clone, Roland Integra-7, TB-03+BX-800|title:Everyhero|youtube:JIWZ6dHb1Cg
+author:AceMan & Mygg|partyman-id:0ad9b947-9b85-4cd4-8dd5-4cb561ab61eb|position:2|techniques:Amiga 4ch MOD.|title:Aftertime|youtube:hIgbsQTh0Do
+author:rawArgon|partyman-id:3f7db2a2-5710-4dcf-951d-7f4b34c00fac|position:3|techniques:Buzzy samples<br/>FT2 clone, 14-channel xm|title:Shrine of the Carboxylated Cetaceans|youtube:XCUI-Gn1EhA
+author:Defilus|partyman-id:23da5cef-0f56-4ab5-9cd6-fe2227b3cd96|position:4|techniques:2021<br/>.skm 4ch|title:Ce la vie|youtube:T7LTuqwDqI8
+author:Kamson / ind.|partyman-id:6b3e2abb-e04f-452d-a786-c76dad16014c|position:5|techniques:Visit 'https://noizzica.blogspot.com/' for more chiptunes!<br/>Made with Hively Tracker.|title:In My Tiny Starship|youtube:uAe9wZHMqTc
+author:e!ghtbm|partyman-id:6063a8c2-5c25-408e-b72f-d529128a0136|position:6|techniques:dreaming about a cord of patchcables, dancing into the patch bay of a red modular system ...<br/>recorded with a little help of my deepmind6 &amp; blofeld|title:i dream about the wires|youtube:zP_z4zLsF-8
+author:Jarsk1e|partyman-id:54ea43fd-424d-4d95-948a-f9720bbf7868|position:7|techniques:10 PRINT "HELLO, WORLD"; 20 GOTO 10<br/>PC, FastTracker II, 4 channels and NES samples|title:Dub Man II|youtube:mTbxgViOCe4
+author:mpxvm & adkd|partyman-id:22d71c11-061c-4f5f-92f5-8ccf137ff3dd|position:8|techniques:|title:snow down|youtube:i5TTfnwooxc
+author:TZX|partyman-id:f427bbc1-bdf1-404f-987e-87f1ec927a1b|position:9|techniques:Old scene rules! Amiga not dead!<br/>The module is in .xm format  (FastTracker)   but i made it on DigiBooster Pro on Amiga 1200 :)|title:Resistant to hatred|youtube:h_uClISibOM
 
