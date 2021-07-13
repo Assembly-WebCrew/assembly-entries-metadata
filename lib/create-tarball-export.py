@@ -277,7 +277,7 @@ def entry_position_description_factory(
 def calculate_checksum(data: bytes) -> str:
     m = hashlib.sha256()
     m.update(data)
-    return base64.urlsafe_b64encode(m.digest())[:6].decode("utf-8")
+    return base64.urlsafe_b64encode(m.digest())[:8].decode("utf-8")
 
 
 def meta_entry(
