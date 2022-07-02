@@ -4,7 +4,6 @@
 :party-name Assembly Winter 2021
 :compo-name demo
 :description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2021 PC computer.</p>
-:ongoing true
 :partyman-slug demo
 
 author:Wide Load|partyman-id:9629e87a-f1f2-4670-906a-7f3b95d46d2c|position:1|techniques:Only happened due to extended deadline<br/>Webgl2, KVG Engine, Webaudio, Affinity, Flame painter|title:Argon|youtube:A60Qy2O6kng
@@ -15,7 +14,6 @@ author:Mandarine|partyman-id:a5fb8c14-0316-4e7e-af5a-59bc545a438b|position:2|tec
 :party-name Assembly Winter 2021
 :compo-name intro
 :description <p></p>
-:ongoing true
 :partyman-slug intro
 
 author:eimink|partyman-id:af5fe2c8-6bca-44ca-8497-9fa55cc299f9|position:1|techniques:Noticed lack of entries so here's my first 4k. (3184 bytes)<br/>glsl, 4klang, crinkler and compofiller studio|title:Project R-26 B|youtube:sowSuRfOEAs
@@ -29,7 +27,6 @@ author:Fiture Crew Lamer Section|partyman-id:25123f61-e07f-4618-bf33-7236e662b03
 :party-name Assembly Winter 2021
 :compo-name one scene
 :youtube-playlist PLJO4AtxKJiFOFLTeRdJ9eQJsNea-RkHu1
-:ongoing true
 :partyman-slug one-scene
 
 author:Wide Load|partyman-id:c2f59532-aa7f-4077-b2e0-60e2beeabc67|position:1|techniques:wappuradio.fi/sceneradio<br/>webg2l, Kvg engine, typescript, glsl|title:Sceneradio invitation|youtube:SmOgVCDKqVk
@@ -43,7 +40,6 @@ author:hajame|partyman-id:f18fd435-d335-40ea-8127-ddef3ebf15cb|position:6|techni
 :section Winter short film
 :party-name Assembly Winter 2021
 :compo-name short film
-:ongoing true
 :partyman-slug short-film
 
 author:Meemih?mot|partyman-id:df0474a8-8dff-4351-ac6f-d9800f317fd2|position:1|techniques:What happens when you make a 7 minute edit and lose all the files? It's 1.5x time!<br/>Three agents get in a mission to steal an important flash drive full of confidential info. What happens next? Watch to find out?!!!?<br/>VivaCut, Adobe Premiere, mazda miata, sony camera|title:The Heist II - Electric Boogaloo|youtube:E7tTIZSsSNg
@@ -53,7 +49,6 @@ author:- the lost underground -|partyman-id:3a9b6ddf-fb14-415a-a2e7-830173bb3859
 :section Winter graphics
 :party-name Assembly Winter 2021
 :compo-name graphics
-:ongoing true
 :partyman-slug graphics
 
 author:Callisto / Syn[Rj]|image-file:winter-graphics/you-seem-so-delicious-by-callisto-syn-rj.png|partyman-id:37818c65-e026-41a4-b9d7-e1e14690391a|position:1|techniques:We invite you to the Shadow-party.org ;)<br/>Photoshop + wacom|title:You seem so delicious
@@ -63,7 +58,6 @@ author:Midi|image-file:winter-graphics/tundra-wanderers-by-midi.png|partyman-id:
 :section Winter photo
 :party-name Assembly Winter 2021
 :compo-name Demo
-:ongoing true
 :partyman-slug photo
 
 author:Wode / Doomsday|image-file:winter-photo/honey-don-t-play-with-matches-honey-by-wode-doomsday.jpeg|partyman-id:103209c3-956e-4bd7-8691-97aa0d3c72a1|position:1|techniques:ISO64, 75mm, f/1.8, 13sec|title:Honey, don't play with matches... HONEY!!!
@@ -77,7 +71,6 @@ author:Janskuvaan|image-file:winter-photo/what-can-you-do-with-4-walls-by-jansku
 :compo-name streaming music
 :section-thumbnail music-thumbnail-winter
 :youtube-playlist PLJO4AtxKJiFPyNljRysN3fXfQH8YoGV-w
-:ongoing true
 :partyman-slug streaming-music
 
 author:Jarsk1e|partyman-id:8879e3fa-7e30-46b0-8ab5-25629a1c4ee1|position:1|techniques:Hi mum, I'm on TV!<br/>Renoise and bunch of VSTs|title:Digital Future|youtube:EDwGSdRJuyc
