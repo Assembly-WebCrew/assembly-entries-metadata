@@ -516,7 +516,7 @@ def meta_entry(
         thumbnails = music_thumbnails
     else:
         thumbnail_base = asmmetadata.select_thumbnail_base(entry)
-        assert thumbnail_base is not None
+        assert thumbnail_base is not None, entry
         archive_dir = "%s/%s" % (
             normalized_section, normalized_name)
         try:
@@ -580,10 +580,7 @@ for section in entry_data.sections:
         section, args.pms_vote_template)
 
     sorted_entries = asmmetadata.sort_entries(section['entries'])
-    # Music files have all the same thumbnail.
     section_thumbnail = section.get("section-thumbnail")
-    if 'music' in section['name'].lower():
-        assert section_thumbnail, "Section thumbnail for section %s is missing!" % section["name"]
 
     section_thumbnails_meta = None
     if section_thumbnail:

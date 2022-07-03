@@ -1,5 +1,68 @@
 :year 2021
 
+:section Creative Tech Combined Demo
+:party-name Assembly Creative Tech 2021
+:compo-name ctech-combined-demo
+
+author:Extream|position:1|title:Trippus Lunaticus|youtube:v3b5srLeb0Y
+author:TPOLM|position:2|title:Death Room|youtube:9acDWx3Ga60
+author:IVORY|position:3|title:E111|youtube:6mh5A3dQlz0
+author:astral|position:4|title:Superwide Reality 2|youtube:LgAySQL9gYM
+author:Wide Load|position:5|title:Canvas|youtube:Bniwzit34R4
+author:Alpha Design|position:6|title:Lasagne|youtube:C0yETpfgG5M
+author:I.A.Jääskeläinen|position:7|title:Andy and Blondie|youtube:sDyYMx7ylEQ
+author:Jumalauta|position:8|title:This thing is killing me|youtube:0xiFg7Z9DuE
+author:Jumalauta|position:9|title:10|youtube:5jFr4hJO_F8
+author:XKikkel7|position:10|title:Salesman Of The World|youtube:JKSaS_ZsqNo
+author:Hackers Human Industries®|position:11|title:From Kiveriö To Eternity|youtube:K4NCq-g2_AI
+author:AateKorjaamo|position:12|title:AK-09: Meaning?|youtube:IXJAS74DwQE
+author:Partyline|position:13|title:Benefits of Online Demoparties|youtube:w-v65N56EwI
+
+:section Creative Tech Wild / Short film
+:party-name Assembly Creative Tech 2021
+:compo-name ctech-wild-short-film
+
+author:HBC|position:1|title:HBC-00021: PULP|youtube:AbgYUNcUr5s
+author:rawArgon|position:2|title:snäkätor|youtube:zJHL28aRkis
+author:hedelmae|position:3|title:Vattu|youtube:hYRosDI05dY
+author:Teijo Pellinen & Mikko Karvonen (Yolk / CNCD)|position:4|title:Swedenborg Cylinder|youtube:9y-LhXRjwaY
+author:Quadtrip|position:5|title:haught pattah|youtube:01TuB52D2S8
+author:Quadtrip|position:6|title:Adante|youtube:ul9duRBwNh8
+author:Meemih*mot|position:7|title:Nakinkääntäjä|youtube:14wKi4XdaNo
+author:Nosfe|position:8|title:Direct Action Is, Ultimately, the Defiant Insistence On Acting As If One Is Already Free|youtube:pip53AdbC8w
+author:Nosfe|position:9|title:The most violent element in society is ignorance.|youtube:bxDd-R9yu0E
+
+:section Creative Tech Combined Graphics
+:party-name Assembly Creative Tech 2021
+:compo-name ctech-combined-graphics
+
+author:Croaker / TPOLM^Halcyon|position:1|title:Japanese monkey demon
+author:Darkki|position:2|title:Artifact
+author:Partikle|position:3|title:By the ruins
+author:Felor|position:4|title:Astral fight
+author:Neon|position:5|title:Wendigo In The Woods
+author:Nosfe|position:6|title:Jaettilaeinen
+author:maxon/HBC|position:7|title:Autocone
+author:la_mettrie / hkäp|position:8|title:Bad glitch day
+author:Meemih*mot|position:9|title:Pertti Eräreikä
+author:Spoonbread|position:10|title:Badlands
+author:appas|position:11|title:Buddhafield
+author:HemmoB Collective|position:12|title:SpedeLove
+
+:section Creative Tech Intermission Music
+:party-name Assembly Creative Tech 2021
+:compo-name ctech-intermission-music
+
+author:Alysius / Akustikrausch|position:1|title:Horizon|youtube:hu6qLH1QgRQ
+author:Defilus|position:2|title:Ear bud boogie|youtube:9p6d8Hlktc8
+author:Mergente|position:2|title:Hyperman|youtube:Zyep8ybXtAc
+author:E621|position:4|title:Emerge|youtube:GyULdmfn1JM
+author:la_mettrie / hkäp|position:5|title:Minulla on päässä prosessori|youtube:Xf1bH_B2-FA
+author:Castor / Inversion|position:6|title:8-bit Baby|youtube:AWmmKL6SntY
+author:Azhrak|position:7|title:Lucid Dreams|youtube:9lf6f2sG0KQ
+author:Tom Pearl Fan Club|position:7|title:Röllercöäst|youtube:6npypE9Ugvo
+author:eimink|position:9|title:Freeform midisax|youtube:AgkhYoqLIT4
+
 :section Winter demo
 :party-name Assembly Winter 2021
 :compo-name demo
