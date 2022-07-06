@@ -36,18 +36,18 @@ author:Nosfe|position:9|title:The most violent element in society is ignorance.|
 :party-name Assembly Creative Tech 2021
 :compo-name ctech-combined-graphics
 
-author:Croaker / TPOLM^Halcyon|position:1|title:Japanese monkey demon
-author:Darkki|position:2|title:Artifact
-author:Partikle|position:3|title:By the ruins
-author:Felor|position:4|title:Astral fight
-author:Neon|position:5|title:Wendigo In The Woods
-author:Nosfe|position:6|title:Jaettilaeinen
-author:maxon/HBC|position:7|title:Autocone
-author:la_mettrie / hkäp|position:8|title:Bad glitch day
-author:Meemih*mot|position:9|title:Pertti Eräreikä
-author:Spoonbread|position:10|title:Badlands
-author:appas|position:11|title:Buddhafield
-author:HemmoB Collective|position:12|title:SpedeLove
+author:Croaker / TPOLM^Halcyon|position:1|title:Japanese monkey demon|image-file:ctech-combined-graphics/japanese-monkey-demon-by-croaker-tpolm-halcyon.png
+author:Darkki|position:2|title:Artifact|image-file:ctech-combined-graphics/artifact-by-darkki.jpeg
+author:Partikle|position:3|title:By the ruins|image-file:ctech-combined-graphics/by-the-ruins-by-partikle.jpeg
+author:Felor|position:4|title:Astral fight|image-file:ctech-combined-graphics/astral-fight-by-felor.png
+author:Neon|position:5|title:Wendigo In The Woods|image-file:ctech-combined-graphics/wendigo-in-the-woods-by-neon.png
+author:Nosfe|position:6|title:Jaettilaeinen|image-file:ctech-combined-graphics/jaettilaeinen-by-nosfe.jpeg
+author:maxon/HBC|position:7|title:Autocone|image-file:ctech-combined-graphics/autocone-by-maxon-hbc.png
+author:la_mettrie / hkäp|position:8|title:Bad glitch day|image-file:ctech-combined-graphics/bad-glitch-day-by-la-mettrie-hkap.png
+author:Meemih*mot|position:9|title:Pertti Eräreikä|image-file:ctech-combined-graphics/pertti-erareika-by-meemih-mot.jpeg
+author:Spoonbread|position:10|title:Badlands|image-file:ctech-combined-graphics/badlands-by-spoonbread.png
+author:appas|position:11|title:Buddhafield|image-file:ctech-combined-graphics/buddhafield-by-appas.png
+author:HemmoB Collective|position:12|title:SpedeLove|image-file:ctech-combined-graphics/spedelove-by-hemmob-collective.jpeg
 
 :section Creative Tech Intermission Music
 :party-name Assembly Creative Tech 2021
