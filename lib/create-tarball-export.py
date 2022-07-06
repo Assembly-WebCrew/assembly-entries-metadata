@@ -323,16 +323,21 @@ def meta_entry(
             description += description_generator(entry, placement_str)
 
     if 'description' in entry:
-        description += u"%s</p>\n<p>" % entry['description']
+        description += f"{entry['description']}</p>\n<p>"
 
     if 'platform' in entry:
-        description += u"Platform: %s</p>\n<p>" % html.escape(entry['platform'])
+        description += "Platform: %s</p>\n<p>" % html.escape(entry['platform'])
 
     if 'techniques' in entry:
-        description += u"Notes: %s</p>\n<p>" % html.escape(entry['techniques'])
+        description += "Notes: %s</p>\n<p>" % html.escape(entry['techniques'])
 
     if display_author is not None:
-        description += u"Author: %s\n" % html.escape(display_author)
+        description += (
+            f"Author: <a " +
+            "href=\"../../search?q=%s\" " % html.escape(display_author, quote=True) +
+            f"title=\"Do an approximate search on author's name from all entries\"" +
+            ">%s</a>\n" % html.escape(display_author)
+        )
 
     # Twitch embed does not work
     # if "twitch" in entry:
