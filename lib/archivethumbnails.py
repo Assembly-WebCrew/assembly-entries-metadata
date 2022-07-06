@@ -15,6 +15,7 @@ import typing
 
 ImageSize = collections.namedtuple(
     "ImageSize", ["x", "y", "extra_convert_params"])
+ThumbnailCreateParams = typing.Tuple[ImageSize, str, ImageSize, str]
 # Disable decompression bomb protection. This is required to process
 # some PNG images with PIL...
 PIL.ImageFile.LOAD_TRUNCATED_IMAGES = True
@@ -131,7 +132,7 @@ def save_face_detect_data(filename: str, data: FaceDetectData) -> None:
     atomic_write_file(filename, out_image_data + faces_str)
 
 
-def resize_image(image, max_pixels):
+def resize_image(image, max_pixels: int):
     width, height, _ = image.shape
     scaling_factor = math.sqrt(float(max_pixels) / (width * height))
     new_width = int(scaling_factor * width)
@@ -201,8 +202,9 @@ class FaceDetector:
 
 
 def create_thumbnail(
-        size: ImageSize,
+        original_size: ImageSize,
         original_image: str,
+        target_size: ImageSize,
         target_file: str) -> None:
     if os.path.exists(target_file):
         return
@@ -210,22 +212,40 @@ def create_thumbnail(
         prefix=".thumbnail-", suffix=".png")
     temporary_resized_image = temporary_resized_fp.name
 
-    subprocess.check_call(
-        ['convert', original_image, '-resize', '%dx20000' % size.x,
-         temporary_resized_image])
+    upscaled_x = 0
+    source_image = original_image
+    if original_size.x < target_size.x:
+        temporary_nearest_neighbor_fp = tempfile.NamedTemporaryFile(
+            prefix=".thumbnail-nn-", suffix=".png")
+        temporary_nearest_neighbor_image = temporary_nearest_neighbor_fp.name
+        upscaled_multiplier = int(math.ceil(float(target_size.x) / original_size.x))
+        upscaled_x = original_size.x * upscaled_multiplier
+        upscaled_percentage = 100 * upscaled_multiplier
+        subprocess.check_call(
+            ['convert', source_image, '-scale', '%d%%' % upscaled_percentage,
+             temporary_nearest_neighbor_image])
+        source_image = temporary_nearest_neighbor_image
+
+
+    if target_size.x == upscaled_x:
+        temporary_resized_image = source_image
+    else:
+        subprocess.check_call(
+            ['convert', source_image, '-resize', '%dx20000' % target_size.x,
+             temporary_resized_image])
 
     # XXX hack
     convert_params = []
     if target_file.endswith(".jpeg"):
-        convert_params = size.extra_convert_params
-    if size.y is not None:
-        target_size = "%dx%d" % (size.x, size.y)
+        convert_params = target_size.extra_convert_params
+    if target_size.y is not None:
+        target_crop_size = "%dx%d" % (target_size.x, target_size.y)
         convert_call = [
             'convert',
             '-gravity',
             'Center',
             '-crop',
-            '%s+0+0' % target_size,
+            '%s+0+0' % target_crop_size,
             '+repage'] + convert_params
         subprocess.check_call(
             convert_call + [temporary_resized_image, target_file])
@@ -245,25 +265,25 @@ def create_thumbnails_tasks(
         original_image: str,
         target_prefix: str,
         default_size: ImageSize,
-        extra_sizes: typing.List[ImageSize]):
+        extra_sizes: typing.List[ImageSize]) -> typing.List[ThumbnailCreateParams]:
     creations = []
     size = get_image_size(original_image)
     default_jpeg = "%s-%dw.jpeg" % (target_prefix, default_size.x)
     if not os.path.exists(default_jpeg):
-        creations.append((default_size, original_image, default_jpeg))
+        creations.append((size, original_image, default_size, default_jpeg))
     default_png = "%s-%dw.png" % (target_prefix, default_size.x)
     if not os.path.exists(default_png):
-        creations.append((default_size, original_image, default_png))
+        creations.append((size, original_image, default_size, default_png))
 
     for extra_size in extra_sizes:
         extra_jpeg = "%s-%dw.jpeg" % (target_prefix, extra_size.x)
         extra_png = "%s-%dw.png" % (target_prefix, extra_size.x)
-        if size.x < extra_size.x:
-            if os.path.exists(extra_jpeg):
-                os.remove(extra_jpeg)
-            if os.path.exists(extra_png):
-                os.remove(extra_png)
-            continue
+        # if size.x < extra_size.x:
+        #     if os.path.exists(extra_jpeg):
+        #         os.remove(extra_jpeg)
+        #     if os.path.exists(extra_png):
+        #         os.remove(extra_png)
+        #     continue
 
         if os.path.islink(extra_jpeg):
             os.remove(extra_jpeg)
@@ -271,8 +291,8 @@ def create_thumbnails_tasks(
             os.remove(extra_png)
 
         if not os.path.exists(extra_jpeg):
-            creations.append((extra_size, original_image, extra_jpeg))
+            creations.append((size, original_image, extra_size, extra_jpeg))
         if not os.path.exists(extra_png):
-            creations.append((extra_size, original_image, extra_png))
+            creations.append((size, original_image, extra_size, extra_png))
 
     return creations

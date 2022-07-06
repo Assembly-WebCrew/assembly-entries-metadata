@@ -8,9 +8,10 @@ import multiprocessing
 import os
 import os.path
 import sys
+import typing
 
 
-def main(argv):
+def main(argv: typing.List[str]) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("datafile")
     parser.add_argument("dataroot")
@@ -56,10 +57,11 @@ def main(argv):
         if not ('webfile' in entry or 'image-file' in entry or 'galleriafi' in entry):
             continue
         filename = entry.get('webfile') or entry.get('image-file')
-        if entry.get("galleriafi"):
+        galleriafi_entry = entry.get("galleriafi")
+        if galleriafi_entry is not None:
             filename = "%s/%s" % (
                 asmmetadata.normalize_key(entry['section']['name']),
-                asmmetadata.get_galleriafi_filename(entry.get("galleriafi")))
+                asmmetadata.get_galleriafi_filename(galleriafi_entry))
         if filename is None:
             filename = "%s/%s-by-%s.jpeg" % (
                 asmmetadata.normalize_key(entry['section']['name']),
