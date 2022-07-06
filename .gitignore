@@ -5,6 +5,7 @@ develop-eggs/
 eggs/
 downloads/
 assembly_entries_metadata.egg-info/
+venv/
 
 build/
 variables.inc.sh
