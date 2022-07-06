@@ -5,6 +5,7 @@ import dataclasses
 import dlib  # type: ignore
 import logging
 import math
+import numpy
 import os
 import os.path
 import PIL.Image  # type: ignore
@@ -132,7 +133,7 @@ def save_face_detect_data(filename: str, data: FaceDetectData) -> None:
     atomic_write_file(filename, out_image_data + faces_str)
 
 
-def resize_image(image, max_pixels: int):
+def resize_image(image: numpy.ndarray, max_pixels: int) -> numpy.ndarray:
     width, height, _ = image.shape
     scaling_factor = math.sqrt(float(max_pixels) / (width * height))
     new_width = int(scaling_factor * width)
