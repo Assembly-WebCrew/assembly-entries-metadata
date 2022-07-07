@@ -34,7 +34,18 @@ def get_image_size(filename: str) -> ImageSize:
 
 def optimize_png(source: str) -> None:
     temporary_png = "%s.zpng" % source
-    subprocess.check_call(['zopflipng', '-m', '-y', source, temporary_png])
+    run_optipng = False
+    try:
+        subprocess.check_call(
+            ['zopflipng', '-m', '-y', source, temporary_png])
+    # There are bugs either in GraphicsMagick or zopflipng that can
+    # fail zopflipng. Run optipng in that case.
+    except subprocess.CalledProcessError as e:
+        logging.warning("Unable to run zopflipng on %r", source)
+        run_optipng = True
+    if run_optipng:
+        subprocess.check_call(
+            ['optipng', '-o7', '-out', temporary_png, source])
     subprocess.check_call(['mv', temporary_png, source])
 
 
