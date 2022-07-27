@@ -20,6 +20,7 @@ import tarfile
 import typing
 import time
 import urllib
+import urllib.parse
 
 JsonDict = typing.Dict[str, typing.Optional[typing.Any]]
 
@@ -334,7 +335,7 @@ def meta_entry(
     if display_author is not None:
         description += (
             f"Author: <a " +
-            "href=\"../../search?q=%s\" " % html.escape(display_author, quote=True) +
+            "href=\"../../search?q=%s\" " % urllib.parse.quote_plus(display_author) +
             f"title=\"Do an approximate search on author's name from all entries\"" +
             ">%s</a>\n" % html.escape(display_author)
         )
