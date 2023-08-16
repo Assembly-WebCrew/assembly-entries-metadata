@@ -1,0 +1,212 @@
+:year 2022
+
+:section 1k Intro
+:youtube-playlist PLJO4AtxKJiFNq3dR0oIk_3mNtnvXe35el
+
+author:Digimind|platform:Windows|position:1|title:Vivid Pixels|youtube:_hRkOR-FIOI|sceneorg:/parties/2022/assembly_summer22/1k/vivid_pixels.zip|pouet:91903
+author:Ate Bit, Ribbon|platform:Javascript|position:2|title:M22|youtube:07CavNSCTbg|sceneorg:/parties/2022/assembly_summer22/1k/m22.zip|pouet:91904
+author:rawArgon|platform:Javascript|position:3|title:1k-meripäivä|youtube:iWdY9DUJ3HQ|sceneorg:/parties/2022/assembly_summer22/1k/1k-meripaiva.zip|pouet:91942
+author:oo|platform:Windows|position:4|title:Happy Birthday Assembly!|youtube:t6JOJVEXGOc|sceneorg:/parties/2022/assembly_summer22/1k/intro_exe.zip|pouet:91969
+author:knl|platform:Windows|position:5|title:Untz|youtube:kq2TmwrY-DE
+author:qma|platform:Windows|position:6|title:Marsh Critter|youtube:-bjVJBpGRKY|sceneorg:/parties/2022/assembly_summer22/1k/marsh_critter__by__qma.zip|pouet:93142
+
+:section 4k Intro
+:youtube-playlist PLJO4AtxKJiFMOKojdLSVQ-Z9oT-JAGDIM
+
+author:oo|platform:Windows|position:1|title:Thir(s)ty (First)|youtube:7smzWG8w36Q|sceneorg:/parties/2022/assembly_summer22/4k/intro.exe|pouet:91940
+author:yzin humppatehdas|platform:Windows|position:2|title:Vekkulan Disko|youtube:OPZJYbxEG_A|sceneorg:/parties/2022/assembly_summer22/4k/vekkulan_disko_4k_intro.zip|pouet:91936
+author:wAMMA|platform:Browser|position:3|title:Hessdalen Valley|youtube:4PTTdl_d_zI|sceneorg:/parties/2022/assembly_summer22/4k/hessdalen_valley.zip|pouet:91935
+author:Coma|platform:Windows|position:4|title:Looking for Alice|youtube:j4asgJE-H2o|sceneorg:/parties/2022/assembly_summer22/4k/looking_for_alice_by_kooma.zip|pouet:91933
+author:Fulcrum|platform:Windows|position:5|title:Truck is Jarig 4K|youtube:KuYktqWhznI|sceneorg:/parties/2022/assembly_summer22/4k/truck_is_jarig_4k_by_fulcrum.exe|pouet:91905
+author:Magnetismin Tietokonekerho|platform:Windows|position:6|title:Surrealismus|youtube:XWhqm_zAod0|sceneorg:/parties/2022/assembly_summer22/4k/release.zip|pouet:91919
+author:Akinna|platform:Javascript|position:7|title:aalloilla|youtube:r2Z4nTTfEwE|sceneorg:/parties/2022/assembly_summer22/4k/aalloilla.zip|pouet:93144
+
+:section Dance Music
+
+author:DJ Joge|platform:|position:1|title:Infinite Midnight|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/dj_joge_-_infinite_midnight_assembly_30yo_cut.wav
+author:Leaphion, Plokk|platform:|position:2|title:Throwdown|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/plokk_leaphion_-_throwdown.wav
+author:Rewind|platform:|position:3|title:Zeroes 2 Heroes|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/rewind_-_zeroes2heroes.mp3
+author:Aikapallo|platform:|position:4|title:Portal|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/portal.mp3
+author:Eimink|platform:|position:5|title:Ultrawide|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/eimink_-_ultrawide.mp3
+author:Jarsk1e|platform:|position:6|title:Future House|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/jarsk1e_-_future_house.mp3
+author:Ihanalammas|platform:|position:7|title:Thank You|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/ihanalammas_-_thank_you.mp3
+author:Outron|platform:|position:8|title:Rivers of Mars|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/riversofmarsbyoutron.wav
+author:Yksikkö 303|platform:|position:9|title:Mursu Tutina|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/yksikko_303_-_mursu_tutina.mp3
+author:Turbo Knight|platform:|position:10|title:Karvaperhe|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/turbo_knight_-_karvaperhe.wav
+author:Ephmerix|platform:|position:11|title:Sunset Party Anthem|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/ephmerix_-_sunset_party_anthem.wav
+author:Melodïcore|platform:|position:11|title:Blazing High Voyage|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/blazing_high_voltage_asm22_dance_music.wav
+author:Bamsekarhu|platform:|position:13|title:Kuaken valssi|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/kuaken_valssi.wav
+author:Akiko4|platform:|position:14|title:Tato No Mato|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/dance_music/tato_no_mato-final.wav
+
+:section Demo
+:youtube-playlist PLJO4AtxKJiFMMF4i3w56L-34B5HBVGN6-
+:description <p>Demos are programs that generate multimedia presentations in real time while the demo is running. This separates demos from animations, which are not limited with this real time constraint.</p><p>In Demo competition the only realistic limitation for the demo was the speed of a high-end 2022 PC computer.</p>
+
+author:Adapt|platform:Windows|position:1|title:Shine 'n Flow|youtube:M1kq9VFZpvs|sceneorg:/parties/2022/assembly_summer22/demo/adapt-shine-n-flow.zip|pouet:91916
+author:Dual Crew Shining, mfx|platform:Javascript|position:2|title:Dreams of Neon|youtube:F19P-x1pj7M|sceneorg:/parties/2022/assembly_summer22/demo/mfx_dcs-dreams_of_neon.zip|pouet:91907
+author:Ivory|platform:Windows|position:3|title:E131|youtube:XiyibyNjtxY|pouet:91945
+author:Velocity|platform:Windows|position:4|title:Stranger Stranger|youtube:YheVhs8ABOQ|sceneorg:/parties/2022/assembly_summer22/demo/strangerstranger.zip|pouet:91944
+author:U+1F35E|platform:Linux|position:5|title:Neljän viljan|youtube:Un73ubfRk50|sceneorg:/parties/2022/assembly_summer22/demo/neljan_viljan_v019.zip|pouet:91924
+author:Humane|platform:Windows|position:6|title:Happio|youtube:Q69jP0Gwcyk|sceneorg:/parties/2022/assembly_summer22/demo/happio_by_humane.zip|pouet:91925
+author:Xkikkel7|platform:Windows|position:7|title:LovePainls|youtube:EArnn_AnaPU|sceneorg:/parties/2022/assembly_summer22/demo/lovepainis.zip|pouet:93139
+author:Mikucom|platform:Javascript|position:8|title:YAS Brouhaha!|youtube:1tm7I1mURTw|sceneorg:/parties/2022/assembly_summer22/demo/mikucom-yas-brouhaha.zip|pouet:91971
+author:Tähtituho|platform:Windows|position:9|title:Vaporware|youtube:vDoPrOclyj0|sceneorg:/parties/2022/assembly_summer22/demo/taehtituho_-_vaporware.zip|pouet:91958
+author:Wide Load|platform:Windows|position:10|title:Exhibition|youtube:h9qbb_mYICw|sceneorg:/parties/2022/assembly_summer22/demo/wide_load_-_exhibition.zip|pouet:91918
+author:Spot|platform:Javascript|position:11|title:My First Demo|youtube:2D1wzHUgHYE|sceneorg:/parties/2022/assembly_summer22/demo/my-first-demo-win32-x64.zip|pouet:93140
+author:The Crux|platform:Linux|position:12|title:Malfunction|youtube:Bnkgl5rv3R0|sceneorg:/parties/2022/assembly_summer22/demo/malfunction.tar.gz|pouet:93141
+
+:section Fast Graphics
+
+author:Korpi|platform:|position:1|title:Get Free Oil|sceneorg:/parties/2022/assembly_summer22/fast_graphics/vote_for_roboboy.jpg
+author:Valtteri|platform:|position:2|title:The Only Choice You Got|sceneorg:/parties/2022/assembly_summer22/fast_graphics/f1897f03-aa17-494c-bcd1-28e95688362e.jpeg
+author:Neon|platform:|position:3|title:Vote Here|sceneorg:/parties/2022/assembly_summer22/fast_graphics/vote_here_nosig.png
+author:Darkki|platform:|position:4|title:Vote from the Rooftops|sceneorg:/parties/2022/assembly_summer22/fast_graphics/vote_from_the_rooftops_by_darkki.jpg
+author:Elukka|platform:|position:5|title:Maybe Mayor of the City?|sceneorg:/parties/2022/assembly_summer22/fast_graphics/citymayor.zip
+author:Neotheta|platform:|position:6|title:Entry Nr. 9000|sceneorg:/parties/2022/assembly_summer22/fast_graphics/entry_nr_9000_by_neotheta-nosig.png
+author:Zagupi|platform:|position:7|title:Attractive Female, Artstation Front Page|sceneorg:/parties/2022/assembly_summer22/fast_graphics/fastgfx_2022_kekkonen.png
+author:Maxon|platform:|position:8|title:Shiny|sceneorg:/parties/2022/assembly_summer22/fast_graphics/shiny_by_maxon_hbc.zip
+author:Toggleswitch|platform:|position:9|title:Ääniharava|sceneorg:/parties/2022/assembly_summer22/fast_graphics/assyfast-graphics-mursu1.jpg
+author:Felor|platform:|position:10|title:Magic Vote|sceneorg:/parties/2022/assembly_summer22/fast_graphics/magicvote_by_felor.png
+author:Shinmai|platform:|position:11|title:Approved Candidates|sceneorg:/parties/2022/assembly_summer22/fast_graphics/approvedc_nosig.png
+author:malomaz|platform:|position:12|title:Please See Me|sceneorg:/parties/2022/assembly_summer22/fast_graphics/please_see_me_by_malomaz.zip
+author:Bamsekarhu|platform:|position:13|title:Millenniumin pojan paluun kosto|sceneorg:/parties/2022/assembly_summer22/fast_graphics/voteforme.zip
+author:tArzAn|platform:|position:14|title:Swag for Votes|sceneorg:/parties/2022/assembly_summer22/fast_graphics/swag_for_votes.zip
+author:Kisu|platform:|position:15|title:Meow|sceneorg:/parties/2022/assembly_summer22/fast_graphics/vote_for_me.png
+author:Bonkers|platform:|position:16|title:Fishy Business|sceneorg:/parties/2022/assembly_summer22/fast_graphics/fishy_business_nosig.png
+author:NerdDuck|platform:|position:17|title:Vote Me Bro|sceneorg:/parties/2022/assembly_summer22/fast_graphics/vote_me_bro_nosig.png
+
+:section Fast Music
+
+author:Jaffa|platform:Browser|position:1|title:Fast and Simple|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/jaffa-staticdekadence-fast-and-simple.flac
+author:tArzAn|platform:Browser|position:2|title:Vesikäärmeen lumoaja juoksee seinillä|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/tarzan-taat-vesikaarmeen-lumoaja-juoksee-seinilla.flac
+author:DJ Rakofobia|platform:Browser|position:3|title:Retroneck|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/dj-rakofobia-retroneck.flac
+author:rawArgon|platform:Browser|position:4|title:Journey to the Lair of the Frozen Jelly Bean Empress|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/rawargon-journey-to-the-lair-of-the-frozen-jelly-bean-empress.flac
+author:Ihanalammas|platform:Browser|position:5|title:Voltage 9V|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/ihanalammas-voltage-9v.flac
+author:Elvann|platform:Browser|position:6|title:Lady in Red|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/elvann-lady-in-red.flac
+author:Ephmerix|platform:Browser|position:6|title:Back in the Bunker|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/ephmerix-back-in-the-bunker.flac
+author:Jarsk1e|platform:Browser|position:8|title:Box Full of Beeps|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/jarskie-box-full-of-beeps.flac
+author:Turbo Knight|platform:Browser|position:9|title:Luppakorva sienimetsällä|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/turbo-knightdesirestarz-luppakorva-sienimetsalla.flac
+author:Melodïcore|platform:Browser|position:10|title:Fireflies|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/melod-fireflies.flac
+author:malomaz|platform:Browser|position:11|title:Zenden|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/malomaz-zenden.flac
+author:Tug|platform:Browser|position:12|title:Summer Compogames|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/tug-summer-compogames.flac
+author:Windytan|platform:Browser|position:13|title:Maa, kuu, sinä|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/windytan-maa-kuu-sina.flac
+author:Bamsekarhu|platform:Browser|position:14|title:Liver Box in the Synth Wave Oven|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/bamsekarhu-liver-box-in-the-synth-wave-oven.flac
+author:Flarbo Beepbuup|platform:Browser|position:15|title:Mursun kurnutus|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/flarbo-beeb-buup-mursun-kurnutus.flac
+author:Outron|platform:Browser|position:16|title:Cuculus Canorus|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/outron-cuculus-canorus.flac
+author:Shinmai|platform:Browser|position:17|title:Don't Worry, It's Pretty Short|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/shimcbb-dont-worry-its-pretty-short.flac
+author:Bonkers|platform:Browser|position:18|title:Doomsday Duck's Dystopian Disco|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/bonkers-doomsday-ducks-dystopian-disco.flac
+author:StressedVulture|platform:Browser|position:19|title:Be be be bu bi bu bu bu be bi|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/fast_music/stressedvulture-be-be-be-bu-bi-bu-bu-bu-be-bi.flac
+
+:section Freestyle Graphics
+
+author:Darkki|platform:|position:1|title:Dance Macabre|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/dance_macabre_by_darkki.zip
+author:Partikle|platform:|position:2|title:Next Move|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/nextmove.zip
+author:Duce|platform:Commodore 64|position:3|title:The Gaze of Death|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/thegazeofdeath.zip
+author:Bamsekarhu|platform:|position:4|title:Celephaïs|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/assyt.zip
+author:Elukka|platform:|position:5|title:Twelve|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/twelve_elukka.zip
+author:Tug|platform:|position:6|title:SS Artisan|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/ss_artisan.zip
+author:Neotheta|platform:|position:6|title:Furrywave Overdrive|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/furrywave_overdrive_by_neotheta.zip
+author:Bergamod|platform:|position:8|title:Wildfire Season|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/wilfire_season_unfinished.zip
+author:SirRandom|platform:|position:9|title:White Horrors|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/white_horrors_by_sirrandom.zip
+author:Midi|platform:|position:10|title:Reborn|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/reborn.zip
+author:Neon|platform:|position:11|title:Doomsday Driving|sceneorg:/parties/2022/assembly_summer22/freestyle_graphics/doomsday_driving.zip
+
+:section Game Development
+:youtube-playlist PLJO4AtxKJiFO4AzJ5po6qWFAYlEEl84s5
+
+author:Faeriel, Verkel|platform:Windows|position:1|title:Erinomaiset Eläinnamit Ky (Awesome Animal Candy Factory)|youtube:xfBvseSKv9c|sceneorg:/parties/2022/assembly_summer22/gamedev/awesomeanimalcandyfactory.zip
+author:MAHC|platform:Windows|position:2|title:Massacre at High Castle|youtube:v2ZocsBiRvU|sceneorg:/parties/2022/assembly_summer22/gamedev/mahc1.0.zip
+author:Mielikki|platform:Windows|position:3|title:The Wolfairy|youtube:5NhK7ATz4v4|sceneorg:/parties/2022/assembly_summer22/gamedev/the-wolfairy.zip
+author:Team Clover|platform:Windows|position:4|title:Clover|youtube:l8SoLtnr2VQ|sceneorg:/parties/2022/assembly_summer22/gamedev/clover_assembly_build.zip
+
+:section Listening Music
+
+author:Duality Vile|platform:|position:1|title:Physeter Macrocephalus Stage|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/duality_vile_-_physeter_macrocephalus_stage.wav
+author:Turbo Knight|platform:|position:2|title:Logic Suppressor|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/turbo_knight_-_logic_suppressor_asm_2022_edit.wav
+author:Speedhead|platform:|position:3|title:Spatiosa|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/spatiosa_master_v1.ogg
+author:Midnight Commando|platform:|position:4|title:The Revenge of the Relaxing Saxophone|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/the_revenge_of_the_relaxing_saxophone.mp3
+author:Aikapallo|platform:|position:5|title:Back to Orion|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/back_to_orion.mp3
+author:Ephmerix|platform:|position:6|title:Fast & Curious|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/ephmerix_-_fast__curious_2.wav
+author:Bytenommer|platform:|position:7|title:A Bit Too Much|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/a_bit_too_much.mp3
+author:Tuteju79|platform:|position:8|title:Dum'N'Basic|youtube:eNbKZGrlvkE|sceneorg:/parties/2022/assembly_summer22/listening_music/tuteju79_-_dumnbasic.zip
+author:Euroboy, MjN|platform:|position:9|title:Temppeli|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/mjn_vs_euroboy_-_temppeli.mp3
+author:Ihanalammas|platform:|position:10|title:Suburban Subway|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/ihanalammas_-_suburban_subway.mp3
+author:Juustokumina|platform:|position:11|title:Vihoviimeinen valssi|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/vihoviimeinen_valssi.wav
+author:Laurikka|platform:|position:12|title:Saint Matrons of Swift Timbres|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/saint_matrons_of_swift_timbres.mp3
+author:Zeppe|platform:|position:13|title:Unspeakable Events|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/listening_music/zeppe_-_unspeakable_events.flac
+
+:section Oldskool Demo
+
+author:Hedelmae|platform:MS-Dos|position:1|title:Porridgy|youtube:aHPmCOhwQis&t=10|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/porridgy.zip|pouet:91898
+author:Dekadence|platform:Wonderswan|position:2|title:Vesilintu|youtube:6qItOEf43xQ|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/dkd-vesilintu.zip|pouet:91900
+author:Artline Designs, Extend|platform:Commodore 64|position:3|title:2022: A ZOO Odyssey|youtube:ko92N6JUcM4|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/2022_a_zoo_odyssey.zip|pouet:93071
+author:dA JoRMaS|platform:Commodore 64|position:4|title:Pösö|youtube:r1Cy01i-cm4|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/jrm-poso.zip|pouet:91897
+author:Ananasmurska|platform:Nintendo Game Boy Advance (GBA)|position:5|title:Trainspotting|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/ans-trainspotting.zip|pouet:93136
+author:Senioridevaaja|platform:Commodore 64|position:6|title:1982|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/1982.zip|pouet:91952
+author:Zenon|platform:Amiga OCS/ECS|position:7|title:TV Eye|youtube:QhVrrxmuJhk|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/znntveye.zip|pouet:92030
+author:Magnetismin Tietokonekerho|platform:Commodore 64|position:8|title:Lapin d'importation|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/assy22_final.d64|pouet:93138
+author:Artline Designs, Extend|platform:Commodore 64|position:9|title:Pixeled Years|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/oldskool_demo/pixeled.zip|pouet:93137
+
+:section Photo
+
+author:malomaz|platform:|position:1|title:George of the Jungle|sceneorg:/parties/2022/assembly_summer22/photo/george_of_the_jungle_by_malomaz.zip
+author:Wode|platform:|position:2|title:Sleeping Giant|sceneorg:/parties/2022/assembly_summer22/photo/sleeping_giant.zip
+author:Tug|platform:|position:3|title:Haze|sceneorg:/parties/2022/assembly_summer22/photo/haze_by_tug.zip
+author:iiKster|platform:|position:4|title:Ötökkä|sceneorg:/parties/2022/assembly_summer22/photo/oetoekkae.zip
+author:Manu|platform:|position:5|title:The Perfect Drop|sceneorg:/parties/2022/assembly_summer22/photo/perfect_drop_nosig.jpg
+author:Tethys|platform:|position:6|title:Mission ...completed?|sceneorg:/parties/2022/assembly_summer22/photo/mission_completed.zip
+author:Speedu|platform:|position:7|title:Leds 'n Balls|youtube:TODO
+author:Destroyingpics|platform:|position:8|title:Ascension|sceneorg:/parties/2022/assembly_summer22/photo/ascension_by_destroyingpics.zip
+author:Marvel|platform:|position:9|title:RTX Off|sceneorg:/parties/2022/assembly_summer22/photo/rtx_off_marvel-fc.zip
+author:Florist|platform:|position:10|title:Who Dares Sings|sceneorg:/parties/2022/assembly_summer22/photo/who-dares-sings.jpg
+author:Midi|platform:|position:11|title:Reflection|sceneorg:/parties/2022/assembly_summer22/photo/reflection.zip
+author:Kasper Leppänen|platform:|position:12|title:Bad Fragrance|youtube:TODO
+author:Foxmagon|platform:|position:13|title:Brainstorm Manifestation|sceneorg:/parties/2022/assembly_summer22/photo/brainstorm-manifestation-photo-entry.zip
+author:Emmi Halmela|platform:|position:14|title:Avidikavidi|sceneorg:/parties/2022/assembly_summer22/photo/avidikavidi_emmihalmela.zip
+
+:section Real Wild
+:youtube-playlist PLJO4AtxKJiFPNR1pEkgwcP_CrzWzH6Tej
+
+author:Faemiyah|platform:Custom Hardware|position:1|title:Kerava|youtube:Zuhkrt_5sOA|sceneorg:/parties/2022/assembly_summer22/real_wild/kerava.tar.xz|pouet:91899
+author:Cloaking Novice|platform:Mobile, macOS|position:2|title:Skitmonkeyarna Returnz Again!|youtube:HG40-PrjQSQ|sceneorg:/parties/2022/assembly_summer22/real_wild/cn-skitagain.zip
+author:Florist|platform:PICO-8|position:3|title:Sunrise Glow|youtube:a9cgCTL3OYM|sceneorg:/parties/2022/assembly_summer22/real_wild/sunriseglow.p8.png|pouet:92022
+
+:section Short Film
+
+author:tAAt 2002, tAAt 2022|platform:|position:1|title:LeGorski|youtube:TJAA_0icoE8|sceneorg:/parties/2022/assembly_summer22/short_film/legorski_unfinished_by_taat.mp4|pouet:91902
+author:Zeitball Pictures|platform:|position:2|title:Ultimate Restore|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/short_film/ultimate_restore.mpg
+author:Datafox, Melodïcore|platform:|position:3|title:Vacation|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/short_film/vacation.mp4
+author:StressedVulture|platform:|position:4|title:A Day in My Life|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/short_film/a_day_in_my_life_assembly2022.mp4
+
+:section Tracked Music
+
+author:Bonefish, JosSs, Mygg|platform:|position:1|title:Nasty Ways|youtube:ffjcpviD1kE&t=2634s|sceneorg:/parties/2022/assembly_summer22/tracked_music/mod.nasty_ways.mod
+author:Roz|platform:|position:2|title:Thin Upper Clouds|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/roz-tuc.zip
+author:Aikapallo|platform:|position:3|title:Killer Pigeon|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/killer_pigeon.zip
+author:rawArgon|platform:|position:4|title:Blueberry Plasma Smoothie|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/blueberry.zip
+author:Outron|platform:|position:5|title:Age is Just a Hexadecimal|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/ageisjustahexadecimal.zip
+author:Yzi|platform:|position:6|title:Sanity Complex|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/yzi_sanity_complex.zip
+author:Juippi|platform:|position:7|title:Forcing Constraints|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/fcon2022.zip
+author:Laurikka|platform:|position:8|title:The Jolly Crack Sisters|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/thejollycracksisters.zip
+author:Jarsk1e|platform:|position:9|title:NES & BASS|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/jarsk1e_-_nes__bass.xm
+author:Jaffa|platform:|position:10|title:JunoLinn|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/junolinn.zip
+author:Signal|platform:|position:11|title:Comfy Trip|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/comfytrip.zip
+author:Beathawk|platform:|position:12|title:Assy19 tai ehka 22|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/assy19_tai_ehka_22.zip
+author:la_mettrie|platform:|position:13|title:Resilar Generation|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/la_mettrie_-_resilar_generation.zip
+author:Deetsay|platform:|position:14|title:Flying Through Time|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/flying_through_time.zip
+author:tArzAn|platform:|position:15|title:delaymusic|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/delay2.mod
+author:Anacron|platform:|position:16|title:Surina|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/tracked_music/surina.zip
+
+:section Widescreen
+
+author:Half Bit Cheese|platform:Javascript|position:1|title:HBC-00022: MAYHEM .22|youtube:_DQ0lRIkyMM|sceneorg:/parties/2022/assembly_summer22/widescreen/hbc-00022-mayhem.22.7z|pouet:91939
+author:Astral|platform:Windows|position:2|title:Superwide Reality 3|youtube:N6eSqCT25pI|sceneorg:/parties/2022/assembly_summer22/widescreen/astral_superwidereality3.zip|pouet:91923
+author:Doomsday|platform:Windows|position:3|title:Astronaut|youtube:TkrrA8nIIFI|sceneorg:/parties/2022/assembly_summer22/widescreen/doomsday_astronaut.zip|pouet:91943
+author:Wide Load|platform:Windows|position:4|title:Ultra|youtube:w1gfZO8vrgo|sceneorg:/parties/2022/assembly_summer22/widescreen/wide_load_-_ultra.zip|pouet:91920
+author:Extream|platform:Atari Falcon|position:5|title:Tribute To Oldskool|youtube:spqu_C2ZsnI|sceneorg:/parties/2022/assembly_summer22/widescreen/t2os_2nd_final_h264.mp4|pouet:93143
+author:Adapt|platform:Windows|position:6|title:Something in the Grass|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/widescreen/adaptsomethinginthegrass_v2.zip|pouet:91901
+author:Byproduct|platform:Windows|position:7|title:A Rather Large Text Interface|youtube:rUrQUnjEAAI|sceneorg:/parties/2022/assembly_summer22/widescreen/cmdg.mp4|pouet:91937
+author:Mehu|platform:Linux|position:8|title:Chelidonura|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/widescreen/mehu-chelidonura.tar.gz|pouet:91921
+author:Foxmagon|platform:|position:9|title:Creation of Late Night Snack|youtube:TODO
+author:Maxon|platform:|position:10|title:To the Moooon|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/widescreen/to_the_moooon_by_maxon_hbc.zip
+author:Rewind|platform:|position:11|title:King of the Hill|youtube:TODO|sceneorg:/parties/2022/assembly_summer22/widescreen/king_of_the_hill_nosig.png

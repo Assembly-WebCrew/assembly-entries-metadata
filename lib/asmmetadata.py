@@ -395,11 +395,10 @@ def parse_file(file_handle: typing.TextIO) -> EntryYear:
 
         assert 'section' not in data_dict
         sectioned_key = "%s/%s" % (section["key"], get_entry_key(data_dict))
-        if sectioned_key in known_keys:
-            raise ValueError("Entry %s has a duplicate key" % data_dict)
-        known_keys.add(sectioned_key)
-
-        result.addEntry(section, data_dict)
+        if not sectioned_key in known_keys:
+            # raise ValueError("Entry %s has a duplicate key" % data_dict)
+            known_keys.add(sectioned_key)
+            result.addEntry(section, data_dict)
 
     return result
 

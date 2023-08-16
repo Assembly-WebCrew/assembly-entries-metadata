@@ -34,15 +34,15 @@ def get_image_size(filename: str) -> ImageSize:
 
 def optimize_png(source: str) -> None:
     temporary_png = "%s.zpng" % source
-    run_optipng = False
-    try:
-        subprocess.check_call(
-            ['zopflipng', '-m', '-y', source, temporary_png])
+    run_optipng = True
+    #try:
+    #    subprocess.check_call(
+    #        ['zopflipng', '-m', '-y', source, temporary_png])
     # There are bugs either in GraphicsMagick or zopflipng that can
     # fail zopflipng. Run optipng in that case.
-    except subprocess.CalledProcessError as e:
-        logging.warning("Unable to run zopflipng on %r", source)
-        run_optipng = True
+    #except subprocess.CalledProcessError as e:
+    #    logging.warning("Unable to run zopflipng on %r", source)
+    #    run_optipng = True
     if run_optipng:
         subprocess.check_call(
             ['optipng', '-o7', '-out', temporary_png, source])
@@ -267,10 +267,10 @@ def create_thumbnail(
              + convert_params
              + [temporary_resized_image, target_file]))
 
-    if target_file.endswith(".jpeg"):
-        subprocess.check_call(['jpegoptim', '--strip-all', target_file])
-    if target_file.endswith(".png"):
-        optimize_png(target_file)
+    #if target_file.endswith(".jpeg"):
+    #    subprocess.check_call(['jpegoptim', '--strip-all', target_file])
+    #if target_file.endswith(".png"):
+    #    optimize_png(target_file)
 
 
 def create_thumbnails_tasks(

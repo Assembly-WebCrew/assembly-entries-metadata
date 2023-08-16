@@ -34,7 +34,7 @@ def main(argv: typing.List[str]) -> int:
             "JPEG",
             "-colorspace",
             "sRGB"]
-    multipliers = [1.25, 1.5, 2, 3, 4]
+    multipliers = [1, 3]
     base_height = None
     if not args.no_height:
         base_height = int(args.base_width * 9 / 16)

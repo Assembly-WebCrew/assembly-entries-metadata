@@ -1,0 +1,25 @@
+create data/assembly-2023.txt with magic
+ - copy category descriptions from previous year (partyman, assemblytv, photos)
+ - juggle with ongoing: true, public: false as needed
+ - :partyman-slug short-film... all PMS things are just blast from past
+
+
+./partyman-update-entries.sh
+# After prizes
+python3 lib/partyman-add-positions.py data/assembly-2023.txt
+
+python3 lib/grab-galleriafi.py data/assembly-2023.txt ../scratch/assembly-2023
+./update-youtube-thumbnails.sh
+./update-image-thumbnails.sh
+./make-tarball-export.sh
+
+scp /tmp/assembly-2023.tgz web01:
+
+ssh web01
+cd /zope/assembly-archive/data/2023
+tar xzf ~/assembly-2023.tgz
+sudo systemctl restart assembly-archive
+
+
+note: thumbnails might be broken... Most of different size were removed in few places but probably not all
+(Thumbnails were also much larger than original images...)

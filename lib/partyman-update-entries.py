@@ -20,23 +20,56 @@ def fetch_data(auth_token):
     all_playlists = {}
     for playlist in playlists:
         slug = playlist["competition"]["slug"]
-        entries_request = urllib.request.Request(
-            "https://scene.assembly.org/api/v1/playlist/%s" % slug)
-        entries_request.add_header(*auth_header)
-        entries_result = urllib.request.urlopen(entries_request)
-        entries = json.loads(entries_result.read())
-        all_playlists[slug] = entries
+        print("Fetching", slug)
+        try:
+            entries_request = urllib.request.Request(
+                "https://scene.assembly.org/api/v1/playlist/%s" % slug)
+            entries_request.add_header(*auth_header)
+            entries_result = urllib.request.urlopen(entries_request)
+            entries = json.loads(entries_result.read())
+            all_playlists[slug] = entries
+        except urllib.error.HTTPError:
+            print("Error fetching")
+    print("Fetch done")
+    return all_playlists
+
+def fetch_data2(auth_token):
+    auth_header = ("Authorization", "Token %s" % auth_token)
+    playlists_request = urllib.request.Request("https://scene.assembly.org/api/v1/playlist/")
+    playlists_request.add_header(*auth_header)
+    playlists_result = urllib.request.urlopen(playlists_request)
+    playlists = json.loads(playlists_result.read())
+    all_playlists = {}
+    for playlist in playlists:
+        slug = playlist["competition"]["slug"]
+        print("Fetching", slug)
+        try:
+            entries_request = urllib.request.Request(
+                "https://scene.assembly.org/api/v1/competition/%s" % slug)
+            entries_request.add_header(*auth_header)
+            entries_result = urllib.request.urlopen(entries_request)
+            entries = json.loads(entries_result.read())
+            all_playlists[slug] = entries
+        except urllib.error.HTTPError:
+            print("Error fetching")
+    print("Fetch done")
     return all_playlists
 
 
-def update_section_partyman_data(section, partyman_playlist):
+def update_section_partyman_data(section, partyman_playlist, partyman_competition):
     slug = section.get("partyman-slug")
+    print("Updating", slug)
     competition_meta = None
     entries = None
     competition_meta = partyman_playlist["competition"]
     entries = partyman_playlist["entries"]
     if entries is None:
         raise RuntimeError("Missing partyman data for slug %r" % slug)
+
+    extradata = {}
+    if partyman_competition is not None:
+        for c_entry in partyman_competition["entries"]:
+            extradata[c_entry.get('uuid')] = c_entry
 
     section_entries = []
     for partyman_entry in entries:
@@ -62,8 +95,14 @@ def update_section_partyman_data(section, partyman_playlist):
             author = "author-will-be-revealed-after-compo"
         author = author.replace("|", "-")
         addable_data['author'] = author
+
+        if entry_entry['uuid'] in extradata:
+            extra = extradata[entry_entry.get('uuid')]
+            if extra is not None and extra.get('preview_url') is not None:
+                addable_data['youtube'] = extra.get('preview_url')[17:]
+
         slide_info_list = []
-        if "slide_text" in entry_entry:
+        if "slide_text" in entry_entry and entry_entry.get("slide_text") is not None:
             slide_info_list.append(entry_entry.get("slide_text"))
         if "techniques" in entry_entry:
             slide_info_list.append(entry_entry.get("techniques"))
@@ -79,6 +118,14 @@ def update_section_partyman_data(section, partyman_playlist):
              addable_data["techniques"] = slide_info
         elif "techniques" in addable_data:
             del addable_data["techniques"]
+        if "screenshot" in entry_entry and entry_entry['screenshot'] is not None:
+            base = os.path.basename(entry_entry['screenshot'])
+            fn = slug + "/" + base
+            target = "../scratch/assembly-2023/" + fn
+            if not os.path.exists(target):
+                os.makedirs(os.path.dirname(target), 0o700, True)
+                urllib.request.urlretrieve("https://scene.assembly.org/" + entry_entry['screenshot'], target)
+            addable_data['image-file'] = fn
         # preview_youtube_url = partyman_entry.get("preview", "")
         # youtube_id = None
         # if preview_youtube_url:
@@ -92,16 +139,24 @@ def update_section_partyman_data(section, partyman_playlist):
 
 def fetch_update_data(metadata_file, api_token: str):
     playlists = fetch_data(api_token)
+    competitions = fetch_data2(api_token)
     metadata = asmmetadata.parse_file(metadata_file)
 
     metadata_partyman_slugs = []
     for section in metadata.sections:
+        print("Processing ", section)
         slug = section.get("partyman-slug")
+        print("Slug ", slug)
         if slug is None:
             continue
         if slug not in playlists:
             continue
-        update_section_partyman_data(section, playlists[slug])
+        #if slug not in competitions:
+        #    continue
+        cc = None
+        if slug in competitions:
+            cc = competitions[slug]
+        update_section_partyman_data(section, playlists[slug], cc)
 
     with open(metadata_file.name, "w") as fp:
         asmmetadata.print_metadata(fp, metadata)

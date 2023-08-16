@@ -80,9 +80,9 @@ def update_section_partyman_data(section, partyman_results):
         author = author.replace("|", "-")
         addable_data['author'] = author
         slide_info_list = []
-        if "slide_text" in entry_entry:
+        if "slide_text" in entry_entry and entry_entry['slide_text'] is not None:
             slide_info_list.append(entry_entry.get("slide_text"))
-        if "techniques" in entry_entry:
+        if "techniques" in entry_entry and entry_entry['techniques'] is not None:
             slide_info_list.append(entry_entry.get("techniques"))
         slide_info = "\n".join(slide_info_list)
         if slide_info:

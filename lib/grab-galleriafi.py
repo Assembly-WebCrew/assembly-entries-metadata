@@ -6,6 +6,7 @@ import logging
 import os
 import os.path
 import requests
+from pprint import pprint
 
 parser = argparse.ArgumentParser()
 parser.add_argument("datafile")
@@ -57,7 +58,7 @@ for section in entry_data.sections:
                     "https://assembly.galleria.fi%s?img=full" % galleriafi_path)
                 print("Downloading %s" % download_url)
                 tmp_file = image_path + ".tmp"
-                image_response = requests.get(download_url)
+                image_response = requests.get(download_url, headers={'user-agent': 'my-app/0.0.1'})
                 data = image_response.content
                 if len(data) == 0:
                     raise RuntimeError(

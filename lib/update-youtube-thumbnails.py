@@ -99,7 +99,7 @@ def main(argv):
                 link_to_missing_thumbnail("png", target_orig_png)
         if not os.path.isfile(target_orig_png):
             subprocess.call(['convert', target_orig, target_orig_png])
-            archivethumbnails.optimize_png(target_orig_png)
+            #archivethumbnails.optimize_png(target_orig_png)
 
         create_thumbnail_calls.extend(
             archivethumbnails.create_thumbnails_tasks(
